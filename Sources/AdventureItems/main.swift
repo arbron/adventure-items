@@ -7,7 +7,7 @@ import Plot
 struct AdventureItems: Website {
     enum SectionID: String, WebsiteSectionID {
         // Add the sections that you want your website to contain here:
-        case posts
+        case adventures
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
@@ -29,7 +29,7 @@ let adventures = try decoder.decode([Adventure].self, from: Data(contentsOf: adv
 let adventureList: [Publish.Item<AdventureItems>] = adventures.map { adventure in
     Publish.Item(
         path: Path(adventure.code.lowercased()),
-        sectionID: AdventureItems.SectionID.posts,
+        sectionID: AdventureItems.SectionID.adventures,
         metadata: AdventureItems.ItemMetadata(),
         tags: [],
         content: Content(
@@ -40,10 +40,21 @@ let adventureList: [Publish.Item<AdventureItems>] = adventures.map { adventure i
 }
 
 // This will generate your website using the built-in Foundation theme:
-try AdventureItems().publish(
-    withTheme: .foundation,
-    additionalSteps: [
-        .addItems(in: adventureList),
-        .sortItems(by: \.content.title)
-    ]
-)
+try AdventureItems().publish(using: [
+    .addMarkdownFiles(),
+    .copyResources(),
+    .addItems(in: adventureList),
+    .sortItems(by: \.content.title),
+    .generateHTML(withTheme: .foundation),
+    .generateRSSFeed(including: [.adventures]),
+    .generateSiteMap(),
+    .installPlugin(.prependAllPaths("adventure-items/"))
+])
+//try AdventureItems().publish(
+//    withTheme: .foundation,
+//    additionalSteps: [
+//        .addItems(in: adventureList),
+//        .sortItems(by: \.content.title),
+//        .installPlugin(.prependAllPaths("adventure-items/"))
+//    ]
+//)

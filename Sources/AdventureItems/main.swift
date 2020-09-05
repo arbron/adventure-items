@@ -1,4 +1,5 @@
 import Foundation
+import Files
 import Publish
 import Plot
 
@@ -15,11 +16,34 @@ struct AdventureItems: Website {
 
     // Update these properties to configure your website:
     var url = URL(string: "https://your-website-url.com")!
-    var name = "AdventureItems"
-    var description = "A description of AdventureItems"
+    var name = "Adventure Items"
+    var description = "Find a D&D adventure to give your character the perfect piece of swag."
     var language: Language { .english }
     var imagePath: Path? { nil }
 }
 
+let adventuresFile = try File.packageFile(path: "Resources/adventures.json")
+let decoder = JSONDecoder()
+let adventures = try decoder.decode([Adventure].self, from: Data(contentsOf: adventuresFile.url))
+
+let adventureList: [Publish.Item<AdventureItems>] = adventures.map { adventure in
+    Publish.Item(
+        path: Path(adventure.code.lowercased()),
+        sectionID: AdventureItems.SectionID.posts,
+        metadata: AdventureItems.ItemMetadata(),
+        tags: [],
+        content: Content(
+            title: "\(adventure.code) - \(adventure.name)",
+            body: "\(adventure.code)"
+        )
+    )
+}
+
 // This will generate your website using the built-in Foundation theme:
-try AdventureItems().publish(withTheme: .foundation)
+try AdventureItems().publish(
+    withTheme: .foundation,
+    additionalSteps: [
+        .addItems(in: adventureList),
+        .sortItems(by: \.content.title)
+    ]
+)

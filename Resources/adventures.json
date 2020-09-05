@@ -1,21 +1,22 @@
 [
   {
-    "adventureCode": "CCC-GSP01-01",
-    "adventureName": "A Dragon's Breath",
-    "magicItems": [
+    "code": "CCC-GSP01-01",
+    "name": "A Dragon's Breath",
+    "items": [
       {
         "name": "Dragon's Lullaby (Instrument of the Bards - Mac-Fuirmidh cittern)",
         "rarity": "uncommon",
-        "consumable": false
+        "consumable": false,
+        "count": null
       },
       {
         "name": "Scroll of Comprehend Languages",
         "rarity": "common",
-        "consumable": true
+        "consumable": true,
+        "count": 1
       }
     ],
     "spellbooks": [],
-    "mundaneItems": [],
     "storyAwards": [
       {
         "name": "Five-Leaf Clover Initiate",
@@ -24,17 +25,17 @@
     ]
   },
   {
-    "adventureCode": "CCC-GSP01-02",
-    "adventureName": "Brotherhood",
-    "magicItems": [
+    "code": "CCC-GSP01-02",
+    "name": "Brotherhood",
+    "items": [
       {
         "name": "Pipe of Smoke Monsters",
         "rarity": "common",
-        "consumable": false
+        "consumable": false,
+        "count": null
       }
     ],
     "spellbooks": [],
-    "mundaneItems": [],
     "storyAwards": [
       {
         "name": "Five-Leaf Clover Initiate",
@@ -47,17 +48,17 @@
     ]
   },
   {
-    "adventureCode": "CCC-GSP01-03",
-    "adventureName": "Tainted Love",
-    "magicItems": [
+    "code": "CCC-GSP01-03",
+    "name": "Tainted Love",
+    "items": [
       {
         "name": "Cloak of Many Fashions",
         "rarity": "common",
-        "consumable": false
+        "consumable": false,
+        "count": null
       }
     ],
     "spellbooks": [],
-    "mundaneItems": [],
     "storyAwards": [
       {
         "name": "In Search of Her",
@@ -70,52 +71,55 @@
     ]
   },
   {
-    "adventureCode": "DDAL00-04",
-    "adventureName": "Winter's Flame",
-    "magicItems": [
+    "code": "DDAL00-04",
+    "name": "Winter's Flame",
+    "items": [
       {
         "name": "Chultan Midwinter Candle (Candle of the Deep)",
         "rarity": "common",
-        "consumable": false
+        "consumable": false,
+        "count": null
       },
       {
         "name": "Flurried Furs (Smoldering Armor)",
         "rarity": "common",
-        "consumable": false
+        "consumable": false,
+        "count": null
       }
     ],
     "spellbooks": [],
-    "mundaneItems": [],
     "storyAwards": []
   },
   {
-    "adventureCode": "DDAL05-01",
-    "adventureName": "Treasure of the Broken Hoard",
-    "magicItems": [
+    "code": "DDAL05-01",
+    "name": "Treasure of the Broken Hoard",
+    "items": [
       {
         "name": "Scroll of Comprehend Languages",
         "rarity": "common",
-        "consumable": true
+        "consumable": true,
+        "count": 1
       },
       {
         "name": "Scholl of Disguise Self",
         "rarity": "common",
-        "consumable": true
-      }
-    ],
-    "spellbooks": [],
-    "mundaneItems": [
+        "consumable": true,
+        "count": 1
+      },
       {
         "name": "Alchemist's fire (flask)",
-        "count": 1,
-        "consumable": true
+        "rarity": "common",
+        "consumable": true,
+        "count": 1
       },
       {
         "name": "Potion of Healing",
-        "count": 3,
-        "consumable": true
+        "rarity": "common",
+        "consumable": true,
+        "count": 3
       }
     ],
+    "spellbooks": [],
     "storyAwards": [
       {
         "name": "Blooddrinker the Bear",
@@ -140,22 +144,23 @@
     ]
   },
   {
-    "adventureCode": "DDAL05-03",
-    "adventureName": "Uninvited Guests",
-    "magicItems": [
+    "code": "DDAL05-03",
+    "name": "Uninvited Guests",
+    "items": [
       {
         "name": "Brooch of Shielding",
         "rarity": "uncommon",
-        "consumable": false
+        "consumable": false,
+        "count": null
       },
       {
         "name": "Potion of Healing",
         "rarity": "common",
-        "consumable": true
+        "consumable": true,
+        "count": 1
       }
     ],
     "spellbooks": [],
-    "mundaneItems": [],
     "storyAwards": [
       {
         "name": "A Giant Challenge",
@@ -172,93 +177,60 @@
     ]
   },
   {
-    "adventureCode": "DDAL06-02",
-    "adventureName": "The Redemption of Kelvan",
-    "magicItems": [
+    "code": "DDAL06-02",
+    "name": "The Redemption of Kelvan",
+    "items": [
       {
         "name": "Boots of Speed",
         "rarity": "rare",
-        "consumable": false
+        "consumable": false,
+        "count": null
       },
       {
         "name": "Potion of Diminution",
         "rarity": "rare",
-        "consumable": true
+        "consumable": true,
+        "count": 1
       },
       {
         "name": "Potion of Greater Healing",
         "rarity": "uncommon",
-        "consumable": true
+        "consumable": true,
+        "count": 1
       },
     ],
     "spellbooks": [
       {
         "name": "Shadow Tome",
         "spells": [
-          "bestow curse", "blight", "blindness/deafness", "comprehend languages",
-          "darkness", "darkvision", "dispel magic", "fear", "Evard's black tentacles",
-          "find familiar", "witch bolt"
+            { "name": "bestow curse" },
+            { "name": "blight" },
+            { "name": "blindness/deafness" },
+            { "name": "comprehend languages" },
+            { "name": "darkness" },
+            { "name": "darkvision" },
+            { "name": "dispel magic" },
+            { "name": "fear" },
+            { "name": "Evard's black tentacles" },
+            { "name": "find familiar" },
+            { "name": "witch bolt" }
         ]
       }
     ],
-    "mundaneItems": [],
     "storyAwards": []
   },
   {
-    "adventureCode": "DDHC-LMOP",
-    "adventureName": "Lost Mine of Phandelver",
-    "magicItems": [
-      {
-        "name": "",
-        "rarity": "",
-        "consumable": false
-      }
-    ],
+    "code": "DDHC-LMOP",
+    "name": "Lost Mine of Phandelver",
+    "items": [],
     "spellbooks": [],
-    "mundaneItems": [
-      {
-        "name": "",
-        "count": 1,
-        "consumable": true
-      }
-    ],
-    "storyAwards": [
-      {
-        "name": "",
-        "description": ""
-      }
-    ]
+    "storyAwards": []
   },
   {
-    "adventureCode": "DDHC-WDH-03",
-    "adventureName": "Blue Alley",
-    "magicItems": [
-      {
-        "name": "",
-        "rarity": "",
-        "consumable": false
-      }
-    ],
-    "spellbooks": [
-      {
-        "name": "",
-        "spells": [
-          ""
-        ]
-      }
-    ],
-    "mundaneItems": [
-      {
-        "name": "",
-        "count": 1,
-        "consumable": true
-      }
-    ],
-    "storyAwards": [
-      {
-        "name": "",
-        "description": ""
-      }
-    ]
+    "code": "DDHC-WDH-03",
+    "name": "Blue Alley",
+    "items": [],
+    "spellbooks": [],
+    "storyAwards": []
   }
 ]

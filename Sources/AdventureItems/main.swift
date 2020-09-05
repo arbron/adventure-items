@@ -15,7 +15,7 @@ struct AdventureItems: Website {
     }
 
     // Update these properties to configure your website:
-    var url = URL(string: "https://your-website-url.com")!
+    var url = URL(string: "https://arbron.github.io/adventure-items/")!
     var name = "Adventure Items"
     var description = "Find a D&D adventure to give your character the perfect piece of swag."
     var language: Language { .english }

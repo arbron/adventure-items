@@ -1,0 +1,264 @@
+[
+  {
+    "adventureCode": "CCC-GSP01-01",
+    "adventureName": "A Dragon's Breath",
+    "magicItems": [
+      {
+        "name": "Dragon's Lullaby (Instrument of the Bards - Mac-Fuirmidh cittern)",
+        "rarity": "uncommon",
+        "consumable": false
+      },
+      {
+        "name": "Scroll of Comprehend Languages",
+        "rarity": "common",
+        "consumable": true
+      }
+    ],
+    "spellbooks": [],
+    "mundaneItems": [],
+    "storyAwards": [
+      {
+        "name": "Five-Leaf Clover Initiate",
+        "description": "A senior member of the Five Leaf Clover has taken a liking of you and made you a junior member of their adventuring group. A magical tattoo of a five-leaf clover has been permanently placed at the back of your right hand. When you put your will to it, harmless green flame erupts from the tattoo and engulfs your hand."
+      }
+    ]
+  },
+  {
+    "adventureCode": "CCC-GSP01-02",
+    "adventureName": "Brotherhood",
+    "magicItems": [
+      {
+        "name": "Pipe of Smoke Monsters",
+        "rarity": "common",
+        "consumable": false
+      }
+    ],
+    "spellbooks": [],
+    "mundaneItems": [],
+    "storyAwards": [
+      {
+        "name": "Five-Leaf Clover Initiate",
+        "description": "A senior member of the Five Leaf Clover has taken a liking of you and made you a junior member of their adventuring group. A magical tattoo of a five-leaf clover has been permanently placed at the back of your right hand. When you put your will to it, harmless green flame erupts from the tattoo and engulfs your hand."
+      },
+      {
+        "name": "Doomguide of Kelemvor",
+        "description": "You are now an official priest of Kelemvor, also known as a Doomguide. You have received a set of smoky grey priestly vestments with the symbol of Kelemvor and a cowled cloak with a white domino mask that emanates harmless blue flame whenever you wear it. You also gain the following ideal, \"Death is but part of life: fear it not, evade it not, and view it not as evil.\""
+      }
+    ]
+  },
+  {
+    "adventureCode": "CCC-GSP01-03",
+    "adventureName": "Tainted Love",
+    "magicItems": [
+      {
+        "name": "Cloak of Many Fashions",
+        "rarity": "common",
+        "consumable": false
+      }
+    ],
+    "spellbooks": [],
+    "mundaneItems": [],
+    "storyAwards": [
+      {
+        "name": "In Search of Her",
+        "description": "You have found and read the journal of Tho’Guroh, containing information on how to find a hag’s dark lair. Whenever you succeed in finding a hag’s lair, a trail of thin mist appears, leading up to the location you are looking for. While the mist is present, you hear whispers of a very convincing old woman telling you to get \"samples\" from your party members, like a strand of hair, spit, dead skin, fingernails, etc. Remove this story award when you meet Jenny Greenteeth."
+      },
+      {
+        "name": "Clingy Jelly!",
+        "description": "You spared the life of an oblex spawn. As a token of appreciation, it separates a part of itself and places a thin translucent layer of star-shaped green goo on your forehead. Whenever you are in combat, the goo stretches and changes shape, becoming a horn. Whenever you die, its shape changes into a small, flat skull. You can remove this story award by casting *lesser restoration* on yourself."
+      }
+    ]
+  },
+  {
+    "adventureCode": "DDAL00-04",
+    "adventureName": "Winter's Flame",
+    "magicItems": [
+      {
+        "name": "Chultan Midwinter Candle (Candle of the Deep)",
+        "rarity": "common",
+        "consumable": false
+      },
+      {
+        "name": "Flurried Furs (Smoldering Armor)",
+        "rarity": "common",
+        "consumable": false
+      }
+    ],
+    "spellbooks": [],
+    "mundaneItems": [],
+    "storyAwards": []
+  },
+  {
+    "adventureCode": "DDAL05-01",
+    "adventureName": "Treasure of the Broken Hoard",
+    "magicItems": [
+      {
+        "name": "Scroll of Comprehend Languages",
+        "rarity": "common",
+        "consumable": true
+      },
+      {
+        "name": "Scholl of Disguise Self",
+        "rarity": "common",
+        "consumable": true
+      }
+    ],
+    "spellbooks": [],
+    "mundaneItems": [
+      {
+        "name": "Alchemist's fire (flask)",
+        "count": 1,
+        "consumable": true
+      },
+      {
+        "name": "Potion of Healing",
+        "count": 3,
+        "consumable": true
+      }
+    ],
+    "storyAwards": [
+      {
+        "name": "Blooddrinker the Bear",
+        "description": "Through care and patience, you now have a bear pet. She is, however, the size of a small housecat. She cannot attack, defend, distract, aid, or otherwise play any role in combat. She can be taught to do simple tricks if treated well and if you spend 20 down time days training her."
+      },
+      {
+        "name": "Friend of Prrrt",
+        "description": "You helped alleviate the suffering of a galeb duhr named Prrrt. It tells others of its kind of your kindness, garnering you a positive reputation among elemental earth creatures. As an action, you can attempt a DC 10 Charisma (Persuasion) check to convince earth creatures of the elemental type not to attack you. As long as you do not attack the creature or other elemental earth creatures, it targets others. This, however, does not protect your allies. You lose this story aware if you attack or otherwise harm an elemental earth creature."
+      },
+      {
+        "name": "Victim of Greed",
+        "description": "You were stung by greed, and your soul has been infected by the deadly sin. When you’re in the presence of great wealth (in the form of coins or gems/jewelry worth over 1,000 gp), you are stunned until the end of your first turn, as your mind reels at such great wealth. This can be removed with a *remove curse*."
+      },
+      {
+        "name": "Hated by Giants",
+        "description": "You unwisely removed one of the sacred plates of Annam from his shrine. You are now cursed. Giants who see you know that you have offended the greatest of their gods, and they target you before your allies in a fight. They also have advantage on attacks against you. This can be removed with a remove curse. You also have possession of one or more plates, but no one seems to want to buy them from you."
+      },
+      {
+        "name": "Friend of Kraddokk",
+        "description": "You talked with the storm giant Kraddokk and did not desecrate the shrine of Annam. He tells his friends about your interaction with him. This friendship might bear fruit at a later date."
+      }
+    ]
+  },
+  {
+    "adventureCode": "DDAL05-03",
+    "adventureName": "Uninvited Guests",
+    "magicItems": [
+      {
+        "name": "Brooch of Shielding",
+        "rarity": "uncommon",
+        "consumable": false
+      },
+      {
+        "name": "Potion of Healing",
+        "rarity": "common",
+        "consumable": true
+      }
+    ],
+    "spellbooks": [],
+    "mundaneItems": [],
+    "storyAwards": [
+      {
+        "name": "A Giant Challenge",
+        "description": "You have earned the respect of Prince Thornacious. He challenges you to befriend a giant, as he has done with you, (*Huge() sized humanoid), without using charm effects. If you do, (DMs judgement), you may spend five downtime days to return to Thornacious, who uses Heart Sight to tell if you are true of heart. He bestows upon you the title: Adoness (Peacekeeper). This title grants you advantage on Charisma ability checks with good aligned fey."
+      },
+      {
+        "name": "Defenders of Parnast",
+        "description": "You have repelled the enemies of Parnast and instilled confidence in the people. You’ll never sleep in a barn again while in Parnast. Everyone opens their doors to you."
+      },
+      {
+        "name": "Glory Before Goodwill",
+        "description": "You chose to put personal glory above saving a villager of Parnast that was in need. Until you spend 10 downtime days repairing your reputation with the village, you have disadvantage on all Charisma ability checks and are charged 50% higher rate for all goods and services, except at the Golden Tankard, where Raggnar understands that tough decisions must occasionally be made."
+      }
+    ]
+  },
+  {
+    "adventureCode": "DDAL06-02",
+    "adventureName": "The Redemption of Kelvan",
+    "magicItems": [
+      {
+        "name": "Boots of Speed",
+        "rarity": "rare",
+        "consumable": false
+      },
+      {
+        "name": "Potion of Diminution",
+        "rarity": "rare",
+        "consumable": true
+      },
+      {
+        "name": "Potion of Greater Healing",
+        "rarity": "uncommon",
+        "consumable": true
+      },
+    ],
+    "spellbooks": [
+      {
+        "name": "Shadow Tome",
+        "spells": [
+          "bestow curse", "blight", "blindness/deafness", "comprehend languages",
+          "darkness", "darkvision", "dispel magic", "fear", "Evard's black tentacles",
+          "find familiar", "witch bolt"
+        ]
+      }
+    ],
+    "mundaneItems": [],
+    "storyAwards": []
+  },
+  {
+    "adventureCode": "DDHC-LMOP",
+    "adventureName": "Lost Mine of Phandelver",
+    "magicItems": [
+      {
+        "name": "",
+        "rarity": "",
+        "consumable": false
+      }
+    ],
+    "spellbooks": [],
+    "mundaneItems": [
+      {
+        "name": "",
+        "count": 1,
+        "consumable": true
+      }
+    ],
+    "storyAwards": [
+      {
+        "name": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "adventureCode": "DDHC-WDH-03",
+    "adventureName": "Blue Alley",
+    "magicItems": [
+      {
+        "name": "",
+        "rarity": "",
+        "consumable": false
+      }
+    ],
+    "spellbooks": [
+      {
+        "name": "",
+        "spells": [
+          ""
+        ]
+      }
+    ],
+    "mundaneItems": [
+      {
+        "name": "",
+        "count": 1,
+        "consumable": true
+      }
+    ],
+    "storyAwards": [
+      {
+        "name": "",
+        "description": ""
+      }
+    ]
+  }
+]

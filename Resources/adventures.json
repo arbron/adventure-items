@@ -2,7 +2,7 @@
   {
     "code": "CCC-GSP01-01",
     "name": "A Dragon's Breath",
-    "description": "",
+    "description": "Ragvala, also known as the \"Coinmaker\", is an ancient gold dragon who wishes to mend his broken friendship with his old adventuring buddy. Recently, he has heard rumors that his friend’s old magical instrument has resurfaced in the Quivering Forest. Unable to change shape anymore, the dragon needs the help of skilled adventurers who can join him on his quest.",
     "released": null,
     "items": [
       {
@@ -12,7 +12,7 @@
         "count": null
       },
       {
-        "name": "Scroll of Comprehend Languages",
+        "name": "Spell Scroll of Comprehend Languages",
         "rarity": "common",
         "consumable": true,
         "count": 1
@@ -29,7 +29,7 @@
   {
     "code": "CCC-GSP01-02",
     "name": "Brotherhood",
-    "description": "",
+    "description": "Ragvala, an ancient gold dragon and the founder of the Five-Leaf Clover is dead. A funeral ceremony will be held in 3 days before he becomes one with the earth. Rokstasha, his friend and a djinni has asked the help of the adventurers to find the other members of the Five-Leaf Clover if they are still alive and have them attend the ceremony. Don’t be late! Part 2 of the *Clover Group Series*.",
     "released": null,
     "items": [
       {
@@ -54,7 +54,7 @@
   {
     "code": "CCC-GSP01-03",
     "name": "Tainted Love",
-    "description": "",
+    "description": "Rizgrim, the Great Doomguide of Kelemvor has discovered that the land within the Quivering Forest near the burial site of her friend is slowly being consumed by dark magic. The adventurers have been asked to find the source and eliminate it as soon as possible. Failing on this task could turn her dead friend into a dracolich. Nobody wants that! Right?! Part 3 of the *Clover Group Series*.",
     "released": null,
     "items": [
       {
@@ -79,7 +79,7 @@
   {
     "code": "DDAL00-04",
     "name": "Winter's Flame",
-    "description": "",
+    "description": "This year’s Midwinter holiday efforts have been met with unusual obstacles: small stockpiles rummaged through, foods spoiling, ale casks leaking, festive clothes torn up, and crucial pembelon fruits missing. With schedules and deadlines rigid, any bigger bumps in the road might result in disaster. Who would want to keep the people of Chult from celebrating this long-revered holiday?",
     "released": null,
     "items": [
       {
@@ -99,84 +99,11 @@
     "storyAwards": []
   },
   {
-    "code": "DDAL05-01",
-    "name": "Treasure of the Broken Hoard",
-    "description": "",
-    "released": null,
-    "items": [
-      {
-        "name": "Scroll of Comprehend Languages",
-        "rarity": "common",
-        "consumable": true,
-        "count": 1
-      },
-      {
-        "name": "Scholl of Disguise Self",
-        "rarity": "common",
-        "consumable": true,
-        "count": 1
-      },
-      {
-        "name": "Alchemist's fire (flask)",
-        "rarity": "common",
-        "consumable": true,
-        "count": 1
-      },
-      {
-        "name": "Potion of Healing",
-        "rarity": "uncommon",
-        "consumable": true,
-        "count": 3
-      }
-    ],
-    "spellbooks": [],
-    "storyAwards": [
-      {
-        "name": "Blooddrinker the Bear",
-        "description": "Through care and patience, you now have a bear pet. She is, however, the size of a small housecat. She cannot attack, defend, distract, aid, or otherwise play any role in combat. She can be taught to do simple tricks if treated well and if you spend 20 down time days training her."
-      },
-      {
-        "name": "Friend of Prrrt",
-        "description": "You helped alleviate the suffering of a galeb duhr named Prrrt. It tells others of its kind of your kindness, garnering you a positive reputation among elemental earth creatures. As an action, you can attempt a DC 10 Charisma (Persuasion) check to convince earth creatures of the elemental type not to attack you. As long as you do not attack the creature or other elemental earth creatures, it targets others. This, however, does not protect your allies. You lose this story aware if you attack or otherwise harm an elemental earth creature."
-      },
-      {
-        "name": "Victim of Greed",
-        "description": "You were stung by greed, and your soul has been infected by the deadly sin. When you’re in the presence of great wealth (in the form of coins or gems/jewelry worth over 1,000 gp), you are stunned until the end of your first turn, as your mind reels at such great wealth. This can be removed with a *remove curse*."
-      },
-      {
-        "name": "Hated by Giants",
-        "description": "You unwisely removed one of the sacred plates of Annam from his shrine. You are now cursed. Giants who see you know that you have offended the greatest of their gods, and they target you before your allies in a fight. They also have advantage on attacks against you. This can be removed with a *remove curse*. You also have possession of one or more plates, but no one seems to want to buy them from you."
-      },
-      {
-        "name": "Friend of Kraddokk",
-        "description": "You talked with the storm giant Kraddokk and did not desecrate the shrine of Annam. He tells his friends about your interaction with him. This friendship might bear fruit at a later date."
-      }
-    ]
-  },
-  {
     "code": "DDEX03-01",
     "name": "Harried in Hillsfar",
     "description": "In the village of Elventree, near the oppressive city of Hillsfar, a recent string of strange occurrences has the locals on edge. The factions have gathered here on the borders of the forest of Cormanthor to determine what’s happening. Is this the machinations of Hillsfar, or something more? Five one-hour mini-adventures for 1st–2nd level characters.",
     "released": "2015-07-30",
     "items": [
-      {
-        "name": "Potion of Healing",
-        "rarity": "uncommon",
-        "consumable": true,
-        "count": 1
-      },
-      {
-        "name": "Alchemist's fire (flask)",
-        "rarity": "common",
-        "consumable": true,
-        "count": 1
-      },
-      {
-        "name": "Potion of Fire Breath",
-        "rarity": "uncommon",
-        "consumable": true,
-        "count": 1
-      },
       {
         "name": "Acid (vial)",
         "rarity": "common",
@@ -184,13 +111,7 @@
         "count": 2
       },
       {
-        "name": "Scroll of Comprehend Languages",
-        "rarity": "common",
-        "consumable": true,
-        "count": 1
-      },
-      {
-        "name": "Scroll of False Life",
+        "name": "Alchemist's fire (flask)",
         "rarity": "common",
         "consumable": true,
         "count": 1
@@ -200,6 +121,30 @@
         "rarity": "common",
         "consumable": true,
         "count": 4
+      },
+      {
+        "name": "Potion of Fire Breath",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Potion of Healing",
+        "rarity": "common",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Comprehend Languages",
+        "rarity": "common",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of False Life",
+        "rarity": "common",
+        "consumable": true,
+        "count": 1
       }
     ],
     "spellbooks": [],
@@ -212,22 +157,22 @@
     "released": "2015-07-30",
     "items": [
       {
-        "name": "Potion of Healing",
-        "rarity": "uncommon",
-        "consumable": true,
-        "count": 1
-      },
-      {
-        "name": "Scroll of Dimension Door",
-        "rarity": "uncommon",
-        "consumable": true,
-        "count": 1
-      },
-      {
-        "name": "+1 Rapier",
+        "name": "Rapier, +1",
         "rarity": "uncommon",
         "consumable": false,
         "count": null
+      },
+      {
+        "name": "Potion of Healing",
+        "rarity": "common",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Dimension Door",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
       }
     ],
     "spellbooks": [],
@@ -292,6 +237,18 @@
         "count": 4
       },
       {
+        "name": "Potion of Heroism",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Potion of Invulnerability",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
         "name": "Potion of Resistance",
         "rarity": "uncommon",
         "consumable": true,
@@ -304,55 +261,43 @@
         "count": 4
       },
       {
-        "name": "Potion of Invulnerability",
+        "name": "Spell Scroll of Cone of Cold",
         "rarity": "rare",
         "consumable": true,
         "count": 1
       },
       {
-        "name": "Potion of Heroism",
+        "name": "Spell Scroll of Fire Shield",
         "rarity": "rare",
         "consumable": true,
         "count": 1
       },
       {
-        "name": "Scroll of Cone of Cold",
-        "rarity": "rare",
-        "consumable": true,
-        "count": 1
-      },
-      {
-        "name": "Scroll of Fire Shield",
-        "rarity": "rare",
-        "consumable": true,
-        "count": 1
-      },
-      {
-        "name": "Scroll of Globe of Invulnerability",
+        "name": "Spell Scroll of Globe of Invulnerability",
         "rarity": "veryRare",
         "consumable": true,
         "count": 1
       },
       {
-        "name": "Scroll of Hold Monster",
+        "name": "Spell Scroll of Hold Monster",
         "rarity": "rare",
         "consumable": true,
         "count": 1
       },
       {
-        "name": "Scroll of Prismatic Spray",
+        "name": "Spell Scroll of Prismatic Spray",
         "rarity": "veryRare",
         "consumable": true,
         "count": 1
       },
       {
-        "name": "Scroll of Stoneskin",
+        "name": "Spell Scroll of Stoneskin",
         "rarity": "rare",
         "consumable": true,
         "count": 1
       },
       {
-        "name": "Scroll of True Seeing",
+        "name": "Spell Scroll of True Seeing",
         "rarity": "veryRare",
         "consumable": true,
         "count": 1
@@ -394,9 +339,542 @@
     ]
   },
   {
+    "code": "DDEX03-05",
+    "name": "Bane of the Tradeways",
+    "description": "Times are hard in the Hillsfar countryside, especially for those of non-human ancestry. Unscrupulous merchants in league with the hated Red Plumes bleed local farmers and artisans dry. Perhaps some of those loot-laden caravans coming and going from Hillsfar could use a bit of liberation? A four-hour adventure for 1st-4th level characters.",
+    "released": "2015-09-01",
+    "items": [
+      {
+        "name": "Shield, +1",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Potion of Healing",
+        "rarity": "common",
+        "consumable": true,
+        "count": 2
+      },
+      {
+        "name": "Potion of Heroism",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": [
+      {
+        "name": "Oh, What a Slaver You'll Make",
+        "description": "Word has spread about your involvement in the sale of captive Hillfarians to a group of duergar slavers. For so long as you possess this story reward, any Charisma (Persuasion) checks you make involving the commonfolk of the Hillsfar area are made with disadvantage. Conversely, any Charisma (Intimidation) checks you make with the same are made with advantage."
+      },
+      {
+        "name": "Boon of Bitterwood",
+        "description": "You have aided the farmers of the Hillsfar region by revealing and putting an end to a slave trade network operated by some corrupt Red Plume soldiers. Anytime you enter a tavern in the Moonsea region, excluding Hillsfar proper, roll a d20. On a roll of 15 or higher you are recognized by someone as a champion of the Hillfarian farmers. You are treated to a drink, Dragon’s Breath Brandy if available, and your heroics are loudly proclaimed."
+      }
+    ]
+  },
+  {
+    "code": "DDEX03-06",
+    "name": "No Foolish Matter",
+    "description": "Some of the hamlets outlying Hillsfar have been struck by an odd malady. Rumor has it a traveling carnival visited those hamlets before the disease struck. Does coincidence not equal causation or is something sinister afoot? A two-hour adventure for 1st-4th level characters.",
+    "released": "2015-10-01",
+    "items": [
+      {
+        "name": "Pipes of the Sewers",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Potion of Healing",
+        "rarity": "common",
+        "consumable": true,
+        "count": 1
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": []
+  },
+  {
+    "code": "DDEX03-07",
+    "name": "Herald of the Moon",
+    "description": "Elanil Elassidil, an elf bard of no small legacy, has put out a call for trustworthy agents. It is time, it seems, for a quietly hidden piece of elven history to become known to the world. Meira Faerenduil, lost knight of Myth Drannor, has been discovered, and must be brought back to civilization. A four-hour adventure for 5th-10th level characters.",
+    "released": "2015-10-01",
+    "items": [
+      {
+        "name": "Shadowsong (Oathbow)",
+        "rarity": "veryRare",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Potion of Animal Friendship",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Potion of Climbing",
+        "rarity": "common",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Scroll of Protection (Plants)",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      }
+    ],
+    "spellbooks": [
+      {
+        "name": "Ilztoj's Spellbook",
+        "spells": [
+          { "name": "mage armor", "level": 1 },
+          { "name": "magic missile", "level": 1 },
+          { "name": "shield", "level": 1 },
+          { "name": "witch bolt", "level": 1 },
+          { "name": "alter self", "level": 2 },
+          { "name": "misty step", "level": 2 },
+          { "name": "web", "level": 2 },
+          { "name": "fly", "level": 3 },
+          { "name": "lightning bolt", "level": 3 },
+          { "name": "Evard's black tentacles", "level": 4 },
+          { "name": "greater invisibility", "level": 4 },
+          { "name": "cloudkill", "level": 1 }
+        ]
+      }
+    ],
+    "storyAwards": []
+  },
+  {
+    "code": "DDEX03-08",
+    "name": "The Malady of Elventree",
+    "description": "An escaped duergar slave stumbles into the village of Elventree. With her she brings a malady that grips the small settlement in a bout of madness that seems unshakable. Can you find the source of the madness and save yourself and the village’s inhabitants? A four-hour adventure for 5th-10th level characters.",
+    "released": "2015-11-01",
+    "items": [
+      {
+        "name": "Alchemy Jug",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Potion of Superior Healing",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Lesser Restoration",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": [
+      {
+        "name": "A Taste of Madness",
+        "description": "You drank from the marilith- shaped samovar. The tea was strong and earthy, and just as it warmed your body, it has also awoken something within the darker recesses of your mind. Your sleeping thoughts are haunted by dark whispers and the caresses of a six-fingered hand…"
+      }
+    ]
+  },
+  {
+    "code": "DDEX03-09",
+    "name": "The Waydown",
+    "description": "The recent discovery of an entrance to the Underdark has set local leaders on edge. In a display of initiative, the First Lord of Hillsfar has ordered the construction of defensive structures surrounding what locals have begun to call “The Waydown.” You have been charged with escorting an emissary back to his home in the Underdark without alerting the Red Plumes. A four-hour adventure for 5th-10th level characters.",
+    "released": "2015-11-01",
+    "items": [
+      {
+        "name": "Canaith Mandolin",
+        "rarity": "rare",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Potion of Greater Healing",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Greater Restoration",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": []
+  },
+  {
+    "code": "DDEX03-10",
+    "name": "Quelling the Horde",
+    "description": "The Red Plumes have increased patrols in the region surrounding Hillsfar, and a string of disappearances has followed in their wake. Naturally, this has roused the suspicion of the factions. Join your factions and find out the truth behind the missing farmers. A four-hour adventure for 1st-4th level characters.",
+    "released": "2015-12-01",
+    "items": [
+      {
+        "name": "Wand of the War Mage, +1",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Alchemist's fire (flask)",
+        "rarity": "common",
+        "consumable": true,
+        "count": 2
+      },
+      {
+        "name": "Potion of Healing",
+        "rarity": "common",
+        "consumable": true,
+        "count": 2
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": []
+  },
+  {
+    "code": "DDEX03-11",
+    "name": "The Quest for Sporedome",
+    "description": "In the search for allies in the Underdark, you are called upon to travel through the recently opened Waydown sinkhole to find the lost myconid colony of Sporedome. It is said that they once cultivated a strain of mushrooms that could protect one from falling into madness. Can this be the cure for the rapidly spreading onslaught of insanity? A two-hour adventure for 5th-10th level characters.",
+    "released": "2015-12-01",
+    "items": [
+      {
+        "name": "Half-Plate of Poison Resistance",
+        "rarity": "rare",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Potion of Diminution",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Potion of Greater Healing",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": [
+      {
+        "name": "In League with the Seer",
+        "description": "You have made a deal with the Sacred Seer—a myconid in the service of Zuggtmoy—to aid in the battle against the giants of Maerimydra. Hopefully, you will not regret this rather foolish choice."
+      },
+      {
+        "name": "Mmm… Tastes Like Sanity",
+        "description": "You are given one small, untreated *braincap mushroom*. When consumed or administered to someone else as an action, the mushroom acts as a *greater restoration*, but only as it pertains to reducing the recipient's madness level to 0. The *braincap mushrooms* are potent, however, and if you consume more than one per adventure, you immediately gain 1d4 levels of madness (no saving throw). Cross this story reward off of your adventure log when used."
+      }
+    ]
+  },
+  {
+    "code": "DDEX03-12",
+    "name": "Hillsfar Reclaimed",
+    "description": "The time has come to fight back against Hillsfar. Elanil Elassidil tasks you with uncovering valuable information to be used in a strike against the leader of Hillsfar, First Lord Torin Nomerthal himself. The only problem is that what you need is protected within the walls of the city. Part One of *Six Knives for Torin Nomerthal*. A two-hour adventure for 1st-4th level characters.",
+    "released": "2016-02-01",
+    "items": [
+      {
+        "name": "Eyes of Minute Seeing",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Spell Scroll of Disguise Self",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 4
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": []
+  },
+  {
+    "code": "DDEX03-13",
+    "name": "Writhing in the Dark",
+    "description": "An unexpected envoy arrives in Sporedome and offers to give aid against the fire giants of Maerimydra, if you are willing to help his people with a small problem.",
+    "released": "2016-02-01",
+    "items": [
+      {
+        "name": "Rod of the Pact Keeper, +2",
+        "rarity": "rare",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Silvered Greatsword",
+        "rarity": "common",
+        "consumable": false,
+        "count": 1
+      },
+      {
+        "name": "Potion of Greater Healing",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 2
+      },
+      {
+        "name": "Potion of Poison",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 2
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": []
+  },
+  {
+    "code": "DDEX03-14",
+    "name": "Death on the Wall",
+    "description": "First Lord Torin Nomerthal and several his advisors will be leaving Hillsfar to inspect the Wall with only a small contingent of Red Plumes. The chance to strike is now! Part Two of *Six Knives for Torin Nomerthal*. A two-hour adventure for 1st-4th level characters.",
+    "released": "2016-03-01",
+    "items": [
+      {
+        "name": "Bracers of Archery",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Assassin's Blood (vial)",
+        "rarity": "common",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Poison, basic (vial)",
+        "rarity": "common",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Serpent Venon (vial)",
+        "rarity": "common",
+        "consumable": true,
+        "count": 1
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": [
+      {
+        "name": "Friends in High Places",
+        "description": "You have assisted in the removal of First Lord Torin Nomerthal from office. In his place, you supported \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ in his place. It is possible that they will be able to aid you in the future."
+      }
+    ]
+  },
+  {
+    "code": "DDEX03-15",
+    "name": "Szith Morcane Unbound",
+    "description": "With allies gained from denizens of the Underdark, the former drown enclave of Szith Morcane is on the precipice of being retaken. During the battle for Szith Morcane, secrets of the drow community are revealed. What will you do with this knowledge, and how will it affect the outcome of the conflict? A four-hour adventure for 5th-10th level characters.",
+    "released": "2016-03-01",
+    "items": [
+      {
+        "name": "Ring of Protection",
+        "rarity": "rare",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Portion of Fire Breath",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 2
+      },
+      {
+        "name": "Potion of Greater Healing",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": 1
+      }
+    ],
+    "spellbooks": [
+      {
+        "name": "Spider-Hide Spellbook",
+        "spells": [
+          { "name": "web", "level": 2 },
+          { "name": "levitate", "level": 2 },
+          { "name": "darkness", "level": 2 },
+          { "name": "gaseous form", "level": 3 },
+          { "name": "Evard's black tentacles", "level": 4 },
+          { "name": "arcane eye", "level": 4 },
+          { "name": "passwall", "level": 5 }
+        ]
+      }
+    ],
+    "storyAwards": []
+  },
+  {
+    "code": "DDEX03-16",
+    "name": "Assault on Maerimydra",
+    "description": "With allies gained from denizens of the Underdark, the former drown enclave of Szith Morcane is on the precipice of being retaken. During the battle for Szith Morcane, secrets of the drow community are revealed. What will you do with this knowledge, and how will it affect the outcome of the conflict? A eight-hour adventure for 5th-10th level characters.",
+    "released": "2016-03-01",
+    "items": [
+      {
+        "name": "Demon Armor",
+        "rarity": "veryRare",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Robe of Stars",
+        "rarity": "veryRare",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Quarterstaff, +1",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Shortbow, +1",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Potion of Heroism",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Potion of Greater Healing",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 3
+      },
+      {
+        "name": "Potion of Superior Healing",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 3
+      },
+      {
+        "name": "Spell Scroll of Commune",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Heal",
+        "rarity": "veryRare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Invisibility",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Lesser Restoration",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Mass Cure Wounds",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Protection from Poison",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Suggestion",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Wall of Force",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": [
+      {
+        "name": "Shared Valor",
+        "description": "Your efforts to gather forces for the Assault on Maerimydra have resonated throughout your faction. When you fail in a faction assignment or special mission, you may choose to void this favor and instead succeed. This does not grant you any rewards (XP, gp, items, story awards, etc.) that might be associated with success, but does count as a success for gaining renown or tracking success of special missions."
+      }
+    ]
+  },
+  {
+    "code": "DDAL05-01",
+    "name": "Treasure of the Broken Hoard",
+    "description": "A famous relic hunter seeks adventurers to help her find caches of treasure hidden by the now-defeated followers of the Cult of the Dragon. Her maps and notes may lead the way to great wealth—or a terrible death. And do other parties have designs on the treasure as well?",
+    "released": null,
+    "items": [
+      {
+        "name": "Alchemist's fire (flask)",
+        "rarity": "common",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Potion of Healing",
+        "rarity": "common",
+        "consumable": true,
+        "count": 3
+      },
+      {
+        "name": "Spell Scroll of Comprehend Languages",
+        "rarity": "common",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Disguise Self",
+        "rarity": "common",
+        "consumable": true,
+        "count": 1
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": [
+      {
+        "name": "Blooddrinker the Bear",
+        "description": "Through care and patience, you now have a bear pet. She is, however, the size of a small housecat. She cannot attack, defend, distract, aid, or otherwise play any role in combat. She can be taught to do simple tricks if treated well and if you spend 20 down time days training her."
+      },
+      {
+        "name": "Friend of Prrrt",
+        "description": "You helped alleviate the suffering of a galeb duhr named Prrrt. It tells others of its kind of your kindness, garnering you a positive reputation among elemental earth creatures. As an action, you can attempt a DC 10 Charisma (Persuasion) check to convince earth creatures of the elemental type not to attack you. As long as you do not attack the creature or other elemental earth creatures, it targets others. This, however, does not protect your allies. You lose this story aware if you attack or otherwise harm an elemental earth creature."
+      },
+      {
+        "name": "Victim of Greed",
+        "description": "You were stung by greed, and your soul has been infected by the deadly sin. When you’re in the presence of great wealth (in the form of coins or gems/jewelry worth over 1,000 gp), you are stunned until the end of your first turn, as your mind reels at such great wealth. This can be removed with a *remove curse*."
+      },
+      {
+        "name": "Hated by Giants",
+        "description": "You unwisely removed one of the sacred plates of Annam from his shrine. You are now cursed. Giants who see you know that you have offended the greatest of their gods, and they target you before your allies in a fight. They also have advantage on attacks against you. This can be removed with a *remove curse*. You also have possession of one or more plates, but no one seems to want to buy them from you."
+      },
+      {
+        "name": "Friend of Kraddokk",
+        "description": "You talked with the storm giant Kraddokk and did not desecrate the shrine of Annam. He tells his friends about your interaction with him. This friendship might bear fruit at a later date."
+      }
+    ]
+  },
+  {
     "code": "DDAL05-03",
     "name": "Uninvited Guests",
-    "description": "",
+    "description": "The Shrine of the Axes has been restored and Raggnar Redtooth, who previously conspired with dragon cultists, is trying to restore his reputation in Parnast by sponsoring a feast. There is just one thing he needs, meat for his feast. Game is supposed to be plentiful in the Weathercote Wood, but the townsfolk are all busy with their own work, and the minions of Bad Fruul are still out there causing trouble. What can go wrong on a simple hunt?",
     "released": null,
     "items": [
       {
@@ -407,7 +885,7 @@
       },
       {
         "name": "Potion of Healing",
-        "rarity": "uncommon",
+        "rarity": "common",
         "consumable": true,
         "count": 1
       }
@@ -431,7 +909,7 @@
   {
     "code": "DDAL06-02",
     "name": "The Redemption of Kelvan",
-    "description": "",
+    "description": "A strange, foreign wizard calling himself Kelvan has appeared at the same time a mountain materializes out of thin air. He asks you to recover the Gloomblade from a Netherese ruin in order to help him with his research into this strange new mountain.",
     "released": null,
     "items": [
       {
@@ -476,7 +954,7 @@
   {
     "code": "DDAL09-01",
     "name": "Escape from Elturgard",
-    "description": "",
+    "description": "Damnation! The entire city of Elturel—along with its denizens—have been drawn into Avernus, the first layer of the Nine Hells! While those fortunate enough to have been outside of the city’s walls have been spared that fate, they’re not yet out of danger! The refugees formed a caravan bound for the nearby city of Baldur’s Gate. Can you keep them safe from devils, bandits, and one another until they reach safety?",
     "released": null,
     "items": [
       {
@@ -497,7 +975,7 @@
   {
     "code": "DDAL09-02",
     "name": "Stopped at the Gate",
-    "description": "",
+    "description": "It’s been a long, arduous trip, but you’re finally here—Baldur’s Gate. You’re not out of peril yet, however, even if you’re leaving the lawless wilds behind you, the streets of the Gate still run red with blood. But you quickly find that arriving at the city wasn’t the biggest challenge at all, now you must convince the city’s rulers to grant asylum to you and those in your charge. Part One of the *Betrayal is in the Blood* series of adventures.",
     "released": null,
     "items": [
       {
@@ -508,7 +986,7 @@
       },
       {
         "name": "Potion of Healing",
-        "rarity": "uncommon",
+        "rarity": "common",
         "consumable": true,
         "count": 1
       },
@@ -525,7 +1003,7 @@
   {
     "code": "DDAL09-03",
     "name": "Hungry Shadows",
-    "description": "",
+    "description": "Bodies continue pile up, and the Flaming Fist still has nothing but a name. Thankfully, the perpetrator of the murders has slipped up and the Flaming Fist has captured one of their underlings, in turn, has revealed the presence of a cult hideout in the sewers beneath the city. The Flaming Fist has asked that you investigate. Are you up for the task? Part Two of the *Betrayal is in the Blood* series of adventures.",
     "released": null,
     "items": [
       {
@@ -535,7 +1013,7 @@
         "count": null
       },
       {
-        "name": "Scroll of Protection from Fiends",
+        "name": "Scroll of Protection (Fiends)",
         "rarity": "rare",
         "consumable": true,
         "count": 1
@@ -547,7 +1025,7 @@
   {
     "code": "DDAL09-04",
     "name": "Day of the Devil",
-    "description": "",
+    "description": "The streets of Baldur’s Gate run red with blood. Old blood. The blood of Hellriders. Someone or something is punishing the children for the sins of the father and it’s time to put it to an end. Who and where is Gharizol? Part Three of the *Betrayal is in the Blood* series of adventures.",
     "released": null,
     "items": [
       {
@@ -558,7 +1036,7 @@
       },
       {
         "name": "Potion of Healing",
-        "rarity": "uncommon",
+        "rarity": "common",
         "consumable": true,
         "count": 1
       },

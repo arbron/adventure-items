@@ -20,8 +20,8 @@ extension Publish.Item where Site == AdventureItemsSite {
         for item in adventure.items {
             tags.insert("items")
             tags.insert("rarity: \(item.rarity.name)")
-            if item.name.hasPrefix("Scroll of ") {
-                let spellName = item.name.dropFirst("Scroll of ".count)
+            if item.name.hasPrefix("Spell Scroll of ") {
+                let spellName = item.name.dropFirst("Spell Scroll of ".count)
                 tags.insert("spell: \(spellName.lowercased())")
             }
         }
@@ -39,7 +39,7 @@ extension Publish.Item where Site == AdventureItemsSite {
             path: Path(adventure.code.lowercased()),
             sectionID: ASite.SectionID.adventures,
             metadata: ASite.ItemMetadata(),
-            tags: Array(tags),
+            tags: Array(tags).sorted(),
             content: Content(
                 title: "\(adventure.code) - \(adventure.name)",
                 body: Self.body(adventure)

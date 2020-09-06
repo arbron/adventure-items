@@ -8,6 +8,7 @@
 import Foundation
 import Plot
 import Publish
+import Ink
 
 extension Publish.Item where Site == AdventureItemsSite {
     fileprivate typealias ASite = AdventureItemsSite
@@ -43,6 +44,7 @@ extension Publish.Item where Site == AdventureItemsSite {
     private static func body(_ adventure: Adventure) -> Content.Body {
         .init(node:
             .section(
+                .h1("\(adventure.name)"),
                 .if(!adventure.items.isEmpty, .group([
                     .h2("Items"),
                     .p(Self.itemList(adventure.items))
@@ -51,9 +53,10 @@ extension Publish.Item where Site == AdventureItemsSite {
                     .h2("Spellbooks"),
                     .p(Self.spellbookList(adventure.spellbooks))
                 ])),
-                .if(!adventure.storyAwards.isEmpty,
-                    .h2("Story Awards")
-                )
+                .if(!adventure.storyAwards.isEmpty, .group([
+                    .h2("Story Awards"),
+                    Self.storyAwardList(adventure.storyAwards)
+                ]))
             )
         )
     }
@@ -89,5 +92,17 @@ extension Publish.Item where Site == AdventureItemsSite {
 
             }
         ))
+    }
+
+    private static let parser = MarkdownParser()
+    private static func storyAwardList(_ storyAwards: [StoryAward]) -> Node<HTML.BodyContext> {
+        .group(
+            storyAwards.map { award in
+                .details(
+                    .summary("\(award.name)"),
+                    .raw("\(Self.parser.html(from: award.description))")
+                )
+            }
+        )
     }
 }

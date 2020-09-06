@@ -4,7 +4,7 @@ import Publish
 import Plot
 
 // This type acts as the configuration for your website.
-struct AdventureItems: Website {
+struct AdventureItemsSite: Website {
     enum SectionID: String, WebsiteSectionID {
         // Add the sections that you want your website to contain here:
         case adventures
@@ -23,24 +23,10 @@ struct AdventureItems: Website {
 }
 
 let adventuresFile = try File.packageFile(path: "Resources/adventures.json")
-let decoder = JSONDecoder()
-let adventures = try decoder.decode([Adventure].self, from: Data(contentsOf: adventuresFile.url))
+let adventures = try JSONDecoder().decode([Adventure].self, from: Data(contentsOf: adventuresFile.url))
+let adventureList: [Publish.Item<AdventureItemsSite>] = adventures.map { .item(for: $0) }
 
-let adventureList: [Publish.Item<AdventureItems>] = adventures.map { adventure in
-    Publish.Item(
-        path: Path(adventure.code.lowercased()),
-        sectionID: AdventureItems.SectionID.adventures,
-        metadata: AdventureItems.ItemMetadata(),
-        tags: [],
-        content: Content(
-            title: "\(adventure.code) - \(adventure.name)",
-            body: "\(adventure.code)"
-        )
-    )
-}
-
-// This will generate your website using the built-in Foundation theme:
-try AdventureItems().publish(using: [
+let publishSteps: [PublishingStep<AdventureItemsSite>] = [
     .addMarkdownFiles(),
     .copyResources(),
     .addItems(in: adventureList),
@@ -49,12 +35,7 @@ try AdventureItems().publish(using: [
     .generateRSSFeed(including: [.adventures]),
     .generateSiteMap(),
     .installPlugin(.prependAllPaths("adventure-items/"))
-])
-//try AdventureItems().publish(
-//    withTheme: .foundation,
-//    additionalSteps: [
-//        .addItems(in: adventureList),
-//        .sortItems(by: \.content.title),
-//        .installPlugin(.prependAllPaths("adventure-items/"))
-//    ]
-//)
+]
+
+// This will generate your website using the built-in Foundation theme:
+try AdventureItemsSite().publish(using: publishSteps)

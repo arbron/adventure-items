@@ -2,6 +2,8 @@
   {
     "code": "CCC-GSP01-01",
     "name": "A Dragon's Breath",
+    "description": "",
+    "released": null,
     "items": [
       {
         "name": "Dragon's Lullaby (Instrument of the Bards - Mac-Fuirmidh cittern)",
@@ -27,6 +29,8 @@
   {
     "code": "CCC-GSP01-02",
     "name": "Brotherhood",
+    "description": "",
+    "released": null,
     "items": [
       {
         "name": "Pipe of Smoke Monsters",
@@ -50,6 +54,8 @@
   {
     "code": "CCC-GSP01-03",
     "name": "Tainted Love",
+    "description": "",
+    "released": null,
     "items": [
       {
         "name": "Cloak of Many Fashions",
@@ -73,6 +79,8 @@
   {
     "code": "DDAL00-04",
     "name": "Winter's Flame",
+    "description": "",
+    "released": null,
     "items": [
       {
         "name": "Chultan Midwinter Candle (Candle of the Deep)",
@@ -93,6 +101,8 @@
   {
     "code": "DDAL05-01",
     "name": "Treasure of the Broken Hoard",
+    "description": "",
+    "released": null,
     "items": [
       {
         "name": "Scroll of Comprehend Languages",
@@ -114,7 +124,7 @@
       },
       {
         "name": "Potion of Healing",
-        "rarity": "common",
+        "rarity": "uncommon",
         "consumable": true,
         "count": 3
       }
@@ -135,7 +145,7 @@
       },
       {
         "name": "Hated by Giants",
-        "description": "You unwisely removed one of the sacred plates of Annam from his shrine. You are now cursed. Giants who see you know that you have offended the greatest of their gods, and they target you before your allies in a fight. They also have advantage on attacks against you. This can be removed with a remove curse. You also have possession of one or more plates, but no one seems to want to buy them from you."
+        "description": "You unwisely removed one of the sacred plates of Annam from his shrine. You are now cursed. Giants who see you know that you have offended the greatest of their gods, and they target you before your allies in a fight. They also have advantage on attacks against you. This can be removed with a *remove curse*. You also have possession of one or more plates, but no one seems to want to buy them from you."
       },
       {
         "name": "Friend of Kraddokk",
@@ -144,8 +154,250 @@
     ]
   },
   {
+    "code": "DDEX03-01",
+    "name": "Harried in Hillsfar",
+    "description": "In the village of Elventree, near the oppressive city of Hillsfar, a recent string of strange occurrences has the locals on edge. The factions have gathered here on the borders of the forest of Cormanthor to determine what’s happening. Is this the machinations of Hillsfar, or something more? Five one-hour mini-adventures for 1st–2nd level characters.",
+    "released": "2015-07-30",
+    "items": [
+      {
+        "name": "Potion of Healing",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Alchemist's fire (flask)",
+        "rarity": "common",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Potion of Fire Breath",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Acid (vial)",
+        "rarity": "common",
+        "consumable": true,
+        "count": 2
+      },
+      {
+        "name": "Scroll of Comprehend Languages",
+        "rarity": "common",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Scroll of False Life",
+        "rarity": "common",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Holy water (flask)",
+        "rarity": "common",
+        "consumable": true,
+        "count": 4
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": []
+  },
+  {
+    "code": "DDEX03-02",
+    "name": "Shackles of Blood",
+    "description": "The Red Plumes have increased patrols in the region surrounding Hillsfar, and a string of disappearances has followed in their wake. Naturally, this has roused the suspicion of the factions. Join your factions and find out the truth behind the missing farmers. A four-hour adventure for 1st-4th level characters.",
+    "released": "2015-07-30",
+    "items": [
+      {
+        "name": "Potion of Healing",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Scroll of Dimension Door",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "+1 Rapier",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": []
+  },
+  {
+    "code": "DDEX03-03",
+    "name": "The Occupation of Szith Morcane",
+    "description": "Agents of the fire giants of Maerimydra, a city in the Underdark, have overtaken the drow outpost of Szith Morcane. The factions seek out adventurers to free the outpost’s leaders for questioning on the giants’ activities. Can you extricate them before it’s too late? A four-hour adventure for 5th-10th level characters.",
+    "released": "2015-07-30",
+    "items": [
+      {
+        "name": "Staff of Swarming Insects",
+        "rarity": "rare",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Antitoxin",
+        "rarity": "common",
+        "consumable": true,
+        "count": 2
+      },
+      {
+        "name": "Potion of Greater Healing",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": []
+  },
+  {
+    "code": "DDEX03-04",
+    "name": "It's All in the Blood",
+    "description": "Rumors of faceless demonic creatures have been steadily rising in the Hillsfar region, and it is said that far below the surface of Faerun, nestled in the bowels of the underdark, ancient terrors are stirring. The imperiled drow of Szith Morcaine have extended an intriguing offer, but can the drow be trusted, and for how long? An eight-hour adventure for 11th-16th level characters.",
+    "released": "2015-07-30",
+    "items": [
+      {
+        "name": "Ioun Stone of Regeneration",
+        "rarity": "legendary",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Potion of Fire Giant Strength",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Potion of Flying",
+        "rarity": "veryRare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Potion of Greater Healing",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 4
+      },
+      {
+        "name": "Potion of Resistance",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Potion of Superior Healing",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 4
+      },
+      {
+        "name": "Potion of Invulnerability",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Potion of Heroism",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Scroll of Cone of Cold",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Scroll of Fire Shield",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Scroll of Globe of Invulnerability",
+        "rarity": "veryRare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Scroll of Hold Monster",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Scroll of Prismatic Spray",
+        "rarity": "veryRare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Scroll of Stoneskin",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Scroll of True Seeing",
+        "rarity": "veryRare",
+        "consumable": true,
+        "count": 1
+      }
+    ],
+    "spellbooks": [
+      {
+        "name": "Gabber Forth's Spellbook",
+        "spells": [
+          { "name": "detect magic", "level": 1 },
+          { "name": "mage armor", "level": 1 },
+          { "name": "magic missile", "level": 1 },
+          { "name": "shield", "level": 1 },
+          { "name": "mirror image", "level": 2 },
+          { "name": "Maximillian's earthen grasp", "level": 2 },
+          { "name": "see invisibility", "level": 2 },
+          { "name": "counterspell", "level": 3 },
+          { "name": "slow", "level": 3 },
+          { "name": "fireball", "level": 3 },
+          { "name": "greater invisibility", "level": 4 },
+          { "name": "polymorph", "level": 4 },
+          { "name": "stoneskin", "level": 4 },
+          { "name": "cone of cold", "level": 5 },
+          { "name": "fire shield", "level": 5 },
+          { "name": "immolation", "level": 5 },
+          { "name": "circle of death", "level": 6 },
+          { "name": "globe of invulnerability", "level": 6 },
+          { "name": "forcecage", "level": 7 },
+          { "name": "incendiary cloud", "level": 8 },
+          { "name": "time stop", "level": 9 }
+        ]
+      }
+    ],
+    "storyAwards": [
+      {
+        "name": "A Deal with a Devil",
+        "description": "You have rescued the imp Pipyap in the giant-controlled city of Maerimydra. Somehow the pudgy fiend finds a way of knowing things that are happening in places he shouldn't be near. Maybe it's his unusual affection for the Material Plane? In exchange for your bravery, he made an offer that you just might be able to refuse."
+      }
+    ]
+  },
+  {
     "code": "DDAL05-03",
     "name": "Uninvited Guests",
+    "description": "",
+    "released": null,
     "items": [
       {
         "name": "Brooch of Shielding",
@@ -155,7 +407,7 @@
       },
       {
         "name": "Potion of Healing",
-        "rarity": "common",
+        "rarity": "uncommon",
         "consumable": true,
         "count": 1
       }
@@ -179,6 +431,8 @@
   {
     "code": "DDAL06-02",
     "name": "The Redemption of Kelvan",
+    "description": "",
+    "released": null,
     "items": [
       {
         "name": "Boots of Speed",
@@ -197,31 +451,138 @@
         "rarity": "uncommon",
         "consumable": true,
         "count": 1
-      },
+      }
     ],
     "spellbooks": [
       {
         "name": "Shadow Tome",
         "spells": [
-            { "name": "bestow curse" },
-            { "name": "blight" },
-            { "name": "blindness/deafness" },
-            { "name": "comprehend languages" },
-            { "name": "darkness" },
-            { "name": "darkvision" },
-            { "name": "dispel magic" },
-            { "name": "fear" },
-            { "name": "Evard's black tentacles" },
-            { "name": "find familiar" },
-            { "name": "witch bolt" }
+            { "name": "bestow curse", "level": 3 },
+            { "name": "blight", "level": 4 },
+            { "name": "blindness/deafness", "level": 2 },
+            { "name": "comprehend languages", "level": 1 },
+            { "name": "darkness", "level": 2 },
+            { "name": "darkvision", "level": 2 },
+            { "name": "dispel magic", "level": 3 },
+            { "name": "fear", "level": 3 },
+            { "name": "Evard's black tentacles", "level": 4 },
+            { "name": "find familiar", "level": 1 },
+            { "name": "witch bolt", "level": 1 }
         ]
       }
     ],
     "storyAwards": []
   },
   {
+    "code": "DDAL09-01",
+    "name": "Escape from Elturgard",
+    "description": "",
+    "released": null,
+    "items": [
+      {
+        "name": "Amulet of Proof Against Detection and Location",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": [
+      {
+        "name": "Cooler Heads Prevail",
+        "description": "You have spared the murderer, Vollis, in the hopes that she will be brought to justice upon arriving in Baldur’s Gate."
+      }
+    ]
+  },
+  {
+    "code": "DDAL09-02",
+    "name": "Stopped at the Gate",
+    "description": "",
+    "released": null,
+    "items": [
+      {
+        "name": "Eyes of the Eagle",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Potion of Healing",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Potion of Poison",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": []
+  },
+  {
+    "code": "DDAL09-03",
+    "name": "Hungry Shadows",
+    "description": "",
+    "released": null,
+    "items": [
+      {
+        "name": "Gloves of Thievery",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Scroll of Protection from Fiends",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": []
+  },
+  {
+    "code": "DDAL09-04",
+    "name": "Day of the Devil",
+    "description": "",
+    "released": null,
+    "items": [
+      {
+        "name": "Periapt of Health",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Potion of Healing",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Potion of Growth",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Soul Coin",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": []
+  },
+  {
     "code": "DDHC-LMOP",
     "name": "Lost Mine of Phandelver",
+    "description": "",
+    "released": null,
     "items": [],
     "spellbooks": [],
     "storyAwards": []
@@ -229,6 +590,8 @@
   {
     "code": "DDHC-WDH-03",
     "name": "Blue Alley",
+    "description": "",
+    "released": null,
     "items": [],
     "spellbooks": [],
     "storyAwards": []

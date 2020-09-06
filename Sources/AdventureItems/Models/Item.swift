@@ -15,5 +15,12 @@ struct Item: Codable {
 
     enum Rarity: String, Codable {
         case common, uncommon, rare, veryRare, legendary
+
+        var name: String {
+            switch self {
+            case .veryRare: return "very rare"
+            default: return rawValue
+            }
+        }
     }
 }

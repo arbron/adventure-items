@@ -14,4 +14,5 @@ struct Spellbook: Codable {
 
 struct Spell: Codable {
     var name: String
+    var level: Int
 }

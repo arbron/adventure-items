@@ -13,11 +13,17 @@ import Ink
 extension Publish.Item where Site == AdventureItemsSite {
     fileprivate typealias ASite = AdventureItemsSite
 
+    private static let parser = MarkdownParser()
+
     static func item(for adventure: Adventure) -> Self {
         var tags: Set<Tag> = []
         for item in adventure.items {
             tags.insert("items")
-            tags.insert("rarity: \(item.rarity.rawValue)")
+            tags.insert("rarity: \(item.rarity.name)")
+            if item.name.hasPrefix("Scroll of ") {
+                let spellName = item.name.dropFirst("Scroll of ".count)
+                tags.insert("spell: \(spellName.lowercased())")
+            }
         }
         for spellbook in adventure.spellbooks {
             tags.insert("spellbooks")
@@ -45,6 +51,7 @@ extension Publish.Item where Site == AdventureItemsSite {
         .init(node:
             .section(
                 .h1("\(adventure.name)"),
+                .if(!adventure.description.isEmpty, .raw("\(parser.html(from: adventure.description))")),
                 .if(!adventure.items.isEmpty, .group([
                     .h2("Items"),
                     .p(Self.itemList(adventure.items))
@@ -67,7 +74,7 @@ extension Publish.Item where Site == AdventureItemsSite {
                 var itemEntry: [Node<HTML.BodyContext>] = [
                     "\(item.name)",
                     " ",
-                    .em("\(item.rarity)")
+                    .em("\(item.rarity.name)")
                 ]
                 if let count = item.count {
                     itemEntry.insert("\(count) x ", at: 0)
@@ -94,7 +101,6 @@ extension Publish.Item where Site == AdventureItemsSite {
         ))
     }
 
-    private static let parser = MarkdownParser()
     private static func storyAwardList(_ storyAwards: [StoryAward]) -> Node<HTML.BodyContext> {
         .group(
             storyAwards.map { award in

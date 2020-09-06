@@ -22,8 +22,11 @@ struct AdventureItemsSite: Website {
     var imagePath: Path? { nil }
 }
 
+let decoder = JSONDecoder()
+decoder.dateDecodingStrategy = .formatted(.iso8601date)
+
 let adventuresFile = try File.packageFile(path: "Resources/adventures.json")
-let adventures = try JSONDecoder().decode([Adventure].self, from: Data(contentsOf: adventuresFile.url))
+let adventures = try decoder.decode([Adventure].self, from: Data(contentsOf: adventuresFile.url))
 let adventureList: [Publish.Item<AdventureItemsSite>] = adventures.map { .item(for: $0) }
 
 let publishSteps: [PublishingStep<AdventureItemsSite>] = [

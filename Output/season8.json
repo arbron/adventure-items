@@ -1,0 +1,119 @@
+[
+    {
+        "code": "DDAL08-07",
+        "name": "Into the Dark",
+        "description": "When one of the Lords of Waterdeep asks you to root out a threat to the city, you respond to the call. Prepare for a foray into Undermountain. Part One of the *Vampire Hunt* trilogy.\n\n A Two-Hour Adventure for Tier 2 Characters.",
+        "released": null,
+        "items": [
+            {
+                "name": "Mace of Smiting",
+                "rarity": "rare",
+                "consumable": false,
+                "count": null
+            }
+        ],
+        "spellbooks": [],
+        "storyAwards": [
+            {
+            "name": "Endless Bluetooth Ale",
+            "description": "If a way was discovered to set up a supply of the blue lichen to the Yawning Portal, Durnan provides all the Bluetooth Ale the characters can drink whenever they visit. Brewed from the blue lichen grown on the skeletons of dwarves left for dead in the Stonebone Mines, bluetooth ale is a truly unique beverage.\n\n The strong dwarven-style ale is a rich sapphire color and has a faint earthy taste. While the ale lacks most of the special properties of the blue lichen, it still can turn the imbibers teeth (and bones) temporarily blue.\n\n The ale functions as an ingested poison. The drinker must succeed on a DC 12 Constitution saving throw, or their skeleton turns a dark shade of blue for 24 hours."
+            }
+        ]
+    },
+    {
+        "code": "DDAL08-08",
+        "name": "Crypt of the Dark Kiss",
+        "description": "Are there actually vampires in Undermountain? The Baron of Blood demands that you find out! Part Two of the *Vampire Hunt* trilogy.\n\n A Two-Hour Adventure for Tier 2 Characters.",
+        "released": null,
+        "items": [
+            {
+                "name": "Ring of Resistance (Fire)",
+                "rarity": "rare",
+                "consumable": false,
+                "count": null
+            }
+        ],
+        "spellbooks": [],
+        "storyAwards": []
+    },
+    {
+        "code": "DDAL08-09",
+        "name": "Fangs and Frogs",
+        "description": "Your chase to wipe out the vampires of Undermountain leads to the Slitherswamp. The master vampire is close at hand! Part Three of the *Vampire Hunt* trilogy.\n\n A Two-Hour Adventure for Tier 2 Characters.",
+        "released": null,
+        "items": [
+            {
+                "name": "Wand of Lightning Bolts",
+                "rarity": "rare",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Spell Scroll of Dispel Magic",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Suggestion",
+                "rarity": "uncommon",
+                "consumable": true,
+            "count": 1
+            }
+        ],
+        "spellbooks": [],
+        "storyAwards": [
+            {
+                "name": "Monstrous Merger",
+                "description": "You decided to take a chance and touch or drink the multicolored water that spilled from a broken fountain in Arcturia’s abandoned laboratory. Doing so has changed you forever. Arcturia was a master of transmutation and she must have used this water to assist her in her unholy experiments. While you no longer carry the negative effects associated with this, it seems the physical trait you manifested still lingers. This story award can only be removed by a *remove curse*."
+            }
+        ]
+    },
+    {
+        "code": "DDEP08-03",
+        "name": "Last Orders at the Yawning Portal",
+        "description": "Durnan has closed the Yawning Portal and mysteriously disappeared back down the well into Undermountain. His old adventuring companion Mirt has hung up his tankard and set off to find him, but he can’t do it alone. Champions gather from afar to answer his call and rescue one of the city’s most iconic heroes. Will YOU join them? A Three-Hour D&D Epics™ adventure for Tier 1-4 characters. Optimized for APL 3, 8, 13, and 18.",
+        "released": null,
+        "items": [
+            {
+                "name": "Animated Shield",
+                "rarity": "veryRare",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Ring of Invisibility",
+                "rarity": "legendary",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Rope of Climbing",
+                "rarity": "uncommon",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Winged Boots",
+                "rarity": "uncommon",
+                "consumable": false,
+                "count": null
+            }
+        ],
+        "spellbooks": [],
+        "storyAwards": [
+            {
+                "name": "Deep Delver",
+                "description": "Your successes in the dungeons of Undermountain have brought you glory in the city above. You earn any additional point of renown. Whenever you return to Waterdeep following a successful expedition into the dungeons of Undermountain, you gain a free healing potion."
+            },
+            {
+                "name": "Tavern Hero",
+                "description": "Your actions were noteworthy in rescuing Durnan the Innkeeper from the dungeons of Undermountain. The proprietor of the Yawning Portal has granted you free accommodation and drinks in his inn for the rest of your life and commissioned a portrait of your group to hang in the taproom until the end of time."
+            },
+            {
+                "name": "Sold Soul",
+                "description": "Your soul has been promised to Breccia of the Growling Groghouse. If you later die, she claims your soul and uses it for own mysterious purposes. The only way you can be restored to life is via a *true resurrection* spell, after which this award is removed."
+            }
+        ]
+    },
+]

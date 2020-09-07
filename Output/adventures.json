@@ -1,82 +1,5 @@
 [
   {
-    "code": "CCC-GSP01-01",
-    "name": "A Dragon's Breath",
-    "description": "Ragvala, also known as the \"Coinmaker\", is an ancient gold dragon who wishes to mend his broken friendship with his old adventuring buddy. Recently, he has heard rumors that his friend’s old magical instrument has resurfaced in the Quivering Forest. Unable to change shape anymore, the dragon needs the help of skilled adventurers who can join him on his quest.",
-    "released": null,
-    "items": [
-      {
-        "name": "Dragon's Lullaby (Instrument of the Bards - Mac-Fuirmidh cittern)",
-        "rarity": "uncommon",
-        "consumable": false,
-        "count": null
-      },
-      {
-        "name": "Spell Scroll of Comprehend Languages",
-        "rarity": "common",
-        "consumable": true,
-        "count": 1
-      }
-    ],
-    "spellbooks": [],
-    "storyAwards": [
-      {
-        "name": "Five-Leaf Clover Initiate",
-        "description": "A senior member of the Five Leaf Clover has taken a liking of you and made you a junior member of their adventuring group. A magical tattoo of a five-leaf clover has been permanently placed at the back of your right hand. When you put your will to it, harmless green flame erupts from the tattoo and engulfs your hand."
-      }
-    ]
-  },
-  {
-    "code": "CCC-GSP01-02",
-    "name": "Brotherhood",
-    "description": "Ragvala, an ancient gold dragon and the founder of the Five-Leaf Clover is dead. A funeral ceremony will be held in 3 days before he becomes one with the earth. Rokstasha, his friend and a djinni has asked the help of the adventurers to find the other members of the Five-Leaf Clover if they are still alive and have them attend the ceremony. Don’t be late! Part 2 of the *Clover Group Series*.",
-    "released": null,
-    "items": [
-      {
-        "name": "Pipe of Smoke Monsters",
-        "rarity": "common",
-        "consumable": false,
-        "count": null
-      }
-    ],
-    "spellbooks": [],
-    "storyAwards": [
-      {
-        "name": "Five-Leaf Clover Initiate",
-        "description": "A senior member of the Five Leaf Clover has taken a liking of you and made you a junior member of their adventuring group. A magical tattoo of a five-leaf clover has been permanently placed at the back of your right hand. When you put your will to it, harmless green flame erupts from the tattoo and engulfs your hand."
-      },
-      {
-        "name": "Doomguide of Kelemvor",
-        "description": "You are now an official priest of Kelemvor, also known as a Doomguide. You have received a set of smoky grey priestly vestments with the symbol of Kelemvor and a cowled cloak with a white domino mask that emanates harmless blue flame whenever you wear it. You also gain the following ideal, \"Death is but part of life: fear it not, evade it not, and view it not as evil.\""
-      }
-    ]
-  },
-  {
-    "code": "CCC-GSP01-03",
-    "name": "Tainted Love",
-    "description": "Rizgrim, the Great Doomguide of Kelemvor has discovered that the land within the Quivering Forest near the burial site of her friend is slowly being consumed by dark magic. The adventurers have been asked to find the source and eliminate it as soon as possible. Failing on this task could turn her dead friend into a dracolich. Nobody wants that! Right?! Part 3 of the *Clover Group Series*.",
-    "released": null,
-    "items": [
-      {
-        "name": "Cloak of Many Fashions",
-        "rarity": "common",
-        "consumable": false,
-        "count": null
-      }
-    ],
-    "spellbooks": [],
-    "storyAwards": [
-      {
-        "name": "In Search of Her",
-        "description": "You have found and read the journal of Tho’Guroh, containing information on how to find a hag’s dark lair. Whenever you succeed in finding a hag’s lair, a trail of thin mist appears, leading up to the location you are looking for. While the mist is present, you hear whispers of a very convincing old woman telling you to get \"samples\" from your party members, like a strand of hair, spit, dead skin, fingernails, etc. Remove this story award when you meet Jenny Greenteeth."
-      },
-      {
-        "name": "Clingy Jelly!",
-        "description": "You spared the life of an oblex spawn. As a token of appreciation, it separates a part of itself and places a thin translucent layer of star-shaped green goo on your forehead. Whenever you are in combat, the goo stretches and changes shape, becoming a horn. Whenever you die, its shape changes into a small, flat skull. You can remove this story award by casting *lesser restoration* on yourself."
-      }
-    ]
-  },
-  {
     "code": "DDAL00-04",
     "name": "Winter's Flame",
     "description": "This year’s Midwinter holiday efforts have been met with unusual obstacles: small stockpiles rummaged through, foods spoiling, ale casks leaking, festive clothes torn up, and crucial pembelon fruits missing. With schedules and deadlines rigid, any bigger bumps in the road might result in disaster. Who would want to keep the people of Chult from celebrating this long-revered holiday?",
@@ -99,9 +22,120 @@
     "storyAwards": []
   },
   {
+    "code": "DDEP03-01",
+    "name": "Blood Above, Blood Below",
+    "description": "In two different arenas, the call for blood has been sounded. The five factions now seek out bold adventurers willing to brave death in order to draw attention away from Szith Morcane, and in so doing allow a small group to infiltrate the drow outpost and return it to the hands of the drow. What role will you play in this deadly game?\n\n A special three-hour multi-table adventure for 1st-16th level characters.",
+    "released": "2015-08-01",
+    "items": [
+      {
+        "name": "Belt of Fire Giant Strength",
+        "rarity": "veryRare",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Elven Chain",
+        "rarity": "rare",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Ioun Stone of Insight",
+        "rarity": "veryRare",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Javelin of Lightning",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Pearl of Power",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Potion of Healing",
+        "rarity": "common",
+        "consumable": true,
+        "count": 4
+      },
+      {
+        "name": "Rimesplitter (Greataxe, +2)",
+        "rarity": "rare",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Scroll of Protection (fiends)",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Scroll of Protection (aberrations)",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Animate Dead",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Bestow Curse",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Dispel Magic",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Mass Healing Word",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Magic Circle",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Remove Curse",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Legend Lore",
+        "rarity": "rare",
+        "consumable": true,
+        "count": 1
+      }
+    ],
+    "spellbooks": [],
+    "storyAwards": [
+      {
+        "name": "What a Horse!",
+        "description": "You have earned the respect and thanks of a pegasus, a celestial denizen of the Upper Planes. For as long as you treat the creature with respect and stay true to the ideals that it embodies, it remains faithful to you and happily serves you as a mount.\n\n While he is willing to wear barding, U'dehl refuses to wear heavy armor for fear that people won't be able to properly behold his magnificence. He is also adamant in being provided nothing but the best food and care. For so long as you retain U'dehl's services, you must maintain a lifestyle of no less than Wealthy.\n\n If, at any time, you perform an evil act in its presence, you must immediately succeed at a DC 16 Charisma (Persuasion) check. If you fail, the pegasus leaves your service at its next available opportunity. The DM has discretion as to what constitutes an evil act and may assign advantage or disadvantage on the check based on the circumstances surrounding the act. The DC of this check increases by 1 each time you are forced to make it."
+      }
+    ]
+  },
+  {
     "code": "DDEX03-01",
     "name": "Harried in Hillsfar",
-    "description": "In the village of Elventree, near the oppressive city of Hillsfar, a recent string of strange occurrences has the locals on edge. The factions have gathered here on the borders of the forest of Cormanthor to determine what’s happening. Is this the machinations of Hillsfar, or something more? Five one-hour mini-adventures for 1st–2nd level characters.",
+    "description": "In the village of Elventree, near the oppressive city of Hillsfar, a recent string of strange occurrences has the locals on edge. The factions have gathered here on the borders of the forest of Cormanthor to determine what’s happening. Is this the machinations of Hillsfar, or something more?\n\n Five one-hour mini-adventures for 1st–2nd level characters.",
     "released": "2015-07-30",
     "items": [
       {
@@ -153,7 +187,7 @@
   {
     "code": "DDEX03-02",
     "name": "Shackles of Blood",
-    "description": "The Red Plumes have increased patrols in the region surrounding Hillsfar, and a string of disappearances has followed in their wake. Naturally, this has roused the suspicion of the factions. Join your factions and find out the truth behind the missing farmers. A four-hour adventure for 1st-4th level characters.",
+    "description": "The Red Plumes have increased patrols in the region surrounding Hillsfar, and a string of disappearances has followed in their wake. Naturally, this has roused the suspicion of the factions. Join your factions and find out the truth behind the missing farmers.\n\n A four-hour adventure for 1st-4th level characters.",
     "released": "2015-07-30",
     "items": [
       {
@@ -181,7 +215,7 @@
   {
     "code": "DDEX03-03",
     "name": "The Occupation of Szith Morcane",
-    "description": "Agents of the fire giants of Maerimydra, a city in the Underdark, have overtaken the drow outpost of Szith Morcane. The factions seek out adventurers to free the outpost’s leaders for questioning on the giants’ activities. Can you extricate them before it’s too late? A four-hour adventure for 5th-10th level characters.",
+    "description": "Agents of the fire giants of Maerimydra, a city in the Underdark, have overtaken the drow outpost of Szith Morcane. The factions seek out adventurers to free the outpost’s leaders for questioning on the giants’ activities. Can you extricate them before it’s too late?\n\n A four-hour adventure for 5th-10th level characters.",
     "released": "2015-07-30",
     "items": [
       {
@@ -209,7 +243,7 @@
   {
     "code": "DDEX03-04",
     "name": "It's All in the Blood",
-    "description": "Rumors of faceless demonic creatures have been steadily rising in the Hillsfar region, and it is said that far below the surface of Faerun, nestled in the bowels of the underdark, ancient terrors are stirring. The imperiled drow of Szith Morcaine have extended an intriguing offer, but can the drow be trusted, and for how long? An eight-hour adventure for 11th-16th level characters.",
+    "description": "Rumors of faceless demonic creatures have been steadily rising in the Hillsfar region, and it is said that far below the surface of Faerun, nestled in the bowels of the underdark, ancient terrors are stirring. The imperiled drow of Szith Morcaine have extended an intriguing offer, but can the drow be trusted, and for how long?\n\n An eight-hour adventure for 11th-16th level characters.",
     "released": "2015-07-30",
     "items": [
       {
@@ -341,7 +375,7 @@
   {
     "code": "DDEX03-05",
     "name": "Bane of the Tradeways",
-    "description": "Times are hard in the Hillsfar countryside, especially for those of non-human ancestry. Unscrupulous merchants in league with the hated Red Plumes bleed local farmers and artisans dry. Perhaps some of those loot-laden caravans coming and going from Hillsfar could use a bit of liberation? A four-hour adventure for 1st-4th level characters.",
+    "description": "Times are hard in the Hillsfar countryside, especially for those of non-human ancestry. Unscrupulous merchants in league with the hated Red Plumes bleed local farmers and artisans dry. Perhaps some of those loot-laden caravans coming and going from Hillsfar could use a bit of liberation?\n\n A four-hour adventure for 1st-4th level characters.",
     "released": "2015-09-01",
     "items": [
       {
@@ -378,7 +412,7 @@
   {
     "code": "DDEX03-06",
     "name": "No Foolish Matter",
-    "description": "Some of the hamlets outlying Hillsfar have been struck by an odd malady. Rumor has it a traveling carnival visited those hamlets before the disease struck. Does coincidence not equal causation or is something sinister afoot? A two-hour adventure for 1st-4th level characters.",
+    "description": "Some of the hamlets outlying Hillsfar have been struck by an odd malady. Rumor has it a traveling carnival visited those hamlets before the disease struck. Does coincidence not equal causation or is something sinister afoot?\n\n A two-hour adventure for 1st-4th level characters.",
     "released": "2015-10-01",
     "items": [
       {
@@ -400,7 +434,7 @@
   {
     "code": "DDEX03-07",
     "name": "Herald of the Moon",
-    "description": "Elanil Elassidil, an elf bard of no small legacy, has put out a call for trustworthy agents. It is time, it seems, for a quietly hidden piece of elven history to become known to the world. Meira Faerenduil, lost knight of Myth Drannor, has been discovered, and must be brought back to civilization. A four-hour adventure for 5th-10th level characters.",
+    "description": "Elanil Elassidil, an elf bard of no small legacy, has put out a call for trustworthy agents. It is time, it seems, for a quietly hidden piece of elven history to become known to the world. Meira Faerenduil, lost knight of Myth Drannor, has been discovered, and must be brought back to civilization.\n\n A four-hour adventure for 5th-10th level characters.",
     "released": "2015-10-01",
     "items": [
       {
@@ -452,7 +486,7 @@
   {
     "code": "DDEX03-08",
     "name": "The Malady of Elventree",
-    "description": "An escaped duergar slave stumbles into the village of Elventree. With her she brings a malady that grips the small settlement in a bout of madness that seems unshakable. Can you find the source of the madness and save yourself and the village’s inhabitants? A four-hour adventure for 5th-10th level characters.",
+    "description": "An escaped duergar slave stumbles into the village of Elventree. With her she brings a malady that grips the small settlement in a bout of madness that seems unshakable. Can you find the source of the madness and save yourself and the village’s inhabitants?\n\n A four-hour adventure for 5th-10th level characters.",
     "released": "2015-11-01",
     "items": [
       {
@@ -485,7 +519,7 @@
   {
     "code": "DDEX03-09",
     "name": "The Waydown",
-    "description": "The recent discovery of an entrance to the Underdark has set local leaders on edge. In a display of initiative, the First Lord of Hillsfar has ordered the construction of defensive structures surrounding what locals have begun to call “The Waydown.” You have been charged with escorting an emissary back to his home in the Underdark without alerting the Red Plumes. A four-hour adventure for 5th-10th level characters.",
+    "description": "The recent discovery of an entrance to the Underdark has set local leaders on edge. In a display of initiative, the First Lord of Hillsfar has ordered the construction of defensive structures surrounding what locals have begun to call “The Waydown.” You have been charged with escorting an emissary back to his home in the Underdark without alerting the Red Plumes.\n\n A four-hour adventure for 5th-10th level characters.",
     "released": "2015-11-01",
     "items": [
       {
@@ -513,7 +547,7 @@
   {
     "code": "DDEX03-10",
     "name": "Quelling the Horde",
-    "description": "The Red Plumes have increased patrols in the region surrounding Hillsfar, and a string of disappearances has followed in their wake. Naturally, this has roused the suspicion of the factions. Join your factions and find out the truth behind the missing farmers. A four-hour adventure for 1st-4th level characters.",
+    "description": "The Red Plumes have increased patrols in the region surrounding Hillsfar, and a string of disappearances has followed in their wake. Naturally, this has roused the suspicion of the factions. Join your factions and find out the truth behind the missing farmers.\n\n A four-hour adventure for 1st-4th level characters.",
     "released": "2015-12-01",
     "items": [
       {
@@ -541,7 +575,7 @@
   {
     "code": "DDEX03-11",
     "name": "The Quest for Sporedome",
-    "description": "In the search for allies in the Underdark, you are called upon to travel through the recently opened Waydown sinkhole to find the lost myconid colony of Sporedome. It is said that they once cultivated a strain of mushrooms that could protect one from falling into madness. Can this be the cure for the rapidly spreading onslaught of insanity? A two-hour adventure for 5th-10th level characters.",
+    "description": "In the search for allies in the Underdark, you are called upon to travel through the recently opened Waydown sinkhole to find the lost myconid colony of Sporedome. It is said that they once cultivated a strain of mushrooms that could protect one from falling into madness. Can this be the cure for the rapidly spreading onslaught of insanity?\n\n A two-hour adventure for 5th-10th level characters.",
     "released": "2015-12-01",
     "items": [
       {
@@ -578,7 +612,7 @@
   {
     "code": "DDEX03-12",
     "name": "Hillsfar Reclaimed",
-    "description": "The time has come to fight back against Hillsfar. Elanil Elassidil tasks you with uncovering valuable information to be used in a strike against the leader of Hillsfar, First Lord Torin Nomerthal himself. The only problem is that what you need is protected within the walls of the city. Part One of *Six Knives for Torin Nomerthal*. A two-hour adventure for 1st-4th level characters.",
+    "description": "The time has come to fight back against Hillsfar. Elanil Elassidil tasks you with uncovering valuable information to be used in a strike against the leader of Hillsfar, First Lord Torin Nomerthal himself. The only problem is that what you need is protected within the walls of the city. Part One of *Six Knives for Torin Nomerthal*.\n\n A two-hour adventure for 1st-4th level characters.",
     "released": "2016-02-01",
     "items": [
       {
@@ -634,7 +668,7 @@
   {
     "code": "DDEX03-14",
     "name": "Death on the Wall",
-    "description": "First Lord Torin Nomerthal and several his advisors will be leaving Hillsfar to inspect the Wall with only a small contingent of Red Plumes. The chance to strike is now! Part Two of *Six Knives for Torin Nomerthal*. A two-hour adventure for 1st-4th level characters.",
+    "description": "First Lord Torin Nomerthal and several his advisors will be leaving Hillsfar to inspect the Wall with only a small contingent of Red Plumes. The chance to strike is now! Part Two of *Six Knives for Torin Nomerthal*.\n\n A two-hour adventure for 1st-4th level characters.",
     "released": "2016-03-01",
     "items": [
       {
@@ -673,7 +707,7 @@
   {
     "code": "DDEX03-15",
     "name": "Szith Morcane Unbound",
-    "description": "With allies gained from denizens of the Underdark, the former drown enclave of Szith Morcane is on the precipice of being retaken. During the battle for Szith Morcane, secrets of the drow community are revealed. What will you do with this knowledge, and how will it affect the outcome of the conflict? A four-hour adventure for 5th-10th level characters.",
+    "description": "With allies gained from denizens of the Underdark, the former drown enclave of Szith Morcane is on the precipice of being retaken. During the battle for Szith Morcane, secrets of the drow community are revealed. What will you do with this knowledge, and how will it affect the outcome of the conflict?\n\n A four-hour adventure for 5th-10th level characters.",
     "released": "2016-03-01",
     "items": [
       {
@@ -714,7 +748,7 @@
   {
     "code": "DDEX03-16",
     "name": "Assault on Maerimydra",
-    "description": "With allies gained from denizens of the Underdark, the former drown enclave of Szith Morcane is on the precipice of being retaken. During the battle for Szith Morcane, secrets of the drow community are revealed. What will you do with this knowledge, and how will it affect the outcome of the conflict? A eight-hour adventure for 5th-10th level characters.",
+    "description": "With allies gained from denizens of the Underdark, the former drown enclave of Szith Morcane is on the precipice of being retaken. During the battle for Szith Morcane, secrets of the drow community are revealed. What will you do with this knowledge, and how will it affect the outcome of the conflict?\n\n A eight-hour adventure for 5th-10th level characters.",
     "released": "2016-03-01",
     "items": [
       {
@@ -819,7 +853,7 @@
   {
     "code": "DDAL05-01",
     "name": "Treasure of the Broken Hoard",
-    "description": "A famous relic hunter seeks adventurers to help her find caches of treasure hidden by the now-defeated followers of the Cult of the Dragon. Her maps and notes may lead the way to great wealth—or a terrible death. And do other parties have designs on the treasure as well?",
+    "description": "A famous relic hunter seeks adventurers to help her find caches of treasure hidden by the now-defeated followers of the Cult of the Dragon. Her maps and notes may lead the way to great wealth—or a terrible death. And do other parties have designs on the treasure as well?\n\n Five 1-Hour Mini-Adventures for 1st & 2nd Level Characters.",
     "released": null,
     "items": [
       {
@@ -874,7 +908,7 @@
   {
     "code": "DDAL05-03",
     "name": "Uninvited Guests",
-    "description": "The Shrine of the Axes has been restored and Raggnar Redtooth, who previously conspired with dragon cultists, is trying to restore his reputation in Parnast by sponsoring a feast. There is just one thing he needs, meat for his feast. Game is supposed to be plentiful in the Weathercote Wood, but the townsfolk are all busy with their own work, and the minions of Bad Fruul are still out there causing trouble. What can go wrong on a simple hunt?",
+    "description": "The Shrine of the Axes has been restored and Raggnar Redtooth, who previously conspired with dragon cultists, is trying to restore his reputation in Parnast by sponsoring a feast. There is just one thing he needs, meat for his feast. Game is supposed to be plentiful in the Weathercote Wood, but the townsfolk are all busy with their own work, and the minions of Bad Fruul are still out there causing trouble. What can go wrong on a simple hunt?\n\n A Two-Hour Adventure for 1st-4th Level Characters.",
     "released": null,
     "items": [
       {
@@ -907,154 +941,53 @@
     ]
   },
   {
-    "code": "DDAL06-02",
-    "name": "The Redemption of Kelvan",
-    "description": "A strange, foreign wizard calling himself Kelvan has appeared at the same time a mountain materializes out of thin air. He asks you to recover the Gloomblade from a Netherese ruin in order to help him with his research into this strange new mountain.",
+    "code": "DDAL05-06",
+    "name": "Beneath the Fetid Chelimber",
+    "description": "The ruined wizard tower in the Marsh of Chelimber may hold a clue to defeating the superintelligent hill giant, Bad Fruul, and prevent him troubling the town of Parnast. To find the tower, adventurers must overcome the watery magic of the fetid marsh and discover or clear a route to the ruins of a previously lost tower.\n\n A Two-Hour Adventure for 1st-4th Level Characters.",
     "released": null,
     "items": [
       {
-        "name": "Boots of Speed",
-        "rarity": "rare",
-        "consumable": false,
-        "count": null
-      },
-      {
-        "name": "Potion of Diminution",
-        "rarity": "rare",
-        "consumable": true,
-        "count": 1
-      },
-      {
-        "name": "Potion of Greater Healing",
-        "rarity": "uncommon",
-        "consumable": true,
-        "count": 1
-      }
-    ],
-    "spellbooks": [
-      {
-        "name": "Shadow Tome",
-        "spells": [
-            { "name": "bestow curse", "level": 3 },
-            { "name": "blight", "level": 4 },
-            { "name": "blindness/deafness", "level": 2 },
-            { "name": "comprehend languages", "level": 1 },
-            { "name": "darkness", "level": 2 },
-            { "name": "darkvision", "level": 2 },
-            { "name": "dispel magic", "level": 3 },
-            { "name": "fear", "level": 3 },
-            { "name": "Evard's black tentacles", "level": 4 },
-            { "name": "find familiar", "level": 1 },
-            { "name": "witch bolt", "level": 1 }
-        ]
-      }
-    ],
-    "storyAwards": []
-  },
-  {
-    "code": "DDAL09-01",
-    "name": "Escape from Elturgard",
-    "description": "Damnation! The entire city of Elturel—along with its denizens—have been drawn into Avernus, the first layer of the Nine Hells! While those fortunate enough to have been outside of the city’s walls have been spared that fate, they’re not yet out of danger! The refugees formed a caravan bound for the nearby city of Baldur’s Gate. Can you keep them safe from devils, bandits, and one another until they reach safety?",
-    "released": null,
-    "items": [
-      {
-        "name": "Amulet of Proof Against Detection and Location",
+        "name": "Ring of Swimming",
         "rarity": "uncommon",
         "consumable": false,
         "count": null
       }
     ],
     "spellbooks": [],
+    "storyAwards": []
+  },
+  {
+    "code": "DDAL05-07",
+    "name": "Chelimber's Descent",
+    "description": "Deep in the Marsh of Chelimber lie the ruins of a great wizard’s tower. SEER has received intelligence, which she imparts via her emissary Hsing, that deep beneath the marsh in the remains of an old tower is knowledge of older magics. This could be just what Parnast needs to resist the onslaught of Bad Fruul and his armies!\n\n A Two-Hour Adventure for 1st-4th Level Characters.",
+    "released": null,
+    "items": [
+      {
+        "name": "Wand of Webs",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Spell Scroll of Lesser Restoration",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      },
+      {
+        "name": "Spell Scroll of Tongues",
+        "rarity": "uncommon",
+        "consumable": true,
+        "count": 1
+      }
+    ],
+    "spellbooks": [],
     "storyAwards": [
       {
-        "name": "Cooler Heads Prevail",
-        "description": "You have spared the murderer, Vollis, in the hopes that she will be brought to justice upon arriving in Baldur’s Gate."
+        "name": "Faction Copyist",
+        "description": "Any character may spend ten downtime days assisting their faction by copying the texts retrieved for SEER. Upon completing this downtime activity, the character may copy one spell from the *Elemental Evil Player’s Companion* of a level they can cast for their spellbook."
       }
     ]
-  },
-  {
-    "code": "DDAL09-02",
-    "name": "Stopped at the Gate",
-    "description": "It’s been a long, arduous trip, but you’re finally here—Baldur’s Gate. You’re not out of peril yet, however, even if you’re leaving the lawless wilds behind you, the streets of the Gate still run red with blood. But you quickly find that arriving at the city wasn’t the biggest challenge at all, now you must convince the city’s rulers to grant asylum to you and those in your charge. Part One of the *Betrayal is in the Blood* series of adventures.",
-    "released": null,
-    "items": [
-      {
-        "name": "Eyes of the Eagle",
-        "rarity": "uncommon",
-        "consumable": false,
-        "count": null
-      },
-      {
-        "name": "Potion of Healing",
-        "rarity": "common",
-        "consumable": true,
-        "count": 1
-      },
-      {
-        "name": "Potion of Poison",
-        "rarity": "uncommon",
-        "consumable": true,
-        "count": 1
-      }
-    ],
-    "spellbooks": [],
-    "storyAwards": []
-  },
-  {
-    "code": "DDAL09-03",
-    "name": "Hungry Shadows",
-    "description": "Bodies continue pile up, and the Flaming Fist still has nothing but a name. Thankfully, the perpetrator of the murders has slipped up and the Flaming Fist has captured one of their underlings, in turn, has revealed the presence of a cult hideout in the sewers beneath the city. The Flaming Fist has asked that you investigate. Are you up for the task? Part Two of the *Betrayal is in the Blood* series of adventures.",
-    "released": null,
-    "items": [
-      {
-        "name": "Gloves of Thievery",
-        "rarity": "uncommon",
-        "consumable": false,
-        "count": null
-      },
-      {
-        "name": "Scroll of Protection (Fiends)",
-        "rarity": "rare",
-        "consumable": true,
-        "count": 1
-      }
-    ],
-    "spellbooks": [],
-    "storyAwards": []
-  },
-  {
-    "code": "DDAL09-04",
-    "name": "Day of the Devil",
-    "description": "The streets of Baldur’s Gate run red with blood. Old blood. The blood of Hellriders. Someone or something is punishing the children for the sins of the father and it’s time to put it to an end. Who and where is Gharizol? Part Three of the *Betrayal is in the Blood* series of adventures.",
-    "released": null,
-    "items": [
-      {
-        "name": "Periapt of Health",
-        "rarity": "uncommon",
-        "consumable": false,
-        "count": null
-      },
-      {
-        "name": "Potion of Healing",
-        "rarity": "common",
-        "consumable": true,
-        "count": 1
-      },
-      {
-        "name": "Potion of Growth",
-        "rarity": "uncommon",
-        "consumable": true,
-        "count": 1
-      },
-      {
-        "name": "Soul Coin",
-        "rarity": "uncommon",
-        "consumable": true,
-        "count": 1
-      }
-    ],
-    "spellbooks": [],
-    "storyAwards": []
   },
   {
     "code": "DDHC-LMOP",
@@ -1068,9 +1001,40 @@
   {
     "code": "DDHC-WDH-03",
     "name": "Blue Alley",
-    "description": "",
+    "description": "The infamous Blue Alley lies hidden in the heart of Waterdeep. Built by a secretive wizard, it is a magic maze full of tricks, traps, strange monsters, and rich treasure. Countless adventurers have ventured inside to test their bravery and skill, yet few have returned. And now it is your turn…\n\n A Four-Hour Adventure for Tier 1 Characters.",
     "released": null,
-    "items": [],
+    "items": [
+      {
+        "name": "Lantern of Revealing",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Moon-Touched Sword",
+        "rarity": "common",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Wand of Secrets",
+        "rarity": "uncommon",
+        "consumable": false,
+        "count": null
+      },
+      {
+        "name": "Amnish Wine (Alchemist's fire)",
+        "rarity": "common",
+        "consumable": true,
+        "count": 5
+      },
+      {
+        "name": "Potion of Healing",
+        "rarity": "common",
+        "consumable": true,
+        "count": 3
+      }
+    ],
     "spellbooks": [],
     "storyAwards": []
   }

@@ -29,6 +29,8 @@ let files: [File] = [
     try File.packageFile(path: "Resources/conventionCreatedContent.json"),
     try File.packageFile(path: "Resources/adventures.json"),
     try File.packageFile(path: "Resources/season1.json"),
+    try File.packageFile(path: "Resources/season3.json"),
+    try File.packageFile(path: "Resources/season5.json"),
     try File.packageFile(path: "Resources/season6.json"),
     try File.packageFile(path: "Resources/season7.json"),
     try File.packageFile(path: "Resources/season8.json"),

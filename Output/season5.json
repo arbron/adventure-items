@@ -1,0 +1,141 @@
+[
+    {
+        "code": "DDAL05-01",
+        "name": "Treasure of the Broken Hoard",
+        "description": "A famous relic hunter seeks adventurers to help her find caches of treasure hidden by the now-defeated followers of the Cult of the Dragon. Her maps and notes may lead the way to great wealth—or a terrible death. And do other parties have designs on the treasure as well?\n\n Five 1-Hour Mini-Adventures for 1st & 2nd Level Characters.",
+        "released": null,
+        "items": [
+            {
+                "name": "Alchemist's fire (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Spell Scroll of Comprehend Languages",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Disguise Self",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [],
+        "storyAwards": [
+            {
+                "name": "Blooddrinker the Bear",
+                "description": "Through care and patience, you now have a bear pet. She is, however, the size of a small housecat. She cannot attack, defend, distract, aid, or otherwise play any role in combat. She can be taught to do simple tricks if treated well and if you spend 20 down time days training her."
+            },
+            {
+                "name": "Friend of Prrrt",
+                "description": "You helped alleviate the suffering of a galeb duhr named Prrrt. It tells others of its kind of your kindness, garnering you a positive reputation among elemental earth creatures. As an action, you can attempt a DC 10 Charisma (Persuasion) check to convince earth creatures of the elemental type not to attack you. As long as you do not attack the creature or other elemental earth creatures, it targets others. This, however, does not protect your allies. You lose this story aware if you attack or otherwise harm an elemental earth creature."
+            },
+            {
+                "name": "Victim of Greed",
+                "description": "You were stung by greed, and your soul has been infected by the deadly sin. When you’re in the presence of great wealth (in the form of coins or gems/jewelry worth over 1,000 gp), you are stunned until the end of your first turn, as your mind reels at such great wealth. This can be removed with a *remove curse*."
+            },
+            {
+                "name": "Hated by Giants",
+                "description": "You unwisely removed one of the sacred plates of Annam from his shrine. You are now cursed. Giants who see you know that you have offended the greatest of their gods, and they target you before your allies in a fight. They also have advantage on attacks against you. This can be removed with a *remove curse*. You also have possession of one or more plates, but no one seems to want to buy them from you."
+            },
+            {
+                "name": "Friend of Kraddokk",
+                "description": "You talked with the storm giant Kraddokk and did not desecrate the shrine of Annam. He tells his friends about your interaction with him. This friendship might bear fruit at a later date."
+            }
+        ]
+    },
+    {
+        "code": "DDAL05-03",
+        "name": "Uninvited Guests",
+        "description": "The Shrine of the Axes has been restored and Raggnar Redtooth, who previously conspired with dragon cultists, is trying to restore his reputation in Parnast by sponsoring a feast. There is just one thing he needs, meat for his feast. Game is supposed to be plentiful in the Weathercote Wood, but the townsfolk are all busy with their own work, and the minions of Bad Fruul are still out there causing trouble. What can go wrong on a simple hunt?\n\n A Two-Hour Adventure for 1st-4th Level Characters.",
+        "released": null,
+        "items": [
+            {
+                "name": "Brooch of Shielding",
+                "rarity": "uncommon",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [],
+        "storyAwards": [
+            {
+                "name": "A Giant Challenge",
+                "description": "You have earned the respect of Prince Thornacious. He challenges you to befriend a giant, as he has done with you, (*Huge* sized humanoid), without using charm effects. If you do, (DMs judgement), you may spend five downtime days to return to Thornacious, who uses Heart Sight to tell if you are true of heart. He bestows upon you the title: Adoness (Peacekeeper). This title grants you advantage on Charisma ability checks with good aligned fey."
+            },
+            {
+                "name": "Defenders of Parnast",
+                "description": "You have repelled the enemies of Parnast and instilled confidence in the people. You’ll never sleep in a barn again while in Parnast. Everyone opens their doors to you."
+            },
+            {
+                "name": "Glory Before Goodwill",
+                "description": "You chose to put personal glory above saving a villager of Parnast that was in need. Until you spend 10 downtime days repairing your reputation with the village, you have disadvantage on all Charisma ability checks and are charged 50% higher rate for all goods and services, except at the Golden Tankard, where Raggnar understands that tough decisions must occasionally be made."
+            }
+        ]
+    },
+    {
+        "code": "DDAL05-06",
+        "name": "Beneath the Fetid Chelimber",
+        "description": "The ruined wizard tower in the Marsh of Chelimber may hold a clue to defeating the superintelligent hill giant, Bad Fruul, and prevent him troubling the town of Parnast. To find the tower, adventurers must overcome the watery magic of the fetid marsh and discover or clear a route to the ruins of a previously lost tower.\n\n A Two-Hour Adventure for 1st-4th Level Characters.",
+        "released": null,
+        "items": [
+            {
+                "name": "Ring of Swimming",
+                "rarity": "uncommon",
+                "consumable": false,
+                "count": null
+            }
+        ],
+        "spellbooks": [],
+        "storyAwards": []
+    },
+    {
+        "code": "DDAL05-07",
+        "name": "Chelimber's Descent",
+        "description": "Deep in the Marsh of Chelimber lie the ruins of a great wizard’s tower. SEER has received intelligence, which she imparts via her emissary Hsing, that deep beneath the marsh in the remains of an old tower is knowledge of older magics. This could be just what Parnast needs to resist the onslaught of Bad Fruul and his armies!\n\n A Two-Hour Adventure for 1st-4th Level Characters.",
+        "released": null,
+        "items": [
+            {
+                "name": "Wand of Webs",
+                "rarity": "uncommon",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Spell Scroll of Lesser Restoration",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Tongues",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [],
+        "storyAwards": [
+            {
+                "name": "Faction Copyist",
+                "description": "Any character may spend ten downtime days assisting their faction by copying the texts retrieved for SEER. Upon completing this downtime activity, the character may copy one spell from the *Elemental Evil Player’s Companion* of a level they can cast for their spellbook."
+            }
+        ]
+    }
+]

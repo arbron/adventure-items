@@ -18,11 +18,17 @@ extension Publish.Item where Site == AdventureItemsSite {
     static func item(for adventure: Adventure) -> Self {
         var tags: Set<Tag> = []
         for item in adventure.items {
-            tags.insert("items")
-            tags.insert("rarity: \(item.rarity.name)")
-            if item.name.hasPrefix("Spell Scroll of ") {
-                let spellName = item.name.dropFirst("Spell Scroll of ".count)
-                tags.insert("spell: \(spellName.lowercased())")
+            if !item.consumable {
+                tags.insert("items")
+                tags.insert("rarity: \(item.rarity.name)")
+                if item.name.hasPrefix("Spell Scroll of ") {
+                    let spellName = item.name.dropFirst("Spell Scroll of ".count)
+                    tags.insert("spell: \(spellName.lowercased())")
+                }
+            } else if item.name.hasPrefix("Potion") {
+                tags.insert("potions")
+            } else if item.name.hasPrefix("Scroll") || item.name.hasPrefix("Spell Scroll") {
+                tags.insert("scrolls")
             }
         }
         for spellbook in adventure.spellbooks {

@@ -1,82 +1,5 @@
 [
   {
-    "code": "CCC-GSP01-01",
-    "name": "A Dragon's Breath",
-    "description": "Ragvala, also known as the \"Coinmaker\", is an ancient gold dragon who wishes to mend his broken friendship with his old adventuring buddy. Recently, he has heard rumors that his friend’s old magical instrument has resurfaced in the Quivering Forest. Unable to change shape anymore, the dragon needs the help of skilled adventurers who can join him on his quest.",
-    "released": null,
-    "items": [
-      {
-        "name": "Dragon's Lullaby (Instrument of the Bards - Mac-Fuirmidh cittern)",
-        "rarity": "uncommon",
-        "consumable": false,
-        "count": null
-      },
-      {
-        "name": "Spell Scroll of Comprehend Languages",
-        "rarity": "common",
-        "consumable": true,
-        "count": 1
-      }
-    ],
-    "spellbooks": [],
-    "storyAwards": [
-      {
-        "name": "Five-Leaf Clover Initiate",
-        "description": "A senior member of the Five Leaf Clover has taken a liking of you and made you a junior member of their adventuring group. A magical tattoo of a five-leaf clover has been permanently placed at the back of your right hand. When you put your will to it, harmless green flame erupts from the tattoo and engulfs your hand."
-      }
-    ]
-  },
-  {
-    "code": "CCC-GSP01-02",
-    "name": "Brotherhood",
-    "description": "Ragvala, an ancient gold dragon and the founder of the Five-Leaf Clover is dead. A funeral ceremony will be held in 3 days before he becomes one with the earth. Rokstasha, his friend and a djinni has asked the help of the adventurers to find the other members of the Five-Leaf Clover if they are still alive and have them attend the ceremony. Don’t be late! Part 2 of the *Clover Group Series*.",
-    "released": null,
-    "items": [
-      {
-        "name": "Pipe of Smoke Monsters",
-        "rarity": "common",
-        "consumable": false,
-        "count": null
-      }
-    ],
-    "spellbooks": [],
-    "storyAwards": [
-      {
-        "name": "Five-Leaf Clover Initiate",
-        "description": "A senior member of the Five Leaf Clover has taken a liking of you and made you a junior member of their adventuring group. A magical tattoo of a five-leaf clover has been permanently placed at the back of your right hand. When you put your will to it, harmless green flame erupts from the tattoo and engulfs your hand."
-      },
-      {
-        "name": "Doomguide of Kelemvor",
-        "description": "You are now an official priest of Kelemvor, also known as a Doomguide. You have received a set of smoky grey priestly vestments with the symbol of Kelemvor and a cowled cloak with a white domino mask that emanates harmless blue flame whenever you wear it. You also gain the following ideal, \"Death is but part of life: fear it not, evade it not, and view it not as evil.\""
-      }
-    ]
-  },
-  {
-    "code": "CCC-GSP01-03",
-    "name": "Tainted Love",
-    "description": "Rizgrim, the Great Doomguide of Kelemvor has discovered that the land within the Quivering Forest near the burial site of her friend is slowly being consumed by dark magic. The adventurers have been asked to find the source and eliminate it as soon as possible. Failing on this task could turn her dead friend into a dracolich. Nobody wants that! Right?! Part 3 of the *Clover Group Series*.",
-    "released": null,
-    "items": [
-      {
-        "name": "Cloak of Many Fashions",
-        "rarity": "common",
-        "consumable": false,
-        "count": null
-      }
-    ],
-    "spellbooks": [],
-    "storyAwards": [
-      {
-        "name": "In Search of Her",
-        "description": "You have found and read the journal of Tho’Guroh, containing information on how to find a hag’s dark lair. Whenever you succeed in finding a hag’s lair, a trail of thin mist appears, leading up to the location you are looking for. While the mist is present, you hear whispers of a very convincing old woman telling you to get \"samples\" from your party members, like a strand of hair, spit, dead skin, fingernails, etc. Remove this story award when you meet Jenny Greenteeth."
-      },
-      {
-        "name": "Clingy Jelly!",
-        "description": "You spared the life of an oblex spawn. As a token of appreciation, it separates a part of itself and places a thin translucent layer of star-shaped green goo on your forehead. Whenever you are in combat, the goo stretches and changes shape, becoming a horn. Whenever you die, its shape changes into a small, flat skull. You can remove this story award by casting *lesser restoration* on yourself."
-      }
-    ]
-  },
-  {
     "code": "DDAL00-04",
     "name": "Winter's Flame",
     "description": "This year’s Midwinter holiday efforts have been met with unusual obstacles: small stockpiles rummaged through, foods spoiling, ale casks leaking, festive clothes torn up, and crucial pembelon fruits missing. With schedules and deadlines rigid, any bigger bumps in the road might result in disaster. Who would want to keep the people of Chult from celebrating this long-revered holiday?",
@@ -119,6 +42,57 @@
     ],
     "spellbooks": [],
     "storyAwards": []
+  },
+  {
+      "code": "DDEX01-10",
+      "name": "Tyranny in Phlan",
+      "description": "The Maimed Virulence has come. The future of the Cinnabar Throne and the lives of the denizens of Phlan are in jeopardy. The Cult of the Dragon rejoices, and the Black Fist is powerless to stop them. How will the factions of the city respond to this threat? Can Phlan be saved this time? Part One of *Under Emerald Claws*.\n\n An adventure for 5th-10th level characters.",
+      "released": "2014-12-01",
+      "items": [
+          {
+              "name": "Ioun Stone of Protection",
+              "rarity": "rare",
+              "consumable": false,
+              "count": null
+          },
+          {
+              "name": "Potion of Healing",
+              "rarity": "common",
+              "consumable": true,
+              "count": 4
+          },
+          {
+              "name": "Spell Scroll of Sending",
+              "rarity": "uncommon",
+              "consumable": true,
+              "count": 1
+          }
+      ],
+      "spellbooks": [
+          {
+              "name": "Ixusaxa’s Spellbook",
+              "spells": [
+                  { "name": "detect magic", "level": 1 },
+                  { "name": "mage armor", "level": 1 },
+                  { "name": "magic missile", "level": 1 },
+                  { "name": "shield", "level": 1 },
+                  { "name": "misty step", "level": 2 },
+                  { "name": "suggestion", "level": 2 },
+                  { "name": "counterspell", "level": 3 },
+                  { "name": "fireball", "level": 3 },
+                  { "name": "fly", "level": 3 },
+                  { "name": "ice storm", "level": 4 },
+                  { "name": "stoneskin", "level": 4 },
+                  { "name": "cone of cold", "level": 5 }
+          ]
+          }
+      ],
+      "storyAwards": [
+          {
+              "name": "In Dark Linsa’s Pocket",
+              "description": "In exchange for her assistance in smuggling more than ten dozen people out of Phlan, you have become indebted to the half-drow rogue, Dark Linsa. Despite how ominous this might sound, she was quite impressed by your actions and may call upon you to perform some important task for her in the future."
+          }
+      ]
   },
   {
     "code": "DDEP03-01",
@@ -1087,51 +1061,6 @@
         "description": "Any character may spend ten downtime days assisting their faction by copying the texts retrieved for SEER. Upon completing this downtime activity, the character may copy one spell from the *Elemental Evil Player’s Companion* of a level they can cast for their spellbook."
       }
     ]
-  },
-  {
-    "code": "DDAL06-02",
-    "name": "The Redemption of Kelvan",
-    "description": "A strange, foreign wizard calling himself Kelvan has appeared at the same time a mountain materializes out of thin air. He asks you to recover the Gloomblade from a Netherese ruin in order to help him with his research into this strange new mountain.\n\n A Two-Hour Adventure for 5th-10th Level Characters.",
-    "released": null,
-    "items": [
-      {
-        "name": "Boots of Speed",
-        "rarity": "rare",
-        "consumable": false,
-        "count": null
-      },
-      {
-        "name": "Potion of Diminution",
-        "rarity": "rare",
-        "consumable": true,
-        "count": 1
-      },
-      {
-        "name": "Potion of Greater Healing",
-        "rarity": "uncommon",
-        "consumable": true,
-        "count": 1
-      }
-    ],
-    "spellbooks": [
-      {
-        "name": "Shadow Tome",
-        "spells": [
-            { "name": "bestow curse", "level": 3 },
-            { "name": "blight", "level": 4 },
-            { "name": "blindness/deafness", "level": 2 },
-            { "name": "comprehend languages", "level": 1 },
-            { "name": "darkness", "level": 2 },
-            { "name": "darkvision", "level": 2 },
-            { "name": "dispel magic", "level": 3 },
-            { "name": "fear", "level": 3 },
-            { "name": "Evard's black tentacles", "level": 4 },
-            { "name": "find familiar", "level": 1 },
-            { "name": "witch bolt", "level": 1 }
-        ]
-      }
-    ],
-    "storyAwards": []
   },
   {
     "code": "DDAL08-07",

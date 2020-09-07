@@ -25,8 +25,13 @@ struct AdventureItemsSite: Website {
 let decoder = JSONDecoder()
 decoder.dateDecodingStrategy = .formatted(.iso8601date)
 
-let adventuresFile = try File.packageFile(path: "Resources/adventures.json")
-let adventures = try decoder.decode([Adventure].self, from: Data(contentsOf: adventuresFile.url))
+let files: [File] = [
+    try File.packageFile(path: "Resources/conventionCreatedContent.json"),
+    try File.packageFile(path: "Resources/adventures.json"),
+    try File.packageFile(path: "Resources/season6.json")
+]
+
+let adventures: [Adventure] = try decoder.decode([Adventure].self, files: files)
 let adventureList: [Publish.Item<AdventureItemsSite>] = adventures.map { .item(for: $0) }
 
 let publishSteps: [PublishingStep<AdventureItemsSite>] = [
@@ -37,7 +42,7 @@ let publishSteps: [PublishingStep<AdventureItemsSite>] = [
     .generateHTML(withTheme: .foundation),
     .generateRSSFeed(including: [.adventures]),
     .generateSiteMap(),
-    .installPlugin(try .prependAllPaths("adventure-items/"))
+//    .installPlugin(try .prependAllPaths("adventure-items/"))
 ]
 
 // This will generate your website using the built-in Foundation theme:

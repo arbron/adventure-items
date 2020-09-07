@@ -26,18 +26,18 @@ let decoder = JSONDecoder()
 decoder.dateDecodingStrategy = .formatted(.iso8601date)
 
 let files: [File] = [
-    try File.packageFile(path: "Resources/conventionCreatedContent.json"),
-    try File.packageFile(path: "Resources/hardcovers.json"),
-    try File.packageFile(path: "Resources/season0.json"),
-    try File.packageFile(path: "Resources/season1.json"),
-    try File.packageFile(path: "Resources/season2.json"),
-    try File.packageFile(path: "Resources/season3.json"),
-    try File.packageFile(path: "Resources/season4.json"),
-    try File.packageFile(path: "Resources/season5.json"),
-    try File.packageFile(path: "Resources/season6.json"),
-    try File.packageFile(path: "Resources/season7.json"),
-    try File.packageFile(path: "Resources/season8.json"),
-    try File.packageFile(path: "Resources/season9.json")
+    try File.packageFile(path: "Sources/Data/conventionCreatedContent.json"),
+    try File.packageFile(path: "Sources/Data/hardcovers.json"),
+    try File.packageFile(path: "Sources/Data/season0.json"),
+    try File.packageFile(path: "Sources/Data/season1.json"),
+    try File.packageFile(path: "Sources/Data/season2.json"),
+    try File.packageFile(path: "Sources/Data/season3.json"),
+    try File.packageFile(path: "Sources/Data/season4.json"),
+    try File.packageFile(path: "Sources/Data/season5.json"),
+    try File.packageFile(path: "Sources/Data/season6.json"),
+    try File.packageFile(path: "Sources/Data/season7.json"),
+    try File.packageFile(path: "Sources/Data/season8.json"),
+    try File.packageFile(path: "Sources/Data/season9.json")
 ]
 
 let adventures: [Adventure] = try decoder.decode([Adventure].self, files: files)
@@ -51,7 +51,7 @@ let publishSteps: [PublishingStep<AdventureItemsSite>] = [
     .generateHTML(withTheme: .foundation),
     .generateRSSFeed(including: [.adventures]),
     .generateSiteMap(),
-    .installPlugin(try .prependAllPaths("adventure-items/"))
+//    .installPlugin(try .prependAllPaths("adventure-items/"))
 ]
 
 // This will generate your website using the built-in Foundation theme:

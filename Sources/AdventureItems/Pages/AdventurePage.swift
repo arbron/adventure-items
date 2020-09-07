@@ -33,7 +33,7 @@ extension Publish.Item where Site == AdventureItemsSite {
         for spellbook in adventure.spellbooks {
             tags.insert("spellbooks")
             for spell in spellbook.spells {
-                tags.insert("spell: \(spell.name)")
+                tags.insert("spell: \(spell.name.lowercased())")
             }
         }
         if !adventure.storyAwards.isEmpty {

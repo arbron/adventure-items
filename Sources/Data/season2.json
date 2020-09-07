@@ -60,7 +60,7 @@
                 "count": 1
             },
             {
-                "name": "Spell Scroll of Maximilian's Earthen Graps",
+                "name": "Spell Scroll of Maximilian's Earthen Grasp",
                 "rarity": "uncommon",
                 "consumable": true,
                 "count": 1
@@ -342,7 +342,7 @@
                     { "name": "charm person", "level": 1 },
                     { "name": "earth tremor", "level": 1 },
                     { "name": "magic missile", "level": 1 },
-                    { "name": "shocking graps", "level": 1 },
+                    { "name": "shocking grasp", "level": 1 },
                     { "name": "earthbind", "level": 2 },
                     { "name": "hold person", "level": 2 },
                     { "name": "invisibility", "level": 2 },

@@ -48,10 +48,10 @@ let publishSteps: [PublishingStep<AdventureItemsSite>] = [
     .copyResources(),
     .addItems(in: adventureList),
     .sortItems(by: \.content.title),
-    .generateHTML(withTheme: .foundation),
+    .generateHTML(withTheme: .league),
     .generateRSSFeed(including: [.adventures]),
     .generateSiteMap(),
-//    .installPlugin(try .prependAllPaths("adventure-items/"))
+    .installPlugin(try .prependAllPaths("adventure-items/"))
 ]
 
 // This will generate your website using the built-in Foundation theme:

@@ -21,14 +21,13 @@ extension Publish.Item where Site == AdventureItemsSite {
             if !item.consumable {
                 tags.insert("items")
                 tags.insert("rarity: \(item.rarity.name)")
-                if item.name.hasPrefix("Spell Scroll of ") {
-                    let spellName = item.name.dropFirst("Spell Scroll of ".count)
-                    tags.insert("spell: \(spellName.lowercased())")
-                }
             } else if item.name.hasPrefix("Potion") {
                 tags.insert("potions")
             } else if item.name.hasPrefix("Scroll") || item.name.hasPrefix("Spell Scroll") {
                 tags.insert("scrolls")
+                if let spellName = item.name.removePrefix("Spell Scroll of ") {
+                    tags.insert("spell: \(spellName.lowercased())")
+                }
             }
         }
         for spellbook in adventure.spellbooks {

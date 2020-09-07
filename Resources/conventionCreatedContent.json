@@ -164,5 +164,76 @@
                 "description": "You spared the life of an oblex spawn. As a token of appreciation, it separates a part of itself and places a thin translucent layer of star-shaped green goo on your forehead. Whenever you are in combat, the goo stretches and changes shape, becoming a horn. Whenever you die, its shape changes into a small, flat skull. You can remove this story award by casting *lesser restoration* on yourself."
             }
         ]
+    },
+    {
+        "code": "CCC-NBDD01-01",
+        "name": "Clever",
+        "description": "A strange new crime family has been growing and tightening its grips on local businesses. Any who refuse their offers are found dead shortly after, torn apart by claws and teeth. Who is behind this wave of organized crime?\n\n A Two-Hour Adventure for Tier 2 Characters.",
+        "released": null,
+        "items": [
+            {
+                "name": "Portable Hole",
+                "rarity": "rare",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Tyrant Lizard Transporter’s Spellbook",
+                "spells": [
+                    { "name": "alarm", "level": 1 },
+                    { "name": "disguise self", "level": 1 },
+                    { "name": "illusory script", "level": 1 },
+                    { "name": "Tenser's floating disk", "level": 1 },
+                    { "name": "unseen servant", "level": 1 },
+                    { "name": "arcane lock", "level": 2 },
+                    { "name": "enlarge/reduce", "level": 2 },
+                    { "name": "levitate", "level": 2 },
+                    { "name": "rope trick", "level": 2 },
+                    { "name": "fly", "level": 3 },
+                    { "name": "gaseous form", "level": 3 },
+                    { "name": "nondetection", "level": 3 },
+                    { "name": "sending", "level": 3 },
+                    { "name": "fabricate", "level": 4 },
+                    { "name": "Leomund's secret chest", "level": 4 },
+                    { "name": "telekinesis", "level": 5 }
+                ]
+            }
+        ],
+        "storyAwards": []
+    },
+    {
+        "code": "CCC-NBDD01-02",
+        "name": "Where Can She Be?",
+        "description": "A master criminal has been making her way across the Moonsea, stealing priceless treasures at every stop. It's up to you to trace her steps, find her allies, and stop her before she can claim her final prize.\n\n A Two to Four-Hour Adventure for Tier 2 Characters.",
+        "released": null,
+        "items": [
+            {
+                "name": "Clockwork Amulet",
+                "rarity": "common",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Hat of Disguise",
+                "rarity": "uncommon",
+                "consumable": false,
+                "count": null
+            }
+        ],
+        "spellbooks": [],
+        "storyAwards": [
+            {
+                "name": "Do It A Capella",
+                "description": "You have performed with the traveling a capella kenku bard troupe, Roc Capella. Should you encounter them again, you will be welcome to join in their performance and are treated as part of the band."
+            }
+        ]
     }
 ]

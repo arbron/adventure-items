@@ -1,0 +1,80 @@
+[
+    {
+        "code": "DDAL07-02",
+        "name": "Over the Edge",
+        "description": "In response to a new but as-of-yet-unnamed threat, the factions have called upon adventurers to venture into the jungle in search of a location for a new base of operations. As such, you have been charged with scouting several locations to assess their viability. Surely something so trivial as a scouting mission couldn’t go wrong?\n\n Five One-Hour Adventures for 5th-10th Level Characters",
+        "released": null,
+        "items": [
+            {
+                "name": "Potion of Animal Friendship",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 4
+            },
+            {
+                "name": "Potion of Invulnerability",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Poison",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Psychic)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Potion of Water Breathing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 4
+            },
+            {
+                "name": "Scroll of Protection (Aberrations)",
+                "rarity": "rare",
+                "consumable": false,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Remove Curse",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Tongues",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Naga's Spellbook",
+                "spells": [
+                    { "name": "control water", "level": 4 },
+                    { "name": "fire shield", "level": 4 },
+                    { "name": "ice storm", "level": 4 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Honorary Clan Member",
+                "description": "For your assistance in saving the lives of the peaceful yuan-ti clan known as the Misty Cliff clan, they have made you an honorary member of their clan. If you are in need and a member of the clan is nearby, they provide whatever help they can. The same is expected of you if the clan requires assistance."
+            }
+        ]
+    }
+]

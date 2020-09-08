@@ -10,9 +10,7 @@ struct AdventureItemsSite: Website {
         case adventures
     }
 
-    struct ItemMetadata: WebsiteItemMetadata {
-        // Add any site-specific metadata that you want to use here.
-    }
+    struct ItemMetadata: WebsiteItemMetadata { }
 
     // Update these properties to configure your website:
     var url = URL(string: "https://arbron.github.io/adventure-items/")!

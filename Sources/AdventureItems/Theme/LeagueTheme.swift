@@ -160,7 +160,7 @@ private extension Node where Context == HTML.BodyContext {
             .forEach(items) { item in
                 .li(.article(
                     .h1(.a(.href(item.path), .text(item.title))),
-                    .tagList(for: item, on: site),
+//                    .tagList(for: item, on: site),
                     .p(.text(item.description))
                 ))
             }

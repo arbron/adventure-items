@@ -115,6 +115,13 @@ a {
     margin-right: 5px;
 }
 
+.tag-list li.spell {
+    background-color: #001193;
+}
+.tag-list li.rarity {
+    background-color: #ab0000;
+}
+
 .tag-list a,
 .tag a {
     text-decoration: none;

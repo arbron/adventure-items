@@ -14,24 +14,36 @@ struct Adventure: Codable {
 
     var released: Date?
 
-//    var source: Source {
-//        .season(1)
-//    }
+    var source: Source { Source(code) }
 
     var items: [Item]
     var spellbooks: [Spellbook]
     var storyAwards: [StoryAward]
+    
 
-//    enum Source {
-//        case season(Int)
-//        case conventionCreatedContent
-//
-//        init(_ code: String) {
-//            if code.hasPrefix("CCC") {
-//                self = .conventionCreatedContent
-//            } else {
-//                let season = code[4...6]
-//            }
-//        }
-//    }
+    private static var formatter: NumberFormatter {
+        let formatter = NumberFormatter()
+        formatter.numberStyle = .none
+        formatter.allowsFloats = false
+        return formatter
+    }
+    enum Source {
+        case season(Int)
+        case hardcover
+        case conventionCreatedContent(String)
+
+        init(_ code: String) {
+            if let remainder = code.removePrefix("CCC-") {
+                guard let dashIdx = remainder.firstIndex(of: "-") else { fatalError("Invalid CCC code: \(code)") }
+                self = .conventionCreatedContent("\(remainder.prefix(upTo: dashIdx))")
+            } else if let remainder = code.removePrefix("DDAL") ?? code.removePrefix("DDEX") ?? code.removePrefix("DDEP") {
+                guard let seasonNum = Adventure.formatter.number(from: "\(remainder.prefix(2))") else { fatalError("Invalid Season code: \(code)") }
+                self = .season(seasonNum.intValue)
+            } else if let _ = code.removePrefix("DDHC-") {
+                self = .hardcover
+            } else {
+                fatalError("Invalid adventure code: \(code)")
+            }
+        }
+    }
 }

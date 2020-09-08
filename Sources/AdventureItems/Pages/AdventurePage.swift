@@ -59,6 +59,16 @@ extension Publish.Item where Site == AdventureItemsSite {
             }
         }
 
+        switch adventure.source {
+        case .conventionCreatedContent:
+            tags.insert("convention created content")
+        case .season(let number):
+            if number == 0 { tags.insert("season agnostic") }
+            else { tags.insert("season \(number)") }
+        case .hardcover:
+            tags.insert("hardcover")
+        }
+
         return Self(
             path: Path(adventure.code.lowercased()),
             sectionID: ASite.SectionID.adventures,

@@ -160,7 +160,6 @@ private extension Node where Context == HTML.BodyContext {
             .forEach(items) { item in
                 .li(.article(
                     .h1(.a(.href(item.path), .text(item.title))),
-//                    .tagList(for: item, on: site),
                     .p(.text(item.description))
                 ))
             }
@@ -168,10 +167,13 @@ private extension Node where Context == HTML.BodyContext {
     }
 
     static func tagList<T: Website>(for item: Publish.Item<T>, on site: T) -> Node {
-        .ul(
+        return .ul(
             .class("tag-list"),
             .forEach(item.tags) { tag in
-                .li(.a(.href(site.path(for: tag)), .text(tag.string)))
+                .li(
+                    .class(tag.tagClass ?? ""),
+                    .a(.href(site.path(for: tag)), .text(tag.string))
+                )
             }
         )
     }

@@ -78,7 +78,9 @@ extension Publish.Item where Site == AdventureItemsSite {
         return Self(
             path: Path(adventure.code.lowercased()),
             sectionID: ASite.SectionID.adventures,
-            metadata: ASite.ItemMetadata(),
+            metadata: ASite.ItemMetadata(
+                adventure: adventure
+            ),
             tags: Array(tags).sorted(),
             content: Content(
                 title: "\(adventure.code) - \(adventure.name)",

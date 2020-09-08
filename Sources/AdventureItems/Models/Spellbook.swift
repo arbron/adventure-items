@@ -7,12 +7,12 @@
 
 import Foundation
 
-struct Spellbook: Codable {
+struct Spellbook: Codable, Hashable {
     var name: String
     var spells: [Spell]
 }
 
-struct Spell: Codable {
+struct Spell: Codable, Hashable {
     var name: String
     var level: Int
 }

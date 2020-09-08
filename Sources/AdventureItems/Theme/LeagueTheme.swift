@@ -31,7 +31,7 @@ private struct LeagueHTMLFactory<Site: Website>: HTMLFactory {
                         .class("description"),
                         .text(context.site.description)
                     ),
-                    .itemList(for: context.allItems(sortedBy: \.title, order: .ascending), on: context.site)
+                    .itemList(for: context.customSortedAllItems(), on: context.site)
                 ),
                 .footer(for: context.site)
             )
@@ -225,5 +225,27 @@ private extension Node where Context == HTML.BodyContext {
                 .a(.href("/feed.rss"), .text("RSS feed"))
             )
         )
+    }
+}
+
+private extension PublishingContext {
+    func customSortedAllItems(order: SortOrder = .ascending) -> [Publish.Item<Site>] {
+        return sections.flatMap {
+            $0.items.sorted {
+                let lhs = $0.title.makeSortableCode()
+                let rhs = $1.title.makeSortableCode()
+                switch order {
+                case .ascending: return lhs < rhs
+                case .descending: return lhs > rhs
+                }
+            }
+        }
+    }
+}
+
+private extension String {
+    func makeSortableCode() -> String {
+        return replacingOccurrences(of: "DDEX", with: "DDAL")
+            .replacingOccurrences(of: "CCC", with: "zzzCCC")
     }
 }

@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Item: Codable {
+struct Item: Codable, Hashable {
     var name: String
     var rarity: Rarity
     var consumable: Bool

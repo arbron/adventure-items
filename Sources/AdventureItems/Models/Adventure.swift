@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Adventure: Codable {
+struct Adventure: Codable, Hashable {
     var code: String
     var name: String
     var description: String

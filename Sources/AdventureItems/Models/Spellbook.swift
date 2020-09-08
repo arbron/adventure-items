@@ -10,6 +10,7 @@ import Foundation
 struct Spellbook: Codable, Hashable {
     var name: String
     var spells: [Spell]
+    @DecodableDefault.EmptyString var note: String
 }
 
 struct Spell: Codable, Hashable {

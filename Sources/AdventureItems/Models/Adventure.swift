@@ -16,10 +16,9 @@ struct Adventure: Codable, Hashable {
 
     var source: Source { Source(code) }
 
-    var items: [Item]
-    var spellbooks: [Spellbook]
-    var storyAwards: [StoryAward]
-    
+    @DecodableDefault.EmptyList var items: [Item]
+    @DecodableDefault.EmptyList var spellbooks: [Spellbook]
+    @DecodableDefault.EmptyList var storyAwards: [StoryAward]
 
     private static var formatter: NumberFormatter {
         let formatter = NumberFormatter()

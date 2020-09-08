@@ -134,7 +134,8 @@ extension Publish.Item where Site == AdventureItemsSite {
                 if let spells = ListFormatter().string(from: spellbook.spells.map { $0.name }) {
                     return .li(
                         .strong("\(spellbook.name): "),
-                        "\(spells)"
+                        "\(spells)",
+                        .if(spellbook.note != "", .text(spellbook.note))
                     )
                 } else {
                     return .li(.strong("\(spellbook.name)"))

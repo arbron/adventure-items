@@ -118,7 +118,7 @@ private struct LeagueHTMLFactory<Site: Website>: HTMLFactory {
                         .href(context.site.tagListPath)
                     ),
                     .itemList(
-                        for: context.items(taggedWith: page.tag, sortedBy: \.date, order: .descending),
+                        for: context.items(taggedWith: page.tag, sortedBy: \.title, order: .ascending),
                         on: context.site
                     )
                 ),

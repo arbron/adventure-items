@@ -1,5 +1,100 @@
 [
     {
+        "code": "DDEX01-01",
+        "name": "Defiance in Phlan",
+        "description": "The Cult of the Dragon has come to Phlan, a lawless refuge on the Moonsea. Now, with no significant authority to stop the cult, other power groups in the Realms—the Harpers, Order of the Gauntlet, Emerald Enclave, Lords’ Alliance, and even the Zhentarim—must unite to stop the cult from fulfilling its dark purpose in the city. Join the fight by participating in any one of five different missions aimed at stopping the cult.\n\n An introductory adventure for 1st-level characters.",
+        "released": "2014-09-01",
+        "items": [
+            {
+                "name": "Enchanted Blue Dragon's Tooth",
+                "rarity": "common",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Potion of Climbing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Spell Scroll of Comprehend Languages",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Protection from Evil and Good",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [],
+        "storyAwards": []
+    },
+    {
+        "code": "DDEX01-02",
+        "name": "Secrets of Sokol Keep",
+        "description": "Decades have passed since Sokol Keep was reclaimed, and a small garrison placed there along with a beacon to help guide ships. Now, that beacon has gone dark, and the garrison has disappeared. In Phlan, rumors circulate that something ancient was discovered in the grounds beneath the keep, dating to before the clerics of Tyr built the small fortress. Uncover the secrets of Sokol Keep!\n\n An adventure for 1st–4th level characters.",
+        "released": "2014-09-01",
+        "items": [
+            {
+                "name": "Moonsea Cults (Book)",
+                "rarity": "common",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Splint Armor",
+                "rarity": "common",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Wand of Magic Detection",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": null
+            }
+        ],
+        "spellbooks": [],
+        "storyAwards": [
+            {
+                "name": "Enmity of the Black Fist",
+                "description": "An innocent man died by your hand during the barroom brawl in the *Laughing Goblin*. Though you were arrested for your crimes, your faction eventually procured your release. The Black Fist, however, still associates you with your crimes. So long as you have this enmity, all future Charisma (Deception, Intimidation, and Persuasion) checks made against members of the Black Fist are made with disadvantage."
+            }
+        ]
+    },
+    {
+        "code": "DDEX01-03",
+        "name": "Shadows over the Moonsea",
+        "description": "Life on the Moonsea isn’t easy. Bandits, pirates, and cruel lords dominate the land, threatening those who make an honest living there. Now, a new scourge is prowling the waters: A ghost ship has been striking small coastal villages, leaving its victims whispering about the “eye of the dracolich.” Join the adventure and learn the truth behind this threat!\n\n An adventure for 1st–4th level characters.",
+        "released": "2014-09-01",
+        "items": [
+            {
+                "name": "Ring of Evasion",
+                "rarity": "rare",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "spellbooks": [],
+        "storyAwards": []
+    },
+    {
         "code": "DDEX01-04",
         "name": "Dues for the Dead",
         "description": "For years, the Most Solemn Order of the Silent Shroud has tended the dead at Valinghen graveyard, p g them a peaceful eternal rest. Now, that rest has been disturbed by a necromancer seeking out a key to re-activate the Pool of Radiance.\n\n An adventure for 1st–4th level characters.",
@@ -29,6 +124,95 @@
         ]
     },
     {
+        "code": "DDEX01-05",
+        "name": "The Courting of Fire",
+        "description": "An exiled cultist and his kobold minions are spotted searching long-forgotten ruins in the Dragonspire Mountains. Rumors say he looks for a precious gift to give to a fearsome dragon that dwells there. What he hopes to attain with his gift is unknown, but can't be good for the citizens of Phlan.\n\n An adventure for 1st–4th level characters.",
+        "released": "2014-10-01",
+        "items": [
+            {
+                "name": "Ring of Resistance (Fire)",
+                "rarity": "rare",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Spell Scroll of Flame Blade",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "spellbooks": [],
+        "storyAwards": []
+    },
+    {
+        "code": "DDEX01-06",
+        "name": "The Scroll Thief",
+        "description": "Scholars Square is a relatively quiet corner of Phlan, but a series of odd thefts have the headmasters of various schools in the area concerned. The headmasters’ pleas for help have gone unanswered by the Black Fist, and the Lord Sage of Phlan decides to reach out to you and your kind to bring those responsible to justice.\n\n An adventure for 1st–4th level characters.",
+        "released": "2014-10-01",
+        "items": [
+            {
+                "name": "Headband of Intellect",
+                "rarity": "uncommon",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Dispel Magic",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Hold Person",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [],
+        "storyAwards": [
+            {
+                "name": "Favor of Ellison Berenger",
+                "description": "Instead of killing him, you have demonstrated mercy towards Ellison. He is thankful--even if you turned him in to the Black Fist. This favor has no immediate benefit, but should he face the adventurers again, their mercy is not forgotten."
+            }
+        ]
+    },
+    {
+        "code": "DDEX01-07",
+        "name": "Drums in the Marsh",
+        "description": "For the past several nights, drums have been heard on the wind, coming from the Twilight Marsh. Each morning, more turn up missing from the nearby farms, leaving only muddy, clawed footprints heading towards the marsh. Can you help the find the lost and bring justice to the abductors?\n\n An adventure for 1st–4th level characters.",
+        "released": "2014-11-01",
+        "items": [
+            {
+                "name": "Keoghtom's Ointment",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Fireball",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [],
+        "storyAwards": []
+    },
+    {
       "code": "DDEX01-08",
       "name": "Tales Trees Tell",
       "description": "Despite the shaky alliance that exists with the elves of the Quivering Forest, they do not suffer trespas their realm lightly, especially from common folk from nearby Phlan. A woodworker’s recent blunder into the forest might set off a diplomatic incident. Can you help find him and mollify the aggravated elves?\n\n An adventure for 1st–4th level characters.",
@@ -49,6 +233,22 @@
       ],
       "spellbooks": [],
       "storyAwards": []
+    },
+    {
+        "code": "DDEX01-09",
+        "name": "Outlaws of the Iron Route",
+        "description": "The Iron Route, an important trade road east of Phlan, is beset by competing bandits. An exiled Black Fist officer leads his band of mercenaries turned cloaked ruffians, while a mysterious dragonborn sorcerer commands screaming savages from the north. In this war over the trade route, the beleaguered merchants are the victims, and Phlan suffers from a lack of supplies. It’s up to adventurers to strike out and reopen this vital route.\n\n An adventure for 1st–4th level characters.",
+        "released": "2014-12-01",
+        "items": [
+            {
+                "name": "Longbow, +1",
+                "rarity": "uncommon",
+                "consumable": false,
+                "count": null
+            }
+        ],
+        "spellbooks": [],
+        "storyAwards": []
     },
     {
         "code": "DDEX01-10",
@@ -100,5 +300,270 @@
                 "description": "In exchange for her assistance in smuggling more than ten dozen people out of Phlan, you have become indebted to the half-drow rogue, Dark Linsa. Despite how ominous this might sound, she was quite impressed by your actions and may call upon you to perform some important task for her in the future."
             }
         ]
+    },
+    {
+        "code": "DDEX01-11",
+        "name": "Dark Pyramid of Sorcerer's Isle",
+        "description": "Long unoccupied, the pyramid on Sorcerer’s Isle now flows with strange magical energy, warping creatures and the landscape around it. The Cult of the Dragon and Red Wizards of Thay have taken notice, and it’s up to you to keep whatever power dwells there out of their hands.\n\n An adventure for 5th–10th level characters.",
+        "released": "2015-03-01",
+        "items": [
+            {
+                "name": "Horn of Blasting",
+                "rarity": "rare",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Acid (vial)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 6
+            },
+            {
+                "name": "Spell Scroll of Dispel Magic",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Gaseous Form",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Dragonborn Mage's Spellbook",
+                "spells": [
+                    { "name": "detect magic", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "shield", "level": 1 },
+                    { "name": "invisibility", "level": 2 },
+                    { "name": "mirror image", "level": 2 },
+                    { "name": "haste", "level": 3 },
+                    { "name": "fireball", "level": 3 },
+                    { "name": "fly", "level": 3 },
+                    { "name": "Evard's black tentacles", "level": 4 },
+                    { "name": "polymorph", "level": 4 },
+                    { "name": "cone of cold", "level": 5 },
+                    { "name": "Bigby's hand", "level": 5 }
+                ]
+            },
+            {
+                "name": "Rorreth's Spellbook",
+                "spells": [
+                    { "name": "false life", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "shield", "level": 1 },
+                    { "name": "invisibility", "level": 2 },
+                    { "name": "misty step", "level": 2 },
+                    { "name": "web", "level": 2 },
+                    { "name": "animate dead", "level": 3 },
+                    { "name": "fireball", "level": 3 },
+                    { "name": "remove curse", "level": 3 },
+                    { "name": "ice storm", "level": 4 },
+                    { "name": "stoneskin", "level": 4 },
+                    { "name": "cloudkill", "level": 5 },
+                    { "name": "hold monster", "level": 5 }
+                ]
+            }
+        ],
+        "storyAwards": []
+    },
+    {
+        "code": "DDEX01-12",
+        "name": "Raider of the Twilight Marsh",
+        "description": "A black dragon’s treasure horde has been located in the Twilight Marsh, and within it are secrets that hold interest to the factions. With the dragon marauding over the countryside, the horde is left unguarded. Now is the time to plunder its lair!\n\n An adventure for 5th–10th level characters.",
+        "released": "2015-03-01",
+        "items": [
+            {
+                "name": "Splint Armor, +1",
+                "rarity": "rare",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Alchemist's fire (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Antitoxin (vial)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 4
+            },
+            {
+                "name": "Oil (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Poison, basic (vial)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 4
+            },
+            {
+                "name": "Potion of Invulnerability",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Haste",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Protection from Energy",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Water Walk",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Uliset Faelgren's Dragonhide Spellbook",
+                "spells": [
+                    { "name": "comprehend languages", "level": 1 },
+                    { "name": "detect magic", "level": 1 },
+                    { "name": "identify", "level": 1 },
+                    { "name": "detect thoughts", "level": 2 },
+                    { "name": "locate object", "level": 2 },
+                    { "name": "see invisibility", "level": 2 },
+                    { "name": "clairvoyance", "level": 3 },
+                    { "name": "tongues", "level": 3 },
+                    { "name": "arcane eye", "level": 4 },
+                    { "name": "legend lore", "level": 5 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Traded with a Hag",
+                "description": "Either out of greed, naivety, or sheer ignorance, you traded with a hag and now bear a mark visible only to other fey. Any Charisma (Persuasion) checks made to positively influence non-evil fey are made with disadvantage. In order to remove this mark, the hag that you traded with must willingly return the \"payment\" you rendered in the trade."
+            }
+        ]
+    },
+    {
+        "code": "DDEX01-13",
+        "name": "Pool of Radiance Resurgent",
+        "description": "Vorgansharax rules Phlan, using the Cult of the Dragon to extend his noxious gaze. But the green dragon seeks far more than control of the beleaguered town—ultimate power is nearly within reach. Will he reactivate the Pool of Radiance and ascend to greater prominence amongst his kind? A sequel to DDEX1-10 *Tyranny in Phlan* and Part Two of *Under Emerald Claws*.\n\n An adventure for 5th–10th level characters.",
+        "released": null,
+        "items": [
+            {
+                "name": "Mantle of Spell Resistance",
+                "rarity": "rare",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Moonsea Cults (Book)",
+                "rarity": "common",
+                "consumable": false,
+                "count": null
+            },
+            {
+                "name": "Potion of Gaseous Form",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Dispel Magic",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Ixusaxa's Spellbook",
+                "spells": [
+                    { "name": "detect magic", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "shield", "level": 1 },
+                    { "name": "misty step", "level": 2 },
+                    { "name": "suggestion", "level": 2 },
+                    { "name": "counterspell", "level": 3 },
+                    { "name": "fireball", "level": 3 },
+                    { "name": "fly", "level": 3 },
+                    { "name": "ice storm", "level": 4 },
+                    { "name": "stoneskin", "level": 4 },
+                    { "name": "cone of cold", "level": 5 }
+                ]
+            }
+        ],
+        "storyAwards": []
+    },
+    {
+        "code": "DDEX01-14",
+        "name": "Escape from Phlan",
+        "description": "Three important citizens of Phlan, who stand against the tyrannical dragon that rules, seek to escape and find refuge across the Moonsea. Can you extricate those that are vital to the factions before it’s too late?\n\n An adventure for 5th–10th level characters.",
+        "released": "2015-03-01",
+        "items": [
+            {
+                "name": "Robe of Eyes",
+                "rarity": "rare",
+                "consumable": false,
+                "count": null
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Thayan Red Wizard Ambassador's Spellbook",
+                "spells": [
+                    { "name": "fire bolt", "level": 0 },
+                    { "name": "light", "level": 0 },
+                    { "name": "ray of frost", "level": 0 },
+                    { "name": "prestidigitation", "level": 0 },
+                    { "name": "detect magic", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "shield", "level": 1 },
+                    { "name": "mirror image", "level": 2 },
+                    { "name": "invisibility", "level": 2 },
+                    { "name": "haste", "level": 3 },
+                    { "name": "fireball", "level": 3 },
+                    { "name": "fly", "level": 3 },
+                    { "name": "ice storm", "level": 4 },
+                    { "name": "Evard's black tentacles", "level": 4 },
+                    { "name": "cone of cold", "level": 5 }
+                ]
+            }
+        ],
+        "storyAwards": []
     },
 ]

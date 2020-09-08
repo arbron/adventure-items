@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  JSONDecoder+Extensions.swift
 //  
 //
 //  Created by Jeff Hitchcock on 2020-09-06.

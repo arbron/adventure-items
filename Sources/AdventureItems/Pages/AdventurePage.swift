@@ -19,6 +19,7 @@ extension Publish.Item where Site == AdventureItemsSite {
         var magicItemNames: [String] = []
         var potionCount = 0
         var scrollCount = 0
+        var otherConsumableCount = 0
 
         var tags: Set<Tag> = []
         for item in adventure.items {
@@ -35,6 +36,8 @@ extension Publish.Item where Site == AdventureItemsSite {
                 if let spellName = item.name.removePrefix("Spell Scroll of ") {
                     tags.insert("spell: \(spellName.lowercased())")
                 }
+            } else {
+                otherConsumableCount += item.count ?? 1
             }
         }
         if let potionText = "potion".counted(potionCount) {
@@ -48,15 +51,18 @@ extension Publish.Item where Site == AdventureItemsSite {
             for spell in spellbook.spells {
                 tags.insert("spell: \(spell.name.lowercased())")
             }
-            if let spellbookText = "spellbook".counted(adventure.spellbooks.count) {
-                magicItemNames.append(spellbookText)
-            }
+        }
+        if let spellbookText = "spellbook".counted(adventure.spellbooks.count) {
+            magicItemNames.append(spellbookText)
         }
         if !adventure.storyAwards.isEmpty {
             tags.insert("story awards")
             if let storyAwardText = "story award".counted(adventure.storyAwards.count) {
                 magicItemNames.append(storyAwardText)
             }
+        }
+        if let otherText = "other item".counted(otherConsumableCount, singularArticle: "one") {
+            magicItemNames.append(otherText)
         }
 
         switch adventure.source {
@@ -143,13 +149,5 @@ extension Publish.Item where Site == AdventureItemsSite {
                 .raw("\(Self.parser.html(from: award.description))")
             )
         }
-    }
-}
-
-fileprivate extension String {
-    func counted(_ count: Int, plural: String? = nil) -> String? {
-        guard count > 0 else { return nil }
-        if count == 1 { return "a \(self)" }
-        return "\(count) \(plural ?? "\(self)s")"
     }
 }

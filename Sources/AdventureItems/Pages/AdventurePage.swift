@@ -67,12 +67,17 @@ extension Publish.Item where Site == AdventureItemsSite {
 
         switch adventure.source {
         case .conventionCreatedContent:
-            tags.insert("convention created content")
+            tags.insert("adventure: convention created content")
+        case .dreamsOfRedWizards:
+            tags.insert("adventure: dreams of red wizards")
         case .season(let number):
-            if number == 0 { tags.insert("season agnostic") }
-            else { tags.insert("season \(number)") }
+            if number == 0 { tags.insert("adventure: season agnostic") }
+            else { tags.insert("adventure: season \(number)") }
         case .hardcover:
-            tags.insert("hardcover")
+            tags.insert("adventure: hardcover")
+        }
+        if adventure.isEpic {
+            tags.insert("adventure: epic")
         }
 
         return Self(

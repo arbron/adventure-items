@@ -1,120 +1,164 @@
 [
     {
-      "code": "DDAL09-01",
-      "name": "Escape from Elturgard",
-      "description": "Damnation! The entire city of Elturel—along with its denizens—have been drawn into Avernus, the first layer of the Nine Hells! While those fortunate enough to have been outside of the city’s walls have been spared that fate, they’re not yet out of danger! The refugees formed a caravan bound for the nearby city of Baldur’s Gate. Can you keep them safe from devils, bandits, and one another until they reach safety?\n\n Four, One-Hour Introductory Mini-adventures for 1st and 2nd Level Characters.",
-      "released": null,
-      "items": [
-        {
-          "name": "Amulet of Proof Against Detection and Location",
-          "rarity": "uncommon",
-          "consumable": false,
-          "count": null
-        }
-      ],
-      "spellbooks": [],
-      "storyAwards": [
-        {
-          "name": "Cooler Heads Prevail",
-          "description": "You have spared the murderer, Vollis, in the hopes that she will be brought to justice upon arriving in Baldur’s Gate."
-        }
-      ]
+        "code": "DDAL09-01",
+        "name": "Escape from Elturgard",
+        "description": "Damnation! The entire city of Elturel—along with its denizens—have been drawn into Avernus, the first layer of the Nine Hells! While those fortunate enough to have been outside of the city’s walls have been spared that fate, they’re not yet out of danger! The refugees formed a caravan bound for the nearby city of Baldur’s Gate. Can you keep them safe from devils, bandits, and one another until they reach safety?\n\n Four, One-Hour Introductory Mini-adventures for 1st and 2nd Level Characters.",
+        "items": [
+            {
+                "name": "Amulet of Proof Against Detection and Location",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Cooler Heads Prevail",
+                "description": "You have spared the murderer, Vollis, in the hopes that she will be brought to justice upon arriving in Baldur’s Gate."
+            }
+        ]
     },
     {
-      "code": "DDAL09-02",
-      "name": "Stopped at the Gate",
-      "description": "It’s been a long, arduous trip, but you’re finally here—Baldur’s Gate. You’re not out of peril yet, however, even if you’re leaving the lawless wilds behind you, the streets of the Gate still run red with blood. But you quickly find that arriving at the city wasn’t the biggest challenge at all, now you must convince the city’s rulers to grant asylum to you and those in your charge. Part One of the *Betrayal is in the Blood* series of adventures.\n\n A Two-to-Four Hour Adventure for 1st through 4th Level Characters.",
-      "released": null,
-      "items": [
-        {
-          "name": "Eyes of the Eagle",
-          "rarity": "uncommon",
-          "consumable": false,
-          "count": null
-        },
-        {
-          "name": "Potion of Healing",
-          "rarity": "common",
-          "consumable": true,
-          "count": 1
-        },
-        {
-          "name": "Potion of Poison",
-          "rarity": "uncommon",
-          "consumable": true,
-          "count": 1
-        }
-      ],
-      "spellbooks": [],
-      "storyAwards": []
+        "code": "DDAL09-02",
+        "name": "Stopped at the Gate",
+        "description": "It’s been a long, arduous trip, but you’re finally here—Baldur’s Gate. You’re not out of peril yet, however, even if you’re leaving the lawless wilds behind you, the streets of the Gate still run red with blood. But you quickly find that arriving at the city wasn’t the biggest challenge at all, now you must convince the city’s rulers to grant asylum to you and those in your charge. Part One of the *Betrayal is in the Blood* series of adventures.\n\n A Two-to-Four Hour Adventure for 1st through 4th Level Characters.",
+        "items": [
+            {
+                "name": "Eyes of the Eagle",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Poison",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
-      "code": "DDAL09-03",
-      "name": "Hungry Shadows",
-      "description": "Bodies continue pile up, and the Flaming Fist still has nothing but a name. Thankfully, the perpetrator of the murders has slipped up and the Flaming Fist has captured one of their underlings, in turn, has revealed the presence of a cult hideout in the sewers beneath the city. The Flaming Fist has asked that you investigate. Are you up for the task? Part Two of the *Betrayal is in the Blood* series of adventures.\n\n A Two-to-Four Hour Adventure for 1st through 4th Level Characters.",
-      "released": null,
-      "items": [
-        {
-          "name": "Gloves of Thievery",
-          "rarity": "uncommon",
-          "consumable": false,
-          "count": null
-        },
-        {
-          "name": "Scroll of Protection (Fiends)",
-          "rarity": "rare",
-          "consumable": true,
-          "count": 1
-        }
-      ],
-      "spellbooks": [],
-      "storyAwards": []
+        "code": "DDAL09-03",
+        "name": "Hungry Shadows",
+        "description": "Bodies continue pile up, and the Flaming Fist still has nothing but a name. Thankfully, the perpetrator of the murders has slipped up and the Flaming Fist has captured one of their underlings, in turn, has revealed the presence of a cult hideout in the sewers beneath the city. The Flaming Fist has asked that you investigate. Are you up for the task? Part Two of the *Betrayal is in the Blood* series of adventures.\n\n A Two-to-Four Hour Adventure for 1st through 4th Level Characters.",
+        "items": [
+            {
+                "name": "Gloves of Thievery",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Scroll of Protection (Fiends)",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
-      "code": "DDAL09-04",
-      "name": "Day of the Devil",
-      "description": "The streets of Baldur’s Gate run red with blood. Old blood. The blood of Hellriders. Someone or something is punishing the children for the sins of the father and it’s time to put it to an end. Who and where is Gharizol? Part Three of the *Betrayal is in the Blood* series of adventures.\n\n A Two-to-Four Hour Adventure for 1st through 4th Level Characters.",
-      "released": null,
-      "items": [
-        {
-          "name": "Periapt of Health",
-          "rarity": "uncommon",
-          "consumable": false,
-          "count": null
-        },
-        {
-          "name": "Potion of Healing",
-          "rarity": "common",
-          "consumable": true,
-          "count": 1
-        },
-        {
-          "name": "Potion of Growth",
-          "rarity": "uncommon",
-          "consumable": true,
-          "count": 1
-        },
-        {
-          "name": "Soul Coin",
-          "rarity": "uncommon",
-          "consumable": true,
-          "count": 1
-        }
-      ],
-      "spellbooks": [],
-      "storyAwards": []
+        "code": "DDAL09-04",
+        "name": "Day of the Devil",
+        "description": "The streets of Baldur’s Gate run red with blood. Old blood. The blood of Hellriders. Someone or something is punishing the children for the sins of the father and it’s time to put it to an end. Who and where is Gharizol? Part Three of the *Betrayal is in the Blood* series of adventures.\n\n A Two-to-Four Hour Adventure for 1st through 4th Level Characters.",
+        "items": [
+            {
+                "name": "Periapt of Health",
+                "rarity": "uncommon",
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Growth",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "DDAL09-05",
+        "name": "Faces of Fortune",
+        "description": "Deep in hostile territory with the innocent girl Dara to protect, you will have to trust to the weapons of the enemy if you are to survive. Even with deceit as your shield and sabotage as your sword, luck is required to complete Dara’s holy mission. Thankfully Fai Chen knows to start your quest with the help of an old acquaintance… Mahadi, master of Mahadi’s Traveling Emporium. Part One of the *Behind Infernal Lines* series of adventures.\n\n A Four to Six-Hour Adventure for 5th through 10th Level Characters.",
+        "items": [
+            {
+                "name": "Gem of Seeing",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Invulnerability",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "No Exceptions",
+                "description": "You’ve broken Mahadi’s only rules: “No fighting! No spellcasting! No exceptions!” By choosing to break the rules, you’ve been kicked out of Mahadi’s emporium. Now you must survive in the wastes without its safe shelter. You start any tier 2 Avernus Rising adventure at half hit points and with a level of exhaustion that can’t be removed."
+            }
+        ]
+    },
+    {
+        "code": "DDAL09-06",
+        "name": "Infernal Insurgency",
+        "description": "Fai Chen reveals that a draft of the Hellriders’ original attack plan might still exist, and it won’t be easy to get it. If you can recover these, it would be extremely helpful in your quest to locate their remains and free their spirits. It might very well be a suicide mission, though when you’re in Avernus, what isn’t? Fortunately, the wily merchant has just the plan for a group of heroes unconcerned with the odds. Part Two of the *Behind Infernal Lines* series of adventures.\n\n A Four to Six-Hour Adventure for 5th through 10th Level Characters.",
+        "items": [
+            {
+                "name": "Arrow of Slaying (Tiefling)",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Glamoured Studded Leather",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Giant Strength (Fire)",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 3
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "No Exceptions!",
+                "description": "You’ve broken Mahadi’s only rules: “No fighting! No spellcasting! No exceptions!” By choosing to break the rules, you’ve been kicked out of Mahadi’s emporium. Now you must survive in the wastes without its safe shelter. You start any tier 2 Avernus Rising adventure at half hit points and with a level of exhaustion that can’t be removed."
+            },
+            {
+                "name": "Plague of Plagueshield",
+                "description": "You’ve delivered a great blow to the forces of Zariel. The idea that mere mortals could strike a blow at the fiendish forces has struck concern, fear, and spite into the minds of the fiends in the area. Your rumors precede you…are they true?"
+            }
+        ]
     },
     {
         "code": "DDAL09-07",
         "name": "The Diabolical Dive",
         "description": "You have located the plans and drawn the infernal forces away from them. All that remains now is to dive below the river Styx and infiltrate Plagueshield Point without getting wet, setting off any alarms, or being followed. Piece of devil’s food cake. Part Three of the *Behind Infernal Lines* series of adventures.\n\n A Four to Six-Hour Adventure for 5th through 10th Level Characters.",
-        "released": null,
         "items": [
             {
                 "name": "Bowl of Commanding Water Elementals",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Potion of Invisibility",
@@ -126,10 +170,9 @@
                 "name": "Soul Coin",
                 "rarity": "uncommon",
                 "consumable": true,
-                "count": null
+                "count": 1
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "Thief of Infernal Knowledge",
@@ -138,6 +181,109 @@
             {
                 "name": "Savior of My Enemy’s Enemy",
                 "description": "You saved a group of drow slaves. Even though these devotees of Lolth aren’t good people themselves, you know how the saying goes: the enemy of my enemy is my friend. This Story Award will affect the later Tier 4 adventures."
+            }
+        ]
+    },
+    {
+        "code": "DDAL09-08",
+        "name": "In the Garden of Evil",
+        "description": "Long before it was a war-ravaged battlefield, Avernus was a den of temptation; a place to which ambitious, greedy, and covetous mortals were lured by the promise of power, wealth, and love. While the plane no longer serves this purpose, small pockets of terrible beauty remain. You have been sent in search of one such oasis to locate a fallen celestial. Will you be able to find it? More importantly, will the creature still be capable of service as an agent of good?\n\n A Four to Six-Hour Adventure for 5th through 10th Level Characters.",
+        "items": [
+            {
+                "name": "Arrow-Catching Shield",
+                "rarity": "rare"
+            },
+            {
+                "name": "Golden Fruit (Potion of Healing)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Holy Protector",
+                "description": "Filled with the pride and glory she once felt in the vanguard of the Hellriders, you have guided Zhalruban to her redemption. She has found her purpose in Dara’s mission and taken to the chosen of Ilmater as steadfastly as she did for Shalrel, her previous master.\n\n Zhalruban now serves as a guide, protector, and mount for Dara in all future adventures."
+            },
+            {
+                "name": "A Welcome Haven",
+                "description": "You have helped to redeem Zhalruban who has joined your and Dara’s quest. You have instructed her to stay within Bloodroot Grove to tend the once divine forest, so that they both can return to their once sacred standing.\n\n As you travel through the depths and dangers of Avernus you will always find a haven from devils and other adversaries amongst the trees of Bloodroot Grove."
+            }
+        ]
+    },
+    {
+        "code": "DDAL09-09",
+        "name": "Ruined Prospects",
+        "description": "Elturel isn’t the only city to have been claimed by Avernus; scores of towns and villages, long forgotten, litter the eternal battlefields. In one such place, a fallen Hellrider remains in stasis, waiting for the right time to rise and battle evil once more. Has that time come at long last?\n\n A Four to Six-Hour Adventure for 5th through 10th Level Characters.",
+        "items": [
+            {
+                "name": "Heward's Handy Haversack",
+                "rarity": "rare"
+            },
+            {
+                "name": "Bolts, +2",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 4
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "DDAL09-10",
+        "name": "Tipping the Scales",
+        "description": "Wisdom is knowing when a battle fought is a battle lost. A dragon has engaged in a pitched battle for the soul of his consort for nearly a millennium, and it’s time for him to throw in the towel. Dara has asked that you venture into the Diremire Pit and convince him of this, as there are greater wars to be won!\n\n A Four to Six-Hour Adventure for 5th through 10th Level Characters.",
+        "items": [
+            {
+                "name": "Ring of Free Action",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Heroism",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Rotten Apple (Potion of Fire Breath)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Rotten Apple (Potion of Resistance)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
             }
         ]
     },

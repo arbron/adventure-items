@@ -14,7 +14,7 @@ struct Item: Codable, Hashable {
     var count: Int?
 
     enum Rarity: String, Codable {
-        case common, uncommon, rare, veryRare, legendary
+        case common, uncommon, rare, veryRare, legendary, unique
 
         var name: String {
             switch self {

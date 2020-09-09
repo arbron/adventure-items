@@ -1,15 +1,41 @@
 [
     {
+        "code": "DDAL06-01",
+        "name": "A Thousand Tiny Deaths",
+        "description": "The promises of glory and the chance of riches draws you to Blasingdell, a small village near the infamous Stone Tooth. Within the rocky mountain lay the dwarven stronghold Khundrukar and the fabled Forge of Fury, to which a chance encounter provides you with the location of a hither-to unknown entrance. Are you brave enough to explore this mystery? Will it lead you to wealth or to your doom?\n\n A Two-Hour Adventure for 1st–4th Level Characters.",
+        "items": [
+            {
+                "name": "Cloak of Protection",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Resistance (Acid)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Invisibility",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
         "code": "DDAL06-02",
         "name": "The Redemption of Kelvan",
         "description": "A strange, foreign wizard calling himself Kelvan has appeared at the same time a mountain materializes out of thin air. He asks you to recover the Gloomblade from a Netherese ruin in order to help him with his research into this strange new mountain.\n\n A Two-Hour Adventure for 5th–10th Level Characters.",
-        "released": null,
         "items": [
             {
                 "name": "Boots of Speed",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Potion of Diminution",
@@ -41,38 +67,85 @@
                 { "name": "witch bolt", "level": 1 }
             ]
             }
+        ]
+    },
+    {
+        "code": "DDAL06-03",
+        "name": "Crypt of the Death Giants",
+        "description": "A magical storm builds over the Anauroch desert bringing portents of death and destruction to Faerûn. Giants imbued with the power of death itself threaten to permanently destroy the giant Ordning and small folk in their wake. Can you stop these unnatural giants and those that seek to control them?\n\n A 2 Hour Adventure for 17th–20th Level Characters.",
+        "items": [
+            {
+                "name": "Bealt of Giant Strength (Storm)",
+                "rarity": "legendary"
+            },
+            {
+                "name": "Potion of Speed",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Antimagic Field",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Project Image",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Teleport",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
         ],
-        "storyAwards": []
+        "storyAwards": [
+            {
+                "name": "Death’s End",
+                "description": "You helped defeat Kiaransalee’s cult of Undying Might and prevented many Death Giants from being created and used by Kiaransalee."
+            },
+            {
+                "name": "Death’s Escape",
+                "description": "Cultists of Kiaransalee were able to escape with an animated death giant and the ritual used to create them. It won’t be the last we see of them."
+            },
+            {
+                "name": "Hall of Honor",
+                "description": "Characters can spend time in the hall of honor learning about the deeds of the ancient Ostorian Honor Guard. A character who spends 25 downtime days will gain advantage in dealings with true giants (Cloud, Hill, Fire, Stone, or Storm) when the subject of the Ostorian Honor Guard can be included in the conversation."
+            },
+            {
+                "name": "Hall of Mirth",
+                "description": "Characters can spend time in the Hall of Mirth learning about giant kind and ancient Ostoria and the giant language. At the conclusion of this adventure a character may choose to learn the giant language for 50 downtime days. In addition at the conclusion of this adventure a character may choose to learn about Ostoria, by spending 50 downtime days the character will have advantage on any future rolls regarding giants or Ostoria."
+            },
+            {
+                "name": "Hall of Omens",
+                "description": "Characters can spend time in the Hall of Omens learning about signs and portents. A wizard of the school of divination may spend 200 downtime days to gain 1 additional portent dice. Any other character may spend 50 downtime days to gain 3 Luck Points and may use them as the Lucky feat. Once the 3 Luck Points are spent they are not regained."
+            }
+        ]
     },
     {
         "code": "DDEP06-01",
         "name": "Relics of Khundrukar",
-        "description": "Khundrukar held many fine implements of war in its heyday, many of them now lost to time. Clues point to some of long dead Master Smith Durgeddin’s handiwork in the service of sinister forces that bid their time deep in the Underdark. Reclaim the riches of Khundrukar from the darkness if you dare.\n\n A Four-Hour Epic Adventure for 1st–4th and 5th–10th Level Characters",
-        "released": null,
+        "description": "Khundrukar held many fine implements of war in its heyday, many of them now lost to time. Clues point to some of long dead Master Smith Durgeddin’s handiwork in the service of sinister forces that bid their time deep in the Underdark. Reclaim the riches of Khundrukar from the darkness if you dare.\n\n A Four-Hour Epic Adventure for 1st–4th and 5th–10th Level Characters.",
         "items": [
             {
                 "name": "Durgeddin’s Fist (Mace of Terror)",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Durgeddin’s Unbreakable Auspice (Adamantine Armor)",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Magic Weapon, +1",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Wand of Binding",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Elixir of Health",
@@ -111,7 +184,6 @@
                 "count": 1
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "Friend of Mirabar",
@@ -134,5 +206,5 @@
                 "description": "Dumathoin, Keeper of Secrets Under the Mountain, sees what you did. Whenever you are underground or in an area of darkness, natural or magical, you feel Dumathoin’s gaze upon you. You are subject to critical hits on a roll of 19-20 and the damage is maximized in these conditions. Contact resource@dndadventurersleague.org to learn how to atone for your misdeeds."
             }
         ]
-    }
+    },
 ]

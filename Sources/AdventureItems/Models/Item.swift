@@ -10,7 +10,7 @@ import Foundation
 struct Item: Codable, Hashable {
     var name: String
     var rarity: Rarity
-    var consumable: Bool
+    @DecodableDefault.False var consumable: Bool
     var count: Int?
 
     enum Rarity: String, Codable {

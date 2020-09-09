@@ -1,9 +1,75 @@
 [
     {
+        "code": "DDAL07-01",
+        "name": "A City on the Edge",
+        "description": "Often called the “Gateway to Chult”, the exotic city of Port Nyanzaru is built upon a landscape both mystifying and marvelous. However, the city’s vibrant beauty is overshadowed by a mysterious scourge that plagues all within the land. Can the divergent forces within the city discover the truth before all are overcome by this growing threat?\n\n Five Four-Hour Mini-Adventures for 1st–4th Level Characters.",
+        "items": [
+            {
+                "name": "Alchemist's fire (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Animal Friendship",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Potion of Poison",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Poison)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Healing Word",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Protection from Evil and Good",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Cute and Scaly",
+                "description": "You found a velociraptor egg. With proper care, it hatches within the next week, but since it is away from its natural habitat, its growth is stunted.\n\n It may not be attack, defend, or provide aid in combat, being no deadlier than a domesticated dog or cat. However, through patience and practice, it can be taught simple tricks and name recognition if trained and fed for a minimum of 20 downtime days."
+            },
+            {
+                "name": "Snakes on a Brain",
+                "description": "After being charmed by the grung’s gift, you experience recurring nightmares over the next few weeks. Most of them involve vicious serpents and a soft voice whispering to join them in the arms of oblivion."
+            },
+            {
+                "name": "The Thrill of Victory",
+                "description": "By claiming victory in both the dinosaur race and the gladiator’s arena, you gain a bit of fame from the citizens within the walls of Port Nyanzaru. Once per day, you may gain advantage on a single Charisma (Persuasion) check when dealing with any residents within the Market, Merchant’s, or Harbor Wards."
+            },
+            {
+                "name": "The Trusting Triceratops",
+                "description": "Through your actions, you’ve garnered the respect of the Ytepka Society. Though their numbers are few, you are now aware of how their members secretly identify themselves to each other. During any of the rare social interactions you may have a member of the Ytepka, their starting attitude will automatically be friendly."
+            }
+        ]
+    },
+    {
         "code": "DDAL07-02",
         "name": "Over the Edge",
-        "description": "In response to a new but as-of-yet-unnamed threat, the factions have called upon adventurers to venture into the jungle in search of a location for a new base of operations. As such, you have been charged with scouting several locations to assess their viability. Surely something so trivial as a scouting mission couldn’t go wrong?\n\n Five One-Hour Adventures for 5th–10th Level Characters",
-        "released": null,
+        "description": "In response to a new but as-of-yet-unnamed threat, the factions have called upon adventurers to venture into the jungle in search of a location for a new base of operations. As such, you have been charged with scouting several locations to assess their viability. Surely something so trivial as a scouting mission couldn’t go wrong?\n\n Five One-Hour Adventures for 5th–10th Level Characters.",
         "items": [
             {
                 "name": "Potion of Animal Friendship",
@@ -76,5 +142,445 @@
                 "description": "For your assistance in saving the lives of the peaceful yuan-ti clan known as the Misty Cliff clan, they have made you an honorary member of their clan. If you are in need and a member of the clan is nearby, they provide whatever help they can. The same is expected of you if the clan requires assistance."
             }
         ]
-    }
+    },
+    {
+        "code": "DDAL07-03",
+        "name": "A Day at the Races",
+        "description": "The Merchant Princes have a treat in store for everyone! A new team-based event has been added to the roster and the factions are throwing their hats into the ring. Climb aboard and saddle up! Part One of *The Jungle Has Fangs Trilogy*.\n\n A Two-Hour Adventure for 1st–4th Level Characters.",
+        "items": [
+            {
+                "name": "Quarterstaff, +1",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Spell Scroll of Ice Knife",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "First to Race",
+                "description": "For the next year, you can find lodging for free in one of the Tiryki Anchorage’s fine, flea-bitten establishments—maintaining a Poor lifestyle for up to 30 days."
+            },
+            {
+                "name": "Winner, Winner, Raptor Dinner",
+                "description": "There can be no dispute, even with your attention divided, you were able to lead your team to undisputed victory.\n\n Such a fine victory means only one thing; to be treated to the finest modest accommodations to be found in the city for free—maintaining a Modest lifestyle for up to 30 days!"
+            }
+        ]
+    },
+    {
+        "code": "DDAL07-04",
+        "name": "A Walk in the Park",
+        "description": "A mysterious satchel linking the yuan-ti to a poisoning in Port Nyanzaru leads you outside the safety of city walls and into the jungle beyond. Venture into the jungle and seek out the wisdom of the grung to shed some light on the situation. Part Two of *The Jungle Has Fangs Trilogy*.\n\n A Two-Hour Adventure for 1st–4th Level Characters.",
+        "items": [
+            {
+                "name": "Goggles of Night",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "DDAL07-05",
+        "name": "Whispers in the Dark",
+        "description": "The temple lies just ahead, and within the answers to a great many questions about the recent goings-on in Port Nyanzaru. The journey here has been long and arduous and hopefully soon at an end. Leave your trepidations at the door; there’s exploring to be done! Part Three of *The Jungle Has Fangs Trilogy*.\n\n A Two-Hour Adventure for 1st–4th Level Characters.",
+        "items": [
+            {
+                "name": "Pearl of Power",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Spell Scroll of Warding Bond",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Night Serpent Comes",
+                "description": "You have experienced a nightmare so raw and pure that it haunts your waking mind. You gain the flaw *“I’ve seen into the future. A future where the Night Serpent has come and devoured us all. Nothing matters anymore.”*"
+            }
+        ]
+    },
+    {
+        "code": "DDAL07-06",
+        "name": "Fester and Burn",
+        "description": "The denizens of the Old City have made some unusual sightings in the festering refuse pits on the outskirts of the city, and while such reports are seldom taken terribly seriously, the mysterious disappearance of a beloved figure in the poor part of Port Nyanzaru has folks on edge. Can you get to the bottom of this? Part One of *The Rot from Within Trilogy*.\n\n A 2-Hour Adventure for 5th–10th Level Characters.",
+        "items": [
+            {
+                "name": "Mace of Smiting",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Poison",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Necromance-me",
+                "description": "Characters who chose to take the brunt of the bone sphere’s damage or drink Crackle’s potion of black ichor in Part 3 become more resistant to the effects of the Cyst thanks to their exposure to its necrotic ichor."
+            }
+        ]
+    },
+    {
+        "code": "DDAL07-07",
+        "name": "Rotting Roots",
+        "description": "The sudden appearance of the undead within Port Nyanzaru doesn’t appear to be the only thing on the horizon. A vast horde of skeletons and zombies is moving towards the city and while those of means are safe within the city’s walls, those in the Old City and Malar’s Throat are forced to contend with the problem. Where did they come from? More importantly, what are you going to do to find out? Part Two of *The Rot from Within Trilogy*.\n\n A 2-Hour Adventure for 5th–10th Level Characters.",
+        "items": [
+            {
+                "name": "Rope of Entanglement",
+                "rarity": "rare"
+            }
+        ]
+    },
+    {
+        "code": "DDAL07-08",
+        "name": "Putting the Dead to Rest",
+        "description": "The jungle has opened up and revealed her secrets—now is the time to act upon them. All signs point to a long-abandoned city as the source of the undead contagion, and so you have been called upon to venture within and put an end to it once and for all. Are you up to the task? Part Three of *The Rot from Within Trilogy*.\n\n A Two-Hour Adventure for 5th–10th Level Characters.",
+        "items": [
+            {
+                "name": "Staff of the Woodlands",
+                "rarity": "rare"
+            },
+            {
+                "name": "Holy water (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Necrotic)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "DDAL07-09",
+        "name": "Unusual Opposition",
+        "description": "The trail leading from the Fane of the Whispered Fang has grown cold, but you can still taste the machinations of the yuan-ti in Chult’s humid, stagnant air. Because of this, you must venture deeper still into the jungle and petition the aid of an unlikely ally—the fabled Ramshackle King. His assistance is crucial to the effort to save Chult!\n\n A Four-Hour Adventure for 11th–16th Level Characters.",
+        "items": [
+            {
+                "name": "Bitter Wrath (Frost Brand Rapier)",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Speed",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Blackwater Twist",
+                "description": "You bartered away your own beauty to the Blackwater Three in exchange for secret knowledge. Something about you, be it physical or spiritual, becomes twisted and hideous."
+            }
+        ]
+    },
+    {
+        "code": "DDAL07-10",
+        "name": "Fire, Ash, and Ruin",
+        "description": "Within the jungles of Chult is a vast expanse of ash. While a red dragon is known to reside deep within the Land of Ash and Smoke, it is far from the deadliest of its denizens. Deeper still is a pit filled to the brim with pure evil. None who have sought out its secrets have survived to tell its tale. Will you be more successful than they?\n\n A 4-Hour Adventure for 11th–16th Level Characters.",
+        "items": [
+            {
+                "name": "Krahharuan Fork (Pike, +3)",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Resistance (Fire)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Hallow",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "DDAL07-11",
+        "name": "A Lesson in Love",
+        "description": "An old elf has wandered into the city from the jungle—prattling on about his long-lost daughter to anyone whose ear he can bend. Though most in Port Nyanzaru dismiss him as mad, he speaks the truth. Can you find and save his daughter?\n\n A 4-Hour Adventure for 11th–16th Level Characters.",
+        "items": [
+            {
+                "name": "Love's Bite (Nine Lives Stealer)",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Giant Strength (Fire)",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Speed",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Ire of the Merchant Princes",
+                "description": "Aremag provided a degree of protection to the city of Port Nyanzaru that can never be replaced, and the merchant princes will never forget this. You may no longer use the **Buying from the Princes** downtime activity. In addition, lifestyle costs and the gp costs of any spellcasting services received from the temples within the city are doubled while adventuring within Chult."
+            }
+        ]
+    },
+    {
+        "code": "DDAL07-12",
+        "name": "In Search of Secrets",
+        "description": "The yuan-ti have a long, storied past in the history of Chult. So, if they are to be defeated, we must look back into history. Within the jungles, a number of cities fell into ruin during the Year of Blue Fire. Both the merchant princes and factions believe that if discovered, they likely contain knowledge that’ll prove invaluable in the battles to come. Get looking!\n\n A Four-Hour Adventure for 11th–16th Level Characters.",
+        "items": [
+            {
+                "name": "Staff of Striking",
+                "rarity": "veryRare"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Nightmare Warrior",
+                "description": "Characters who go through the void and deal with facing their fears become more resistant to attacks against their dreams and fears in the future."
+            }
+        ]
+    },
+    {
+        "code": "DDAL07-13",
+        "name": "Old Bones and Older Tomes",
+        "description": "The sages of Candlekeep have come calling. They’ve come to Port Nyanzaru on the trail of a colleague. He came to the jungle to pursue his studies in solitude some twenty years ago, but within the last year, his regular communications have fallen silent. They are in search of brave (and discrete) adventurers to escort them around the peninsula for a health and welfare check. Are you brave and discrete enough for the job?\n\n A Four-Hour Adventure for 11th–16th Level Characters.",
+        "items": [
+            {
+                "name": "Wand of Polymorph",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Flying",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Death Ward",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Verse vs. Verses",
+                "description": "Anyone participating in the Conversation with Crannaston in the upper chamber is haunted for days by the following two lines of prose:\n\n *Past the dark depths of the forest*  \n *You find the lock and hold the key*\n\n The character knows that it is the second verse to a poem but cannot make it out in their head. However, they are sure to recognize it immediately if heard or read. This verse haunts you until you know it completely."
+            }
+        ]
+    },
+    {
+        "code": "DDAL07-14",
+        "name": "Fathomless Pits of Ill Intent",
+        "description": "The time is now! The yuan-ti lay on the cusp of freeing an ancient being of insurmountable evil from its imprisonment. Should this happen, Faerûn may very well be plunged into an age of darkness. You have traveled the width and breadth of the peninsula and learned what you could about your foe. Now it’s time to put that knowledge to use. Steel yourself, adventurer, there are important deeds to be done!\n\n A Four-Hour Adventure for 11th–16th Level Characters.",
+        "items": [
+            {
+                "name": "The Mask of Wompona Yarp (Helm of Brilliance)",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Spell Scroll of Comprehend Languages",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Greater Restoration",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Dead Men Tell Tales",
+                "description": "You have found a never- before-published chapter of *Of the Fall of Netheril*, penned by the lich Rhaugilath the Ageless. The chapter addresses the architectural design of the Netherese enclave of Orbedal, which was ruled by Rhaugilath. This book would be of great interest to a sage of ancient history and could be used to gain access to the great library at Candlekeep."
+            }
+        ]
+    },
+    {
+        "code": "DDAL07-15",
+        "name": "Streams of Crimson",
+        "description": "The Soulmonger is shattered and its pieces scattered across the peninsula of Chult. Dire forces seek those shards for their own nefarious purposes, and the Red Wizards are rumored to have found a number of them already. Can you wrest those necromantic artifacts from the hands of the dread mages? Part One of the *Broken Chains Series*.\n\n A Four-Hour Adventure for 17th–20th Level Characters.",
+        "items": [
+            {
+                "name": "Efreeti Chain",
+                "rarity": "legendary"
+            },
+            {
+                "name": "Potion of Flying",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Regenerate",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Resurrection",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "In the Hands of the Enemy",
+                "description": "You failed to recover the opal pendant from the Thayan zulkirs and lost the Soulmonger fragment. At some point in the future, you and your allies will need to deal with the *Soulmonger* permanently. Since you don’t possess the opal pendant, you’ll face a greater struggle."
+            },
+            {
+                "name": "The Opal Pendant",
+                "description": "You captured part of the *Soulmonger’s* energy within a magic opal pendant taken from a Thayan zulkir. At some point in the future, you and your allies will need to deal with this nefarious device permanently."
+            }
+        ]
+    },
+    {
+        "code": "DDAL07-16",
+        "name": "Pools of Cerulean",
+        "description": "The Land of Ash and Smoke. Once a hellish landscape of volcanic activity, now a nightmare region that hosts one of the scattered Soulmonger fragments. The fragment’s burgeoning power attracted the attention of the Red Wizards of Thay and, thankfully, adventurers who are willing to risk life and limb to keep the fragment from these vile arcanists. Can you reach the fragment before the Red Wizards make off with it? The hunt is on. Part Two of the *Broken Chain Series*.\n\n A Four-Hour Adventure for 17th–20th Level Characters.",
+        "items": [
+            {
+                "name": "Vorpal Sword (Scimitar)",
+                "rarity": "legendary"
+            },
+            {
+                "name": "Potion of Speed",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Dominate Monster",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Opal Pendant",
+                "description": "You captured part of the *Soulmonger’s* energy within a magic opal pendant taken from a Thayan zulkir. At some point in the future, you and your allies will need to deal with this nefarious device permanently."
+            }
+        ]
+    },
+    {
+        "code": "DDAL07-17",
+        "name": "Cauldron of Sapphire",
+        "description": "Just off the northern coast of Chult churns the waters of the Cauldron, a single volcano with a terrible history. Legends from the jungle lands say that it vomits forth lava, stone, and monsters if the peninsula is threatened—and yet the recent events did not set if off. So why is it threatening to explode now? Part Three of the *Broken Chains Series*.\n\n A Four-Hour Adventure for 17th–20th Level Characters.",
+        "items": [
+            {
+                "name": "Staff of the Magi",
+                "rarity": "legendary"
+            },
+            {
+                "name": "Arrows, +2",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 12
+            },
+            {
+                "name": "Spell Scroll of Greater Restoration",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Atropal in a Cage",
+                "description": "You have a portion of an atropal safely stored in a opal amulet."
+            }
+        ]
+    },
+    {
+        "code": "DDAL07-18",
+        "name": "Turn Back the Endless Night",
+        "description": "Your foe seeks to unlock the Iron Door beneath the Peaks of Flame and open the way for the Eater of the World. You must find your way through the maze of tunnels and stop them, or it will be the end of all things. Part Four of the *Broken Chains Series*.\n\n A Four-Hour Adventure for 17th–20th Level Characters.",
+        "items": [
+            {
+                "name": "Scarab of Protection",
+                "rarity": "legendary"
+            },
+            {
+                "name": "Potion of Flying",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Supreme Healing",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Mass Heal",
+                "rarity": "legendary",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Teleport",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Friend of the Ageless",
+                "description": "Through your efforts to thwart Dendar the Night Serpent, you inadvertently freed the lich Rhaugilath from his bondage to the archlich Larloch. While you have made one friend, another no doubt calls you an enemy."
+            },
+            {
+                "name": "Your Tale is Over",
+                "description": "In your last moments, you witnessed Dendar the Night Serpent consume the sun and crush the world in her coils. Even if there was some way to come back from that horrific death, there is no world to come back to. Your character is permanently retired."
+            }
+        ]
+    },
 ]

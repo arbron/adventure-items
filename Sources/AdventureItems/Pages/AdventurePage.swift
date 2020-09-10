@@ -70,6 +70,8 @@ extension Publish.Item where Site == AdventureItemsSite {
             tags.insert("adventure: convention created content")
         case .dreamsOfRedWizards:
             tags.insert("adventure: dreams of red wizards")
+        case .embersOfTheLastWar:
+            tags.insert("adventure: embers of the last war")
         case .oracleOfWar:
             tags.insert("adventure: oracle of war")
         case .season(let number):

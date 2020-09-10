@@ -9,7 +9,7 @@ import Publish
 import Plot
 import Ink
 
-public extension Theme {
+extension Theme where Site == AdventureItemsSite {
     static var league: Self {
         Theme(
             htmlFactory: LeagueHTMLFactory(),
@@ -18,10 +18,14 @@ public extension Theme {
     }
 }
 
-private struct LeagueHTMLFactory<Site: Website>: HTMLFactory {
+private struct LeagueHTMLFactory: HTMLFactory {
+    typealias Site = AdventureItemsSite
+
     func makeIndexHTML(for index: Index,
                        context: PublishingContext<Site>) throws -> HTML {
-        HTML(
+        let splitItems = splitItemsIntoSections(context.sections.flatMap { $0.items })
+
+        return HTML(
             .lang(context.site.language),
             .head(for: index, on: context.site),
             .body(
@@ -32,11 +36,35 @@ private struct LeagueHTMLFactory<Site: Website>: HTMLFactory {
                         .class("description"),
                         .text(context.site.description)
                     ),
-                    .itemList(for: context.customSortedAllItems(), on: context.site)
+                    .forEach(Adventure.Source.allCases, { category in
+                        .group([
+                            .h2(.text(category.stringValue)),
+                            .itemList(for: splitItems[category] ?? [], on: context.site)
+                        ])
+                    })
                 ),
                 .footer(for: context.site)
             )
         )
+    }
+
+    private func splitItemsIntoSections(_ items: [Publish.Item<Site>]) -> [Adventure.Source: [Publish.Item<Site>]] {
+        var dictionary: [Adventure.Source: [Publish.Item<Site>]] = [:]
+
+        for item in items {
+            switch item.metadata.adventure.source {
+            case .conventionCreatedContent:
+                var array = dictionary[.conventionCreatedContent(nil)] ?? []
+                array.append(item)
+                dictionary[.conventionCreatedContent(nil)] = array
+            default:
+                var array = dictionary[item.metadata.adventure.source] ?? []
+                array.append(item)
+                dictionary[item.metadata.adventure.source] = array
+            }
+        }
+
+        return dictionary
     }
 
     func makeSectionHTML(for section: Section<Site>, context: PublishingContext<Site>) throws -> HTML {
@@ -230,27 +258,5 @@ private extension Node where Context == HTML.BodyContext {
                 .a(.href("/feed.rss"), .text("RSS feed"))
             )
         )
-    }
-}
-
-private extension PublishingContext {
-    func customSortedAllItems(order: SortOrder = .ascending) -> [Publish.Item<Site>] {
-        return sections.flatMap {
-            $0.items.sorted {
-                let lhs = $0.title.makeSortableCode()
-                let rhs = $1.title.makeSortableCode()
-                switch order {
-                case .ascending: return lhs < rhs
-                case .descending: return lhs > rhs
-                }
-            }
-        }
-    }
-}
-
-private extension String {
-    func makeSortableCode() -> String {
-        return replacingOccurrences(of: "DDEX", with: "DDAL")
-            .replacingOccurrences(of: "CCC", with: "zzzCCC")
     }
 }

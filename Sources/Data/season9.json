@@ -287,4 +287,64 @@
             }
         ]
     },
+    {
+        "code": "DDAL09-11",
+        "name": "Losing Fai",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL09-12",
+        "name": "The Breath of Life",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL09-13",
+        "name": "The Swarmed Heart",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL09-14",
+        "name": "The Vast Emptiness of Grace",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL09-15",
+        "name": "Maddening Screams",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL09-16",
+        "name": "Honors Unforseen",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL09-17",
+        "name": "In the Hand",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDEP09-01",
+        "name": "Infernal Pursuits",
+        "description": "A horse race in Baldur’s Gate becomes a hellish battle on infernal war machines in Avernus when the characters get caught between two evil merchants…and must hang on for dear life.\n\nA four-hour D&D EpicT™ adventure for Tier 1 and 2 characters.",
+        "incomplete": true
+    },
+    {
+        "code": "DDEP09-02",
+        "name": "Hellfire Requiem",
+        "description": "A Four-Hour Adventure for Tier 1 and 2 Characters.",
+        "incomplete": true
+    },
+    {
+        "code": "DDEP09-03",
+        "name": "Liar's Night",
+        "description": "",
+        "incomplete": true
+    },
 ]

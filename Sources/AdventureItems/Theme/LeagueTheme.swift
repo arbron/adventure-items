@@ -7,6 +7,7 @@
 
 import Publish
 import Plot
+import Ink
 
 public extension Theme {
     static var league: Self {
@@ -160,7 +161,7 @@ private extension Node where Context == HTML.BodyContext {
             .forEach(items) { item in
                 .li(.article(
                     .h1(.a(.href(item.path), .text(item.title))),
-                    .p(.text(item.description))
+                    .raw(MarkdownParser().html(from: item.description))
                 ))
             }
         )

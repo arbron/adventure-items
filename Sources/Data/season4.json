@@ -45,8 +45,7 @@
         "items": [
             {
                 "name": "Whip of Warning",
-                "rarity": "uncommon",
-                "consumable": false
+                "rarity": "uncommon"
             },
             {
                 "name": "Spell Scroll of Create Bonfire",
@@ -69,8 +68,7 @@
         "items": [
             {
                 "name": "Wolfskin Cap (Hat of Disguise)",
-                "rarity": "uncommon",
-                "consumable": false
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Healing",
@@ -93,8 +91,7 @@
         "items": [
             {
                 "name": "Eyes of Charming",
-                "rarity": "uncommon",
-                "consumable": false
+                "rarity": "uncommon"
             },
             {
                 "name": "Acid (vial)",
@@ -153,8 +150,7 @@
         "items": [
             {
                 "name": "Wind Fan",
-                "rarity": "uncommon",
-                "consumable": false
+                "rarity": "uncommon"
             }
         ],
         "storyAwards": [
@@ -179,8 +175,7 @@
         "items": [
             {
                 "name": "Boots of Elvenkind",
-                "rarity": "uncommon",
-                "consumable": false
+                "rarity": "uncommon"
             },
             {
                 "name": "Antitoxin (vial)",
@@ -235,8 +230,7 @@
         "items": [
             {
                 "name": "Cape of the Mountebank",
-                "rarity": "rare",
-                "consumable": false
+                "rarity": "rare"
             },
             {
                 "name": "Potion of Greater Healing",
@@ -284,8 +278,7 @@
         "items": [
             {
                 "name": "Ring of Spell Storing",
-                "rarity": "rare",
-                "consumable": false
+                "rarity": "rare"
             }
         ],
         "storyAwards": [
@@ -306,8 +299,7 @@
         "items": [
             {
                 "name": "Glamoured Studded Leather",
-                "rarity": "rare",
-                "consumable": false
+                "rarity": "rare"
             },
             {
                 "name": "Spell Scroll of Mass Cure Wounds",
@@ -334,13 +326,11 @@
         "items": [
             {
                 "name": "Driftglobe",
-                "rarity": "uncommon",
-                "consumable": false
+                "rarity": "uncommon"
             },
             {
                 "name": "Wand of Binding",
-                "rarity": "rare",
-                "consumable": false
+                "rarity": "rare"
             },
             {
                 "name": "Scroll of Protection (Plants)",
@@ -380,13 +370,11 @@
         "items": [
             {
                 "name": "Dagger of Venom",
-                "rarity": "rare",
-                "consumable": false
+                "rarity": "rare"
             },
             {
                 "name": "Gemstone Necklace",
-                "rarity": "common",
-                "consumable": false
+                "rarity": "common"
             },
             {
                 "name": "Potion of Greater Healing",
@@ -415,8 +403,7 @@
         "items": [
             {
                 "name": "Bonds of Fear (Dimensional Shackles)",
-                "rarity": "rare",
-                "consumable": false
+                "rarity": "rare"
             },
             {
                 "name": "Potion of Greater Healing",
@@ -453,8 +440,7 @@
         "items": [
             {
                 "name": "Ring of Animal Influence",
-                "rarity": "rare",
-                "consumable": false
+                "rarity": "rare"
             },
             {
                 "name": "Potion of Flying",
@@ -497,8 +483,7 @@
         "items": [
             {
                 "name": "Bracers of Defense",
-                "rarity": "rare",
-                "consumable": false
+                "rarity": "rare"
             },
             {
                 "name": "Potion of Animal Friendship",
@@ -573,5 +558,11 @@
                 "description": "You have defeated Esmae Amarantha and once again caged the Evening Glory. You are true warrior of fate and love and are marked as such. You gain advantage on Charisma checks made with followers of the goddess Sûne. You may cross this favor out to succeed on a saving throw against a charm effect that you have failed."
             }
         ]
+    },
+    {
+        "code": "DDEP04",
+        "name": "Reclamation of Phlan",
+        "description": "For too long, the Maimed Virulence has held Phlan in its grasp. The factions have begun to muster and sounded the call to battle throughout the Moonsea. Allies new and old will be called upon to aid in their attempts to reclaim the ancient town. Are you one of the few bold enough to answer the call to battle?\n\n A 4-hour Epic adventure for 1st–16th level characters.",
+        "incomplete": true
     },
 ]

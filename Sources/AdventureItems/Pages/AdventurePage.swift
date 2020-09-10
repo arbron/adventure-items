@@ -70,6 +70,8 @@ extension Publish.Item where Site == AdventureItemsSite {
             tags.insert("adventure: convention created content")
         case .dreamsOfRedWizards:
             tags.insert("adventure: dreams of red wizards")
+        case .oracleOfWar:
+            tags.insert("adventure: oracle of war")
         case .season(let number):
             if number == 0 { tags.insert("adventure: season agnostic") }
             else { tags.insert("adventure: season \(number)") }
@@ -80,6 +82,8 @@ extension Publish.Item where Site == AdventureItemsSite {
             tags.insert("adventure: epic")
         }
 
+        let description = adventure.incomplete ? "*(incomplete)*" : ListFormatter().string(from: magicItemNames) ?? ""
+
         return Self(
             path: Path(adventure.code.lowercased()),
             sectionID: ASite.SectionID.adventures,
@@ -89,7 +93,7 @@ extension Publish.Item where Site == AdventureItemsSite {
             tags: Array(tags).sorted(),
             content: Content(
                 title: "\(adventure.code) - \(adventure.name)",
-                description: ListFormatter().string(from: magicItemNames) ?? "",
+                description: description,
                 body: Self.body(adventure)
             )
         )

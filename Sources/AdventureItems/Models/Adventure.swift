@@ -12,6 +12,8 @@ struct Adventure: Codable, Hashable {
     var name: String
     var description: String
 
+    @DecodableDefault.False var incomplete: Bool
+
     var released: Date?
 
     @DecodableDefault.EmptyList var items: [Item]
@@ -19,7 +21,7 @@ struct Adventure: Codable, Hashable {
     @DecodableDefault.EmptyList var storyAwards: [StoryAward]
 
     var source: Source { Source(code) }
-    var isEpic: Bool { code.hasPrefix("DDEP") }
+    var isEpic: Bool { code.hasPrefix("DDEP") || code.hasPrefix("DDAL-EBEP") }
 }
 
 extension Adventure {
@@ -35,6 +37,7 @@ extension Adventure {
         case hardcover
         case conventionCreatedContent(String)
         case dreamsOfRedWizards
+        case oracleOfWar
 
         init(_ code: String) {
             if let remainder = code.removePrefix("CCC-") {
@@ -42,6 +45,8 @@ extension Adventure {
                 self = .conventionCreatedContent("\(remainder.prefix(upTo: dashIdx))")
             } else if code.hasPrefix("DDAL-DRW") || code.hasPrefix("DDEP-DRW") {
                 self = .dreamsOfRedWizards
+            } else if code.hasPrefix("DDAL-EB") {
+                self = .oracleOfWar
             } else if let remainder = code.removePrefix("DDAL") ?? code.removePrefix("DDEX") ?? code.removePrefix("DDEP") {
                 guard let seasonNum = Adventure.formatter.number(from: "\(remainder.prefix(2))") else { fatalError("Invalid Season code: \(code)") }
                 self = .season(seasonNum.intValue)

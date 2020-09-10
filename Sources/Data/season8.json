@@ -383,6 +383,18 @@
         ]
     },
     {
+        "code": "DDEP08-01",
+        "name": "Chaos in the City of Splendors",
+        "description": "The hunt for the cache of dragons has attracted ne’er-do-wells and fortune seekers to Waterdeep from far and wide, and the local gangs are not about to let such a bounty of talent go to waste. Chaos and shenanigans await the brave and the bold in the City of Splendors!\n\n A Three-Hour D&D Epic Adventure for 1st–4th Level Characters.",
+        "incomplete": true
+    },
+    {
+        "code": "DDEP08-02",
+        "name": "Stardock Under Siege",
+        "description": "An illithid invasion threatens Stardock, and only you and your allies can stop it!\n\n A Four-Hour D&D Epic Adventure for 1st–16th Level Characters.",
+        "incomplete": true
+    },
+    {
         "code": "DDEP08-03",
         "name": "Last Orders at the Yawning Portal",
         "description": "Durnan has closed the Yawning Portal and mysteriously disappeared back down the well into Undermountain. His old adventuring companion Mirt has hung up his tankard and set off to find him, but he can’t do it alone. Champions gather from afar to answer his call and rescue one of the city’s most iconic heroes. Will YOU join them? A Three-Hour D&D Epics™ adventure for Tier 1–4 characters. Optimized for APL 3, 8, 13, and 18.",

@@ -528,4 +528,34 @@
             }
         ]
     },
+    {
+        "code": "DDAL05-17",
+        "name": "Hartkiller's Horn",
+        "description": "Claiming to possess Hartkiller's Horn, Ryndölg makes his move to take control of the Hartsvale. The non-giant residents have been pressed to declare their allegiance or be destroyed. Do they swear fealty to Jarl Ryndölg, or is there another option? Is there another contender to the throne? Sometimes the best choices can be the most dangerous.\n\n A Four-Hour Adventure for 5th–10th Level Characters.",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL05-18",
+        "name": "The Mysterious Isle",
+        "description": "Baron Rajiram’s forces have secured the Nelanther Isles and have scoured the Sword Coast for treasures. Now they have begun to explore a mysterious island that recently just popped into existence nearby. SEER seems to believe that an aboleth artifact is their goal. It is up to the adventurers, in competition with the baron, as well as aboleths, the Kraken Society, and the mysterious caretaker of the island, to locate the *Eye of Xxiphu* and avert catastrophic disaster.\n\n A Four-Hour Adventure for 17th–20th Level Characters.",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL05-19",
+        "name": "Eye of Xxiphu",
+        "description": "Baron Rajiram’s forces have secured the Nelanther Isles and have scoured the Sword Coast for treasures. Now they have begun to explore a mysterious island that recently just popped into existence nearby. SEER seems to believe that an aboleth artifact is their goal. It is up to the adventurers, in competition with the baron, as well as aboleths, the Kraken Society, and the mysterious caretaker of the island, to locate the *Eye of Xxiphu* and avert catastrophic disaster.\n\n A Four-Hour Adventure for 17th–20th Level Characters.",
+        "incomplete": true
+    },
+    {
+        "code": "DDEP05-01",
+        "name": "The Iron Baron",
+        "description": "Deep in the Greypeak Mountains the fire giant warlord Baron Ugarak has enslaved hundreds of small folk to toil in his iron mines furiously extracting elementally infused ore for an as yet unknown purpose. Surrounded by a monstrous army and decidedly shady allies, the Baron poses a dire threat to the goodly folk of the north.\n\n A Four-Hour Epic Adventure for 1st–10th Level Characters.",
+        "incomplete": true
+    },
+    {
+        "code": "DDEP05-02",
+        "name": "The Ark of the Mountains",
+        "description": "The flying galleon *Thunderbound* descends on Beregost, unleashing the wrath of the cloud giants! To save the town from annihilation, heroes from far and wide must awaken the lost machine entombed under Durlag’s Tower. Dare you board the *Ark of the Mountains* and do battle in the burning skies?\n\n A 4-hour Epic Adventure for 1st–16th Level Characters.",
+        "incomplete": true
+    },
 ]

@@ -1,5 +1,11 @@
 [
     {
+        "code": "DDEP01",
+        "name": "Corruption in Kryptgarden",
+        "description": "Kryptgarden Forest has long been a place feared by travelers. Now, the Cult of the Dragon has used that fear to its advantage, securing a stronghold deep in the forest. The Harpers, Order of the Gauntlet, Emerald Enclave, Lords’ Alliance, and the Zhentarim are recruiting groups of adventurers to infiltrate the forest to find out the cult’s purpose. Join hundreds of others in this interactive play experience.\n\n A special adventure for 1st–4th level characters.",
+        "incomplete": true
+    },
+    {
         "code": "DDEX01-01",
         "name": "Defiance in Phlan",
         "description": "The Cult of the Dragon has come to Phlan, a lawless refuge on the Moonsea. Now, with no significant authority to stop the cult, other power groups in the Realms—the Harpers, Order of the Gauntlet, Emerald Enclave, Lords’ Alliance, and even the Zhentarim—must unite to stop the cult from fulfilling its dark purpose in the city. Join the fight by participating in any one of five different missions aimed at stopping the cult.\n\n An introductory adventure for 1st-level characters.",
@@ -7,9 +13,7 @@
         "items": [
             {
                 "name": "Enchanted Blue Dragon's Tooth",
-                "rarity": "common",
-                "consumable": false,
-                "count": null
+                "rarity": "common"
             },
             {
                 "name": "Potion of Climbing",
@@ -35,9 +39,7 @@
                 "consumable": true,
                 "count": 1
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX01-02",
@@ -64,7 +66,6 @@
                 "count": null
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "Enmity of the Black Fist",
@@ -80,9 +81,7 @@
         "items": [
             {
                 "name": "Ring of Evasion",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Potion of Healing",
@@ -90,9 +89,7 @@
                 "consumable": true,
                 "count": 2
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX01-04",
@@ -102,9 +99,7 @@
         "items": [
             {
                 "name": "Goggles of Night",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             }
         ],
         "spellbooks": [],
@@ -141,9 +136,7 @@
                 "consumable": true,
                 "count": 2
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX01-06",
@@ -153,9 +146,7 @@
         "items": [
             {
                 "name": "Headband of Intellect",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Greater Healing",
@@ -182,7 +173,6 @@
                 "count": 1
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "Favor of Ellison Berenger",
@@ -208,9 +198,7 @@
                 "consumable": true,
                 "count": 1
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
       "code": "DDEX01-08",
@@ -220,9 +208,7 @@
       "items": [
         {
           "name": "Cloak of Elvenkind",
-          "rarity": "uncommon",
-          "consumable": false,
-          "count": null
+          "rarity": "uncommon"
         },
         {
           "name": "Spell Scroll of Chromatic Orb",
@@ -230,9 +216,7 @@
           "consumable": true,
           "count": 1
         }
-      ],
-      "spellbooks": [],
-      "storyAwards": []
+      ]
     },
     {
         "code": "DDEX01-09",
@@ -242,13 +226,9 @@
         "items": [
             {
                 "name": "Longbow, +1",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX01-10",
@@ -258,9 +238,7 @@
         "items": [
             {
                 "name": "Ioun Stone of Protection",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Potion of Healing",
@@ -309,9 +287,7 @@
         "items": [
             {
                 "name": "Horn of Blasting",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Acid (vial)",
@@ -376,8 +352,7 @@
                     { "name": "hold monster", "level": 5 }
                 ]
             }
-        ],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX01-12",
@@ -387,9 +362,7 @@
         "items": [
             {
                 "name": "Splint Armor, +1",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Alchemist's fire (flask)",
@@ -474,19 +447,14 @@
         "code": "DDEX01-13",
         "name": "Pool of Radiance Resurgent",
         "description": "Vorgansharax rules Phlan, using the Cult of the Dragon to extend his noxious gaze. But the green dragon seeks far more than control of the beleaguered town—ultimate power is nearly within reach. Will he reactivate the Pool of Radiance and ascend to greater prominence amongst his kind? A sequel to DDEX1-10 *Tyranny in Phlan* and Part Two of *Under Emerald Claws*.\n\n An adventure for 5th–10th level characters.",
-        "released": null,
         "items": [
             {
                 "name": "Mantle of Spell Resistance",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Moonsea Cults (Book)",
-                "rarity": "common",
-                "consumable": false,
-                "count": null
+                "rarity": "common"
             },
             {
                 "name": "Potion of Gaseous Form",
@@ -525,8 +493,7 @@
                     { "name": "cone of cold", "level": 5 }
                 ]
             }
-        ],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX01-14",
@@ -536,9 +503,7 @@
         "items": [
             {
                 "name": "Robe of Eyes",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             }
         ],
         "spellbooks": [
@@ -563,7 +528,6 @@
                     { "name": "cone of cold", "level": 5 }
                 ]
             }
-        ],
-        "storyAwards": []
+        ]
     },
 ]

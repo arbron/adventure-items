@@ -1,33 +1,25 @@
 [
     {
-        "code": "DDEP02-01",
+        "code": "DDEP02",
         "name": "Mulmaster Undone",
         "description": "The Cults of Elemental Evil have been unveiled within the City of Danger and in retaliation, they seek to use the fundamental forces of nature to destroy it from within. Join your factions as well as the Blades, Cloaks, Hawks and Soldiers alike in defending Mulmaster against those that would burn, crush, drown, and buffet it into oblivion.\n\n A special four-hour multi-table adventure for 1st–10th level characters.",
         "released": "2015-06-04",
         "items": [
             {
                 "name": "Bracers of Archery",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Cloak of Protection",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Necklace of Prayer Beads",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Wings of Flying",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Potion of Greater Healing",
@@ -118,8 +110,7 @@
                     { "name": "investiture of wind", "level": 6 }
                 ]
             }
-        ],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX02-01",
@@ -152,7 +143,6 @@
                 "count": 1
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "Marked by the Crushing Wave",
@@ -168,9 +158,7 @@
         "items": [
             {
                 "name": "Staff of Charming",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Potion of Healing",
@@ -179,7 +167,6 @@
                 "count": 3
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "To Wear the Cloak",
@@ -195,9 +182,7 @@
         "items": [
             {
                 "name": "Trident of Warning",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Invulnerability",
@@ -212,7 +197,6 @@
                 "count": 1
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "To Wear the Cloak",
@@ -228,9 +212,7 @@
         "items": [
             {
                 "name": "Belt of Dwarvenkind",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Potion of Greater Healing",
@@ -250,9 +232,7 @@
                 "consumable": true,
                 "count": 1
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX02-05",
@@ -262,13 +242,9 @@
         "items": [
             {
                 "name": "Brooch of Shielding",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX02-06",
@@ -278,9 +254,7 @@
         "items": [
             {
                 "name": "Ring of Mind Shielding",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Resistance (Lightning)",
@@ -294,9 +268,7 @@
                 "consumable": true,
                 "count": 1
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX02-07",
@@ -306,9 +278,7 @@
         "items": [
             {
                 "name": "Ring of Water Walking",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Healing",
@@ -349,8 +319,7 @@
                     { "name": "Snilloc's snowball swarm", "level": 2 }
                 ]
             }
-        ],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX02-08",
@@ -360,9 +329,7 @@
         "items": [
             {
                 "name": "Rod of the Pact Keeper, +1",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Healing",
@@ -370,21 +337,16 @@
                 "consumable": true,
                 "count": 1
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX02-09",
         "name": "Eye of the Tempest",
         "description": "A storm of unparalleled fury has been ravaging the peaks of the Earthspur Mountains for a tenday, and the Monastery of the Yellow Rose sits in its eye for now. Some monks have fled the monastery to the safety of Mulmaster and beseech you to convince their more obstinate brothers to retreat to the city before the eye of the storm shifts, and the monestary is in terrible danger. Can you brave the elements and convince the monks to escape?\n\n An eight-hour adventure for 5th–10th level characters.",
-        "released": null,
         "items": [
             {
                 "name": "Figurine of Wondrous Power (Serpentine Owl)",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Wand of Lightning Bolts",
@@ -404,9 +366,7 @@
                 "consumable": true,
                 "count": 3
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX02-10",
@@ -416,9 +376,7 @@
         "items": [
             {
                 "name": "Winged Boots",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Flying",
@@ -446,8 +404,7 @@
                     { "name": "lightning bolt", "level": 3 }
                 ]
             }
-        ],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX02-11",
@@ -457,9 +414,7 @@
         "items": [
             {
                 "name": "Battle Axe, +1",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Growth",
@@ -474,7 +429,6 @@
                 "count": 1
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "Seed of Fel Earth",
@@ -490,21 +444,19 @@
         "items": [
             {
                 "name": "Sentinel Shield",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Greater Healing",
                 "rarity": "uncommon",
                 "consumable": true,
-                "count": null
+                "count": 1
             },
             {
                 "name": "Potion of Healing",
                 "rarity": "common",
                 "consumable": true,
-                "count": null
+                "count": 1
             },
             {
                 "name": "Spell Scroll of Absorb Elements",
@@ -519,7 +471,6 @@
                 "count": 1
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "Missing Loved One",
@@ -536,20 +487,14 @@
             {
                 "name": "Balloon Pack",
                 "rarity": "uncommon",
-                "consumable": false,
-                "count": null
             },
             {
                 "name": "Staff of Withering",
                 "rarity": "rare",
-                "consumable": false,
-                "count": null
             },
             {
                 "name": "Wingwear",
                 "rarity": "uncommon",
-                "consumable": false,
-                "count": null
             },
             {
                 "name": "Potion of Bottled Breath",
@@ -570,8 +515,6 @@
             {
                 "name": "The Wall of Teeth (Shield, +2)",
                 "rarity": "rare",
-                "consumable": false,
-                "count": null
             },
             {
                 "name": "Potion of Greater Healing",
@@ -620,8 +563,6 @@
             {
                 "name": "Sword of Wounding (Greatsword)",
                 "rarity": "rare",
-                "consumable": false,
-                "count": null
             },
             {
                 "name": "Elemental Gem (Yellow Diamond)",
@@ -635,9 +576,7 @@
                 "consumable": true,
                 "count": 2
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX02-16",
@@ -647,9 +586,7 @@
         "items": [
             {
                 "name": "Medallion of Thoughts",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             }
         ],
         "spellbooks": [

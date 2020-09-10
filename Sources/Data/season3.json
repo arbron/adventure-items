@@ -1,39 +1,29 @@
 [
     {
-        "code": "DDEP03-01",
+        "code": "DDEP03",
         "name": "Blood Above, Blood Below",
         "description": "In two different arenas, the call for blood has been sounded. The five factions now seek out bold adventurers willing to brave death in order to draw attention away from Szith Morcane, and in so doing allow a small group to infiltrate the drow outpost and return it to the hands of the drow. What role will you play in this deadly game?\n\n A special three-hour multi-table adventure for 1st–16th level characters.",
         "released": "2015-08-01",
         "items": [
             {
                 "name": "Belt of Fire Giant Strength",
-                "rarity": "veryRare",
-                "consumable": false,
-                "count": null
+                "rarity": "veryRare"
             },
             {
                 "name": "Elven Chain",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Ioun Stone of Insight",
-                "rarity": "veryRare",
-                "consumable": false,
-                "count": null
+                "rarity": "veryRare"
             },
             {
                 "name": "Javelin of Lightning",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Pearl of Power",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Healing",
@@ -102,7 +92,6 @@
                 "count": 1
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "What a Horse!",
@@ -158,9 +147,7 @@
                 "consumable": true,
                 "count": 1
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX03-02",
@@ -170,9 +157,7 @@
         "items": [
             {
                 "name": "Rapier, +1",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Healing",
@@ -186,9 +171,7 @@
                 "consumable": true,
                 "count": 1
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX03-03",
@@ -198,9 +181,7 @@
         "items": [
             {
                 "name": "Staff of Swarming Insects",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Antitoxin",
@@ -214,9 +195,7 @@
                 "consumable": true,
                 "count": 1
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX03-04",
@@ -226,9 +205,7 @@
         "items": [
             {
                 "name": "Ioun Stone of Regeneration",
-                "rarity": "legendary",
-                "consumable": false,
-                "count": null
+                "rarity": "legendary"
             },
             {
                 "name": "Potion of Fire Giant Strength",
@@ -358,9 +335,7 @@
         "items": [
             {
                 "name": "Shield, +1",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Healing",
@@ -375,7 +350,6 @@
                 "count": 1
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "Oh, What a Slaver You'll Make",
@@ -395,9 +369,7 @@
         "items": [
             {
                 "name": "Pipes of the Sewers",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Healing",
@@ -405,9 +377,7 @@
                 "consumable": true,
                 "count": 1
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX03-07",
@@ -417,15 +387,13 @@
         "items": [
             {
                 "name": "Shadowsong (Oathbow)",
-                "rarity": "veryRare",
-                "consumable": false,
-                "count": null
+                "rarity": "veryRare"
             },
             {
                 "name": "Potion of Animal Friendship",
                 "rarity": "uncommon",
-            "consumable": true,
-            "count": 1
+                "consumable": true,
+                "count": 1
             },
             {
                 "name": "Potion of Climbing",
@@ -458,8 +426,7 @@
                     { "name": "cloudkill", "level": 1 }
                 ]
             }
-        ],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX03-08",
@@ -469,9 +436,7 @@
         "items": [
             {
                 "name": "Alchemy Jug",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Superior Healing",
@@ -486,7 +451,6 @@
                 "count": 1
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "A Taste of Madness",
@@ -502,9 +466,7 @@
         "items": [
             {
                 "name": "Canaith Mandolin",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Potion of Greater Healing",
@@ -518,9 +480,7 @@
                 "consumable": true,
                 "count": 1
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX03-10",
@@ -530,9 +490,7 @@
         "items": [
             {
                 "name": "Wand of the War Mage, +1",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Alchemist's fire (flask)",
@@ -546,9 +504,7 @@
                 "consumable": true,
                 "count": 2
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX03-11",
@@ -558,9 +514,7 @@
         "items": [
             {
                 "name": "Half-Plate of Poison Resistance",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Potion of Diminution",
@@ -575,7 +529,6 @@
                 "count": 1
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "In League with the Seer",
@@ -595,9 +548,7 @@
         "items": [
             {
                 "name": "Eyes of Minute Seeing",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Spell Scroll of Disguise Self",
@@ -605,9 +556,7 @@
                 "consumable": true,
                 "count": 4
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX03-13",
@@ -617,14 +566,11 @@
         "items": [
             {
                 "name": "Rod of the Pact Keeper, +2",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Silvered Greatsword",
                 "rarity": "common",
-                "consumable": false,
                 "count": 1
             },
             {
@@ -639,9 +585,7 @@
                 "consumable": true,
                 "count": 2
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX03-14",
@@ -651,9 +595,7 @@
         "items": [
             {
                 "name": "Bracers of Archery",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Assassin's Blood (vial)",
@@ -674,7 +616,6 @@
                 "count": 1
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "Friends in High Places",
@@ -690,9 +631,7 @@
         "items": [
             {
                 "name": "Ring of Protection",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Portion of Fire Breath",
@@ -720,8 +659,7 @@
                     { "name": "passwall", "level": 5 }
                 ]
             }
-        ],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDEX03-16",
@@ -731,27 +669,19 @@
         "items": [
             {
                 "name": "Demon Armor",
-                "rarity": "veryRare",
-                "consumable": false,
-                "count": null
+                "rarity": "veryRare"
             },
             {
                 "name": "Robe of Stars",
-                "rarity": "veryRare",
-                "consumable": false,
-                "count": null
+                "rarity": "veryRare"
             },
             {
                 "name": "Quarterstaff, +1",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Shortbow, +1",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Heroism",
@@ -820,12 +750,11 @@
                 "count": 1
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "Shared Valor",
                 "description": "Your efforts to gather forces for the Assault on Maerimydra have resonated throughout your faction. When you fail in a faction assignment or special mission, you may choose to void this favor and instead succeed. This does not grant you any rewards (XP, gp, items, story awards, etc.) that might be associated with success, but does count as a success for gaining renown or tracking success of special missions."
             }
         ]
-    }
+    },
 ]

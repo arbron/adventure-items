@@ -1,12 +1,171 @@
 [
     {
+        "code": "DDHC-CoS",
+        "name": "Curse of Strahd",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-DMM",
+        "name": "Dungeon of the Mad Mage",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-DIA",
+        "name": "Baldur's Gate: Descent into Avernus",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-HotDQ",
+        "name": "Hoard of the Dragon Queen",
+        "description": "",
+        "incomplete": true
+    },
+    {
         "code": "DDHC-LMOP",
         "name": "Lost Mine of Phandelver",
         "description": "",
-        "released": null,
-        "items": [],
-        "spellbooks": [],
-        "storyAwards": []
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-OotA",
+        "name": "Out of the Abyss",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-PotA",
+        "name": "Princes of the Apocalypse",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-RoT",
+        "name": "Rise of Tiamat",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-SKT",
+        "name": "Storm King's Thunder",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-TOA-01",
+        "name": "Tomb of Annihilation",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-TOA-02",
+        "name": "The Complete Tortle Package",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-TOA-03",
+        "name": "Beast of Jungle Rot",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-TOA-04",
+        "name": "Cellar of Death",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-TOA-05",
+        "name": "Encounters in Port Nyanzaru",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-TOA-06",
+        "name": "Heart of the Wild",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-TOA-07",
+        "name": "Ruins of Mezro",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-TOA-08",
+        "name": "Return of hte Lizard King",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-TOA-09",
+        "name": "Ruins of Matolo",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-TOA-10",
+        "name": "Ruins of Hisari",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-TOA-11",
+        "name": "Hunter",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-TOA-12",
+        "name": "Encounters in the Jungles of Chult",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-TOA-13",
+        "name": "The Risen Mists",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-TOA-14",
+        "name": "Xanathar's Lost Notes to Everything Else",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-TOA-15",
+        "name": "Maze of Shadows",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-TYP",
+        "name": "Tales from the Yawning Portal",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-WDH",
+        "name": "Waterdeep: Dragon Heist",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-WDH-01",
+        "name": "Waterdeep Encounters",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-WDH-02",
+        "name": "Unseen Waterdeep",
+        "description": "",
+        "incomplete": true
     },
     {
         "code": "DDHC-WDH-03",
@@ -47,5 +206,11 @@
         ],
         "spellbooks": [],
         "storyAwards": []
-    }
+    },
+    {
+        "code": "DDHC-WDH-04",
+        "name": "Durnan's Guide to Tavernkeeping",
+        "description": "",
+        "incomplete": true
+    },
 ]

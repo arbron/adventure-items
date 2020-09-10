@@ -1,15 +1,72 @@
 [
     {
+        "code": "CCC-3MAGS-01",
+        "name": "Vormestrand's Scroll",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-AETHER01-01",
+        "name": "The Heir of Orcus: Verse I",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-AETHER01-02",
+        "name": "The Heir of Orcus: Verse II",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ALMOG-01",
+        "name": "What Lies Beneath",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ALMOG-03",
+        "name": "Claws of Fury",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-AMER-01",
+        "name": "Asleep and Awake",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-AN-01",
+        "name": "Secrets of Golden Fire",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-AN-02",
+        "name": "The Wrathful Deity of Khurovogo",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-AN-03",
+        "name": "Winter Wonderland",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-APL-01-01",
+        "name": "It's Not Easy Being Gene",
+        "description": "",
+        "incomplete": true
+    },
+    {
         "code": "CCC-ANIME01-01",
         "name": "Legend of the Sword Bandit Surprise",
         "description": "A priest of Ilmater seeks to right an old wrong to please his god. Will you trust the whims of hags and journey through time to find out what when wrong during the Festival of Stars?\n\n A Two-Hour Adventure for 1st–4th level characters.",
-        "released": null,
         "items": [
             {
                 "name": "Shortbow, +1",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Healing",
@@ -23,21 +80,16 @@
                 "consumable": true,
                 "count": 1
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "CCC-ANIME01-02",
         "name": "Let's Find the Sword, GO!",
         "description": "After learning that Daern’s Blade, a relic that had protected the town of Hawksroost, vanished centuries ago, Sorrim requires assistance in locating it. An old halfling adventurer has learned rumors of the blade hidden within the Vanishing Hills. These same rumors also say that it may be guarded by something ancient. With the Festival of the Stars only a few days out, can the blade be found and returned in time?\n\n A Two-Hour Adventure for 5th–10th level characters.",
-        "released": null,
         "items": [
             {
                 "name": "Yata Mirror (Shield, +2)",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Potion of Greater Healing",
@@ -52,7 +104,6 @@
                 "count": 1
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "To Suffer as Ilmater",
@@ -64,13 +115,10 @@
         "code": "CCC-ANIME01-03",
         "name": "Star Sword, Return!",
         "description": "With less than two days until the Festival of Stars in Hawksroost, Daern's Blade is still missing, but the adventurers are en route to its resting place. Are they truly prepared for what they find?\n\n A Two-Hour Adventure for 5th–10th Level Characters.",
-        "released": null,
         "items": [
             {
                 "name": "Orb of the Stein Rune",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Potion of Heroism",
@@ -84,21 +132,784 @@
                 "consumable": true,
                 "count": 1
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
+    },
+    {
+        "code": "CCC-BLD-11",
+        "name": "Bleeding Gate: Pandemonium",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BLD-12",
+        "name": "Bleeding Gate: Amalgamation",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BLD-0103",
+        "name": "Bleeding Gate: Lineage",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-MOON1-1",
+        "name": "Moonshae Treasure Hunt",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-MOON2-1",
+        "name": "Defenders of Caer Moray",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-MOON2-2",
+        "name": "Army of the Unseen",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-MOON2-3",
+        "name": "The Eye in the Mist",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-01",
+        "name": "A Scream in the Night",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-02",
+        "name": "A Cog in the Wheel",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-03",
+        "name": "A Hole in the World",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-04",
+        "name": "Tales of Good & Evil",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-05",
+        "name": "Songs of Law & Chaos",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-06",
+        "name": "Edicts of Neutrality",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-07",
+        "name": "Hulburg Rebuilding",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-08",
+        "name": "Hulburg Burning",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-09",
+        "name": "Hulburg Rising",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-HULB1S",
+        "name": "Extinction",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-10",
+        "name": "Arrival",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-11",
+        "name": "Exodus",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-12",
+        "name": "Resurgence",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-HILL1S",
+        "name": "Onslaught",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-13",
+        "name": "Sepulture",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-14",
+        "name": "Enemy of my Enemy",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-15",
+        "name": "Subterfuge",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-PHLAN1S",
+        "name": "Uprising",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-16",
+        "name": "The Sage of Cormanthor",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-17",
+        "name": "The Lost Sanctum",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-18",
+        "name": "The Battle of Elmwood",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-19",
+        "name": "Winter's Frosty Kiss",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-20",
+        "name": "Winter's Frigid Wrath",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-21",
+        "name": "Winter's Sharp Bite",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-HULB2S",
+        "name": "Winter's Feast",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-22",
+        "name": "Demagogue",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-23",
+        "name": "Hatemaster",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-24",
+        "name": "The Royal We",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-PHLAN2S",
+        "name": "Damnation",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-25",
+        "name": "The Spectral Incursion",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-26",
+        "name": "The Ghostly Infestation",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-27",
+        "name": "The Spirited Infestation",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-28",
+        "name": "The Red Gathering",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-29",
+        "name": "The Red Herring",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-30",
+        "name": "The Red Death",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-31",
+        "name": "The Conventicle of Chaos",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-32",
+        "name": "The First Rule",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-33",
+        "name": "Spinning on the Edge",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-34",
+        "name": "Tendrils in the Fog",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-35",
+        "name": "Mists of the Moonsea",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-36",
+        "name": "Vestiges of Darkness",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-37",
+        "name": "Weakness of Rock",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-38",
+        "name": "Dead Canaries",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-39",
+        "name": "Darkest Vein",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-40",
+        "name": "Whispers from the Deep",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-41",
+        "name": "Voices from the Deep",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-42",
+        "name": "Call of the Deep",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-43",
+        "name": "Ghoulies and Ghosties",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-44",
+        "name": "Long Leggity Beasties",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-45",
+        "name": "Things That Go Bump in the Night",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-46",
+        "name": "Shepherd the Weak",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-47",
+        "name": "Suffer the Children",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-48",
+        "name": "Spare the Rod",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BWM-001",
+        "name": "Howling on the Moonsea",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BWM-002",
+        "name": "The City in the Depths",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BWM-003",
+        "name": "A TAle of Two Towers",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BWM-06",
+        "name": "Introduction to Adventuring",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-CIC-01",
+        "name": "The Vault of the Devourer",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-CIC-02",
+        "name": "The Clockwork Laboratory",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-CIC-03",
+        "name": "The Desolate Undercroft",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-CIC-04",
+        "name": "Best Friends Forever",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-CIC-05",
+        "name": "Donum Vitae",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-CIC-06",
+        "name": "End of the Line",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-CIC-07",
+        "name": "Pieces of You",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-CIC-08",
+        "name": "The Last Voyage of the Woolgathering Tidsoptimist",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-CIC-09",
+        "name": "Steamy Shores of Danger",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-CIC-10",
+        "name": "Terror at Soward Manor",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-CIC-11",
+        "name": "Death at Peril Island",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-CIC-12",
+        "name": "Redemption at Talos Sound",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-CNE-01",
+        "name": "The Treasure Beneath",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-CNE-01",
+        "name": "Before The Hatch",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-CNE-02",
+        "name": "Into The Depths",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-COTN-01-01",
+        "name": "By The Seashore: A Red War Tale",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-DDSC-01",
+        "name": "Murder at the Stop",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-DDSC-02",
+        "name": "A Fool and His Gold",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-DES01-02",
+        "name": "A Sanity Never Questioned",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-DRUID-01",
+        "name": "The Scourge Unseen",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ELF-01",
+        "name": "Life's A Party",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ELF-02",
+        "name": "An Adventuring Party Walks Into A Bar",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ELO-01",
+        "name": "For the Kids!",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-FC3-01-02",
+        "name": "Tales of Estirwald: Corruption of the Elderoak",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-FC3-03",
+        "name": "Tales of Estirwald: The Fun House",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-FXC-01",
+        "name": "Nothing Happens in Elmwood",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GAD01-01",
+        "name": "Broken Blade",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GAD01-02",
+        "name": "Red War: Black Phoenix",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GARY-01",
+        "name": "A Night to Remember",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GARY-02",
+        "name": "To Find a Way Out",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GARY-03",
+        "name": "Oh, We're In It Now",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GARY-04",
+        "name": "A Darkness in the Mountains",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GARY-05",
+        "name": "The Shadows of the Trees",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GARY-06",
+        "name": "The Death Beneath the Roots",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GARY-07",
+        "name": "The Mirror Cities of Gulthias",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GARY-08",
+        "name": "That Which Lies Buried",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GARY-09",
+        "name": "The Witch Maiden",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GEL-01",
+        "name": "Bedlam at the Benefit",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHC-01",
+        "name": "Tharaera Lost",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHC-02",
+        "name": "Skulljaw Hill",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHC-03",
+        "name": "Facing the Dark",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHC-04",
+        "name": "Shade of the Dark",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHC-05",
+        "name": "Trail of Treachery",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHC-06",
+        "name": "What You Wish For",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHC-07",
+        "name": "The River Runs Red",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHC-08",
+        "name": "Death in the Ruins",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHC-09",
+        "name": "Swamp of Death",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHCBK1-01",
+        "name": "Into the Border Kingdoms",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHCBK1-02",
+        "name": "The Tithes That Bind",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHCBK1-03",
+        "name": "The Darkest Knight",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHCBK1-04",
+        "name": "I am the Fire",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHCBK1-05",
+        "name": "For the Glory of Bloutar!",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHCBK1-06",
+        "name": "Legacy and Virtue",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHCBK1-07",
+        "name": "The Peculiar Case of the Selptan Felines",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHCBK1-08",
+        "name": "The Hunt for Cutter Jack",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHCBK1-09",
+        "name": "Scavengers",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GHCBK1-10",
+        "name": "The Heart of Shadow",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GLIP-0101",
+        "name": "Glip Dak",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GLIP-0102",
+        "name": "Beneath Glip Dak",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GLIP-0103",
+        "name": "Citadel of Vlaakith",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GLIP-0201",
+        "name": "Blue Scales",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GOC-0101",
+        "name": "Tree Rot",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GOC-0102",
+        "name": "Cairns of Rot",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GOC-0103",
+        "name": "Winds of Rot",
+        "description": "",
+        "incomplete": true
     },
     {
         "code": "CCC-GSP01-01",
         "name": "A Dragon's Breath",
         "description": "Ragvala, also known as the \"Coinmaker\", is an ancient gold dragon who wishes to mend his broken friendship with his old adventuring buddy. Recently, he has heard rumors that his friend’s old magical instrument has resurfaced in the Quivering Forest. Unable to change shape anymore, the dragon needs the help of skilled adventurers who can join him on his quest.",
-        "released": null,
         "items": [
             {
                 "name": "Dragon's Lullaby (Instrument of the Bards - Mac-Fuirmidh cittern)",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Spell Scroll of Comprehend Languages",
@@ -107,7 +918,6 @@
                 "count": 1
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "Five-Leaf Clover Initiate",
@@ -119,13 +929,10 @@
         "code": "CCC-GSP01-02",
         "name": "Brotherhood",
         "description": "Ragvala, an ancient gold dragon and the founder of the Five-Leaf Clover is dead. A funeral ceremony will be held in 3 days before he becomes one with the earth. Rokstasha, his friend and a djinni has asked the help of the adventurers to find the other members of the Five-Leaf Clover if they are still alive and have them attend the ceremony. Don’t be late! Part 2 of the *Clover Group Series*.",
-        "released": null,
         "items": [
             {
                 "name": "Pipe of Smoke Monsters",
-                "rarity": "common",
-                "consumable": false,
-                "count": null
+                "rarity": "common"
             }
         ],
         "spellbooks": [],
@@ -144,16 +951,12 @@
         "code": "CCC-GSP01-03",
         "name": "Tainted Love",
         "description": "Rizgrim, the Great Doomguide of Kelemvor has discovered that the land within the Quivering Forest near the burial site of her friend is slowly being consumed by dark magic. The adventurers have been asked to find the source and eliminate it as soon as possible. Failing on this task could turn her dead friend into a dracolich. Nobody wants that! Right?! Part 3 of the *Clover Group Series*.",
-        "released": null,
         "items": [
             {
                 "name": "Cloak of Many Fashions",
                 "rarity": "common",
-                "consumable": false,
-                "count": null
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "In Search of Her",
@@ -166,16 +969,193 @@
         ]
     },
     {
+        "code": "CCC-HAL-01",
+        "name": "Fate of the Nightworms",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-HAL-02",
+        "name": "Six Striking Swords",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-HAL-03",
+        "name": "Six Swords Unbound",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-HATMS01-01",
+        "name": "Threatening Tides",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-HATMS01-02",
+        "name": "Prophecy's Promise",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-HATMS01-03",
+        "name": "Destiny Defied",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-HATMS02-01",
+        "name": "Illithid Activities",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-HATMS02-02",
+        "name": "Something Vile This Way Comes",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-HATMS02-03",
+        "name": "A Vile Wake",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-IFK-01",
+        "name": "Shadow of Greed",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-IFK-02",
+        "name": "Shadow of the Weave",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-IFK-03",
+        "name": "Shadow of the Dusk Queen",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-JGD-01",
+        "name": "Left Black & Blue",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-KUMORI-0101",
+        "name": "Wreckers",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-KUMORI-0102",
+        "name": "Wretches",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-KUMORI-02-02",
+        "name": "School Magic",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-KUMORI-0204",
+        "name": "To Be the Very Best",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-LINKS-01",
+        "name": "Champion of the People",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-LINKS-02",
+        "name": "The Secrets We Keep",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-MACE-01",
+        "name": "The Blight of Geoffrey",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-MACE-02",
+        "name": "A Panther's Peril",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-MACE-03",
+        "name": "Haunted Memories",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-MCX-01",
+        "name": "All in a Day's Work",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-MCX01-02",
+        "name": "The Rescue",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-MIND-01",
+        "name": "Lost in Thought",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-MIND-02",
+        "name": "Mind Trip",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-MIND-03",
+        "name": "Dream Walkers",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-MMT01-01",
+        "name": "Secrets of Imaginary Friends",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-MMT02-01",
+        "name": "The Stuff of Memories",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-MYR-01",
+        "name": "Friends in Need",
+        "description": "",
+        "incomplete": true
+    },
+    {
         "code": "CCC-NBDD01-01",
         "name": "Clever",
         "description": "A strange new crime family has been growing and tightening its grips on local businesses. Any who refuse their offers are found dead shortly after, torn apart by claws and teeth. Who is behind this wave of organized crime?\n\n A Two-Hour Adventure for Tier 2 Characters.",
-        "released": null,
         "items": [
             {
                 "name": "Portable Hole",
-                "rarity": "rare",
-                "consumable": false,
-                "count": null
+                "rarity": "rare"
             },
             {
                 "name": "Potion of Greater Healing",
@@ -206,34 +1186,723 @@
                     { "name": "telekinesis", "level": 5 }
                 ]
             }
-        ],
-        "storyAwards": []
+        ]
     },
     {
         "code": "CCC-NBDD01-02",
         "name": "Where Can She Be?",
         "description": "A master criminal has been making her way across the Moonsea, stealing priceless treasures at every stop. It's up to you to trace her steps, find her allies, and stop her before she can claim her final prize.\n\n A Two to Four-Hour Adventure for Tier 2 Characters.",
-        "released": null,
         "items": [
             {
                 "name": "Clockwork Amulet",
-                "rarity": "common",
-                "consumable": false,
-                "count": null
+                "rarity": "common"
             },
             {
                 "name": "Hat of Disguise",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "Do It A Capella",
                 "description": "You have performed with the traveling a capella kenku bard troupe, Roc Capella. Should you encounter them again, you will be welcome to join in their performance and are treated as part of the band."
             }
         ]
-    }
+    },
+    {
+        "code": "CCC-NUKE-0101",
+        "name": "The Blighted Sun",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-NUKE-0102",
+        "name": "Hide and Seek",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-OCC-01",
+        "name": "Red War: Housekeeping",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-OCC-02",
+        "name": "Feast of the Moon",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ODFC-0101",
+        "name": "Hammer and Anvil",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ODFC-0102",
+        "name": "Black Blades, Black Wings",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ODFC-0103",
+        "name": "Elder's Eyes Upon You",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ODFC-0201",
+        "name": "Serenade of Pain",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ODFC-0202",
+        "name": "Palace of the Efreeti",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ODFC-0203",
+        "name": "Night's Bright Dawning",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-OHAYOCON-01-03",
+        "name": "Friendly Competition",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-PDXAGE-0101",
+        "name": "The White Well",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-PDXAGE-0201",
+        "name": "The Dark Hunt",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-PHA-01",
+        "name": "Six Summoned Swords",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-PPTDD01-01",
+        "name": "Troubled Under Winton",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-PRETZ-PLA01",
+        "name": "The Mystery at Coppertop Manor",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-PRETZ-PLA02",
+        "name": "A Mine of Their Own",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-PRIORY-01",
+        "name": "Maritime Mayhem",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-PRIORY-02",
+        "name": "Prison Pitfalls",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-PRIORY-03",
+        "name": "Truths in Time",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-QCC-2017",
+        "name": "Delusions of Grandeur, Dreams of Revenge",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-QCC2018-01",
+        "name": "Of Gods and Monsters",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-QCC2018-02",
+        "name": "Heart and Soul",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-REAP-01",
+        "name": "Red War: Lost Ashes of the Wayward Gnome",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ROZK-0101",
+        "name": "Binder's Torment",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ROZK-0102",
+        "name": "Zhentarim's Lament",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ROZK-0103",
+        "name": "Necromancer's Ascent",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-RPR-01",
+        "name": "Eyes of Blood",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-RPSG-01",
+        "name": "Ooze There",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SAC-01",
+        "name": "A Light in the Dark",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SAC-02",
+        "name": "Fun with Fey",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SALT-01-01",
+        "name": "Rumors and Riches",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SALT-01-02",
+        "name": "Moor Trouble",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SALT-01-03",
+        "name": "Broken Halls of Goldahroud",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SALT-02-01",
+        "name": "Mulmaster's Meddlings",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SALT-02-02",
+        "name": "Tower in the Valley",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SALT-0205",
+        "name": "The Darkness Never Forgets",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SCAR01-01",
+        "name": "Corrupted Artery",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SCAR01-02",
+        "name": "Glister by Light",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SCAR02-01",
+        "name": "Gister by Dark",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SFBAY-0101",
+        "name": "Plots in Motion",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SFBAY-0201",
+        "name": "Old Enemies Arise",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SFBAY-0202",
+        "name": "Rise of the Ogre King",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SFBAY-0203",
+        "name": "The Risen Minotaur Lord",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SFBAY-0401",
+        "name": "The Cornflower Hive",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SFBAY-0402",
+        "name": "Under Earth & Stone",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SFBAY-0403",
+        "name": "The Ashen Scar",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SHINY-02",
+        "name": "An Open Secret",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SHINY-04",
+        "name": "Elusion of Grand Yore",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SKULL01-01",
+        "name": "A Murder Most Foul",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SKULL01-02",
+        "name": "Not All Who Are Lost Should Be Found",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SKULL01-03",
+        "name": "Who Pulls the Strings",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SQC-001",
+        "name": "The Woodland Sage",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SQC-0201",
+        "name": "None the Wiser",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SQC-0202",
+        "name": "Last Gasp",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SRCC-0101",
+        "name": "Trouble in the Old City",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SRCC-0102",
+        "name": "Down the River of Snakes",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SRCC-0103",
+        "name": "Altar of the Smoldering Eye",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ST2-1",
+        "name": "Red War: Embassy of Evil",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-STORM-01",
+        "name": "The Barrows of Solina",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-STORM-02",
+        "name": "Swamp of Sorrow: Bloodpurge Village",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SVH01-01",
+        "name": "Dawn of the Raven Lord",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SVH01-02",
+        "name": "Raven Lord's Aerie",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SVH01-03",
+        "name": "Vault of the Raven Lord",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TAROT-0101",
+        "name": "Awakening of Fates",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TAROT-0102",
+        "name": "By the Light of the Moon",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TAROT-0103",
+        "name": "A Martyred Heart",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TAROT-0104",
+        "name": "Tangled Woods",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TAROT-0105",
+        "name": "The Lost Apprentice",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TAROT-0106",
+        "name": "Lies in the Moonlight",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TAROT-0107",
+        "name": "The Seat of the Ruler",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TAROT-02-01",
+        "name": "A Sunk Cost",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-THENT-0101",
+        "name": "Beneath the Surface",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-THENT-0102",
+        "name": "Those That Dwell Beneath",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-THENT-0103",
+        "name": "The Dreaming Relic",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-01",
+        "name": "Into the Darkness",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-02",
+        "name": "Impression Left Behind",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-03",
+        "name": "Fences and Swords",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-04",
+        "name": "Birds of a Feather",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-05",
+        "name": "Hunt of Malar",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-06",
+        "name": "Haggard Heroes",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-07",
+        "name": "Beneath the Moonsea",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-08",
+        "name": "Dreaful Wail",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-09",
+        "name": "Tinhammer Falls",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-10",
+        "name": "Contact",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-11",
+        "name": "Flooded Dreams",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-12",
+        "name": "Ill Met in Ylraphon",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-13",
+        "name": "What Lies Beneath Ylraphon",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-14",
+        "name": "The Voice in the Night",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-15",
+        "name": "The Dark of the Hive",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-16",
+        "name": "Ph'theev, the Despondent",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-17",
+        "name": "Ph'theev, Unbound!",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-18",
+        "name": "Pros & Cons",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-19",
+        "name": "Dead Men's Tales",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-22",
+        "name": "On the Baron's Trail",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-23",
+        "name": "Sub Rosa",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-24",
+        "name": "Knight Errand",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-25",
+        "name": "Dead Men's Treasure",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-29",
+        "name": "Tidefall",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-30",
+        "name": "Remnants of a Dream",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-31",
+        "name": "Out of Time",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-32",
+        "name": "Casks and Caskets",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-33",
+        "name": "Matters of Life and Death",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-UCON-01",
+        "name": "Blood & Fog",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-UK-1",
+        "name": "Call of the Elvenflow",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-UK-2",
+        "name": "The Wayward Wives",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-WWC-01",
+        "name": "In the Face of Fear",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-WWC-02",
+        "name": "Dark Waters of Hate",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-WWC-03",
+        "name": "Tyrant of the Forgotten Forge",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-WWC-04",
+        "name": "The Black Hand",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-WYC1-1",
+        "name": "Back to the Burning",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-WYC1-2",
+        "name": "Where Rock and Fire Meet",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-WYC1-3",
+        "name": "The Dawn Heresy",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-YLRA01-01",
+        "name": "Her Dying Wish",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-YLRA01-02",
+        "name": "Uneasy Lies the Head",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-YLRA01-03",
+        "name": "Bound by Duty",
+        "description": "",
+        "incomplete": true
+    },
 ]

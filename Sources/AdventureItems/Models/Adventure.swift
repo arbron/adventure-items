@@ -46,16 +46,18 @@ extension Adventure {
             if let remainder = code.removePrefix("CCC-") {
                 guard let dashIdx = remainder.firstIndex(of: "-") else { fatalError("Invalid CCC code: \(code)") }
                 self = .conventionCreatedContent("\(remainder.prefix(upTo: dashIdx))")
-            } else if code.hasPrefix("DDAL-DRW") || code.hasPrefix("DDEP-DRW") {
+            } else if code.hasPrefixes("DDAL-DRW", "DDEP-DRW") {
                 self = .dreamsOfRedWizards
-            } else if code.hasPrefix("DDAL-ELW") || code.hasPrefix("DDAL-WGE") {
+            } else if code.hasPrefixes("DDAL-ELW", "DDAL-WGE") {
                 self = .embersOfTheLastWar
             } else if code.hasPrefix("DDAL-EB") {
                 self = .oracleOfWar
-            } else if let remainder = code.removePrefix("DDAL") ?? code.removePrefix("DDEX") ?? code.removePrefix("DDEP") {
+            } else if code.hasPrefixes("DDAL-CGB", "DDAL-OPEN", "DDALCA") {
+                self = .season(0)
+            } else if let remainder = code.removePrefixes("DDAL", "DDEX", "DDEP") {
                 guard let seasonNum = Adventure.formatter.number(from: "\(remainder.prefix(2))") else { fatalError("Invalid Season code: \(code)") }
                 self = .season(seasonNum.intValue)
-            } else if let _ = code.removePrefix("DDHC-") {
+            } else if code.hasPrefix("DDHC") {
                 self = .hardcover
             } else {
                 fatalError("Invalid adventure code: \(code)")
@@ -64,9 +66,10 @@ extension Adventure {
 
         static var allCases: [Source] {
             var cases: [Source] = []
-            for seasonNum in 0...9 {
+            for seasonNum in 1...10 {
                 cases.append(.season(seasonNum))
             }
+            cases.append(.season(0))
             cases.append(contentsOf: [
                 .hardcover,
                 .dreamsOfRedWizards,
@@ -83,7 +86,7 @@ extension Adventure {
             case .season(let number): return "Season \(number)"
             case .hardcover: return "Hardcovers"
             case .dreamsOfRedWizards: return "Dreams of Red Wizards"
-            case .embersOfTheLastWar: return "Emberse of the Last War"
+            case .embersOfTheLastWar: return "Embers of the Last War"
             case .oracleOfWar: return "Oracle of War"
             case .conventionCreatedContent: return "Convention Created Content"
             }

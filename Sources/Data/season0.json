@@ -159,6 +159,12 @@
         "incomplete": true
     },
     {
+        "code": "DDALCA-01",
+        "name": "Return to the Ghost Tower of Inverness",
+        "description": "",
+        "incomplete": true
+    },
+    {
         "code": "DDAL-CGB",
         "name": "Cloud Giant's Bargain",
         "description": "",

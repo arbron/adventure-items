@@ -65,21 +65,7 @@ extension Publish.Item where Site == AdventureItemsSite {
             magicItemNames.append(otherText)
         }
 
-        switch adventure.source {
-        case .conventionCreatedContent:
-            tags.insert("adventure: convention created content")
-        case .dreamsOfRedWizards:
-            tags.insert("adventure: dreams of red wizards")
-        case .embersOfTheLastWar:
-            tags.insert("adventure: embers of the last war")
-        case .oracleOfWar:
-            tags.insert("adventure: oracle of war")
-        case .season(let number):
-            if number == 0 { tags.insert("adventure: season agnostic") }
-            else { tags.insert("adventure: season \(number)") }
-        case .hardcover:
-            tags.insert("adventure: hardcover")
-        }
+        tags.insert("adventure: \(adventure.source.stringValue.lowercased())")
         if adventure.isEpic {
             tags.insert("adventure: epic")
         }

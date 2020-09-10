@@ -1,24 +1,191 @@
 [
     {
+        "code": "DDAL00-01",
+        "name": "Window to the Past",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-02a",
+        "name": "The Darkwood Webs",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-02b",
+        "name": "The Weirding Vats",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-02c",
+        "name": "Spawn of the Maimed Virulence",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-02d",
+        "name": "Echoes of the Weeping War",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-02e",
+        "name": "Forgotten Foes",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-02f",
+        "name": "The Definition of Heroism",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-03",
+        "name": "Those That Came Before",
+        "description": "",
+        "incomplete": true
+    },
+    {
         "code": "DDAL00-04",
         "name": "Winter's Flame",
         "description": "This year’s Midwinter holiday efforts have been met with unusual obstacles: small stockpiles rummaged through, foods spoiling, ale casks leaking, festive clothes torn up, and crucial pembelon fruits missing. With schedules and deadlines rigid, any bigger bumps in the road might result in disaster. Who would want to keep the people of Chult from celebrating this long-revered holiday?",
-        "released": null,
         "items": [
             {
                 "name": "Chultan Midwinter Candle (Candle of the Deep)",
-                "rarity": "common",
-                "consumable": false,
-                "count": null
+                "rarity": "common"
             },
             {
                 "name": "Flurried Furs (Smoldering Armor)",
-                "rarity": "common",
-                "consumable": false,
-                "count": null
+                "rarity": "common"
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
-    }
+        ]
+    },
+    {
+        "code": "DDAL00-05",
+        "name": "Winter's Splendor",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-06",
+        "name": "Lost Laboratory of Kwalish",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-07",
+        "name": "The Embers of Hate",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-08",
+        "name": "Layers Upon Layers",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-09",
+        "name": "Minsc & Boo",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-10",
+        "name": "Trust and Understanding",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-11a",
+        "name": "Reunited and It Feels So Good",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-11b",
+        "name": "When the Debt Comes Due",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-11c",
+        "name": "I've Seen Fire and I've Seen Pain",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-11d",
+        "name": "The Love Triangle Contract",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-11e",
+        "name": "A Fire Grows in Cania",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-11f",
+        "name": "Twice as Nice for Half the Price",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-12a",
+        "name": "Bad Seed",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-12b",
+        "name": "A Helpful Distraction",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-12c",
+        "name": "The Soft Touch",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL00-12d",
+        "name": "The Devil's Song",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL-CGB",
+        "name": "Cloud Giant's Bargain",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL-OPEN-2016",
+        "name": "Soulbound Tomb",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL-OPEN-2017",
+        "name": "The Lost Temples of Lake Luo",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL-OPEN-2018",
+        "name": "Gangs of Waterdeep",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDAL-OPEN-2019",
+        "name": "Forged in Fire",
+        "description": "",
+        "incomplete": true
+    },
 ]

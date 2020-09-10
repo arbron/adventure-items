@@ -18,6 +18,18 @@
         "incomplete": true
     },
     {
+        "code": "DDHC-DoIP",
+        "name": "Dragon of Icespire Peak",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-GSM",
+        "name": "Ghosts of Saltmarsh",
+        "description": "",
+        "incomplete": true
+    },
+    {
         "code": "DDHC-HotDQ",
         "name": "Hoard of the Dragon Queen",
         "description": "",
@@ -26,6 +38,12 @@
     {
         "code": "DDHC-LMOP",
         "name": "Lost Mine of Phandelver",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-LR",
+        "name": "Locathah Rising",
         "description": "",
         "incomplete": true
     },

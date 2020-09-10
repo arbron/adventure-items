@@ -32,12 +32,15 @@ extension Adventure {
         return formatter
     }
 
-    enum Source {
+    enum Source: CaseIterable, Hashable {
         case season(Int)
         case hardcover
-        case conventionCreatedContent(String)
+
         case dreamsOfRedWizards
+        case embersOfTheLastWar
         case oracleOfWar
+
+        case conventionCreatedContent(String?)
 
         init(_ code: String) {
             if let remainder = code.removePrefix("CCC-") {
@@ -45,6 +48,8 @@ extension Adventure {
                 self = .conventionCreatedContent("\(remainder.prefix(upTo: dashIdx))")
             } else if code.hasPrefix("DDAL-DRW") || code.hasPrefix("DDEP-DRW") {
                 self = .dreamsOfRedWizards
+            } else if code.hasPrefix("DDAL-ELW") || code.hasPrefix("DDAL-WGE") {
+                self = .embersOfTheLastWar
             } else if code.hasPrefix("DDAL-EB") {
                 self = .oracleOfWar
             } else if let remainder = code.removePrefix("DDAL") ?? code.removePrefix("DDEX") ?? code.removePrefix("DDEP") {
@@ -54,6 +59,33 @@ extension Adventure {
                 self = .hardcover
             } else {
                 fatalError("Invalid adventure code: \(code)")
+            }
+        }
+
+        static var allCases: [Source] {
+            var cases: [Source] = []
+            for seasonNum in 0...9 {
+                cases.append(.season(seasonNum))
+            }
+            cases.append(contentsOf: [
+                .hardcover,
+                .dreamsOfRedWizards,
+                .embersOfTheLastWar,
+                .oracleOfWar,
+                .conventionCreatedContent(nil)
+            ])
+            return cases
+        }
+
+        var stringValue: String {
+            switch self {
+            case .season(0): return "Season Agnostic"
+            case .season(let number): return "Season \(number)"
+            case .hardcover: return "Hardcovers"
+            case .dreamsOfRedWizards: return "Dreams of Red Wizards"
+            case .embersOfTheLastWar: return "Emberse of the Last War"
+            case .oracleOfWar: return "Oracle of War"
+            case .conventionCreatedContent: return "Convention Created Content"
             }
         }
     }

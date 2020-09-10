@@ -10,6 +10,19 @@ import Plot
 import Publish
 import Ink
 
+extension PublishingStep where Site == AdventureItemsSite {
+    static func addAdventures(
+        _ adventures: [Adventure], removeIncomplete: Bool = false
+    ) -> Self {
+        step(named: "Add adventures") { context in
+            for adventure in adventures {
+                guard !removeIncomplete || !adventure.incomplete else { continue }
+                context.addItem(.item(for: adventure))
+            }
+        }
+    }
+}
+
 extension Publish.Item where Site == AdventureItemsSite {
     fileprivate typealias ASite = AdventureItemsSite
 

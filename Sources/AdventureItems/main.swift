@@ -29,18 +29,14 @@ let dataFolder = try Folder.packageFolder(path: "Sources/Data/")
 let files = dataFolder.files.compactMap { $0.extension == "json" ? $0 : nil }
 
 let adventures: [Adventure] = try decoder.decode([Adventure].self, files: files)
-let adventureList: [Publish.Item<AdventureItemsSite>] = adventures.map { .item(for: $0) }
 
-let publishSteps: [PublishingStep<AdventureItemsSite>] = [
+// This will generate your website using the built-in Foundation theme:
+try AdventureItemsSite().publish(using: [
     .addMarkdownFiles(),
     .copyResources(),
-    .addItems(in: adventureList),
-    .sortItems(by: \.content.title),
-    .generateHTML(withTheme: .league),
+    .addAdventures(adventures, removeIncomplete: true),
+    .generateHTML(withTheme: .league, indentation: .spaces(2)),
     .generateRSSFeed(including: [.adventures]),
     .generateSiteMap(),
     .installPlugin(try .prependAllPaths("adventure-items/"))
-]
-
-// This will generate your website using the built-in Foundation theme:
-try AdventureItemsSite().publish(using: publishSteps)
+])

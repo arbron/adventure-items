@@ -563,6 +563,87 @@
         "code": "DDEP04",
         "name": "Reclamation of Phlan",
         "description": "For too long, the Maimed Virulence has held Phlan in its grasp. The factions have begun to muster and sounded the call to battle throughout the Moonsea. Allies new and old will be called upon to aid in their attempts to reclaim the ancient town. Are you one of the few bold enough to answer the call to battle?\n\n A 4-hour Epic adventure for 1st–16th level characters.",
-        "incomplete": true
+        "items": [
+            {
+                "name": "Half Plate Armor, +1",
+                "rarity": "rare"
+            },
+            {
+                "name": "Nettle (Hand Crossbow, +2)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Skyfist (Dwarven Thrower)",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Staff of Healing",
+                "rarity": "rare"
+            },
+            {
+                "name": "Staff of Power",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Stone of Good Luck (Luckstone)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Holy water (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Animal Friendship",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Heroism",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Invisibility",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Supreme Healing",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Scroll of Protection (Undead)",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Hero of the Welcomers",
+                "description": "Working alongside the Welcomers—Phlan's thieves-turned-freedom fighters—you rid the town of its evil dragon overlord. The Welcomers are forever in your debt. Inside Phlan, you enjoy a Comfortable lifestyle without any expense."
+            },
+            {
+                "name": "Touched by the Mists",
+                "description": "The Dark Powers of Ravenloft raised you from the dead for purposes unknown. The experience has placed a heavy burden on your soul, leaving you tainted by evil. Now cats hiss as you approach, and milk sours in your wake."
+            },
+            {
+                "name": "Friend of the Griffons",
+                "description": "You've earned the respect of a griffon of the Earthspur Mountains. These proud beasts nest high in the crags, tended by Emerald Enclave rangers. Your griffon mount travels with you as a trusted friend and ally.\n\n The griffon answers to any name you choose. To keep it fed, you must provide it with living horseflesh. Increase your lifestyle expenses by 5gp per downtime day. This covers the expense of buying a draft horse every tenday to feed to your griffon. If you can't afford to feed the griffon, it returns to the Eathspur Mountains and never returns."
+            }
+        ]
     },
 ]

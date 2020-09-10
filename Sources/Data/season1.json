@@ -3,7 +3,44 @@
         "code": "DDEP01",
         "name": "Corruption in Kryptgarden",
         "description": "Kryptgarden Forest has long been a place feared by travelers. Now, the Cult of the Dragon has used that fear to its advantage, securing a stronghold deep in the forest. The Harpers, Order of the Gauntlet, Emerald Enclave, Lords’ Alliance, and the Zhentarim are recruiting groups of adventurers to infiltrate the forest to find out the cult’s purpose. Join hundreds of others in this interactive play experience.\n\n A special adventure for 1st–4th level characters.",
-        "incomplete": true
+        "released": "2014-08-16",
+        "items": [
+            {
+                "name": "Amulet of Health",
+                "rarity": "rare"
+            },
+            {
+                "name": "Green Dragon Mask",
+                "rarity": "legendary"
+            },
+            {
+                "name": "Longsword, +1",
+                "rarity": "uncommon"
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Drow-Skinned Spellbook",
+                "spells": [
+                    { "name": "Charm Person", "level": 1 },
+                    { "name": "Mage Armor", "level": 1 },
+                    { "name": "Magic Missile", "level": 1 },
+                    { "name": "Hold Person", "level": 2 },
+                    { "name": "Misty Step", "level": 2 },
+                    { "name": "Animate Dead", "level": 3 }
+                ]
+            },
+            {
+                "name": "Red Vellum Spellbook",
+                "spells": [
+                    { "name": "Charm Person", "level": 1 },
+                    { "name": "Mage Armor", "level": 1 },
+                    { "name": "Magic Missile", "level": 1 },
+                    { "name": "Hold Person", "level": 2 },
+                    { "name": "Misty Step", "level": 2 }
+                ]
+            }
+        ]
     },
     {
         "code": "DDEX01-01",

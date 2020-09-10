@@ -101,6 +101,12 @@ a {
     margin-bottom: 0;
 }
 
+.entry-label {
+    padding-left: 0.5em;
+    font-size: 0.9em;
+    font-variant: small-caps;
+}
+
 .tag-list {
     margin-bottom: 15px;
 }

@@ -216,7 +216,8 @@
         "storyAwards": [
             {
                 "name": "Faction Copyist",
-                "description": "Any character may spend ten downtime days assisting their faction by copying the texts retrieved for SEER. Upon completing this downtime activity, the character may copy one spell from the *Elemental Evil Player’s Companion* of a level they can cast for their spellbook."
+                "description": "Any character may spend ten downtime days assisting their faction by copying the texts retrieved for SEER. Upon completing this downtime activity, the character may copy one spell from the *Elemental Evil Player’s Companion* of a level they can cast for their spellbook.",
+                "downtime": true
             }
         ]
     },
@@ -380,16 +381,18 @@
         ],
         "storyAwards": [
             {
-                "name": "Dreamwalker (downtime)",
-                "description": "Kryshilir has taught you to look beyond the veil of the world and navigate your dreams. By spending 25 downtime days, you travel to the Seven Stones and meditate under Kryshilir’s whispered guidance. Upon completing this downtime activity, you gain the **Dreamwalker** story award (below)."
+                "name": "Dreamwalker",
+                "description": "Kryshilir has taught you to look beyond the veil of the world and navigate your dreams. By spending 25 downtime days, you travel to the Seven Stones and meditate under Kryshilir’s whispered guidance. Upon completing this downtime activity, you gain the **Dreamwalker** story award (below).",
+                "downtime": true
             },
             {
                 "name": "Dreamwalker",
                 "description": "Your meditations have granted you the gift of foresight. Upon receiving this story award, roll a d20 and record the number rolled. Once, you can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with the number you rolled. You must choose to do so before the roll. Once you have used this story award in this fashion, remove it. This story award may be earned again as often as you like, but you must complete the **Dreamwalker** downtime activity (above) each time and may not do so again until you no longer possess this story award."
             },
             {
-                "name": "Student of Stone (downtime)",
-                "description": " Illsenstaad has chosen you and you alone to complete his life’s work and put his soul to rest. By spending a total of 365 downtime days (these need not be spent all at once) possessed by Illsenstaad, allowing him to tell his stories and carve them into the living rock of Hotun-Shûl, you gain the **Student of Stone** story award (below). If you are a dwarf, possess the Guild Artisan (mason or stonecutter) background, or are otherwise proficient in mason’s tools; you complete this in half the normal time."
+                "name": "Student of Stone",
+                "description": " Illsenstaad has chosen you and you alone to complete his life’s work and put his soul to rest. By spending a total of 365 downtime days (these need not be spent all at once) possessed by Illsenstaad, allowing him to tell his stories and carve them into the living rock of Hotun-Shûl, you gain the **Student of Stone** story award (below). If you are a dwarf, possess the Guild Artisan (mason or stonecutter) background, or are otherwise proficient in mason’s tools; you complete this in half the normal time.",
+                "downtime": true
             },
             {
                 "name": "Student of Stone",
@@ -532,30 +535,227 @@
         "code": "DDAL05-17",
         "name": "Hartkiller's Horn",
         "description": "Claiming to possess Hartkiller's Horn, Ryndölg makes his move to take control of the Hartsvale. The non-giant residents have been pressed to declare their allegiance or be destroyed. Do they swear fealty to Jarl Ryndölg, or is there another option? Is there another contender to the throne? Sometimes the best choices can be the most dangerous.\n\n A Four-Hour Adventure for 5th–10th Level Characters.",
-        "incomplete": true
+        "items": [
+            {
+                "name": "Dagger of Venom",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Cold)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Gratitude of Hartkiller",
+                "description": "You have claimed the divine spark of the Beast of Talos for Hartkiller and outfitted him for his battle with Jarl Ryndölg. In doing so you have writ your name into his legend. You may choose to spend 50 downtime days spreading word of your and Hartkiller's inspired deeds in Hartsvale. Upon doing so, you gain the benefit of the **Gratitude of Hartkiller** story award. This downtime activity may only be performed once.",
+                "downtime": true
+            },
+            {
+                "name": "Gratitude of Hartkiller",
+                "description": "In spreading the truth about the events that unfolded in Hartsvale, you find yourself blessed by the All-Father and gain temporary use of the Lucky feat, except that any expended luck points don’t return. Once all three points have been spent, remove this story award."
+            }
+        ]
     },
     {
         "code": "DDAL05-18",
         "name": "The Mysterious Isle",
-        "description": "Baron Rajiram’s forces have secured the Nelanther Isles and have scoured the Sword Coast for treasures. Now they have begun to explore a mysterious island that recently just popped into existence nearby. SEER seems to believe that an aboleth artifact is their goal. It is up to the adventurers, in competition with the baron, as well as aboleths, the Kraken Society, and the mysterious caretaker of the island, to locate the *Eye of Xxiphu* and avert catastrophic disaster.\n\n A Four-Hour Adventure for 17th–20th Level Characters.",
-        "incomplete": true
+        "description": "Baron Rajiram’s forces have secured the Nelanther Isles and have scoured the Sword Coast for treasures. Now they have begun to explore a mysterious island that recently just popped into existence nearby. SEER seems to believe that an aboleth artifact is their goal. It is up to the adventurers, in competition with the baron, as well as aboleths, the Kraken Society, and the mysterious caretaker of the island, to locate the *Eye of Xxiphu* and avert catastrophic disaster.\n\n A Four-Hour Adventure for 17th–20th Level Characters.\n\n ***Players get their choice of one of the following magic items to keep.***",
+        "items": [
+            {
+                "name": "Anstruth Harp",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Armor, +2",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Horn of Valhalla (Bronze)",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Ring of Shooting Stars",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Robe of Scintillating Colors",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Robe of Stars",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Rod of the Pact Keeper, +3",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Shield, +3",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Wand of the War Mage, +3",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Weapon, +3",
+                "rarity": "veryRare"
+            }
+        ]
     },
     {
         "code": "DDAL05-19",
         "name": "Eye of Xxiphu",
         "description": "Baron Rajiram’s forces have secured the Nelanther Isles and have scoured the Sword Coast for treasures. Now they have begun to explore a mysterious island that recently just popped into existence nearby. SEER seems to believe that an aboleth artifact is their goal. It is up to the adventurers, in competition with the baron, as well as aboleths, the Kraken Society, and the mysterious caretaker of the island, to locate the *Eye of Xxiphu* and avert catastrophic disaster.\n\n A Four-Hour Adventure for 17th–20th Level Characters.",
-        "incomplete": true
+        "items": [
+            {
+                "name": "The Eye of Xxiphu",
+                "rarity": "legendary"
+            },
+            {
+                "name": "Staff of Power",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Tome of Understanding",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Cordial of Water Breathing (Potion of Water Breathing w/ 24 duration)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Supreme Healing",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "DDEP05-01",
         "name": "The Iron Baron",
         "description": "Deep in the Greypeak Mountains the fire giant warlord Baron Ugarak has enslaved hundreds of small folk to toil in his iron mines furiously extracting elementally infused ore for an as yet unknown purpose. Surrounded by a monstrous army and decidedly shady allies, the Baron poses a dire threat to the goodly folk of the north.\n\n A Four-Hour Epic Adventure for 1st–10th Level Characters.",
-        "incomplete": true
+        "items": [
+            {
+                "name": "Red Dragon Scale Mail",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Wyrmripper (Dragon Slayer Greatsword)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Bless",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Mass Cure Wounds",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Flameborne Armor",
+                "description": "The Factions now have access to a store of ore that has been sustain prolonged exposure to unusual elemental energies. If you are Rank 2 or higher with a faction, you may spend **60 downtime days** to assist your faction with the crafting and fitting of a suit of nonmagical metal armor. You must pay the full price of the armor, however, when complete, it bestows resistance to fire damage when worn.\n\n As a nonmagical suit of armor, this item is non-tradable.",
+                "downtime": true
+            },
+            {
+                "name": "Hated of Surtur",
+                "description": "For thwarting Baron Ugarak’s plans in the Molten Vault, you have earned the ire of Surtur, god of the Fire Giants. Fire Giants who see you sense a deep and abiding hatred which can be quelled only through your painful death. You have disadvantage on any social checks with fire giants and they attempt to kill you as quickly as possible in combat, even at the expense of other foes."
+            }
+        ]
     },
     {
         "code": "DDEP05-02",
         "name": "The Ark of the Mountains",
         "description": "The flying galleon *Thunderbound* descends on Beregost, unleashing the wrath of the cloud giants! To save the town from annihilation, heroes from far and wide must awaken the lost machine entombed under Durlag’s Tower. Dare you board the *Ark of the Mountains* and do battle in the burning skies?\n\n A 4-hour Epic Adventure for 1st–16th Level Characters.",
-        "incomplete": true
+        "items": [
+            {
+                "name": "Adamantine Chain Shirt",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Animated Shield",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Frost Brand Scimitar",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Giant Slayer Greatsword",
+                "rarity": "rare"
+            },
+            {
+                "name": "Halberd, +1",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Longbow, +2",
+                "rarity": "rare"
+            },
+            {
+                "name": "Periapt of Wound Closure",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Ring of Shooting Stars",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Ring of Spell Storing",
+                "rarity": "rare"
+            },
+            {
+                "name": "Staff of Thunder and Lightning",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Supreme Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
 ]

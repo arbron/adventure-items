@@ -38,7 +38,7 @@ extension Publish.Item where Site == AdventureItemsSite {
         for item in adventure.items {
             if !item.consumable {
                 tags.insert("items")
-                tags.insert("rarity: \(item.rarity.name)")
+                tags.insert("rarity: \(item.rarity.name.lowercased())")
                 magicItemNames.append(item.name)
             } else if item.name.hasPrefix("Potion") {
                 tags.insert("potions")
@@ -125,9 +125,11 @@ extension Publish.Item where Site == AdventureItemsSite {
         .ul(
             .forEach(items) { item in
                 var itemEntry: [Node<HTML.BodyContext>] = [
-                    "\(item.name)",
-                    " ",
-                    .em("\(item.rarity.name)")
+                    .text(item.name),
+                    .span(
+                        .class("entry-label"),
+                        .text(item.rarity.name)
+                    )
                 ]
                 if let count = item.count {
                     itemEntry.insert("\(count) x ", at: 0)
@@ -158,7 +160,15 @@ extension Publish.Item where Site == AdventureItemsSite {
     private static func storyAwardList(_ storyAwards: [StoryAward]) -> Node<HTML.BodyContext> {
         .forEach(storyAwards) { award in
             .details(
-                .summary("\(award.name)"),
+                .summary(
+                    .text(award.name),
+                    .if(award.downtime,
+                        .span(
+                            .class("entry-label"),
+                            .text("Downtime Activity")
+                        )
+                    )
+                ),
                 .raw("\(Self.parser.html(from: award.description))")
             )
         }

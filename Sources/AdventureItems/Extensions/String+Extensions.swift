@@ -7,6 +7,7 @@
 
 import Foundation
 
+// MARK: Prefixes
 extension String {
     func hasPrefixes(_ prefixes: String...) -> Bool {
         for prefix in prefixes {
@@ -28,10 +29,25 @@ extension String {
         }
         return nil
     }
+}
 
+// MARK: Counted
+extension String {
     func counted(_ count: Int, singularArticle: String = "a", plural: String? = nil) -> String? {
         guard count > 0 else { return nil }
         if count == 1 { return "\(singularArticle) \(self)" }
         return "\(count) \(plural ?? "\(self)s")"
+    }
+}
+
+// MARK: Transformation
+extension String {
+    func uppercaseFirst() -> String {
+        guard self.count > 2 else { return self.uppercased() }
+        var dup = self
+        dup.replaceSubrange(
+            dup.startIndex...dup.startIndex,
+            with: dup[dup.startIndex...dup.startIndex].uppercased())
+        return dup
     }
 }

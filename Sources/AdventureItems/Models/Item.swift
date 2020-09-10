@@ -18,8 +18,8 @@ struct Item: Codable, Hashable {
 
         var name: String {
             switch self {
-            case .veryRare: return "very rare"
-            default: return rawValue
+            case .veryRare: return "Very Rare"
+            default: return rawValue.uppercaseFirst()
             }
         }
     }

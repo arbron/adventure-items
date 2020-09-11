@@ -37,9 +37,161 @@
     },
     {
         "code": "DDHC-LMOP",
-        "name": "Lost Mine of Phandelver",
+        "name": "Lost Mine of Phandelver - Part 1: Goblin Arrows",
         "description": "",
-        "incomplete": true
+        "items": [
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            }
+        ]
+    },
+    {
+        "code": "DDHC-LMOP",
+        "name": "Lost Mine of Phandelver - Part 2: Phandalin",
+        "description": "",
+        "items": [
+            {
+                "name": "Staff of Defense",
+                "rarity": "rare"
+            },
+            {
+                "name": "Talon (Longsword, +1)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 6
+            },
+            {
+                "name": "Potion of Invisibility",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Augury",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Charm Person",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Fireball",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "DDHC-LMOP",
+        "name": "Lost Mine of Phandelver - Part 3: The Spider's Web",
+        "description": "",
+        "items": [
+            {
+                "name": "Hew (Battleaxe, +1)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Ring of Protection",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Flying",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 6
+            },
+            {
+                "name": "Spell Scroll of Darkness",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Lightning Bolt",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Misty Step",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Revivify",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Silence",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "DDHC-LMOP",
+        "name": "Lost Mine of Phandelver - Part 4: Wave Echo Cave",
+        "description": "",
+        "items": [
+            {
+                "name": "Boots of Striding and Springing",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Dragonguard (Breastplate, +1)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Gauntlets of Ogre Power",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Lightbringer (Mace, +1)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Spider Staff",
+                "rarity": "rare"
+            },
+            {
+                "name": "Wand of Magic Missiles",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Vitality",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "DDHC-LR",
@@ -189,25 +341,18 @@
         "code": "DDHC-WDH-03",
         "name": "Blue Alley",
         "description": "The infamous Blue Alley lies hidden in the heart of Waterdeep. Built by a secretive wizard, it is a magic maze full of tricks, traps, strange monsters, and rich treasure. Countless adventurers have ventured inside to test their bravery and skill, yet few have returned. And now it is your turn…\n\n A Four-Hour Adventure for Tier 1 Characters.",
-        "released": null,
         "items": [
             {
                 "name": "Lantern of Revealing",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Moon-Touched Sword",
-                "rarity": "common",
-                "consumable": false,
-                "count": null
+                "rarity": "common"
             },
             {
                 "name": "Wand of Secrets",
-                "rarity": "uncommon",
-                "consumable": false,
-                "count": null
+                "rarity": "uncommon"
             },
             {
                 "name": "Amnish Wine (Alchemist's fire)",
@@ -221,9 +366,7 @@
                 "consumable": true,
                 "count": 3
             }
-        ],
-        "spellbooks": [],
-        "storyAwards": []
+        ]
     },
     {
         "code": "DDHC-WDH-04",

@@ -37,22 +37,37 @@
     },
     {
         "code": "DDHC-LMOP",
-        "name": "Lost Mine of Phandelver - Part 1: Goblin Arrows",
+        "name": "Lost Mine of Phandelver",
         "description": "",
         "items": [
             {
-                "name": "Potion of Healing",
-                "rarity": "common",
-                "consumable": true,
-                "count": 2
-            }
-        ]
-    },
-    {
-        "code": "DDHC-LMOP",
-        "name": "Lost Mine of Phandelver - Part 2: Phandalin",
-        "description": "",
-        "items": [
+                "name": "Boots of Striding and Springing",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Dragonguard (Breastplate, +1)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Gauntlets of Ogre Power",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Hew (Battleaxe, +1)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Lightbringer (Mace, +1)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Ring of Protection",
+                "rarity": "rare"
+            },
+            {
+                "name": "Spider Staff",
+                "rarity": "rare"
+            },
             {
                 "name": "Staff of Defense",
                 "rarity": "rare"
@@ -62,13 +77,29 @@
                 "rarity": "uncommon"
             },
             {
+                "name": "Wand of Magic Missiles",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Flying",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
                 "name": "Potion of Healing",
                 "rarity": "common",
                 "consumable": true,
-                "count": 6
+                "count": 13
             },
             {
                 "name": "Potion of Invisibility",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Vitality",
                 "rarity": "veryRare",
                 "consumable": true,
                 "count": 1
@@ -86,40 +117,13 @@
                 "count": 1
             },
             {
-                "name": "Spell Scroll of Fireball",
+                "name": "Spell Scroll of Darkness",
                 "rarity": "uncommon",
                 "consumable": true,
                 "count": 1
-            }
-        ]
-    },
-    {
-        "code": "DDHC-LMOP",
-        "name": "Lost Mine of Phandelver - Part 3: The Spider's Web",
-        "description": "",
-        "items": [
-            {
-                "name": "Hew (Battleaxe, +1)",
-                "rarity": "uncommon"
             },
             {
-                "name": "Ring of Protection",
-                "rarity": "rare"
-            },
-            {
-                "name": "Potion of Flying",
-                "rarity": "veryRare",
-                "consumable": true,
-                "count": 1
-            },
-            {
-                "name": "Potion of Healing",
-                "rarity": "common",
-                "consumable": true,
-                "count": 6
-            },
-            {
-                "name": "Spell Scroll of Darkness",
+                "name": "Spell Scroll of Fireball",
                 "rarity": "uncommon",
                 "consumable": true,
                 "count": 1
@@ -151,49 +155,6 @@
         ]
     },
     {
-        "code": "DDHC-LMOP",
-        "name": "Lost Mine of Phandelver - Part 4: Wave Echo Cave",
-        "description": "",
-        "items": [
-            {
-                "name": "Boots of Striding and Springing",
-                "rarity": "uncommon"
-            },
-            {
-                "name": "Dragonguard (Breastplate, +1)",
-                "rarity": "rare"
-            },
-            {
-                "name": "Gauntlets of Ogre Power",
-                "rarity": "uncommon"
-            },
-            {
-                "name": "Lightbringer (Mace, +1)",
-                "rarity": "uncommon"
-            },
-            {
-                "name": "Spider Staff",
-                "rarity": "rare"
-            },
-            {
-                "name": "Wand of Magic Missiles",
-                "rarity": "uncommon"
-            },
-            {
-                "name": "Potion of Healing",
-                "rarity": "common",
-                "consumable": true,
-                "count": 1
-            },
-            {
-                "name": "Potion of Vitality",
-                "rarity": "veryRare",
-                "consumable": true,
-                "count": 1
-            }
-        ]
-    },
-    {
         "code": "DDHC-LR",
         "name": "Locathah Rising",
         "description": "",
@@ -209,7 +170,440 @@
         "code": "DDHC-PotA",
         "name": "Princes of the Apocalypse",
         "description": "",
-        "incomplete": true
+        "items": [
+            {
+                "name": "Alchemy Jug",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Amulet of Health",
+                "rarity": "rare"
+            },
+            {
+                "name": "Bag of Holding",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Balloon Pack",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Breastplate, +1",
+                "rarity": "rare"
+            },
+            {
+                "name": "Claws of the Umber Hulk",
+                "rarity": "rare"
+            },
+            {
+                "name": "Dagger, +1",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Dragon Slayer Shortsword",
+                "rarity": "rare"
+            },
+            {
+                "name": "Driftglobe",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Drown",
+                "rarity": "legendary"
+            },
+            {
+                "name": "Dwarven Thrower",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Elven Chain",
+                "rarity": "rare"
+            },
+            {
+                "name": "Figurine of Wondrous Power (Silver Raven)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Greataxe, +1",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Immovable Rod",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Ironfang",
+                "rarity": "legendary"
+            },
+            {
+                "name": "Longsword, +1",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Lost Crown of Besilmer",
+                "rarity": "legendary"
+            },
+            {
+                "name": "Mariner's Scale Mail",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Necklace of Prayer Beads",
+                "rarity": "rare"
+            },
+            {
+                "name": "Orcsplitter",
+                "rarity": "legendary"
+            },
+            {
+                "name": "Pearl of Power",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Ring of Cold Resistance",
+                "rarity": "rare"
+            },
+            {
+                "name": "Ring of Fire Resistance",
+                "rarity": "rare"
+            },
+            {
+                "name": "Ring of Swimming",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Scimitar, +1",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Shield, +1",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Stone of Good Luck (Luckstone)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Storm Boomerang",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Tentacle Rod",
+                "rarity": "rare"
+            },
+            {
+                "name": "Tinderstrike",
+                "rarity": "legendary"
+            },
+            {
+                "name": "Trident of Fish Command",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Wand of Fear",
+                "rarity": "rare"
+            },
+            {
+                "name": "Wand of Magic Missiles",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Wand of the War Mage, +1",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Weird Tank",
+                "rarity": "rare"
+            },
+            {
+                "name": "Windvane",
+                "rarity": "legendary"
+            },
+            {
+                "name": "Wingwear",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Bottled Breath",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Dust of Disappearance",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Elixir of Health",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Diminution",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Flying",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Fire Breath",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Gaseous Form",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Giant Strength (Frost)",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Giant Strength (Hill)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 8
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 9
+            },
+            {
+                "name": "Potion of Heroism",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Potion of Invisibility",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Invulnerability",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Longevity",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Fire)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 4
+            },
+            {
+                "name": "Potion of Resistance (Thunder)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Speed",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Water Breathing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Spell Scroll of Beast Bond",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Dust Devil",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Earthbind",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Elemental Bane",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Erupting Earth",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Flame Arrows",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Haste",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Immolation",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Investiture of Stone",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Invisibility",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Lesser Restoration",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Maximilian's Earthen Grasp",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Melf's Minute Meteors",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Primordial Ward",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Skywrite",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Snilloc's Snowball Swarm",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Tidal Wave",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Transmute Rock",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Vitriolic Sphere",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Wall of Sand",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Wall of Water",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Warding Wind",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Aerisi's Spellbook",
+                "spells": [
+                    { "name": "gust", "level": 0 },
+                    { "name": "mage hand", "level": 0 },
+                    { "name": "message", "level": 0 },
+                    { "name": "prestidigitation", "level": 0 },
+                    { "name": "ray of frost", "level": 0 },
+                    { "name": "shocking grasp", "level": 0 },
+                    { "name": "charm person", "level": 1 },
+                    { "name": "feather fall", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "thunderwave", "level": 1 },
+                    { "name": "dust devil", "level": 2 },
+                    { "name": "gust wind", "level": 2 },
+                    { "name": "invisibility", "level": 2 },
+                    { "name": "fly", "level": 3 },
+                    { "name": "gaseous form", "level": 3 },
+                    { "name": "lightning bolt", "level": 3 },
+                    { "name": "ice storm", "level": 4 },
+                    { "name": "storm sphere", "level": 4 },
+                    { "name": "cloudkill", "level": 5 },
+                    { "name": "seeming", "level": 5 },
+                    { "name": "chain lightning", "level": 6 }
+                ]
+            }
+        ]
     },
     {
         "code": "DDHC-RoT",

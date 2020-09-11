@@ -101,6 +101,26 @@ a {
     margin-bottom: 0;
 }
 
+.entry-label {
+    padding-left: 0.5em;
+    font-size: 0.9em;
+    font-variant: small-caps;
+}
+
+.story-award {
+    padding-bottom: 0.5em;
+}
+.story-award summary {
+    font-size: 1.1em;
+}
+.story-award p {
+    padding-left: 1em;
+}
+.story-award p:first-of-type {
+    border-top: 1px solid gray;
+    padding-top: 0.2em;
+}
+
 .tag-list {
     margin-bottom: 15px;
 }

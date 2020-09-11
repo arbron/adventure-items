@@ -209,14 +209,142 @@
     },
     {
         "code": "DDEP06-02",
-        "name": "Return to White Plume",
+        "name": "Return to White Plume Mountain",
         "description": "New information has tarnished the reputation of the wizard Kelvan. Can he really be complicit in the kidnapping of a high priestess and the disappearance of others in the area around White Plume Mountain? Or is he simply the pawn of a much greater power?\n\n A 4-Hour Epic Adventure for 5th–16th Level Characters.",
-        "incomplete": true
+        "items": [
+            {
+                "name": "Cube of Force",
+                "rarity": "rare"
+            },
+            {
+                "name": "Ioun Stone of Fortitude",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Ioun Stone of Protection",
+                "rarity": "rare"
+            },
+            {
+                "name": "Scimitar, +3",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Vitality",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Animate Dead",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Mage's Spellbook",
+                "spells": [
+                    { "name": "detect magic", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "shield", "level": 1 },
+                    { "name": "detect thoughts", "level": 2 },
+                    { "name": "mirror image", "level": 2 },
+                    { "name": "misty step", "level": 2 },
+                    { "name": "counterspell", "level": 3 },
+                    { "name": "fly", "level": 3 },
+                    { "name": "lightning bolt", "level": 3 },
+                    { "name": "banishment", "level": 4 },
+                    { "name": "fire shield", "level": 4 },
+                    { "name": "stoneskin", "level": 4 },
+                    { "name": "cone of cold", "level": 5 },
+                    { "name": "scrying", "level": 5 },
+                    { "name": "wall of force", "level": 5 },
+                    { "name": "globe of invulnerability", "level": 6 },
+                    { "name": "teleport", "level": 7 },
+                    { "name": "mind blank", "level": 8 },
+                    { "name": "time stop", "level": 9 }
+                ]
+            },
+            {
+                "name": "Necromancer's Spellbook",
+                "spells": [
+                    { "name": "false life", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "ray of sickness", "level": 1 },
+                    { "name": "blindness/deafness", "level": 2 },
+                    { "name": "ray of enfeeblement", "level": 2 },
+                    { "name": "animate dead", "level": 3 },
+                    { "name": "bestow curse", "level": 3 },
+                    { "name": "vampiric touch", "level": 3 },
+                    { "name": "blight", "level": 4 },
+                    { "name": "dimension door", "level": 4 },
+                    { "name": "stoneskin", "level": 4 },
+                    { "name": "Bigby's hand", "level": 5 },
+                    { "name": "cloudkill", "level": 5 },
+                    { "name": "circle of death", "level": 6 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Favor of Selûne",
+                "description": "For your efforts in saving the Priestess of Selûne, you may redeem this story award and receive free spellcasting services from any temple of Selûne on the Sword Coast. This story award can be used three times. This story award can’t be used to receive the benefit of a spell higher than 6th level."
+            },
+            {
+                "name": "Favor of the Merchant Savil",
+                "description": "For your efforts in saving the Merchant, you can purchase mundane gear from his shops in Neverwinter and Baldur’s Gate at half price for the next year. Available items include all of the Adventuring Gear listed on page 150 of the PHB, except for the spyglass, vials of poison and druidic focuses. If you aren’t in either town, but you’re in the Sword Coast region, you must spend 5 downtime days. If you’re not in the Sword Coast region, you must pay 10 downtime days. This story award expires one year from when it’s earned."
+            }
+        ]
     },
     {
         "code": "DDEP06-03",
         "name": "Hecatomb",
         "description": "Far below the reach of the sun, dark forces seek to bring a terrible darkness into Faerun. A great and awful host of drow, giants, and worse await your arrival. When even the dead tremble, what hope can you find?\n\n A 4-Hour Epic Adventure for 11th–16th Level and 17th–20th Level Characters.",
-        "incomplete": true
+        "items": [
+            {
+                "name": "Amulet of the Planes",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Blessing of Protection",
+                "rarity": "unique"
+            },
+            {
+                "name": "Candle of Invocation",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Charm of Vitality",
+                "rarity": "unique"
+            },
+            {
+                "name": "Cloak of Invisibility",
+                "rarity": "legendary"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Consumed by Kiaransalee",
+                "description": "You faced the drow goddess Kiaransalee until the bitter end. However, she won—you were utterly destroyed and your soul was consumed. If you had clones or contingencies, these fail to activate.\n\n You cannot be resurrected or otherwise returned to life until another character spends 100 downtime days searching the planes of existence for you and also spends 200,000 gp in bribes and resources with greater demons and elder powers. This bargaining is exhausting for all parties involved, but if you are returned to life you do so with a deeper understanding of this menace: you have advantage on saving throws against spells and effects from clerics of Kiaransalee—and Kiaransalee herself!"
+            },
+            {
+                "name": "Faction Savior",
+                "description": "You were directly responsible for the safety of one or more faction leaders. They are incredibly thankful, and wish to reward you. If you share a faction with that faction master, you may receive a *true resurrection* for free (including downtime days). If you do not share faction membership with them, they will cover half of the gold piece fee of a *true resurrection*. You may only receive one free casting of the spell in this manner, but the discount applies for each faction master that you directly saved."
+            },
+            {
+                "name": "Gatekeeper of the Divine",
+                "description": "SEER’s teleportation circle allowed a large host of angelic solars and planetars to temporarily enter Faerun. These creatures represent the pinnacle of the lawful good alignment, and some of their qualities have rubbed off on you. You desire to pursue the greater good whenever possible and wish to work within the limits of the law. Though you are not beholden to these desires, they are strong. If you change your alignment to lawful good (or are already there), you have advantage on Charisma checks with solars, planetars, and lawful good clerics and paladins."
+            },
+            {
+                "name": "Lost Lore of the Illithilich",
+                "description": "The drow lich that had been serving as the focal point of the necromantic ritual in the Underdark is destroyed, and upon your return to the surface you find that one of her still- wriggling fingers (or toes) can be found in one of your packs. No matter what you do to get rid of it, it always comes back a few days later. It’s been said that liches have more power in their fingers than most mortals will ever know, and this is no exception: you can use this appendage while casting a spell in order to impose disadvantage on the spell target’s saving throw. Once used in this manner, the appendage crumbles into dust and cannot be reconstructed by any means, including *wish*."
+            },
+            {
+                "name": "Patron of the Company",
+                "description": "You managed to convince the drow mercenary company Bregan D’Arthe to turn their back on the conflict. This cost no small amount of gold, and word of your actions will spread. While the mercenaries themselves are discreet about their funding, there were other ears and eyes in the Underdark that day. What this means for you will remain to be seen."
+            }
+        ]
     },
 ]

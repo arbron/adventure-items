@@ -14,6 +14,7 @@ struct Adventure: Codable, Hashable {
 
     @DecodableDefault.False var incomplete: Bool
 
+    var tier: [Tier]?
     var released: Date?
 
     @DecodableDefault.EmptyList var items: [Item]
@@ -22,6 +23,12 @@ struct Adventure: Codable, Hashable {
 
     var source: Source { Source(code) }
     var isEpic: Bool { code.hasPrefix("DDEP") || code.hasPrefix("DDAL-EBEP") }
+}
+
+extension Adventure {
+    enum Tier: Int, Codable, Hashable {
+        case one = 1, two, three, four
+    }
 }
 
 extension Adventure {

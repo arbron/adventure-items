@@ -36,7 +36,9 @@ extension Publish.Item where Site == AdventureItemsSite {
 
         var tags: Set<Tag> = []
         for item in adventure.items {
-            if !item.consumable {
+            if item.illegal {
+                tags.insert("illegal items")
+            } else if !item.consumable {
                 tags.insert("items")
                 tags.insert("rarity: \(item.rarity.name.lowercased())")
                 magicItemNames.append(item.name)
@@ -79,6 +81,7 @@ extension Publish.Item where Site == AdventureItemsSite {
         }
 
         tags.insert("adventure: \(adventure.source.stringValue.lowercased())")
+        _ = adventure.tier.map { $0.map { tags.insert("adventure: tier \($0.rawValue)") } }
         if adventure.isEpic {
             tags.insert("adventure: epic")
         }
@@ -124,18 +127,22 @@ extension Publish.Item where Site == AdventureItemsSite {
     private static func itemList(_ items: [Item]) -> Node<HTML.BodyContext> {
         .ul(
             .forEach(items) { item in
-                var itemEntry: [Node<HTML.BodyContext>] = [
-                    .text(item.name),
+                .li(
+                    .unwrap(item.count) { count in
+                        .text("\(count) x ")
+                    },
+                    .span(
+                        .if(item.illegal, .class("illegal")),
+                        .text(item.name)
+                    ),
                     .span(
                         .class("entry-label"),
-                        .text(item.rarity.name)
+                        .if(!item.illegal,
+                            .text(item.rarity.name),
+                            else: .text("Not AL Legal")
+                        )
                     )
-                ]
-                if let count = item.count {
-                    itemEntry.insert("\(count) x ", at: 0)
-                }
-                
-                return .li(.group(itemEntry))
+                )
             }
         )
     }
@@ -147,7 +154,12 @@ extension Publish.Item where Site == AdventureItemsSite {
                     return .li(
                         .strong("\(spellbook.name): "),
                         "\(spells)",
-                        .if(spellbook.note != "", .text(spellbook.note))
+                        .if(spellbook.note != "",
+                            .span(
+                                .class("entry-label"),
+                                .text(spellbook.note)
+                            )
+                        )
                     )
                 } else {
                     return .li(.strong("\(spellbook.name)"))

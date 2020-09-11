@@ -107,6 +107,10 @@ a {
     font-variant: small-caps;
 }
 
+.illegal {
+    text-decoration: line-through;
+}
+
 .story-award {
     padding-bottom: 0.5em;
 }
@@ -115,6 +119,10 @@ a {
 }
 .story-award p {
     padding-left: 1em;
+}
+.story-award ul {
+    padding-left: 2em;
+    padding-bottom: 0.5em;
 }
 .story-award p:first-of-type {
     border-top: 1px solid gray;

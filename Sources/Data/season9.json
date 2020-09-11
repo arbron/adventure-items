@@ -314,32 +314,225 @@
     {
         "code": "DDAL09-15",
         "name": "Maddening Screams",
-        "description": "",
-        "incomplete": true
+        "description": "The final resting place of the Hellrider company known as the Bloody Hooves has been found. Unfortunately, the Canyon of Screams is well beyond the reach of safe haven, so you must protect Dara behind enemy lines with no one to count on but yourselves. Her holy mission, and your very souls, are at stake. Part One of the *Doors and Corners* series of adventures.\n\n A Four to Six-Hour Adventure for 11th through 16th Level Characters.",
+        "items": [
+            {
+                "name": "Helm of Telepathy",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Red Dragon Scale Male",
+                "rarity": "veryRare"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Faith and Trust",
+                "description": "You’ve successfully retrieved the wards of faithfulness from the resting place of the Bloody Hooves."
+            }
+        ]
     },
     {
         "code": "DDAL09-16",
         "name": "Honors Unforseen",
-        "description": "",
-        "incomplete": true
+        "description": "Accompanying the Chosen of Ilmater and baring the newly discovered Ward of Faithfulness, you proceed further into the tomb of the Bloody Hooves. Time is running short. Zariel’s forces hunt for you even now. Part Two of the *Doors and Corners* series of adventures.\n\n A Four to Six-Hour Adventure for 11th through 16th Level Characters.",
+        "items": [
+            {
+                "name": "Fochlucan Bandore (Instrument of the Bards)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Ioun Stone of Leadership",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "You Let Dara Die",
+                "description": "Dara has now died \\_\\_\\_\\_\\_\\_\\_ times while in your care. Every time she dies, Dara loses one of the following abilities, chosen at random: Damage Resistances, Condition Immunities, Magic Resistance, and Innate Spellcasting. If she loses all four, she has lost all of her abilities as a Chosen and may no longer return Hellriders or angels to life.\n\n In future adventures that she’s featured in, your group uses the average number of deaths among the characters for determining how many abilities she has lost."
+            }
+        ]
     },
     {
         "code": "DDAL09-17",
         "name": "In the Hand",
-        "description": "",
-        "incomplete": true
+        "description": "Your quest to return the Bloody Hooves is nearly at an end. Only the company’s commander remains and then you’ll be ready to ride to the rescue of fallen Elturel!\n\n Part Three of the *Doors and Corners* series of adventures.\n\n A Four to Six-Hour Adventure for 11th through 16th Level Characters.",
+        "items": [
+            {
+                "name": "Bag of Holding",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Wand of the War Mage, +3",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Speed",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Supreme Healing",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Vitality",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Torm's Chosen",
+                "description": "For nobly giving yourself so that High Priest of Torm Horst Atheraice could be freed, Torm blessed a piece of your soul. The expedition is in peril as the opposition has gained key intelligence from you before killing you.\n\n After suffering torture at the hands of General Everbleed’s devils, you died and are reborn in any location of your choice in Faerûn that has a temple to Torm, and the next time you die, you gain this benefit as well (as if a greater resurrection)."
+            }
+        ]
     },
     {
         "code": "DDEP09-01",
         "name": "Infernal Pursuits",
-        "description": "A horse race in Baldur’s Gate becomes a hellish battle on infernal war machines in Avernus when the characters get caught between two evil merchants…and must hang on for dear life.\n\nA four-hour D&D EpicT™ adventure for Tier 1 and 2 characters.",
-        "incomplete": true
+        "description": "A horse race in Baldur’s Gate becomes a hellish battle on infernal war machines in Avernus when the characters get caught between two evil merchants…and must hang on for dear life.\n\nA four-hour D&D Epic™ adventure for Tier 1 and 2 characters.",
+        "items": [
+            {
+                "name": "Helm of Telepathy",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Mantle of Spell Resistance",
+                "rarity": "rare"
+            },
+            {
+                "name": "Necklace of Adaptation",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 16
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Minted Soul",
+                "description": "A portion of your soul has been minted into a soul coin: part of the damnable currency of the Nine Hells. As the coin moves through the markets of the inferno, you feel an echo that affects your mind. At the start of every gaming session you participate in, roll a d6 to determine an effect for that game.\n\n  | d6 | Effect |\n|------|------|\n| 1–3 | No effect |\n| 4 | Your soul coin is spent wisely by its owner. You gain inspiration at the start of this session. |\n| 5 | Your soul coin is spent foolishly by its owner. You can’t earn inspiration during this session. |\n| 6 | Your soul coin is stolen from its owner. You can only spend inspiration to benefit other players during this session. |"
+            },
+            {
+                "name": "Promised Soul",
+                "description": "Your soul has been promised to a devil of the Nine Hells. If you die, it claims your soul and subjects it to an eternity of torment. The only way you can be restored to life is via a wish or true resurrection spell, after which you can remove this award."
+            }
+        ]
     },
     {
         "code": "DDEP09-02",
         "name": "Hellfire Requiem",
         "description": "A Four-Hour Adventure for Tier 1 and 2 Characters.",
-        "incomplete": true
+        "items": [
+            {
+                "name": "Hellrider's Badge",
+                "rarity": "rare"
+            },
+            {
+                "name": "Burnt Othur Fumes (Inhaled)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Essence of Ether (Inhaled)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Healer's kit",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Holy water (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Oil of Slipperiness",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 4
+            },
+            {
+                "name": "Potion of Heroism",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Blight",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Lesser Restoration",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Phantasmal Killer",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Marked by Bel",
+                "description": "You agreed to make a deal with Bel or one of his minions. Your soul is now forfeit; if you die, you can only be restored to life via a *wish* or *true resurrection* spell, after which you can remove this award. Similarly, you regain hit dice at half the normal rate. However, Bel has granted you some special powers in exchange for this self-sacrifice:\n\n **Bel's Blessings**\n\n | Cost | Benefit |\n|-----------|-----------|\n| 1 Hit Die  | Reroll a failed saving throw or an attack roll that missed its target. |\n| 2 Hit Dice | You grow leathery wings and a flight speed of 20 ft. for 1 minute. |\n| 3 Hit Dice | You may spend a bonus action to turn devils that are faithful to Zariel as if they were undead and you were using the Channel Divinity: Turn Undead cleric class feature. This has no effect on other creatures, or on devils that are devoted to an archdevil other than Zariel. You do not need to be a cleric to use this ability, nor do you need to wield a holy symbol—when you perform this profane rite, Bel’s sigil materializes above your head and glows with purple light. |\n| 5 Hit Dice | Bel delivers one common or uncommon permanent magic item to you. This item does not count against your magic item limit, and you may use this item for one hour at which time it crumbles to dust as it is reclaimed by the archdevil. |\n| 8 Hit Dice | Bel delivers one rare magic permanent magic item to you, or one uncommon consumable magic item. This item does not count against your magic item limit, and you may use this item for one hour at which time it crumbles to dust as it is reclaimed by the archdevil. |"
+            }
+        ]
     },
     {
         "code": "DDEP09-03",

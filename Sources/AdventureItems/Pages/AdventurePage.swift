@@ -160,6 +160,7 @@ extension Publish.Item where Site == AdventureItemsSite {
     private static func storyAwardList(_ storyAwards: [StoryAward]) -> Node<HTML.BodyContext> {
         .forEach(storyAwards) { award in
             .details(
+                .class("story-award"),
                 .summary(
                     .text(award.name),
                     .if(award.downtime,

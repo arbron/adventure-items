@@ -386,13 +386,51 @@
         "code": "DDEP08-01",
         "name": "Chaos in the City of Splendors",
         "description": "The hunt for the cache of dragons has attracted ne’er-do-wells and fortune seekers to Waterdeep from far and wide, and the local gangs are not about to let such a bounty of talent go to waste. Chaos and shenanigans await the brave and the bold in the City of Splendors!\n\n A Three-Hour D&D Epic Adventure for 1st–4th Level Characters.",
-        "incomplete": true
+        "items": [
+            {
+                "name": "Bag of Tricks (Rust)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Folding Boat",
+                "rarity": "rare"
+            }
+        ]
     },
     {
         "code": "DDEP08-02",
         "name": "Stardock Under Siege",
         "description": "An illithid invasion threatens Stardock, and only you and your allies can stop it!\n\n A Four-Hour D&D Epic Adventure for 1st–16th Level Characters.",
-        "incomplete": true
+        "items": [
+            {
+                "name": "Chime of Opening",
+                "rarity": "rare"
+            },
+            {
+                "name": "Mantle of Spell Resistance",
+                "rarity": "rare"
+            },
+            {
+                "name": "Periapt of Wound Closure",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Ring of Water Walking",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Acid)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "DDEP08-03",

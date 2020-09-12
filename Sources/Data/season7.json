@@ -2,7 +2,9 @@
     {
         "code": "DDAL07-01",
         "name": "A City on the Edge",
-        "description": "Often called the “Gateway to Chult”, the exotic city of Port Nyanzaru is built upon a landscape both mystifying and marvelous. However, the city’s vibrant beauty is overshadowed by a mysterious scourge that plagues all within the land. Can the divergent forces within the city discover the truth before all are overcome by this growing threat?\n\n Five Four-Hour Mini-Adventures for 1st–4th Level Characters.",
+        "description": "Often called the “Gateway to Chult”, the exotic city of Port Nyanzaru is built upon a landscape both mystifying and marvelous. However, the city’s vibrant beauty is overshadowed by a mysterious scourge that plagues all within the land. Can the divergent forces within the city discover the truth before all are overcome by this growing threat?",
+        "released": "2017-09-05",
+        "tier": [1],
         "items": [
             {
                 "name": "Alchemist's fire (flask)",
@@ -69,7 +71,9 @@
     {
         "code": "DDAL07-02",
         "name": "Over the Edge",
-        "description": "In response to a new but as-of-yet-unnamed threat, the factions have called upon adventurers to venture into the jungle in search of a location for a new base of operations. As such, you have been charged with scouting several locations to assess their viability. Surely something so trivial as a scouting mission couldn’t go wrong?\n\n Five One-Hour Adventures for 5th–10th Level Characters.",
+        "description": "In response to a new but as-of-yet-unnamed threat, the factions have called upon adventurers to venture into the jungle in search of a location for a new base of operations. As such, you have been charged with scouting several locations to assess their viability. Surely something so trivial as a scouting mission couldn’t go wrong?",
+        "released": "2017-10-03",
+        "tier": [2],
         "items": [
             {
                 "name": "Potion of Animal Friendship",
@@ -146,7 +150,9 @@
     {
         "code": "DDAL07-03",
         "name": "A Day at the Races",
-        "description": "The Merchant Princes have a treat in store for everyone! A new team-based event has been added to the roster and the factions are throwing their hats into the ring. Climb aboard and saddle up! Part One of *The Jungle Has Fangs Trilogy*.\n\n A Two-Hour Adventure for 1st–4th Level Characters.",
+        "description": "The Merchant Princes have a treat in store for everyone! A new team-based event has been added to the roster and the factions are throwing their hats into the ring. Climb aboard and saddle up! Part One of *The Jungle Has Fangs* trilogy.",
+        "released": "2017-11-07",
+        "tier": [1],
         "items": [
             {
                 "name": "Quarterstaff, +1",
@@ -173,7 +179,9 @@
     {
         "code": "DDAL07-04",
         "name": "A Walk in the Park",
-        "description": "A mysterious satchel linking the yuan-ti to a poisoning in Port Nyanzaru leads you outside the safety of city walls and into the jungle beyond. Venture into the jungle and seek out the wisdom of the grung to shed some light on the situation. Part Two of *The Jungle Has Fangs Trilogy*.\n\n A Two-Hour Adventure for 1st–4th Level Characters.",
+        "description": "A mysterious satchel linking the yuan-ti to a poisoning in Port Nyanzaru leads you outside the safety of city walls and into the jungle beyond. Venture into the jungle and seek out the wisdom of the grung to shed some light on the situation. Part Two of *The Jungle Has Fangs* trilogy.",
+        "released": "2017-11-07",
+        "tier": [1],
         "items": [
             {
                 "name": "Goggles of Night",
@@ -190,7 +198,9 @@
     {
         "code": "DDAL07-05",
         "name": "Whispers in the Dark",
-        "description": "The temple lies just ahead, and within the answers to a great many questions about the recent goings-on in Port Nyanzaru. The journey here has been long and arduous and hopefully soon at an end. Leave your trepidations at the door; there’s exploring to be done! Part Three of *The Jungle Has Fangs Trilogy*.\n\n A Two-Hour Adventure for 1st–4th Level Characters.",
+        "description": "The temple lies just ahead, and within the answers to a great many questions about the recent goings-on in Port Nyanzaru. The journey here has been long and arduous and hopefully soon at an end. Leave your trepidations at the door; there’s exploring to be done! Part Three of *The Jungle Has Fangs* trilogy.",
+        "released": "2017-11-07",
+        "tier": [1],
         "items": [
             {
                 "name": "Pearl of Power",
@@ -219,7 +229,9 @@
     {
         "code": "DDAL07-06",
         "name": "Fester and Burn",
-        "description": "The denizens of the Old City have made some unusual sightings in the festering refuse pits on the outskirts of the city, and while such reports are seldom taken terribly seriously, the mysterious disappearance of a beloved figure in the poor part of Port Nyanzaru has folks on edge. Can you get to the bottom of this? Part One of *The Rot from Within Trilogy*.\n\n A 2-Hour Adventure for 5th–10th Level Characters.",
+        "description": "The denizens of the Old City have made some unusual sightings in the festering refuse pits on the outskirts of the city, and while such reports are seldom taken terribly seriously, the mysterious disappearance of a beloved figure in the poor part of Port Nyanzaru has folks on edge. Can you get to the bottom of this? Part One of *The Rot from Within* trilogy.",
+        "released": "2017-11-07",
+        "tier": [2],
         "items": [
             {
                 "name": "Mace of Smiting",
@@ -242,7 +254,9 @@
     {
         "code": "DDAL07-07",
         "name": "Rotting Roots",
-        "description": "The sudden appearance of the undead within Port Nyanzaru doesn’t appear to be the only thing on the horizon. A vast horde of skeletons and zombies is moving towards the city and while those of means are safe within the city’s walls, those in the Old City and Malar’s Throat are forced to contend with the problem. Where did they come from? More importantly, what are you going to do to find out? Part Two of *The Rot from Within Trilogy*.\n\n A 2-Hour Adventure for 5th–10th Level Characters.",
+        "description": "The sudden appearance of the undead within Port Nyanzaru doesn’t appear to be the only thing on the horizon. A vast horde of skeletons and zombies is moving towards the city and while those of means are safe within the city’s walls, those in the Old City and Malar’s Throat are forced to contend with the problem. Where did they come from? More importantly, what are you going to do to find out? Part Two of *The Rot from Within* trilogy.",
+        "released": "2017-12-05",
+        "tier": [2],
         "items": [
             {
                 "name": "Rope of Entanglement",
@@ -253,7 +267,9 @@
     {
         "code": "DDAL07-08",
         "name": "Putting the Dead to Rest",
-        "description": "The jungle has opened up and revealed her secrets—now is the time to act upon them. All signs point to a long-abandoned city as the source of the undead contagion, and so you have been called upon to venture within and put an end to it once and for all. Are you up to the task? Part Three of *The Rot from Within Trilogy*.\n\n A Two-Hour Adventure for 5th–10th Level Characters.",
+        "description": "The jungle has opened up and revealed her secrets—now is the time to act upon them. All signs point to a long-abandoned city as the source of the undead contagion, and so you have been called upon to venture within and put an end to it once and for all. Are you up to the task? Part Three of *The Rot from Within* trilogy.",
+        "released": "2017-12-05",
+        "tier": [2],
         "items": [
             {
                 "name": "Staff of the Woodlands",
@@ -282,7 +298,9 @@
     {
         "code": "DDAL07-09",
         "name": "Unusual Opposition",
-        "description": "The trail leading from the Fane of the Whispered Fang has grown cold, but you can still taste the machinations of the yuan-ti in Chult’s humid, stagnant air. Because of this, you must venture deeper still into the jungle and petition the aid of an unlikely ally—the fabled Ramshackle King. His assistance is crucial to the effort to save Chult!\n\n A Four-Hour Adventure for 11th–16th Level Characters.",
+        "description": "The trail leading from the Fane of the Whispered Fang has grown cold, but you can still taste the machinations of the yuan-ti in Chult’s humid, stagnant air. Because of this, you must venture deeper still into the jungle and petition the aid of an unlikely ally—the fabled Ramshackle King. His assistance is crucial to the effort to save Chult!",
+        "released": "2018-02-06",
+        "tier": [3],
         "items": [
             {
                 "name": "Bitter Wrath (Frost Brand Rapier)",
@@ -311,7 +329,9 @@
     {
         "code": "DDAL07-10",
         "name": "Fire, Ash, and Ruin",
-        "description": "Within the jungles of Chult is a vast expanse of ash. While a red dragon is known to reside deep within the Land of Ash and Smoke, it is far from the deadliest of its denizens. Deeper still is a pit filled to the brim with pure evil. None who have sought out its secrets have survived to tell its tale. Will you be more successful than they?\n\n A 4-Hour Adventure for 11th–16th Level Characters.",
+        "description": "Within the jungles of Chult is a vast expanse of ash. While a red dragon is known to reside deep within the Land of Ash and Smoke, it is far from the deadliest of its denizens. Deeper still is a pit filled to the brim with pure evil. None who have sought out its secrets have survived to tell its tale. Will you be more successful than they?",
+        "released": "2018-02-06",
+        "tier": [3],
         "items": [
             {
                 "name": "Krahharuan Fork (Pike, +3)",
@@ -334,7 +354,9 @@
     {
         "code": "DDAL07-11",
         "name": "A Lesson in Love",
-        "description": "An old elf has wandered into the city from the jungle—prattling on about his long-lost daughter to anyone whose ear he can bend. Though most in Port Nyanzaru dismiss him as mad, he speaks the truth. Can you find and save his daughter?\n\n A 4-Hour Adventure for 11th–16th Level Characters.",
+        "description": "An old elf has wandered into the city from the jungle—prattling on about his long-lost daughter to anyone whose ear he can bend. Though most in Port Nyanzaru dismiss him as mad, he speaks the truth. Can you find and save his daughter?",
+        "released": "2018-03-06",
+        "tier": [3],
         "items": [
             {
                 "name": "Love's Bite (Nine Lives Stealer)",
@@ -363,7 +385,9 @@
     {
         "code": "DDAL07-12",
         "name": "In Search of Secrets",
-        "description": "The yuan-ti have a long, storied past in the history of Chult. So, if they are to be defeated, we must look back into history. Within the jungles, a number of cities fell into ruin during the Year of Blue Fire. Both the merchant princes and factions believe that if discovered, they likely contain knowledge that’ll prove invaluable in the battles to come. Get looking!\n\n A Four-Hour Adventure for 11th–16th Level Characters.",
+        "description": "The yuan-ti have a long, storied past in the history of Chult. So, if they are to be defeated, we must look back into history. Within the jungles, a number of cities fell into ruin during the Year of Blue Fire. Both the merchant princes and factions believe that if discovered, they likely contain knowledge that’ll prove invaluable in the battles to come. Get looking!",
+        "released": "2018-03-06",
+        "tier": [3],
         "items": [
             {
                 "name": "Staff of Striking",
@@ -380,7 +404,9 @@
     {
         "code": "DDAL07-13",
         "name": "Old Bones and Older Tomes",
-        "description": "The sages of Candlekeep have come calling. They’ve come to Port Nyanzaru on the trail of a colleague. He came to the jungle to pursue his studies in solitude some twenty years ago, but within the last year, his regular communications have fallen silent. They are in search of brave (and discrete) adventurers to escort them around the peninsula for a health and welfare check. Are you brave and discrete enough for the job?\n\n A Four-Hour Adventure for 11th–16th Level Characters.",
+        "description": "The sages of Candlekeep have come calling. They’ve come to Port Nyanzaru on the trail of a colleague. He came to the jungle to pursue his studies in solitude some twenty years ago, but within the last year, his regular communications have fallen silent. They are in search of brave (and discrete) adventurers to escort them around the peninsula for a health and welfare check. Are you brave and discrete enough for the job?",
+        "released": "2018-04-03",
+        "tier": [3],
         "items": [
             {
                 "name": "Wand of Polymorph",
@@ -415,7 +441,9 @@
     {
         "code": "DDAL07-14",
         "name": "Fathomless Pits of Ill Intent",
-        "description": "The time is now! The yuan-ti lay on the cusp of freeing an ancient being of insurmountable evil from its imprisonment. Should this happen, Faerûn may very well be plunged into an age of darkness. You have traveled the width and breadth of the peninsula and learned what you could about your foe. Now it’s time to put that knowledge to use. Steel yourself, adventurer, there are important deeds to be done!\n\n A Four-Hour Adventure for 11th–16th Level Characters.",
+        "description": "The time is now! The yuan-ti lay on the cusp of freeing an ancient being of insurmountable evil from its imprisonment. Should this happen, Faerûn may very well be plunged into an age of darkness. You have traveled the width and breadth of the peninsula and learned what you could about your foe. Now it’s time to put that knowledge to use. Steel yourself, adventurer, there are important deeds to be done!",
+        "released": "2018-04-03",
+        "tier": [3],
         "items": [
             {
                 "name": "The Mask of Wompona Yarp (Helm of Brilliance)",
@@ -444,7 +472,9 @@
     {
         "code": "DDAL07-15",
         "name": "Streams of Crimson",
-        "description": "The Soulmonger is shattered and its pieces scattered across the peninsula of Chult. Dire forces seek those shards for their own nefarious purposes, and the Red Wizards are rumored to have found a number of them already. Can you wrest those necromantic artifacts from the hands of the dread mages? Part One of the *Broken Chains Series*.\n\n A Four-Hour Adventure for 17th–20th Level Characters.",
+        "description": "The Soulmonger is shattered and its pieces scattered across the peninsula of Chult. Dire forces seek those shards for their own nefarious purposes, and the Red Wizards are rumored to have found a number of them already. Can you wrest those necromantic artifacts from the hands of the dread mages? Part One of the *Broken Chains* series.",
+        "released": "2018-05-01",
+        "tier": [4],
         "items": [
             {
                 "name": "Efreeti Chain",
@@ -483,7 +513,9 @@
     {
         "code": "DDAL07-16",
         "name": "Pools of Cerulean",
-        "description": "The Land of Ash and Smoke. Once a hellish landscape of volcanic activity, now a nightmare region that hosts one of the scattered Soulmonger fragments. The fragment’s burgeoning power attracted the attention of the Red Wizards of Thay and, thankfully, adventurers who are willing to risk life and limb to keep the fragment from these vile arcanists. Can you reach the fragment before the Red Wizards make off with it? The hunt is on. Part Two of the *Broken Chain Series*.\n\n A Four-Hour Adventure for 17th–20th Level Characters.",
+        "description": "The Land of Ash and Smoke. Once a hellish landscape of volcanic activity, now a nightmare region that hosts one of the scattered Soulmonger fragments. The fragment’s burgeoning power attracted the attention of the Red Wizards of Thay and, thankfully, adventurers who are willing to risk life and limb to keep the fragment from these vile arcanists. Can you reach the fragment before the Red Wizards make off with it? The hunt is on. Part Two of the *Broken Chain* series.",
+        "released": "2018-05-01",
+        "tier": [4],
         "items": [
             {
                 "name": "Vorpal Sword (Scimitar)",
@@ -512,7 +544,9 @@
     {
         "code": "DDAL07-17",
         "name": "Cauldron of Sapphire",
-        "description": "Just off the northern coast of Chult churns the waters of the Cauldron, a single volcano with a terrible history. Legends from the jungle lands say that it vomits forth lava, stone, and monsters if the peninsula is threatened—and yet the recent events did not set if off. So why is it threatening to explode now? Part Three of the *Broken Chains Series*.\n\n A Four-Hour Adventure for 17th–20th Level Characters.",
+        "description": "Just off the northern coast of Chult churns the waters of the Cauldron, a single volcano with a terrible history. Legends from the jungle lands say that it vomits forth lava, stone, and monsters if the peninsula is threatened—and yet the recent events did not set if off. So why is it threatening to explode now? Part Three of the *Broken Chains* series.",
+        "released": "2018-06-05",
+        "tier": [4],
         "items": [
             {
                 "name": "Staff of the Magi",
@@ -541,7 +575,9 @@
     {
         "code": "DDAL07-18",
         "name": "Turn Back the Endless Night",
-        "description": "Your foe seeks to unlock the Iron Door beneath the Peaks of Flame and open the way for the Eater of the World. You must find your way through the maze of tunnels and stop them, or it will be the end of all things. Part Four of the *Broken Chains Series*.\n\n A Four-Hour Adventure for 17th–20th Level Characters.",
+        "description": "Your foe seeks to unlock the Iron Door beneath the Peaks of Flame and open the way for the Eater of the World. You must find your way through the maze of tunnels and stop them, or it will be the end of all things. Part Four of the *Broken Chains* series.",
+        "released": "2018-06-05",
+        "tier": [4],
         "items": [
             {
                 "name": "Scarab of Protection",
@@ -586,7 +622,9 @@
     {
         "code": "DDEP07-01",
         "name": "Peril at the Port",
-        "description": "Pirates! Dastardly ne'er‐do‐wells have been spotted just outside of the harbor! Not content with scratching a living off of the rich port city’s scraps, pirates are making for the city by land and sea. But Port Nyanzaru is far from defenseless; pick up a yklwah, climb aboard a dinosaur, or man the wall; but whatever you do, don’t let those rapscallions into the city!\n\n A Three‐Hour D&D Epic Adventure for 1st–10th Level Characters.",
+        "description": "Pirates! Dastardly ne'er‐do‐wells have been spotted just outside of the harbor! Not content with scratching a living off of the rich port city’s scraps, pirates are making for the city by land and sea. But Port Nyanzaru is far from defenseless; pick up a yklwah, climb aboard a dinosaur, or man the wall; but whatever you do, don’t let those rapscallions into the city!",
+        "released": "2017-09-01",
+        "tier": [1, 2],
         "items": [
             {
                 "name": "Cloak of the Bat",
@@ -695,7 +733,9 @@
     {
         "code": "DDEP07-02",
         "name": "Drums of the Dead",
-        "description": "A ritual to destroy Chult’s undead has backfired and unleashed an undead plague! The components needed to concoct an antidote have been identified, but need to be scavenged from the jungle. Meanwhile, Valindra Shadowmantle and Szass Tam are rallying the infected to conduct a massive assault on Port Nyanzaru. If they succeed, the results will be catastrophic.\n\n A 3-Hour D&D EpicsTM Adventure for 1st–20th Level Characters.",
+        "description": "A ritual to destroy Chult’s undead has backfired and unleashed an undead plague! The components needed to concoct an antidote have been identified, but need to be scavenged from the jungle. Meanwhile, Valindra Shadowmantle and Szass Tam are rallying the infected to conduct a massive assault on Port Nyanzaru. If they succeed, the results will be catastrophic.",
+        "released": "2018-02-07",
+        "tier": [1, 2, 3, 4],
         "items": [
             {
                 "name": "Half Plate, +2",

@@ -2,7 +2,9 @@
     {
         "code": "DDAL09-01",
         "name": "Escape from Elturgard",
-        "description": "Damnation! The entire city of Elturel—along with its denizens—have been drawn into Avernus, the first layer of the Nine Hells! While those fortunate enough to have been outside of the city’s walls have been spared that fate, they’re not yet out of danger! The refugees formed a caravan bound for the nearby city of Baldur’s Gate. Can you keep them safe from devils, bandits, and one another until they reach safety?\n\n Four, One-Hour Introductory Mini-adventures for 1st and 2nd Level Characters.",
+        "description": "Damnation! The entire city of Elturel—along with its denizens—have been drawn into Avernus, the first layer of the Nine Hells! While those fortunate enough to have been outside of the city’s walls have been spared that fate, they’re not yet out of danger! The refugees formed a caravan bound for the nearby city of Baldur’s Gate. Can you keep them safe from devils, bandits, and one another until they reach safety?",
+        "released": "2019-10-29",
+        "tier": [1],
         "items": [
             {
                 "name": "Amulet of Proof Against Detection and Location",
@@ -19,7 +21,9 @@
     {
         "code": "DDAL09-02",
         "name": "Stopped at the Gate",
-        "description": "It’s been a long, arduous trip, but you’re finally here—Baldur’s Gate. You’re not out of peril yet, however, even if you’re leaving the lawless wilds behind you, the streets of the Gate still run red with blood. But you quickly find that arriving at the city wasn’t the biggest challenge at all, now you must convince the city’s rulers to grant asylum to you and those in your charge. Part One of the *Betrayal is in the Blood* series of adventures.\n\n A Two-to-Four Hour Adventure for 1st through 4th Level Characters.",
+        "description": "It’s been a long, arduous trip, but you’re finally here—Baldur’s Gate. You’re not out of peril yet, however, even if you’re leaving the lawless wilds behind you, the streets of the Gate still run red with blood. But you quickly find that arriving at the city wasn’t the biggest challenge at all, now you must convince the city’s rulers to grant asylum to you and those in your charge. Part One of the *Betrayal is in the Blood* series of adventures.",
+        "released": "2019-10-29",
+        "tier": [1],
         "items": [
             {
                 "name": "Eyes of the Eagle",
@@ -42,7 +46,9 @@
     {
         "code": "DDAL09-03",
         "name": "Hungry Shadows",
-        "description": "Bodies continue pile up, and the Flaming Fist still has nothing but a name. Thankfully, the perpetrator of the murders has slipped up and the Flaming Fist has captured one of their underlings, in turn, has revealed the presence of a cult hideout in the sewers beneath the city. The Flaming Fist has asked that you investigate. Are you up for the task? Part Two of the *Betrayal is in the Blood* series of adventures.\n\n A Two-to-Four Hour Adventure for 1st through 4th Level Characters.",
+        "description": "Bodies continue pile up, and the Flaming Fist still has nothing but a name. Thankfully, the perpetrator of the murders has slipped up and the Flaming Fist has captured one of their underlings, in turn, has revealed the presence of a cult hideout in the sewers beneath the city. The Flaming Fist has asked that you investigate. Are you up for the task? Part Two of the *Betrayal is in the Blood* series of adventures.",
+        "released": "2019-10-29",
+        "tier": [1],
         "items": [
             {
                 "name": "Gloves of Thievery",
@@ -59,11 +65,13 @@
     {
         "code": "DDAL09-04",
         "name": "Day of the Devil",
-        "description": "The streets of Baldur’s Gate run red with blood. Old blood. The blood of Hellriders. Someone or something is punishing the children for the sins of the father and it’s time to put it to an end. Who and where is Gharizol? Part Three of the *Betrayal is in the Blood* series of adventures.\n\n A Two-to-Four Hour Adventure for 1st through 4th Level Characters.",
+        "description": "The streets of Baldur’s Gate run red with blood. Old blood. The blood of Hellriders. Someone or something is punishing the children for the sins of the father and it’s time to put it to an end. Who and where is Gharizol? Part Three of the *Betrayal is in the Blood* series of adventures.",
+        "released": "2019-10-29",
+        "tier": [1],
         "items": [
             {
                 "name": "Periapt of Health",
-                "rarity": "uncommon",
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Healing",
@@ -88,7 +96,9 @@
     {
         "code": "DDAL09-05",
         "name": "Faces of Fortune",
-        "description": "Deep in hostile territory with the innocent girl Dara to protect, you will have to trust to the weapons of the enemy if you are to survive. Even with deceit as your shield and sabotage as your sword, luck is required to complete Dara’s holy mission. Thankfully Fai Chen knows to start your quest with the help of an old acquaintance… Mahadi, master of Mahadi’s Traveling Emporium. Part One of the *Behind Infernal Lines* series of adventures.\n\n A Four to Six-Hour Adventure for 5th through 10th Level Characters.",
+        "description": "Deep in hostile territory with the innocent girl Dara to protect, you will have to trust to the weapons of the enemy if you are to survive. Even with deceit as your shield and sabotage as your sword, luck is required to complete Dara’s holy mission. Thankfully Fai Chen knows to start your quest with the help of an old acquaintance… Mahadi, master of Mahadi’s Traveling Emporium. Part One of the *Behind Infernal Lines* series of adventures.",
+        "released": "2019-12-10",
+        "tier": [2],
         "items": [
             {
                 "name": "Gem of Seeing",
@@ -117,7 +127,9 @@
     {
         "code": "DDAL09-06",
         "name": "Infernal Insurgency",
-        "description": "Fai Chen reveals that a draft of the Hellriders’ original attack plan might still exist, and it won’t be easy to get it. If you can recover these, it would be extremely helpful in your quest to locate their remains and free their spirits. It might very well be a suicide mission, though when you’re in Avernus, what isn’t? Fortunately, the wily merchant has just the plan for a group of heroes unconcerned with the odds. Part Two of the *Behind Infernal Lines* series of adventures.\n\n A Four to Six-Hour Adventure for 5th through 10th Level Characters.",
+        "description": "Fai Chen reveals that a draft of the Hellriders’ original attack plan might still exist, and it won’t be easy to get it. If you can recover these, it would be extremely helpful in your quest to locate their remains and free their spirits. It might very well be a suicide mission, though when you’re in Avernus, what isn’t? Fortunately, the wily merchant has just the plan for a group of heroes unconcerned with the odds. Part Two of the *Behind Infernal Lines* series of adventures.",
+        "released": "2019-12-10",
+        "tier": [2],
         "items": [
             {
                 "name": "Arrow of Slaying (Tiefling)",
@@ -154,7 +166,9 @@
     {
         "code": "DDAL09-07",
         "name": "The Diabolical Dive",
-        "description": "You have located the plans and drawn the infernal forces away from them. All that remains now is to dive below the river Styx and infiltrate Plagueshield Point without getting wet, setting off any alarms, or being followed. Piece of devil’s food cake. Part Three of the *Behind Infernal Lines* series of adventures.\n\n A Four to Six-Hour Adventure for 5th through 10th Level Characters.",
+        "description": "You have located the plans and drawn the infernal forces away from them. All that remains now is to dive below the river Styx and infiltrate Plagueshield Point without getting wet, setting off any alarms, or being followed. Piece of devil’s food cake. Part Three of the *Behind Infernal Lines* series of adventures.",
+        "released": "2019-12-10",
+        "tier": [2],
         "items": [
             {
                 "name": "Bowl of Commanding Water Elementals",
@@ -187,7 +201,9 @@
     {
         "code": "DDAL09-08",
         "name": "In the Garden of Evil",
-        "description": "Long before it was a war-ravaged battlefield, Avernus was a den of temptation; a place to which ambitious, greedy, and covetous mortals were lured by the promise of power, wealth, and love. While the plane no longer serves this purpose, small pockets of terrible beauty remain. You have been sent in search of one such oasis to locate a fallen celestial. Will you be able to find it? More importantly, will the creature still be capable of service as an agent of good?\n\n A Four to Six-Hour Adventure for 5th through 10th Level Characters.",
+        "description": "Long before it was a war-ravaged battlefield, Avernus was a den of temptation; a place to which ambitious, greedy, and covetous mortals were lured by the promise of power, wealth, and love. While the plane no longer serves this purpose, small pockets of terrible beauty remain. You have been sent in search of one such oasis to locate a fallen celestial. Will you be able to find it? More importantly, will the creature still be capable of service as an agent of good?",
+        "released": "2020-01-07",
+        "tier": [2],
         "items": [
             {
                 "name": "Arrow-Catching Shield",
@@ -226,7 +242,9 @@
     {
         "code": "DDAL09-09",
         "name": "Ruined Prospects",
-        "description": "Elturel isn’t the only city to have been claimed by Avernus; scores of towns and villages, long forgotten, litter the eternal battlefields. In one such place, a fallen Hellrider remains in stasis, waiting for the right time to rise and battle evil once more. Has that time come at long last?\n\n A Four to Six-Hour Adventure for 5th through 10th Level Characters.",
+        "description": "Elturel isn’t the only city to have been claimed by Avernus; scores of towns and villages, long forgotten, litter the eternal battlefields. In one such place, a fallen Hellrider remains in stasis, waiting for the right time to rise and battle evil once more. Has that time come at long last?",
+        "released": "2020-01-07",
+        "tier": [2],
         "items": [
             {
                 "name": "Heward's Handy Haversack",
@@ -255,7 +273,9 @@
     {
         "code": "DDAL09-10",
         "name": "Tipping the Scales",
-        "description": "Wisdom is knowing when a battle fought is a battle lost. A dragon has engaged in a pitched battle for the soul of his consort for nearly a millennium, and it’s time for him to throw in the towel. Dara has asked that you venture into the Diremire Pit and convince him of this, as there are greater wars to be won!\n\n A Four to Six-Hour Adventure for 5th through 10th Level Characters.",
+        "description": "Wisdom is knowing when a battle fought is a battle lost. A dragon has engaged in a pitched battle for the soul of his consort for nearly a millennium, and it’s time for him to throw in the towel. Dara has asked that you venture into the Diremire Pit and convince him of this, as there are greater wars to be won!",
+        "released": "2020-01-07",
+        "tier": [2],
         "items": [
             {
                 "name": "Ring of Free Action",
@@ -290,31 +310,41 @@
     {
         "code": "DDAL09-11",
         "name": "Losing Fai",
-        "description": "",
+        "description": "Fai Chen has gone missing from Mahadi’s Traveling Emporium, and Fai Chen asks you to rescue him. You’ll have to do it without angering the master of the Emporium whose protection is crucial to your sacred mission. But in the Nine Hells, how much can you really trust someone you call friend?",
+        "released": "2020-02-04",
+        "tier": [2],
         "incomplete": true
     },
     {
         "code": "DDAL09-12",
         "name": "The Breath of Life",
-        "description": "",
+        "description": "An archdevil has invited you to a ball, and though it’s likely a trap, it’d be rude to decline. Dara, however, is keen on attending, since this fiend’s most treasured possession is the bejeweled skull of a dead angel. Dara believes that the artifact holds the secret to accessing a long-dormant reliquary. Ready to crash a party? Part One of the *Call for Aid* series of adventures.",
+        "released": "2020-03-10",
+        "tier": [3],
         "incomplete": true
     },
     {
         "code": "DDAL09-13",
         "name": "The Swarmed Heart",
-        "description": "",
+        "description": "Bees! The peace of Mahadi’s emporium is shattered as a swarm of hellwasps has descended upon it! Since this is odd behavior for hellwasps, Dara senses a higher power at work and asks you to discover the truth about the creatures’ attacks. Are you up to the task, or will you just end up getting stung? Part Two of the *Call for Aid* series of adventures.",
+        "released": "2020-03-10",
+        "tier": [3],
         "incomplete": true
     },
     {
         "code": "DDAL09-14",
         "name": "The Vast Emptiness of Grace",
-        "description": "",
+        "description": "The divine spark has been returned to Verwyyr and Raskamedies and the time has come to return to the Material plane in search of an ancient artifact once belonging to Ilmater himself. Beneath the holy city of Elturel lay a reliquary—the Dolorous Adytum. What secrets lie in the dark parts of the world? It’s time to find out. Part Three of the *Call for Aid* series of adventures.",
+        "released": "2020-03-10",
+        "tier": [3],
         "incomplete": true
     },
     {
         "code": "DDAL09-15",
         "name": "Maddening Screams",
-        "description": "The final resting place of the Hellrider company known as the Bloody Hooves has been found. Unfortunately, the Canyon of Screams is well beyond the reach of safe haven, so you must protect Dara behind enemy lines with no one to count on but yourselves. Her holy mission, and your very souls, are at stake. Part One of the *Doors and Corners* series of adventures.\n\n A Four to Six-Hour Adventure for 11th through 16th Level Characters.",
+        "description": "The final resting place of the Hellrider company known as the Bloody Hooves has been found. Unfortunately, the Canyon of Screams is well beyond the reach of safe haven, so you must protect Dara behind enemy lines with no one to count on but yourselves. Her holy mission, and your very souls, are at stake. Part One of the *Doors and Corners* series of adventures.",
+        "released": "2020-04-28",
+        "tier": [3],
         "items": [
             {
                 "name": "Helm of Telepathy",
@@ -335,7 +365,9 @@
     {
         "code": "DDAL09-16",
         "name": "Honors Unforseen",
-        "description": "Accompanying the Chosen of Ilmater and baring the newly discovered Ward of Faithfulness, you proceed further into the tomb of the Bloody Hooves. Time is running short. Zariel’s forces hunt for you even now. Part Two of the *Doors and Corners* series of adventures.\n\n A Four to Six-Hour Adventure for 11th through 16th Level Characters.",
+        "description": "Accompanying the Chosen of Ilmater and baring the newly discovered Ward of Faithfulness, you proceed further into the tomb of the Bloody Hooves. Time is running short. Zariel’s forces hunt for you even now. Part Two of the *Doors and Corners* series of adventures.",
+        "released": "2020-04-28",
+        "tier": [3],
         "items": [
             {
                 "name": "Fochlucan Bandore (Instrument of the Bards)",
@@ -368,7 +400,9 @@
     {
         "code": "DDAL09-17",
         "name": "In the Hand",
-        "description": "Your quest to return the Bloody Hooves is nearly at an end. Only the company’s commander remains and then you’ll be ready to ride to the rescue of fallen Elturel!\n\n Part Three of the *Doors and Corners* series of adventures.\n\n A Four to Six-Hour Adventure for 11th through 16th Level Characters.",
+        "description": "Your quest to return the Bloody Hooves is nearly at an end. Only the company’s commander remains and then you’ll be ready to ride to the rescue of fallen Elturel! Part Three of the *Doors and Corners* series of adventures.",
+        "released": "2020-04-28",
+        "tier": [3],
         "items": [
             {
                 "name": "Bag of Holding",
@@ -411,9 +445,35 @@
         ]
     },
     {
+        "code": "DDAL09-18",
+        "name": "Consequences of Choice",
+        "description": "The soul of the commander of the Bloody Hooves has been spirited away by Zariel’s lieutenant, General Everbleed. The Bloody Hooves are in disarray and will not be the fighting force Dara had hoped without the iron will of their commander to direct them. To find them amidst the battlefields of Avernus, you are going to need help. Hopefully you have made some friends in the Nine Hells…",
+        "released": "2020-07-21",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "DDAL09-19",
+        "name": "Fang and Claw",
+        "description": "Zariel’s Lieutenant General Everbleed has fled with Commander De La Reue’s soul, only to be captured by Yeenoghu’s brood preparing to rampage! Dara implores you to recover the commander, though his soul has been taken to a most unusual place. Part One of the *Red Hunt* series of adventures.",
+        "released": "2020-07-21",
+        "tier": [4],
+        "incomplete": true
+    },
+    {
+        "code": "DDAL09-20",
+        "name": "Where Devils Fear to Tread",
+        "description": "The Commander’s soul has been cast through the portal into the Death Dells. You must follow into the lair of Yeenoghu and rescue the Commander before the Beast of Butchery devours him! Part Two of the *Red Hunt* series of adventures.",
+        "released": "2020-07-21",
+        "tier": [4],
+        "incomplete": true
+    },
+    {
         "code": "DDEP09-01",
         "name": "Infernal Pursuits",
-        "description": "A horse race in Baldur’s Gate becomes a hellish battle on infernal war machines in Avernus when the characters get caught between two evil merchants…and must hang on for dear life.\n\nA four-hour D&D Epic™ adventure for Tier 1 and 2 characters.",
+        "description": "A horse race in Baldur’s Gate becomes a hellish battle on infernal war machines in Avernus when the characters get caught between two evil merchants…and must hang on for dear life.",
+        "released": "2019-05-18",
+        "tier": [1],
         "items": [
             {
                 "name": "Helm of Telepathy",
@@ -448,7 +508,9 @@
     {
         "code": "DDEP09-02",
         "name": "Hellfire Requiem",
-        "description": "A Four-Hour Adventure for Tier 1 and 2 Characters.",
+        "description": "Visitors from far and wide gather at Torm’s Hand to honor a fallen hero. Yet, the somber day turns to chaos when a hell-spawned maw erupts over the area, bringing an army of devils with it. Only true courage and sharp minds can banish the dark forces that seek to claim the souls of all within the holy temple. Are you ready to lead the charge?",
+        "released": "2019-11-01",
+        "tier": [1, 2],
         "items": [
             {
                 "name": "Hellrider's Badge",
@@ -537,7 +599,9 @@
     {
         "code": "DDEP09-03",
         "name": "Liar's Night",
-        "description": "",
+        "description": "On this holy day (tribute to Leira and Mask), folk of all walks of life don masks and costumes to disguise themselves and play at being other than what they are. Festivities begin in the evening, when candles are placed in hollowed-out pumpkins carved with faces. Tricks and pranks of all kinds are common on this night, and pickpockets are rife on this day, so few carry much coin with them, having secreted it away somewhere the previous evening. Instead, people fill their pockets and belt pouches with candies. Come celebrate with us on the darkened streets of Baldur’s Gate.",
+        "released": "2019-11-01",
+        "tier": [1, 2],
         "incomplete": true
     },
 ]

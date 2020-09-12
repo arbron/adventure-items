@@ -108,13 +108,24 @@ extension Publish.Item where Site == AdventureItemsSite {
             .section(
                 .h1(.text(adventure.name)),
                 .h3(
-                    .text(adventure.code),
-                    ", ",
                     .text(adventure.source.stringValue),
                     " ",
                     .if(adventure.source != .conventionCreatedContent,
                         .if(!adventure.isEpic, .text("Adventure"), else: .text("Epic"))
-                    )
+                    ),
+                    .unwrap(adventure.tier) { tiers in
+                        .if(tiers.count == 4,
+                            .text(" for All Tiers"),
+                            else: .unwrap(ListFormatter().string(from: tiers.map(\.rawValue))) {
+                                .group(
+                                    " for Tier",
+                                    .if(tiers.count > 1, "s"),
+                                    " ",
+                                    .text($0)
+                                )
+                            }
+                        )
+                    }
                 ),
                 .if(!adventure.description.isEmpty, .raw("\(parser.html(from: adventure.description))")),
                 .if(!adventure.items.isEmpty, .group([

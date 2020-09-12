@@ -2,7 +2,9 @@
     {
         "code": "DDAL06-01",
         "name": "A Thousand Tiny Deaths",
-        "description": "The promises of glory and the chance of riches draws you to Blasingdell, a small village near the infamous Stone Tooth. Within the rocky mountain lay the dwarven stronghold Khundrukar and the fabled Forge of Fury, to which a chance encounter provides you with the location of a hither-to unknown entrance. Are you brave enough to explore this mystery? Will it lead you to wealth or to your doom?\n\n A Two-Hour Adventure for 1st–4th Level Characters.",
+        "description": "The promises of glory and the chance of riches draws you to Blasingdell, a small village near the infamous Stone Tooth. Within the rocky mountain lay the dwarven stronghold Khundrukar and the fabled Forge of Fury, to which a chance encounter provides you with the location of a hither-to unknown entrance. Are you brave enough to explore this mystery? Will it lead you to wealth or to your doom?",
+        "released": "2017-05-02",
+        "tier": [1],
         "items": [
             {
                 "name": "Cloak of Protection",
@@ -31,7 +33,9 @@
     {
         "code": "DDAL06-02",
         "name": "The Redemption of Kelvan",
-        "description": "A strange, foreign wizard calling himself Kelvan has appeared at the same time a mountain materializes out of thin air. He asks you to recover the Gloomblade from a Netherese ruin in order to help him with his research into this strange new mountain.\n\n A Two-Hour Adventure for 5th–10th Level Characters.",
+        "description": "A strange, foreign wizard calling himself Kelvan has appeared at the same time a mountain materializes out of thin air. He asks you to recover the Gloomblade from a Netherese ruin in order to help him with his research into this strange new mountain.",
+        "released": "2017-06-06",
+        "tier": [2],
         "items": [
             {
                 "name": "Boots of Speed",
@@ -72,7 +76,9 @@
     {
         "code": "DDAL06-03",
         "name": "Crypt of the Death Giants",
-        "description": "A magical storm builds over the Anauroch desert bringing portents of death and destruction to Faerûn. Giants imbued with the power of death itself threaten to permanently destroy the giant Ordning and small folk in their wake. Can you stop these unnatural giants and those that seek to control them?\n\n A 2 Hour Adventure for 17th–20th Level Characters.",
+        "description": "A magical storm builds over the Anauroch desert bringing portents of death and destruction to Faerûn. Giants imbued with the power of death itself threaten to permanently destroy the giant Ordning and small folk in their wake. Can you stop these unnatural giants and those that seek to control them?",
+        "released": "2017-07-04",
+        "tier": [4],
         "items": [
             {
                 "name": "Bealt of Giant Strength (Storm)",
@@ -129,7 +135,9 @@
     {
         "code": "DDEP06-01",
         "name": "Relics of Khundrukar",
-        "description": "Khundrukar held many fine implements of war in its heyday, many of them now lost to time. Clues point to some of long dead Master Smith Durgeddin’s handiwork in the service of sinister forces that bid their time deep in the Underdark. Reclaim the riches of Khundrukar from the darkness if you dare.\n\n A Four-Hour Epic Adventure for 1st–4th and 5th–10th Level Characters.",
+        "description": "Khundrukar held many fine implements of war in its heyday, many of them now lost to time. Clues point to some of long dead Master Smith Durgeddin’s handiwork in the service of sinister forces that bid their time deep in the Underdark. Reclaim the riches of Khundrukar from the darkness if you dare.",
+        "released": "2017-05-02",
+        "tier": [1, 2],
         "items": [
             {
                 "name": "Durgeddin’s Fist (Mace of Terror)",
@@ -210,7 +218,9 @@
     {
         "code": "DDEP06-02",
         "name": "Return to White Plume Mountain",
-        "description": "New information has tarnished the reputation of the wizard Kelvan. Can he really be complicit in the kidnapping of a high priestess and the disappearance of others in the area around White Plume Mountain? Or is he simply the pawn of a much greater power?\n\n A 4-Hour Epic Adventure for 5th–16th Level Characters.",
+        "description": "New information has tarnished the reputation of the wizard Kelvan. Can he really be complicit in the kidnapping of a high priestess and the disappearance of others in the area around White Plume Mountain? Or is he simply the pawn of a much greater power?",
+        "released": "2017-06-06",
+        "tier": [2, 3],
         "items": [
             {
                 "name": "Cube of Force",
@@ -301,7 +311,9 @@
     {
         "code": "DDEP06-03",
         "name": "Hecatomb",
-        "description": "Far below the reach of the sun, dark forces seek to bring a terrible darkness into Faerun. A great and awful host of drow, giants, and worse await your arrival. When even the dead tremble, what hope can you find?\n\n A 4-Hour Epic Adventure for 11th–16th Level and 17th–20th Level Characters.",
+        "description": "Far below the reach of the sun, dark forces seek to bring a terrible darkness into Faerun. A great and awful host of drow, giants, and worse await your arrival. When even the dead tremble, what hope can you find?",
+        "released": "2017-07-04",
+        "tier": [3, 4],
         "items": [
             {
                 "name": "Amulet of the Planes",

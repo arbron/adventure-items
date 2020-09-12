@@ -2,8 +2,9 @@
     {
         "code": "DDEP01",
         "name": "Corruption in Kryptgarden",
-        "description": "Kryptgarden Forest has long been a place feared by travelers. Now, the Cult of the Dragon has used that fear to its advantage, securing a stronghold deep in the forest. The Harpers, Order of the Gauntlet, Emerald Enclave, Lords’ Alliance, and the Zhentarim are recruiting groups of adventurers to infiltrate the forest to find out the cult’s purpose. Join hundreds of others in this interactive play experience.\n\n A special adventure for 1st–4th level characters.",
+        "description": "Kryptgarden Forest has long been a place feared by travelers. Now, the Cult of the Dragon has used that fear to its advantage, securing a stronghold deep in the forest. The Harpers, Order of the Gauntlet, Emerald Enclave, Lords’ Alliance, and the Zhentarim are recruiting groups of adventurers to infiltrate the forest to find out the cult’s purpose. Join hundreds of others in this interactive play experience.",
         "released": "2014-08-16",
+        "tier": [1],
         "items": [
             {
                 "name": "Amulet of Health",
@@ -45,8 +46,9 @@
     {
         "code": "DDEX01-01",
         "name": "Defiance in Phlan",
-        "description": "The Cult of the Dragon has come to Phlan, a lawless refuge on the Moonsea. Now, with no significant authority to stop the cult, other power groups in the Realms—the Harpers, Order of the Gauntlet, Emerald Enclave, Lords’ Alliance, and even the Zhentarim—must unite to stop the cult from fulfilling its dark purpose in the city. Join the fight by participating in any one of five different missions aimed at stopping the cult.\n\n An introductory adventure for 1st-level characters.",
+        "description": "The Cult of the Dragon has come to Phlan, a lawless refuge on the Moonsea. Now, with no significant authority to stop the cult, other power groups in the Realms—the Harpers, Order of the Gauntlet, Emerald Enclave, Lords’ Alliance, and even the Zhentarim—must unite to stop the cult from fulfilling its dark purpose in the city. Join the fight by participating in any one of five different missions aimed at stopping the cult.",
         "released": "2014-09-01",
+        "tier": [1],
         "items": [
             {
                 "name": "Enchanted Blue Dragon's Tooth",
@@ -81,8 +83,9 @@
     {
         "code": "DDEX01-02",
         "name": "Secrets of Sokol Keep",
-        "description": "Decades have passed since Sokol Keep was reclaimed, and a small garrison placed there along with a beacon to help guide ships. Now, that beacon has gone dark, and the garrison has disappeared. In Phlan, rumors circulate that something ancient was discovered in the grounds beneath the keep, dating to before the clerics of Tyr built the small fortress. Uncover the secrets of Sokol Keep!\n\n An adventure for 1st–4th level characters.",
+        "description": "Decades have passed since Sokol Keep was reclaimed, and a small garrison placed there along with a beacon to help guide ships. Now, that beacon has gone dark, and the garrison has disappeared. In Phlan, rumors circulate that something ancient was discovered in the grounds beneath the keep, dating to before the clerics of Tyr built the small fortress. Uncover the secrets of Sokol Keep!",
         "released": "2014-09-01",
+        "tier": [1],
         "items": [
             {
                 "name": "Moonsea Cults (Book)",
@@ -113,8 +116,9 @@
     {
         "code": "DDEX01-03",
         "name": "Shadows over the Moonsea",
-        "description": "Life on the Moonsea isn’t easy. Bandits, pirates, and cruel lords dominate the land, threatening those who make an honest living there. Now, a new scourge is prowling the waters: A ghost ship has been striking small coastal villages, leaving its victims whispering about the “eye of the dracolich.” Join the adventure and learn the truth behind this threat!\n\n An adventure for 1st–4th level characters.",
+        "description": "Life on the Moonsea isn’t easy. Bandits, pirates, and cruel lords dominate the land, threatening those who make an honest living there. Now, a new scourge is prowling the waters: A ghost ship has been striking small coastal villages, leaving its victims whispering about the “eye of the dracolich.” Join the adventure and learn the truth behind this threat!",
         "released": "2014-09-01",
+        "tier": [1],
         "items": [
             {
                 "name": "Ring of Evasion",
@@ -131,8 +135,9 @@
     {
         "code": "DDEX01-04",
         "name": "Dues for the Dead",
-        "description": "For years, the Most Solemn Order of the Silent Shroud has tended the dead at Valinghen graveyard, p g them a peaceful eternal rest. Now, that rest has been disturbed by a necromancer seeking out a key to re-activate the Pool of Radiance.\n\n An adventure for 1st–4th level characters.",
+        "description": "For years, the Most Solemn Order of the Silent Shroud has tended the dead at Valinghen graveyard, p g them a peaceful eternal rest. Now, that rest has been disturbed by a necromancer seeking out a key to re-activate the Pool of Radiance.",
         "released": "2014-10-01",
+        "tier": [1],
         "items": [
             {
                 "name": "Goggles of Night",
@@ -158,8 +163,9 @@
     {
         "code": "DDEX01-05",
         "name": "The Courting of Fire",
-        "description": "An exiled cultist and his kobold minions are spotted searching long-forgotten ruins in the Dragonspire Mountains. Rumors say he looks for a precious gift to give to a fearsome dragon that dwells there. What he hopes to attain with his gift is unknown, but can't be good for the citizens of Phlan.\n\n An adventure for 1st–4th level characters.",
+        "description": "An exiled cultist and his kobold minions are spotted searching long-forgotten ruins in the Dragonspire Mountains. Rumors say he looks for a precious gift to give to a fearsome dragon that dwells there. What he hopes to attain with his gift is unknown, but can't be good for the citizens of Phlan.",
         "released": "2014-10-01",
+        "tier": [1],
         "items": [
             {
                 "name": "Ring of Resistance (Fire)",
@@ -178,8 +184,9 @@
     {
         "code": "DDEX01-06",
         "name": "The Scroll Thief",
-        "description": "Scholars Square is a relatively quiet corner of Phlan, but a series of odd thefts have the headmasters of various schools in the area concerned. The headmasters’ pleas for help have gone unanswered by the Black Fist, and the Lord Sage of Phlan decides to reach out to you and your kind to bring those responsible to justice.\n\n An adventure for 1st–4th level characters.",
+        "description": "Scholars Square is a relatively quiet corner of Phlan, but a series of odd thefts have the headmasters of various schools in the area concerned. The headmasters’ pleas for help have gone unanswered by the Black Fist, and the Lord Sage of Phlan decides to reach out to you and your kind to bring those responsible to justice.",
         "released": "2014-10-01",
+        "tier": [1],
         "items": [
             {
                 "name": "Headband of Intellect",
@@ -220,8 +227,9 @@
     {
         "code": "DDEX01-07",
         "name": "Drums in the Marsh",
-        "description": "For the past several nights, drums have been heard on the wind, coming from the Twilight Marsh. Each morning, more turn up missing from the nearby farms, leaving only muddy, clawed footprints heading towards the marsh. Can you help the find the lost and bring justice to the abductors?\n\n An adventure for 1st–4th level characters.",
+        "description": "For the past several nights, drums have been heard on the wind, coming from the Twilight Marsh. Each morning, more turn up missing from the nearby farms, leaving only muddy, clawed footprints heading towards the marsh. Can you help the find the lost and bring justice to the abductors?",
         "released": "2014-11-01",
+        "tier": [1],
         "items": [
             {
                 "name": "Keoghtom's Ointment",
@@ -240,8 +248,9 @@
     {
       "code": "DDEX01-08",
       "name": "Tales Trees Tell",
-      "description": "Despite the shaky alliance that exists with the elves of the Quivering Forest, they do not suffer trespas their realm lightly, especially from common folk from nearby Phlan. A woodworker’s recent blunder into the forest might set off a diplomatic incident. Can you help find him and mollify the aggravated elves?\n\n An adventure for 1st–4th level characters.",
+      "description": "Despite the shaky alliance that exists with the elves of the Quivering Forest, they do not suffer trespas their realm lightly, especially from common folk from nearby Phlan. A woodworker’s recent blunder into the forest might set off a diplomatic incident. Can you help find him and mollify the aggravated elves?",
       "released": "2014-11-01",
+      "tier": [1],
       "items": [
         {
           "name": "Cloak of Elvenkind",
@@ -258,8 +267,9 @@
     {
         "code": "DDEX01-09",
         "name": "Outlaws of the Iron Route",
-        "description": "The Iron Route, an important trade road east of Phlan, is beset by competing bandits. An exiled Black Fist officer leads his band of mercenaries turned cloaked ruffians, while a mysterious dragonborn sorcerer commands screaming savages from the north. In this war over the trade route, the beleaguered merchants are the victims, and Phlan suffers from a lack of supplies. It’s up to adventurers to strike out and reopen this vital route.\n\n An adventure for 1st–4th level characters.",
+        "description": "The Iron Route, an important trade road east of Phlan, is beset by competing bandits. An exiled Black Fist officer leads his band of mercenaries turned cloaked ruffians, while a mysterious dragonborn sorcerer commands screaming savages from the north. In this war over the trade route, the beleaguered merchants are the victims, and Phlan suffers from a lack of supplies. It’s up to adventurers to strike out and reopen this vital route.",
         "released": "2014-12-01",
+        "tier": [1],
         "items": [
             {
                 "name": "Longbow, +1",
@@ -270,8 +280,9 @@
     {
         "code": "DDEX01-10",
         "name": "Tyranny in Phlan",
-        "description": "The Maimed Virulence has come. The future of the Cinnabar Throne and the lives of the denizens of Phlan are in jeopardy. The Cult of the Dragon rejoices, and the Black Fist is powerless to stop them. How will the factions of the city respond to this threat? Can Phlan be saved this time? Part One of *Under Emerald Claws*.\n\n An adventure for 5th–10th level characters.",
+        "description": "The Maimed Virulence has come. The future of the Cinnabar Throne and the lives of the denizens of Phlan are in jeopardy. The Cult of the Dragon rejoices, and the Black Fist is powerless to stop them. How will the factions of the city respond to this threat? Can Phlan be saved this time? Part One of *Under Emerald Claws*.",
         "released": "2014-12-01",
+        "tier": [2],
         "items": [
             {
                 "name": "Ioun Stone of Protection",
@@ -319,8 +330,9 @@
     {
         "code": "DDEX01-11",
         "name": "Dark Pyramid of Sorcerer's Isle",
-        "description": "Long unoccupied, the pyramid on Sorcerer’s Isle now flows with strange magical energy, warping creatures and the landscape around it. The Cult of the Dragon and Red Wizards of Thay have taken notice, and it’s up to you to keep whatever power dwells there out of their hands.\n\n An adventure for 5th–10th level characters.",
+        "description": "Long unoccupied, the pyramid on Sorcerer’s Isle now flows with strange magical energy, warping creatures and the landscape around it. The Cult of the Dragon and Red Wizards of Thay have taken notice, and it’s up to you to keep whatever power dwells there out of their hands.",
         "released": "2015-03-01",
+        "tier": [2],
         "items": [
             {
                 "name": "Horn of Blasting",
@@ -394,8 +406,9 @@
     {
         "code": "DDEX01-12",
         "name": "Raider of the Twilight Marsh",
-        "description": "A black dragon’s treasure horde has been located in the Twilight Marsh, and within it are secrets that hold interest to the factions. With the dragon marauding over the countryside, the horde is left unguarded. Now is the time to plunder its lair!\n\n An adventure for 5th–10th level characters.",
+        "description": "A black dragon’s treasure horde has been located in the Twilight Marsh, and within it are secrets that hold interest to the factions. With the dragon marauding over the countryside, the horde is left unguarded. Now is the time to plunder its lair!",
         "released": "2015-03-01",
+        "tier": [2],
         "items": [
             {
                 "name": "Splint Armor, +1",
@@ -483,7 +496,8 @@
     {
         "code": "DDEX01-13",
         "name": "Pool of Radiance Resurgent",
-        "description": "Vorgansharax rules Phlan, using the Cult of the Dragon to extend his noxious gaze. But the green dragon seeks far more than control of the beleaguered town—ultimate power is nearly within reach. Will he reactivate the Pool of Radiance and ascend to greater prominence amongst his kind? A sequel to DDEX1-10 *Tyranny in Phlan* and Part Two of *Under Emerald Claws*.\n\n An adventure for 5th–10th level characters.",
+        "description": "Vorgansharax rules Phlan, using the Cult of the Dragon to extend his noxious gaze. But the green dragon seeks far more than control of the beleaguered town—ultimate power is nearly within reach. Will he reactivate the Pool of Radiance and ascend to greater prominence amongst his kind? A sequel to DDEX1-10 *Tyranny in Phlan* and Part Two of *Under Emerald Claws*.",
+        "tier": [2],
         "items": [
             {
                 "name": "Mantle of Spell Resistance",
@@ -535,8 +549,9 @@
     {
         "code": "DDEX01-14",
         "name": "Escape from Phlan",
-        "description": "Three important citizens of Phlan, who stand against the tyrannical dragon that rules, seek to escape and find refuge across the Moonsea. Can you extricate those that are vital to the factions before it’s too late?\n\n An adventure for 5th–10th level characters.",
+        "description": "Three important citizens of Phlan, who stand against the tyrannical dragon that rules, seek to escape and find refuge across the Moonsea. Can you extricate those that are vital to the factions before it’s too late?",
         "released": "2015-03-01",
+        "tier": [2],
         "items": [
             {
                 "name": "Robe of Eyes",

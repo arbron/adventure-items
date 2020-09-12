@@ -3,6 +3,7 @@
         "code": "DDAL-DRW01",
         "name": "Breaking Umberlee's Resolve",
         "description": "The search for a missing young woman kicks off a treacherous journey on the *Sea of Fallen Stars*.\n\n A Four to Six-Hour Adventure for Tier 2 Characters.",
+        "tier": [2],
         "items": [
             {
                 "name": "Iron Bands of Bilarro",
@@ -20,6 +21,7 @@
         "code": "DDAL-DRW02",
         "name": "Blood in the Water",
         "description": "An exploration to the underwater city of Myth Nantar leads to a conspiracy, a mystery, and a heist.\n\n A Four-to-Six Hour Adventure for Tier 2 Characters.",
+        "tier": [2],
         "items": [
             {
                 "name": "Bowl of Commanding Water Elementals",
@@ -37,6 +39,7 @@
         "code": "DDAL-DRW03",
         "name": "Saving Silverbeard",
         "description": "Powerful elements collide in the wake of the attack on Myth Nantar. The conclusion to the haunting sea-faring tale on the *Sea of Fallen Stars*.\n\n A Four-to-Six Hour Adventure for Tier 3 Characters.",
+        "tier": [3],
         "items": [
             {
                 "name": "Helm of Brilliance",
@@ -54,6 +57,7 @@
         "code": "DDEP-DRW01",
         "name": "Assault on Myth Nantar",
         "description": "Thay has set it sights on taking the underwater city of Myth Nantar. Can you stop a full-on invasion by its undead armada, or will the elves be looking for a new home?\n\n A four-hour D&D Epic™ adventure for Tier 2 and 3 characters.",
+        "tier": [2, 3],
         "items": [
             {
                 "name": "Gloves of Swimming and Climbing",

@@ -63,6 +63,7 @@
         "code": "CCC-ANIME01-01",
         "name": "Legend of the Sword Bandit Surprise",
         "description": "A priest of Ilmater seeks to right an old wrong to please his god. Will you trust the whims of hags and journey through time to find out what when wrong during the Festival of Stars?\n\n A Two-Hour Adventure for 1st–4th level characters.",
+        "tier": [1],
         "items": [
             {
                 "name": "Shortbow, +1",
@@ -86,6 +87,7 @@
         "code": "CCC-ANIME01-02",
         "name": "Let's Find the Sword, GO!",
         "description": "After learning that Daern’s Blade, a relic that had protected the town of Hawksroost, vanished centuries ago, Sorrim requires assistance in locating it. An old halfling adventurer has learned rumors of the blade hidden within the Vanishing Hills. These same rumors also say that it may be guarded by something ancient. With the Festival of the Stars only a few days out, can the blade be found and returned in time?\n\n A Two-Hour Adventure for 5th–10th level characters.",
+        "tier": [2],
         "items": [
             {
                 "name": "Yata Mirror (Shield, +2)",
@@ -115,6 +117,7 @@
         "code": "CCC-ANIME01-03",
         "name": "Star Sword, Return!",
         "description": "With less than two days until the Festival of Stars in Hawksroost, Daern's Blade is still missing, but the adventurers are en route to its resting place. Are they truly prepared for what they find?\n\n A Two-Hour Adventure for 5th–10th Level Characters.",
+        "tier": [2],
         "items": [
             {
                 "name": "Orb of the Stein Rune",
@@ -906,6 +909,7 @@
         "code": "CCC-GSP01-01",
         "name": "A Dragon's Breath",
         "description": "Ragvala, also known as the \"Coinmaker\", is an ancient gold dragon who wishes to mend his broken friendship with his old adventuring buddy. Recently, he has heard rumors that his friend’s old magical instrument has resurfaced in the Quivering Forest. Unable to change shape anymore, the dragon needs the help of skilled adventurers who can join him on his quest.",
+        "tier": [1],
         "items": [
             {
                 "name": "Dragon's Lullaby (Instrument of the Bards - Mac-Fuirmidh cittern)",
@@ -929,6 +933,7 @@
         "code": "CCC-GSP01-02",
         "name": "Brotherhood",
         "description": "Ragvala, an ancient gold dragon and the founder of the Five-Leaf Clover is dead. A funeral ceremony will be held in 3 days before he becomes one with the earth. Rokstasha, his friend and a djinni has asked the help of the adventurers to find the other members of the Five-Leaf Clover if they are still alive and have them attend the ceremony. Don’t be late! Part 2 of the *Clover Group Series*.",
+        "tier": [1],
         "items": [
             {
                 "name": "Pipe of Smoke Monsters",
@@ -951,6 +956,7 @@
         "code": "CCC-GSP01-03",
         "name": "Tainted Love",
         "description": "Rizgrim, the Great Doomguide of Kelemvor has discovered that the land within the Quivering Forest near the burial site of her friend is slowly being consumed by dark magic. The adventurers have been asked to find the source and eliminate it as soon as possible. Failing on this task could turn her dead friend into a dracolich. Nobody wants that! Right?! Part 3 of the *Clover Group Series*.",
+        "tier": [1],
         "items": [
             {
                 "name": "Cloak of Many Fashions",
@@ -1152,6 +1158,7 @@
         "code": "CCC-NBDD01-01",
         "name": "Clever",
         "description": "A strange new crime family has been growing and tightening its grips on local businesses. Any who refuse their offers are found dead shortly after, torn apart by claws and teeth. Who is behind this wave of organized crime?\n\n A Two-Hour Adventure for Tier 2 Characters.",
+        "tier": [2],
         "items": [
             {
                 "name": "Portable Hole",
@@ -1192,6 +1199,7 @@
         "code": "CCC-NBDD01-02",
         "name": "Where Can She Be?",
         "description": "A master criminal has been making her way across the Moonsea, stealing priceless treasures at every stop. It's up to you to trace her steps, find her allies, and stop her before she can claim her final prize.\n\n A Two to Four-Hour Adventure for Tier 2 Characters.",
+        "tier": [2],
         "items": [
             {
                 "name": "Clockwork Amulet",

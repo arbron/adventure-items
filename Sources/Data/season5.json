@@ -2,7 +2,9 @@
     {
         "code": "DDAL05-01",
         "name": "Treasure of the Broken Hoard",
-        "description": "A famous relic hunter seeks adventurers to help her find caches of treasure hidden by the now-defeated followers of the Cult of the Dragon. Her maps and notes may lead the way to great wealth—or a terrible death. And do other parties have designs on the treasure as well?\n\n Five 1-Hour Mini-Adventures for 1st & 2nd Level Characters.",
+        "description": "A famous relic hunter seeks adventurers to help her find caches of treasure hidden by the now-defeated followers of the Cult of the Dragon. Her maps and notes may lead the way to great wealth—or a terrible death. And do other parties have designs on the treasure as well?",
+        "released": "2016-09-06",
+        "tier": [1],
         "items": [
             {
                 "name": "Alchemist's fire (flask)",
@@ -55,7 +57,9 @@
     {
         "code": "DDAL05-02",
         "name": "The Black Road",
-        "description": "Caravans are having a difficult time getting through to Parnast via the Black Road. Organized attacks by orcs and other monstrous humanoids working in concert with one another have folks baffled. Little do they know that an unusually intelligent hill giant, going by the name of Bad Fruul is to blame. SEER has sent her emissary Hsing, to task your group to accompany a caravan with a very special cargo destined for the Shrine of Axes in Parnast, and to figure out who is responsible.\n\n A Two Hour Adventure for 1st–4th Level Characters",
+        "description": "Caravans are having a difficult time getting through to Parnast via the Black Road. Organized attacks by orcs and other monstrous humanoids working in concert with one another have folks baffled. Little do they know that an unusually intelligent hill giant, going by the name of Bad Fruul is to blame. SEER has sent her emissary Hsing, to task your group to accompany a caravan with a very special cargo destined for the Shrine of Axes in Parnast, and to figure out who is responsible.",
+        "released": "2016-10-04",
+        "tier": [1],
         "items": [
             {
                 "name": "Bracers of Archery",
@@ -73,7 +77,9 @@
     {
         "code": "DDAL05-03",
         "name": "Uninvited Guests",
-        "description": "The Shrine of the Axes has been restored and Raggnar Redtooth, who previously conspired with dragon cultists, is trying to restore his reputation in Parnast by sponsoring a feast. There is just one thing he needs, meat for his feast. Game is supposed to be plentiful in the Weathercote Wood, but the townsfolk are all busy with their own work, and the minions of Bad Fruul are still out there causing trouble. What can go wrong on a simple hunt?\n\n A Two-Hour Adventure for 1st–4th Level Characters.",
+        "description": "The Shrine of the Axes has been restored and Raggnar Redtooth, who previously conspired with dragon cultists, is trying to restore his reputation in Parnast by sponsoring a feast. There is just one thing he needs, meat for his feast. Game is supposed to be plentiful in the Weathercote Wood, but the townsfolk are all busy with their own work, and the minions of Bad Fruul are still out there causing trouble. What can go wrong on a simple hunt?",
+        "released": "2016-10-04",
+        "tier": [1],
         "items": [
             {
                 "name": "Brooch of Shielding",
@@ -105,7 +111,9 @@
     {
         "code": "DDAL05-04",
         "name": "In Dire Need",
-        "description": "An expedition of dwarf warriors from Citadel Adbar finds itself isolated and besieged by Ice Spire ogres and their allies. They require immediate relief or they risk being destroyed to a dwarf. SEER has directed you to their location in the hopes that you can rescue the dwarves and save their precious cargo, a tablet bearing secrets of ancient rune magic.\n\n A Two-Hour Adventure for 5th–10th Level Characters.",
+        "description": "An expedition of dwarf warriors from Citadel Adbar finds itself isolated and besieged by Ice Spire ogres and their allies. They require immediate relief or they risk being destroyed to a dwarf. SEER has directed you to their location in the hopes that you can rescue the dwarves and save their precious cargo, a tablet bearing secrets of ancient rune magic.",
+        "released": "2016-11-01",
+        "tier": [2],
         "items": [
             {
                 "name": "Mithral Splint Armor, +1",
@@ -143,7 +151,9 @@
     {
         "code": "DDAL05-05",
         "name": "A Dish Best Served Cold",
-        "description": "Stagwick’s long-standing peace with giant-kind is threatened as a patrol of Blood Riders spark a feud with a local tribe of giants. With word of strange activity coming from the Ice Spires, Good King Hartwick can’t be too careful. Can you quench the giants’ thirst for revenge?\n\n A Two-Hour Adventure for 5th–10th Level Characters.",
+        "description": "Stagwick’s long-standing peace with giant-kind is threatened as a patrol of Blood Riders spark a feud with a local tribe of giants. With word of strange activity coming from the Ice Spires, Good King Hartwick can’t be too careful. Can you quench the giants’ thirst for revenge?",
+        "released": "2016-11-01",
+        "tier": [2],
         "items": [
             {
                 "name": "Cloak of Displacement",
@@ -182,6 +192,8 @@
         "code": "DDAL05-06",
         "name": "Beneath the Fetid Chelimber",
         "description": "The ruined wizard tower in the Marsh of Chelimber may hold a clue to defeating the superintelligent hill giant, Bad Fruul, and prevent him troubling the town of Parnast. To find the tower, adventurers must overcome the watery magic of the fetid marsh and discover or clear a route to the ruins of a previously lost tower.\n\n A Two-Hour Adventure for 1st–4th Level Characters.",
+        "released": "2016-12-06",
+        "tier": [1],
         "items": [
             {
                 "name": "Ring of Swimming",
@@ -194,6 +206,8 @@
         "code": "DDAL05-07",
         "name": "Chelimber's Descent",
         "description": "Deep in the Marsh of Chelimber lie the ruins of a great wizard’s tower. SEER has received intelligence, which she imparts via her emissary Hsing, that deep beneath the marsh in the remains of an old tower is knowledge of older magics. This could be just what Parnast needs to resist the onslaught of Bad Fruul and his armies!\n\n A Two-Hour Adventure for 1st–4th Level Characters.",
+        "released": "2016-12-06",
+        "tier": [1],
         "items": [
             {
                 "name": "Wand of Webs",
@@ -224,7 +238,9 @@
     {
         "code": "DDAL05-08",
         "name": "Durlag's Tower",
-        "description": "East of Beregost, nestled in the outskirts of the Wood of Sharp Teeth, Durlag’s Tower has intrigued and yet stymied adventurers for decades. Stuffed full of mechanical traps and arcane wards, and rumored to be inhabited by fiends, very few have managed to extract any REAL treasure from the former home of Durlag Trollkiller. However, a powerful item in the ancient fight against the giants is said to be housed there, and the cloud giant Baron Rajiram has committed significant resources toward recovering it. After a pleasant tea in her garden, SEER calls upon you to beat him there and put a stop to his efforts!\n\n A Four-Hour Adventure for 11th–16th level Characters.",
+        "description": "East of Beregost, nestled in the outskirts of the Wood of Sharp Teeth, Durlag’s Tower has intrigued and yet stymied adventurers for decades. Stuffed full of mechanical traps and arcane wards, and rumored to be inhabited by fiends, very few have managed to extract any REAL treasure from the former home of Durlag Trollkiller. However, a powerful item in the ancient fight against the giants is said to be housed there, and the cloud giant Baron Rajiram has committed significant resources toward recovering it. After a pleasant tea in her garden, SEER calls upon you to beat him there and put a stop to his efforts!",
+        "released": "2017-01-03",
+        "tier": [3],
         "items": [
             {
                 "name": "Staff of Thunder and Lightning",
@@ -285,7 +301,9 @@
     {
         "code": "DDAL05-09",
         "name": "Durlag's Tomb",
-        "description": "East of Beregost, nestled in the outskirts of the Wood of Sharp Teeth, Durlag’s Tower has intrigued and yet stymied adventurers for decades. Stuffed full of mechanical traps and arcane wards, and rumored to be inhabited by fiends, very few have managed to extract any REAL treasure from the former home of Durlag Trollkiller. However, a powerful item in the ancient fight against the giants is said to be housed there, and the cloud giant Baron Rajiram has committed significant resources toward recovering it. After a pleasant tea in her garden, SEER calls upon you to beat him there and put a stop to his efforts! Part of 2 of 2.\n\n A 4-Hour Adventure for 11th–16th Level Characters.",
+        "description": "East of Beregost, nestled in the outskirts of the Wood of Sharp Teeth, Durlag’s Tower has intrigued and yet stymied adventurers for decades. Stuffed full of mechanical traps and arcane wards, and rumored to be inhabited by fiends, very few have managed to extract any REAL treasure from the former home of Durlag Trollkiller. However, a powerful item in the ancient fight against the giants is said to be housed there, and the cloud giant Baron Rajiram has committed significant resources toward recovering it. After a pleasant tea in her garden, SEER calls upon you to beat him there and put a stop to his efforts! Part of 2 of 2.",
+        "released": "2017-01-03",
+        "tier": [3],
         "items": [
             {
                 "name": "Skeggöx (Battleaxe, +3)",
@@ -315,7 +333,9 @@
     {
         "code": "DDAL05-10",
         "name": "Giant Diplomacy",
-        "description": "SEER has learned of an attempt to intimidate Gralm, an ettin, and his followers into joining Bad Fruul’s army. HSING comes forth to communicate that she wants you to see if you can find some way to either insure Gralm remains neutral, or to encourage the creature to challenge Bad Fruul to single combat in the hopes that he might wrest control of the hill giant’s forces and turn them back from Parnast.\n\n A Two-Hour Adventure for 1st–4th Level Characters.",
+        "description": "SEER has learned of an attempt to intimidate Gralm, an ettin, and his followers into joining Bad Fruul’s army. HSING comes forth to communicate that she wants you to see if you can find some way to either insure Gralm remains neutral, or to encourage the creature to challenge Bad Fruul to single combat in the hopes that he might wrest control of the hill giant’s forces and turn them back from Parnast.",
+        "released": "2017-01-03",
+        "tier": [1],
         "items": [
             {
                 "name": "Ring of Jumping",
@@ -353,7 +373,9 @@
     {
         "code": "DDAL05-11",
         "name": "Forgotten Traditions",
-        "description": "The origin of runes has long been lost to the majority of sages and wizards, save those with giant blood. However, with the shattering of the Ordning, the magic of runes has once again emerged into the Realms. Adventurers must delve into a ruined complex beneath the Spine of the World, suspected by SEER to be the birthplace of that arcane tradition.\n\n A Four-Hour Adventure for 5th–10th Level Characters.",
+        "description": "The origin of runes has long been lost to the majority of sages and wizards, save those with giant blood. However, with the shattering of the Ordning, the magic of runes has once again emerged into the Realms. Adventurers must delve into a ruined complex beneath the Spine of the World, suspected by SEER to be the birthplace of that arcane tradition.",
+        "released": "2017-01-03",
+        "tier": [2],
         "items": [
             {
                 "name": "Opal of the Ild Rune",
@@ -403,7 +425,9 @@
     {
         "code": "DDAL05-12",
         "name": "Bad Business in Parnast",
-        "description": "Bad Fruul and his minions have been threatening to overtake the town of Parnast for some time, and intelligence provided by SEER (via HSING) confirms that an attack is imminent. Despite this, the town is at risk from within as internal politics threaten to tear it apart. It is up to adventurers to resolve the infighting in Parnast and prepare the town for the hill giant’s onslaught.\n\n A Two-Hour Adventure for 1st–4th Level Characters.",
+        "description": "Bad Fruul and his minions have been threatening to overtake the town of Parnast for some time, and intelligence provided by SEER (via HSING) confirms that an attack is imminent. Despite this, the town is at risk from within as internal politics threaten to tear it apart. It is up to adventurers to resolve the infighting in Parnast and prepare the town for the hill giant’s onslaught.",
+        "released": "2017-02-07",
+        "tier": [1],
         "items": [
             {
                 "name": "Gauntlets of Ogre Power",
@@ -427,7 +451,9 @@
     {
         "code": "DDAL05-13",
         "name": "Jarl Rising",
-        "description": "The frost giants of the Ice Mountains have long held to the belief that a great Jarl will one day step forward to unite the families as Konung (king). With the Ordning shattered, Jarl Ryndölg believes that if he can locate Hartkiller’s Horn, a legendary artifact among giant-kind, he could be the one. He may very well have found what he is looking for. A great clarion call has echoed across the Hartsvale for two days, and the giants are all marching north, has Ryndölg done just that?\n\n A Four-Hour Adventure for 5th–10th Level Characters.",
+        "description": "The frost giants of the Ice Mountains have long held to the belief that a great Jarl will one day step forward to unite the families as Konung (king). With the Ordning shattered, Jarl Ryndölg believes that if he can locate Hartkiller’s Horn, a legendary artifact among giant-kind, he could be the one. He may very well have found what he is looking for. A great clarion call has echoed across the Hartsvale for two days, and the giants are all marching north, has Ryndölg done just that?",
+        "released": "2017-02-07",
+        "tier": [2],
         "items": [
             {
                 "name": "The Shroud of the Mourning Warrior (Scale Mail, +1)",
@@ -445,7 +471,9 @@
     {
         "code": "DDAL05-14",
         "name": "Reeducation",
-        "description": "HSING bears foul news: SEER has been captured. While exploring the ruins of Ulcaster in search of knowledge pertaining to runes (or perhaps even how to create them), they were separated and now the pseudodragon fears the worst. Without SEER’s guidance, the efforts of the assembled factions in these recent events may all be for naught!\n\n A Four-Hour Adventure for 11th–16th Level Characters.",
+        "description": "HSING bears foul news: SEER has been captured. While exploring the ruins of Ulcaster in search of knowledge pertaining to runes (or perhaps even how to create them), they were separated and now the pseudodragon fears the worst. Without SEER’s guidance, the efforts of the assembled factions in these recent events may all be for naught!",
+        "released": "2017-03-07",
+        "tier": [3],
         "items": [
             {
                 "name": "Opal of the Ild Rune",
@@ -474,7 +502,9 @@
     {
         "code": "DDAL05-15",
         "name": "Reclamation",
-        "description": "SEER has been rescued along with Ulcaster, the infamous Archmage that founded a wizard’s school that is now in ruins in the foot hills of The Cloud Peaks. However, while leaving to get the two to safety a cloud ship arrived, unloading a shipload of pirates on the ruins. SEER knows what they are after and needs the heroes to stop them and their leader.\n\n A Four-Hour Adventure for 11th–16th Level Characters.",
+        "description": "SEER has been rescued along with Ulcaster, the infamous Archmage that founded a wizard’s school that is now in ruins in the foot hills of The Cloud Peaks. However, while leaving to get the two to safety a cloud ship arrived, unloading a shipload of pirates on the ruins. SEER knows what they are after and needs the heroes to stop them and their leader.",
+        "released": "2017-03-07",
+        "tier": [3],
         "items": [
             {
                 "name": "Pennant of the Vind Rune",
@@ -498,7 +528,9 @@
     {
         "code": "DDAL05-16",
         "name": "Parnast Under Siege",
-        "description": "Despite the adventurers’ best efforts, more creatures joined under Bad Fruul’s banner. No longer content to simply attack caravans or isolated homesteads, the hill giant warlord descends upon Parnast at the head of a great force of humanoids. SEER warns the adventurers (directly now) in time to rally the town and prepare defenses, but a heroic effort is required to break the siege.\n\n A Four-Hour Adventure for 1st–4th Level Characters.",
+        "description": "Despite the adventurers’ best efforts, more creatures joined under Bad Fruul’s banner. No longer content to simply attack caravans or isolated homesteads, the hill giant warlord descends upon Parnast at the head of a great force of humanoids. SEER warns the adventurers (directly now) in time to rally the town and prepare defenses, but a heroic effort is required to break the siege.",
+        "released": "2017-03-07",
+        "tier": [1],
         "items": [
             {
                 "name": "Headband of Intellect",
@@ -534,7 +566,9 @@
     {
         "code": "DDAL05-17",
         "name": "Hartkiller's Horn",
-        "description": "Claiming to possess Hartkiller's Horn, Ryndölg makes his move to take control of the Hartsvale. The non-giant residents have been pressed to declare their allegiance or be destroyed. Do they swear fealty to Jarl Ryndölg, or is there another option? Is there another contender to the throne? Sometimes the best choices can be the most dangerous.\n\n A Four-Hour Adventure for 5th–10th Level Characters.",
+        "description": "Claiming to possess Hartkiller's Horn, Ryndölg makes his move to take control of the Hartsvale. The non-giant residents have been pressed to declare their allegiance or be destroyed. Do they swear fealty to Jarl Ryndölg, or is there another option? Is there another contender to the throne? Sometimes the best choices can be the most dangerous.",
+        "released": "2017-04-04",
+        "tier": [2],
         "items": [
             {
                 "name": "Dagger of Venom",
@@ -568,7 +602,9 @@
     {
         "code": "DDAL05-18",
         "name": "The Mysterious Isle",
-        "description": "Baron Rajiram’s forces have secured the Nelanther Isles and have scoured the Sword Coast for treasures. Now they have begun to explore a mysterious island that recently just popped into existence nearby. SEER seems to believe that an aboleth artifact is their goal. It is up to the adventurers, in competition with the baron, as well as aboleths, the Kraken Society, and the mysterious caretaker of the island, to locate the *Eye of Xxiphu* and avert catastrophic disaster.\n\n A Four-Hour Adventure for 17th–20th Level Characters.\n\n ***Players get their choice of one of the following magic items to keep.***",
+        "description": "Baron Rajiram’s forces have secured the Nelanther Isles and have scoured the Sword Coast for treasures. Now they have begun to explore a mysterious island that recently just popped into existence nearby. SEER seems to believe that an aboleth artifact is their goal. It is up to the adventurers, in competition with the baron, as well as aboleths, the Kraken Society, and the mysterious caretaker of the island, to locate the *Eye of Xxiphu* and avert catastrophic disaster.\n\n ***Players get their choice of one of the following magic items to keep.***",
+        "released": "2017-04-04",
+        "tier": [4],
         "items": [
             {
                 "name": "Anstruth Harp",
@@ -615,7 +651,9 @@
     {
         "code": "DDAL05-19",
         "name": "Eye of Xxiphu",
-        "description": "Baron Rajiram’s forces have secured the Nelanther Isles and have scoured the Sword Coast for treasures. Now they have begun to explore a mysterious island that recently just popped into existence nearby. SEER seems to believe that an aboleth artifact is their goal. It is up to the adventurers, in competition with the baron, as well as aboleths, the Kraken Society, and the mysterious caretaker of the island, to locate the *Eye of Xxiphu* and avert catastrophic disaster.\n\n A Four-Hour Adventure for 17th–20th Level Characters.",
+        "description": "Baron Rajiram’s forces have secured the Nelanther Isles and have scoured the Sword Coast for treasures. Now they have begun to explore a mysterious island that recently just popped into existence nearby. SEER seems to believe that an aboleth artifact is their goal. It is up to the adventurers, in competition with the baron, as well as aboleths, the Kraken Society, and the mysterious caretaker of the island, to locate the *Eye of Xxiphu* and avert catastrophic disaster.",
+        "released": "2017-04-04",
+        "tier": [4],
         "items": [
             {
                 "name": "The Eye of Xxiphu",
@@ -646,7 +684,9 @@
     {
         "code": "DDEP05-01",
         "name": "The Iron Baron",
-        "description": "Deep in the Greypeak Mountains the fire giant warlord Baron Ugarak has enslaved hundreds of small folk to toil in his iron mines furiously extracting elementally infused ore for an as yet unknown purpose. Surrounded by a monstrous army and decidedly shady allies, the Baron poses a dire threat to the goodly folk of the north.\n\n A Four-Hour Epic Adventure for 1st–10th Level Characters.",
+        "description": "Deep in the Greypeak Mountains the fire giant warlord Baron Ugarak has enslaved hundreds of small folk to toil in his iron mines furiously extracting elementally infused ore for an as yet unknown purpose. Surrounded by a monstrous army and decidedly shady allies, the Baron poses a dire threat to the goodly folk of the north.",
+        "released": "2016-11-05",
+        "tier": [1, 2],
         "items": [
             {
                 "name": "Red Dragon Scale Mail",
@@ -696,7 +736,9 @@
     {
         "code": "DDEP05-02",
         "name": "The Ark of the Mountains",
-        "description": "The flying galleon *Thunderbound* descends on Beregost, unleashing the wrath of the cloud giants! To save the town from annihilation, heroes from far and wide must awaken the lost machine entombed under Durlag’s Tower. Dare you board the *Ark of the Mountains* and do battle in the burning skies?\n\n A 4-hour Epic Adventure for 1st–16th Level Characters.",
+        "description": "The flying galleon *Thunderbound* descends on Beregost, unleashing the wrath of the cloud giants! To save the town from annihilation, heroes from far and wide must awaken the lost machine entombed under Durlag’s Tower. Dare you board the *Ark of the Mountains* and do battle in the burning skies?",
+        "released": "2017-02-04",
+        "tier": [1, 2, 3],
         "items": [
             {
                 "name": "Adamantine Chain Shirt",

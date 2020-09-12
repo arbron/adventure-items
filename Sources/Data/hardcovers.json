@@ -2,19 +2,24 @@
     {
         "code": "DDHC-CoS",
         "name": "Curse of Strahd",
-        "description": "",
+        "description": "**Unravel the mysteries of Ravenloft® in this dread adventure for the world’s greatest roleplaying game**\n\n Under raging storm clouds, the vampire Count Strahd von Zarovich stands silhouetted against the ancient walls of Castle Ravenloft. Rumbling thunder pounds the castle spires. The wind’s howling increases as he turns his gaze down toward the village of Barovia. Far below, yet not beyond his keen eyesight, a party of adventurers has just entered his domain. Strahd’s face forms the barest hint of a smile as his dark plan unfolds. He knew they were coming, and he knows why they came; all according to his plan. A lightning flash rips through the darkness, but Strahd is gone. Only the howling of the wind fills the midnight air. The master of Castle Ravenloft is having guests for dinner—and you are invited.",
+        "released": "2016-03-15",
+        "tier": [1, 2],
         "incomplete": true
     },
     {
         "code": "DDHC-DMM",
-        "name": "Dungeon of the Mad Mage",
-        "description": "",
+        "name": "Waterdeep: Dungeon of the Mad Mage",
+        "description": "**Explore the mega-dungeon of Undermountain in this adventure for the world’s greatest roleplaying game.**\n\n In the city of Waterdeep rests a tavern called the Yawning Portal, named after the gaping pit in its common room. At the bottom of this crumbling shaft is a labyrinthine dungeon shunned by all but the most daring adventurers. Known as Undermountain, this dungeon is the domain of the mad wizard Halaster Blackcloak. Long has the Mad Mage dwelt in these forlorn depths, seeding his lair with monsters, traps, and mysteries—to what end is a constant source of speculation and concern. This adventure picks up where Waterdeep: Dragon Heist leaves off, taking characters of 5th level or higher all the way to 20th level should they explore the entirety of Halaster’s home. Twenty-three levels of Undermountain are detailed herein, along with the subterranean refuge of Skullport. Treasures and secrets abound, but tread with care!",
+        "released": "2018-11-13",
+        "tier": [2, 3, 4],
         "incomplete": true
     },
     {
         "code": "DDHC-DIA",
         "name": "Baldur's Gate: Descent into Avernus",
-        "description": "",
+        "description": "**Diabolical dangers await in this adventure for the world’s greatest roleplaying game.**\n\n Welcome to Baldur’s Gate, a city of ambition and corruption. You’ve just started your adventuring career, but already find yourself embroiled in a plot that sprawls from the shadows of Baldur’s Gate to the front lines of the planes-spanning Blood War! Do you have what it takes to turn infernal war machines and nefarious contracts against the archdevil Zariel and her diabolical hordes? And can you ever hope to find your way home safely when pitted against the infinite evils of the Nine Hells?",
+        "released": "2019-09-17",
         "incomplete": true
     },
     {
@@ -32,13 +37,15 @@
     {
         "code": "DDHC-HotDQ",
         "name": "Hoard of the Dragon Queen",
-        "description": "",
+        "description": "**Fight the war against draconic oppression in this adventure for the world’s greatest roleplaying game.**\n\n In an audacious bid for power, the Cult of the Dragon, along with its dragon allies and the Red Wizards of Thay, seek to bring Tiamat from her prison in the Nine Hells to Faerûn. To this end, they are sweeping from town to town, laying waste to all those who oppose them and gathering a hoard of riches for their dread queen. The threat of annihilation has become so dire that groups as disparate as the Harpers and Zhentarim are banding together in the fight against the cult. Never before has the need for heroes been so desperate.",
+        "released": "2014-08-19",
         "incomplete": true
     },
     {
         "code": "DDHC-LMOP",
         "name": "Lost Mine of Phandelver",
         "description": "",
+        "tier": [1],
         "items": [
             {
                 "name": "Boots of Striding and Springing",
@@ -163,13 +170,17 @@
     {
         "code": "DDHC-OotA",
         "name": "Out of the Abyss",
-        "description": "",
+        "description": "**Dare to descend into the Underdark in this adventure for the world’s greatest roleplaying game!**\n\n The Underdark is a subterranean wonderland, a vast and twisted labyrinth where fear reigns. It is the home of horrific monsters that have never seen the light of day. It is here that the dark elf Gromph Baenre, Archmage of Menzoberranzan, casts a foul spell meant to ignite a magical energy that suffuses the Underdark and tears open portals to the demonic Abyss. What steps through surprises even him, and from that moment on, the insanity that pervades the Underdark escalates and threatens to shake the Forgotten Realms to its foundations. Stop the madness before it consumes you!",
+        "released": "2015-09-15",
+        "tier": [1, 2, 3],
         "incomplete": true
     },
     {
         "code": "DDHC-PotA",
         "name": "Princes of the Apocalypse",
-        "description": "",
+        "description": "**Abolish an ancient evil threatening devastation in this adventure for the world’s greatest roleplaying game!**\n\n Called by the Elder Elemental Eye to serve, four corrupt prophets have risen from the depths of anonymity to claim mighty weapons with direct links to the power of the elemental princes. Each of these prophets has assembled a cadre of cultists and creatures to serve them in the construction of four elemental temples of lethal design. It is up to adventurers from heroic factions such as the Emerald Enclave and the Order of the Gauntlet to discover where the true power of each prophet lay, and dismantle it before it comes boiling up to obliterate the Realms.",
+        "released": "2015-03-27",
+        "tier": [1, 2, 3],
         "items": [
             {
                 "name": "Alchemy Jug",
@@ -608,19 +619,23 @@
     {
         "code": "DDHC-RoT",
         "name": "Rise of Tiamat",
-        "description": "",
+        "description": "**Avert the Cataclysmic Return of Tiamat in this Adventure for the World’s Greatest Roleplaying Game.**\n\n The Cult of the Dragon leads the charge in an unholy crusade to bring Tiamat back to the Realms, and the situation grows more perilous for good people with each passing moment. The battle becomes increasingly political as opportunities to gather allies and gain advantage present themselves. From Waterdeep to the Sea of Moving Ice to Thay, it is a race against Evil. Succeed or succumb to the oppression of draconic tyranny. Win or lose, things will never be the same again.",
+        "released": "2014-11-04",
         "incomplete": true
     },
     {
         "code": "DDHC-SKT",
         "name": "Storm King's Thunder",
-        "description": "",
+        "description": "Giants have emerged from their strongholds to threaten civilization as never before. Hill giants are stealing all the grain and livestock they can while stone giants have been scouring settlements that have been around forever. Fire giants are press-ganging the smallfolk into the desert, while frost giant longships have been pillaging along the Sword Coast. Even the elusive cloud giants have been witnessed, their wondrous floating cities appearing above Waterdeep and Baldur’s Gate. Where is the storm giant King Hekaton, who is tasked with keeping order among the giants?\n\n The humans, dwarves, elves, and other small folk of the Sword Coast will be crushed underfoot from the onslaught of these giant foes. The only chance at survival is for the small folk to work together to investigate this invasion and harness the power of rune magic, the giants’ weapon against their ancient enemy the dragons. The only way the people of Faerun can restore order is to use the giants’ own power against them.",
+        "released": "2016-09-06",
+        "tier": [1, 2],
         "incomplete": true
     },
     {
         "code": "DDHC-TOA-01",
         "name": "Tomb of Annihilation",
         "description": "",
+        "released": "2017-09-19",
         "incomplete": true
     },
     {
@@ -710,13 +725,15 @@
     {
         "code": "DDHC-TYP",
         "name": "Tales from the Yawning Portal",
-        "description": "",
+        "description": "When the shadows grow long in Waterdeep and the fireplace in the taproom of the Yawning Portal dims to a deep crimson glow, adventurers from across the Forgotten Realms, and even from other worlds, spin tales and spread rumors of dark dungeons and lost treasures. Some of the yarns overheard by Durnan, the barkeep of the Yawning Portal, are inspired by places and events in far-flung lands from across the D&D multiverse, and these tales have been collected into a single volume.\n\n Within this tome are seven of the most compelling dungeons from the 40+ year history of Dungeons & Dragons. Some are classics that have hosted an untold number of adventurers, while others are some of the most popular adventures ever printed.",
+        "released": "2017-04-04",
         "incomplete": true
     },
     {
         "code": "DDHC-WDH",
         "name": "Waterdeep: Dragon Heist",
-        "description": "",
+        "description": "**A fantastic treasure trove is yours for the taking in this adventure for the world’s greatest roleplaying game.**\n\n Famed explorer Volothamp Geddarm needs you to complete a simple quest. Thus begins a mad romp through the wards of Waterdeep as you uncover a villainous plot involving some of the city’s most influential figures. A grand urban caper awaits you. Pit your skill and bravado against villains the likes of which you’ve never faced before, and let the dragon hunt begin!",
+        "released": "2018-09-18",
         "incomplete": true
     },
     {
@@ -735,6 +752,7 @@
         "code": "DDHC-WDH-03",
         "name": "Blue Alley",
         "description": "The infamous Blue Alley lies hidden in the heart of Waterdeep. Built by a secretive wizard, it is a magic maze full of tricks, traps, strange monsters, and rich treasure. Countless adventurers have ventured inside to test their bravery and skill, yet few have returned. And now it is your turn…\n\n A Four-Hour Adventure for Tier 1 Characters.",
+        "tier": [1],
         "items": [
             {
                 "name": "Lantern of Revealing",

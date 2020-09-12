@@ -2,7 +2,7 @@
     {
         "code": "DDAL00-01",
         "name": "Window to the Past",
-        "description": "When a Thayan research expedition returns from the Glacier of the White Wyrm with only two survivors that are reduced to whispering about an ancient pyramid under the ice, perhaps it is time to discover just what scares the life out of a nation of necromancers.\n\n A 4-Hour Adventure for 5th–10th, 11th–16th, or 17th–20th Level Characters.",
+        "description": "When a Thayan research expedition returns from the Glacier of the White Wyrm with only two survivors that are reduced to whispering about an ancient pyramid under the ice, perhaps it is time to discover just what scares the life out of a nation of necromancers.",
         "tier": [2, 3, 4],
         "items": [
             {
@@ -38,7 +38,7 @@
     {
         "code": "DDAL00-02a",
         "name": "The Darkwood Webs",
-        "description": "A trio of exhausted sprites interrupts your group as you start to break camp and continue your journey to Hillsfar. Do you dare answer their plea for aid and enter the forest of Cormanthyr?\n\n This adventure is designed for three to seven characters of 1st–4th level.",
+        "description": "A trio of exhausted sprites interrupts your group as you start to break camp and continue your journey to Hillsfar. Do you dare answer their plea for aid and enter the forest of Cormanthyr?",
         "tier": [1],
         "items": [
             {
@@ -62,7 +62,7 @@
     {
         "code": "DDAL00-02b",
         "name": "The Weirding Vats",
-        "description": "Goblins abound! Strange goblins have been sighted in the farm lands south of Hillsfar! Locals report that they have been straying from the forest-realm of Cormanthor to the south in increasing numbers, and beg you to put an end to their incursions!\n\n This adventure is designed for three to seven characters of 1st–4th level.",
+        "description": "Goblins abound! Strange goblins have been sighted in the farm lands south of Hillsfar! Locals report that they have been straying from the forest-realm of Cormanthor to the south in increasing numbers, and beg you to put an end to their incursions!",
         "tier": [1],
         "items": [
             {
@@ -106,7 +106,7 @@
     {
         "code": "DDAL00-02c",
         "name": "Spawn of the Maimed Virulence",
-        "description": "Before his death, the green dragon The Maimed Virulence, Vorgansharax, had many mates across Faerûn. The forest of Cormanthor and surrounding areas have become a battleground between sibling dragons, all vying for the choicest territory. Can a band of adventurers protect Hillsfar by either defeating or negotiating with the spawn of The Maimed Virulence?\n\n This adventure is designed for three to seven characters of 5th–10th level.",
+        "description": "Before his death, the green dragon The Maimed Virulence, Vorgansharax, had many mates across Faerûn. The forest of Cormanthor and surrounding areas have become a battleground between sibling dragons, all vying for the choicest territory. Can a band of adventurers protect Hillsfar by either defeating or negotiating with the spawn of The Maimed Virulence?",
         "tier": [2],
         "items": [
             {
@@ -146,7 +146,7 @@
     {
         "code": "DDAL00-02d",
         "name": "Echoes of the Weeping War",
-        "description": "Over 700 years ago the Army of Darkness raged through Cormanthor before breaking the proud city of Myth Drannor. Rumors tell of powerful magic lost deep in the Darkwood, now supposedly found, that harkens back to that terrible war.\n\n This adventure is designed for three to seven characters of 5th–10th level.",
+        "description": "Over 700 years ago the Army of Darkness raged through Cormanthor before breaking the proud city of Myth Drannor. Rumors tell of powerful magic lost deep in the Darkwood, now supposedly found, that harkens back to that terrible war.",
         "tier": [2],
         "items": [
             {
@@ -176,7 +176,7 @@
     {
         "code": "DDAL00-02e",
         "name": "Forgotten Foes",
-        "description": "A forgotten foe prowls the intermingled ruins of Thultanthar and Myth Drannor at the heart of the web of plots that threaten Cormanthor. You must delve into the ruins of the City of Song and bring the enemy to ground.\n\n This adventure is designed for three to seven characters of 11th–16th level.",
+        "description": "A forgotten foe prowls the intermingled ruins of Thultanthar and Myth Drannor at the heart of the web of plots that threaten Cormanthor. You must delve into the ruins of the City of Song and bring the enemy to ground.",
         "tier": [3],
         "items": [
             {
@@ -264,7 +264,7 @@
     {
         "code": "DDAL00-02f",
         "name": "The Definition of Heroism",
-        "description": "Myth Drannor lies under a layer of debris that is nearly a quarter-mile thick. But there are secrets in the chaos, and some of those secrets yearn to be made known once more. Within the rubble of Thultanthar and Myth Drannor can be heard ethereal voices—but of what they speak, no sane mind has yet to report.\n\n This adventure is designed for three to seven characters of 17th–20th level.",
+        "description": "Myth Drannor lies under a layer of debris that is nearly a quarter-mile thick. But there are secrets in the chaos, and some of those secrets yearn to be made known once more. Within the rubble of Thultanthar and Myth Drannor can be heard ethereal voices—but of what they speak, no sane mind has yet to report.",
         "tier": [4],
         "items": [
             {
@@ -297,7 +297,7 @@
     {
         "code": "DDAL00-03",
         "name": "Those That Came Before",
-        "description": "All of the scribes in Candlekeep are reporting eerie dreams, dreams in which the flying citadels of Ancient Netheril remain aloft among the clouds, with the modern skylines of Neverwinter and Waterdeep far below. These hazy visions all end the same way: with tremendous calamity as those fortresses smash down upon the defenseless metropolises. What aid can be enlisted when such doom is on the horizon?\n\n A 4-hour Adventure for 11th–16th level Characters or 17th–20th level Characters.",
+        "description": "All of the scribes in Candlekeep are reporting eerie dreams, dreams in which the flying citadels of Ancient Netheril remain aloft among the clouds, with the modern skylines of Neverwinter and Waterdeep far below. These hazy visions all end the same way: with tremendous calamity as those fortresses smash down upon the defenseless metropolises. What aid can be enlisted when such doom is on the horizon?",
         "tier": [3, 4],
         "items": [
             {
@@ -333,7 +333,7 @@
     {
         "code": "DDAL00-04",
         "name": "Winter's Flame",
-        "description": "This year’s Midwinter holiday efforts have been met with unusual obstacles: small stockpiles rummaged through, foods spoiling, ale casks leaking, festive clothes torn up, and crucial pembelon fruits missing. With schedules and deadlines rigid, any bigger bumps in the road might result in disaster. Who would want to keep the people of Chult from celebrating this long-revered holiday?\n\n A Two-Hour Adventure for 1st–4th Level Characters.",
+        "description": "This year’s Midwinter holiday efforts have been met with unusual obstacles: small stockpiles rummaged through, foods spoiling, ale casks leaking, festive clothes torn up, and crucial pembelon fruits missing. With schedules and deadlines rigid, any bigger bumps in the road might result in disaster. Who would want to keep the people of Chult from celebrating this long-revered holiday?",
         "tier": [1],
         "items": [
             {
@@ -349,7 +349,7 @@
     {
         "code": "DDAL00-05",
         "name": "Winter's Splendor",
-        "description": "You’re invited to the Midwinter Gala in the City of Splendors! Among the jovial festivities, a sinister mystery waits to be unwrapped.\n\n A two-hour holiday adventure for 1st–4th level characters.",
+        "description": "You’re invited to the Midwinter Gala in the City of Splendors! Among the jovial festivities, a sinister mystery waits to be unwrapped.",
         "tier": [1],
         "items": [
             {
@@ -518,7 +518,7 @@
     {
         "code": "DDAL00-07",
         "name": "The Embers of Hate",
-        "description": "Hatred burns with a fire unlikely any other; and the hotter the flame, the more difficult it is to stamp it out. Beneath the rubble of Mulmaster, and a group of angry men and women seek to stoke smoldering embers of hate anew into a raging conflagration. Can you stop them before it is too late, or will evil rise once more from the ashes—free to burn all it touches?\n\n A Four-Hour Adventure for Tier 1 or 2 Characters.",
+        "description": "Hatred burns with a fire unlikely any other; and the hotter the flame, the more difficult it is to stamp it out. Beneath the rubble of Mulmaster, and a group of angry men and women seek to stoke smoldering embers of hate anew into a raging conflagration. Can you stop them before it is too late, or will evil rise once more from the ashes—free to burn all it touches?",
         "tier": [1, 2],
         "items": [
             {
@@ -558,7 +558,7 @@
     {
         "code": "DDAL00-08",
         "name": "Layers Upon Layers",
-        "description": "During the liberation of Szith Morcane, the factions found an unlikely friend in an agent of evil. Now, that alliance has been put to the test—and the factions are in search of souls brave (or foolish) enough to venture to the mysterious depths of the Feywild in order to uphold their end of the alliance! Grab your planar forks—there’s adventuring to be done!\n\n A Four-Hour Adventure for 1st–10th Level Characters.",
+        "description": "During the liberation of Szith Morcane, the factions found an unlikely friend in an agent of evil. Now, that alliance has been put to the test—and the factions are in search of souls brave (or foolish) enough to venture to the mysterious depths of the Feywild in order to uphold their end of the alliance! Grab your planar forks—there’s adventuring to be done!",
         "tier": [1, 2],
         "items": [
             {
@@ -610,7 +610,7 @@
     {
         "code": "DDAL00-10",
         "name": "Trust and Understanding",
-        "description": "The shield dwarves of western Faerûn sometimes speak of a labyrinthine structure on the shores of a misty lake. Rumored to imprison an ancient creature that predates Faerûn’s beginnings, the place has long been sealed. But now coins are showing up in bazaars and trader’s booths that match the description of those minted by this citadel, and they are rightly concerned.\n\n A Six-to-Eight-Hour Adventure for Tier 4 Characters.",
+        "description": "The shield dwarves of western Faerûn sometimes speak of a labyrinthine structure on the shores of a misty lake. Rumored to imprison an ancient creature that predates Faerûn’s beginnings, the place has long been sealed. But now coins are showing up in bazaars and trader’s booths that match the description of those minted by this citadel, and they are rightly concerned.",
         "tier": [4],
         "items": [
             {

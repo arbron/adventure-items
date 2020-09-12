@@ -68,6 +68,15 @@ h2 {
     margin: 20px 0;
 }
 
+h3 {
+    font-weight: lighter;
+    margin-bottom: 1em;
+    font-variant: small-caps;
+}
+h1 + h3 {
+    margin-top: -1em;
+}
+
 p {
     margin-bottom: 10px;
 }
@@ -107,6 +116,10 @@ a {
     font-variant: small-caps;
 }
 
+.illegal {
+    text-decoration: line-through;
+}
+
 .story-award {
     padding-bottom: 0.5em;
 }
@@ -115,6 +128,10 @@ a {
 }
 .story-award p {
     padding-left: 1em;
+}
+.story-award ul {
+    padding-left: 2em;
+    padding-bottom: 0.5em;
 }
 .story-award p:first-of-type {
     border-top: 1px solid gray;

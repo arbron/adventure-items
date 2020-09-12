@@ -37,10 +37,12 @@ private struct LeagueHTMLFactory: HTMLFactory {
                         .text(context.site.description)
                     ),
                     .forEach(Adventure.Source.allCases, { category in
-                        .group([
-                            .h2(.text(category.stringValue)),
-                            .itemList(for: splitItems[category] ?? [], on: context.site)
-                        ])
+                        .unwrap(splitItems[category]) { items in
+                            .group(
+                                .h2(.text(category.stringValue)),
+                                .itemList(for: items, on: context.site)
+                            )
+                        }
                     })
                 ),
                 .footer(for: context.site)
@@ -54,9 +56,9 @@ private struct LeagueHTMLFactory: HTMLFactory {
         for item in items {
             switch item.metadata.adventure.source {
             case .conventionCreatedContent:
-                var array = dictionary[.conventionCreatedContent(nil)] ?? []
+                var array = dictionary[.conventionCreatedContent] ?? []
                 array.append(item)
-                dictionary[.conventionCreatedContent(nil)] = array
+                dictionary[.conventionCreatedContent] = array
             default:
                 var array = dictionary[item.metadata.adventure.source] ?? []
                 array.append(item)

@@ -47,12 +47,11 @@ extension Adventure {
         case embersOfTheLastWar
         case oracleOfWar
 
-        case conventionCreatedContent(String?)
+        case conventionCreatedContent
 
         init(_ code: String) {
-            if let remainder = code.removePrefix("CCC-") {
-                guard let dashIdx = remainder.firstIndex(of: "-") else { fatalError("Invalid CCC code: \(code)") }
-                self = .conventionCreatedContent("\(remainder.prefix(upTo: dashIdx))")
+            if code.hasPrefix("CCC-") {
+                self = .conventionCreatedContent
             } else if code.hasPrefixes("DDAL-DRW", "DDEP-DRW") {
                 self = .dreamsOfRedWizards
             } else if code.hasPrefixes("DDAL-ELW", "DDAL-WGE") {
@@ -82,7 +81,7 @@ extension Adventure {
                 .dreamsOfRedWizards,
                 .embersOfTheLastWar,
                 .oracleOfWar,
-                .conventionCreatedContent(nil)
+                .conventionCreatedContent
             ])
             return cases
         }
@@ -91,7 +90,7 @@ extension Adventure {
             switch self {
             case .season(0): return "Season Agnostic"
             case .season(let number): return "Season \(number)"
-            case .hardcover: return "Hardcovers"
+            case .hardcover: return "Hardcover"
             case .dreamsOfRedWizards: return "Dreams of Red Wizards"
             case .embersOfTheLastWar: return "Embers of the Last War"
             case .oracleOfWar: return "Oracle of War"

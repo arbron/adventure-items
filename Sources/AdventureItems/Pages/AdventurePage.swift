@@ -106,7 +106,16 @@ extension Publish.Item where Site == AdventureItemsSite {
     private static func body(_ adventure: Adventure) -> Content.Body {
         .init(node:
             .section(
-                .h1("\(adventure.name)"),
+                .h1(.text(adventure.name)),
+                .h3(
+                    .text(adventure.code),
+                    ", ",
+                    .text(adventure.source.stringValue),
+                    " ",
+                    .if(adventure.source != .conventionCreatedContent,
+                        .if(!adventure.isEpic, .text("Adventure"), else: .text("Epic"))
+                    )
+                ),
                 .if(!adventure.description.isEmpty, .raw("\(parser.html(from: adventure.description))")),
                 .if(!adventure.items.isEmpty, .group([
                     .h2("Items"),

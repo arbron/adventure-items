@@ -158,26 +158,456 @@
     {
         "code": "CCC-BMG-MOON1-1",
         "name": "Moonshae Treasure Hunt",
+        "description": "The Moonshae Isles, beautiful and dangerous, provide adventurers the opportunity to fight evil—and uncover ancient secrets and treasures. When a mysterious figure predicts a grave future for you, it triggers an Isles-spanning adventure full of intrigue, fun, and danger!",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "storyAwards": [
+            {
+                "name": "Capt. Bluto’s Blunderbuss",
+                "description": "This smoke powder musket was owned by the feared giff pirate, Capt. Boris Blutovich. Possessing this item has both advantages and disadvantages in the Moonshaes.\n\n The item is first and foremost a deadly weapon. It is a martial ranged weapon that does 1d12 piercing damage, weighs 10 lbs., has a range of 40/120, and has the loading, two-handed firearms, and ammunition properties.\n\n Because of the age of the powder, there is a 25% chance that a shot misfires. If a misfire occurs, the bullet doesn’t discharge and the powder flashes, blinding the shooter until the end of its next turn.\n\n There are three silvered shot bullets, and just enough smoke powder left for each one. These shots may only be used during a Moonshae Isle adventure. If the character plays an adventure outside of the Moonshae Isles, the powder goes bad and is no longer usable.\n\n This item comes from another world and works unlike any other. Ammo and powder cannot be crafted for it. Once the three shots are used, or the powder goes bad, it becomes a mundane object and may never be operated again. It cannot be duplicated magically. **This is NOT a magic item**.\n\n The blunderbuss is a recognized item in the Moonshae region. Even those who haven’t seen it, may recognize it based on local stories. At the DM’s discretion, it may evoke strong reactions of celebration, fear, or anger. Pirates of Silver’s Blade react with deadly intent."
+            },
+            {
+                "name": "A Dark Gem",
+                "description": "You have recovered a mysterious gem named *Goblinwrath* for the Great Druid Antola Pilark. This gem carried with it an enchantment that caused goblins to become ferocious and feral while being biddable by the bearer. The origins of the gem are unknown, but Antola intends to find out and may call upon you to help her."
+            },
+            {
+                "name": "A Debt Owed in Silver",
+                "description": "You have killed Capt. Bluto and now the pirates of Silver’s Blade seek you out for revenge. Through a variety of underworld contacts and possibly divinations, they have identified as the killer. They won’t rest until you’re as dead as Capt. Bluto, but there may be ways to buy them off in the future."
+            },
+            {
+                "name": "Friend of the Rustfire Clan",
+                "description": "You have assisted Winnow Rustfire on her mission to attain a red pearl. She now considers you a trusted friend. This story award may come into play in future Moonshae adventures from Baldman Games, particularly CCC-BMG-MOON3-1, 3-2, and 3-3."
+            },
+            {
+                "name": "Happi the Unhappy Oyster",
+                "description": "You have found a sentient talking oyster named Happi. He was once an unpleasant half-orc sailor but was cursed by a sea hag during a voyage. Happi doesn’t provide any game-mechanical benefits, but he would rather be moving around than stuck buried in sand for eternity."
+            },
+            {
+                "name": "Ice Cold Killer",
+                "description": "You were involved in the killing of a villager of Blodvahrer. Legally it may be that you were provoked, but it has gained you a reputation for ruthlessness, bordering on murder."
+            },
+            {
+                "name": "Twin Destinies",
+                "description": "While visiting the town of Bloodvahrer you came across a pair of twins, Yrsa and Gulli, who have arcane abilities. Blodvahrer is not a hospitable place for arcane casters at this time, and when the twins approached you for help in leaving town, you gave it.\n\n Traveling with the twins, even if for a short while has shown you that their powers are quickly growing in strength, but that unfortunately their control of them is not growing at an equal speed. It did however give you the chance to witness an actual rain of frogs.\n\n The twins left your company in Olafstaad to be reunited with their father who has joined a group called the Initiates of Flame. What the future holds for these two is anyone’s guess."
+            },
+            {
+                "name": "Witwulf’s Spellbook",
+                "description": "You have retrieved the spellbook of Bronal Witwulf. The spellbook turned out to be an iron warhammer with an inscription that reads, “My Spellbook.” From the archives in Blodvahrer, you have learned that Bronal Witwulf was an adventurer infamous for acts of extreme strength and equally extreme lack of judgement. For a short time, his name featured prominently in the cautionary tales off Gnarhelm, but his fame has completely faded."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-MOON1-2",
+        "name": "Mind the Missive",
         "description": "",
+        "released": "2020-08-12",
+        "creator": "Baldman Games",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-MOON1-3",
+        "name": "Heritage vs Kinship",
+        "description": "",
+        "released": "2020-08-12",
+        "creator": "Baldman Games",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-MOON1-4",
+        "name": "The Brave of West Breasal",
+        "description": "",
+        "released": "2020-08-12",
+        "creator": "Baldman Games",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-MOON1-5",
+        "name": "The Wilderness Calls",
+        "description": "",
+        "released": "2020-08-12",
+        "creator": "Baldman Games",
         "incomplete": true
     },
     {
         "code": "CCC-BMG-MOON2-1",
         "name": "Defenders of Caer Moray",
-        "description": "",
-        "incomplete": true
+        "description": "The most untamed of the Moonshaes, residents on Moray are accustomed to defending themselves. Recently something has stirred the dark forces that threaten the families of this strategically vital location. With every spare sword allocated to the homelands, who will answer their call for aid?",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "items": [
+            {
+                "name": "The Wolves' Claw (Dagger, +1)",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Defenders of Caer Moray",
+                "description": "Your deeds in Caer Moray are known to all and the citizens love you. You may re-roll any charisma-based roll once per session if you’re dealing with someone from Caer Moray."
+            },
+            {
+                "name": "A Friend in Caer Moray",
+                "description": "You have a friend in Caer Moray. Write their name down and what they do next to this reward. As long as you continue to spend one out of every 10 downtime days to maintain your friendship you can ask your friend for a favor once per game session. The extent of this favor is the discretion of the Dungeon Master."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-MOON2-2",
         "name": "Army of the Unseen",
-        "description": "",
-        "incomplete": true
+        "description": "Little more than an outpost, Dynnegall is the life-blood of resources that flow from Caer Moray, supporting Ffolk townships across the archipelago. But the supply boat is overdue by almost a tenday and hope is difficult to find. With the recent attacks repelled an opportunity exists to send aid, but who dares to venture outside the walls?",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Longbow, +1",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Dreams of Prophecy",
+                "description": "The maddening impulse to write the words echoing in your head has long faded, but that doesn’t stop them from visiting your dreams along with visions of dark woods and whispered chants.\n\n “An eye turns in the mist as dark blood boils and churns. Vengeance and rippling death will quake through the noblest fey. Endless shadows will howl as reality unbinds, crying to the darkness that waits in veiled lands.”"
+            },
+            {
+                "name": "Hero of Dynnegall",
+                "description": "Wrapped in a silver ribbon with a red seal is a letter from Earl Orwin Rhys himself, acknowledging your heroic deeds at Dynnegall. The letter has little value but is sure to provide bragging rights at any tavern in Moray."
+            },
+            {
+                "name": "Farmstead - Dynnegall, Moray",
+                "description": "Members of the Serifal Faithful are granted a deed to the farmstead. The farmstead includes a four-room farmhouse, a small stable with an adjoining paddock, a wagon, five acres of farmland, one horse, two pigs, and five sheep, along with two farmers to tend the property and work the land. This is a Tier 1 property."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-MOON2-3",
         "name": "The Eye in the Mist",
-        "description": "",
-        "incomplete": true
+        "description": "The events at Dynnegall revealed evidence that a new threat to fey and Ffolk may have emerged on Moray. The ties to prophecy are too strong to ignore. If true, every moment is critical. The Earthmother herself shudders as attention turns to the Eye in the Mist, a moonwell in the forest of Moray’s eastern coast.",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Llyneth’s Cloak of Mists (Cloak of Elvenkind)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Fire Breath",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Cold)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Eye in the Stone",
+                "description": "This small flat round stone is carved with a symbol of an eye with wave lines representing mist around it. It was given to you as a token of gratitude by Llyneth Kincaid, the great druid of the Eye in the Mist moonwell on Moray. The stone signifies her regard and may be useful in encounters with other druids of the Earthmother or with devout followers of the Earthmother among the Ffolk."
+            },
+            {
+                "name": "I Have My Eye on You",
+                "description": "You’ve served Hyll the Ugliest Hag well, and she may have more tasks for you in the future. In the meantime, you occasionally get a glimpse of an eyeball sitting in a discrete location observing you. When you turn to get a better look, it’s gone."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-MOON3-1",
+        "name": "Atop the Fairheights",
+        "description": "Just as it looked like the combined forces of Clan Rookoath and Clan Rustfire might drive a long-time threat from their ancestral homes, the dwarven forces suffer a terrible defeat. The proud and slightly xenophobic dwarves reach out for assistance. But is it too late, or can a group of heroes turn the tide? The first adventure in the *Fairheight* trilogy.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Belt of Dwarvenkind",
+                "rarity": "rare"
+            },
+            {
+                "name": "Periapt of Wound Closure",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 4
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Death of Shale Rustfire",
+                "description": "Despite your efforts, Shale Rustfire perished. How his death will affect the war effort remains to be seen."
+            },
+            {
+                "name": "Savior of Shale Rustfire",
+                "description": "You were able to save Shale Rustfire before he perished. He’s now able to play a role in the coming war against the orcs and their allies."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-MOON3-2",
+        "name": "Within the Tunnels of Dwarvenholm",
+        "description": "With the immediate threat to Clans Rookoath and Rustfire quelled, the next step is to clear the tunnels of Dwarvenholm, allowing the clans to again move freely between their homes. However, the enemy will not give up their gains so easily, as a new player enters the battlefield. Part 2 of the *Fairheight* trilogy.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Adamantine Chain Shirt",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Heroism",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Ceremony",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Mind Spike",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-MOON3-3",
+        "name": "Beneath the Cairnwell",
+        "description": "The lost moonwell, known as the Cairnwell, plays a significant role in the battle for the Fairheight Range. Can it be saved and turned into a source of weal for the dwarves, or will the enemy take its power and turn it into a fountain of woe? Part 3 of the *Fairheight* trilogy.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Ever Vigilant (Silvered Greatsword of Warning)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Gaseous Form",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Poison)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Celebrated by the Wardens",
+                "description": "For your bravery in eliminating the threat of the shadow dragon Pryumbranth and ensuring to portal is established between Alaron and Oman, your exploits are lauded by Wardens of the Deepshaes. If you are a member of that organization and completed MOON3 trilogy, you are considered to have completed a Major Objective for advancement in that group."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-MOON5-1",
+        "name": "Bloodlust Rising",
+        "description": "When it was just livestock, few took note. When people disappeared, things changed. Now farmsteads are burning and bloodthirsty cackling echo through the hills of old Gnarhelm in northern Alaron. The farmers are defenseless against such bloodlust; can heroes help? Part 1 of the *Tides of Blood* trilogy, set in the Moonshae Isles.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Admantine Chain Mail",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Giant Strength (Hill)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-MOON5-2",
+        "name": "Bloodlust Contained",
+        "description": "An unexpected enemy has appeared, attacking with ferocious bloodlust and unknown purpose. The locals can’t defend against this threat forever; heroes are needed to discover who is responsible for the attacks and stop them for good. Part 2 of the *Tides of Blood* trilogy, set in the Moonshae Isles.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Brooch of Shielding",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Spell Scroll of Hallucinatory Terrain",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Summon Lesser Demons",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-MOON5-3",
+        "name": "Bloodlust Tempered",
+        "description": "With the marauders gone, peace returns to northern Alaron, but somebody brought the reavers across the straits of Moonshae to Alaron. They need to be stopped before the recent troubles become nothing more than the vanguard of something worse. Part 3 of the *Tides of Blood* trilogy, set in the Moonshae Isles.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Ring of Mind-Shielding",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-MOON6-1",
+        "name": "A Reopened Eye",
+        "description": "Conflicts arising in both the Feywild and the Prime have caused some in both planes to call for a return of the Balance, and for new alliances between the fey and mortals. A seer new to the Moonshaes has prophesied your help in opening a new portal between these worlds. Part 1 of the *Earthmother’s Eye* trilogy.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Enduring Spellbook",
+                "rarity": "common"
+            },
+            {
+                "name": "Fey Cloak of Protection",
+                "rarity": "uncommon"
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "The Tome of Anothas",
+                "spells": [
+                    { "name": "absorb elements", "level": 1 },
+                    { "name": "alarm", "level": 1 },
+                    { "name": "cause fear", "level": 1 },
+                    { "name": "comprehend languages", "level": 1 },
+                    { "name": "detect magic", "level": 1 },
+                    { "name": "feather fall", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "alter self", "level": 2 },
+                    { "name": "dragon's breath", "level": 2 },
+                    { "name": "knock", "level": 2 },
+                    { "name": "magic weapon", "level": 2 },
+                    { "name": "mind spike", "level": 2 },
+                    { "name": "Nystul's magic aura", "level": 2 },
+                    { "name": "tongues", "level": 2 },
+                    { "name": "catnap", "level": 3 },
+                    { "name": "counterspell", "level": 3 },
+                    { "name": "Leomund's tiny hut", "level": 3 },
+                    { "name": "summon lesser demons", "level": 3 },
+                    { "name": "charm monster", "level": 4 },
+                    { "name": "Mordenkainen's faithful hound", "level": 4 },
+                    { "name": "enervation", "level": 5 },
+                    { "name": "hold monster", "level": 5 },
+                    { "name": "infernal calling", "level": 5 },
+                    { "name": "Rary's telepathic bond", "level": 5 },
+                    { "name": "create homunculus", "level": 6 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Ashoral’s Friendship",
+                "description": "ou met with the guardian of the moonwell and resolved your differences peacefully, rather than resorting to violence. The druid guardian Ashoral considers you a friend, which may bear fruit at a later date."
+            },
+            {
+                "name": "Zanz’s Appreciation",
+                "description": "You rescued Zanzantook from his fate of being devoured by animals enraged at his terrible poetry. Whether you like it or not, he considers you a friend. This friendship may bear fruit at a later date."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-MOON6-2",
+        "name": "Troubled Visions",
+        "description": "A newly opened moonwell proves unstable. An eladrin community in the Feywild calls for aid, as their home has been torn asunder and transformed by planar rifts. You must enter the moonwell to seal the rifts threatening the region before this instability pours over to the Prime Material. Part 2 of the *Earthmother’s Eye* trilogy.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Eladrin Boots of Elvenkind",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Moon-Touched Sword",
+                "rarity": "common"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Mairin’s Debt",
+                "description": "Mairin is deeply indebted to you for proving her lineage. She has travelled to many places and knows a good deal of people across Faerun. If you need an item or expert that isn’t easily obtained, she might be able to get it for you—given enough time."
+            },
+            {
+                "name": "Saviors of Temerity Bay",
+                "description": "The adventurers saved a community of immortals from a troublesome peril; while it’s unlikely any eladrin or powerful fey will actually show up to help you if you ask, a spirit of the woods might allow you to pass, or a dire bear might decide to look elsewhere for a meal."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-MOON6-3",
+        "name": "Planar Convergence",
+        "description": "After a moonwell portal is permanently opened to the Feywild, fey and humans have begun to live together in harmony. But when a new threat forms on the horizon, darkness threatens to overwhelm the moonwell and consume the Moonshae Isles. As the fey and human denizens rush to mount defenses, will their alliance be enough to defeat the coming army? Part 3 of the *Earthmother’s Eye* trilogy.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Horn of Silent Alarm",
+                "rarity": "common"
+            },
+            {
+                "name": "Javelin of Lightning",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Asper the Jellyflumph",
+                "description": "This tiny jellyfish is native to the Feywild, evidenced by its translucent body which strobes pastel colors that change with its mood. It floats through the skies as if the air was made of water. If killed or reduced to 0 hit points, the jellyflumph can be recalled via *find familiar*, and uses the statistics of a **bat** from the *Monster Manual*."
+            },
+            {
+                "name": "Critter Keeper",
+                "description": "You’ve befriended the fey creatures that now inhabit Rushdown Wood. When traveling through the Rushdown Wood, you will find the creatures very helpful and often find them skittering around your feet or sitting on your shoulder."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-01",

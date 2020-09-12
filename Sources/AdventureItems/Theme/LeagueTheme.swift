@@ -211,12 +211,15 @@ private extension Node where Context == HTML.BodyContext {
 
     static func groupedTagsList<T: Website>(for tags: [Tag], on site: T) -> Node {
         var adventureTags: [(Tag, String)] = []
+        var creatorTags: [(Tag, String)] = []
         var rarityTags: [(Tag, String)] = []
         var spellTags: [(Tag, String)] = []
         var otherTags: [(Tag, String)] = []
         for tag in tags {
             if let adventure = tag.string.removePrefix("adventure: ") {
                 adventureTags.append((tag, "\(adventure)"))
+            } else if let creator = tag.string.removePrefix("creator: ") {
+                creatorTags.append((tag, "\(creator)"))
             } else if let rarity = tag.string.removePrefix("rarity: ") {
                 rarityTags.append((tag, "\(rarity)"))
             } else if let spell = tag.string.removePrefix("spell: ") {
@@ -246,7 +249,8 @@ private extension Node where Context == HTML.BodyContext {
             tagSection(name: "Adventures", tags: adventureTags),
             tagSection(name: "Reward Categories", tags: otherTags),
             tagSection(name: "Items by Rarity", tags: rarityTags),
-            tagSection(name: "Spells", tags: spellTags)
+            tagSection(name: "Spells", tags: spellTags),
+            tagSection(name: "Creators", tags: creatorTags)
         )
     }
 

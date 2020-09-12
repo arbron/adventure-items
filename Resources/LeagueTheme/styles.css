@@ -75,6 +75,11 @@ h3 {
 h1 + h3 {
     margin-top: -1em;
 }
+h3 .release {
+    float: right;
+    padding-top: 0.333em;
+    font-size: 0.8em;
+}
 
 p {
     margin-bottom: 10px;

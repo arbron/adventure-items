@@ -27,6 +27,13 @@ extension Publish.Item where Site == AdventureItemsSite {
     fileprivate typealias ASite = AdventureItemsSite
 
     private static let parser = MarkdownParser()
+    private static var dateFormatter: DateFormatter {
+        let f = DateFormatter()
+        f.dateStyle = .long
+        f.timeStyle = .none
+        f.locale = Locale(identifier: "en_US")
+        return f
+    }
 
     static func item(for adventure: Adventure) -> Self {
         var magicItemNames: [String] = []
@@ -85,6 +92,9 @@ extension Publish.Item where Site == AdventureItemsSite {
         if adventure.isEpic {
             tags.insert("adventure: epic")
         }
+        if let creator = adventure.creator {
+            tags.insert("creator: \(creator.lowercased())")
+        }
 
         let description = adventure.incomplete ? "*(incomplete)*" : ListFormatter().string(from: magicItemNames) ?? ""
 
@@ -98,7 +108,8 @@ extension Publish.Item where Site == AdventureItemsSite {
             content: Content(
                 title: "\(adventure.code) - \(adventure.name)",
                 description: description,
-                body: Self.body(adventure)
+                body: Self.body(adventure),
+                date: adventure.released ?? Date()
             )
         )
     }
@@ -107,26 +118,7 @@ extension Publish.Item where Site == AdventureItemsSite {
         .init(node:
             .section(
                 .h1(.text(adventure.name)),
-                .h3(
-                    .text(adventure.source.stringValue),
-                    " ",
-                    .if(adventure.source != .conventionCreatedContent,
-                        .if(!adventure.isEpic, .text("Adventure"), else: .text("Epic"))
-                    ),
-                    .unwrap(adventure.tier) { tiers in
-                        .if(tiers.count == 4,
-                            .text(" for All Tiers"),
-                            else: .unwrap(ListFormatter().string(from: tiers.map(\.rawValue))) {
-                                .group(
-                                    " for Tier",
-                                    .if(tiers.count > 1, "s"),
-                                    " ",
-                                    .text($0)
-                                )
-                            }
-                        )
-                    }
-                ),
+                Self.subheading(adventure),
                 .if(!adventure.description.isEmpty, .raw("\(parser.html(from: adventure.description))")),
                 .if(!adventure.items.isEmpty, .group([
                     .h2("Items"),
@@ -141,6 +133,53 @@ extension Publish.Item where Site == AdventureItemsSite {
                     Self.storyAwardList(adventure.storyAwards)
                 ]))
             )
+        )
+    }
+    
+    private static func subheading(_ adventure: Adventure) -> Node<HTML.BodyContext> {
+        .group(
+            .h3(
+                .text(adventure.source.stringValue),
+                " ",
+                .if(adventure.source != .conventionCreatedContent,
+                    .if(!adventure.isEpic, .text("Adventure"), else: .text("Epic"))
+                ),
+                .unwrap(adventure.tier) { tiers in
+                    Self.subheadingTiers(tiers)
+                },
+                .if(adventure.released != nil || adventure.creator != nil,
+                    .span(
+                        .class("release"),
+                        Self.subheadingRelease(adventure)
+                    )
+                )
+            )
+        )
+    }
+
+    private static func subheadingTiers(_ tiers: [Adventure.Tier]) -> Node<HTML.BodyContext> {
+        .if(tiers.count == 4,
+            .text(" for All Tiers"),
+            else: .unwrap(ListFormatter().string(from: tiers.map(\.rawValue))) {
+                .group(
+                    " for Tier",
+                    .if(tiers.count > 1, "s"),
+                    " ",
+                    .text($0)
+                )
+            }
+        )
+    }
+
+    private static func subheadingRelease(_ adventure: Adventure) -> Node<HTML.BodyContext> {
+        .group(
+            "Released ",
+            .unwrap(adventure.creator) { creator in
+                .text(" by \(creator)")
+            },
+            .unwrap(adventure.released) { date in
+                .text(" on \(Self.dateFormatter.string(from: date))")
+            }
         )
     }
 

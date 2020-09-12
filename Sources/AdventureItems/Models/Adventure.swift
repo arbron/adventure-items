@@ -14,8 +14,9 @@ struct Adventure: Codable, Hashable {
 
     @DecodableDefault.False var incomplete: Bool
 
-    var tier: [Tier]?
     var released: Date?
+    var creator: String?
+    var tier: [Tier]?
 
     @DecodableDefault.EmptyList var items: [Item]
     @DecodableDefault.EmptyList var spellbooks: [Spellbook]

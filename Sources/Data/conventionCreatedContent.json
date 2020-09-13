@@ -156,6 +156,706 @@
         "incomplete": true
     },
     {
+        "code": "CCC-BMG-00-HILL-1-S",
+        "name": "Onslaught",
+        "description": "Malkyn Grenefeld and her dark fey allies have vowed to destroy Hillsfar, and the attack is imminent. The forces of evil have established traitors inside the city, have stolen secret defense plans, and have some secret allies preparing to join the assault. The forces of good have only brave adventurers willing to die for their cause.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 5
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 5
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Knight of the Plume",
+                "description": "For bravery in the face of overwhelming odds, you have been awarded the title of “Knight of the Plume, Protector of Hillsfar.” This new-found order has established by First Lord Vuhm Yestral of Hillsfar, and you are the first group to have been awarded this honor. While within the jurisdiction of Hillsfar, you can expect to be addressed with the honorific “Sir” or “Lady” depending on your preference. The doors of Hillsfar Castle are open to you, and you can get lodging and a meal there.\n\n In addition, you have been titled with a small plot of barren land on the outskirts of Hillsfar, outside the city walls. The land is currently in bad shape, as the armies of the dark fey have ravaged it while approaching Hillsfar. The deed and title to this land can be held for as long as the character is alive, but it cannot be transferred to anyone else. In addition, because of the current political unrest in Hillsfar, no development can take place on this land until this character earns another story award which allows for development of the land.\n\n In return for the title and the land, you are expected to act in a manner befitting the title, especially when you are representing Hillsfar to people outside of Hillsfar and the Moonsea region. Reports of questionable behavior getting back to the leaders of Hillsfar could result in having this honor rescinded."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-01-CODE-1-1",
+        "name": "A Scream in the Night",
+        "description": "Melvaunt is a city of merchants and metalsmiths. The docks are constantly filled with ships from Hillsfar, Mulmaster, and more distant ports. The northern coast of the Moonsea is an inhospitable place, and its people have a reputation for being rough and unfriendly. But they don’t go around murdering one another in the streets. At least, not usually. Was that a scream you just heard? Part One of *The Chaos in Melvaunt*.",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Chunk of Adamantine",
+                "description": "For rescuing dwarven master-smith Boltac Thurdingard from the assassin, he gave you this chunk of raw adamantine ore. You can sell this chunk for 50 gp, or you can use the ore to craft a new weapon (it cannot be retroactively applied to an existing item). If you have multiple copies of this certificate, then you may combine them to forge a larger item.\n\n Only the items listed on this certificate may be forged using this certificate. Each item costs the listed number of chunks (each copy of this certificate represents one chunk and all certificates used must be voided at the same time; note the transaction on your logsheet).\n\n- 1 chunk – dagger, light hammer, sickle\n- 2 chunks – handaxe, javelin, mace, spear, scimitar, shortsword, trident\n- 3 chunks – battleaxe, flail, longsword, morningstar, rapier, war pick, warhammer\n- 4 chunks – glaive, greataxe, greatsword, halberd, lance, maul, pike\n\n An adamantine weapon has the same game statistics as a normal (non-magical) weapon of its type, but its attacks can bypass the damage resistance of certain types of creatures.\n\n In addition to voiding the certificates needed to create the item, you must also pay the item’s normal market price as listed in the *Player’s Handbook*. Record the transaction on your logsheet. The item you forge does not have its own certificate and therefore is not tradable."
+            },
+            {
+                "name": "Favor of Zellani",
+                "description": "You save the life of Zellani, a priestess of the Maiden of Pain. To show her thanks, she has offered to perform standard spellcasting services (detailed earlier in this adventure) at a 25% discount. She may also help in other ways in subsequent adventures set in Melvaunt."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-02-CORE-1-2",
+        "name": "A Cog in the Wheel",
+        "description": "With the identity of a murderer confirmed, heroes are needed to track it down to its home. As it turns out, it might be a longer journey than first imagined. Part Two of *The Chaos in Melvaunt*.",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Friendship of S133P13-773P",
+                "description": "You have brought back to Melvaunt the malfunctioning modron S133P13-773P. It is gaining an independent consciousness, and it hopes that you will help it learn to be a great individual."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-03-CORE-1-3",
+        "name": "A Hole in the World",
+        "description": "Threats from outside Melvaunt and within push heroes to the brink as a terrified populace counts on the bravery of a few heroes to avert total disaster. Part Three of *The Chaos in Melvaunt*.",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Hero of the Battle of Melvaunt",
+                "description": "Historians will in time write of this event: the day brave heroes fought a battle on two front, against the mechanical menace that came through the portal while at the same time beating back an orc horde. Thanks to your help Melvaunt survived. While in Melvaunt, you receive free comfortable lifestyle when using downtime days after adventures set in Melvaunt."
+            },
+            {
+                "name": "Leona’s Gratitude",
+                "description": "You have saved Leona’s life, and the Red Wizard is in your debt. She will make you one common or uncommon potion for no charge. This may only be used once, but the award may come into play in later adventures."
+            },
+            {
+                "name": "Thomas Druat has His Eye on You",
+                "description": "Council of Lords member Thomas Druat is keenly aware of your presence in the city. Right now that could be a good thing or a bad thing. But you will definitely meet him again."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-04-CORE-2-1",
+        "name": "Tales of Good & Evil",
+        "description": "As the City of a Thousand Forges perseveres in the face of threats both internal and external, the effects of the planar portal continue to make everyone uneasy. When unusual individuals are drawn to the city because of the portal’s power, heroes are asked to keep the peace and ferret out anyone intending to bring harm to Melvaunt.",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Necrotic)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Color Spray",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Criminal Punch Line",
+                "description": "If the characters do not arrest Mericor Tasgaf, word spreads throughout Melvaunt’s criminal population that they are pushovers. As a result, Melvaunt’s criminals don’t take them seriously. As long as you possess this story award, you have disadvantage on Charisma (Intimidation) checks made to influence any of Melvaunt’s criminals. Additionally, Melvaunt’s law enforcement officials learn about your soft reputation among the city’s less savvy. As long as you possess this story award, you have disadvantage on Charisma (Persuasion) checks made to influence any of Melvaunt’s law enforcement officials."
+            },
+            {
+                "name": "Friend of Mulmaster",
+                "description": "Characters who appeal to Lieutenant Tarheels on behalf of Brea Salvadine find themselves in the good graces of the people of Mulmaster. For as long as you possess this story award, you have advantage on Charisma (Persuasion) checks made to influence people from Mulmaster. In addition, merchants from Mulmaster offer you 20% off the sale price of any mundane good or service in the *Player’s Handbook* less than 500 gp."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-05-CODE-2-2",
+        "name": "Songs of Law & Chaos",
+        "description": "Omens speak of an old and forgotten power located within a played-out diamond mine in the foothills of Thar, and some believe that might be a solution to the current problems facing Melvaunt—or possibly the cause of them. With danger closing in, someone has to investigate.",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Emerald Kidgloves (Gloves of Thievery)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Enmity of the Cloisternooks",
+                "description": "You have done something to grievously wound the gnomish Cloisternook family. Perhaps you insulted their honor, or perhaps you caused irreparable damage to Darkglitter Depths. Maybe you even sold one of them into slavery. Word travels fast in the gnomish communities, though, and as a result you have disadvantage on all social skill checks when dealing with Cloisternook gnomes and clerics of Gond."
+            },
+            {
+                "name": "Feast of the Hound",
+                "description": "The corrupted machine deep in the Darkglitter Depths drew in your essence, and in those terrifying final moments you saw something: an emaciated hound, gargantuan in size, feasting upon the souls of those that arrived before you. It gleefully tore them asunder, and then turned to you. As its teeth sank into your metaphysical flesh and you felt the hot stink of its breath wash over you, you were pulled back to the world—but not without a reminder: you have the scars of a dog’s bite somewhere on your body, and sometimes those scars stink and fester when in the presence of clerics and paladins."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-06-CODE-2-3",
+        "name": "Edicts of Neutrality",
+        "description": "With land trade threatened, the city of Melvaunt is relying on sea trade to get goods into and out of the city. An island rises out of the Moonsea just outside of Melvaunt Harbor, and initial exploration indicates the island is a threat. The origins and nature of the island must be ascertained before trade is shut down completely.",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "storyAwards": [
+            {
+                "name": "Favor of the Gods",
+                "description": "For their part in stopping Cyric’s ritual and for allowing the trapped souls to achieve final rest, the adventurers gain the Favor of the Gods. During future adventures if they visit a church during play and make a donation equal to 10 gp x their level they gain inspiration. They can earn inspiration this way four times before they lose this boon."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-07-HULB-1-1",
+        "name": "Hulburg Rebuilding",
+        "description": "Since the rebirth of Hulburg, the strong have preyed upon the weak, with only limited protection offered by the law. Recently, any resemblance of law and order has been threatened, and even the town’s greedy callous ruler cannot ignore the threat anymore. A war is brewing. Can you stop it before it is too late?",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Vicious Mace",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Gratitude of Hulburg’s Gangs",
+                "description": "Write down on the campaign log the character earned the gratitude of one or more of the following gangs of Hulburg: Clan Stoneringer / Scarlet Fangs / Ship Guild. Scratch the names of those gangs the characters aggravated. In general, the gangs keep the whole group responsible for the behavior of one, but if any connection is unclear or characters go out of their way to apologize you can add or remove gangs from individual PC’s rewards."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-08-HULB-1-2",
+        "name": "Hulburg Burning",
+        "description": "Violence is on the on the rise, even more than expected. The heat is rising. People run amok. But greed does not appear to be the flame behind it. Something much colder appears to drive the chaos. Can you track it down and remove it?",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Lantern of Revealing",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Necrotic)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-09-HULB-1-3",
+        "name": "Hulburg Rising",
+        "description": "Since the rebirth of Hulburg, the strong have preyed upon the weak, with only limited protection offered by the law. Recently, any resemblance of law and order has been threatened, and even the town’s greedy callous ruler cannot ignore the threat anymore. A war is brewing. Can you stop it before it is too late?",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Silvered Longsword",
+                "rarity": "common"
+            },
+            {
+                "name": "Silvered Mace",
+                "rarity": "common"
+            },
+            {
+                "name": "Wand of Magic Missiles",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Holy water (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 10
+            },
+            {
+                "name": "Silvered Arrow",
+                "rarity": "common",
+                "consumable": true,
+                "count": 20
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-HULB1S",
+        "name": "Extinction",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-10-HILL-1-1",
+        "name": "Arrival",
+        "description": "Hillsfar struggles to stay aloft after the fall of First Lord Torin Nomerthal. Trade is stagnant. Relations between the citizens and non-humans remain strained. Tensions are rising as Sir Vuhm Yestral is unable to ease the situation. The arrival of a charismatic stranger incites the populace to rebel against the new ruler.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Emerald Kidgloves (Gloves of Thievery)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Acid)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "A Dissident is Here",
+                "description": "Your actions subverting Hillsfar’s current regime have been noticed by the political factions in the City of Trade. You gain advantage on Charisma-based ability checks that involve interacting with anyone actively opposed to First Lord Yestral and his government. Additionally, you gain disadvantage on those checks when interacting with any of Hillsfar’s government officials and with the Red Plumes. If you later earn the In Yestral’s Service Story Award, you lose this Story Award and any of its effects."
+            },
+            {
+                "name": "In Yestral’s Service",
+                "description": "Your actions supporting Hillsfar’s current regime have been noticed by the political factions in the City of Trade. You gain advantage on Charisma-based ability checks that involve interacting with any of Hillsfar’s government officials and with the Red Plumes. Additionally, you gain disadvantage on those checks when interacting with anyone actively opposed to First Lord Yestral and his government. If you later earn the A Dissident is Here Story Award, you lose this Story Award and any of its effects."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-11-HILL-1-2",
+        "name": "Exodus",
+        "description": "The monster attacks have caused the citizens of Hillsfar to lack confidence in the ability of the new government to protect them. Families and merchants are leaving for a safer place. Vuhm Yestral has to prove that he has control of the situation. He decides that a bit of recon needs to be undertaken.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Periapt of Wound Closure",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Giant Strength (Hill)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Growth",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "I Only Do This for Special Customers",
+                "description": "Upon presenting their coupon at Tity’s Emporium in Hillsfar, the character may select any one (and only one) of the following benefits:\n\n- 10% off the total bill of any normal equipment purchase of 50 gp or more (before discount). This includes everything in the armor, weapons, adventuring gear, and tools tables from the Equipment chapter of the Player’s Handbook.\n- One weapon you already own silvered at half price (50 gp instead of the usual 100 gp).\n- Closeout special! You may purchase a single potion of climbing for 50 gp. They do not usually sell these potions, but Fortuna tells the character she had a recent opportunity to purchase another merchant’s remaining stock at the “end of the season.”\n\n Remove this story award from your logsheet once it has been used."
+            },
+            {
+                "name": "Know Your Enemy",
+                "description": "With access to the libraries of Hillsfar and the knowledge of the citizens of Elventree, you may spend 5 downtime days engaged in research on evil fey creatures and gain advantage on any single skill check or attack against an evil fey creature. Remove this story award from your adventure logsheet once it has been used.",
+                "downtime": true
+            },
+            {
+                "name": "You Should Stick Around for a While (Option 1)",
+                "description": "Until the character either completes adventure HILL 1-3 or reaches 11th level (whichever comes first), the character enjoys a Comfortable lifestyle without any expense while they are in Hillsfar."
+            },
+            {
+                "name": "You Should Stick Around for a While (Option 2)",
+                "description": "Until the wizard either completes adventure HILL 1-3 or reaches 11th level (whichever comes first), they are granted free access to the Mage’s Guild library in Hillsfar Castle. The character may spend downtime and gold to copy into their spellbook any two PHB spells of level 4 or lower that they do not currently have. The wizard must still spend the lifestyle expenses associated with the total downtime invested."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-12-HILL-1-3",
+        "name": "Resurgence",
+        "description": "There is a spy in Hillsfar! Your job is to find him or her before the city has no defense against the oncoming Dark Fey that are fueled by a forgotten ally of Torin Nomerthal and their lust for revenge.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Audience Stones (Sending Stones)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Growth",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Savior of hillsfar",
+                "description": "Your actions in finding the portals created by Malkyn Grenefeld have given the army of Hillsfar a chance against the incoming Dark Fey. The citizens of Hillsfar recognize you when you are in a public tavern or inn. The first round of drinks and food are paid for by grateful patrons. Your first night of stay at any inn is on the house as well."
+            },
+            {
+                "name": "Special Brew",
+                "description": "Master Landon has promised to brew one potion of your choice (common or uncommon) to thank you for ensuring the safety of her Guild Mage."
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-HILL1S",
+        "name": "Onslaught",
+        "description": "",
+        "creator": "Baldman Games",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-13-PHLAN-1-1",
+        "name": "Sepulture",
+        "description": "Spirits in Phlan are high in the wake of Vorgansharax’s defeat. Reconstruction plans are finally in motion, yet one threat looms. The Doomguide of Kelemvor has descended into the shadows of the necropolis and gathers dark forces around him. There is little he won’t anticipate. One should have their affairs in order before accepting this mission.",
+        "creator": "Baldman Games",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-14-PHLAN-1-2",
+        "name": "Enemy of my Enemy",
+        "description": "Something odd is happening to the citizens of Phlan. Some have inexplicably gone mad and must be restrained, while others have developed strange magical abilities. No one is immune as it has affected young and old, rich and poor, strong and weak. Opinions about the cause are plentiful, but some theories seem more solid than others.",
+        "creator": "Baldman Games",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-15-PHLAN-1-3",
+        "name": "Subterfuge",
+        "description": "An ambitious plan for the reconstruction of Phlan would expand the city walls to protect all the citizens. Now a band of emissaries sent to acquire necessary materials has gone missing in the wilds of the Dragonspine Mountains, and only the Heroes of Phlan can find them. But will it be in time to prevent catastrophe for the city?",
+        "creator": "Baldman Games",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-PHLAN1S",
+        "name": "Uprising",
+        "description": "",
+        "creator": "Baldman Games",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-16-ELMW-1-1",
+        "name": "The Sage of Cormanthor",
+        "description": "The grain has rotted in the town of Elmwood, which means people might starve, businesses and banks might fail, and endanger the town’s already-precarious existence. Brave adventurers are needed to travel through the wild forest to seek the advice of the Sage of Cormanthor.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-17-ELMW-1-2",
+        "name": "The Lost Sanctum",
+        "description": "Terrible news indicates that some vestige of the long-dead god Moander might be active in the forests near Elmwood. The Town Council is seeking clever adventurers to brave the perils of the Cormanthor forest to breach a lost wizard’s sanctum in search of a way to protect the town.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-18-ELMW-1-3",
+        "name": "The Battle of Elmwood",
+        "description": "As the Greengrass Festival gets under way, one might have a sneaking suspicion that something is awry. Will the adventurers be able to save their new home in the Battle of Elmwood?",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-19-HULB-2-1",
+        "name": "Winter's Frosty Kiss",
+        "description": "When winter breathes down the mountains, temperature drops and fear rises. Canvas walls offer little protection against the Frost Maiden’s embrace. When a band of hunters disappear, the citizens call upon adventurers for aid, because when the hunters become the hunted, trouble is afoot.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-20-HULB-2-2",
+        "name": "Winter's Frigid Wrath",
+        "description": "In the wake of Winter’s Frosty Kiss, vicious predators come down from Thar—hunters searching for prey. If Hulburg does not deliver, the citizens will become prey as well. Can you catch the intended mark before it is too late?",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-21-HULB-2-3",
+        "name": "Winter's Sharp Bite",
+        "description": "No hunter is more dangerous than a bored one. They have set their sights on you. Are you going down with a whimper or will you face the challenge head on, giving the hunter a taste of their own medicine? A D&D Adventurers League adventure set in Hulburg and its nearby environs.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-HULB2S",
+        "name": "Winter's Feast",
+        "description": "",
+        "creator": "Baldman Games",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-22-PHLAN-2-1",
+        "name": "Demagogue",
+        "description": "With the Banite coup recently foiled, election day in Phlan has finally arrived. But the Lord of Darkness needs a new representative. Barrett Sokol, his hand squarely on the pulse of today’s Phlan, requires additional vetting and may need your assistance.",
+        "creator": "Baldman Games",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-23-PHLAN-2-2",
+        "name": "Hatemaster",
+        "description": "With the Banite coup recently foiled, election day in Phlan has finally arrived. But the Lord of Darkness needs a new representative. Colvin Doverson, his qualifications rooted in Phlan’s brutal past, requires additional vetting and may need your assistance.",
+        "creator": "Baldman Games",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-24-PHLAN-2-3",
+        "name": "The Royal We",
+        "description": "With the Banite coup recently foiled, election day in Phlan has finally arrived. But the Lord of Darkness needs a new representative. Jhessail Greycastle, with her grand plans for the future of Phlan, requires additional vetting and may need your assistance.",
+        "creator": "Baldman Games",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-PHLAN2S",
+        "name": "Damnation",
+        "description": "",
+        "creator": "Baldman Games",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-25-CODE-3-1",
+        "name": "The Spectral Incursion",
+        "description": "As Melvaunt rebuilds after the devastation wrought by the modron and orc attacks, the planar portal outside the city walls continues to worry everyone in the City of a Thousand Forges. A closer examination of the portal is needed, and brave adventurers are asked to help be part of the reconnaissance team.",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-26-CODE-3-2",
+        "name": "The Ghostly Infestation",
+        "description": "Tensions are high within Melvaunt after the incident at the planar portal. Reports of strange behavior from several people, from the lowliest dockworker to the members of the Council of Lords, are taxing the resources of the City Watch. Are all of these strange behaviors just paranoid imaginings, or is a more dire threat lurking in the hearts of Melvaunt’s citizen?",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-27-CODE-3-3",
+        "name": "The Spirited Infestation",
+        "description": "The culprit behind the incident at the planar portal has been identified. Adventurers must investigate the individual behind the foul play, determining the means and the motive. But an odd party and some even odder guests threaten the investigation.",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-28-HILL-2-1",
+        "name": "The Red Gathering",
+        "description": "Desperate for assistance in returning Hillsfar to its former glory, First Lord Vuhm Yestral receives word that help may come from an unlikely source. With preparations in order, can he facilitate what the city needs, or will his red gathering all be for naught?",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-29-HILL-2-2",
+        "name": "The Red Herring",
+        "description": "The Mage’s Guild has been implicated in a recent attack on a visiting dignitary from the Red Wizards. To what extent are they involved? Is there still a threat? The Mages have pledged their cooperation in your investigation, but are they sincere? Try to find the answers to these difficult questions and earn the respect of some powerful allies in the city of Hillsfar.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-30-HILL-2-3",
+        "name": "The Red Death",
+        "description": "It all comes out. The ones behind the mages and thieves guild being implicated in an assassination attempt of the Zulkir. All that’s needed is a group of upstanding ne’re do wells to help the First Lord deal with the situation.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-31-PHLAN-3-1",
+        "name": "The Conventicle of Chaos",
+        "description": "After years of strife, Phlan is entering a new era of prosperity. Under the strong leadership of Jhessail Greycastle, external dangers have been beaten back, the city defenses have been strengthened, and the guilds are flourishing. But fresh threats have arisen within the city walls. Strange beasts stalk the night, bringing swift death in their wake, whilst a new criminal gang is vying for control of the streets. Can our heroes uncover the truth before more lives are lost?",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-32-PHLAN-3-2",
+        "name": "The First Rule",
+        "description": "Deep inside the underbelly of Phlan something sinister is going on. A new group of criminals is looking to take over illegal operations in the city and have set themselves up in the sewers. Adventurers are needed to discover what secrets lie beneath Phlan. Do you heed the call?",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-33-PHLAN-3-3",
+        "name": "Spinning on the Edge",
+        "description": "With Phlan’s prosperous new future hanging in the balance, Chancellor Calypso isn’t about to let a new stream of thieves, the recently identified Coin Spinners, flood into the city. A lucky tip and safe-house sting has secured “invitations” for a single group of adventurers into the organizations, and a path to where the supply lines end. Steel yourself, this invitation has your name all over it.",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-34-ELMW-2-1",
+        "name": "Tendrils in the Fog",
+        "description": "When a series of grisly murders and raids on farms and fishing boats come to light, accompanied by a strange fog, the people of Elmwood need heroes to investigate and stop the attacks. There is hardly anyone in the Moonsea who’s life hasn’t been touched by one of the tragedies over the past years, and these attacks may have deeper causes than anyone knows.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-35-ELMW-2-2",
+        "name": "Mists of the Moonsea",
+        "description": "The heroes of Elmwood find clues that lead them to follow the trail of their adversaries to the Bell of the Deep, the sunken castle of Northkeep beneath the violet waves of the Moonsea. Can they make it safely there through the ancient terrors of the Moonsea as well as all the obstacles their adversaries can put in the way?",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-36-ELMW-2-3",
+        "name": "Vestiges of Darkness",
+        "description": "Legends say that the fall of Northkeep was orchestrated by one man, who sought ultimate power but was cursed to remain forever within the sunken ruins of the Bell in the Deep as his only reward. Now the great betrayer might himself have been betrayed, with dire consequences for the entire Moonsea region.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-37-HULB-3-1",
+        "name": "Weakness of Rock",
+        "description": "Something stirs in the Hulburg mines. It would be nice to know what, but it would be nicer if it would stop collapsing parts of the mines and leaving catatonic miners. This could be the end of Hulburg’s windfall unless someone finds a way to stop it. Part 1 of the *Obsidian Stone* trilogy.",
+        "creator": "Baldman Games",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-38-HULB-3-2",
+        "name": "Dead Canaries",
+        "description": "Wait! Is that an upside-down staircase? Am I floating? Why are my hands triangles? Why do I have four of them? No, wait, those are not mine! Where am I? How did I get here? Part 2 of the *Obsidian Stone* trilogy.",
+        "creator": "Baldman Games",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-39-HULB-3-3",
+        "name": "Darkest Vein",
+        "description": "In the depths below Hulburg, the main user of a psychic drug made from condensed emotions will make its final stand. Those who dare descend must be mentally prepared for the onslaught that awaits, if they wish to survive. Part 3 of the *Obsidian Stone* trilogy.",
+        "creator": "Baldman Games",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-40-HULB-4-1",
+        "name": "Whispers from the Deep",
+        "description": "Usually monsters disappearing is a good thing, but what if soon after whispers can be heard in one’s dreams and people disappear? What horrors did those things stir in the ruins below? Better safe than sorry. Part 1 of the *Terror from the Deep* trilogy.",
+        "creator": "Baldman Games",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-41-HULB-4-2",
+        "name": "Voices from the Deep",
+        "description": "“Give us what we want or more ships will be sunk and crews taken,” say monsters from the deep. The authorities might give in. Somebody needs to stop them. Part 2 of the *Terror from the Deep* trilogy.",
+        "creator": "Baldman Games",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-42-HULB-4-3",
+        "name": "Call of the Deep",
+        "description": "The watery veil is lifted and the Master of the Deep is known. All that remains is killing it and lifting its destructive influence. The dangers that lurk in the unfathomable depths might be the least of your worries. Part 3 of the *Terror from the Deep* trilogy.",
+        "creator": "Baldman Games",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-43-PHLAN-4-1",
+        "name": "Ghoulies and Ghosties",
+        "description": "The unthinkable is happening in Phlan; someone, or some thing, is taking the children. What began as strange reports from outlying farms, has now become a city-wide problem. Emotions and tempers run high and accusations are thrown carelessly. The Chancellor has offered a substantial reward to anyone that can not only get to the bottom of the mystery while keeping the citizens from turning on one another in the process. You’ll need a sharp sword, and an even sharper mind?",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-44-PHLAN-4-2",
+        "name": "Long Leggity Beasties",
+        "description": "The unthinkable is happening in Phlan; someone, or some thing, is taking the children. What began as strange reports from outlying farms, has now become a city-wide problem. Emotions and tempers run high and accusations are thrown carelessly. The Chancellor has offered a substantial reward to anyone that can not only get to the bottom of the mystery while keeping the citizens from turning on one another in the process. You’ll need a sharp sword, and an even sharper mind?",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-45-PHLAN-4-3",
+        "name": "Things That Go Bump in the Night",
+        "description": "A recent rash of kidnappings in Phlan has been partially solved, but some children are still missing, and the “monster” responsible is still on the loose. His whereabouts have been narrowed, so your task is simple; bring him in, dead or alive. But how does one capture a living nightmare? Can you face your darkest fears? Do you have the courage? It will be more difficult than you think.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-46-HILL-3-1",
+        "name": "Shepherd the Weak",
+        "description": "Reports of overaggressive animals with unusual markings and body parts have been coming from the woods near Hillsfar. These creatures were born under Graz’zt’s influence over Hillsfar. Their “shepherd” has joined forces with the demon that now grows in power in the woods. The shepherd’s goal is to taint a local watering hole, giving the animals and creatures of the area demonic traits.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-47-HILL-3-2",
+        "name": "Suffer the Children",
+        "description": "Children born with demonic traits have begun to appear in Hillsfar. No one is sure of the cause, so paranoia and fear threaten to turn into a witch hunt. Every day, more of these children are born, while the true cause of the problem lays unresolved deep in the Cormanthor Forest.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-48-HILL-3-3",
+        "name": "Spare the Rod",
+        "description": "The Zhentarim were in over their heads the moment the demon child was delivered to them. They were woefully unprepared to raise a baby, let alone an infant demon. Two tenday ago, it disappeared and has not returned. With the rumors of a fiendish influence spreading throughout the forest, the Zhentarim’s worst nightmare has come true.",
+        "creator": "Baldman Games",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
         "code": "CCC-BMG-MOON1-1",
         "name": "Moonshae Treasure Hunt",
         "description": "The Moonshae Isles, beautiful and dangerous, provide adventurers the opportunity to fight evil—and uncover ancient secrets and treasures. When a mysterious figure predicts a grave future for you, it triggers an Isles-spanning adventure full of intrigue, fun, and danger!",
@@ -427,6 +1127,30 @@
         ]
     },
     {
+        "code": "CCC-BMG-MOON4-1",
+        "name": "Precious Cargo",
+        "description": "Caravan masters need to protect their cargo going to Caer Callidyrr. It is a long trek from Kythyss to the capital of Alaron wrought with danger from mercenaries loyal to Amn. Adventurers are needed to eliminate these threats, so the caravans don’t need to contend with these formidable foes.",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-MOON4-2",
+        "name": "Dangerous Dernall",
+        "description": "The Great Druid Antola Pilark and the High King’s rangers are having trouble with the Unseelie Fey in the Dernall Forest. If these creatures are allowed to continue their aggressive front, Caer Callidyrr will be threatened. Are there a band of brave souls that will reinforce the King’s line to the capital?",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BMG-MOON4-3",
+        "name": "Gate to the Unknown",
+        "description": "The deep gnomes of the Fairheight Mountains have come to Caer Callidyrr in dire need. A new threat has been discovered in the depths of the mountains. Can you venture into the tunnels of Slighean G’hìosal and uncover the source of these mysterious attacks?",
+        "creator": "Baldman Games",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
         "code": "CCC-BMG-MOON5-1",
         "name": "Bloodlust Rising",
         "description": "When it was just livestock, few took note. When people disappeared, things changed. Now farmsteads are burning and bloodthirsty cackling echo through the hills of old Gnarhelm in northern Alaron. The farmers are defenseless against such bloodlust; can heroes help? Part 1 of the *Tides of Blood* trilogy, set in the Moonshae Isles.",
@@ -608,324 +1332,6 @@
                 "description": "You’ve befriended the fey creatures that now inhabit Rushdown Wood. When traveling through the Rushdown Wood, you will find the creatures very helpful and often find them skittering around your feet or sitting on your shoulder."
             }
         ]
-    },
-    {
-        "code": "CCC-BMG-01",
-        "name": "A Scream in the Night",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-02",
-        "name": "A Cog in the Wheel",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-03",
-        "name": "A Hole in the World",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-04",
-        "name": "Tales of Good & Evil",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-05",
-        "name": "Songs of Law & Chaos",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-06",
-        "name": "Edicts of Neutrality",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-07",
-        "name": "Hulburg Rebuilding",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-08",
-        "name": "Hulburg Burning",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-09",
-        "name": "Hulburg Rising",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-HULB1S",
-        "name": "Extinction",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-10",
-        "name": "Arrival",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-11",
-        "name": "Exodus",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-12",
-        "name": "Resurgence",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-HILL1S",
-        "name": "Onslaught",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-13",
-        "name": "Sepulture",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-14",
-        "name": "Enemy of my Enemy",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-15",
-        "name": "Subterfuge",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-PHLAN1S",
-        "name": "Uprising",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-16",
-        "name": "The Sage of Cormanthor",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-17",
-        "name": "The Lost Sanctum",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-18",
-        "name": "The Battle of Elmwood",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-19",
-        "name": "Winter's Frosty Kiss",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-20",
-        "name": "Winter's Frigid Wrath",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-21",
-        "name": "Winter's Sharp Bite",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-HULB2S",
-        "name": "Winter's Feast",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-22",
-        "name": "Demagogue",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-23",
-        "name": "Hatemaster",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-24",
-        "name": "The Royal We",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-PHLAN2S",
-        "name": "Damnation",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-25",
-        "name": "The Spectral Incursion",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-26",
-        "name": "The Ghostly Infestation",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-27",
-        "name": "The Spirited Infestation",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-28",
-        "name": "The Red Gathering",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-29",
-        "name": "The Red Herring",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-30",
-        "name": "The Red Death",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-31",
-        "name": "The Conventicle of Chaos",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-32",
-        "name": "The First Rule",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-33",
-        "name": "Spinning on the Edge",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-34",
-        "name": "Tendrils in the Fog",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-35",
-        "name": "Mists of the Moonsea",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-36",
-        "name": "Vestiges of Darkness",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-37",
-        "name": "Weakness of Rock",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-38",
-        "name": "Dead Canaries",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-39",
-        "name": "Darkest Vein",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-40",
-        "name": "Whispers from the Deep",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-41",
-        "name": "Voices from the Deep",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-42",
-        "name": "Call of the Deep",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-43",
-        "name": "Ghoulies and Ghosties",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-44",
-        "name": "Long Leggity Beasties",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-45",
-        "name": "Things That Go Bump in the Night",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-46",
-        "name": "Shepherd the Weak",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-47",
-        "name": "Suffer the Children",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-BMG-48",
-        "name": "Spare the Rod",
-        "description": "",
-        "incomplete": true
     },
     {
         "code": "CCC-BWM-001",

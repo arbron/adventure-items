@@ -37,6 +37,5 @@ try AdventureItemsSite().publish(using: [
     .addAdventures(adventures, removeIncomplete: true),
     .generateHTML(withTheme: .league, indentation: .spaces(2)),
     .generateRSSFeed(including: [.adventures]),
-    .generateSiteMap(),
-    .installPlugin(try .prependAllPaths("adventure-items/"))
+    .generateSiteMap()
 ])

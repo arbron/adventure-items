@@ -26,7 +26,7 @@ body {
 }
 
 header {
-    background-color: #eee;
+    background-color: #7d10bd;
 }
 
 header .wrapper {
@@ -40,8 +40,8 @@ header a {
 }
 
 header .site-name {
-    font-size: 1.5em;
-    color: #000;
+    font-size: 3.5em;
+    color: #fff;
     font-weight: bold;
 }
 
@@ -114,6 +114,13 @@ a {
     margin-bottom: 0;
 }
 
+.item-list .adventure-code {
+    padding-left: 0.5em;
+    color: #444;
+    font-weight: lighter;
+    font-size: 0.8em;
+}
+
 .entry-label {
     padding-left: 0.5em;
     font-size: 0.9em;
@@ -150,17 +157,17 @@ a {
 .tag {
     display: inline-block;
     background-color: #000;
-    color: #ddd;
+    color: #eee;
     padding: 4px 6px;
     border-radius: 5px;
     margin-right: 5px;
 }
 
-.tag-list li.spell {
-    background-color: #001193;
+.all-tags.spell li, .tag-list li.spell {
+    background-color: #293695;
 }
-.tag-list li.rarity {
-    background-color: #ab0000;
+.all-tags.rarity li, .tag-list li.rarity {
+    background-color: #ba1111;
 }
 
 .tag-list a,

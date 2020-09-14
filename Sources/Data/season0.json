@@ -7,7 +7,8 @@
         "items": [
             {
                 "name": "Adamantine Armor",
-                "rarity": "uncommon"
+                "rarity": "uncommon",
+                "guidance": "This armor can be of any medium or heavy (but not hide) armor found in an allowed Adventurers League resource for this campaign. Players can choose the type found by their character at the end of the adventure."
             },
             {
                 "name": "Rod of Security",
@@ -39,6 +40,7 @@
         "code": "DDAL00-02a",
         "name": "The Darkwood Webs",
         "description": "A trio of exhausted sprites interrupts your group as you start to break camp and continue your journey to Hillsfar. Do you dare answer their plea for aid and enter the forest of Cormanthyr?",
+        "released": "2018-07-13",
         "tier": [1],
         "items": [
             {
@@ -63,6 +65,7 @@
         "code": "DDAL00-02b",
         "name": "The Weirding Vats",
         "description": "Goblins abound! Strange goblins have been sighted in the farm lands south of Hillsfar! Locals report that they have been straying from the forest-realm of Cormanthor to the south in increasing numbers, and beg you to put an end to their incursions!",
+        "released": "2018-07-13",
         "tier": [1],
         "items": [
             {
@@ -107,6 +110,7 @@
         "code": "DDAL00-02c",
         "name": "Spawn of the Maimed Virulence",
         "description": "Before his death, the green dragon The Maimed Virulence, Vorgansharax, had many mates across Faerûn. The forest of Cormanthor and surrounding areas have become a battleground between sibling dragons, all vying for the choicest territory. Can a band of adventurers protect Hillsfar by either defeating or negotiating with the spawn of The Maimed Virulence?",
+        "released": "2018-07-13",
         "tier": [2],
         "items": [
             {
@@ -147,6 +151,7 @@
         "code": "DDAL00-02d",
         "name": "Echoes of the Weeping War",
         "description": "Over 700 years ago the Army of Darkness raged through Cormanthor before breaking the proud city of Myth Drannor. Rumors tell of powerful magic lost deep in the Darkwood, now supposedly found, that harkens back to that terrible war.",
+        "released": "2018-07-13",
         "tier": [2],
         "items": [
             {
@@ -177,6 +182,7 @@
         "code": "DDAL00-02e",
         "name": "Forgotten Foes",
         "description": "A forgotten foe prowls the intermingled ruins of Thultanthar and Myth Drannor at the heart of the web of plots that threaten Cormanthor. You must delve into the ruins of the City of Song and bring the enemy to ground.",
+        "released": "2018-07-13",
         "tier": [3],
         "items": [
             {
@@ -265,6 +271,7 @@
         "code": "DDAL00-02f",
         "name": "The Definition of Heroism",
         "description": "Myth Drannor lies under a layer of debris that is nearly a quarter-mile thick. But there are secrets in the chaos, and some of those secrets yearn to be made known once more. Within the rubble of Thultanthar and Myth Drannor can be heard ethereal voices—but of what they speak, no sane mind has yet to report.",
+        "released": "2018-07-13",
         "tier": [4],
         "items": [
             {
@@ -342,7 +349,8 @@
             },
             {
                 "name": "Flurried Furs (Smoldering Armor)",
-                "rarity": "common"
+                "rarity": "common",
+                "guidance": "The armor chosen can be light or medium."
             }
         ]
     },
@@ -379,7 +387,7 @@
     {
         "code": "DDAL00-06",
         "name": "Lost Laboratory of Kwalish",
-        "description": "The legendary inventor Kwalish disappeared eons ago… as it turns out, finding a crashed planar ship and studying its technology to fuel his own experiments. Only now, Kwalish’s lost research is desperately needed! Will you dare an alternate expedition into the Barrier Peaks to find him?",
+        "description": "The legendary inventor Kwalish disappeared eons ago… as it turns out, finding a crashed planar ship and studying its technology to fuel his own experiments. Only now, Kwalish’s lost research is desperately needed! Will you dare an alternate expedition into the Barrier Peaks to find him?\n\n ***The new spells included in this adventure are not suitable for D&D Adventurers League play as this adventure is not a valid resource for character options.***",
         "tier": [2],
         "items": [
             {
@@ -396,7 +404,9 @@
             },
             {
                 "name": "Deck of Several Things",
-                "rarity": "legendary"
+                "rarity": "legendary",
+                "storyItem": true,
+                "guidance": "This story item is adjusted from the text in the adventure. The Gem and Key cards are missing from the deck, and the Fates card can only affect events that happen during this adventure."
             },
             {
                 "name": "Enchanted Three-Dragon Ante Deck",
@@ -448,7 +458,8 @@
             },
             {
                 "name": "Polymorph Blade",
-                "rarity": "veryRare"
+                "rarity": "veryRare",
+                "storyItem": true
             },
             {
                 "name": "Powered Armor",
@@ -581,6 +592,7 @@
         "code": "DDAL00-09",
         "name": "Minsc & Boo's Guide to Stuff and Things",
         "description": "Undermountain: The Musical! is a light-hearted, satirical adventure optimized for five 8th-level characters that takes place in Waterdeep and later a lost level of that famed dungeon: Undermountain.",
+        "released": "2019-04-01",
         "tier": [2],
         "items": [
             {
@@ -611,6 +623,7 @@
         "code": "DDAL00-10",
         "name": "Trust and Understanding",
         "description": "The shield dwarves of western Faerûn sometimes speak of a labyrinthine structure on the shores of a misty lake. Rumored to imprison an ancient creature that predates Faerûn’s beginnings, the place has long been sealed. But now coins are showing up in bazaars and trader’s booths that match the description of those minted by this citadel, and they are rightly concerned.",
+        "released": "2019-09-08",
         "tier": [4],
         "items": [
             {
@@ -651,6 +664,7 @@
         "code": "DDAL00-11a",
         "name": "Reunited and It Feels So Good",
         "description": "",
+        "released": "2019-10-24",
         "tier": [1],
         "storyAwards": [
             {
@@ -663,6 +677,7 @@
         "code": "DDAL00-11b",
         "name": "When the Debt Comes Due",
         "description": "",
+        "released": "2019-10-24",
         "tier": [1],
         "items": [
             {
@@ -693,6 +708,7 @@
         "code": "DDAL00-11c",
         "name": "I've Seen Fire and I've Seen Pain",
         "description": "",
+        "released": "2019-10-24",
         "tier": [2],
         "items": [
             {
@@ -729,6 +745,7 @@
         "code": "DDAL00-11d",
         "name": "The Love Triangle Contract",
         "description": "",
+        "released": "2019-10-24",
         "tier": [2],
         "items": [
             {
@@ -785,6 +802,7 @@
         "code": "DDAL00-11e",
         "name": "A Fire Grows in Cania",
         "description": "",
+        "released": "2019-10-24",
         "tier": [3],
         "items": [
             {
@@ -839,6 +857,7 @@
         "code": "DDAL00-11f",
         "name": "Twice as Nice for Half the Price",
         "description": "",
+        "released": "2019-10-24",
         "tier": [4],
         "items": [
             {
@@ -875,30 +894,35 @@
         "code": "DDAL00-12a",
         "name": "Bad Seed",
         "description": "",
+        "released": "2020-02-20",
         "incomplete": true
     },
     {
         "code": "DDAL00-12b",
         "name": "A Helpful Distraction",
         "description": "",
+        "released": "2020-02-20",
         "incomplete": true
     },
     {
         "code": "DDAL00-12c",
         "name": "The Soft Touch",
         "description": "",
+        "released": "2020-02-20",
         "incomplete": true
     },
     {
         "code": "DDAL00-12d",
         "name": "The Devil's Song",
         "description": "",
+        "released": "2020-02-20",
         "incomplete": true
     },
     {
         "code": "DDALCA-01",
         "name": "Return to the Ghost Tower of Inverness",
-        "description": "",
+        "released": "2019-05-23",
+        "description": "This is a familiar scene. Shackled. Bound. The same faces surround you as the last time you were in this dark, dank cell. Your friends, your party members. You’ve been told that your actions have led to death and destruction near and far, but you were only doing what was demanded of you from those who hold you captive again now. A looming figure goes over your crimes and holds out a glowing gemstone, offering a trade for your lives. “You must undo what you have done and put this back,” he whispers. “You must return to the Ghost Tower.”",
         "incomplete": true
     },
     {
@@ -1447,7 +1471,6 @@
         "code": "DDAL-OPEN-2018",
         "name": "Gangs of Waterdeep",
         "description": "",
-        "tier": [1],
         "items": [
             {
                 "name": "Wand of Fear",
@@ -1521,6 +1544,13 @@
         "code": "DDAL-OPEN-2019",
         "name": "Forged in Fire",
         "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "DDEP00-01",
+        "name": "Red War",
+        "description": "",
+        "tier": [1, 2, 3, 4],
         "incomplete": true
     },
 ]

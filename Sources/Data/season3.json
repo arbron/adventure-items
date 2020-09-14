@@ -395,7 +395,14 @@
         "items": [
             {
                 "name": "Shadowsong (Oathbow)",
-                "rarity": "veryRare"
+                "rarity": "veryRare",
+                "illegal": true
+            },
+            {
+                "name": "Weapon, +2",
+                "rarity": "rare",
+                "properties": ["Sentinel"],
+                "guidance": "Replacement for Shadowsong."
             },
             {
                 "name": "Potion of Animal Friendship",

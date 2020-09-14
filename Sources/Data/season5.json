@@ -118,7 +118,7 @@
             {
                 "name": "Mithral Splint Armor, +1",
                 "rarity": "rare",
-                "consumable": false
+                "guidance": "Players must choose between *Mithral Splint* or *Splint, +1*."
             },
             {
                 "name": "Potion of Climbing",

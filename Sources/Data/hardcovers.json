@@ -168,6 +168,48 @@
         "incomplete": true
     },
     {
+        "code": "DDHC-MORD-01",
+        "name": "Riddle of the Raven Queen",
+        "description": "",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-MORD-02",
+        "name": "The Lich-Queen's Begotten",
+        "description": "",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-MORD-03",
+        "name": "To Wake the Leviathan",
+        "description": "",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-MORD-04",
+        "name": "Pudding Faire",
+        "description": "",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-MORD-05",
+        "name": "Escape from Wheloon",
+        "description": "",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "DDHC-XGE-01",
+        "name": "Rats of Waterdeep",
+        "description": "",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
         "code": "DDHC-OotA",
         "name": "Out of the Abyss",
         "description": "**Dare to descend into the Underdark in this adventure for the world’s greatest roleplaying game!**\n\n The Underdark is a subterranean wonderland, a vast and twisted labyrinth where fear reigns. It is the home of horrific monsters that have never seen the light of day. It is here that the dark elf Gromph Baenre, Archmage of Menzoberranzan, casts a foul spell meant to ignite a magical energy that suffuses the Underdark and tears open portals to the demonic Abyss. What steps through surprises even him, and from that moment on, the insanity that pervades the Underdark escalates and threatens to shake the Forgotten Realms to its foundations. Stop the madness before it consumes you!",
@@ -220,7 +262,13 @@
             },
             {
                 "name": "Drown",
-                "rarity": "legendary"
+                "rarity": "legendary",
+                "storyItem": true
+            },
+            {
+                "name": "Dwarven Plate",
+                "rarity": "veryRare",
+                "guidance": "Optional reward for turning Orcsplitter over to the Harpers."
             },
             {
                 "name": "Dwarven Thrower",
@@ -244,7 +292,8 @@
             },
             {
                 "name": "Ironfang",
-                "rarity": "legendary"
+                "rarity": "legendary",
+                "storyItem": true
             },
             {
                 "name": "Longsword, +1",
@@ -264,7 +313,8 @@
             },
             {
                 "name": "Orcsplitter",
-                "rarity": "legendary"
+                "rarity": "legendary",
+                "guidance": "If not turned over to the Harpers, this acts as a magical silvered battleaxe."
             },
             {
                 "name": "Pearl of Power",
@@ -291,6 +341,11 @@
                 "rarity": "uncommon"
             },
             {
+                "name": "The Smasher (Maul, +1)",
+                "rarity": "rare",
+                "guidance": "Optional reward for turning Orcsplitter over to the Harpers. Acts as a *decanter of endless water* but dispenses potent dwarven spirits instead."
+            },
+            {
                 "name": "Stone of Good Luck (Luckstone)",
                 "rarity": "uncommon"
             },
@@ -304,7 +359,13 @@
             },
             {
                 "name": "Tinderstrike",
-                "rarity": "legendary"
+                "rarity": "legendary",
+                "storyItem": true
+            },
+            {
+                "name": "Token of Resurrection",
+                "rarity": "unique",
+                "guidance": "Optional reward for turning Orcsplitter over to the Harpers. Can be traded to the Harpers for one free *resurrection*."
             },
             {
                 "name": "Trident of Fish Command",
@@ -323,12 +384,18 @@
                 "rarity": "uncommon"
             },
             {
+                "name": "Weapon, +2",
+                "rarity": "rare",
+                "guidance": "Optional reward for turning Orcsplitter over to the Harpers. Against orcs, the weapon inflicts +2d6 damage."
+            },
+            {
                 "name": "Weird Tank",
                 "rarity": "rare"
             },
             {
                 "name": "Windvane",
-                "rarity": "legendary"
+                "rarity": "legendary",
+                "storyItem": true
             },
             {
                 "name": "Wingwear",

@@ -40,7 +40,7 @@ private struct LeagueHTMLFactory: HTMLFactory {
                         .unwrap(splitItems[category]) { items in
                             .group(
                                 .h2(.text(category.stringValue)),
-                                .itemList(for: items, on: context.site)
+                                .adventureList(for: items)
                             )
                         }
                     })
@@ -77,7 +77,7 @@ private struct LeagueHTMLFactory: HTMLFactory {
                 .header(for: context, selectedSection: section.id),
                 .wrapper(
                     .h1(.text(section.title)),
-                    .itemList(for: section.items, on: context.site)
+                    .adventureList(for: section.items)
                 ),
                 .footer(for: context.site)
             )
@@ -148,9 +148,8 @@ private struct LeagueHTMLFactory: HTMLFactory {
                         .text("Browse all tags"),
                         .href(context.site.tagListPath)
                     ),
-                    .itemList(
-                        for: context.items(taggedWith: page.tag, sortedBy: \.title, order: .ascending),
-                        on: context.site
+                    .adventureList(
+                        for: context.items(taggedWith: page.tag, sortedBy: \.title, order: .ascending)
                     )
                 ),
                 .footer(for: context.site)
@@ -160,6 +159,8 @@ private struct LeagueHTMLFactory: HTMLFactory {
 }
 
 private extension Node where Context == HTML.BodyContext {
+    static var parser = MarkdownParser()
+
     static func wrapper(_ nodes: Node...) -> Node {
         .div(.class("wrapper"), .group(nodes))
     }
@@ -185,13 +186,16 @@ private extension Node where Context == HTML.BodyContext {
         )
     }
 
-    static func itemList<T: Website>(for items: [Publish.Item<T>], on site: T) -> Node {
+    static func adventureList(for items: [Publish.Item<AdventureItemsSite>]) -> Node {
         .ul(
             .class("item-list"),
             .forEach(items) { item in
                 .li(.article(
-                    .h1(.a(.href(item.path), .text(item.title))),
-                    .raw(MarkdownParser().html(from: item.description))
+                    .h1(
+                        .a(.href(item.path), .text(item.metadata.adventure.name)),
+                        .span(.class("adventure-code"), .text(item.metadata.adventure.code))
+                    ),
+                    .raw(Self.parser.html(from: item.description))
                 ))
             }
         )
@@ -202,7 +206,7 @@ private extension Node where Context == HTML.BodyContext {
             .class("tag-list"),
             .forEach(item.tags) { tag in
                 .li(
-                    .class(tag.tagClass ?? ""),
+                    .unwrap(tag.tagClass) { .class($0) },
                     .a(.href(site.path(for: tag)), .text(tag.string))
                 )
             }
@@ -230,10 +234,10 @@ private extension Node where Context == HTML.BodyContext {
         }
 
         func tagSection(name: String, tags: [(Tag, String)]) -> Node {
-            .group(
+            .if(!tags.isEmpty, .group(
                 .h1(.text(name)),
                 .ul(
-                    .class("all-tags"),
+                    .class("all-tags \(tags[0].0.tagClass ?? "")"),
                     .forEach(tags) { tag in
                         .li(
                             .class("tag"),
@@ -242,7 +246,7 @@ private extension Node where Context == HTML.BodyContext {
                     }
                 ),
                 .br()
-            )
+            ))
         }
 
         return .group(
@@ -257,11 +261,19 @@ private extension Node where Context == HTML.BodyContext {
     static func footer<T: Website>(for site: T) -> Node {
         .footer(
             .p(
-                .text("Generated using "),
-                .a(.href("https://github.com/johnsundell/publish"), .text("Publish"))
+                .text("Created by Jeff Hitchcock"),
+                .text(" | "),
+                .a(.href("https://twitter.com/arbron"), .text("Twitter")),
+                .text(" | "),
+                .a(.href("https://arbron.space"), .text("Tumblr")),
+                .text(" | "),
+                .a(.href("https://moviemaps.org"), .text("MovieMaps"))
             ),
             .p(
-                .a(.href("/feed.rss"), .text("RSS feed"))
+                .text("Generated using "),
+                .a(.href("https://github.com/johnsundell/publish"), .text("Publish")),
+                .text(" from this "),
+                .a(.href("https://github.com/arbron/adventure-items/"), .text("source"))
             )
         )
     }

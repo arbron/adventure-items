@@ -902,7 +902,19 @@
         "description": "",
         "released": "2020-08-12",
         "creator": "Baldman Games",
-        "incomplete": true
+        "tier": [1],
+        "items": [
+            {
+                "name": "Wand of Secrets",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Spell Scroll of Fog Cloud",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-BMG-MOON1-3",
@@ -910,7 +922,19 @@
         "description": "",
         "released": "2020-08-12",
         "creator": "Baldman Games",
-        "incomplete": true
+        "tier": [1],
+        "items": [
+            {
+                "name": "Bag of Holding",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-BMG-MOON1-4",
@@ -918,7 +942,19 @@
         "description": "",
         "released": "2020-08-12",
         "creator": "Baldman Games",
-        "incomplete": true
+        "tier": [1],
+        "items": [
+            {
+                "name": "Lantern of Revealing",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Giant Strength (Hill)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-BMG-MOON1-5",
@@ -926,7 +962,13 @@
         "description": "",
         "released": "2020-08-12",
         "creator": "Baldman Games",
-        "incomplete": true
+        "tier": [1],
+        "items": [
+            {
+                "name": "Alchemy Jug",
+                "rarity": "uncommon"
+            }
+        ]
     },
     {
         "code": "CCC-BMG-MOON2-1",

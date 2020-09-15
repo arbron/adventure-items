@@ -546,7 +546,7 @@
         ],
         "storyAwards": [
             {
-                "name": "Savior of hillsfar",
+                "name": "Savior of Hillsfar",
                 "description": "Your actions in finding the portals created by Malkyn Grenefeld have given the army of Hillsfar a chance against the incoming Dark Fey. The citizens of Hillsfar recognize you when you are in a public tavern or inn. The first round of drinks and food are paid for by grateful patrons. Your first night of stay at any inn is on the house as well."
             },
             {
@@ -562,7 +562,104 @@
         "released": "2016-07-31",
         "creator": "Baldman Games",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Miltiades’s Shield (Shield, +3)",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Explorer's Pack",
+                "rarity": "common",
+                "count": 1
+            },
+            {
+                "name": "Holy Symbol of Kelemvor",
+                "rarity": "common",
+                "count": 1
+            },
+            {
+                "name": "Holy Symbol of Tyr",
+                "rarity": "common",
+                "count": 1
+            },
+            {
+                "name": "Holy water (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Lesser Restoration",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Wind Wall",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Zone of Truth",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Torch",
+                "rarity": "common",
+                "consumable": true,
+                "count": 5
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Eihim’s Traveling Spellbook",
+                "spells": [
+                    { "name": "detect magic", "level": 1 },
+                    { "name": "identify", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "detect thoughts", "level": 2 },
+                    { "name": "mirror image", "level": 2 },
+                    { "name": "misty step", "level": 2 },
+                    { "name": "counterspell", "level": 3 },
+                    { "name": "fly", "level": 3 },
+                    { "name": "lightning bolt", "level": 3 },
+                    { "name": "banishment", "level": 4 },
+                    { "name": "Evard's black tentacles", "level": 4 },
+                    { "name": "fire shield", "level": 4 },
+                    { "name": "stoneskin", "level": 4 },
+                    { "name": "cone of cold", "level": 5 },
+                    { "name": "wall of force", "level": 5 },
+                    { "name": "disintegration", "level": 6 },
+                    { "name": "teleport", "level": 7 },
+                    { "name": "maze", "level": 8 },
+                    { "name": "time stop", "level": 9 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Barbarian",
+                "description": "You have shown a willful disregard for the preservation of knowledge in Mantor’s Library. The librarians remember your callous disregard for the books and you have disadvantage on any ability checks made to convince the librarians to assist you."
+            },
+            {
+                "name": "Blasphemer",
+                "description": "You have robbed the Necropolis or allowed others to do so and your behavior has been reported back to the church of Kelemvor. Your despised name is spread far and wide among its clergy. Because of this, all members of Kelemvor’s clergy are highly distrustful of you. So long as you have this enmity, all future Charisma (Deception, Intimidation, or Persuasion) checks made against members of Kelemvor’s faithful are made with disadvantage. Additionally, the cost for any spellcasting services provided by the clergy of Kelemvor is increased by 10%. If you have **Enmity of Doomguide Yovir Glandon** from DDEX1-4 Dues from the Dead, your costs instead increase by 50%."
+            },
+            {
+                "name": "Exposed",
+                "description": "You have been previously exposed to Godstouched disease. In any adventure where you might contract this disease, increase your chance by 10%."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-14-PHLAN-1-2",
@@ -571,7 +668,20 @@
         "released": "2016-07-31",
         "creator": "Baldman Games",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Spell Scroll of Polymorph",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 3
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Master of the Thieves’ Guild",
+                "description": "You have saved Glevith of the Welcomers from certain death. In return, he makes you an honorary master of the Welcomers. All purchases you make within Phlan are 25% cheaper, including spell services.\n\n In addition, up to five future characters that you create in the Adventurers League gain a free tool proficiency in Thieves’ Tools, and begin play with a set of Thieves’ Tools."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-15-PHLAN-1-3",
@@ -580,7 +690,22 @@
         "released": "2016-07-31",
         "creator": "Baldman Games",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Frost Brand Greatsword",
+                "rarity": "veryRare"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Insider Trading",
+                "description": "Aveen Seakin is impressed with your abilities and determination. She offers to put in a good word if any of them want to become procurers for Aurora’s Whole Realms Catalog at some point in the future."
+            },
+            {
+                "name": "Razorhand-Shake",
+                "description": "You have rescued Rouse Blackbrand from certain demise. At the party’s request, Rouse vows to support their choice of candidate for Leader of Phlan. This may prove useful in the future."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-PHLAN-1-S",
@@ -596,7 +721,24 @@
         "released": "2017-01-20",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Figurine of Wondrous Power (Ivory Goat)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Mass Healing Word",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-BMG-17-ELMW-1-2",
@@ -605,7 +747,97 @@
         "released": "2017-02-10",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Bracers of Defense",
+                "rarity": "rare"
+            },
+            {
+                "name": "Spell Scroll of Bestow Curse",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Blight",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Speak with Dead",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Archmage's Spellbook",
+                "spells": [
+                    { "name": "fire bolt", "level": 0 },
+                    { "name": "light", "level": 0 },
+                    { "name": "mage hand", "level": 0 },
+                    { "name": "prestidigitation", "level": 0 },
+                    { "name": "detect magic", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "shield", "level": 1 },
+                    { "name": "misty step", "level": 2 },
+                    { "name": "suggestion", "level": 2 },
+                    { "name": "counterspell", "level": 3 },
+                    { "name": "fireball", "level": 3 },
+                    { "name": "fly", "level": 3 },
+                    { "name": "greater invisibility", "level": 4 },
+                    { "name": "ice storm", "level": 4 },
+                    { "name": "cone of cold", "level": 5 }
+                ]
+            },
+            {
+                "name": "Mage's Spellbook",
+                "spells": [
+                    { "name": "fire bolt", "level": 0 },
+                    { "name": "light", "level": 0 },
+                    { "name": "mage hand", "level": 0 },
+                    { "name": "prestidigitation", "level": 0 },
+                    { "name": "shocking grasp", "level": 0 },
+                    { "name": "detect magic", "level": 1 },
+                    { "name": "identify", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "detect thoughts", "level": 2 },
+                    { "name": "mirror image", "level": 2 },
+                    { "name": "misty step", "level": 2 },
+                    { "name": "counterspell", "level": 3 },
+                    { "name": "fly", "level": 3 },
+                    { "name": "lightning bolt", "level": 3 },
+                    { "name": "banishment", "level": 4 },
+                    { "name": "fire shield", "level": 4 },
+                    { "name": "stoneskin", "level": 4 },
+                    { "name": "cone of cold", "level": 5 },
+                    { "name": "scrying", "level": 5 },
+                    { "name": "wall of force", "level": 5 },
+                    { "name": "globe of invulnerability", "level": 6 },
+                    { "name": "teleport", "level": 7 },
+                    { "name": "mind blank", "level": 8 },
+                    { "name": "time stop", "level": 9 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Black Listed by the Shield Trading Company",
+                "description": "You made copies of or told people about the Shield Trading Company maps and scouting notes to the Varlaros Stones. You have disadvantage on social rolls with Shield Trading Company members."
+            },
+            {
+                "name": "Late to the Party",
+                "description": "You took to long on your mission and had to trek though the night to get back for the Greengrass festival. Slow poke."
+            },
+            {
+                "name": "We owe you one!",
+                "description": "Things have gone awry when you got back to Elmwood, meaning you cannot collect your 500 GP form the council or your free spellcastin service from Shayad. You can exchange this story award for the gold and free spellcasting service in any future Elmwood adventure, provided that Shayad is alive."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-18-ELMW-1-3",
@@ -614,7 +846,54 @@
         "released": "2017-02-10",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Staff of the Woodlands",
+                "rarity": "rare"
+            },
+            {
+                "name": "Alchemist's fire (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Antitoxin (vial)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Fire Breath",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Lesser Restoration",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Home Sweet Home",
+                "description": "This character has been given a plot of land in Elmwood by the Elmwood Council to use as their permanent residence. This plot of land can be either sized for a comfortably large house in the main area of the town of Elmwood OR about an acre of bare land out in the farmlands for some crops or a ranch, a barn, and a farmhouse. Future Elmwood adventures will have more information about how to upgrade this residence."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-19-HULB-2-1",
@@ -623,7 +902,24 @@
         "released": "2017-10-30",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Boots of the Winterlands",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Resistance (Cold)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ]
     },
     {
         "code": "CCC-BMG-20-HULB-2-2",
@@ -632,7 +928,18 @@
         "released": "2017-10-30",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Flame Tongue Longsword",
+                "rarity": "rare"
+            },
+            {
+                "name": "Spell Scroll of Dispel Magic",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-BMG-21-HULB-2-3",
@@ -641,7 +948,18 @@
         "released": "2017-10-30",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Studded Leather, +1",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-BMG-HULB2S",
@@ -653,32 +971,77 @@
     {
         "code": "CCC-BMG-22-PHLAN-2-1",
         "name": "Demagogue",
-        "description": "With the Banite coup recently foiled, election day in Phlan has finally arrived. But the Lord of Darkness needs a new representative. Barrett Sokol, his hand squarely on the pulse of today’s Phlan, requires additional vetting and may need your assistance.",
+        "description": "With the Banite coup recently foiled, election day in Phlan has finally arrived. But the Lord of Darkness needs a new representative. Barrett Sokol, his hand squarely on the pulse of today’s Phlan, requires additional vetting and may need your assistance. Part One of the *Sovereignty* trilogy.",
         "released": "2018-01-06",
         "creator": "Baldman Games",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Tyr’s Blessing of the Mind",
+                "rarity": "veryRare"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Guardian Medal",
+                "description": "This is an optional reward. You may choose to keep The Guardian Medal or sell it for 1000 GP.  It garners significant influence within the city, and to a lesser degree in other Moonsea cities. Adventurers wearing a Guardian Medal gain advantage on all Charisma based ability checks within the Phlan."
+            },
+            {
+                "name": "In Service to the Iron General",
+                "description": "This is an optional reward. You may choose to forgo applying the experience of this adventure if doing so would advance you to 17th level. You may only defer the awards in order to complete the other adventures in the **PHLAN2** trilogy, or **PHLAN2-S**, in subsequent sessions. You must apply all deferred experience before playing any other adventures not part of the **PHLAN2** Sovereignty Trilogy."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-23-PHLAN-2-2",
         "name": "Hatemaster",
-        "description": "With the Banite coup recently foiled, election day in Phlan has finally arrived. But the Lord of Darkness needs a new representative. Colvin Doverson, his qualifications rooted in Phlan’s brutal past, requires additional vetting and may need your assistance.",
+        "description": "With the Banite coup recently foiled, election day in Phlan has finally arrived. But the Lord of Darkness needs a new representative. Colvin Doverson, his qualifications rooted in Phlan’s brutal past, requires additional vetting and may need your assistance. Part Two of the *Sovereignty* trilogy.",
         "released": "2018-01-06",
         "creator": "Baldman Games",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Tyr's Blessing of Command",
+                "rarity": "veryRare"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Guardian Medal",
+                "description": "This is an optional reward. You may choose to keep The Guardian Medal or sell it for 1000 GP.  It garners significant influence within the city, and to a lesser degree in other Moonsea cities. Adventurers wearing a Guardian Medal gain advantage on all Charisma based ability checks within the Phlan."
+            },
+            {
+                "name": "In Service to the Iron General",
+                "description": "This is an optional reward. You may choose to forgo applying the experience of this adventure if doing so would advance you to 17th level. You may only defer the awards in order to complete the other adventures in the **PHLAN2** trilogy, or **PHLAN2-S**, in subsequent sessions. You must apply all deferred experience before playing any other adventures not part of the **PHLAN2** Sovereignty Trilogy."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-24-PHLAN-2-3",
         "name": "The Royal We",
-        "description": "With the Banite coup recently foiled, election day in Phlan has finally arrived. But the Lord of Darkness needs a new representative. Jhessail Greycastle, with her grand plans for the future of Phlan, requires additional vetting and may need your assistance.",
+        "description": "With the Banite coup recently foiled, election day in Phlan has finally arrived. But the Lord of Darkness needs a new representative. Jhessail Greycastle, with her grand plans for the future of Phlan, requires additional vetting and may need your assistance. Part Three of the *Sovereignty* trilogy.",
         "released": "2018-01-06",
         "creator": "Baldman Games",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Tyr's Blessing of Luck",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Guardian Medal",
+                "description": "This is an optional reward. You may choose to keep The Guardian Medal or sell it for 1000 GP.  It garners significant influence within the city, and to a lesser degree in other Moonsea cities. Adventurers wearing a Guardian Medal gain advantage on all Charisma based ability checks within the Phlan."
+            },
+            {
+                "name": "In Service to the Iron General",
+                "description": "This is an optional reward. You may choose to forgo applying the experience of this adventure if doing so would advance you to 17th level. You may only defer the awards in order to complete the other adventures in the **PHLAN2** trilogy, or **PHLAN2-S**, in subsequent sessions. You must apply all deferred experience before playing any other adventures not part of the **PHLAN2** Sovereignty Trilogy."
+            }
+        ]
     },
     {
-        "code": "CCC-BMG-PHLAN2S",
+        "code": "CCC-BMG-PHLAN-2-S",
         "name": "Damnation",
         "description": "",
         "creator": "Baldman Games",
@@ -691,7 +1054,20 @@
         "released": "2018-04-12",
         "creator": "Baldman Games",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Potion of Giant Strength (Hill)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            }
+        ]
     },
     {
         "code": "CCC-BMG-26-CODE-3-2",
@@ -700,7 +1076,24 @@
         "released": "2018-04-12",
         "creator": "Baldman Games",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Ring of Mind Shielding",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Detect Thoughts",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-BMG-27-CODE-3-3",
@@ -709,7 +1102,26 @@
         "released": "2018-04-12",
         "creator": "Baldman Games",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Amulet of Shielding (Broach of Shielding)",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Binder’s Interest",
+                "description": "You’ve given a soul to the Binder to save your own or one of your friends. That kind of desperation and deal making is useful to the Binder and its piers. You’re on the Binder’s list of possible mortal assets."
+            },
+            {
+                "name": "Captain Eledstra’s Regard",
+                "description": "Being successful in getting the confession from Zerak has gained the favor of Captain Eledstra. In the future, you may be able to depend on her to help you get out of trouble or to gain the benefit of the doubt from the City Watch of Melvaunt."
+            },
+            {
+                "name": "Soulless Survivor",
+                "description": "You gave up your soul to the arcanoloth known as the Binder. If you die, no magic can return your soul to your body. The lack of a soul has changed you though. Everything you eat tastes bland. Colors are less vibrant. Jokes are less funny, unless someone gets hurt. If you are ever brought back to life, you hear a voice in the darkness say, “I’ll let you live… this time!.”"
+            }
+        ]
     },
     {
         "code": "CCC-BMG-28-HILL-2-1",
@@ -718,7 +1130,28 @@
         "released": "2018-04-18",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Portable Hole",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Vitality",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Come On Over",
+                "description": "The Zulkir has invited you and your friends to travel to Mulmaster to spend a month at no expense to you (no cost for living expenses when using downtime days for a lavish lifestyle). Once this is used, remove the Story Award."
+            },
+            {
+                "name": "You've Got a Friend in Me",
+                "description": "The Zulkir remembers his debts and debtors and spreads word through the Red Wizard channels that you are a friend of Thay. You receive advantage on all ability checks throughout the rest of **HILL2-2** and **HILL2-3** in dealing with the Red Wizards. Each module has this Story Award and if a character receives three ranks of this, the effect is permanent in any dealings with the Red Wizards of Thay."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-29-HILL-2-2",
@@ -727,7 +1160,30 @@
         "released": "2018-04-23",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Widowmaker (Crossbow, +1)",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Enmity in Hillsfar",
+                "description": "The citizens of Hillsfar don’t take kindly to being pushed around. They have started to report your movements and activities to your foes. As a result, whenever you are adventuring in the Hillsfar region, your enemies have advantage on Dexterity (Stealth) and Wisdom (Perception) checks used to determine surprise. The Story Reward “A Favor of Rogues” or “Savior of Hillsfar” can be used to negate the effects of this Story Reward."
+            },
+            {
+                "name": "Friend of the Mage’s Guild",
+                "description": "If you’re in Hillsfar and need some help with a magical problem and have time to bring it to the Mage’s Guild, you gain advantage on any check that deals with Arcana once per session. Also, any future interactions with members of the Hillsfar Mage’s Guild that require skill checks have advantage."
+            },
+            {
+                "name": "Friend of the Rogue’s Guild",
+                "description": "If you’re in Hillsfar and need some help with getting information about people or places in and around the city, you can reach out to the Rogue’s Guild once per session and gain advantage on that check. Also, any future interactions with members of the Hillsfar Rogue’s Guild that require skill checks have advantage."
+            },
+            {
+                "name": "You’ve Got a Friend in Me",
+                "description": "The Zulkir remembers his debts and debtors and spreads word through the Red Wizard channels that you are a friend of Thay. You receive advantage on all ability checks throughout the rest of **HILL2-2** and **HILL2-3** in dealing with the Red Wizards. Each module has this Story Award and if a character receives three ranks of this, the effect is permanent in any dealings with the Red Wizards of Thay."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-30-HILL-2-3",
@@ -736,7 +1192,39 @@
         "released": "2018-04-23",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Achis Atracta (Periapt of Proof against Poison)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Philter of Love",
+                "rarity": "uncommon",
+                "illegal": true
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "A Favor of Rogues",
+                "description": "For saving Isthana Ro, the Rogue’s Guild of Hillsfar owes the characters a favor. If the characters ever need a hand while in Hillsfar, or anytime Isthana Ro or a member of the Rogue’s Guild of Hillsfar is around and can be asked for help, they gain advantage on a check as if they used the aid action or can provide information they would know as if they rolled a 20 on the Knowledge check. After this has been used once it goes away."
+            },
+            {
+                "name": "Hapless in Hillsfar",
+                "description": "The failure of the characters has reverberated throughout Hillsfar, and any time the characters make a check dealing with the people of Hillsfar they have disadvantage until they succeed at an adventure and regain the faith of the people of Hillsfar."
+            },
+            {
+                "name": "Lover’s Enmity",
+                "description": "For stealing Achis Atracta from him, Martek Leer swears eternal vengeance upon all the characters bearing this Story Award. The eyes of Martek’s agents are always upon these characters when in Hillsfar. Once for each adventure played or each Downtime day spent in Hillsfar, roll a d20. On a 1, the DM may select to turn any attack roll, saving throw, or ability check the character makes into a 1 as Martek’s agents interfere. This Story Award has further consequences in future adventures!"
+            },
+            {
+                "name": "Take Care of Her",
+                "description": "Because of his failure to protect her, Martek Leer has entrusted Achis Atracta to your care—as her new bearer or companion—and tearfully wishes you a wonderful future together. His love-filled well-wishes bear a special kind of luck. Once for each adventure played in Hillsfar, you can invoke that luck to add 1d4 to any d20 roll you make. You can apply this Story Award after you make the roll, but before the results are known."
+            },
+            {
+                "name": "You’ve Got a Friend in Me",
+                "description": "The Zulkir remembers his debts and debtors and spreads word through the Red Wizard channels that you are a friend of Thay. You receive advantage on all ability checks throughout the rest of **HILL2-2** and **HILL2-3** in dealing with the Red Wizards. Each module has this Story Award and if a character receives three ranks of this, the effect is permanent in any dealings with the Red Wizards of Thay."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-31-PHLAN-3-1",
@@ -745,7 +1233,24 @@
         "released": "2018-07-16",
         "creator": "Baldman Games",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Stone of Good Luck",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Invisibility",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-BMG-32-PHLAN-3-2",
@@ -754,7 +1259,34 @@
         "released": "2018-07-16",
         "creator": "Baldman Games",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Lantern of Revealing",
+                "rarity": "uncommon"
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Holt’s Spellbook",
+                "spells": [
+                    { "name": "shocking grasp", "level": 0 },
+                    { "name": "disguise self", "level": 1 },
+                    { "name": "illusory script", "level": 1 },
+                    { "name": "arcane lock", "level": 2 },
+                    { "name": "invisibility", "level": 2 },
+                    { "name": "phantasmal force", "level": 2 },
+                    { "name": "see invisibility", "level": 2 },
+                    { "name": "bestow curse", "level": 3 },
+                    { "name": "glyph of warding", "level": 3 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Crucible Champion",
+                "description": "Your group won enough battles in the Crucible of Mayhem to earn a reputation among the Coin Spinners. You may expend this story reward to gain advantage on an ability check against a Coin Spinner member."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-33-PHLAN-3-3",
@@ -763,7 +1295,30 @@
         "released": "2018-07-16",
         "creator": "Baldman Games",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Bone-pommeled Glaive (Polearm, +1)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Alchemist's fire (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Time Well Spin’t",
+                "description": "Few events stick with us as much as when going deep undercover to infiltrate a criminal organization. Your experiences infiltrating the Coin Spinners stick with you for life, so you typically know any information available to the lower ranks and may have picked up more during your assignment.\n\n You have advantage when making Intelligence (History) checks to recall all but the most secret information regarding the organization’s known rank structure, members, past operations and discovered or rumored locations.\n\n Further, you can’t be at disadvantage when making a Charisma skill check to Intimidate, Persuade, or Deceive a Coin Spinner that you have spent at least 10 minutes studying to determine how they fit into the organization."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-34-ELMW-2-1",
@@ -772,7 +1327,28 @@
         "released": "2018-10-03",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Portable Hole",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Friend of Mercy Hill",
+                "description": "For returning the wagon to the fledgling community of former cultists, escaped gladiatorial slaves, and reformed ruffians trying to make amends, you have their thanks. Provided that you work at least 2 hours a day in their farms and do not ask questions about their past lives and transgressions, you may enjoy low lifestyle for free while staying there."
+            },
+            {
+                "name": "Friends of Tenebrosus",
+                "description": "If the characters had a substantially positive interaction with the tiefling Tenebrous, then give the characters this story reward. Consequences will be detailed in a future Baldman Games Elmwood adventure."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-35-ELMW-2-2",
@@ -781,7 +1357,26 @@
         "released": "2018-10-03",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Necklace of Prayer Beads",
+                "rarity": "rare"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Alfred Lives",
+                "description": "If the characters did not kill Alfred the Bone Eater, then give them this story award. Consequences will be detailed in a future Baldman Games Elmwood adventure."
+            },
+            {
+                "name": "Lathai Lives",
+                "description": "If the characters did not kill Lathai the Heartseeker, then give them this story award. Consequences will be detailed in a future Baldman Games Elmwood adventure."
+            },
+            {
+                "name": "Mourning Prince Ulatha",
+                "description": "If Prince Ulatha is killed or if the characters are overcome by the Marel, give them this story award. Consequences will be detailed in a future Baldman Games Elmwood adventure."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-36-ELMW-2-3",
@@ -790,7 +1385,36 @@
         "released": "2018-10-03",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Elven Chain",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Growth",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Psychic)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Reincarnate",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Good News Is…",
+                "description": "…that you’re not dead. Constable Mathnir had to send a rescue team to Northkeep to recover your brainless body and have the chief cleric of the Temple of Bane in Elmwood cast Resurrection. The cost for the process is 50 downtime days and 3,500 gold. If you do not have 3,500 gold, the Temple of Bane takes whatever gold you have. Not your finest hour."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-37-HULB-3-1",

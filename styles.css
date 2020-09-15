@@ -79,6 +79,7 @@ h3 .release {
     float: right;
     padding-top: 0.333em;
     font-size: 0.8em;
+    font-style: normal;
 }
 
 p {
@@ -87,6 +88,10 @@ p {
 
 a {
     color: inherit;
+}
+
+td, th {
+    padding: 0.1em 0.25em;
 }
 
 .description {
@@ -119,12 +124,14 @@ a {
     color: #444;
     font-weight: lighter;
     font-size: 0.8em;
+    font-style: normal;
 }
 
 .entry-label {
     padding-left: 0.5em;
     font-size: 0.9em;
     font-variant: small-caps;
+    font-style: normal;
 }
 
 .illegal {
@@ -147,6 +154,9 @@ a {
 .story-award p:first-of-type {
     border-top: 1px solid gray;
     padding-top: 0.2em;
+}
+.story-award table {
+    padding-left: 0.75em;
 }
 
 .tag-list {

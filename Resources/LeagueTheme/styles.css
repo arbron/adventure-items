@@ -79,6 +79,7 @@ h3 .release {
     float: right;
     padding-top: 0.333em;
     font-size: 0.8em;
+    font-style: normal;
 }
 
 p {
@@ -123,12 +124,14 @@ td, th {
     color: #444;
     font-weight: lighter;
     font-size: 0.8em;
+    font-style: normal;
 }
 
 .entry-label {
     padding-left: 0.5em;
     font-size: 0.9em;
     font-variant: small-caps;
+    font-style: normal;
 }
 
 .illegal {

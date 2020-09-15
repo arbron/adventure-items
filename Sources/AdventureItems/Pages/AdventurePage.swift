@@ -149,7 +149,7 @@ extension Publish.Item where Site == AdventureItemsSite {
                     Self.subheadingTiers(tiers)
                 },
                 .if(adventure.released != nil || adventure.creator != nil,
-                    .span(
+                    .em(
                         .class("release"),
                         Self.subheadingRelease(adventure)
                     )
@@ -174,7 +174,7 @@ extension Publish.Item where Site == AdventureItemsSite {
 
     private static func subheadingRelease(_ adventure: Adventure) -> Node<HTML.BodyContext> {
         .group(
-            "Released ",
+            " Released ",
             .unwrap(adventure.creator) { creator in
                 .text(" by \(creator)")
             },
@@ -195,7 +195,7 @@ extension Publish.Item where Site == AdventureItemsSite {
                         .if(item.illegal, .class("illegal")),
                         .text(item.name)
                     ),
-                    .span(
+                    .em(
                         .class("entry-label"),
                         .if(!item.illegal,
                             .text(item.rarity.name),
@@ -215,7 +215,7 @@ extension Publish.Item where Site == AdventureItemsSite {
                         .strong("\(spellbook.name): "),
                         "\(spells)",
                         .if(spellbook.note != "",
-                            .span(
+                            .em(
                                 .class("entry-label"),
                                 .text(spellbook.note)
                             )
@@ -236,7 +236,7 @@ extension Publish.Item where Site == AdventureItemsSite {
                 .summary(
                     .text(award.name),
                     .if(award.downtime,
-                        .span(
+                        .em(
                             .class("entry-label"),
                             .text("Downtime Activity")
                         )

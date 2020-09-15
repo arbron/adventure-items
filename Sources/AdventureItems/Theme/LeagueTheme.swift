@@ -193,7 +193,7 @@ private extension Node where Context == HTML.BodyContext {
                 .li(.article(
                     .h1(
                         .a(.href(item.path), .text(item.metadata.adventure.name)),
-                        .span(.class("adventure-code"), .text(item.metadata.adventure.code))
+                        .em(.class("adventure-code"), .text(item.metadata.adventure.code))
                     ),
                     .raw(Self.parser.html(from: item.description))
                 ))

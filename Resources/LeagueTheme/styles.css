@@ -89,6 +89,10 @@ a {
     color: inherit;
 }
 
+td, th {
+    padding: 0.1em 0.25em;
+}
+
 .description {
     margin-bottom: 40px;
 }
@@ -147,6 +151,9 @@ a {
 .story-award p:first-of-type {
     border-top: 1px solid gray;
     padding-top: 0.2em;
+}
+.story-award table {
+    padding-left: 0.75em;
 }
 
 .tag-list {

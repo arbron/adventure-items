@@ -1423,7 +1423,28 @@
         "released": "2018-12-07",
         "creator": "Baldman Games",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Manual of Quickness of Action",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Speed",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Hanging with the Hags",
+                "description": "Your time with the hags has had a profound effect on you and they have given you a special boon. Once per adventure, you can gain advantage on a d20 roll. Doing so allows the hags to impose disadvantage on a d20 roll later in the adventure at the discretion of the DM."
+            },
+            {
+                "name": "Gratitude of Brightstar Moonsilver",
+                "description": "For rescuing Brightstar, he is grateful and will serve as a mount for lawful good adventurers for three adventures. His stats are the standard unicorn stats found on page 294 of the *Monster Manual*."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-38-HULB-3-2",
@@ -1432,7 +1453,30 @@
         "released": "2018-12-07",
         "creator": "Baldman Games",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Potion of Mind Reading",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Antipathy/Sympathy",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Mental Fortitude",
+                "description": "You prevailed in a direct duel of the minds with the alhoon Berach, thus your mind is strengthened. You may choose to have advantage on each of the three mental saves once, scratching each off the sheet after use (once each for an Intelligence, Wisdom and Charisma save)."
+            },
+            {
+                "name": "Mental Fracture",
+                "description": "You failed in a direct duel of the minds with the alhoon Berach, thus your mind is weakened. You have disadvantage on each of the first three mental saves once (once each for an Intelligence, Wisdom and Charisma save). In addition, Berach has a special connection with your mind which might have an impact in future adventures."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-39-HULB-3-3",
@@ -1441,34 +1485,139 @@
         "released": "2018-12-07",
         "creator": "Baldman Games",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Dream Whirl (Lance, +3)",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Silvered Shortword",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Longevity",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Supreme Healing",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Plane Shift",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Deadly Sins",
+                "description": "Your hubris and sloth-like agility has cost you much. The alhoon Berach gained back its determination and resolve, slaying anyone left in its plane and escaping from your sight. What this means for the region as a whole has yet to be determined, though you know for certain that this cannot be good. The citizens of Hulburg distrust you, causing disadvantage on all social checks within the city and its environments for the foreseeable future."
+            },
+            {
+                "name": "A Merciful Soul",
+                "description": "After seeing and hearing the plight of the alhoon Berach, you have decided that sparing its life so that it may spend its last year hunting for peace was the correct decision. Whether this will be the correct decision in the future has yet to be determined…"
+            },
+            {
+                "name": "Planar Studies",
+                "description": "With the alhoon's unique plane available for study, those interested in its creation can spend time studying it and learn its secrets. By spending 50 downtime days, a character can do one of the following to a demiplane they have created. Each effect can be given used multiple times, costing 50 downtime days per use. Each individual demiplane that you control can receive each of the following effects once.\n\n- Hide one created demiplane, making other spellcasters unable to enter the chosen demiplane without explicit permission. This can take the form of a key, object, pass-phrase, or other way to authenticate.\n- Connect one demiplane with another chosen demiplane that they control. This allows easy access to the connected demiplanes without the need to cast demiplane multiple times.",
+                "downtime": true
+            }
+        ]
     },
     {
         "code": "CCC-BMG-40-HULB-4-1",
         "name": "Whispers from the Deep",
-        "description": "Usually monsters disappearing is a good thing, but what if soon after whispers can be heard in one’s dreams and people disappear? What horrors did those things stir in the ruins below? Better safe than sorry. Part 1 of the *Terror from the Deep* trilogy.",
+        "description": "Usually monsters disappearing is a good thing, but what if soon after whispers can be heard in one’s dreams and people disappear? What horrors did those things stir in the ruins below? Better safe than sorry.\n\n Part One of the *Terror from the Deep* trilogy.",
         "released": "2019-01-21",
         "creator": "Baldman Games",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Instrument of the Bards (Anstruth Harp)",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Clairvoyance",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Water Breathing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Whispers of Dagon",
+                "description": "You exposed yourself to the power of the *Orb of Creation*. Your mind is plagued by whispers and nightmares. You are required to spend 2 more hours completing a long rest then the usual required hours. This story award remains in effect until the character finishes **CCC-BMG-HULB 04-03**.\n\n Alternatively, you can choose to remove the curse by spending 10 downtime days meditating and clearing your mind of Dagon’s influence."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-41-HULB-4-2",
         "name": "Voices from the Deep",
-        "description": "“Give us what we want or more ships will be sunk and crews taken,” say monsters from the deep. The authorities might give in. Somebody needs to stop them. Part 2 of the *Terror from the Deep* trilogy.",
+        "description": "“Give us what we want or more ships will be sunk and crews taken,” say monsters from the deep. The authorities might give in. Somebody needs to stop them.\n\n Part Two of the *Terror from the Deep* trilogy.",
         "released": "2019-01-21",
         "creator": "Baldman Games",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Folding Boat",
+                "rarity": "rare"
+            },
+            {
+                "name": "Alchemist's fire (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 8
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 2
+            }
+        ]
     },
     {
         "code": "CCC-BMG-42-HULB-4-3",
         "name": "Call of the Deep",
-        "description": "The watery veil is lifted and the Master of the Deep is known. All that remains is killing it and lifting its destructive influence. The dangers that lurk in the unfathomable depths might be the least of your worries. Part 3 of the *Terror from the Deep* trilogy.",
+        "description": "The watery veil is lifted and the Master of the Deep is known. All that remains is killing it and lifting its destructive influence. The dangers that lurk in the unfathomable depths might be the least of your worries.\n\n Part Three of the *Terror from the Deep* trilogy.",
         "released": "2019-01-21",
         "creator": "Baldman Games",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Robe of Eyes",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Water Breathing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Water Breathing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "A Far Realm Connection",
+                "description": "Your use of the *orb of creation* has given you a connection to the Far Realm, which is generally not a good thing for one’s sanity. You gain the flaw “I have visions of monstrosities within my friends.” This manifests itself in various ways, but the most insidious is this: at random times when you are at peace and associating with friends, they suddenly turn into hideous monsters in your eyes."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-43-PHLAN-4-1",
@@ -1477,7 +1626,12 @@
         "released": "2019-01-25",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Helm of Teleportation",
+                "rarity": "rare"
+            }
+        ]
     },
     {
         "code": "CCC-BMG-44-PHLAN-4-2",
@@ -1486,7 +1640,12 @@
         "released": "2019-01-25",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Cloak of the Bat",
+                "rarity": "rare"
+            }
+        ]
     },
     {
         "code": "CCC-BMG-45-PHLAN-4-3",
@@ -1495,7 +1654,45 @@
         "released": "2019-01-25",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Wand of Fear",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Flying",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Greater Restoration",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Friend of the Order of the Long Death",
+                "description": "You helped a monk of the Way of the Long Death retrieve information about a significant leader and monastery of his Order. Your name is now known among their devoted. At the DMs discretion, they look upon you with favor and you may take shelter at their monasteries."
+            },
+            {
+                "name": "Quassine Colony Ring",
+                "description": "You possess a signet ring of the Quassine colony of illithids. The ring is decorated with an inlaid qualith, illithid writings. It holds psychic knowledge of the colony as it existed when the ring was taken from its illithid owner. As long as you possess this ring, the colony will attempt to recover it by hunting you down. Any gith would also go to great lengths or expense to learn the information it holds. This award expires if possession of the ring is lost."
+            },
+            {
+                "name": "State of the Quassine",
+                "description": "By spending **three downtime days** in study, the possessor of the Quassine signet ring may learn the following information:\n\n *The Quassine colony of illithids is a new colony that has recently broken free of their elder brain and are under the leadership of the ulitharid, Lord Vathrax. Their prized possession is a nautiloid ship and they will do anything to protect it. Vathrax, much like Kaidan, became intrigued by the monk’s studies, and the power held by Phryne. Assuming they can get her to move it into another plane, they also covet the monastery as a location suitable for Vathrax’s transition to an Elder Brain.*",
+                "downtime": true
+            }
+        ]
     },
     {
         "code": "CCC-BMG-46-HILL-3-1",
@@ -1504,7 +1701,24 @@
         "released": "2019-02-13",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Ring of Animal Influence",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Farbough Farm B&B",
+                "description": "The Farbough Family owes you a debt of gratitude for the safe return of their son Pynroth. Whenever your adventuring brings you to the Hillsfar area, you are welcome to lodge with them on their farm, board included.\n\n They cannot promise you anything fancier than a warm and dry play to lay your bedroll and simple but hearty food, including Bea’s famous Buckwheat pancakes smothered in their own farm fresh maple syrup to fill your belly, but their home is yours.\n\n This grants you a modest lifestyle for the duration of your stay, at no cost to you. If you choose to live a more lavish lifestyle, this award will reduce your cost by 1 gp a day."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-47-HILL-3-2",
@@ -1513,7 +1727,36 @@
         "released": "2019-02-13",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Wand of Wonder",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Heroism",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Necrotic)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Healer’s Gratitude",
+                "description": "Carilaea Fallowmoth’s reputation and livelihood have been saved thanks to you. She offers each member of the party a potion of greater healing as thanks. You also receive discounted rates on the following spellcasting services if you go to her during any adventure that takes place in or around Hillsfar.\n\n| Spell | Former Cost | New Cost |\n| ------ | ------ | ------ |\n| Cure wounds (1st level) | 10 gp | 5 gp |\n| Lesser restoration | 40 gp | 20 gp |\n| Prayer of healing (2nd level) | 40 gp | 20 gp |\n| Remove curse | 90 gp | 45 gp |\n| Greater restoration | 450 gp | 225 gp |"
+            }
+        ]
     },
     {
         "code": "CCC-BMG-48-HILL-3-3",
@@ -1522,7 +1765,49 @@
         "released": "2019-02-13",
         "creator": "Baldman Games",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Ioun Stone of Reserve",
+                "rarity": "rare"
+            },
+            {
+                "name": "Oil of Slipperiness",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Animal Friendship",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Clairvoyance",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "A Debt Owed",
+                "description": "The Zhentarim appreciate your efforts. You may remove this story award from your log sheet in exchange for either of the following:\n\n- You may remove the **In Dark Linsa’s Pocket** story award from **DDEX1-10**, if you have it and you wish to do so.\n- If you are a member of the Zhentarim, you may gain **one additional renown point**.\n\n Otherwise, keep this story award and it may have other repercussions in the future."
+            },
+            {
+                "name": "Hidey Hole",
+                "description": "You know of a long-lost fey’ri complex under an abandoned farm on the outskirts of Hillsfar. Before or after any adventure in Hillsfar (including any **DDEX3-xx** or **HILL x-x** adventure), you may spend downtime in the area and receive the benefits of a Modest lifestyle at no cost."
+            },
+            {
+                "name": "Learn the Culture (Hillsfar)",
+                "description": "You may spend 5 downtime days (and the associated lifestyle cost) in Hillsfar touring the city and learning the history of the region. You gain advantage on any single ability check relating to the city of Hillsfar, the Red Plumes, the Great Law of Trade, or on any single attack against a fiendish or evil fey creature.",
+                "downtime": true
+            },
+            {
+                "name": "Whispers of Madness",
+                "description": "Your dreams are occasionally haunted by visions of Nolo and an old human man wearing torn and bloody clothes that are somehow related. You gain the ability to read and understand spoken Abyssal (but not to speak or write it) if you do not already have it."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-MOON1-1",

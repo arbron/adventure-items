@@ -68,6 +68,7 @@
         "code": "DDEP-DRW01",
         "name": "Assault on Myth Nantar",
         "description": "Thay has set it sights on taking the underwater city of Myth Nantar. Can you stop a full-on invasion by its undead armada, or will the elves be looking for a new home?",
+        "released": "2019-08-01",
         "tier": [2, 3],
         "items": [
             {

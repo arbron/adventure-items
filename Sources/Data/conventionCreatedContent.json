@@ -162,6 +162,7 @@
         "code": "CCC-BMG-00-HILL-1-S",
         "name": "Onslaught",
         "description": "Malkyn Grenefeld and her dark fey allies have vowed to destroy Hillsfar, and the attack is imminent. The forces of evil have established traitors inside the city, have stolen secret defense plans, and have some secret allies preparing to join the assault. The forces of good have only brave adventurers willing to die for their cause.",
+        "released": "2016-06-11",
         "creator": "Baldman Games",
         "tier": [2],
         "items": [
@@ -432,7 +433,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-HULB1S",
+        "code": "CCC-BMG-HULB-1-S",
         "name": "Extinction",
         "description": "",
         "incomplete": true
@@ -555,13 +556,6 @@
         ]
     },
     {
-        "code": "CCC-BMG-HILL1S",
-        "name": "Onslaught",
-        "description": "",
-        "creator": "Baldman Games",
-        "incomplete": true
-    },
-    {
         "code": "CCC-BMG-13-PHLAN-1-1",
         "name": "Sepulture",
         "description": "Spirits in Phlan are high in the wake of Vorgansharax’s defeat. Reconstruction plans are finally in motion, yet one threat looms. The Doomguide of Kelemvor has descended into the shadows of the necropolis and gathers dark forces around him. There is little he won’t anticipate. One should have their affairs in order before accepting this mission.",
@@ -589,7 +583,7 @@
         "incomplete": true
     },
     {
-        "code": "CCC-BMG-PHLAN1S",
+        "code": "CCC-BMG-PHLAN-1-S",
         "name": "Uprising",
         "description": "",
         "creator": "Baldman Games",
@@ -1887,7 +1881,6 @@
                 "rarity": "common"
             }
         ],
-        "spellbooks": [],
         "storyAwards": [
             {
                 "name": "Five-Leaf Clover Initiate",
@@ -1908,7 +1901,7 @@
         "items": [
             {
                 "name": "Cloak of Many Fashions",
-                "rarity": "common",
+                "rarity": "common"
             }
         ],
         "storyAwards": [

@@ -45,6 +45,7 @@
         "code": "DDHC-LMOP",
         "name": "Lost Mine of Phandelver",
         "description": "",
+        "released": "2014-07-15",
         "tier": [1],
         "items": [
             {
@@ -1305,12 +1306,14 @@
         "code": "DDHC-WDH-02",
         "name": "Unseen Waterdeep",
         "description": "",
+        "released": "2018-09-07",
         "incomplete": true
     },
     {
         "code": "DDHC-WDH-03",
         "name": "Blue Alley",
         "description": "The infamous Blue Alley lies hidden in the heart of Waterdeep. Built by a secretive wizard, it is a magic maze full of tricks, traps, strange monsters, and rich treasure. Countless adventurers have ventured inside to test their bravery and skill, yet few have returned. And now it is your turn…\n\n A Four-Hour Adventure for Tier 1 Characters.",
+        "released": "2018-09-20",
         "tier": [1],
         "items": [
             {

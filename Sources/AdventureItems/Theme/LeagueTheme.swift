@@ -237,7 +237,7 @@ private extension Node where Context == HTML.BodyContext {
             .if(!tags.isEmpty, .group(
                 .h1(.text(name)),
                 .ul(
-                    .class("all-tags \(tags[0].0.tagClass ?? "")"),
+                    .class("all-tags \(tags.first?.0.tagClass ?? "")"),
                     .forEach(tags) { tag in
                         .li(
                             .class("tag"),

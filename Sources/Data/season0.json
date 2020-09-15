@@ -3,6 +3,7 @@
         "code": "DDAL00-01",
         "name": "Window to the Past",
         "description": "When a Thayan research expedition returns from the Glacier of the White Wyrm with only two survivors that are reduced to whispering about an ancient pyramid under the ice, perhaps it is time to discover just what scares the life out of a nation of necromancers.",
+        "released": "2016-12-14",
         "tier": [2, 3, 4],
         "items": [
             {
@@ -305,6 +306,7 @@
         "code": "DDAL00-03",
         "name": "Those That Came Before",
         "description": "All of the scribes in Candlekeep are reporting eerie dreams, dreams in which the flying citadels of Ancient Netheril remain aloft among the clouds, with the modern skylines of Neverwinter and Waterdeep far below. These hazy visions all end the same way: with tremendous calamity as those fortresses smash down upon the defenseless metropolises. What aid can be enlisted when such doom is on the horizon?",
+        "released": "2017-12-30",
         "tier": [3, 4],
         "items": [
             {
@@ -341,6 +343,7 @@
         "code": "DDAL00-04",
         "name": "Winter's Flame",
         "description": "This year’s Midwinter holiday efforts have been met with unusual obstacles: small stockpiles rummaged through, foods spoiling, ale casks leaking, festive clothes torn up, and crucial pembelon fruits missing. With schedules and deadlines rigid, any bigger bumps in the road might result in disaster. Who would want to keep the people of Chult from celebrating this long-revered holiday?",
+        "released": "2017-12-19",
         "tier": [1],
         "items": [
             {
@@ -358,6 +361,7 @@
         "code": "DDAL00-05",
         "name": "Winter's Splendor",
         "description": "You’re invited to the Midwinter Gala in the City of Splendors! Among the jovial festivities, a sinister mystery waits to be unwrapped.",
+        "released": "2018-12-06",
         "tier": [1],
         "items": [
             {
@@ -388,6 +392,7 @@
         "code": "DDAL00-06",
         "name": "Lost Laboratory of Kwalish",
         "description": "The legendary inventor Kwalish disappeared eons ago… as it turns out, finding a crashed planar ship and studying its technology to fuel his own experiments. Only now, Kwalish’s lost research is desperately needed! Will you dare an alternate expedition into the Barrier Peaks to find him?\n\n ***The new spells included in this adventure are not suitable for D&D Adventurers League play as this adventure is not a valid resource for character options.***",
+        "released": "2018-11-10",
         "tier": [2],
         "items": [
             {
@@ -530,6 +535,7 @@
         "code": "DDAL00-07",
         "name": "The Embers of Hate",
         "description": "Hatred burns with a fire unlikely any other; and the hotter the flame, the more difficult it is to stamp it out. Beneath the rubble of Mulmaster, and a group of angry men and women seek to stoke smoldering embers of hate anew into a raging conflagration. Can you stop them before it is too late, or will evil rise once more from the ashes—free to burn all it touches?",
+        "released": "2019-06-06",
         "tier": [1, 2],
         "items": [
             {
@@ -570,6 +576,7 @@
         "code": "DDAL00-08",
         "name": "Layers Upon Layers",
         "description": "During the liberation of Szith Morcane, the factions found an unlikely friend in an agent of evil. Now, that alliance has been put to the test—and the factions are in search of souls brave (or foolish) enough to venture to the mysterious depths of the Feywild in order to uphold their end of the alliance! Grab your planar forks—there’s adventuring to be done!",
+        "released": "2019-02-17",
         "tier": [1, 2],
         "items": [
             {
@@ -935,6 +942,7 @@
         "code": "DDAL-OPEN-2016",
         "name": "Soulbound Tomb",
         "description": "",
+        "released": "2016-06-18",
         "tier": [1, 2],
         "items": [
             {
@@ -1153,6 +1161,7 @@
         "code": "DDAL-OPEN-2017",
         "name": "The Lost Temples of Lake Luo",
         "description": "",
+        "released": "2017-06-17",
         "tier": [1, 2],
         "items": [
             {
@@ -1471,6 +1480,7 @@
         "code": "DDAL-OPEN-2018",
         "name": "Gangs of Waterdeep",
         "description": "",
+        "released": "2018-06-16",
         "items": [
             {
                 "name": "Wand of Fear",
@@ -1544,6 +1554,7 @@
         "code": "DDAL-OPEN-2019",
         "name": "Forged in Fire",
         "description": "",
+        "released": "2019-06-01",
         "incomplete": true
     },
     {

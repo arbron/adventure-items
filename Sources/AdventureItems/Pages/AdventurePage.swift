@@ -197,6 +197,7 @@ extension Publish.Item where Site == AdventureItemsSite {
                     ),
                     .em(
                         .class("entry-label"),
+                        " ",
                         .if(!item.illegal,
                             .text(item.rarity.name),
                             else: .text("Not AL Legal")
@@ -238,6 +239,7 @@ extension Publish.Item where Site == AdventureItemsSite {
                     .if(award.downtime,
                         .em(
                             .class("entry-label"),
+                            " ",
                             .text("Downtime Activity")
                         )
                     )

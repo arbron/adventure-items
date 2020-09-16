@@ -902,41 +902,163 @@
         "name": "Bad Seed",
         "description": "",
         "released": "2020-02-20",
-        "incomplete": true
+        "tier": [1],
+        "items": [
+            {
+                "name": "Potion of Giant Strength (Hill)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "DDAL00-12b",
         "name": "A Helpful Distraction",
         "description": "",
         "released": "2020-02-20",
-        "incomplete": true
+        "tier": [2],
+        "items": [
+            {
+                "name": "Ring of Evasion",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Healing Spirit",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ]
     },
     {
         "code": "DDAL00-12c",
         "name": "The Soft Touch",
         "description": "",
         "released": "2020-02-20",
-        "incomplete": true
+        "tier": [3],
+        "items": [
+            {
+                "name": "Candle of Invocation (Lawful Evil)",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Ring of Mind Shielding",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Supreme Healing",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "DDAL00-12d",
         "name": "The Devil's Song",
         "description": "",
         "released": "2020-02-20",
-        "incomplete": true
+        "tier": [4],
+        "items": [
+            {
+                "name": "Instrument of the Bards (Ollamh Harp)",
+                "rarity": "legendary"
+            },
+            {
+                "name": "Potion of Supreme Healing",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 4
+            }
+        ]
     },
     {
         "code": "DDALCA-01",
         "name": "Return to the Ghost Tower of Inverness",
-        "released": "2019-05-23",
         "description": "This is a familiar scene. Shackled. Bound. The same faces surround you as the last time you were in this dark, dank cell. Your friends, your party members. You’ve been told that your actions have led to death and destruction near and far, but you were only doing what was demanded of you from those who hold you captive again now. A looming figure goes over your crimes and holds out a glowing gemstone, offering a trade for your lives. “You must undo what you have done and put this back,” he whispers. “You must return to the Ghost Tower.”",
-        "incomplete": true
+        "released": "2019-05-23",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Black Tooth (Dagger of Venom)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Frostbite (Frost Brand Longsword)",
+                "rarity": "veryRare"
+            }
+        ]
     },
     {
         "code": "DDAL-CGB",
         "name": "Cloud Giant's Bargain",
-        "description": "",
-        "incomplete": true
+        "description": "The renowned adventuring company Acquisitions Inc. hires you to infiltrate a castle—but not just any castle. This is a flying fortress built by the cloud giant Count Stratovan, who is currently preparing to destroy the Sword Coast. Your mission is to meet with his son, who claims to want to prevent the war and establish peace between the giants and the small folk. Ifyou can learn whether the son can be trusted, discover the secrets of the castle, and…well, survive, you too can earn acclaim with Acquisitions Inc.!",
+        "released": "2016-09-04",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Ring of Cold Resistance",
+                "rarity": "rare"
+            },
+            {
+                "name": "Sentinel Shield",
+                "rarity": "uncommon",
+                "properties": ["Sentinel"]
+            },
+            {
+                "name": "Weapon of Wounding",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Confusion",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Otiluke's Resilient Sphere",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "DDAL-OPEN-2016",
@@ -1555,13 +1677,161 @@
         "name": "Forged in Fire",
         "description": "",
         "released": "2019-06-01",
-        "incomplete": true
+        "tier": [2],
+        "storyAwards": [
+            {
+                "name": "2019 D&D Open DM Award",
+                "description": "You can create a new 7th-level D&D Adventurers League character using this award. That character can start with one of the following magic items:\n\n- *Amulet of health*\n- *Boots of levitation*\n- *Cloak of the bat*\n- *Flame tongue longsword*\n- *Helm of teleportation*"
+            },
+            {
+                "name": "2019 D&D Open Participant Award",
+                "description": "Thank you for participating in the 2019 D&D Open! For simply having a grand time, you can create a new 5th-level D&D Adventurers League character using this award. You get to skip those pesky first four levels! Congratulations."
+            },
+            {
+                "name": "2019 D&D Open Winner Award",
+                "description": "You can create a new 11th-level D&D Adventurers League character using this award. That character can start with one of the following magic items:\n\n- *+2 armor*\n- *+3 wand of the war mage*\n- *+3 weapon*\n- *Ring of regeneration*\n- *Staff of lightning and thunder*"
+            },
+            {
+                "name": "Bessed Dressed DM Award",
+                "description": "You can create a new 11th-level D&D Adventurers League character using this award. That character can start with one of the following magic items:\n\n- *+2 armor*\n- *Belt of stone giant strength*\n- *Cloak of arachnida*\n- *Robe of scintillating colors*\n- *Robe of stars*"
+            },
+            {
+                "name": "Friends Over Fights Award",
+                "description": "The character you create with your 2019 D&D Open Participant Story Award gains one of the following magic items:\n\n- *Boots of speed*\n- *Cape of the mountebank*\n- *Horn of Valhalla*\n- *Portable hole*\n- *Staff of healing*"
+            },
+            {
+                "name": "Ready for Combat Award",
+                "description": "The character you create with your 2019 D&D Open Participant Story Award gains one of the following magic items:\n\n- *+1 armor*\n- *+2 wand of the war mage*\n- *+2 weapon*\n- *Ring of the ram*\n- *Staff of withering*"
+            },
+            {
+                "name": "Soulless Award",
+                "description": "You gain advantage on a Charisma (Deception or Intimidation) check. After you use this feature, all Charisma ability checks you make for the next 24 hours are made with disadvantage, and you cannot use this feature again until the end of that time."
+            }
+        ]
     },
     {
         "code": "DDEP00-01",
         "name": "Red War",
-        "description": "",
+        "description": "The Cults of Elemental Evil wrought incredible destruction on the city of Mulmaster. In its hour of need, the City of Danger received aid from an unlikely source- the Mageocracy of Thay, ruled by the lich Szass Tam. With Mulmaster moving ever closer to Thay’s orbit and strife brewing within the Factions for action, the hour is ripe for conflict.",
         "tier": [1, 2, 3, 4],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Amulet of Health",
+                "rarity": "rare"
+            },
+            {
+                "name": "Breastplate, +1",
+                "rarity": "rare"
+            },
+            {
+                "name": "Figurine of Wondrous Power (Obsidian Steed)",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Headband of Intellect",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Ring of Telekenesis",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Szass Tam's Arcane Essence (Boon of High Magic)",
+                "rarity": "unique"
+            },
+            {
+                "name": "Szass Tam's Planar Essence (Boon of Planar Travel)",
+                "rarity": "unique"
+            },
+            {
+                "name": "Winged Boots",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 4
+            },
+            {
+                "name": "Potion of Heroism",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Invulnerability",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Protection from Energy (Fire)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Supreme Healing",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Bless",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Power Word Pain",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Nuraval’s Spellbook",
+                "spells": [
+                    { "name": "chill touch", "level": 0 },
+                    { "name": "dancing lights", "level": 0 },
+                    { "name": "mage hand", "level": 0 },
+                    { "name": "mending", "level": 0 },
+                    { "name": "false life", "level": 1 },
+                    { "name": "find familiar", "level": 1 },
+                    { "name": "ray of sickness", "level": 1 },
+                    { "name": "shield", "level": 1 },
+                    { "name": "blindness/deafness", "level": 2 },
+                    { "name": "ray of enfeeblement", "level": 2 },
+                    { "name": "web", "level": 2 },
+                    { "name": "animate dead", "level": 3 },
+                    { "name": "bestow curse", "level": 3 },
+                    { "name": "vampiric touch", "level": 3 },
+                    { "name": "blight", "level": 4 },
+                    { "name": "dimension door", "level": 4 },
+                    { "name": "stoneskin", "level": 4 },
+                    { "name": "Bigby's hand", "level": 5 },
+                    { "name": "cloudkill", "level": 5 },
+                    { "name": "circle of death", "level": 6 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Hunted by the Red",
+                "description": "Your actions during the invasion of Mulmaster caught the attention of Szass Tam himself. As a result, he and his followers bear a special dislike for you. This will come up again in the future…"
+            },
+            {
+                "name": "Planes in Pockets in Planes",
+                "description": "The Thayan mansion in Mulmaster was comprised of a series of nested demiplanes and pocket dimensions, and you survived the exploration—and brought back lingering traces of that magic. As a result, you always know what plane you are on, and if you find yourself away from your native plane you may excise this magic to return to the Prime Material plane immediately. If you do this, destroy this story award."
+            }
+        ]
     },
 ]

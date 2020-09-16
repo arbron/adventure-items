@@ -602,6 +602,15 @@
         "description": "On this holy day (tribute to Leira and Mask), folk of all walks of life don masks and costumes to disguise themselves and play at being other than what they are. Festivities begin in the evening, when candles are placed in hollowed-out pumpkins carved with faces. Tricks and pranks of all kinds are common on this night, and pickpockets are rife on this day, so few carry much coin with them, having secreted it away somewhere the previous evening. Instead, people fill their pockets and belt pouches with candies. Come celebrate with us on the darkened streets of Baldur’s Gate.",
         "released": "2019-11-01",
         "tier": [1, 2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Cloak of the Bat",
+                "rarity": "rare"
+            },
+            {
+                "name": "Hat of Disguise",
+                "rarity": "uncommon"
+            }
+        ]
     },
 ]

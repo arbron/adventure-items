@@ -133,7 +133,8 @@ extension Publish.Item where Site == AdventureItemsSite {
                     .h2("Story Awards"),
                     Self.storyAwardList(adventure.storyAwards)
                 ]))
-            )
+            ),
+              indentation: AdventureItemsSite.indentationMode
         )
     }
     

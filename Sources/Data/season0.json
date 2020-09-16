@@ -1713,6 +1713,7 @@
         "code": "DDEP00-01",
         "name": "Red War",
         "description": "The Cults of Elemental Evil wrought incredible destruction on the city of Mulmaster. In its hour of need, the City of Danger received aid from an unlikely source- the Mageocracy of Thay, ruled by the lich Szass Tam. With Mulmaster moving ever closer to Thay’s orbit and strife brewing within the Factions for action, the hour is ripe for conflict.",
+        "released": "2018-07-05",
         "tier": [1, 2, 3, 4],
         "items": [
             {

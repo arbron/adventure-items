@@ -20,6 +20,8 @@ struct AdventureItemsSite: Website {
     var description = "Find a D&D adventure to give your character the perfect piece of swag."
     var language: Language { .english }
     var imagePath: Path? { nil }
+
+    static let indentationMode: Indentation.Kind = .spaces(2)
 }
 
 let decoder = JSONDecoder()
@@ -35,7 +37,7 @@ try AdventureItemsSite().publish(using: [
     .addMarkdownFiles(),
     .copyResources(),
     .addAdventures(adventures, removeIncomplete: true),
-    .generateHTML(withTheme: .league, indentation: .spaces(2)),
+    .generateHTML(withTheme: .league, indentation: AdventureItemsSite.indentationMode),
     .generateRSSFeed(including: [.adventures]),
     .generateSiteMap()
 ])

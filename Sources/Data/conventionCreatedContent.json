@@ -639,7 +639,7 @@
                     { "name": "stoneskin", "level": 4 },
                     { "name": "cone of cold", "level": 5 },
                     { "name": "wall of force", "level": 5 },
-                    { "name": "disintegration", "level": 6 },
+                    { "name": "disintegrate", "level": 6 },
                     { "name": "teleport", "level": 7 },
                     { "name": "maze", "level": 8 },
                     { "name": "time stop", "level": 9 }
@@ -3798,245 +3798,727 @@
         ]
     },
     {
-        "code": "CCC-TRI-11",
+        "code": "CCC-TRI-11 OLMA1-1",
         "name": "Flooded Dreams",
         "description": "With a hag coven bringing destruction and ruin to the city of Mulmaster, its leaders send an expedition into the Flooded Forest to learn of its secrets. Old notes speak of the coven’s original lair, but nothing can prepare the expeditionary group for what they find. Part One of the *Olma* series.",
         "released": "2018-12-31",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/262922/CCCTRI11-Flooded-Dreams-Part-One-of-the-Olma-Series",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Quarterstaff, +1",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Inflict Wounds",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Under My Thumb",
+                "description": "The green hag Morgan Blightsower made a deal with you, to give you a small amount of aid and information in exchange for her life. Having a hag owing you a debt, even a minor one, is nothing to ignore, and she will be certain to pay that debt as quickly as possible."
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-12",
+        "code": "CCC-TRI-12 OLMA1-2",
         "name": "Ill Met in Ylraphon",
         "description": "A behemoth threatens Mulmaster at the direction of a bheur hag named Auntie Olma, but intelligence reveals that she has another sinister plot unfolding at the same time. One of her agents has infiltrated nearby Ylraphon on a mission to destabilize the town and weaken it in advance of a large attack. The Lords of Mulmaster cannot defend both settlements at once. Can the heroes reach Ylraphon and find the agent before she succeeds at her mission, so that the forces of the town may rally to defend their homes? Part Two of the *Olma* series.",
         "released": "2018-12-31",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/262924/CCCTRI12-Ill-Met-in-Ylraphon-Part-Two-of-the-Olma-Series",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Quiver of Ehlonna",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Sending",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "See Me Again When You Are Worthy",
+                "description": "You encountered Lord Vor and successfully thwarted the attack of his lieutenant on The Moonwater, thus earning a bit of a reputation among villains in the region (intelligent undead, servants of the hags, etc.). What this reputation will bring is so far unknown."
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-13",
+        "code": "CCC-TRI-13 OLMA1-3",
         "name": "What Lies Beneath Ylraphon",
         "description": "Chasing the mysteries of Auntie Olma has disturbed more powerful forces, and the city of Ylraphon pays the price. Zombies, ghasts, and creatures even more sinister tear up the streets. With Ylraphon in danger, adventurers must push back the undead horde threatening it all! Part Three of the *Olma* series.",
         "released": "2018-12-31",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/262926/CCCTRI13-What-Lies-beneath-Ylraphon-Part-Three-of-the-Olma-Series",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Broom of Flying",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Spell Scroll of Enlarge/Reduce",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Red Versus Blue",
+                "description": "Through the trust of Totha the Fierce, you now have a two-headed dragon wyrmling pet, who is half red and half blue. It is the size of a small house cat (use **cat** statistics from the Monster Manual) and cannot participate in combat. It sometimes sneezes out little tufts of smoke or a tiny bit of cold air, and the two heads are constantly looking for and fighting over snacks. All things are snacks."
+            },
+            {
+                "name": "This Hangover’s Gonna Haunt You",
+                "description": "You drank from the mystery punch bowl, and a ghost possessed you. You have a feeling you won’t experience a party this wild for a while, and it’s a good thing because something’s…different. Roll 1d6 and use the Possession Side Effects table to determine your character’s side effect. This side effect can be removed through greater restoration.\n\n| d6 | Side Effect |\n| ------ | ------ |\n| 1 | You talk to yourself in made up tongues. |\n| 2 | You are deathly afraid of the dark. |\n| 3 | Sudden loud sounds make you drop things. |\n| 4 | Your hair has turned shock white. |\n| 5 | You nervously wink at inappropriate times. |\n| 6 | You find yourself unable to shake the flaw of the ghost who possessed you. |"
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-14",
+        "code": "CCC-TRI-14 YUL1-3",
         "name": "The Voice in the Night",
         "description": "A bizarre sea monster has been spotted near Hillsfar. Strange voices visit people in their dreams. Zealots preach about the Great Old Ones’ return. Can you find out the truth before the voice consumes everyone’s sanity? Part Three of the *Yûlash* series.",
         "released": "2018-06-29",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/245910/CCCTRI14-The-Voice-in-the-Night-Part-Three-of-the-Yulash-Series",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Staff of Striking",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Supreme Healing",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Armor of Agathys",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Blight",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-15",
+        "code": "CCC-TRI-15 YUL1-4",
         "name": "The Dark of the Hive",
         "description": "Strange events are occurring near the town of Yûlash—ground tremors originating from an old mind flayer hive. Our heroes are asked to investigate the old hive and determine the cause of the seismic activity, but another pressing matter is revealed to them, too. Part Four of the *Yûlash* series.",
         "released": "2018-06-29",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/245914/CCCTRI15-The-Dark-of-the-Hive-Part-Four-of-the-Yulash-Series",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Tome of Leadership and Influence",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Alchemist's fire (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Climbing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Sunbeam",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-16",
+        "code": "CCC-TRI-16 ALLY1-1",
         "name": "Ph'theev, the Despondent",
         "description": "A new trend is sweeping through the upper crust of Hillsfar nobility. Private menageries—the more exotic the better—have begun popping up in mansions and gardens around the city. However, recent reports of dangerous monsters escaping captivity and attacking citizens have the Red Plumes concerned. Where are these monsters coming from, how are they being procured, and what threat might this pose? Part One of the *Psionic Menace* series.",
         "released": "2018-09-17",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/252563/CCCTRI16-Phtheev-the-Despondent-Part-One-of-the-Psionic-Menace-Series",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Immovable Rod",
+                "rarity": "uncommon"
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-17",
+        "code": "CCC-TRI-17 ALLY1-2",
         "name": "Ph'theev, Unbound!",
         "description": "The flumph cloister is overjoyed to see its member returned, but warns of a psionic menace that resides nearby, causing most other creatures to flee. This menace is still in its infancy, and must be taken care of before it poses a threat to the area-at-large. Your flumph friend must come with you to sniff out the signs, so keep it safe!  Part Two of the *Psionic Menace* series.",
         "released": "2018-09-17",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/252565/CCCTRI17-Phtheev-Unbound-Part-Two-of-the-Psionic-Menace-Series",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Glaive, +1",
+                "rarity": "uncommon"
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-18",
+        "code": "CCC-TRI-18 PAXE1-1",
         "name": "Pros & Cons",
         "description": "Every 200 years, the famous Eastern Moonsea Adventuring Convention takes place in the woods south of Elmwood. A who’s who of powerful adventurers, wizards, and vendors gather at a magical convention hall to exchange stories, goods, and wisdom. New adventurers often find themselves drawn to this event, in search of fame, fortune, and most importantly, swag. Mischief and intrigue, however, are afoot and new adventurers must answer the call.",
         "released": "2018-09-17",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/252566/CCCTRI18-Pros--Cons-An-Original-Adventure-by-The-Role-Initiative",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Wand of Conducting",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Climbing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Magic Stone",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Mark of Attendance",
+                "description": "This small, brightly colored metal pin marks the bearer as having attended the famous Eastern Moonsea Adventuring Convention. While not useful in a practical sense, it is highly coveted, and affords the bearer bragging rights over peers without it."
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-19",
+        "code": "CCC-TRI-19 DEAD1-1",
         "name": "Dead Men's Tales",
         "description": "A call for help is received from Abigail’s Cove: a fishing village located just south of Hulburg. Recently, two moss-covered skeletons walked out of the Moonsea and attacked the village. The villagers were able to defend themselves, but they fear something worse may be coming as a thick and ominous fog slowly rolls in from the Moonsea. Part One of the *Dead Men* series.",
         "released": "2018-07-16",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/247439/CCCTRI19-Dead-Mens-Tales-Part-One-of-the-Dead-Men-Series",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Shield of the Salty Griffon (Shield, +1)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Coral Crossbow Bolts, +1",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-20",
+        "code": "CCC-TRI-20 YUL1-5",
         "name": "Breaking Yûlash",
         "description": "The city of Yûlash is under siege. Can you and a small allied force break the siege, save your allies, and discover who or what is behind the assault? Part Five of the *Yûlash* series.",
         "released": "2020-01-16",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/299817/CCCTRI20-Breaking-Yulash-Part-Five-of-the-Yulash-Series",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Wand of Polymorph",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Blight",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Fabricate",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Shots Fired",
+                "description": "You have committed an act of war against the Zhentarim by killing a spy while working for First Lord Yestral. This story reward may come into play in the future."
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-21",
+        "code": "CCC-TRI-21 YUL1-6",
         "name": "The Rifts of Madness",
         "description": "The vast power released by the destruction of a powerful gate connected to the Far Realm created rifts in the fabric of the planes. Even worse, a foul taint has begun permeating into the planes. Are you brave enough to face what is lurking beyond the Rifts of Madness? Part Six of the *Yûlash* series.",
         "released": "2020-01-16",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/299821/CCCTRI21-The-Rifts-of-Madness-Part-Six-of-the-Yulash-Series",
-        "tier": [3
-        ],
-        "incomplete": true
+        "tier": [3],
+        "items": [
+            {
+                "name": "Kaorti Resin Armor (Scale Armor of Psychic Resistance)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Immolation",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Mass Healing Word",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Plane Shift",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-22",
+        "code": "CCC-TRI-22 STORM1-1",
         "name": "On the Baron's Trail",
-        "description": "Following the destruction of the Thunderbound and the Ark of the Mountains, the cloud giant known as Baron Rajiram, remains at-large. A lead from the Harpers has brought the party to the city of Hulburg in pursuit of one of the Baron’s known accomplices. If they can locate his partner-in-crime, the party will be a step closer to finally apprehending the Baron and bringing him to justice. Part One of the *Storm* series.",
+        "description": "Following the destruction of the Thunderbound and the Ark of the Mountains, the cloud giant known as Baron Rajiram, remains at-large. A lead from the Harpers has brought the party to the city of Hulburg in pursuit of one of the Baron’s known accomplices. If they can locate his partner-in-crime, the party will be a step closer to finally apprehending the Baron and bringing him to justice. Part One of the *Storm Herald* trilogy.",
         "released": "2019-05-31",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/277951/CCCTRI22-On-the-Barons-Trail-Part-One-of-the-Storm-Series",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Bag of Devouring",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Longevity",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Sickening Radiance",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Ozlo’s Spellbook",
+                "spells": [
+                    { "name": "dancing lights", "level": 0 },
+                    { "name": "mage hand", "level": 0 },
+                    { "name": "minor illusion", "level": 0 },
+                    { "name": "poison spray", "level": 0 },
+                    { "name": "alarm", "level": 1 },
+                    { "name": "color spray", "level": 1 },
+                    { "name": "disguise self", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "unseen servant", "level": 1 },
+                    { "name": "invisibility", "level": 2 },
+                    { "name": "mirror image", "level": 2 },
+                    { "name": "phantasmal force", "level": 2 },
+                    { "name": "glyph of warding", "level": 3 },
+                    { "name": "major image", "level": 3 },
+                    { "name": "phantom steed", "level": 3 },
+                    { "name": "phantasmal killer", "level": 4 }
+                ]
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-23",
+        "code": "CCC-TRI-23 STORM1-2",
         "name": "Sub Rosa",
-        "description": "Hot on the trail of Selise Teshwave and Baron Rajiram, the adventurers must enter newly exposed mountain excavations in the Galena mountains. Swift action must be taken to prevent the Baron from obtaining a powerful weapon from this ruin. Meanwhile, the mysterious Teshwave siblings, Abigail and Char, are hot on the trail of their older sister. Part Two of the *Storm* series.",
+        "description": "Hot on the trail of Selise Teshwave and Baron Rajiram, the adventurers must enter newly exposed mountain excavations in the Galena mountains. Swift action must be taken to prevent the Baron from obtaining a powerful weapon from this ruin. Meanwhile, the mysterious Teshwave siblings, Abigail and Char, are hot on the trail of their older sister. Part Two of the *Storm Herald* trilogy.",
         "released": "2019-05-27",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/277955/CCCTRI23-Sub-Rosa-Part-Two-of-the-Storm-Series",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Studded Leather Armor, +2",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Invisibility",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Skill Empowerment",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Just Rewards",
+                "description": "You have handled the exploration of the ruins and the pursuit of the baron and Selise with delicacy, ingenuity, and care. This may have a benefit in a future adventure."
+            },
+            {
+                "name": "Relentless",
+                "description": "Nothing could stand in your way from staying on the trail of The Baron and Selise, and everything that tried to surely regrets it. This may have a benefit in a future adventure."
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-24",
+        "code": "CCC-TRI-24 STORM1-3",
         "name": "Knight Errand",
-        "description": "The fortress moves, slow yet inevitable in its trek across the land of Thar towards the Sword Coast. On board are Baron Rajiram and his servant, Selise of Teshwave, and the awoken defenses ready to keep the fortress afloat. Prepare for the assault. Part Three of the *Storm* series.",
+        "description": "The fortress moves, slow yet inevitable in its trek across the land of Thar towards the Sword Coast. On board are Baron Rajiram and his servant, Selise of Teshwave, and the awoken defenses ready to keep the fortress afloat. Prepare for the assault. Part Three of the *Storm Herald* trilogy.",
         "released": "2019-05-31",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/277957/CCCTRI24-Knight-Errand-Part-Three-of-the-Storm-Series",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Manual of Gainful Exercise",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell scroll of Geas",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Giant Spellbook",
+                "spells": [
+                    { "name": "thunder step", "level": 3 },
+                    { "name": "investiture of stone", "level": 6 },
+                    { "name": "whirlwind", "level": 7 }
+                ]
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-25",
+        "code": "CCC-TRI-25 DEAD1-2",
         "name": "Dead Men's Treasure",
         "description": "A map with an “X marking the spot” has been found in a recently uncovered tomb located in the small fishing village of Abigail’s Cove. The village’s mayor has sent out a secret call to trusted adventurers; offering a split of whatever treasure they can recover. Success means fortune for Abigail’s Cove, its villagers, and the adventurers. Part Two of the *Dead Men* series.",
         "released": "2018-11-07",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/258129/CCCTRI25-Dead-Mens-Treasure-Part-Two-of-the-Dead-Men-Series",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Instrument of the Bards (Cli Lyre)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Climbing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Stinking Cloud",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-26",
+        "code": "CCC-TRI-26 ROSE1-1",
         "name": "Touch the Stars",
         "description": "A battle rages in the sky above the Monastery of the Yellow Rose between illithid and githyanki, as a novice of the Yellow Rose carrying crucial knowledge has disappeared. As the Monastery of the Yellow Rose braces itself for the onslaught, you must use your wits and resources to find the missing novice. Will you succeed in time to save the Order of the Yellow Rose? Part One of the *Siege of the Yellow Rose*.",
         "released": "2020-03-23",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/305254/CCCTRI26-Touch-the-Stars-Part-One-of-the-Siege-of-the-Yellow-Rose",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Shadowneedle (Unbreakable Arrow)",
+                "rarity": "common"
+            },
+            {
+                "name": "Shoes of the Glacier Walker (Boots of Striding and Springing)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Cause Fear",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-27",
+        "code": "CCC-TRI-27 ROSE1-2",
         "name": "In the Vault of Stars",
         "description": "A battle rages in the sky above the Monastery of the Yellow Rose between illithid and githyanki ships as shadowy shapes amass on the Glacier of the White Worm. As the Monastery of the Yellow Rose braces itself for the onslaught, you are sent onto the glacier in search of a secret githyanki base and to discover if the appearance of dragons brings ominous portents. Part Two of the *Siege of the Yellow Rose*.",
         "released": "2020-03-23",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/305272/CCCTRI27-In-the-Vault-of-Stars-Part-Two-of-the-Siege-of-the-Yellow-Rose",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Githyanki Greater Silver Sword (Silvered Greatsword, +2)",
+                "rarity": "rare"
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-28",
+        "code": "CCC-TRI-28 ROSE1-3",
         "name": "Siege of the Yellow Rose",
         "description": "Beyond the Glacier of the White Worm lies the Monastery of the Yellow Rose. High in the skies above the monastery, a battle rages between illithid and githyanki. While others search the monastery and the glacier for clues, you are asked to defend the monastery from those in the skies and on the ground. Can you defend the monastery long enough for the clues to be uncovered? Part Three of the *Siege of the Yellow Rose*.",
         "released": "2020-03-23",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/305273/CCCTRI28-Siege-of-the-Yellow-Rose-Part-Three-of-the-Siege-of-the-Yellow-Rose-Series",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Cosmic Chasuble (Robe of Stars)",
+                "rarity": "veryRare"
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-29",
+        "code": "CCC-TRI-29 TIDE1-1",
         "name": "Tidefall",
         "description": "Though the Elemental Cults failed in the Dessarin Valley and in Mulmaster, fragments of their primordial cults still seek to destroy civilization. An unlikely contact alerts the heroes to impending ruin in the city of Phlan. Will the heroes be able to follow the ravings of a mad man to stop this scheme, or will even more catastrophe be visited upon the City of Phlan?",
         "released": "2019-05-28",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/278015/CCCTRI29-Tidefall",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Dagger, +3",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Heroism",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-30",
+        "code": "CCC-TRI-30 STEEL1-1",
         "name": "Remnants of a Dream",
-        "description": "Heroes of the Realms have risen to stand against several recent events. The schemes of foul villains would have caused catastrophe across the lands of Faerûn, had they not been thwarted. And although they were indeed thwarted…there were those who escaped justice. Some of these remnants still scheme, still desire to make their dreams of destruction reality. It is time for new heroes to rise…",
+        "description": "Heroes of the Realms have risen to stand against several recent events. The schemes of foul villains would have caused catastrophe across the lands of Faerûn, had they not been thwarted. And although they were indeed thwarted…there were those who escaped justice. Some of these remnants still scheme, still desire to make their dreams of destruction reality. It is time for new heroes to rise… Part One of the *Fire and Steel Resurgent* series.",
         "released": "2019-05-28",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/278016/CCCTRI30-Remnants-of-a-Dream",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Cloak of Many Fashions",
+                "rarity": "common"
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Traveling Spellbook",
+                "spells": [
+                    { "name": "absorb elements", "level": 1 },
+                    { "name": "burning hands", "level": 1 },
+                    { "name": "ice knife", "level": 1 },
+                    { "name": "continual flame", "level": 2 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Busted!",
+                "description": "A member of your party swiped something from the warehouse you were supposed to guard. The magistrate found that you were all culpable for the theft. Any payment for services rendered were reclaimed and the group of you were thrown in jail.\n\n Additionally, you now have a criminal record in Hillsfar. This may work to your disadvantage in the future."
+            },
+            {
+                "name": "“My Hewo! Have a cookie!”",
+                "description": "Katia, the young girl you rescued from the cultists now considers you her hero and her “bestest friend.” Whenever you enter the docks of Hillsfar, there is a 50% chance that the 5-year old will bound up to you, and exclaim that “You! You my hewo! Have cookie?” and offer you one of her gingerbread cookies."
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-31",
+        "code": "CCC-TRI-31 TIME1-1",
         "name": "Out of Time",
         "description": "Years ago, a young wizard looked out over the walls of his city and saw a vision in the winds—a vision of fire, conquest and glory. Now, his hour of destiny is at hand, and it may well spell disaster for the world. Can he be stopped before it’s too late?",
         "released": "2019-05-28",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/278017/CCCTRI31-Out-of-Time",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Dimensional Shackles",
+                "rarity": "rare"
+            },
+            {
+                "name": "Spell Scroll of Stone Shape",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Emnity of the Stouthammers",
+                "description": "There may have been extenuating circumstances, but your part in the death of the Stouthammer garrison has earned you the enmity of their clan. You are not welcome at the Everforge, and any Stouthammer dwarf you meet will consider you a foe."
+            },
+            {
+                "name": "Friends in Hot Places",
+                "description": "Your actions today have earned you the gratitude of a very powerful creature. Should you ever find yourself back on the Elemental Plane of Fire and visiting the City of Brass, you will be welcomed as a friend."
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-32",
+        "code": "CCC-TRI-32 DAGGR1-1",
         "name": "Casks and Caskets",
-        "description": "The refugees of the Zhentarim Ghetto of Mulmaster have been abandoned by the city and its Thayan supporters. Work is hard to find, and even harder to accomplish as the everburning fires in the Ghetto continue unabated. It was inevitable that unrest in the Ghetto would grow, finally drawing the attention of the powers that be. Part One of the *DAGGR* series.",
+        "description": "The refugees of the Zhentarim Ghetto of Mulmaster have been abandoned by the city and its Thayan supporters. Work is hard to find, and even harder to accomplish as the everburning fires in the Ghetto continue unabated. It was inevitable that unrest in the Ghetto would grow, finally drawing the attention of the powers that be. Part One of the *Daggers of Lathander* series.",
         "released": "2019-05-28",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/278018/CCCTRI32-Casks-and-Caskets-Part-One-of-the-DAGGR-Series",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Amulet of Proof Against Detection and Location",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 3
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Known to the Daggers",
+                "description": "A member of the Daggers has seen your face and lived to report it to the rest of his band. They will be on the lookout for you in the future."
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-33",
+        "code": "CCC-TRI-33 DAGGR1-2",
         "name": "Matters of Life and Death",
-        "description": "A known gang from the refugee ghetto of Mulmaster wishes to make a statement at an important function at the Thayan Embassy. A murder mystery investigation is needed to catch this culprit, or the delicate peace between the city and its Thayan supporters could be shattered! Part Two of the *DAGGR* series.",
+        "description": "A known gang from the refugee ghetto of Mulmaster wishes to make a statement at an important function at the Thayan Embassy. A murder mystery investigation is needed to catch this culprit, or the delicate peace between the city and its Thayan supporters could be shattered! Part Two of the *Daggers of Lathander* series.",
         "released": "2019-05-28",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/278019/CCCTRI33-Matters-of-Life-and-Death-Part-Two-of-the-DAGGR-Series",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Ring of Mind Shielding",
+                "rarity": "uncommon"
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-34",
+        "code": "CCC-TRI-34 DEAD1-3",
         "name": "Rise of the Sea Dragon",
-        "description": "Old pirates tell an aged tale of a black dragon attacking merchant ships sailing the Moonsea. The beast was slain, or so they thought. Recently, merchant ships have been attacked, and they say the culprit was a black dragon. The beast may fly away with a few victims, but it leaves the rest to fend for themselves in the Moonsea. Could this be the same creature from before? Can the adventurers slay the dragon and bring peace to the waters of the Moonsea? Part Three of the *Dead Men* series.",
+        "description": "Old pirates tell an aged tale of a black dragon attacking merchant ships sailing the Moonsea. The beast was slain, or so they thought. Recently, merchant ships have been attacked, and they say the culprit was a black dragon. The beast may fly away with a few victims, but it leaves the rest to fend for themselves in the Moonsea.\n\n Could this be the same creature from before? Can the adventurers slay the dragon and bring peace to the waters of the Moonsea? Part Three of the *Dead Men* series.",
         "released": "2019-07-29",
         "creator": "The Role Initiative",
         "url": "https://www.dmsguild.com/product/284078/CCCTRI34-Rise-of-the-Sea-Dragon-Part-Three-of-the-Dead-Men-Series",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Candle of the Deep",
+                "rarity": "common"
+            },
+            {
+                "name": "Trident of Warning",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Mark of the Dead",
+                "description": "Either Abigail or Peaches explains that Captain Dread Red offers to tattoo each party member with the mark of his crew (the symbol for this adventure saga). If they agree, a jittering zombie with long, white hair, a bulging and blind right eye, and a wooden peg leg staggers up to them carrying a tattoo kit: a small hammer, a needle that resembles an icepick, and a bottle of black ink.\n\n The tattoo process isn’t painful, the design is clean, and it can be placed anywhere on the body.\n\n The Mark of the Dead may grant a character special conditions in future Dead Men’s Tales adventures."
+            }
+        ]
     },
     {
         "code": "CCC-UCON-01",

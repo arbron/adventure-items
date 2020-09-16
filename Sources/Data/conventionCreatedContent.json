@@ -159,7 +159,7 @@
         "incomplete": true
     },
     {
-        "code": "CCC-BMG-00-HILL-1-S",
+        "code": "CCC-BMG-00 HILL1-S",
         "name": "Onslaught",
         "description": "Malkyn Grenefeld and her dark fey allies have vowed to destroy Hillsfar, and the attack is imminent. The forces of evil have established traitors inside the city, have stolen secret defense plans, and have some secret allies preparing to join the assault. The forces of good have only brave adventurers willing to die for their cause.",
         "released": "2016-06-11",
@@ -187,7 +187,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-01-CORE-1-1",
+        "code": "CCC-BMG-01 CORE1-1",
         "name": "A Scream in the Night",
         "description": "Melvaunt is a city of merchants and metalsmiths. The docks are constantly filled with ships from Hillsfar, Mulmaster, and more distant ports. The northern coast of the Moonsea is an inhospitable place, and its people have a reputation for being rough and unfriendly. But they don’t go around murdering one another in the streets. At least, not usually. Was that a scream you just heard? Part One of *The Chaos in Melvaunt*.",
         "released": "2016-09-16",
@@ -213,7 +213,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-02-CORE-1-2",
+        "code": "CCC-BMG-02 CORE1-2",
         "name": "A Cog in the Wheel",
         "description": "With the identity of a murderer confirmed, heroes are needed to track it down to its home. As it turns out, it might be a longer journey than first imagined. Part Two of *The Chaos in Melvaunt*.",
         "released": "2016-09-16",
@@ -235,7 +235,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-03-CORE-1-3",
+        "code": "CCC-BMG-03 CORE1-3",
         "name": "A Hole in the World",
         "description": "Threats from outside Melvaunt and within push heroes to the brink as a terrified populace counts on the bravery of a few heroes to avert total disaster. Part Three of *The Chaos in Melvaunt*.",
         "released": "2016-09-16",
@@ -265,7 +265,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-04-CORE-2-1",
+        "code": "CCC-BMG-04 CORE2-1",
         "name": "Tales of Good & Evil",
         "description": "As the City of a Thousand Forges perseveres in the face of threats both internal and external, the effects of the planar portal continue to make everyone uneasy. When unusual individuals are drawn to the city because of the portal’s power, heroes are asked to keep the peace and ferret out anyone intending to bring harm to Melvaunt.",
         "released": "2016-07-24",
@@ -303,7 +303,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-05-CORE-2-2",
+        "code": "CCC-BMG-05 CORE2-2",
         "name": "Songs of Law & Chaos",
         "description": "Omens speak of an old and forgotten power located within a played-out diamond mine in the foothills of Thar, and some believe that might be a solution to the current problems facing Melvaunt—or possibly the cause of them. With danger closing in, someone has to investigate.",
         "released": "2016-07-24",
@@ -333,7 +333,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-06-CORE-2-3",
+        "code": "CCC-BMG-06 CORE2-3",
         "name": "Edicts of Neutrality",
         "description": "With land trade threatened, the city of Melvaunt is relying on sea trade to get goods into and out of the city. An island rises out of the Moonsea just outside of Melvaunt Harbor, and initial exploration indicates the island is a threat. The origins and nature of the island must be ascertained before trade is shut down completely.",
         "released": "2016-07-24",
@@ -347,7 +347,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-07-HULB-1-1",
+        "code": "CCC-BMG-07 HULB1-1",
         "name": "Hulburg Rebuilding",
         "description": "Since the rebirth of Hulburg, the strong have preyed upon the weak, with only limited protection offered by the law. Recently, any resemblance of law and order has been threatened, and even the town’s greedy callous ruler cannot ignore the threat anymore. A war is brewing. Can you stop it before it is too late?",
         "released": "2016-07-28",
@@ -373,7 +373,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-08-HULB-1-2",
+        "code": "CCC-BMG-08 HULB1-2",
         "name": "Hulburg Burning",
         "description": "Violence is on the on the rise, even more than expected. The heat is rising. People run amok. But greed does not appear to be the flame behind it. Something much colder appears to drive the chaos. Can you track it down and remove it?",
         "released": "2016-07-28",
@@ -399,7 +399,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-09-HULB-1-3",
+        "code": "CCC-BMG-09 HULB1-3",
         "name": "Hulburg Rising",
         "description": "Since the rebirth of Hulburg, the strong have preyed upon the weak, with only limited protection offered by the law. Recently, any resemblance of law and order has been threatened, and even the town’s greedy callous ruler cannot ignore the threat anymore. A war is brewing. Can you stop it before it is too late?",
         "released": "2016-07-28",
@@ -433,13 +433,13 @@
         ]
     },
     {
-        "code": "CCC-BMG-HULB-1-S",
+        "code": "CCC-BMG-HULB1-S",
         "name": "Extinction",
         "description": "",
         "incomplete": true
     },
     {
-        "code": "CCC-BMG-10-HILL-1-1",
+        "code": "CCC-BMG-10 HILL1-1",
         "name": "Arrival",
         "description": "Hillsfar struggles to stay aloft after the fall of First Lord Torin Nomerthal. Trade is stagnant. Relations between the citizens and non-humans remain strained. Tensions are rising as Sir Vuhm Yestral is unable to ease the situation. The arrival of a charismatic stranger incites the populace to rebel against the new ruler.",
         "released": "2016-06-07",
@@ -475,7 +475,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-11-HILL-1-2",
+        "code": "CCC-BMG-11 HILL1-2",
         "name": "Exodus",
         "description": "The monster attacks have caused the citizens of Hillsfar to lack confidence in the ability of the new government to protect them. Families and merchants are leaving for a safer place. Vuhm Yestral has to prove that he has control of the situation. He decides that a bit of recon needs to be undertaken.",
         "released": "2016-06-07",
@@ -520,7 +520,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-12-HILL-1-3",
+        "code": "CCC-BMG-12 HILL1-3",
         "name": "Resurgence",
         "description": "There is a spy in Hillsfar! Your job is to find him or her before the city has no defense against the oncoming Dark Fey that are fueled by a forgotten ally of Torin Nomerthal and their lust for revenge.",
         "released": "2016-06-11",
@@ -556,7 +556,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-13-PHLAN-1-1",
+        "code": "CCC-BMG-13 PHLAN1-1",
         "name": "Sepulture",
         "description": "Spirits in Phlan are high in the wake of Vorgansharax’s defeat. Reconstruction plans are finally in motion, yet one threat looms. The Doomguide of Kelemvor has descended into the shadows of the necropolis and gathers dark forces around him. There is little he won’t anticipate. One should have their affairs in order before accepting this mission.",
         "released": "2016-07-31",
@@ -662,7 +662,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-14-PHLAN-1-2",
+        "code": "CCC-BMG-14 PHLAN1-2",
         "name": "Enemy of my Enemy",
         "description": "Something odd is happening to the citizens of Phlan. Some have inexplicably gone mad and must be restrained, while others have developed strange magical abilities. No one is immune as it has affected young and old, rich and poor, strong and weak. Opinions about the cause are plentiful, but some theories seem more solid than others.",
         "released": "2016-07-31",
@@ -684,7 +684,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-15-PHLAN-1-3",
+        "code": "CCC-BMG-15 PHLAN1-3",
         "name": "Subterfuge",
         "description": "An ambitious plan for the reconstruction of Phlan would expand the city walls to protect all the citizens. Now a band of emissaries sent to acquire necessary materials has gone missing in the wilds of the Dragonspine Mountains, and only the Heroes of Phlan can find them. But will it be in time to prevent catastrophe for the city?",
         "released": "2016-07-31",
@@ -708,14 +708,14 @@
         ]
     },
     {
-        "code": "CCC-BMG-PHLAN-1-S",
+        "code": "CCC-BMG-PHLAN1-S",
         "name": "Uprising",
         "description": "",
         "creator": "Baldman Games",
         "incomplete": true
     },
     {
-        "code": "CCC-BMG-16-ELMW-1-1",
+        "code": "CCC-BMG-16 ELMW1-1",
         "name": "The Sage of Cormanthor",
         "description": "The grain has rotted in the town of Elmwood, which means people might starve, businesses and banks might fail, and endanger the town’s already-precarious existence. Brave adventurers are needed to travel through the wild forest to seek the advice of the Sage of Cormanthor.",
         "released": "2017-01-20",
@@ -741,7 +741,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-17-ELMW-1-2",
+        "code": "CCC-BMG-17 ELMW1-2",
         "name": "The Lost Sanctum",
         "description": "Terrible news indicates that some vestige of the long-dead god Moander might be active in the forests near Elmwood. The Town Council is seeking clever adventurers to brave the perils of the Cormanthor forest to breach a lost wizard’s sanctum in search of a way to protect the town.",
         "released": "2017-02-10",
@@ -840,7 +840,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-18-ELMW-1-3",
+        "code": "CCC-BMG-18 ELMW1-3",
         "name": "The Battle of Elmwood",
         "description": "As the Greengrass Festival gets under way, one might have a sneaking suspicion that something is awry. Will the adventurers be able to save their new home in the Battle of Elmwood?",
         "released": "2017-02-10",
@@ -896,7 +896,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-19-HULB-2-1",
+        "code": "CCC-BMG-19 HULB2-1",
         "name": "Winter's Frosty Kiss",
         "description": "When winter breathes down the mountains, temperature drops and fear rises. Canvas walls offer little protection against the Frost Maiden’s embrace. When a band of hunters disappear, the citizens call upon adventurers for aid, because when the hunters become the hunted, trouble is afoot.",
         "released": "2017-10-30",
@@ -922,7 +922,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-20-HULB-2-2",
+        "code": "CCC-BMG-20 HULB2-2",
         "name": "Winter's Frigid Wrath",
         "description": "In the wake of Winter’s Frosty Kiss, vicious predators come down from Thar—hunters searching for prey. If Hulburg does not deliver, the citizens will become prey as well. Can you catch the intended mark before it is too late?",
         "released": "2017-10-30",
@@ -942,7 +942,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-21-HULB-2-3",
+        "code": "CCC-BMG-21 HULB2-3",
         "name": "Winter's Sharp Bite",
         "description": "No hunter is more dangerous than a bored one. They have set their sights on you. Are you going down with a whimper or will you face the challenge head on, giving the hunter a taste of their own medicine? A D&D Adventurers League adventure set in Hulburg and its nearby environs.",
         "released": "2017-10-30",
@@ -962,14 +962,14 @@
         ]
     },
     {
-        "code": "CCC-BMG-HULB2S",
+        "code": "CCC-BMG-HULB2-S",
         "name": "Winter's Feast",
         "description": "",
         "creator": "Baldman Games",
         "incomplete": true
     },
     {
-        "code": "CCC-BMG-22-PHLAN-2-1",
+        "code": "CCC-BMG-22 PHLAN2-1",
         "name": "Demagogue",
         "description": "With the Banite coup recently foiled, election day in Phlan has finally arrived. But the Lord of Darkness needs a new representative. Barrett Sokol, his hand squarely on the pulse of today’s Phlan, requires additional vetting and may need your assistance. Part One of the *Sovereignty* trilogy.",
         "released": "2018-01-06",
@@ -993,7 +993,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-23-PHLAN-2-2",
+        "code": "CCC-BMG-23 PHLAN2-2",
         "name": "Hatemaster",
         "description": "With the Banite coup recently foiled, election day in Phlan has finally arrived. But the Lord of Darkness needs a new representative. Colvin Doverson, his qualifications rooted in Phlan’s brutal past, requires additional vetting and may need your assistance. Part Two of the *Sovereignty* trilogy.",
         "released": "2018-01-06",
@@ -1017,7 +1017,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-24-PHLAN-2-3",
+        "code": "CCC-BMG-24 PHLAN2-3",
         "name": "The Royal We",
         "description": "With the Banite coup recently foiled, election day in Phlan has finally arrived. But the Lord of Darkness needs a new representative. Jhessail Greycastle, with her grand plans for the future of Phlan, requires additional vetting and may need your assistance. Part Three of the *Sovereignty* trilogy.",
         "released": "2018-01-06",
@@ -1041,14 +1041,14 @@
         ]
     },
     {
-        "code": "CCC-BMG-PHLAN-2-S",
+        "code": "CCC-BMG-PHLAN2-S",
         "name": "Damnation",
         "description": "",
         "creator": "Baldman Games",
         "incomplete": true
     },
     {
-        "code": "CCC-BMG-25-CODE-3-1",
+        "code": "CCC-BMG-25 CODE3-1",
         "name": "The Spectral Incursion",
         "description": "As Melvaunt rebuilds after the devastation wrought by the modron and orc attacks, the planar portal outside the city walls continues to worry everyone in the City of a Thousand Forges. A closer examination of the portal is needed, and brave adventurers are asked to help be part of the reconnaissance team.",
         "released": "2018-04-12",
@@ -1070,7 +1070,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-26-CODE-3-2",
+        "code": "CCC-BMG-26 CODE3-2",
         "name": "The Ghostly Infestation",
         "description": "Tensions are high within Melvaunt after the incident at the planar portal. Reports of strange behavior from several people, from the lowliest dockworker to the members of the Council of Lords, are taxing the resources of the City Watch. Are all of these strange behaviors just paranoid imaginings, or is a more dire threat lurking in the hearts of Melvaunt’s citizen?",
         "released": "2018-04-12",
@@ -1096,7 +1096,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-27-CODE-3-3",
+        "code": "CCC-BMG-27 CODE3-3",
         "name": "The Spirited Infestation",
         "description": "The culprit behind the incident at the planar portal has been identified. Adventurers must investigate the individual behind the foul play, determining the means and the motive. But an odd party and some even odder guests threaten the investigation.",
         "released": "2018-04-12",
@@ -1124,7 +1124,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-28-HILL-2-1",
+        "code": "CCC-BMG-28 HILL2-1",
         "name": "The Red Gathering",
         "description": "Desperate for assistance in returning Hillsfar to its former glory, First Lord Vuhm Yestral receives word that help may come from an unlikely source. With preparations in order, can he facilitate what the city needs, or will his red gathering all be for naught?",
         "released": "2018-04-18",
@@ -1154,7 +1154,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-29-HILL-2-2",
+        "code": "CCC-BMG-29 HILL2-2",
         "name": "The Red Herring",
         "description": "The Mage’s Guild has been implicated in a recent attack on a visiting dignitary from the Red Wizards. To what extent are they involved? Is there still a threat? The Mages have pledged their cooperation in your investigation, but are they sincere? Try to find the answers to these difficult questions and earn the respect of some powerful allies in the city of Hillsfar.",
         "released": "2018-04-23",
@@ -1186,7 +1186,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-30-HILL-2-3",
+        "code": "CCC-BMG-30 HILL2-3",
         "name": "The Red Death",
         "description": "It all comes out. The ones behind the mages and thieves guild being implicated in an assassination attempt of the Zulkir. All that’s needed is a group of upstanding ne’re do wells to help the First Lord deal with the situation.",
         "released": "2018-04-23",
@@ -1227,7 +1227,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-31-PHLAN-3-1",
+        "code": "CCC-BMG-31 PHLAN3-1",
         "name": "The Conventicle of Chaos",
         "description": "After years of strife, Phlan is entering a new era of prosperity. Under the strong leadership of Jhessail Greycastle, external dangers have been beaten back, the city defenses have been strengthened, and the guilds are flourishing. But fresh threats have arisen within the city walls. Strange beasts stalk the night, bringing swift death in their wake, whilst a new criminal gang is vying for control of the streets. Can our heroes uncover the truth before more lives are lost?",
         "released": "2018-07-16",
@@ -1253,7 +1253,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-32-PHLAN-3-2",
+        "code": "CCC-BMG-32 PHLAN3-2",
         "name": "The First Rule",
         "description": "Deep inside the underbelly of Phlan something sinister is going on. A new group of criminals is looking to take over illegal operations in the city and have set themselves up in the sewers. Adventurers are needed to discover what secrets lie beneath Phlan. Do you heed the call?",
         "released": "2018-07-16",
@@ -1289,7 +1289,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-33-PHLAN-3-3",
+        "code": "CCC-BMG-33 PHLAN3-3",
         "name": "Spinning on the Edge",
         "description": "With Phlan’s prosperous new future hanging in the balance, Chancellor Calypso isn’t about to let a new stream of thieves, the recently identified Coin Spinners, flood into the city. A lucky tip and safe-house sting has secured “invitations” for a single group of adventurers into the organizations, and a path to where the supply lines end. Steel yourself, this invitation has your name all over it.",
         "released": "2018-07-16",
@@ -1321,7 +1321,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-34-ELMW-2-1",
+        "code": "CCC-BMG-34 ELMW2-1",
         "name": "Tendrils in the Fog",
         "description": "When a series of grisly murders and raids on farms and fishing boats come to light, accompanied by a strange fog, the people of Elmwood need heroes to investigate and stop the attacks. There is hardly anyone in the Moonsea who’s life hasn’t been touched by one of the tragedies over the past years, and these attacks may have deeper causes than anyone knows.",
         "released": "2018-10-03",
@@ -1351,7 +1351,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-35-ELMW-2-2",
+        "code": "CCC-BMG-35 ELMW2-2",
         "name": "Mists of the Moonsea",
         "description": "The heroes of Elmwood find clues that lead them to follow the trail of their adversaries to the Bell of the Deep, the sunken castle of Northkeep beneath the violet waves of the Moonsea. Can they make it safely there through the ancient terrors of the Moonsea as well as all the obstacles their adversaries can put in the way?",
         "released": "2018-10-03",
@@ -1379,7 +1379,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-36-ELMW-2-3",
+        "code": "CCC-BMG-36 ELMW2-3",
         "name": "Vestiges of Darkness",
         "description": "Legends say that the fall of Northkeep was orchestrated by one man, who sought ultimate power but was cursed to remain forever within the sunken ruins of the Bell in the Deep as his only reward. Now the great betrayer might himself have been betrayed, with dire consequences for the entire Moonsea region.",
         "released": "2018-10-03",
@@ -1417,7 +1417,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-37-HULB-3-1",
+        "code": "CCC-BMG-37 HULB3-1",
         "name": "Weakness of Rock",
         "description": "Something stirs in the Hulburg mines. It would be nice to know what, but it would be nicer if it would stop collapsing parts of the mines and leaving catatonic miners. This could be the end of Hulburg’s windfall unless someone finds a way to stop it. Part 1 of the *Obsidian Stone* trilogy.",
         "released": "2018-12-07",
@@ -1447,7 +1447,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-38-HULB-3-2",
+        "code": "CCC-BMG-38 HULB3-2",
         "name": "Dead Canaries",
         "description": "Wait! Is that an upside-down staircase? Am I floating? Why are my hands triangles? Why do I have four of them? No, wait, those are not mine! Where am I? How did I get here? Part 2 of the *Obsidian Stone* trilogy.",
         "released": "2018-12-07",
@@ -1479,7 +1479,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-39-HULB-3-3",
+        "code": "CCC-BMG-39 HULB3-3",
         "name": "Darkest Vein",
         "description": "In the depths below Hulburg, the main user of a psychic drug made from condensed emotions will make its final stand. Those who dare descend must be mentally prepared for the onslaught that awaits, if they wish to survive. Part 3 of the *Obsidian Stone* trilogy.",
         "released": "2018-12-07",
@@ -1530,9 +1530,9 @@
         ]
     },
     {
-        "code": "CCC-BMG-40-HULB-4-1",
+        "code": "CCC-BMG-40 HULB4-1",
         "name": "Whispers from the Deep",
-        "description": "Usually monsters disappearing is a good thing, but what if soon after whispers can be heard in one’s dreams and people disappear? What horrors did those things stir in the ruins below? Better safe than sorry.\n\n Part One of the *Terror from the Deep* trilogy.",
+        "description": "Usually monsters disappearing is a good thing, but what if soon after whispers can be heard in one’s dreams and people disappear? What horrors did those things stir in the ruins below? Better safe than sorry. Part One of the *Terror from the Deep* trilogy.",
         "released": "2019-01-21",
         "creator": "Baldman Games",
         "tier": [3],
@@ -1557,14 +1557,14 @@
         "storyAwards": [
             {
                 "name": "Whispers of Dagon",
-                "description": "You exposed yourself to the power of the *Orb of Creation*. Your mind is plagued by whispers and nightmares. You are required to spend 2 more hours completing a long rest then the usual required hours. This story award remains in effect until the character finishes **CCC-BMG-HULB 04-03**.\n\n Alternatively, you can choose to remove the curse by spending 10 downtime days meditating and clearing your mind of Dagon’s influence."
+                "description": "You exposed yourself to the power of the *Orb of Creation*. Your mind is plagued by whispers and nightmares. You are required to spend 2 more hours completing a long rest then the usual required hours. This story award remains in effect until the character finishes **CCC-BMG-42 HULB4-3**.\n\n Alternatively, you can choose to remove the curse by spending 10 downtime days meditating and clearing your mind of Dagon’s influence."
             }
         ]
     },
     {
-        "code": "CCC-BMG-41-HULB-4-2",
+        "code": "CCC-BMG-41 HULB4-2",
         "name": "Voices from the Deep",
-        "description": "“Give us what we want or more ships will be sunk and crews taken,” say monsters from the deep. The authorities might give in. Somebody needs to stop them.\n\n Part Two of the *Terror from the Deep* trilogy.",
+        "description": "“Give us what we want or more ships will be sunk and crews taken,” say monsters from the deep. The authorities might give in. Somebody needs to stop them. Part Two of the *Terror from the Deep* trilogy.",
         "released": "2019-01-21",
         "creator": "Baldman Games",
         "tier": [3],
@@ -1588,9 +1588,9 @@
         ]
     },
     {
-        "code": "CCC-BMG-42-HULB-4-3",
+        "code": "CCC-BMG-42 HULB4-3",
         "name": "Call of the Deep",
-        "description": "The watery veil is lifted and the Master of the Deep is known. All that remains is killing it and lifting its destructive influence. The dangers that lurk in the unfathomable depths might be the least of your worries.\n\n Part Three of the *Terror from the Deep* trilogy.",
+        "description": "The watery veil is lifted and the Master of the Deep is known. All that remains is killing it and lifting its destructive influence. The dangers that lurk in the unfathomable depths might be the least of your worries. Part Three of the *Terror from the Deep* trilogy.",
         "released": "2019-01-21",
         "creator": "Baldman Games",
         "tier": [3],
@@ -1620,7 +1620,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-43-PHLAN-4-1",
+        "code": "CCC-BMG-43 PHLAN4-1",
         "name": "Ghoulies and Ghosties",
         "description": "The unthinkable is happening in Phlan; someone, or some thing, is taking the children. What began as strange reports from outlying farms, has now become a city-wide problem. Emotions and tempers run high and accusations are thrown carelessly. The Chancellor has offered a substantial reward to anyone that can not only get to the bottom of the mystery while keeping the citizens from turning on one another in the process. You’ll need a sharp sword, and an even sharper mind?",
         "released": "2019-01-25",
@@ -1634,7 +1634,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-44-PHLAN-4-2",
+        "code": "CCC-BMG-44 PHLAN4-2",
         "name": "Long Leggity Beasties",
         "description": "The unthinkable is happening in Phlan; someone, or some thing, is taking the children. What began as strange reports from outlying farms, has now become a city-wide problem. Emotions and tempers run high and accusations are thrown carelessly. The Chancellor has offered a substantial reward to anyone that can not only get to the bottom of the mystery while keeping the citizens from turning on one another in the process. You’ll need a sharp sword, and an even sharper mind?",
         "released": "2019-01-25",
@@ -1648,7 +1648,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-45-PHLAN-4-3",
+        "code": "CCC-BMG-45 PHLAN4-3",
         "name": "Things That Go Bump in the Night",
         "description": "A recent rash of kidnappings in Phlan has been partially solved, but some children are still missing, and the “monster” responsible is still on the loose. His whereabouts have been narrowed, so your task is simple; bring him in, dead or alive. But how does one capture a living nightmare? Can you face your darkest fears? Do you have the courage? It will be more difficult than you think.",
         "released": "2019-01-25",
@@ -1695,7 +1695,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-46-HILL-3-1",
+        "code": "CCC-BMG-46 HILL3-1",
         "name": "Shepherd the Weak",
         "description": "Reports of overaggressive animals with unusual markings and body parts have been coming from the woods near Hillsfar. These creatures were born under Graz’zt’s influence over Hillsfar. Their “shepherd” has joined forces with the demon that now grows in power in the woods. The shepherd’s goal is to taint a local watering hole, giving the animals and creatures of the area demonic traits.",
         "released": "2019-02-13",
@@ -1721,7 +1721,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-47-HILL-3-2",
+        "code": "CCC-BMG-47 HILL3-2",
         "name": "Suffer the Children",
         "description": "Children born with demonic traits have begun to appear in Hillsfar. No one is sure of the cause, so paranoia and fear threaten to turn into a witch hunt. Every day, more of these children are born, while the true cause of the problem lays unresolved deep in the Cormanthor Forest.",
         "released": "2019-02-13",
@@ -1759,7 +1759,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-48-HILL-3-3",
+        "code": "CCC-BMG-48 HILL3-3",
         "name": "Spare the Rod",
         "description": "The Zhentarim were in over their heads the moment the demon child was delivered to them. They were woefully unprepared to raise a baby, let alone an infant demon. Two tenday ago, it disappeared and has not returned. With the rumors of a fiendish influence spreading throughout the forest, the Zhentarim’s worst nightmare has come true.",
         "released": "2019-02-13",
@@ -3522,171 +3522,520 @@
         "incomplete": true
     },
     {
-        "code": "CCC-TRI-01",
+        "code": "CCC-TRI-01 YUL1-1",
         "name": "Into the Darkness",
-        "description": "",
-        "incomplete": true
+        "description": "As Faerûn recovers from the demon threat, a prominent leader goes missing. Is this a simple rescue mission, or is there more at stake? Part One of the *Yûlash* series.",
+        "released": "2017-09-16",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/221775/CCCTRI01-Into-the-Darkness-Part-One-of-the-Yulash-Series",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Robe of Scintillating Colors",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Flame Strike",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Heal",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Mass Suggestion",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Elanil’s Rage",
+                "description": "You were able to locate Elanil, but were unable to save the inhabitants of Hilltop. The aberrants escaped with their treasure hoard and their prisoners before you were able to encounter them. Elanil is upset with you that you were not organized enough with your time or resources to stop them in time.\n\n Until you play in an adventure with Elanil and successfully complete a faction mission, you have disadvantage on all charisma based ability checks with all the factions. Once the extra renown is earned, remove this story award."
+            },
+            {
+                "name": "On the Right Track",
+                "description": "Your investigation into the disappearances at Hilltop have led you to interesting discoveries, but there is more to this situation than you had anticipated. What did Elanil stumble upon? This story award may have an effect in **CCC-TRI-02** and other future adventures."
+            },
+            {
+                "name": "Worse than the Slavers",
+                "description": "In your rush to defeat the slavers, you have killed some of the prisoners. As a result, you are distrusted (and likely even hated) by the residents of Hilltop. For as long as you possess this story award, all of your Charisma (Deception or Persuasion) checks against a local of Hilltop are made with disadvantage. Additionally, all prices for any purchases or services in the shantytown are doubled."
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-02",
+        "code": "CCC-TRI-02 YUL1-2",
         "name": "Impression Left Behind",
-        "description": "",
-        "incomplete": true
+        "description": "Elanil Elassidil’s successful recovery brings dire news, and only enough to raise the fears of all. On the urgent request of the factions, a covert raid party must be sent in to secure as much knowledge as possible, and destroy whatever schemes lie below. Part Two of the *Yûlash* series.",
+        "released": "2017-11-29",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/227696/CCCTRI02-Impression-Left-Behind-Part-Two-of-the-Yulash-Series",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Rod of Absorption",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Vitality",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Harbinger of the Vast Gate",
+                "description": "The factions understand the difficulty of the task they asked, but emotions are hard to quell. The Far Realm flesh- magic around the illithid hive terrifies all, as nothing can currently penetrate it. You have been nicknamed a “Harbinger of the Vast Gate” by those who know of your failure, which is spreading by the day.\n\n As an aftereffect of almost being caught within, your body has been twisted. Far Realm creatures target you first and foremost, wishing to complete your transformation by killing you. Second, if you move to another plane of existence besides the material plane, subtle physical differences are seen. For example, a finger might become a tentacle, or your shadow moves erratically behind you. These changes cannot confer any mechanical bonuses. Those with *truesight* or other magical means of seeing true forms will see your altered body regard- less of your current plane."
+            },
+            {
+                "name": "Honorary Corps Member",
+                "description": "Xorack the beholder is in your debt, and the fight against the elder brain Kszanzeth has made him respect you. He offers you a permanent (secondary) position in the Mulmaster Beholder Corps! You will aid them in battle, help them be treated with respect, and many other thing that a lower ranking officer might do. In turn, they will come to your aid when it is most convenient, and allow you to pick a slightly less pompous title than their own. This might come into use in the future…"
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-03",
+        "code": "CCC-TRI-03 ROC1-1",
         "name": "Fences and Swords",
-        "description": "",
-        "incomplete": true
+        "description": "The Northern Moonsea region has recently been plagued by a mysterious pirate ship, which is seemingly able to appear without warning and then simply vanish. Instilling fear, and beginning to impact trade, those with vested interests in the area need this thorn removed from their sides. First, however, they must first discover where the mysterious ship calls home. Part One of the *RocSlide* series.",
+        "released": "2018-04-13",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/239621/CCCTRI03-Fences-and-Swords-Part-One-of-the-RocSlide-Series",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Rod of Rulership",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Water Breathing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Capture!",
+                "description": "Characters captured or arrested during this adventure must spend 60 downtime days to free themselves from captivity, in addition to one of the effects listed below:\n\n| d6 | Effect | Notes |\n| ------ | ------ | ------ |\n| 1 | Greasing Palms | The character can bribe their way to freedom for 500 gold. If the character cannot afford this, roll another d6 and take that result. |\n| 2 | Sold into Slavery | The character is sold into slavery, and branded with a small triangular face tattoo to mark this. Gains a trait of a strong dislike for slavery and empathy for those enslaved. |\n| 3 | Impressment | The character is forced into naval service in Melvaunt as part of their sentence. The character picks up the coarse language and behavior of a sailor. |\n| 4 | Hard Time | Prison almost psychologically breaks the character, but they emerge harder and more cynical, and is prone to sharing stories of his time behind bars. |\n| 5 | Prison Break | Although it takes a long time, the character manages to orchestrate an elaborate prison break, gaining notoriety for their brazen escape. |\n| 6 | Better Lucky than Good | Through a fortunate paperwork mishap, you are instead released from custody instead of placed into it. Some unfortunate soul suffers the opposite bad luck, and now hates you for life. |"
+            },
+            {
+                "name": "Friends in High Places",
+                "description": "Due to your savvy completion of Derlen’s task, you have begun to make a name for yourself in the Moonsea region, and have gained a small bit of favor with a member of the Lords’ Alliance. When playing adventures published by The Role Initiative (TRI), you may gain advantage on a Charisma-based skill check for an interaction involving a member of the Lords’ Alliance, or a city, town, or other type of government official in the Moonsea Region. This story award can be used once."
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-04",
+        "code": "CCC-TRI-04 ROC1-2",
         "name": "Birds of a Feather",
-        "description": "",
-        "incomplete": true
+        "description": "The ship plaguing the Northern Moonsea region, Merchant Lords’ Folly, is unable to hide anymore. Through coercion of their best fence, its current port and owners have been located. Now is the chance to strike out, and possibly acquire both the boat and its captains: The Teshwave Siblings. Part Two of the *RocSlide* series.",
+        "released": "2018-04-14",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/239652/CCCTRI04-Birds-of-a-Feather-Part-Two-of-the-RocSlide-Series",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Wings of Flying",
+                "rarity": "rare"
+            },
+            {
+                "name": "Spell Scroll of Dimension Door",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Clipped Wings",
+                "description": "In the face of the Teshwave Sibling’s pleading, you have stayed the course, either killing them or allowing the government of Melvaunt to exact the same due. The funny thing with warlocks is that their patrons tend to not allow them to lie dead for long…"
+            },
+            {
+                "name": "Let Caged Birds Free",
+                "description": "Taking pity or accepting their offer to repent, you have let the Teshwave Siblings go free. Their boat taken from them, their future is currently unknown. But make no mistake, they will make waves again."
+            },
+            {
+                "name": "A Mermaid’s Request",
+                "description": "By chance and skill, you have saved the mermaid Almeta from merrow attackers. She is forever grateful for this, and has extended an open invitation to her underwater village for the foreseeable future."
+            },
+            {
+                "name": "Mermaider",
+                "description": "Either by ill luck, or a lack of com- mand, the mermaid Almeta has been slain in front of you. Unknown to you, she was a leader of her village, and the repercussions for her death at the hands of the ship will echo through this area for some time."
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-05",
+        "code": "CCC-TRI-05 NIGHT1-1",
         "name": "Hunt of Malar",
-        "description": "",
+        "description": "Mulmaster has seen better days, though it is slowly rebuilding with the help of the Thayans, and anyone willing. Rumors have begun to spread of farmsteads being ransacked, their owners being murdered for rituals of an unknown source. Our heroes have been tasked with finding the source, but what they uncover shows something far more sinister, and far more deadly. Part One of the *Nightmare* series.",
+        "released": "2018-11-06",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/258089/TRI-Nightmare-Series-Bundle",
+        "tier": [2],
         "incomplete": true
     },
     {
-        "code": "CCC-TRI-06",
+        "code": "CCC-TRI-06 NIGHT1-2",
         "name": "Haggard Heroes",
-        "description": "",
+        "description": "The Glacier of the White Worm’s innermost mysteries have always been elusive, but with hag plans unfolding the glacier has taken a turn for the worse. Adventurers must brave the ice and learn of experiments that bring an ever-growing danger to Mulmaster, and the Moonsea at large. Part Two of the *Nightmare* series.",
+        "released": "2018-11-06",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/258089/TRI-Nightmare-Series-Bundle",
+        "tier": [2],
         "incomplete": true
     },
     {
-        "code": "CCC-TRI-07",
+        "code": "CCC-TRI-07 NIGHT1-3",
         "name": "Beneath the Moonsea",
-        "description": "",
+        "description": "Trade to the city of Mulmaster has all been severed due to the destruction of the Bay. Reconstruction has been hampered by the wrath of Umberlee. To assuage her anger, a new shrine will need to be consecrated. This will require the reclamation of the Kraken’s Tear, which was lost centuries ago when Northkeep sank below the waves. Part Three of the *Nightmare* series.",
+        "released": "2018-11-06",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/258089/TRI-Nightmare-Series-Bundle",
+        "tier": [2],
         "incomplete": true
     },
     {
-        "code": "CCC-TRI-08",
+        "code": "CCC-TRI-08 NIGHT1-4",
         "name": "Dreaful Wail",
-        "description": "",
+        "description": "Mulmaster scrambles to defend itself, as news spreads up the River Lys of a fog‑like leviathan barreling towards them! The heroes must pull together any available resources, and then repel this beast before it breaks the town and any chance for a future. Part Four of the *Nightmare* series.",
+        "released": "2018-11-06",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/258089/TRI-Nightmare-Series-Bundle",
+        "tier": [2],
         "incomplete": true
     },
     {
-        "code": "CCC-TRI-09",
+        "code": "CCC-TRI-09 BHC1-0",
         "name": "Tinhammer Falls",
-        "description": "",
-        "incomplete": true
+        "description": "A sleepy little mining town in the Dragonspine Mountains has enjoyed the peace and quiet of their simple lives for decades. But despite his best intentions, the arrival of a scholar seeking ancient treasures has disrupted this community. A travelling band of adventurers is just what is needed to set things right. Prelude to the *Beholder Corps* series.",
+        "released": "2018-09-05",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/251688/CCCTRI09-Tinhammer-Falls-Prelude-to-the-Beholder-Corps-series",
+        "tier": [1],
+        "items": [
+            {
+                "name": "War Pick, +1",
+                "rarity": "uncommon"
+            }
+        ]
     },
     {
-        "code": "CCC-TRI-10",
+        "code": "CCC-TRI-10 BHC1-1",
         "name": "Contact",
-        "description": "",
-        "incomplete": true
+        "description": "A beholder tyrant ship crashed into the Dragonspine Mountains many years ago. Three beholders survived and found a home in Mulmaster. A recent archaeological dig may have discovered the crash site. The Mulmaster Beholder Corps doesn’t want the ship’s secrets to fall into the hands of someone who could use it for evil. Do you have what it takes to help the Corps? Part One of the *Beholder Corps* series.",
+        "released": "2018-12-28",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/262639/CCCTRI10-Contact-Part-One-of-the-Beholder-Corps-Series",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Dwarven Plate",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Spell Scroll of Animate Dead",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Comprehend Languages",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Necromancer's Spellbook",
+                "spells": [
+                    { "name": "false life", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "ray of sickness", "level": 1 },
+                    { "name": "blindness/deafness", "level": 2 },
+                    { "name": "ray of enfeeblement", "level": 2 },
+                    { "name": "web", "level": 2 },
+                    { "name": "animate dead", "level": 3 },
+                    { "name": "counterspell", "level": 3 },
+                    { "name": "vampiric touch", "level": 3 },
+                    { "name": "blight", "level": 4 },
+                    { "name": "dimension door", "level": 4 },
+                    { "name": "stoneskin", "level": 4 },
+                    { "name": "Bigby's hand", "level": 5 },
+                    { "name": "cloudkill", "level": 5 },
+                    { "name": "circle of death", "level": 6 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Beholder Corps Cadet",
+                "description": "If you are already an honorary Corps member, the Beholder Corps promote you to Cadet status. You are allowed to attend formal meetings as guard and protector of the Beholder Corps. The Beholder Corps will treat you as a sworn brother and will fight with you until the bitter end."
+            },
+            {
+                "name": "Beholder Corps Ensign",
+                "description": "If you are already a Beholder Corps Cadet, you are promoted to the rank of ensign within the Mulmaster Beholder Corps. In addition to your Cadet bonus, you swear to follow the commands of Xorack, Xamott, and Xanshin when battle breaks out. The Beholder Corps will grant you inspiration whenever you do a mission for them."
+            },
+            {
+                "name": "Beholder Corps Lieutenant",
+                "description": "If you are already a Beholder Corps Ensign, you are promoted to the rank of Lieutenant within the Mulmaster Beholder Corps. In addition to your Ensign bonus, if you are the highest-ranking Beholder Corps member in the party, all other Beholder Corps members will follow your reasonable commands when on a mission for The Beholder Corps."
+            },
+            {
+                "name": "Honorary Corps Member",
+                "description": "The Beholder Corps is in your debt and offer you a permanent (secondary) position in the Mulmaster Beholder Corps. You will aid the Corps in battle, help them earn respect, and many other things a low-ranking officer might do. In turn, the Beholder Corps will come to your aid when it is most convenient, and allow you to pick a slightly less pompous title than their own. This may come into use in the future…"
+            }
+        ]
     },
     {
         "code": "CCC-TRI-11",
         "name": "Flooded Dreams",
-        "description": "",
+        "description": "With a hag coven bringing destruction and ruin to the city of Mulmaster, its leaders send an expedition into the Flooded Forest to learn of its secrets. Old notes speak of the coven’s original lair, but nothing can prepare the expeditionary group for what they find. Part One of the *Olma* series.",
+        "released": "2018-12-31",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/262922/CCCTRI11-Flooded-Dreams-Part-One-of-the-Olma-Series",
+        "tier": [1],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-12",
         "name": "Ill Met in Ylraphon",
-        "description": "",
+        "description": "A behemoth threatens Mulmaster at the direction of a bheur hag named Auntie Olma, but intelligence reveals that she has another sinister plot unfolding at the same time. One of her agents has infiltrated nearby Ylraphon on a mission to destabilize the town and weaken it in advance of a large attack. The Lords of Mulmaster cannot defend both settlements at once. Can the heroes reach Ylraphon and find the agent before she succeeds at her mission, so that the forces of the town may rally to defend their homes? Part Two of the *Olma* series.",
+        "released": "2018-12-31",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/262924/CCCTRI12-Ill-Met-in-Ylraphon-Part-Two-of-the-Olma-Series",
+        "tier": [1],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-13",
         "name": "What Lies Beneath Ylraphon",
-        "description": "",
+        "description": "Chasing the mysteries of Auntie Olma has disturbed more powerful forces, and the city of Ylraphon pays the price. Zombies, ghasts, and creatures even more sinister tear up the streets. With Ylraphon in danger, adventurers must push back the undead horde threatening it all! Part Three of the *Olma* series.",
+        "released": "2018-12-31",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/262926/CCCTRI13-What-Lies-beneath-Ylraphon-Part-Three-of-the-Olma-Series",
+        "tier": [1],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-14",
         "name": "The Voice in the Night",
-        "description": "",
+        "description": "A bizarre sea monster has been spotted near Hillsfar. Strange voices visit people in their dreams. Zealots preach about the Great Old Ones’ return. Can you find out the truth before the voice consumes everyone’s sanity? Part Three of the *Yûlash* series.",
+        "released": "2018-06-29",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/245910/CCCTRI14-The-Voice-in-the-Night-Part-Three-of-the-Yulash-Series",
+        "tier": [3],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-15",
         "name": "The Dark of the Hive",
-        "description": "",
+        "description": "Strange events are occurring near the town of Yûlash—ground tremors originating from an old mind flayer hive. Our heroes are asked to investigate the old hive and determine the cause of the seismic activity, but another pressing matter is revealed to them, too. Part Four of the *Yûlash* series.",
+        "released": "2018-06-29",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/245914/CCCTRI15-The-Dark-of-the-Hive-Part-Four-of-the-Yulash-Series",
+        "tier": [3],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-16",
         "name": "Ph'theev, the Despondent",
-        "description": "",
+        "description": "A new trend is sweeping through the upper crust of Hillsfar nobility. Private menageries—the more exotic the better—have begun popping up in mansions and gardens around the city. However, recent reports of dangerous monsters escaping captivity and attacking citizens have the Red Plumes concerned. Where are these monsters coming from, how are they being procured, and what threat might this pose? Part One of the *Psionic Menace* series.",
+        "released": "2018-09-17",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/252563/CCCTRI16-Phtheev-the-Despondent-Part-One-of-the-Psionic-Menace-Series",
+        "tier": [1],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-17",
         "name": "Ph'theev, Unbound!",
-        "description": "",
+        "description": "The flumph cloister is overjoyed to see its member returned, but warns of a psionic menace that resides nearby, causing most other creatures to flee. This menace is still in its infancy, and must be taken care of before it poses a threat to the area-at-large. Your flumph friend must come with you to sniff out the signs, so keep it safe!  Part Two of the *Psionic Menace* series.",
+        "released": "2018-09-17",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/252565/CCCTRI17-Phtheev-Unbound-Part-Two-of-the-Psionic-Menace-Series",
+        "tier": [1],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-18",
         "name": "Pros & Cons",
-        "description": "",
+        "description": "Every 200 years, the famous Eastern Moonsea Adventuring Convention takes place in the woods south of Elmwood. A who’s who of powerful adventurers, wizards, and vendors gather at a magical convention hall to exchange stories, goods, and wisdom. New adventurers often find themselves drawn to this event, in search of fame, fortune, and most importantly, swag. Mischief and intrigue, however, are afoot and new adventurers must answer the call.",
+        "released": "2018-09-17",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/252566/CCCTRI18-Pros--Cons-An-Original-Adventure-by-The-Role-Initiative",
+        "tier": [1],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-19",
         "name": "Dead Men's Tales",
-        "description": "",
+        "description": "A call for help is received from Abigail’s Cove: a fishing village located just south of Hulburg. Recently, two moss-covered skeletons walked out of the Moonsea and attacked the village. The villagers were able to defend themselves, but they fear something worse may be coming as a thick and ominous fog slowly rolls in from the Moonsea. Part One of the *Dead Men* series.",
+        "released": "2018-07-16",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/247439/CCCTRI19-Dead-Mens-Tales-Part-One-of-the-Dead-Men-Series",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-20",
+        "name": "Breaking Yûlash",
+        "description": "The city of Yûlash is under siege. Can you and a small allied force break the siege, save your allies, and discover who or what is behind the assault? Part Five of the *Yûlash* series.",
+        "released": "2020-01-16",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/299817/CCCTRI20-Breaking-Yulash-Part-Five-of-the-Yulash-Series",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-21",
+        "name": "The Rifts of Madness",
+        "description": "The vast power released by the destruction of a powerful gate connected to the Far Realm created rifts in the fabric of the planes. Even worse, a foul taint has begun permeating into the planes. Are you brave enough to face what is lurking beyond the Rifts of Madness? Part Six of the *Yûlash* series.",
+        "released": "2020-01-16",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/299821/CCCTRI21-The-Rifts-of-Madness-Part-Six-of-the-Yulash-Series",
+        "tier": [3
+        ],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-22",
         "name": "On the Baron's Trail",
-        "description": "",
+        "description": "Following the destruction of the Thunderbound and the Ark of the Mountains, the cloud giant known as Baron Rajiram, remains at-large. A lead from the Harpers has brought the party to the city of Hulburg in pursuit of one of the Baron’s known accomplices. If they can locate his partner-in-crime, the party will be a step closer to finally apprehending the Baron and bringing him to justice. Part One of the *Storm* series.",
+        "released": "2019-05-31",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/277951/CCCTRI22-On-the-Barons-Trail-Part-One-of-the-Storm-Series",
+        "tier": [3],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-23",
         "name": "Sub Rosa",
-        "description": "",
+        "description": "Hot on the trail of Selise Teshwave and Baron Rajiram, the adventurers must enter newly exposed mountain excavations in the Galena mountains. Swift action must be taken to prevent the Baron from obtaining a powerful weapon from this ruin. Meanwhile, the mysterious Teshwave siblings, Abigail and Char, are hot on the trail of their older sister. Part Two of the *Storm* series.",
+        "released": "2019-05-27",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/277955/CCCTRI23-Sub-Rosa-Part-Two-of-the-Storm-Series",
+        "tier": [3],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-24",
         "name": "Knight Errand",
-        "description": "",
+        "description": "The fortress moves, slow yet inevitable in its trek across the land of Thar towards the Sword Coast. On board are Baron Rajiram and his servant, Selise of Teshwave, and the awoken defenses ready to keep the fortress afloat. Prepare for the assault. Part Three of the *Storm* series.",
+        "released": "2019-05-31",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/277957/CCCTRI24-Knight-Errand-Part-Three-of-the-Storm-Series",
+        "tier": [3],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-25",
         "name": "Dead Men's Treasure",
-        "description": "",
+        "description": "A map with an “X marking the spot” has been found in a recently uncovered tomb located in the small fishing village of Abigail’s Cove. The village’s mayor has sent out a secret call to trusted adventurers; offering a split of whatever treasure they can recover. Success means fortune for Abigail’s Cove, its villagers, and the adventurers. Part Two of the *Dead Men* series.",
+        "released": "2018-11-07",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/258129/CCCTRI25-Dead-Mens-Treasure-Part-Two-of-the-Dead-Men-Series",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-26",
+        "name": "Touch the Stars",
+        "description": "A battle rages in the sky above the Monastery of the Yellow Rose between illithid and githyanki, as a novice of the Yellow Rose carrying crucial knowledge has disappeared. As the Monastery of the Yellow Rose braces itself for the onslaught, you must use your wits and resources to find the missing novice. Will you succeed in time to save the Order of the Yellow Rose? Part One of the *Siege of the Yellow Rose*.",
+        "released": "2020-03-23",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/305254/CCCTRI26-Touch-the-Stars-Part-One-of-the-Siege-of-the-Yellow-Rose",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-27",
+        "name": "In the Vault of Stars",
+        "description": "A battle rages in the sky above the Monastery of the Yellow Rose between illithid and githyanki ships as shadowy shapes amass on the Glacier of the White Worm. As the Monastery of the Yellow Rose braces itself for the onslaught, you are sent onto the glacier in search of a secret githyanki base and to discover if the appearance of dragons brings ominous portents. Part Two of the *Siege of the Yellow Rose*.",
+        "released": "2020-03-23",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/305272/CCCTRI27-In-the-Vault-of-Stars-Part-Two-of-the-Siege-of-the-Yellow-Rose",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-28",
+        "name": "Siege of the Yellow Rose",
+        "description": "Beyond the Glacier of the White Worm lies the Monastery of the Yellow Rose. High in the skies above the monastery, a battle rages between illithid and githyanki. While others search the monastery and the glacier for clues, you are asked to defend the monastery from those in the skies and on the ground. Can you defend the monastery long enough for the clues to be uncovered? Part Three of the *Siege of the Yellow Rose*.",
+        "released": "2020-03-23",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/305273/CCCTRI28-Siege-of-the-Yellow-Rose-Part-Three-of-the-Siege-of-the-Yellow-Rose-Series",
+        "tier": [3],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-29",
         "name": "Tidefall",
-        "description": "",
+        "description": "Though the Elemental Cults failed in the Dessarin Valley and in Mulmaster, fragments of their primordial cults still seek to destroy civilization. An unlikely contact alerts the heroes to impending ruin in the city of Phlan. Will the heroes be able to follow the ravings of a mad man to stop this scheme, or will even more catastrophe be visited upon the City of Phlan?",
+        "released": "2019-05-28",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/278015/CCCTRI29-Tidefall",
+        "tier": [3],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-30",
         "name": "Remnants of a Dream",
-        "description": "",
+        "description": "Heroes of the Realms have risen to stand against several recent events. The schemes of foul villains would have caused catastrophe across the lands of Faerûn, had they not been thwarted. And although they were indeed thwarted…there were those who escaped justice. Some of these remnants still scheme, still desire to make their dreams of destruction reality. It is time for new heroes to rise…",
+        "released": "2019-05-28",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/278016/CCCTRI30-Remnants-of-a-Dream",
+        "tier": [1],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-31",
         "name": "Out of Time",
-        "description": "",
+        "description": "Years ago, a young wizard looked out over the walls of his city and saw a vision in the winds—a vision of fire, conquest and glory. Now, his hour of destiny is at hand, and it may well spell disaster for the world. Can he be stopped before it’s too late?",
+        "released": "2019-05-28",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/278017/CCCTRI31-Out-of-Time",
+        "tier": [2],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-32",
         "name": "Casks and Caskets",
-        "description": "",
+        "description": "The refugees of the Zhentarim Ghetto of Mulmaster have been abandoned by the city and its Thayan supporters. Work is hard to find, and even harder to accomplish as the everburning fires in the Ghetto continue unabated. It was inevitable that unrest in the Ghetto would grow, finally drawing the attention of the powers that be. Part One of the *DAGGR* series.",
+        "released": "2019-05-28",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/278018/CCCTRI32-Casks-and-Caskets-Part-One-of-the-DAGGR-Series",
+        "tier": [1],
         "incomplete": true
     },
     {
         "code": "CCC-TRI-33",
         "name": "Matters of Life and Death",
-        "description": "",
+        "description": "A known gang from the refugee ghetto of Mulmaster wishes to make a statement at an important function at the Thayan Embassy. A murder mystery investigation is needed to catch this culprit, or the delicate peace between the city and its Thayan supporters could be shattered! Part Two of the *DAGGR* series.",
+        "released": "2019-05-28",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/278019/CCCTRI33-Matters-of-Life-and-Death-Part-Two-of-the-DAGGR-Series",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-TRI-34",
+        "name": "Rise of the Sea Dragon",
+        "description": "Old pirates tell an aged tale of a black dragon attacking merchant ships sailing the Moonsea. The beast was slain, or so they thought. Recently, merchant ships have been attacked, and they say the culprit was a black dragon. The beast may fly away with a few victims, but it leaves the rest to fend for themselves in the Moonsea. Could this be the same creature from before? Can the adventurers slay the dragon and bring peace to the waters of the Moonsea? Part Three of the *Dead Men* series.",
+        "released": "2019-07-29",
+        "creator": "The Role Initiative",
+        "url": "https://www.dmsguild.com/product/284078/CCCTRI34-Rise-of-the-Sea-Dragon-Part-Three-of-the-Dead-Men-Series",
+        "tier": [2],
         "incomplete": true
     },
     {

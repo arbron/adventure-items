@@ -100,7 +100,7 @@ extension Publish.Item where Site == AdventureItemsSite {
         let description = adventure.incomplete ? "*(incomplete)*" : ListFormatter().string(from: magicItemNames) ?? ""
 
         return Self(
-            path: Path(adventure.code.lowercased()),
+            path: Path(adventure.code.lowercased().replacingOccurrences(of: " ", with: "-")),
             sectionID: ASite.SectionID.adventures,
             metadata: ASite.ItemMetadata(
                 adventure: adventure

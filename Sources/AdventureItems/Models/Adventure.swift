@@ -11,12 +11,13 @@ struct Adventure: Codable, Hashable {
     var code: String
     var name: String
     var description: String
-
-    @DecodableDefault.False var incomplete: Bool
+    var tier: [Tier]?
 
     var released: Date?
     var creator: String?
-    var tier: [Tier]?
+    var url: URL?
+
+    @DecodableDefault.False var incomplete: Bool
 
     @DecodableDefault.EmptyList var items: [Item]
     @DecodableDefault.EmptyList var spellbooks: [Spellbook]

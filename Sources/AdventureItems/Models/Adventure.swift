@@ -11,11 +11,11 @@ struct Adventure: Codable, Hashable {
     var code: String
     var name: String
     var description: String
-    var tier: [Tier]?
 
     var released: Date?
     var creator: String?
     var url: URL?
+    var tier: [Tier]?
 
     @DecodableDefault.False var incomplete: Bool
 

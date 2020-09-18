@@ -8,14 +8,106 @@
     {
         "code": "CCC-AETHER01-01",
         "name": "The Heir of Orcus: Verse I",
-        "description": "",
-        "incomplete": true
+        "description": "The Mafisto Twins are seeking brave adventurers to “rescue” a lost Angel of Tyr from the Temple of Orcus, are you brave enough to answer the call? Think quick and act fast or you might just find yourself dead in a ditch down by the river as the rest of your party feasts in Mafisto Manor.",
+        "released": "2018-11-13",
+        "url": "https://www.dmsguild.com/product/258606/CCCAETHER0101-The-Heir-of-Orcus-Verse-I",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Helm of Comprehend Languages",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Spell Scroll of Absorb Elements",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Comprehend Languages",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Cultist of Zariel",
+                "description": "Sacrificing Ser Gertz has earned you the favor of the Archdevil Zariel. Go forth and recruit more souls in the name of Zariel!"
+            },
+            {
+                "name": "Knight of Holy Judgment",
+                "description": "You are now a member of the Knights of Holy Judgment! As a Knight of Holy Judgment you swore a solemn oath to uphold justice, hunt down the wicked, and serve as a stalwart guardian against devils and demons. May Tyr guide you as you devote yourself to the cause of justice, to the righting of wrongs, and to the deliverance of vengeance!"
+            }
+        ]
     },
     {
         "code": "CCC-AETHER01-02",
         "name": "The Heir of Orcus: Verse II",
-        "description": "",
-        "incomplete": true
+        "description": "Join the Mafisto Twins or Knights of Holy Judgement as you attempt to rescue Ser Vindictus, the legendary Angel of Tyr from the Temple of Orcus.",
+        "released": "2018-11-13",
+        "url": "https://www.dmsguild.com/product/258619/CCCAETHER0102-The-Heir-of-Orcus-Verse-II",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Dread Helm",
+                "rarity": "common"
+            },
+            {
+                "name": "Mariner’s Armor (Breastplate)",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Chosen One",
+                "description": "Characters who sided with Chaos receive this story award when the complete this adventure.\n\n Something beckons you…you never feel alone even when you physically are…something or someone is watching, forever waiting. You have become a chosen one!"
+            },
+            {
+                "name": "Rising Through the Ranks",
+                "description": "Characters gain this story award if they sided with the Knights of Holy Judgement or the Cult of Zariel: Your service has not gone unnoticed; your “side” offers you a permanent room and free food at their headquarters featured in throughout *The Heir of Orcus* storyline."
+            }
+        ]
+    },
+    {
+        "code": "CCC-AETHER02-01",
+        "name": "The Heir of Orcus: Verse IV",
+        "description": "Agents have uncovered several cells of the Cult of the Heir in the Moonsea region. Plan and lead an elite operation to eliminate the cells, but beware…one wrong choice might lead to certain death",
+        "released": "2020-02-18",
+        "url": "https://www.dmsguild.com/product/301681/The-Heir-of-Orcus-Verse-IV-CCCAETHER0201",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Candle of the Deep",
+                "rarity": "common"
+            },
+            {
+                "name": "Hat of Disguise",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Giant Strength (Hill)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Invulnerability",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Death to the Heir!",
+                "description": "Your planning and mission were flawlessly executed! You dealt a significant blow to the Cult of the Heir this day . With the information you collected you can immediately begin seeking out hidden cells to destroy whatever remains of the Cult of the Heir."
+            },
+            {
+                "name": "Game Over Man, Game Over!",
+                "description": "Your mission is a failure. The forces of good sustained high levels of casualties and the Cult of the Heir successfully thwarted your goals."
+            }
+        ]
     },
     {
         "code": "CCC-ALMOG-01",
@@ -64,20 +156,57 @@
     {
         "code": "CCC-AN-01",
         "name": "Secrets of Golden Fire",
-        "description": "",
+        "description": "An elusive school of monks and misfits traveling westward has smuggled itself into Melvaunt at a time of celebration, only to be cruelly ensnared by shadows from its fraught past. Will you help them hold back the darkness?",
+        "released": "2019-01-02",
+        "url": "https://www.dmsguild.com/product/263173/CCCAN01-Secrets-of-Golden-Fire",
+        "tier": [1],
         "incomplete": true
     },
     {
         "code": "CCC-AN-02",
         "name": "The Wrathful Deity of Khurovogo",
-        "description": "",
-        "incomplete": true
+        "description": "While traveling to Hillsfar, the adventuring party is approached by goblins who are convinced the god Khurgorbaeyag is angered and trying to kill them. Exploring the goblin village, the heroes find evidence that suggests divine smiting, but the truth is more bizarre than they can possibly imagine.",
+        "released": "2018-08-16",
+        "url": "https://www.dmsguild.com/product/250006/CCCAN02-The-Wrathful-Deity-of-Khurovogo",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Periapt of Health",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Goblin Folk Heroes",
+                "description": "Word of your deeds have been greatly exaggerated and spread throughout the Moonsea region. You have a reputation to help grease wheels…so long as the person you’re talking to listens to goblin folk tales.\n\n Once per adventure, when trying to draw on your reputation as a goblin folk hero to open doors, roll a d6. On odds, the creature being spoken to hasn’t heard the story. On a 1, the creature heard the story, but also heard an epilogue in which the prevailing adventurers ate gnomes at the victory celebration. The adventurer suffers disadvantage on the check to alter the creature’s perception.\n\n On 2 or 4, the creature has heard the story and is amazed to have a legendary adventurer in his presence. The hero gains advantage on social checks against the targeted creature.\n\n This story award is only good for adventures in the Anime North 2018 CCC series."
+            }
+        ]
     },
     {
         "code": "CCC-AN-03",
         "name": "Winter Wonderland",
-        "description": "",
-        "incomplete": true
+        "description": "Someone’s stolen the gifts from Santa’s workshop on the eve of the winter solstice. If they’re not recovered before nightfall, the winter solstice celebration will be ruined and children across the realms won’t get any presents.",
+        "released": "2018-10-23",
+        "url": "https://www.dmsguild.com/product/256915/CCCAN03-Winter-Wonderland",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Heward’s Handy Haversack",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Silver Snowflake",
+                "description": "For exemplifying the spirit of generosity and assisting Santa in a way no one else could, you’ve earned the Silver Snowflake. It is a small silver trinket that is always cool to the touch. When conversing with children, if you show them the silver snowflake and tell them that you know Santa, they will immediately believe you. This may make them more inclined to help you or answer questions honestly at the DMs discretion."
+            }
+        ]
     },
     {
         "code": "CCC-APL-01-01",
@@ -203,22 +332,74 @@
         ]
     },
     {
-        "code": "CCC-BLD-11",
+        "code": "CCC-BLD01-01",
         "name": "Bleeding Gate: Pandemonium",
-        "description": "",
-        "incomplete": true
+        "description": "Hired as security escorts for a group of noble children on a pilgrimage to the underground town of Emudomier, the party meet a strange tiefling being hunted by the father of her unborn child and Peacesmith master negotiators who's vows of peace do not prevent them from experiencing tragedy. Can adventurers discover the cause of Peacesmith and wildlife disappearances? Can they put a stop to the chaos that plagues Emmudomier and threatens all of Toril?",
+        "released": "2017-08-02",
+        "url": "https://www.dmsguild.com/product/218024/CCCBLD-11-Bleeding-Gate-Pandemonium",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Periapt of Wound Closure",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Chosen by the Peacestone",
+                "description": "The Peacestone glowed, acknowledging this player character’s exceptional potential to broaden peace. Those chosen have extraordinary long lifespans and are granted free lodging for life at Emudomier’s Peacesmith Guild. They may reject or accept the calling to become a **Peacesmith Negotiator** (below)."
+            },
+            {
+                "name": "Peacesmith Negotiator",
+                "description": "Peacesmith training takes years, but after a few tendays study, meditation, and mentoring from the Paragon himself, you begin to understand the art of broadening peace. You may choose to spend 15 downtime days and make a donation of 50 gold to the Peacesmith Guild to gain a **+2 bonus to one Charisma (Persuasion) check** to attempt to persuade a creature to stop fighting, or to otherwise help cause a peaceful resolution in a conflict. This ability recharges after a long rest."
+            },
+            {
+                "name": "Siblings in Peace",
+                "description": "At this player character’s touch the Peacestone did not glow. Any future attempts to touch the Peacestone yield the same results. The Peacestone’s behavior is mysterious, but does not prevent a person from broadening peace regardless of its illumination."
+            }
+        ]
     },
     {
-        "code": "CCC-BLD-12",
+        "code": "CCC-BLD01-02",
         "name": "Bleeding Gate: Amalgamation",
-        "description": "",
-        "incomplete": true
+        "description": "When the party is hired to assist a covert organization, investigating the disappearances of Peacesmith, they are sent deep into the bowels of the town. It’s dirty work and the party certainly smells the stench of conspiracy (among other things). But after charging into a colossal mess in the Border Forest, they come face-to-face with the culprit.",
+        "released": "2017-08-03",
+        "url": "https://www.dmsguild.com/product/218099/CCCBLD-12-Bleeding-Gate-Amalgamation",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Winged Boots",
+                "rarity": "uncommon"
+            }
+        ]
     },
     {
-        "code": "CCC-BLD-0103",
+        "code": "CCC-BLD01-03",
         "name": "Bleeding Gate: Lineage",
-        "description": "",
-        "incomplete": true
+        "description": "A towering aberration threatens Emudomier. The mastermind behind its creation and the Peacesmith killings remain unknown. Can the adventurers end the chaos or will Emudomier, the Moonsea, and all of Toril be overwhelmed?",
+        "released": "2018-01-18",
+        "url": "https://www.dmsguild.com/product/231700/CCCBLD-0103-Bleeding-Gate-Lineage",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Stone of Controlling Earth Elementals",
+                "rarity": "rare"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Chosen by the Peacestone",
+                "description": "The Peacestone glowed, acknowledging this player character’s exceptional potential to broaden peace. Those chosen have extraordinary long lifespans and are granted free lodging for life at Emudomier’s Peacesmith Guild. They may reject or accept the calling to become a **Peacesmith Negotiator** (below)."
+            },
+            {
+                "name": "Peacesmith Negotiator",
+                "description": "Peacesmith training takes years, but after a few tendays study, meditation, and mentoring from the Paragon himself, you begin to understand the art of broadening peace. You may choose to spend 15 downtime days and make a donation of 50 gold to the Peacesmith Guild to gain a **+2 bonus to one Charisma (Persuasion) check** to attempt to persuade a creature to stop fighting, or to otherwise help cause a peaceful resolution in a conflict. This ability recharges after a long rest."
+            },
+            {
+                "name": "Siblings in Peace",
+                "description": "At this player character’s touch the Peacestone did not glow. Any future attempts to touch the Peacestone yield the same results. The Peacestone’s behavior is mysterious, but does not prevent a person from broadening peace regardless of its illumination."
+            }
+        ]
     },
     {
         "code": "CCC-BMG-00 HILL1-S",
@@ -2935,22 +3116,98 @@
         "incomplete": true
     },
     {
-        "code": "CCC-GOC-0101",
+        "code": "CCC-GOC01-01",
         "name": "Tree Rot",
-        "description": "",
-        "incomplete": true
+        "description": "A corrupting sickness has infected the Quivering Forest, and the wood elf tribe of Thand’Arethen. Part of *The Gifts of Corruption* trilogy.",
+        "released": "2018-09-25",
+        "url": "https://www.dmsguild.com/product/253211/CCCGOC0101-Tree-Rot",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Bracers of Archery",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Lesser Restoration",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Forewarning",
+                "description": "You learned that a dryad and a satyr were helping to corrupt the forest, though these creatures typically work to protect it. When one of your other characters plays **CCC-GOC01-02**, *Cairns of Rot*, they gain advantage on Wisdom (Insight) checks to determine if other protectors of the forest have been corrupted."
+            },
+            {
+                "name": "Putting the Dead to Rest",
+                "description": "You put the undead aarakocra to rest in **CCC-GOC01-01**, *Tree Rot*. When one of your other characters plays CCCGOC01-03, Winds of Rot, characters may find an ally waiting for them on the earthmote."
+            }
+        ]
     },
     {
-        "code": "CCC-GOC-0102",
+        "code": "CCC-GOC01-02",
         "name": "Cairns of Rot",
-        "description": "",
-        "incomplete": true
+        "description": "The woodelf village of Thand'Arethen in the Quivering Forest discovered a dark and arcane corruption destroying the forest, threatening the village’s survival. The Corruption mutates anything living in the Quivering forest, changing the flora and fauna into dark corrupted echoes of what they were in life. Part of *The Gifts of Corruption* trilogy.",
+        "released": "2018-09-25",
+        "url": "https://www.dmsguild.com/product/253210/CCCGOC0102-Cairns-of-Rot",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Heward’s Handy Haversack",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 3
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Corruption Unchained",
+                "description": "You were unsuccessful at stopping the ritual and the corruption has spread. This will place a burden upon you in the other adventures in this series. When you play either **CCC-GOC01-01** or **CCC-GOC-01-03** tell your DM that you have this story award. The DM will indicate the in-game effect of this award."
+            },
+            {
+                "name": "Enemies Afoot",
+                "description": "You gain this award if you have not played **CCC-GOC01-01** Tree Rot. You know the cairns are the focal point of spreading the corruption in the area and that the satyr is using them to spread the corruption to the medicinal plants in the region. When you play **CCC-GOC-01-01**, tell the DM that you have this story award. The DM will indicate the in- game effect of this award."
+            },
+            {
+                "name": "Secrets Revealed",
+                "description": "You have saved the aarakocra slaves. They tell you they heard the druid telling powerful allies to hunt down a sorceress and indicate the direction that they went. When you play **CCC-GOC01-03**, tell the DM that you have this story award. The DM will indicate the in-game effect of this award."
+            }
+        ]
     },
     {
-        "code": "CCC-GOC-0103",
+        "code": "CCC-GOC01-03",
         "name": "Winds of Rot",
-        "description": "",
-        "incomplete": true
+        "description": "High above the Quivering Forest hovers Athal'deras, an earth mote that is home to a tribe of aarakocra. But a shadow has fallen over the floating rock, and the bird people have succumbed to the darkness, which they now strive to spread upon the winds. Part of *The Gifts of Corruption* trilogy.",
+        "released": "2018-09-25",
+        "url": "https://www.dmsguild.com/product/253212/CCCGOC0103-Winds-of-Rot",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Carpet of Flying",
+                "rarity": "veryRare"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Lessening Influence",
+                "description": "By breaking the gemstone and freeing the fiend within, you have stemmed the tide of the corruption. When one of your characters plays **CCC-GOC01-01**, *Tree Rot*, you have the opportunity to convince a would-be enemy to not fight, and to help heal the forest instead."
+            },
+            {
+                "name": "No Mote In the Sky",
+                "description": "You have defeated the dracolich and Velvet’s emissary, and the Cloud Glider tribe survived to find a new place to call home. When one of your characters plays **CCC-GOC01-02**, *Cairns of Rot*, the earthmote will not be seen in the sky."
+            }
+        ]
     },
     {
         "code": "CCC-GSP01-01",
@@ -3818,6 +4075,14 @@
         "incomplete": true
     },
     {
+        "code": "CCC-ROLL20-02",
+        "name": "The Heir of Orcus: Verse III",
+        "description": "Ios, the Overseer of Duerradin, a highly advanced duergar psionic research outpost, invites you to discuss the recent activity of the Heir of Orcus and her worshipers, the Cult of the Heir. Explore Duerradin for clues leading to nefarious plots carried out by the Cult of the Heir, discover alien technologies found nowhere else in the Forgotten Realms, and learn the dark history surrounding the rise of Duerradin before the Heir of Orcus strikes!",
+        "released": "2019-10-24",
+        "url": "https://www.dmsguild.com/product/287714/The-Heir-of-Orcus-Verse-III--CCCROLL2002",
+        "incomplete": true
+    },
+    {
         "code": "CCC-ROZK-0101",
         "name": "Binder's Torment",
         "description": "",
@@ -3984,6 +4249,20 @@
         "name": "Who Pulls the Strings",
         "description": "",
         "incomplete": true
+    },
+    {
+        "code": "CCC-SLMH01-01",
+        "name": "Codex Venator",
+        "description": "The last descendent of an ancient order would like to vanquish that evil before it spreads, but, betrayed by his age, he’ll need the help of noble adventurers to fulfill his ancient thirst for vengeance.",
+        "released": "2019-08-20",
+        "url": "https://www.dmsguild.com/product/286221/CCCSLMH0101-Codex-Venator--The-Last-Hunter",
+        "tier": [2],
+        "storyAwards": [
+            {
+                "name": "Newblood Hunters",
+                "description": "The characters have chosen to join the ancient **Order of the Noble Hunters** signing a contract with their own blood.\n\n They can now use the manor as a base of their operation and they will certainly become entangled with other mysterious assignments from the Order.\n\n Naturally, this will draw the attention of old enemies of the order…"
+            }
+        ]
     },
     {
         "code": "CCC-SQC-001",

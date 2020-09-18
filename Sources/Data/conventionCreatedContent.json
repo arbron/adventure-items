@@ -2,8 +2,44 @@
     {
         "code": "CCC-3MAGS-01",
         "name": "Vormestrand's Scroll",
-        "description": "",
-        "incomplete": true
+        "description": "The legendary brewer, Vormestrand, has disappeared in pursuit of creating the finest beer Faerûn has ever tasted. While some believe that his rival, Zythos, may have had a role in his disappearance, the only clue is the recipe itself—something that Zythos really wants to get his hands on. It’s up to you to safeguard the recipe and finish the brewer’s work! Part One of the *Cascadian Legacy* series of adventures.",
+        "released": "2018-12-02",
+        "url": "https://www.dmsguild.com/product/260364/CCC3MAGSONE-Vormestrands-Scroll",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Pipe of Smoke Monsters",
+                "rarity": "common"
+            },
+            {
+                "name": "Staff of Adornment",
+                "rarity": "common"
+            },
+            {
+                "name": "Tankard of Sobriety",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 5
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Dismal Hooch!",
+                "description": "The beer is little more than bitter water that barkeeps across the Moonsea ply their most drunken customers with in order to save the good stuff and make a little extra coin. While the tale of the brewing was no doubt exciting, linking your name to it won’t get you much respect from even the amateur beer enthusiasts."
+            },
+            {
+                "name": "Great Hooch!",
+                "description": "The beer is a rousing success, and many say that it has no equal in all of the Moonsea. You can expect to be treated quite well by connoisseurs and enthusiasts everywhere—if you can convince them you actually played a part in the brewing."
+            },
+            {
+                "name": "Mediocre Hooch!",
+                "description": "The beer is palatable and still better than your average swill. While it carries some distinctive flavors to set it apart from the rest, most people find the tale of its brewing to be more enjoyable than the beer itself."
+            }
+        ]
     },
     {
         "code": "CCC-AETHER01-01",
@@ -110,15 +146,159 @@
         ]
     },
     {
-        "code": "CCC-ALMOG-01",
+        "code": "CCC-ALMOG-01 TALES01-01",
         "name": "What Lies Beneath",
-        "description": "",
+        "description": "The SALT Consortium has been unable to protect Zor Celis Helrehd’s caravans traveling through Hawksroost as more of them go missing each day. Zor Celis Helrehd has had enough and has taken out a bounty for adventurers to find out What Lies Beneath.",
+        "released": "2018-11-13",
+        "url": "https://www.dmsguild.com/product/257958/CCCALMOG01-TALES0101-What-Lies-Beneath",
+        "tier": [1],
         "incomplete": true
     },
     {
-        "code": "CCC-ALMOG-03",
+        "code": "CCC-ALMOG-03 TALES03-01",
         "name": "Claws of Fury",
-        "description": "",
+        "description": "The frontier city of Hawksroost has seen a lot in the past few weeks, but the claims that the people have seen a skeleton dragon flying overhead at dusk are unsubstantiated. The hunt for the rumored creature is on, but is the creature what the people claim it is? Or is something else getting the people of Hawksroost all worked up?",
+        "released": "2018-08-17",
+        "url": "https://www.dmsguild.com/product/250115/CCCALMOG03-TALES0301-Claws-of-Fury",
+        "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ALMOG-24 DAGON02-02",
+        "name": "A Glow in the Galenas",
+        "description": "A visit to a dwarven forge village built into a volcano happens at the worst possible time. Can you save the dwarves and themselves?",
+        "released": "2019-11-22",
+        "url": "https://www.dmsguild.com/product/284788/A-Glow-in-the-Galenas",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ALMOG-24 DAGON02-04",
+        "name": "Beneath Ironfang Keep",
+        "description": "Ironfang Keep resides as one of the most mysterious and dangerous locations in all Faerûn. Recently, a local wizard has gone missing. His daughter calls for local adventurers to decipher his transcripts, brave entry, and expose the truth behind the ancient basalt walls.",
+        "released": "2019-08-14",
+        "url": "https://www.dmsguild.com/product/284732/Beneath-Ironfang-Keep",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ALMOG-25 SALT01-05",
+        "name": "How the Prison Was Fed",
+        "description": "A book found in the warden’s office gives clues on how to traverse the prison and how those that lived there were able to survive. Are there still survivors hidden in the Prison?",
+        "released": "2019-09-05",
+        "url": "https://www.dmsguild.com/product/284813/How-the-Prison-was-Fed",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Ear Horn of Hearing",
+                "rarity": "common"
+            },
+            {
+                "name": "Helm of Comprehending Languages",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Fireball",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-ALMOG-26 DAGON01-01",
+        "name": "Shadowed Bellview",
+        "description": "Some things are best left to rot in their forgotten temples. Even in the isolated village of Bellview, common folk suffers the consequences of a treasure hunter’s greed. Part One of *The Jade Curse*.",
+        "released": "2019-08-14",
+        "url": "https://www.dmsguild.com/product/284824/Shadowed-Bellview",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Bag of Holding",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Candle of the Deep",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Comprehend Languages",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Touched by Dagon",
+                "description": "Keeps track of how many jade shards the character has collected. Circle the number of jade shards your character has collected."
+            }
+        ]
+    },
+    {
+        "code": "CCC-ALMOG-27 DAGON01-02",
+        "name": "Cove of Fallen Souls",
+        "description": "When a demon lord rises beneath the town of Bellview, adventurers must delve through lost sea caves and depths unknown to track this monster’s descent. Will they arrive in time to save its latest victims or be consumed by the Lord of the Deep himself? Part Two of *The Jade Curse*.",
+        "released": "2019-08-04",
+        "url": "https://www.dmsguild.com/product/284815/Cove-of-Fallen-Souls",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Dark Shard Amulet",
+                "rarity": "common"
+            },
+            {
+                "name": "Ring of Swimming",
+                "rarity": "uncommon"
+            }
+        ]
+    },
+    {
+        "code": "CCC-ALMOG-28 DAGON01-03",
+        "name": "The Drowning Woods",
+        "description": "When Dagon’s Curse falls over an island in the Moonsea, his influence threatens to stretch far beyond its shores and engulf the world beyond. Will you be able to stop its spread in time, or will Faerûn become the newest layer of the Abyss?",
+        "released": "2019-08-04",
+        "url": "https://www.dmsguild.com/product/284826/The-Drowning-Woods",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ALMOG ESC03-01",
+        "name": "Thoughts Lost",
+        "description": "Since the end of the red war in Mulmaster, the factions have been nursing their wounds. They no longer have the resources and pull to send large groups of adventures to retake a city or overthrow a government. Reduced to posting handbills the factions have located a secret dungeon that may hold the secret to regaining a measure of their status and power in the Moonsea. You have all arrived at the call of these handbills that promise powerful magics and rewards if you can succeed.",
+        "released": "2019-12-03",
+        "url": "https://www.dmsguild.com/product/295799/CCCALMOG-ESC0301-Thoughts-Lost",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ALMOG ESC03-02",
+        "name": "Mind Blank",
+        "description": "Since the end of the red war in Mulmaster, the factions have been nursing their wounds. They no longer have the resources and pull to send large groups of adventures to retake a city or overthrow a government. Reduced to posting handbills the factions have located a secret dungeon that may hold the secret to regaining a measure of their status and power in the Moonsea.   You have all arrived at the call of these handbills that promise powerful magics and rewards if you can succeed.",
+        "released": "2019-12-03",
+        "url": "https://www.dmsguild.com/product/295801/CCCALMOG-ESC0302-Mind-Blank",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ALMOG ESC03-03",
+        "name": "Memory Leak",
+        "description": "Since the end of the red war in Mulmaster, the factions have been nursing their wounds. They no longer have the resources and pull to send large groups of adventures to retake a city or overthrow a government. Reduced to posting handbills the factions have located a secret dungeon that may hold the secret to regaining a measure of their status and power in the Moonsea.   You have all arrived at the call of these handbills that promise powerful magics and rewards if you can succeed.",
+        "released": "2019-12-03",
+        "url": "https://www.dmsguild.com/product/295803/CCCALMOG-ESC0303-Memory-Leak",
+        "tier": [3],
         "incomplete": true
     },
     {
@@ -2589,27 +2769,200 @@
         ]
     },
     {
-        "code": "CCC-BWM-001",
+        "code": "CCC-BWM-01",
         "name": "Howling on the Moonsea",
-        "description": "",
-        "incomplete": true
+        "description": "Aristocrats and nobles from all around the Moonsea come to vacation upon the pleasure barge that sets sail from the floating Sokol Sea Palace. However, recent late-night howling and frightening shapes in the dark have discouraged the usual number of customers from boarding the Sokol Sea Palace. Rumors of Zhentarim cargo ships being attacked by unseen monsters in Moonsea have also added to the fear of sailing to the once thriving vacation destination. Now, the Sokol family and their ferryman Karsk are turning to the recent job fair in Phlan to find a group of adventurers to investigate these alarming sounds and sights hoping to return their business to prosperity once more.",
+        "released": "2018-09-29",
+        "url": "https://www.dmsguild.com/product/253539/CCCBWM001-Howling-on-the-Moonsea",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Horn of Blasting",
+                "rarity": "rare"
+            }
+        ]
     },
     {
-        "code": "CCC-BWM-002",
+        "code": "CCC-BWM-02",
         "name": "The City in the Depths",
-        "description": "",
-        "incomplete": true
+        "description": "An old man, a powerful artifact, and an entire ancient city wait for you in the cold depths of the Moonsea. Nothing is certain about what lies ahead, except that someone will get wet. Bring your bathing suits, it is time to take a dip.",
+        "released": "2018-10-02",
+        "url": "https://www.dmsguild.com/product/253855/CCC--BWM--002-The-City-in-the-Depths",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Elven Blade of the Third Age (+2 Longsword)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Last Light of Northkeep (Candle of the Deep)",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Water Breathing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ]
     },
     {
-        "code": "CCC-BWM-003",
-        "name": "A TAle of Two Towers",
-        "description": "",
-        "incomplete": true
+        "code": "CCC-BWM-03",
+        "name": "A Tale of Two Towers",
+        "description": "The annual celebration of the abolishment of the Great Law of Humanity is happening in Hillsfar. As the leader of the factions in the region, Elanil Elassidil must attend the event, however, she has a guest with her. Elanil is looking after a young girl, who the adventurers may have met before, and has summoned adventurers to Elventree to watch over the girl while she is tending to the celebration. A simple babysitting task shouldn’t be too difficult for mighty adventurers, right?",
+        "released": "2018-09-29",
+        "url": "https://www.dmsguild.com/product/253558/CCC--BWM--003-A-Tale-of-Two-Towers",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Aegis of the Raven Queen (Shield, +3)",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Dread Helm",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Fire Breath",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 3
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Grosvenson?",
+                "description": "With access to the libraries of Hillsfar and the knowledge of the citizens of Elventree, you may spend 15 downtime days engaged in research in attempts to locate the town of Grosvenson. Though you failed to locate the town, you learn plenty regarding towns around Hillsfar. In future session, your character gains advantage on all History (Intelligence) checks make to remember details about locations around Hillsfar. This story award is permanent.",
+                "downtime": true
+            }
+        ]
+    },
+    {
+        "code": "CCC-BWM-04-01",
+        "name": "Thralls of Zuggtmoy: The Myconic Nidus",
+        "description": "Under the Flooded Forest grows a toxic maze of magical fungi called the Nidus. From this horrid realm a cult has struck a terrible blow against the wood elves struggling to regrow the trees in the forsaken swamp of the Flooded Forest. The elves, on the brink of extinction, need the adventurers to navigate this deadly labyrinth and recover a precious object. But the tunnels here crawl with spore-laden beasts and demons, and the very air itself is poisonous.",
+        "released": "2019-07-11",
+        "url": "https://www.dmsguild.com/product/281686/CCCBWM0401-Thralls-of-Zuggtmoy-The-Myconic-Nidus",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Miir (Scimitar of Warning)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Arrow, +1",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 4
+            },
+            {
+                "name": "Potion of Fire Breath",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-BWM-04-02",
+        "name": "Thralls of Zuggtmoy: Sanctum of Rot",
+        "description": "Beyond the Nidus waits the inner sanctum where the heroes must confront Zuggtmoy’s zealot priest and his dark followers. The cult is preparing to use the Noctic Urn to lure a horrific entity to the Material Plane. The adventurers must stop them, or woe to all should they fail.",
+        "released": "2019-07-11",
+        "url": "https://www.dmsguild.com/product/281685/CCCBWM0402-Thralls-of-Zuggtmoy-Sanctum-of-Rot",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Cloak of Protection",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Giant Strength (Hill)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Vampiric Touch",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-BWM-05",
+        "name": "Chasing Madness",
+        "description": "Four demon lord cults are competing for the possession and control of a crate full of mined minerals that radiate an intense amount of faerzress power. Local Emerald Enclave leader, Captain Rairdon Tanheel, hires a group of adventurers to retake the crate and get it back into safe hands and investigate why the crate has been stolen.",
+        "released": "2019-06-24",
+        "url": "https://www.dmsguild.com/product/279463/CCCBWM005-Chasing-Madness",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Dark Shard Amulet",
+                "rarity": "common"
+            },
+            {
+                "name": "Portable Hole",
+                "rarity": "rare"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Captain Tanheel’s Manifest",
+                "description": "Players who manage to find the crate of minerals without it being destroyed, and return it to Captain Tanheel, are awarded a spot on his manifest. Being on the list means that the adventurers are allowed one free ride on Captain Tanheel’s ship, Tymora’s Luck, anywhere along the Moonsea that sets out from the harbor of Hillsfar (during related CCC modules).\n\n This story award only applies to the CCC modules set in Hillsfar at the BWM, SQC and ELF conventions."
+            }
+        ]
     },
     {
         "code": "CCC-BWM-06",
         "name": "Introduction to Adventuring",
-        "description": "",
+        "description": "Recent events in the Moonsea have caused Hillsfar to become a booming economy. This has attracted many new adventurers to the area and unfortunately brought an increase in deaths of overconfident adventurers too. Bert the Goblin has decided to sponsor an “Introduction to Adventuring” workshop! Explore Hillsfar and the five factions by participating in any one of five different missions and pick up basic skills while learning about the factions!",
+        "released": "2019-06-11",
+        "url": "https://www.dmsguild.com/product/278603/CCCBWM06-Introduction-to-Adventuring",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-BWM-07-01",
+        "name": "The Beast Beneath",
+        "description": "Hillsfar is shaking with mysterious earthquakes. Nightmarish phantasms are attacking the city. Thayan Red Wizards have blocked the harbor. A group of brave adventurers must break through phantasms and the blockade to save Bert, the famous potion maker, who has discovered a group of strange machines that may be the key to saving Hillsfar.",
+        "released": "2020-04-29",
+        "url": "https://www.dmsguild.com/product/309754/CCCBWM00701-The-Beast-Beneath",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BWM-07-02",
+        "name": "The Beast Within",
+        "description": "An ancient dwarven ruin near Hillsfar has been attracting the attention of Thayans and elemental cultist. Now Alanax, the only good Thayan wizard, has requested your help to explore this ruin. What mysteries are held within these old dwarven walls?",
+        "released": "2020-04-29",
+        "url": "https://www.dmsguild.com/product/309473/CCCBWM0702-The-Beast-Within",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-BWM-07-03",
+        "name": "The Beast Unleashed",
+        "description": "Adventurers are desperately needed to banish the monstrous beast sleeping beneath Hillsfar before Thay enslaves it. Or worse—it wakes.",
+        "released": "2020-04-29",
+        "url": "https://www.dmsguild.com/product/309763/CCCBWM00703-The-Beast-Unleashed",
         "incomplete": true
     },
     {
@@ -4127,38 +4480,172 @@
     {
         "code": "CCC-SALT-01-01",
         "name": "Rumors and Riches",
-        "description": "",
-        "incomplete": true
+        "description": "The Search and Locate Treasure Consortium funded an ill-fated mission into the wastes of Thar. They are unsure if faction infighting or monsters got the best of their expedition team as they followed a map to locate a supposed lost tomb. What dangers and treasures await the party as they go seeking rumors of riches?",
+        "released": "2017-04-25",
+        "url": "https://www.dmsguild.com/product/210440/CCCSALT0101-Rumors-of-Riches",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Adamantine Chain Shirt or Mail",
+                "rarity": "uncommon"
+            }
+        ]
     },
     {
         "code": "CCC-SALT-01-02",
         "name": "Moor Trouble",
-        "description": "",
-        "incomplete": true
+        "description": "After the first expedition to locate an ancient tomb was prematurely ended by monsters, the Search and Locate Treasure Consortium is doubling down. Camp established, they are looking for adventurers to make their dreams come true, but the leader of the Consortium is hiding something. Will the characters be able to avoid the Man Slayer tribe that destroyed the first expedition, help Larazmu settle his internal struggles, and locate the tomb that they have been searching for without getting into Moor Trouble?",
+        "released": "2017-04-25",
+        "url": "https://www.dmsguild.com/product/210443/CCCSALT0102-Moor-Trouble",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Mace of the Silent Oasis (+1 Mace)",
+                "rarity": "uncommon"
+            }
+        ]
     },
     {
         "code": "CCC-SALT-01-03",
         "name": "Broken Halls of Goldahroud",
-        "description": "",
-        "incomplete": true
+        "description": "Beneath the moorlands of Thar, hidden from all for centuries, lies the Broken Halls of Goldahroud. It seems to have been inhabited until recently as the blood marks on the walls are only a few weeks old. What mysteries lie beyond the doorway from the Tomb of Kered? Fear of the markings have forced the SALT Consortium to turn again to hiring adventurers to face what horrors await them in the Broken Halls of Goldahroud.",
+        "released": "2017-04-25",
+        "url": "https://www.dmsguild.com/product/210444/CCCSALT0103-Broken-Halls-of-Goldahroud",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Quiver of Elhonna",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Protection from Evil and Good",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Spellbook",
+                "spells": [
+                    { "name": "disguise self", "level": 1 },
+                    { "name": "false life", "level": 1 },
+                    { "name": "feather fall", "level": 1 },
+                    { "name": "find familiar", "level": 1 },
+                    { "name": "identify", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "ray of sickness", "level": 1 },
+                    { "name": "Tenser's floating disk", "level": 1 }
+                ]
+            }
+        ]
     },
     {
         "code": "CCC-SALT-02-01",
         "name": "Mulmaster's Meddlings",
-        "description": "",
-        "incomplete": true
+        "description": "The SALT Consortium has been busy rebuilding the small town of Hawksroost and the increase in riches has caught the eye of many within the city of Mulmaster. While many are excited at the prospect of a partnership, Oriel Phoenixfeather is skeptical of any alliance. She is in search of a party to meet with one of the Zor’s that had reached out to the town and gather more information on them. However, in order to gain an audience with this mysterious person of power they will first need to win the Zor’s favor.",
+        "released": "2018-06-09",
+        "url": "https://www.dmsguild.com/product/244117/CCCSALT-0201-Mulmasters-Meddlings",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Periapt of Wound Closure",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 3
+            }
+        ]
     },
     {
         "code": "CCC-SALT-02-02",
-        "name": "Tower in the Valley",
-        "description": "",
-        "incomplete": true
+        "name": "The Tower in the Valley",
+        "description": "Prepare yourselves to enter a wizard’s wondrous tower! Within lies tricks and traps all from the mind of the brilliant? Or the insane? One never truly knows when it comes to wizards, but one thing is for certain; the rooms within will throw you for a loop!\n\n Prepare to deal with magical trickery and arcane mayhem as you embark to explore the Tower in the Valley.",
+        "released": "2018-06-09",
+        "url": "https://www.dmsguild.com/product/244116/CCCSALT-0202-Tower-in-the-Valley",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Brazier of Commanding Fire Elemental",
+                "rarity": "rare"
+            },
+            {
+                "name": "Spell Scroll of Thunder Step",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Tidal Wave",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "The Pages of the Lower Planes",
+                "spells": [
+                    { "name": "absorb elements", "level": 1 },
+                    { "name": "comprehend languages", "level": 1 },
+                    { "name": "find familiar", "level": 1 },
+                    { "name": "shield", "level": 1 },
+                    { "name": "arcane lock", "level": 2 },
+                    { "name": "continual flame", "level": 2 },
+                    { "name": "rope trick", "level": 2 },
+                    { "name": "see invisibility", "level": 2 },
+                    { "name": "summon lesser demons", "level": 3 },
+                    { "name": "conjure minor elementals", "level": 4 },
+                    { "name": "conjure elemental", "level": 5 },
+                    { "name": "infernal calling", "level": 5 },
+                    { "name": "planar binding", "level": 5 },
+                    { "name": "teleportation circle", "level": 5 },
+                    { "name": "create homunculus", "level": 6 },
+                    { "name": "Dwarmij's instant summons", "level": 6 },
+                    { "name": "Mordenkainen's magnificent mansion", "level": 7 },
+                    { "name": "plane shift", "level": 7 },
+                    { "name": "demiplane", "level": 8 },
+                    { "name": "maze", "level": 8 },
+                    { "name": "gate", "level": 9 },
+                    { "name": "meteor storm", "level": 9 }
+                ]
+            }
+        ]
     },
     {
-        "code": "CCC-SALT-0205",
+        "code": "CCC-SALT-02-05",
         "name": "The Darkness Never Forgets",
-        "description": "",
-        "incomplete": true
+        "description": "Oriel Phoenixfeather, the old halfling shopkeep from Hawksroost, has gone missing. Her granddaughter and the leaders of the SALT Consortium have sent out a call for adventurers to investigate the disappearance. A danger brewing to the north of Hawksroost, however, may make this search-and-rescue more dangerous than the party had initially planned.",
+        "released": "2018-10-02",
+        "url": "https://www.dmsguild.com/product/253907/CCCSALT0205-The-Darkness-Never-Forgets",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Cape of the Mountebank",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Prayer of Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-SCAR01-01",

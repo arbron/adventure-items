@@ -3,9 +3,56 @@
         "code": "DDAL10-00",
         "name": "Ice Road Trackers",
         "description": "A trek toward Icewind Dale turns deadly when an avalanche blocks the heroes’ passage through the Spine of the World. Rescued by a menagerie of  strange creatures, the heroes are asked to return the favor in exchange for answers about what’s happening in the cold and frozen North.",
-        "incomplete": true,
         "released": "2020-09-15",
-        "tier": [1]
+        "tier": [1],
+        "items": [
+            {
+                "name": "Boots of False Tracks",
+                "rarity": "common"
+            },
+            {
+                "name": "Ersatz Eye",
+                "rarity": "common"
+            },
+            {
+                "name": "Smoldering Armor, Studded Leather",
+                "rarity": "common"
+            },
+            {
+                "name": "Unbreakable Arrow",
+                "rarity": "common"
+            },
+            {
+                "name": "Alchemist's fire (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Oil of Slipperiness",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Poison)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Cure Wounds",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            }
+        ]
     },
     {
         "code": "DDAL10-01",

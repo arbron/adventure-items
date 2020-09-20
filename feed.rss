@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Sat, 19 Sep 2020 21:17:59 -0700</lastBuildDate><pubDate>Sat, 19 Sep 2020 21:17:59 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddep10-00</guid><title>DDEP10-00 - Great Knucklehead Rally</title><description>Figurine of Wonderous Power (Snowy Owl aka Silver Raven), Horn of Silent Alarm, Mariner's Armor, Rope of Climbing, a potion, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddep10-00</link><pubDate>Fri, 18 Sep 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Sat, 19 Sep 2020 23:31:11 -0700</lastBuildDate><pubDate>Sat, 19 Sep 2020 23:31:11 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddep10-00</guid><title>DDEP10-00 - Great Knucklehead Rally</title><description>Figurine of Wonderous Power (Snowy Owl aka Silver Raven), Horn of Silent Alarm, Mariner's Armor, Rope of Climbing, a potion, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddep10-00</link><pubDate>Fri, 18 Sep 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>Great Knucklehead Rally</h1>
   <h3>Season 10 Epic for Tier 1
     <em class="release"> Released  on September 18, 2020</em>
@@ -29,6 +29,9 @@
     </ul>
   </p>
   <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Bunny Slipper Snowshoes</summary><p>Certain to keep your feet warm while traversing the arctic, these fashionable snowshoes expand and contract to fit any Small or Medium humanoid creature.</p>
+  </details>
   <details class="story-award">
     <summary>Campfire Ice Sculture</summary><p>When placed on the ground in a cold climate, this tiny sculpture glows orange-red and emits heat enough for up to four Medium creatures within five feet to become comfortably warm.</p>
   </details>
@@ -206,7 +209,7 @@
   </p>
   <h2>Story Awards</h2>
   <details class="story-award">
-    <summary>Ashoral’s Friendship</summary><p>ou met with the guardian of the moonwell and resolved your differences peacefully, rather than resorting to violence. The druid guardian Ashoral considers you a friend, which may bear fruit at a later date.</p>
+    <summary>Ashoral’s Friendship</summary><p>You met with the guardian of the moonwell and resolved your differences peacefully, rather than resorting to violence. The druid guardian Ashoral considers you a friend, which may bear fruit at a later date.</p>
   </details>
   <details class="story-award">
     <summary>Zanz’s Appreciation</summary><p>You rescued Zanzantook from his fate of being devoured by animals enraged at his terrible poetry. Whether you like it or not, he considers you a friend. This friendship may bear fruit at a later date.</p>
@@ -231,7 +234,7 @@
   </p>
   <h2>Story Awards</h2>
   <details class="story-award">
-    <summary>Mairin’s Debt</summary><p>Mairin is deeply indebted to you for proving her lineage. She has travelled to many places and knows a good deal of people across Faerun. If you need an item or expert that isn’t easily obtained, she might be able to get it for you—given enough time.</p>
+    <summary>Mairin’s Debt</summary><p>Mairin is deeply indebted to you for proving her lineage. She has travelled to many places and knows a good deal of people across Faerûn. If you need an item or expert that isn’t easily obtained, she might be able to get it for you—given enough time.</p>
   </details>
   <details class="story-award">
     <summary>Saviors of Temerity Bay</summary><p>The adventurers saved a community of immortals from a troublesome peril; while it’s unlikely any eladrin or powerful fey will actually show up to help you if you ask, a spirit of the woods might allow you to pass, or a dire bear might decide to look elsewhere for a meal.</p>
@@ -256,7 +259,9 @@
   </p>
   <h2>Story Awards</h2>
   <details class="story-award">
-    <summary>Asper the Jellyflumph</summary><p>This tiny jellyfish is native to the Feywild, evidenced by its translucent body which strobes pastel colors that change with its mood. It floats through the skies as if the air was made of water. If killed or reduced to 0 hit points, the jellyflumph can be recalled via <em>find familiar</em>, and uses the statistics of a <strong>bat</strong> from the <em>Monster Manual</em>.</p>
+    <summary>Asper the Jellyflumph
+      <em class="entry-label"> Familiar</em>
+    </summary><p>This tiny jellyfish is native to the Feywild, evidenced by its translucent body which strobes pastel colors that change with its mood. It floats through the skies as if the air was made of water. If killed or reduced to 0 hit points, the jellyflumph can be recalled via <em>find familiar</em>, and uses the statistics of a <strong>bat</strong> from the <em>Monster Manual</em>.</p>
   </details>
   <details class="story-award">
     <summary>Critter Keeper</summary><p>You’ve befriended the fey creatures that now inhabit Rushdown Wood. When traveling through the Rushdown Wood, you will find the creatures very helpful and often find them skittering around your feet or sitting on your shoulder.</p>
@@ -854,7 +859,9 @@
     <summary>In Search of Her</summary><p>You have found and read the journal of Tho’Guroh, containing information on how to find a hag’s dark lair. Whenever you succeed in finding a hag’s lair, a trail of thin mist appears, leading up to the location you are looking for. While the mist is present, you hear whispers of a very convincing old woman telling you to get "samples" from your party members, like a strand of hair, spit, dead skin, fingernails, etc. Remove this story award when you meet Jenny Greenteeth.</p>
   </details>
   <details class="story-award">
-    <summary>Clingy Jelly!</summary><p>You spared the life of an oblex spawn. As a token of appreciation, it separates a part of itself and places a thin translucent layer of star-shaped green goo on your forehead. Whenever you are in combat, the goo stretches and changes shape, becoming a horn. Whenever you die, its shape changes into a small, flat skull. You can remove this story award by casting <em>lesser restoration</em> on yourself.</p>
+    <summary>Clingy Jelly!
+      <em class="entry-label"> Pet</em>
+    </summary><p>You spared the life of an oblex spawn. As a token of appreciation, it separates a part of itself and places a thin translucent layer of star-shaped green goo on your forehead. Whenever you are in combat, the goo stretches and changes shape, becoming a horn. Whenever you die, its shape changes into a small, flat skull. You can remove this story award by casting <em>lesser restoration</em> on yourself.</p>
   </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-tri-20-yul1-5</guid><title>CCC-TRI-20 YUL1-5 - Breaking Yûlash</title><description>Wand of Polymorph, 2 potions, 2 scrolls, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-tri-20-yul1-5</link><pubDate>Wed, 15 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>Breaking Yûlash</h1>
@@ -1467,7 +1474,9 @@
   </p>
   <h2>Story Awards</h2>
   <details class="story-award">
-    <summary>Lord of the Gorge</summary><p>You defeated and killed Xak’thar the Twin, the ravenous conjoined twin pit fiends of the Gorge of Slaughter. You ascended to its place as lord of that pit, and for a year and a day your reign was bloody and brutal—until some meddling adventure defeated you! You are retired from D&amp;D Adventurers League play for a year and a day from today’s date, and upon your return you are proficient in the Infernal tongue and have acquired a <strong>lemure</strong> follower; this creature is fanatical in its devotion but is entirely pitiful. Downtime days can’t be used to lessen this time spent in Nessus.</p>
+    <summary>Lord of the Gorge
+      <em class="entry-label"> Pet</em>
+    </summary><p>You defeated and killed Xak’thar the Twin, the ravenous conjoined twin pit fiends of the Gorge of Slaughter. You ascended to its place as lord of that pit, and for a year and a day your reign was bloody and brutal—until some meddling adventure defeated you! You are retired from D&amp;D Adventurers League play for a year and a day from today’s date, and upon your return you are proficient in the Infernal tongue and have acquired a <strong>lemure</strong> follower; this creature is fanatical in its devotion but is entirely pitiful. Downtime days can’t be used to lessen this time spent in Nessus.</p>
   </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-drw03</guid><title>DDAL-DRW03 - Saving Silverbeard</title><description>Helm of Brilliance and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ddal-drw03</link><pubDate>Wed, 25 Sep 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>Saving Silverbeard</h1>
@@ -1731,7 +1740,7 @@
   </p>
   <h2>Story Awards</h2>
   <details class="story-award">
-    <summary>Celebrated by the Wardens</summary><p>For your bravery in eliminating the threat of the shadow dragon Pryumbranth and ensuring to portal is established between Alaron and Oman, your exploits are lauded by Wardens of the Deepshaes. If you are a member of that organization and completed MOON3 trilogy, you are considered to have completed a Major Objective for advancement in that group.</p>
+    <summary>Celebrated by the Wardens</summary><p>For your bravery in eliminating the threat of the shadow dragon Pryumbranth and ensuring to portal is established between Alaron and Oman, your exploits are lauded by Wardens of the Deepshaes. If you are a member of that organization and completed <strong>MOON3</strong> trilogy, you are considered to have completed a Major Objective for advancement in that group.</p>
   </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-bwm-04-01</guid><title>CCC-BWM-04-01 - Thralls of Zuggtmoy: The Myconic Nidus</title><description>Miir (Scimitar of Warning), a potion, and 4 other items</description><link>https://arbron.github.io/adventure-items/adventures/ccc-bwm-04-01</link><pubDate>Wed, 10 Jul 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>Thralls of Zuggtmoy: The Myconic Nidus</h1>
@@ -2390,7 +2399,7 @@
   </p>
   <h2>Story Awards</h2>
   <details class="story-award">
-    <summary>High Blade in Your Debt</summary><p>You prevented an alliance between an efreeti pasha and the Cult of Reborn Flame, you rescued Selfaril Uoumdolphin from a mental prison woven by a hag coven, and you prevented the people and city of Mulmaster from being engulfed in lava by the Black Phoenix. For these deeds and more, the High Blade of Mulmaster is in your debt. With his city overrun by Thayans, Selfaril cannot repay that debt now, but perhaps that may change one day.</p><p>This story award doesn’t take effect until you successfully complete the Reborn Flame Trilogy:</p><ul><li><em>CCC-ODFC02-02 Palace of the Efreeti</em></li><li><em>CCC-GAD01-01 Broken Blade</em></li><li><em>CCC-GAD01-02 Red War: Black Phoenix</em></li></ul><p>If you have not yet completed the entire trilogy, you gain the full use of this story award after you successfully complete the missing adventures.</p>
+    <summary>High Blade in Your Debt</summary><p>You prevented an alliance between an efreeti pasha and the Cult of Reborn Flame, you rescued Selfaril Uoumdolphin from a mental prison woven by a hag coven, and you prevented the people and city of Mulmaster from being engulfed in lava by the Black Phoenix. For these deeds and more, the High Blade of Mulmaster is in your debt. With his city overrun by Thayans, Selfaril cannot repay that debt now, but perhaps that may change one day.</p><p>This story award doesn’t take effect until you successfully complete the Reborn Flame Trilogy:</p><ul><li><strong>CCC-ODFC02-02</strong> <em>Palace of the Efreeti</em></li><li><strong>CCC-GAD01-01</strong> <em>Broken Blade</em></li><li><strong>CCC-GAD01-02</strong> <em>Red War: Black Phoenix</em></li></ul><p>If you have not yet completed the entire trilogy, you gain the full use of this story award after you successfully complete the missing adventures.</p>
   </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-tarot-02-01</guid><title>CCC-TAROT-02-01 - A Sunk Cost</title><description>The Plague Fly (Figurine of Wondrous Power (Ebony Fly)) and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-tarot-02-01</link><pubDate>Wed, 17 Apr 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>A Sunk Cost</h1>

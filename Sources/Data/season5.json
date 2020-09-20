@@ -34,23 +34,24 @@
         "storyAwards": [
             {
                 "name": "Blooddrinker the Bear",
-                "description": "Through care and patience, you now have a bear pet. She is, however, the size of a small housecat. She cannot attack, defend, distract, aid, or otherwise play any role in combat. She can be taught to do simple tricks if treated well and if you spend 20 down time days training her."
+                "description": "Through care and patience, you now have a bear pet. She is, however, the size of a small housecat. She cannot attack, defend, distract, aid, or otherwise play any role in combat. She can be taught to do simple tricks if treated well and if you spend 20 down time days training her.",
+                "type": "pet"
+            },
+            {
+                "name": "Friend of Kraddokk",
+                "description": "You talked with the storm giant Kraddokk and did not desecrate the shrine of Annam. He tells his friends about your interaction with him. This friendship might bear fruit at a later date."
             },
             {
                 "name": "Friend of Prrrt",
                 "description": "You helped alleviate the suffering of a galeb duhr named Prrrt. It tells others of its kind of your kindness, garnering you a positive reputation among elemental earth creatures. As an action, you can attempt a DC 10 Charisma (Persuasion) check to convince earth creatures of the elemental type not to attack you. As long as you do not attack the creature or other elemental earth creatures, it targets others. This, however, does not protect your allies. You lose this story aware if you attack or otherwise harm an elemental earth creature."
             },
             {
-                "name": "Victim of Greed",
-                "description": "You were stung by greed, and your soul has been infected by the deadly sin. When you’re in the presence of great wealth (in the form of coins or gems/jewelry worth over 1,000 gp), you are stunned until the end of your first turn, as your mind reels at such great wealth. This can be removed with a *remove curse*."
-            },
-            {
                 "name": "Hated by Giants",
                 "description": "You unwisely removed one of the sacred plates of Annam from his shrine. You are now cursed. Giants who see you know that you have offended the greatest of their gods, and they target you before your allies in a fight. They also have advantage on attacks against you. This can be removed with a *remove curse*. You also have possession of one or more plates, but no one seems to want to buy them from you."
             },
             {
-                "name": "Friend of Kraddokk",
-                "description": "You talked with the storm giant Kraddokk and did not desecrate the shrine of Annam. He tells his friends about your interaction with him. This friendship might bear fruit at a later date."
+                "name": "Victim of Greed",
+                "description": "You were stung by greed, and your soul has been infected by the deadly sin. When you’re in the presence of great wealth (in the form of coins or gems/jewelry worth over 1,000 gp), you are stunned until the end of your first turn, as your mind reels at such great wealth. This can be removed with a *remove curse*."
             }
         ]
     },
@@ -135,16 +136,16 @@
         ],
         "storyAwards": [
             {
-                "name": "SEER’s Delivery Service",
-                "description": "You successfully delivered the rune tablet into the hands of the Lord’s Alliance for study, much to their gratitude. You gain advantage on ability checks that involve interacting with NPC members of the Lord’s Alliance. Additionally, you gain disadvantage on ability checks that involve interacting with NPCs that specifically oppose the Lord’s Alliance."
-            },
-            {
                 "name": "Heroes of Citadel Adbar",
                 "description": "Your brave rescue of the Frostbite Platoon has earned you fame and favor within the dwarven citadel. While the citadel normally shuts out visitors, you are granted access to the citadel’s upper reaches. You gain advantage on ability checks that involve interacting with dwarves from Citadel Adbar, regardless of where you travel."
             },
             {
                 "name": "Ire of the Frost Giants",
                 "description": "You either inadvertently or purposefully destroyed a frost giant holy site. Whether or not anyone witnessed the act, word of your “accomplishment” still travels and reaches the frost giant communities throughout the Realms. You gain disadvantage on ability checks that involve interacting with frost giants. Additionally, you gain advantage on ability checks that involve interacting with NPCs that specifically oppose frost giants."
+            },
+            {
+                "name": "SEER’s Delivery Service",
+                "description": "You successfully delivered the rune tablet into the hands of the Lord’s Alliance for study, much to their gratitude. You gain advantage on ability checks that involve interacting with NPC members of the Lord’s Alliance. Additionally, you gain disadvantage on ability checks that involve interacting with NPCs that specifically oppose the Lord’s Alliance."
             }
         ]
     },
@@ -231,7 +232,7 @@
             {
                 "name": "Faction Copyist",
                 "description": "Any character may spend ten downtime days assisting their faction by copying the texts retrieved for SEER. Upon completing this downtime activity, the character may copy one spell from the *Elemental Evil Player’s Companion* of a level they can cast for their spellbook.",
-                "downtime": true
+                "type": "downtime"
             }
         ]
     },
@@ -366,7 +367,8 @@
             },
             {
                 "name": "Satyr Training",
-                "description": "Prince Thornacious has heard more of your great deeds through his servant Blassios. The latter invites you to come on a “vision quest” with him in the Forgotten Forest. If you do, you may spend 5 downtimes days to engage in revelry and seeking out your inner self. Once, if you fail a saving throw against poison, you may call upon your fey teachings to succeed on the saving throw, instead."
+                "description": "Prince Thornacious has heard more of your great deeds through his servant Blassios. The latter invites you to come on a “vision quest” with him in the Forgotten Forest. If you do, you may spend 5 downtimes days to engage in revelry and seeking out your inner self. Once, if you fail a saving throw against poison, you may call upon your fey teachings to succeed on the saving throw, instead.",
+                "type": "downtime"
             }
         ]
     },
@@ -405,7 +407,7 @@
             {
                 "name": "Dreamwalker",
                 "description": "Kryshilir has taught you to look beyond the veil of the world and navigate your dreams. By spending 25 downtime days, you travel to the Seven Stones and meditate under Kryshilir’s whispered guidance. Upon completing this downtime activity, you gain the **Dreamwalker** story award (below).",
-                "downtime": true
+                "type": "downtime"
             },
             {
                 "name": "Dreamwalker",
@@ -414,7 +416,7 @@
             {
                 "name": "Student of Stone",
                 "description": " Illsenstaad has chosen you and you alone to complete his life’s work and put his soul to rest. By spending a total of 365 downtime days (these need not be spent all at once) possessed by Illsenstaad, allowing him to tell his stories and carve them into the living rock of Hotun-Shûl, you gain the **Student of Stone** story award (below). If you are a dwarf, possess the Guild Artisan (mason or stonecutter) background, or are otherwise proficient in mason’s tools; you complete this in half the normal time.",
-                "downtime": true
+                "type": "downtime"
             },
             {
                 "name": "Student of Stone",
@@ -591,7 +593,7 @@
             {
                 "name": "Gratitude of Hartkiller",
                 "description": "You have claimed the divine spark of the Beast of Talos for Hartkiller and outfitted him for his battle with Jarl Ryndölg. In doing so you have writ your name into his legend. You may choose to spend 50 downtime days spreading word of your and Hartkiller's inspired deeds in Hartsvale. Upon doing so, you gain the benefit of the **Gratitude of Hartkiller** story award. This downtime activity may only be performed once.",
-                "downtime": true
+                "type": "downtime"
             },
             {
                 "name": "Gratitude of Hartkiller",
@@ -725,7 +727,7 @@
             {
                 "name": "Flameborne Armor",
                 "description": "The Factions now have access to a store of ore that has been sustain prolonged exposure to unusual elemental energies. If you are Rank 2 or higher with a faction, you may spend **60 downtime days** to assist your faction with the crafting and fitting of a suit of nonmagical metal armor. You must pay the full price of the armor, however, when complete, it bestows resistance to fire damage when worn.\n\n As a nonmagical suit of armor, this item is non-tradable.",
-                "downtime": true
+                "type": "downtime"
             },
             {
                 "name": "Hated of Surtur",

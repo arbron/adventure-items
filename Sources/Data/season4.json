@@ -36,7 +36,8 @@
             },
             {
                 "name": "A Fine, Feathered Friend",
-                "description": "Having befriended the strange raven Esselios, if you are capable of casting *find familiar* you may take the talkative raven in that role. In addition to the other benefits of having a familiar, Esselios offers the following:\n\n - His Intelligence is 4 (‐3) and he can speak Orc and Elvish in addition to Common.\n\n - He grants advantage on checks regarding Orc history, religion, and culture.\n\n - He sometimes gets moody and petulant, muttering to himself in a language no one understands—even through the use of *comprehend languages*."
+                "description": "Having befriended the strange raven Esselios, if you are capable of casting *find familiar* you may take the talkative raven in that role. In addition to the other benefits of having a familiar, Esselios offers the following:\n\n- His Intelligence is 4 (‐3) and he can speak Orc and Elvish in addition to Common.\n- He grants advantage on checks regarding Orc history, religion, and culture.\n- He sometimes gets moody and petulant, muttering to himself in a language no one understands—even through the use of *comprehend languages*.",
+                "type": "familiar"
             }
         ]
     },
@@ -166,7 +167,8 @@
         "storyAwards": [
             {
                 "name": "Cunning Insight",
-                "description": "The Vistani are quite good at reading people. If you spend 10 downtime days learning from the Vistani, you may invoke it at any point in the future, granting advantage to all attack rolls made during your turn. Remove this story award from your logsheet once it's been used."
+                "description": "The Vistani are quite good at reading people. If you spend 10 downtime days learning from the Vistani, you may invoke it at any point in the future, granting advantage to all attack rolls made during your turn. Remove this story award from your logsheet once it's been used.",
+                "type": "downtime"
             },
             {
                 "name": "The Demiplane of Dread",
@@ -174,7 +176,8 @@
             },
             {
                 "name": "Trackless Travel",
-                "description": "Some Vistani know secrets to conceal their passage through the wilderness. If you spend 10 downtime days learning these secrets, you can apply them during future travel. For one day you choose in the future, each creature you choose within 30 feet of you (including you) can't be tracked except by magical means and leaves behind no tracks nor other traces of its passage. Remove this story award from your logsheet once it's been used."
+                "description": "Some Vistani know secrets to conceal their passage through the wilderness. If you spend 10 downtime days learning these secrets, you can apply them during future travel. For one day you choose in the future, each creature you choose within 30 feet of you (including you) can't be tracked except by magical means and leaves behind no tracks nor other traces of its passage. Remove this story award from your logsheet once it's been used.",
+                "type": "downtime"
             }
         ]
     },
@@ -328,12 +331,12 @@
         ],
         "storyAwards": [
             {
-                "name": "The Demiplane of Dread",
-                "description": "You have traversed the mists and now find yourself in the Demiplane of Dread and, until this story award is removed, you are unable to leave. So long as you are trapped, you cannot participate in any adventure or event that takes place outside of Barovia. Tread carefully during your time here, the Dark Powers are watching."
-            },
-            {
                 "name": "Cursed by Greed",
                 "description": "Blinded by greed, you have been cursed by an ancient family. Because of this, you are affected by a permanent *bestow curse*. While so cursed, you have disadvantage on ability checks and saving throws made with an ability score determined randomly by the Dungeon Master. This curse can only be removed by spending 10 downtime days returning the Fidatov family treasure to the crypt or by leaving the Demiplane of Dread."
+            },
+            {
+                "name": "The Demiplane of Dread",
+                "description": "You have traversed the mists and now find yourself in the Demiplane of Dread and, until this story award is removed, you are unable to leave. So long as you are trapped, you cannot participate in any adventure or event that takes place outside of Barovia. Tread carefully during your time here, the Dark Powers are watching."
             }
         ]
     },
@@ -445,7 +448,8 @@
         "storyAwards": [
             {
                 "name": "Bird’s Eye View",
-                "description": "Time spent upon the heights of Rookscrag give you a new perspective on the surrounding countryside. If you spend 10 downtime days meditating upon the summit, you may later spend an action to gain the one-time effects of a *commune with nature* spell. Remove this story award from your logsheet once it's been used."
+                "description": "Time spent upon the heights of Rookscrag give you a new perspective on the surrounding countryside. If you spend 10 downtime days meditating upon the summit, you may later spend an action to gain the one-time effects of a *commune with nature* spell. Remove this story award from your logsheet once it's been used.",
+                "type": "downtime"
             },
             {
                 "name": "The Demiplane of Dread",
@@ -453,7 +457,8 @@
             },
             {
                 "name": "Friends in High Places",
-                "description": "The ravens of Rookscrag share many secrets with those able to tease out their meaning. If you spend 10 downtime days listening to the cackling of ravens, you may later spend an action to gain the one-time effects of a *legend lore* spell. Remove this story award from your logsheet once it's been used."
+                "description": "The ravens of Rookscrag share many secrets with those able to tease out their meaning. If you spend 10 downtime days listening to the cackling of ravens, you may later spend an action to gain the one-time effects of a *legend lore* spell. Remove this story award from your logsheet once it's been used.",
+                "type": "downtime"
             }
         ]
     },
@@ -663,16 +668,17 @@
         ],
         "storyAwards": [
             {
+                "name": "Friend of the Griffons",
+                "description": "You've earned the respect of a griffon of the Earthspur Mountains. These proud beasts nest high in the crags, tended by Emerald Enclave rangers. Your griffon mount travels with you as a trusted friend and ally.\n\n The griffon answers to any name you choose. To keep it fed, you must provide it with living horseflesh. Increase your lifestyle expenses by 5gp per downtime day. This covers the expense of buying a draft horse every tenday to feed to your griffon. If you can't afford to feed the griffon, it returns to the Eathspur Mountains and never returns.",
+                "type": "pet"
+            },
+            {
                 "name": "Hero of the Welcomers",
                 "description": "Working alongside the Welcomers—Phlan's thieves-turned-freedom fighters—you rid the town of its evil dragon overlord. The Welcomers are forever in your debt. Inside Phlan, you enjoy a Comfortable lifestyle without any expense."
             },
             {
                 "name": "Touched by the Mists",
                 "description": "The Dark Powers of Ravenloft raised you from the dead for purposes unknown. The experience has placed a heavy burden on your soul, leaving you tainted by evil. Now cats hiss as you approach, and milk sours in your wake."
-            },
-            {
-                "name": "Friend of the Griffons",
-                "description": "You've earned the respect of a griffon of the Earthspur Mountains. These proud beasts nest high in the crags, tended by Emerald Enclave rangers. Your griffon mount travels with you as a trusted friend and ally.\n\n The griffon answers to any name you choose. To keep it fed, you must provide it with living horseflesh. Increase your lifestyle expenses by 5gp per downtime day. This covers the expense of buying a draft horse every tenday to feed to your griffon. If you can't afford to feed the griffon, it returns to the Eathspur Mountains and never returns."
             }
         ]
     },

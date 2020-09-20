@@ -331,7 +331,8 @@
         "storyAwards": [
             {
                 "name": "Favor of Candlekeep",
-                "description": "Inkpot and the scribes of Candlekeep are extremely grateful for your stories and account of your time in Warlock’s Crypt. In return, they have offered to teach you ancient Netherese as an immersion course; if you would like to learn ancient Netherese, you must spend 120 downtime days at Candlekeep doing nothing other than working on your knowledge of this language. If you are not interested in learning ancient Netherese, you may instead choose three spell scrolls of up to 5th level (tier 3) or 7th level (tier 4) for free from an approved Adventurers League resource."
+                "description": "Inkpot and the scribes of Candlekeep are extremely grateful for your stories and account of your time in Warlock’s Crypt. In return, they have offered to teach you ancient Netherese as an immersion course; if you would like to learn ancient Netherese, you must spend 120 downtime days at Candlekeep doing nothing other than working on your knowledge of this language. If you are not interested in learning ancient Netherese, you may instead choose three spell scrolls of up to 5th level (tier 3) or 7th level (tier 4) for free from an approved Adventurers League resource.",
+                "type": "downtime"
             },
             {
                 "name": "Favored of the Worm",
@@ -893,7 +894,8 @@
         "storyAwards": [
             {
                 "name": "Lord of the Gorge",
-                "description": "You defeated and killed Xak’thar the Twin, the ravenous conjoined twin pit fiends of the Gorge of Slaughter. You ascended to its place as lord of that pit, and for a year and a day your reign was bloody and brutal—until some meddling adventure defeated you! You are retired from D&D Adventurers League play for a year and a day from today’s date, and upon your return you are proficient in the Infernal tongue and have acquired a **lemure** follower; this creature is fanatical in its devotion but is entirely pitiful. Downtime days can’t be used to lessen this time spent in Nessus."
+                "description": "You defeated and killed Xak’thar the Twin, the ravenous conjoined twin pit fiends of the Gorge of Slaughter. You ascended to its place as lord of that pit, and for a year and a day your reign was bloody and brutal—until some meddling adventure defeated you! You are retired from D&D Adventurers League play for a year and a day from today’s date, and upon your return you are proficient in the Infernal tongue and have acquired a **lemure** follower; this creature is fanatical in its devotion but is entirely pitiful. Downtime days can’t be used to lessen this time spent in Nessus.",
+                "type": "pet"
             }
         ]
     },

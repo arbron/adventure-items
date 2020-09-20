@@ -12,7 +12,8 @@
             },
             {
                 "name": "Marmaduke the Tomcat",
-                "description": "This old ginger tomcat has a heart of gold and likes nothing better than to snooze on your lap. He wears a name tag on his collar that identifies him as “Marmaduke”, but the tag has chipped off just underneath “This Cat Belongs To…”. If you can find Marmaduke’s owner, you’re sure to get a reward!\n\n Unfortunately, Marmaduke is extremely cowardly. During combat, he leaps onto you and digs his claws in, never letting go and scrambling all over your body. Treat this as a flaw—if you use it to your disadvantage, your DM can grant inspiration at their discretion."
+                "description": "This old ginger tomcat has a heart of gold and likes nothing better than to snooze on your lap. He wears a name tag on his collar that identifies him as “Marmaduke”, but the tag has chipped off just underneath “This Cat Belongs To…”. If you can find Marmaduke’s owner, you’re sure to get a reward!\n\n Unfortunately, Marmaduke is extremely cowardly. During combat, he leaps onto you and digs his claws in, never letting go and scrambling all over your body. Treat this as a flaw—if you use it to your disadvantage, your DM can grant inspiration at their discretion.",
+                "type": "pet"
             }
         ]
     },

@@ -295,7 +295,7 @@
     {
         "code": "CCC-ALMOG ESC03-03",
         "name": "Memory Leak",
-        "description": "Since the end of the red war in Mulmaster, the factions have been nursing their wounds. They no longer have the resources and pull to send large groups of adventures to retake a city or overthrow a government. Reduced to posting handbills the factions have located a secret dungeon that may hold the secret to regaining a measure of their status and power in the Moonsea.   You have all arrived at the call of these handbills that promise powerful magics and rewards if you can succeed.",
+        "description": "Since the end of the red war in Mulmaster, the factions have been nursing their wounds. They no longer have the resources and pull to send large groups of adventures to retake a city or overthrow a government. Reduced to posting handbills the factions have located a secret dungeon that may hold the secret to regaining a measure of their status and power in the Moonsea. You have all arrived at the call of these handbills that promise powerful magics and rewards if you can succeed.",
         "released": "2019-12-03",
         "url": "https://www.dmsguild.com/product/295803/CCCALMOG-ESC0303-Memory-Leak",
         "tier": [3],
@@ -930,15 +930,15 @@
             {
                 "name": "Know Your Enemy",
                 "description": "With access to the libraries of Hillsfar and the knowledge of the citizens of Elventree, you may spend 5 downtime days engaged in research on evil fey creatures and gain advantage on any single skill check or attack against an evil fey creature. Remove this story award from your adventure logsheet once it has been used.",
-                "downtime": true
+                "type": "downtime"
             },
             {
                 "name": "You Should Stick Around for a While (Option 1)",
-                "description": "Until the character either completes adventure HILL 1-3 or reaches 11th level (whichever comes first), the character enjoys a Comfortable lifestyle without any expense while they are in Hillsfar."
+                "description": "Until the character either completes adventure **HILL 1-3** or reaches 11th level (whichever comes first), the character enjoys a Comfortable lifestyle without any expense while they are in Hillsfar."
             },
             {
                 "name": "You Should Stick Around for a While (Option 2)",
-                "description": "Until the wizard either completes adventure HILL 1-3 or reaches 11th level (whichever comes first), they are granted free access to the Mage’s Guild library in Hillsfar Castle. The character may spend downtime and gold to copy into their spellbook any two PHB spells of level 4 or lower that they do not currently have. The wizard must still spend the lifestyle expenses associated with the total downtime invested."
+                "description": "Until the wizard either completes adventure **HILL 1-3** or reaches 11th level (whichever comes first), they are granted free access to the Mage’s Guild library in Hillsfar Castle. The character may spend downtime and gold to copy into their spellbook any two PHB spells of level 4 or lower that they do not currently have. The wizard must still spend the lifestyle expenses associated with the total downtime invested."
             }
         ]
     },
@@ -1076,7 +1076,7 @@
             },
             {
                 "name": "Blasphemer",
-                "description": "You have robbed the Necropolis or allowed others to do so and your behavior has been reported back to the church of Kelemvor. Your despised name is spread far and wide among its clergy. Because of this, all members of Kelemvor’s clergy are highly distrustful of you. So long as you have this enmity, all future Charisma (Deception, Intimidation, or Persuasion) checks made against members of Kelemvor’s faithful are made with disadvantage. Additionally, the cost for any spellcasting services provided by the clergy of Kelemvor is increased by 10%. If you have **Enmity of Doomguide Yovir Glandon** from DDEX1-4 Dues from the Dead, your costs instead increase by 50%."
+                "description": "You have robbed the Necropolis or allowed others to do so and your behavior has been reported back to the church of Kelemvor. Your despised name is spread far and wide among its clergy. Because of this, all members of Kelemvor’s clergy are highly distrustful of you. So long as you have this enmity, all future Charisma (Deception, Intimidation, or Persuasion) checks made against members of Kelemvor’s faithful are made with disadvantage. Additionally, the cost for any spellcasting services provided by the clergy of Kelemvor is increased by 10%. If you have **Enmity of Doomguide Yovir Glandon** from **DDEX1-4** *Dues from the Dead*, your costs instead increase by 50%."
             },
             {
                 "name": "Exposed",
@@ -1258,7 +1258,7 @@
             },
             {
                 "name": "We owe you one!",
-                "description": "Things have gone awry when you got back to Elmwood, meaning you cannot collect your 500 GP form the council or your free spellcastin service from Shayad. You can exchange this story award for the gold and free spellcasting service in any future Elmwood adventure, provided that Shayad is alive."
+                "description": "Things have gone awry when you got back to Elmwood, meaning you cannot collect your 500 GP form the council or your free spellcasting service from Shayad. You can exchange this story award for the gold and free spellcasting service in any future Elmwood adventure, provided that Shayad is alive."
             }
         ]
     },
@@ -1314,7 +1314,8 @@
         "storyAwards": [
             {
                 "name": "Home Sweet Home",
-                "description": "This character has been given a plot of land in Elmwood by the Elmwood Council to use as their permanent residence. This plot of land can be either sized for a comfortably large house in the main area of the town of Elmwood OR about an acre of bare land out in the farmlands for some crops or a ranch, a barn, and a farmhouse. Future Elmwood adventures will have more information about how to upgrade this residence."
+                "description": "This character has been given a plot of land in Elmwood by the Elmwood Council to use as their permanent residence. This plot of land can be either sized for a comfortably large house in the main area of the town of Elmwood OR about an acre of bare land out in the farmlands for some crops or a ranch, a barn, and a farmhouse. Future Elmwood adventures will have more information about how to upgrade this residence.",
+                "type": "property"
             }
         ]
     },
@@ -1407,11 +1408,11 @@
         "storyAwards": [
             {
                 "name": "The Guardian Medal",
-                "description": "This is an optional reward. You may choose to keep The Guardian Medal or sell it for 1000 GP.  It garners significant influence within the city, and to a lesser degree in other Moonsea cities. Adventurers wearing a Guardian Medal gain advantage on all Charisma based ability checks within the Phlan."
+                "description": "This is an optional reward. You may choose to keep The Guardian Medal or sell it for 1000 GP. It garners significant influence within the city, and to a lesser degree in other Moonsea cities. Adventurers wearing a Guardian Medal gain advantage on all Charisma based ability checks within the Phlan."
             },
             {
                 "name": "In Service to the Iron General",
-                "description": "This is an optional reward. You may choose to forgo applying the experience of this adventure if doing so would advance you to 17th level. You may only defer the awards in order to complete the other adventures in the **PHLAN2** trilogy, or **PHLAN2-S**, in subsequent sessions. You must apply all deferred experience before playing any other adventures not part of the **PHLAN2** Sovereignty Trilogy."
+                "description": "This is an optional reward. You may choose to forgo applying the experience of this adventure if doing so would advance you to 17th level. You may only defer the awards in order to complete the other adventures in the **PHLAN2** trilogy, or **PHLAN2-S**, in subsequent sessions. You must apply all deferred experience before playing any other adventures not part of the **PHLAN2** *Sovereignty Trilogy*."
             }
         ]
     },
@@ -1435,7 +1436,7 @@
             },
             {
                 "name": "In Service to the Iron General",
-                "description": "This is an optional reward. You may choose to forgo applying the experience of this adventure if doing so would advance you to 17th level. You may only defer the awards in order to complete the other adventures in the **PHLAN2** trilogy, or **PHLAN2-S**, in subsequent sessions. You must apply all deferred experience before playing any other adventures not part of the **PHLAN2** Sovereignty Trilogy."
+                "description": "This is an optional reward. You may choose to forgo applying the experience of this adventure if doing so would advance you to 17th level. You may only defer the awards in order to complete the other adventures in the **PHLAN2** trilogy, or **PHLAN2-S**, in subsequent sessions. You must apply all deferred experience before playing any other adventures not part of the **PHLAN2** *Sovereignty Trilogy*."
             }
         ]
     },
@@ -1459,7 +1460,7 @@
             },
             {
                 "name": "In Service to the Iron General",
-                "description": "This is an optional reward. You may choose to forgo applying the experience of this adventure if doing so would advance you to 17th level. You may only defer the awards in order to complete the other adventures in the **PHLAN2** trilogy, or **PHLAN2-S**, in subsequent sessions. You must apply all deferred experience before playing any other adventures not part of the **PHLAN2** Sovereignty Trilogy."
+                "description": "This is an optional reward. You may choose to forgo applying the experience of this adventure if doing so would advance you to 17th level. You may only defer the awards in order to complete the other adventures in the **PHLAN2** trilogy, or **PHLAN2-S**, in subsequent sessions. You must apply all deferred experience before playing any other adventures not part of the **PHLAN2** *Sovereignty Trilogy*."
             }
         ]
     },
@@ -1948,7 +1949,7 @@
             {
                 "name": "Planar Studies",
                 "description": "With the alhoon's unique plane available for study, those interested in its creation can spend time studying it and learn its secrets. By spending 50 downtime days, a character can do one of the following to a demiplane they have created. Each effect can be given used multiple times, costing 50 downtime days per use. Each individual demiplane that you control can receive each of the following effects once.\n\n- Hide one created demiplane, making other spellcasters unable to enter the chosen demiplane without explicit permission. This can take the form of a key, object, pass-phrase, or other way to authenticate.\n- Connect one demiplane with another chosen demiplane that they control. This allows easy access to the connected demiplanes without the need to cast demiplane multiple times.",
-                "downtime": true
+                "type": "downtime"
             }
         ]
     },
@@ -2113,7 +2114,7 @@
             {
                 "name": "State of the Quassine",
                 "description": "By spending **three downtime days** in study, the possessor of the Quassine signet ring may learn the following information:\n\n *The Quassine colony of illithids is a new colony that has recently broken free of their elder brain and are under the leadership of the ulitharid, Lord Vathrax. Their prized possession is a nautiloid ship and they will do anything to protect it. Vathrax, much like Kaidan, became intrigued by the monk’s studies, and the power held by Phryne. Assuming they can get her to move it into another plane, they also covet the monastery as a location suitable for Vathrax’s transition to an Elder Brain.*",
-                "downtime": true
+                "type": "downtime"
             }
         ]
     },
@@ -2224,7 +2225,7 @@
             {
                 "name": "Learn the Culture (Hillsfar)",
                 "description": "You may spend 5 downtime days (and the associated lifestyle cost) in Hillsfar touring the city and learning the history of the region. You gain advantage on any single ability check relating to the city of Hillsfar, the Red Plumes, the Great Law of Trade, or on any single attack against a fiendish or evil fey creature.",
-                "downtime": true
+                "type": "downtime"
             },
             {
                 "name": "Whispers of Madness",
@@ -2254,7 +2255,7 @@
             },
             {
                 "name": "Friend of the Rustfire Clan",
-                "description": "You have assisted Winnow Rustfire on her mission to attain a red pearl. She now considers you a trusted friend. This story award may come into play in future Moonshae adventures from Baldman Games, particularly CCC-BMG-MOON3-1, 3-2, and 3-3."
+                "description": "You have assisted Winnow Rustfire on her mission to attain a red pearl. She now considers you a trusted friend. This story award may come into play in future Moonshae adventures from Baldman Games, particularly **CCC-BMG-MOON3-1**, **3-2**, and **3-3**."
             },
             {
                 "name": "Happi the Unhappy Oyster",
@@ -2368,7 +2369,8 @@
             },
             {
                 "name": "A Friend in Caer Moray",
-                "description": "You have a friend in Caer Moray. Write their name down and what they do next to this reward. As long as you continue to spend one out of every 10 downtime days to maintain your friendship you can ask your friend for a favor once per game session. The extent of this favor is the discretion of the Dungeon Master."
+                "description": "You have a friend in Caer Moray. Write their name down and what they do next to this reward. As long as you continue to spend one out of every 10 downtime days to maintain your friendship you can ask your friend for a favor once per game session. The extent of this favor is the discretion of the Dungeon Master.",
+                "type": "downtime"
             }
         ]
     },
@@ -2402,7 +2404,8 @@
             },
             {
                 "name": "Farmstead - Dynnegall, Moray",
-                "description": "Members of the Serifal Faithful are granted a deed to the farmstead. The farmstead includes a four-room farmhouse, a small stable with an adjoining paddock, a wagon, five acres of farmland, one horse, two pigs, and five sheep, along with two farmers to tend the property and work the land. This is a Tier 1 property."
+                "description": "Members of the Serifal Faithful are granted a deed to the farmstead. The farmstead includes a four-room farmhouse, a small stable with an adjoining paddock, a wagon, five acres of farmland, one horse, two pigs, and five sheep, along with two farmers to tend the property and work the land. This is a Tier 1 property.",
+                "type": "property"
             }
         ]
     },
@@ -2548,7 +2551,7 @@
         "storyAwards": [
             {
                 "name": "Celebrated by the Wardens",
-                "description": "For your bravery in eliminating the threat of the shadow dragon Pryumbranth and ensuring to portal is established between Alaron and Oman, your exploits are lauded by Wardens of the Deepshaes. If you are a member of that organization and completed MOON3 trilogy, you are considered to have completed a Major Objective for advancement in that group."
+                "description": "For your bravery in eliminating the threat of the shadow dragon Pryumbranth and ensuring to portal is established between Alaron and Oman, your exploits are lauded by Wardens of the Deepshaes. If you are a member of that organization and completed **MOON3** trilogy, you are considered to have completed a Major Objective for advancement in that group."
             }
         ]
     },
@@ -2704,7 +2707,7 @@
         "storyAwards": [
             {
                 "name": "Ashoral’s Friendship",
-                "description": "ou met with the guardian of the moonwell and resolved your differences peacefully, rather than resorting to violence. The druid guardian Ashoral considers you a friend, which may bear fruit at a later date."
+                "description": "You met with the guardian of the moonwell and resolved your differences peacefully, rather than resorting to violence. The druid guardian Ashoral considers you a friend, which may bear fruit at a later date."
             },
             {
                 "name": "Zanz’s Appreciation",
@@ -2732,7 +2735,7 @@
         "storyAwards": [
             {
                 "name": "Mairin’s Debt",
-                "description": "Mairin is deeply indebted to you for proving her lineage. She has travelled to many places and knows a good deal of people across Faerun. If you need an item or expert that isn’t easily obtained, she might be able to get it for you—given enough time."
+                "description": "Mairin is deeply indebted to you for proving her lineage. She has travelled to many places and knows a good deal of people across Faerûn. If you need an item or expert that isn’t easily obtained, she might be able to get it for you—given enough time."
             },
             {
                 "name": "Saviors of Temerity Bay",
@@ -2760,7 +2763,8 @@
         "storyAwards": [
             {
                 "name": "Asper the Jellyflumph",
-                "description": "This tiny jellyfish is native to the Feywild, evidenced by its translucent body which strobes pastel colors that change with its mood. It floats through the skies as if the air was made of water. If killed or reduced to 0 hit points, the jellyflumph can be recalled via *find familiar*, and uses the statistics of a **bat** from the *Monster Manual*."
+                "description": "This tiny jellyfish is native to the Feywild, evidenced by its translucent body which strobes pastel colors that change with its mood. It floats through the skies as if the air was made of water. If killed or reduced to 0 hit points, the jellyflumph can be recalled via *find familiar*, and uses the statistics of a **bat** from the *Monster Manual*.",
+                "type": "familiar"
             },
             {
                 "name": "Critter Keeper",
@@ -2845,7 +2849,7 @@
             {
                 "name": "Grosvenson?",
                 "description": "With access to the libraries of Hillsfar and the knowledge of the citizens of Elventree, you may spend 15 downtime days engaged in research in attempts to locate the town of Grosvenson. Though you failed to locate the town, you learn plenty regarding towns around Hillsfar. In future session, your character gains advantage on all History (Intelligence) checks make to remember details about locations around Hillsfar. This story award is permanent.",
-                "downtime": true
+                "type": "downtime"
             }
         ]
     },
@@ -3170,7 +3174,8 @@
         "storyAwards": [
             {
                 "name": "Gratitude of the Von Finklestein Family",
-                "description": "You have made an ally of the von Finklestein Family. You may use this favor one of two ways. You may either cash in this favor to gain a spell scroll with a *Player's Handbook* wizard spell of 3rd-level or lower, or you gain access to a new downtime activity. At the end of any adventure, you may spend 10 downtime to visit the family and their secret arcane library. While at the library you may scribe a *Player's Handbook* wizard spell of 3rd-level or lower into your spell book or book of shadows for no additional gold cost beyond the cost to scribe a spell."
+                "description": "You have made an ally of the von Finklestein Family. You may use this favor one of two ways. You may either cash in this favor to gain a spell scroll with a *Player's Handbook* wizard spell of 3rd-level or lower, or you gain access to a new downtime activity. At the end of any adventure, you may spend 10 downtime to visit the family and their secret arcane library. While at the library you may scribe a *Player's Handbook* wizard spell of 3rd-level or lower into your spell book or book of shadows for no additional gold cost beyond the cost to scribe a spell.",
+                "type": "downtime"
             },
             {
                 "name": "To Wear the Cloak",
@@ -3215,7 +3220,8 @@
             },
             {
                 "name": "Gratitude of the Von Finklestein Family",
-                "description": "You have made an ally of the von Finklestein Family. You may use this favor one of two ways. You may either cash in this favor to gain a spell scroll with a *Player's Handbook* wizard spell of 3rd-level or lower at no cost (you must still pay for expensive material components) while you are in Mulmaster or you may gain access to a new downtime activity. At the end of any adventure, you may spend 10 downtime to visit the family and their secret arcane library. While at the library you may scribe a *Player's Handbook* wizard spell of 3rd-level or lower into your spell book or book of shadows. You are still responsible for the cost to scribe this spell. Once you have used this favor, you may not use it again.\n\n If this is the 2nd time you have earned this reward the spell level is raised to 5th."
+                "description": "You have made an ally of the von Finklestein Family. You may use this favor one of two ways. You may either cash in this favor to gain a spell scroll with a *Player's Handbook* wizard spell of 3rd-level or lower at no cost (you must still pay for expensive material components) while you are in Mulmaster or you may gain access to a new downtime activity. At the end of any adventure, you may spend 10 downtime to visit the family and their secret arcane library. While at the library you may scribe a *Player's Handbook* wizard spell of 3rd-level or lower into your spell book or book of shadows. You are still responsible for the cost to scribe this spell. Once you have used this favor, you may not use it again.\n\n If this is the 2nd time you have earned this reward the spell level is raised to 5th.",
+                "type": "downtime"
             }
         ]
     },
@@ -3442,7 +3448,8 @@
         "storyAwards": [
             {
                 "name": "Gratitude of the Von Finklesteins",
-                "description": "You have made an ally of the Von Finklestein Family. You may use this favor in one of two ways. You may either cash in this favor once to gain the casting of a spell of a *Player's Handbook* wizard spell of 3rd- level or lower at no cost (you must still pay for expensive material components) while you are in Mulmaster or you may gain access to a new downtime activity. At the end of any adventure, you may spend 10 downtime to visit the family and their secret arcane library. While at the library you may scribe a *Player's Handbook* wizard spell of 3rd-level or lower into your spell book or book of shadows. You are still responsible for the cost to scribe this spell. Once you have used this favor, you may not use it again.\n\n If this is the 2nd time you have earned this reward the spell level is raised to 5th."
+                "description": "You have made an ally of the Von Finklestein Family. You may use this favor in one of two ways. You may either cash in this favor once to gain the casting of a spell of a *Player's Handbook* wizard spell of 3rd-level or lower at no cost (you must still pay for expensive material components) while you are in Mulmaster or you may gain access to a new downtime activity. At the end of any adventure, you may spend 10 downtime to visit the family and their secret arcane library. While at the library you may scribe a *Player's Handbook* wizard spell of 3rd-level or lower into your spell book or book of shadows. You are still responsible for the cost to scribe this spell. Once you have used this favor, you may not use it again.\n\n If this is the 2nd time you have earned this reward the spell level is raised to 5th.",
+                "type": "downtime"
             }
         ]
     },
@@ -3678,7 +3685,7 @@
         "storyAwards": [
             {
                 "name": "Token of the Withered Mother",
-                "description": "At the risk of your safety and sanity, you have acquired an iron token from an annis hag. The iron token is magically bound to you and all attempts to get rid of it prove futile— howsoever you try, the token reappears in your hand at the end of each long rest.\n\n So long as the iron token is bound to you, whenever the moon is at its fullest, you dream about receiving a visit from the Withered Mother who gave you the token. In the dream, the hag takes your head in her hands and plants a kiss on your cheek. When you awaken, your cheek smells of rancid spittle.\n\n Whenever you play one of the DRUID series adventures, you make all Charisma and Charisma-based skill checks at Disadvantage."
+                "description": "At the risk of your safety and sanity, you have acquired an iron token from an annis hag. The iron token is magically bound to you and all attempts to get rid of it prove futile—howsoever you try, the token reappears in your hand at the end of each long rest.\n\n So long as the iron token is bound to you, whenever the moon is at its fullest, you dream about receiving a visit from the Withered Mother who gave you the token. In the dream, the hag takes your head in her hands and plants a kiss on your cheek. When you awaken, your cheek smells of rancid spittle.\n\n Whenever you play one of the **DRUID** series adventures, you make all Charisma and Charisma-based skill checks at Disadvantage."
             }
         ]
     },
@@ -3853,7 +3860,7 @@
             {
                 "name": "Crazy Squirrel (Wizard)",
                 "description": "Wearing a purple robe and pointy hat, this adorable squirrel also wields a wooden staff with a glowing symbol of House Garaf (A werewolf face with the star of Selûne over it). If Speak with Animal is used to communicate with it, it says it is a wizard to the House of Garaf and its here to fight Sharr!\n\n This Crazy Squirrel functions as a pet, does not contribute to combat, or provide any benefit beyond its adorableness!",
-                "pet": true
+                "type": "pet"
             }
         ]
     },
@@ -3936,7 +3943,7 @@
             {
                 "name": "A Spectral Displacer Kitten?",
                 "description": "You have found a spectral six-legged kitten with small bumps on its shoulders. The kitten keeps blinking in and out of view, suggesting that it may have once been a Displacer Beast kitten. If you decide to keep it, you find it extremely playful and friendly. After several adventures you realize it will never grow into an adult.",
-                "pet": true
+                "type": "pet"
             }
         ]
     },
@@ -3967,7 +3974,7 @@
             {
                 "name": "My Teddy Bear Has Claws",
                 "description": "Your generosity and good nature were on display by agreeing to play Jim’s game, despite hearing the ridiculous rules. As you leave the clearing where The Magician Randel Malark Ambledragon’s house is you feel something squirming in your pocket. A tiny Zorbo pops its head out and looks at you. This tiny zorbo is utterly harmless as fits in the palm of your hand. This creature has no mechanical effects and is a pet only, albeit a mischievous pet that loves playing games.",
-                "pet": true
+                "type": "pet"
             }
         ]
     },
@@ -4065,7 +4072,7 @@
         "storyAwards": [
             {
                 "name": "High Blade in Your Debt",
-                "description": "You prevented an alliance between an efreeti pasha and the Cult of Reborn Flame, you rescued Selfaril Uoumdolphin from a mental prison woven by a hag coven, and you prevented the people and city of Mulmaster from being engulfed in lava by the Black Phoenix. For these deeds and more, the High Blade of Mulmaster is in your debt. With his city overrun by Thayans, Selfaril cannot repay that debt now, but perhaps that may change one day.\n\n This story award doesn’t take effect until you successfully complete the Reborn Flame Trilogy:\n\n- *CCC-ODFC02-02 Palace of the Efreeti*\n- *CCC-GAD01-01 Broken Blade*\n- *CCC-GAD01-02 Red War: Black Phoenix*\n\n If you have not yet completed the entire trilogy, you gain the full use of this story award after you successfully complete the missing adventures."
+                "description": "You prevented an alliance between an efreeti pasha and the Cult of Reborn Flame, you rescued Selfaril Uoumdolphin from a mental prison woven by a hag coven, and you prevented the people and city of Mulmaster from being engulfed in lava by the Black Phoenix. For these deeds and more, the High Blade of Mulmaster is in your debt. With his city overrun by Thayans, Selfaril cannot repay that debt now, but perhaps that may change one day.\n\n This story award doesn’t take effect until you successfully complete the Reborn Flame Trilogy:\n\n- **CCC-ODFC02-02** *Palace of the Efreeti*\n- **CCC-GAD01-01** *Broken Blade*\n- **CCC-GAD01-02** *Red War: Black Phoenix*\n\n If you have not yet completed the entire trilogy, you gain the full use of this story award after you successfully complete the missing adventures."
             }
         ]
     },
@@ -4356,7 +4363,7 @@
             },
             {
                 "name": "Putting the Dead to Rest",
-                "description": "You put the undead aarakocra to rest in **CCC-GOC01-01**, *Tree Rot*. When one of your other characters plays CCCGOC01-03, Winds of Rot, characters may find an ally waiting for them on the earthmote."
+                "description": "You put the undead aarakocra to rest in **CCC-GOC01-01**, *Tree Rot*. When one of your other characters plays **CCC-GOC01-03**, *Winds of Rot*, characters may find an ally waiting for them on the earthmote."
             }
         ]
     },
@@ -4386,7 +4393,7 @@
             },
             {
                 "name": "Enemies Afoot",
-                "description": "You gain this award if you have not played **CCC-GOC01-01** Tree Rot. You know the cairns are the focal point of spreading the corruption in the area and that the satyr is using them to spread the corruption to the medicinal plants in the region. When you play **CCC-GOC-01-01**, tell the DM that you have this story award. The DM will indicate the in- game effect of this award."
+                "description": "You gain this award if you have not played **CCC-GOC01-01** Tree Rot. You know the cairns are the focal point of spreading the corruption in the area and that the satyr is using them to spread the corruption to the medicinal plants in the region. When you play **CCC-GOC-01-01**, tell the DM that you have this story award. The DM will indicate the in-game effect of this award."
             },
             {
                 "name": "Secrets Revealed",
@@ -4485,7 +4492,8 @@
             },
             {
                 "name": "Clingy Jelly!",
-                "description": "You spared the life of an oblex spawn. As a token of appreciation, it separates a part of itself and places a thin translucent layer of star-shaped green goo on your forehead. Whenever you are in combat, the goo stretches and changes shape, becoming a horn. Whenever you die, its shape changes into a small, flat skull. You can remove this story award by casting *lesser restoration* on yourself."
+                "description": "You spared the life of an oblex spawn. As a token of appreciation, it separates a part of itself and places a thin translucent layer of star-shaped green goo on your forehead. Whenever you are in combat, the goo stretches and changes shape, becoming a horn. Whenever you die, its shape changes into a small, flat skull. You can remove this story award by casting *lesser restoration* on yourself.",
+                "type": "pet"
             }
         ]
     },
@@ -4570,13 +4578,13 @@
         "incomplete": true
     },
     {
-        "code": "CCC-KUMORI-0101",
+        "code": "CCC-KUMORI-01-01",
         "name": "Wreckers",
         "description": "",
         "incomplete": true
     },
     {
-        "code": "CCC-KUMORI-0102",
+        "code": "CCC-KUMORI-01-02",
         "name": "Wretches",
         "description": "",
         "incomplete": true
@@ -4588,8 +4596,14 @@
         "incomplete": true
     },
     {
-        "code": "CCC-KUMORI-0204",
+        "code": "CCC-KUMORI-02-04",
         "name": "To Be the Very Best",
+        "description": "",
+        "incomplete": true
+    },
+    {
+        "code": "CCC-KUMORI-03-01",
+        "name": "",
         "description": "",
         "incomplete": true
     },
@@ -5278,6 +5292,12 @@
         "incomplete": true
     },
     {
+        "code": "CCC-QCC2019-01",
+        "name": "Hillsfar's Rancid Web",
+        "description": "** PET STORY AWARD **",
+        "incomplete": true
+    },
+    {
         "code": "CCC-REAP-01",
         "name": "Red War: Lost Ashes of the Wayward Gnome",
         "description": "",
@@ -5954,7 +5974,7 @@
             {
                 "name": "Sweet and Stupid",
                 "description": "This foxhound has taken a liking to you and follows you around. She has a few obvious signs of her time on the streets, but otherwise looks to be of good breeding.",
-                "pet": true
+                "type": "pet"
             },
             {
                 "name": "Tarot of Fate (The Tower): Inverted",
@@ -6655,7 +6675,7 @@
             {
                 "name": "Red Versus Blue",
                 "description": "Through the trust of Totha the Fierce, you now have a two-headed dragon wyrmling pet, who is half red and half blue. It is the size of a small house cat (use **cat** statistics from the Monster Manual) and cannot participate in combat. It sometimes sneezes out little tufts of smoke or a tiny bit of cold air, and the two heads are constantly looking for and fighting over snacks. All things are snacks.",
-                "pet": true
+                "type": "pet"
             },
             {
                 "name": "This Hangover’s Gonna Haunt You",

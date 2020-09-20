@@ -52,7 +52,8 @@
         "storyAwards": [
             {
                 "name": "Cute and Scaly",
-                "description": "You found a velociraptor egg. With proper care, it hatches within the next week, but since it is away from its natural habitat, its growth is stunted.\n\n It may not be attack, defend, or provide aid in combat, being no deadlier than a domesticated dog or cat. However, through patience and practice, it can be taught simple tricks and name recognition if trained and fed for a minimum of 20 downtime days."
+                "description": "You found a velociraptor egg. With proper care, it hatches within the next week, but since it is away from its natural habitat, its growth is stunted.\n\n It may not be attack, defend, or provide aid in combat, being no deadlier than a domesticated dog or cat. However, through patience and practice, it can be taught simple tricks and name recognition if trained and fed for a minimum of 20 downtime days.",
+                "type": "pet"
             },
             {
                 "name": "Snakes on a Brain",
@@ -465,7 +466,7 @@
         "storyAwards": [
             {
                 "name": "Dead Men Tell Tales",
-                "description": "You have found a never- before-published chapter of *Of the Fall of Netheril*, penned by the lich Rhaugilath the Ageless. The chapter addresses the architectural design of the Netherese enclave of Orbedal, which was ruled by Rhaugilath. This book would be of great interest to a sage of ancient history and could be used to gain access to the great library at Candlekeep."
+                "description": "You have found a never-before-published chapter of *Of the Fall of Netheril*, penned by the lich Rhaugilath the Ageless. The chapter addresses the architectural design of the Netherese enclave of Orbedal, which was ruled by Rhaugilath. This book would be of great interest to a sage of ancient history and could be used to gain access to the great library at Candlekeep."
             }
         ]
     },
@@ -694,7 +695,8 @@
             },
             {
                 "name": "Barnacles the Parrot",
-                "description": "You own a trained **parrot** called “Barnacles”. Barnacles knows many saucy nautical phrases and has the uncanny ability to detect lies.\n\n You can use Barnacles’ Wisdom (Insight) modifier of +4 in addition to your own when attempting to detect lies. If Barnacles smells a rat, he’ll squawk one of the following phrases: “Thar she blows!”, “Hang ‘em from the yardarm!”, or “Blow the man down!”."
+                "description": "You own a trained **parrot** called “Barnacles”. Barnacles knows many saucy nautical phrases and has the uncanny ability to detect lies.\n\n You can use Barnacles’ Wisdom (Insight) modifier of +4 in addition to your own when attempting to detect lies. If Barnacles smells a rat, he’ll squawk one of the following phrases: “Thar she blows!”, “Hang ‘em from the yardarm!”, or “Blow the man down!”.",
+                "type": "pet"
             },
             {
                 "name": "Eye-Patch",
@@ -702,7 +704,8 @@
             },
             {
                 "name": "Flying Snake",
-                "description": "You’ve unmasked the merchant prince Ifan Talro’a as a criminal. For now, the Emerald Enclave is sitting on the information, choosing to monitor the prince rather than show their hand. As reward, they’ve given you a trained **flying snake** to serve as your messenger.\n\n Once per adventure, you can attach a message to the flying snake and send it to one of your allies. This functions as an *animal messenger* spell, but the message can only be sent to people you know."
+                "description": "You’ve unmasked the merchant prince Ifan Talro’a as a criminal. For now, the Emerald Enclave is sitting on the information, choosing to monitor the prince rather than show their hand. As reward, they’ve given you a trained **flying snake** to serve as your messenger.\n\n Once per adventure, you can attach a message to the flying snake and send it to one of your allies. This functions as an *animal messenger* spell, but the message can only be sent to people you know.",
+                "type": "pet"
             },
             {
                 "name": "Hero of Port Nyanzaru",
@@ -726,7 +729,8 @@
             },
             {
                 "name": "Uku the Spider Boy",
-                "description": "A naughty **flying monkey** called “Uku the Spider Boy” has latched onto you. Uku (“OO‐koo”) wears a crimson waistcoat adorned with tiny mirrors and sports a silk skullcap. He has a naturally mischievous nature.\n\n Uku can smell gold from 30 feet away, even if it’s kept inside a purse or container. As an action, you can command Uku to steal or retrieve up to 100gp using his Sleight of Hand skill bonus of +4. Uku keeps 10% of the takings, which he spends on boiled sweets next time you’re in town."
+                "description": "A naughty **flying monkey** called “Uku the Spider Boy” has latched onto you. Uku (“OO‐koo”) wears a crimson waistcoat adorned with tiny mirrors and sports a silk skullcap. He has a naturally mischievous nature.\n\n Uku can smell gold from 30 feet away, even if it’s kept inside a purse or container. As an action, you can command Uku to steal or retrieve up to 100gp using his Sleight of Hand skill bonus of +4. Uku keeps 10% of the takings, which he spends on boiled sweets next time you’re in town.",
+                "type": "pet"
             }
         ]
     },

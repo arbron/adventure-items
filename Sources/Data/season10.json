@@ -117,6 +117,10 @@
         ],
         "storyAwards": [
             {
+                "name": "Bunny Slipper Snowshoes",
+                "description": " Certain to keep your feet warm while traversing the arctic, these fashionable snowshoes expand and contract to fit any Small or Medium humanoid creature."
+            },
+            {
                 "name": "Campfire Ice Sculture",
                 "description": "When placed on the ground in a cold climate, this tiny sculpture glows orange-red and emits heat enough for up to four Medium creatures within five feet to become comfortably warm."
             },

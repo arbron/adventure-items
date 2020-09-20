@@ -3337,7 +3337,7 @@
         "storyAwards": [
             {
                 "name": "Greeting of the Forefathers",
-                "description": "You have learned how to introduce yourself in a formal and impressive way. During your future encounters with members of tribal cultures of Big Folk Island or the village of Jarko'tu'ta you may gain advantage on social checks if you recite your Greeting during introductions."
+                "description": "You have learned how to introduce yourself in a formal and impressive way. During your future encounters with members of tribal cultures of Big Folk Island or the village of Jarko'tu'ta you may gain advantage on social checks if you recite your Greeting during introductions.\n\n The greeting of the forefathers is simple and consists of 7 parts:\n\n Part 1: Name of character\n\n Part 2: Name of father\n\n Part 3: Name of grandfather\n\n Part 4: Name of great grandfather\n\n Parts 5, 6, 7: Life accomplishments"
             }
         ]
     },
@@ -3503,8 +3503,36 @@
     {
         "code": "CCC-COTN-01-01",
         "name": "By The Seashore: A Red War Tale",
-        "description": "",
-        "incomplete": true
+        "description": "Chaotic magic torments the village of Stonedock, presenting opportunity to a devious grifter. Unknown to the scoundrel, a stolen trinket brings with it the wrath of Thay! Who will weather the storm of deception?",
+        "released": "2019-03-01",
+        "url": "https://www.dmsguild.com/product/267847/CCCCOTN0101By-The-Seashore-A-Red-War-Tale",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Chauncey’s Codbone Cosherer (Immovable Rod)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Corsair’s Star (Orb of Direction)",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Resistance (Cold)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Faro’s Song",
+                "description": "You have spent time in the company of the constable of Stonedock, moreso that you can mimic the song Faro is known for humming. This song may sooth the fear-filled hearts and instill hope to those in despair. This innocent homage to this well-loved man may move the displaced and hopeless to action, possibly effecting the Red War or future Con of the North Convention-Created Content."
+            },
+            {
+                "name": "Stink of Thanks",
+                "description": "As a token of gratitude, the fishermen of Stonedock gift you a bucket of their special stinkbait. Each batch of this offal-smelling muck is a local mixture of rotten food staples, dead beast viscera, bubbling, vile fluids and a special ingredient that its maker adds to it! The bait’s stench is so putrid that many may avoid you while you have it, you might lure beings that enjoy this gut-churning grub to it, or it could serve you in other ways in future Con of the North Convention-Created Content."
+            }
+        ]
     },
     {
         "code": "CCC-DDSC-01",
@@ -3519,46 +3547,429 @@
         "incomplete": true
     },
     {
+        "code": "CCC-DES01-01",
+        "name": "Finding the Rabbit Hole",
+        "description": "Pirates are pillaging and raiding more than usual along the Stojanow River and its tributaries, prompting Aya Glenmiir to invite help from renowned adventurers. The journey toward Greenhall is complicated by deeper issues in the Quivering Forest. The ever-malicious hag Jeny Greenteeth makes an appearance, revealing the hidden source of activity and presenting a new opportunity to the adventurers. Part One of the *At Jeny's Request* series.",
+        "released": "2018-12-03",
+        "url": "https://www.dmsguild.com/product/260395/CCCDES0101-Finding-the-Rabbit-Hole",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Jeny's Little Helpers (Figurine of Wondrous Power (Ivory Goats))",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ]
+    },
+    {
         "code": "CCC-DES01-02",
         "name": "A Sanity Never Questioned",
-        "description": "",
+        "description": "Jeny Greenteeth gives you a letter that must reach its far-off destination, with frightening consequences if it doesn't make it there by nightfall. Jeny knows one way to accomplish this, but her method of travel isn't for the weak of spirit. All magic has a price, dearies, and these magics may have you doubting your sanity. Part Two of the *At Jeny's Request* series.",
+        "released": "2018-12-03",
+        "url": "https://www.dmsguild.com/product/260385/CCCDES0102-A-Sanity-Never-Questioned",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Driftwood Staff (Staff of Healing)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Water Breathing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Hunted by Selithiss",
+                "description": "You have attracted the attention of Selithiss, as well as those whom she works for. This negative attention won’t be good. This story award may have an effect in future D8 Summit modules."
+            },
+            {
+                "name": "Jeny Owes Me a Tiny Favor",
+                "description": "You have served Jeny well, and she will not forget. Fey of the Unseelie Court may view you more favorably as a result. This story award may have an effect in future D8 Summit modules."
+            },
+            {
+                "name": "Love Stronger than Death",
+                "description": "You have received the Mistress of Tides’ kiss, which has magical properties fueled by the Feywild itself. Fey of the Seelie Court may view you more favorably as a result. This story award may have an effect in future D8 Summit modules."
+            },
+            {
+                "name": "A Sanity Questioned",
+                "description": "In your dreams, you still revisit the Feywild, as if a part of your essence remained when you were ripped away from it. This split-soul state may make you less resistant to the magic of the fey. This story award may have an effect in future D8 Summit modules.\n\n This story award can be removed with either a visit to the Feywild in any subsequent adventure (reunifying the soul), or with a *wish* spell."
+            }
+        ]
+    },
+    {
+        "code": "CCC-DES01-03",
+        "name": "A Question Never Asked",
+        "description": "The Fey Veil barrier to the Feywild weakens as the Greengrass equinox approaches. A Fey hunting party awaits on the other side. The hunt will expect a reception, but Greenhall is no condition to host the hunt. Can the adventurers prevent the unsated hunters from destroying the village, or will they join in alongside the hunt? Part Three of the *At Jeny's Request* series.",
+        "released": "2019-12-17",
+        "url": "https://www.dmsguild.com/product/298056/CCCDES0103-A-Question-Never-Asked",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-DES01-04",
+        "name": "An Answer Never Offered",
+        "description": "The Mistress of Tides calls upon heroes to awaken an ancient archfey to aid against the threat of Seelie and Unseelie Court conspirators. But a treacherous fey creature fueled by insatiable envy is playing a spoiler. Part Four of the *At Jeny's Request* series.",
+        "released": "2019-12-17",
+        "url": "https://www.dmsguild.com/product/298041/CCCDES0104-An-Answer-Never-Offered",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-DES01-05",
+        "name": "The Die is Cast",
+        "description": "After liberating the Green Man from his stony prison, the adventurers are given a lead. Can they reach their informant before their opponent gathers word of their actions? Part Five of the *At Jeny's Request* series.",
+        "released": "2019-12-18",
+        "url": "https://www.dmsguild.com/product/297616/CCCDES0105-The-Die-is-Cast",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-DES01-06",
+        "name": "One Last Job",
+        "description": "At last, the enemy behind the floods in the Feywild is revealed. However, the watery nemesis is far more frightening than initially thought. Can your adventuring party rise to a challenged birthed in the watery depths? The final part of the *At Jeny's Request* series.",
+        "released": "2020-08-21",
+        "url": "https://www.dmsguild.com/product/322754/CCCDES0106-One-Last-Job",
+        "tier": [2],
         "incomplete": true
     },
     {
         "code": "CCC-DRUID-01",
         "name": "The Scourge Unseen",
-        "description": "",
-        "incomplete": true
+        "description": "The forest haven of Elventree is in peril! Children have been abducted, monsters have breached the town perimeter, and one of the village’s druids has gone missing. The local spring seems to be a source of these problems, and you must to descend into it to explore the caverns below. Are you a match for the threats beneath Elventree’s feet?",
+        "released": "2018-09-12",
+        "url": "https://www.dmsguild.com/product/252111/CCCDRUID01-The-Scourge-Unseen",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Asharam’s Orb of Ensnaring (Iron Bands of Bilarro)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Shadowneedle (Unbreakable Arrow)",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Life Transference",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Token of the Withered Mother",
+                "description": "At the risk of your safety and sanity, you have acquired an iron token from an annis hag. The iron token is magically bound to you and all attempts to get rid of it prove futile— howsoever you try, the token reappears in your hand at the end of each long rest.\n\n So long as the iron token is bound to you, whenever the moon is at its fullest, you dream about receiving a visit from the Withered Mother who gave you the token. In the dream, the hag takes your head in her hands and plants a kiss on your cheek. When you awaken, your cheek smells of rancid spittle.\n\n Whenever you play one of the DRUID series adventures, you make all Charisma and Charisma-based skill checks at Disadvantage."
+            }
+        ]
     },
     {
         "code": "CCC-ELF-01",
         "name": "Life's A Party",
-        "description": "",
-        "incomplete": true
+        "description": "It’s a time of celebration in Hillsfar. Bert, a local potion merchant and member of the Hillsfar Senate, is hosting a party. It has been one year since the Great Law of Humanity has been abolished. Many non-humans like Bert have helped forge a new future for Hillsfar, but what is the current reality?",
+        "released": "2018-12-21",
+        "url": "https://www.dmsguild.com/product/262096/CCC--ELF--001-Lifes-a-Party",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Ring of Warmth",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Matchmaker",
+                "description": "Though nothing came out of the matchmaking efforts, Bert is none the less entertained by the characters assistances. It is likely their deeds today will pay dividend in the future."
+            }
+        ]
     },
     {
         "code": "CCC-ELF-02",
         "name": "An Adventuring Party Walks Into A Bar",
-        "description": "",
-        "incomplete": true
+        "description": "There have been strange accounts from several of the heavier drinkers in Hillsfar; all are reports of monsters plaguing the woods near the city. Are these simply the ravings of those who have overindulged…or is there a more sinister plot to uncover? Your party is hired to go on a pub crawl and uncover any mischievous mixologists or spiteful servers in order to get to the bottom of these claims.\n\n There is no better drink than that of justice served!\n\n But adventurers should probably try them all, just to be sure…this is a pub crawl after all.",
+        "released": "2019-01-05",
+        "url": "https://www.dmsguild.com/product/263415/CCCELF02-An-Adventuring-Party-Walks-Into-A-Bar",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Tankard of Sobriety",
+                "rarity": "common"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Friend to the Afflicted",
+                "description": "Your kindness and generosity towards the residents of the Hillsfar ghetto has not gone unnoticed. Though throwing money at the problem may not produce lasting changes for the slums, your desire to help is appreciated."
+            }
+        ]
+    },
+    {
+        "code": "CCC-ELF-03-01",
+        "name": "Death's Claw",
+        "description": "After a gruesome murder goes unsolved, characters are hired to investigate. When the murders continue, characters must race against time to stop a serial killer before it’s too late.",
+        "released": "2020-04-29",
+        "url": "https://www.dmsguild.com/product/299496/CCCELF0301-Deaths-Claw",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Net of Warning",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Sir Ardem’s Abhorrence",
+                "description": "Characters who participate in this adventure and accuse Sir Ardem of misbehavior get on his bad side. Ardem’s memory is long, especially against those who sleight him, and he is not likely to forget their accusations."
+            }
+        ]
+    },
+    {
+        "code": "CCC-ELF-03-02",
+        "name": "Echoes of Rage",
+        "description": "As murders of non-humans continue in Hillsfar, the populace calls for drastic action against the city’s most xenophobic Senator. Can you find a way to stop the violence? ",
+        "released": "2020-04-29",
+        "url": "https://www.dmsguild.com/product/299501/CCCELF-0302-Echoes-of-Rage",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Vines of Avarice (Gloves of Thievery)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Ilmater’s Respite (Wand of Smiles)",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Hillsfar’s Cycle",
+                "description": "One way or another, you resolved the dilemma with Sir Ardem Rohan and the boneclaw.\n\n- If Sir Ardem recanted his racist past and begged forgiveness, he may just be trying to save his own life. Nonetheless, you feel assured that others will follow his example.\n- If Sir Ardem was killed, despite Bert and Ranlynn’s pleas, you feel a bony, clawed fingertip brush against your cheek during your dreams every time you take a long rest. (This is not intended to have a mechanical effect, but characters earning this story award may face tangible consequences in future adventures.)"
+            },
+            {
+                "name": "Why So Serious?",
+                "description": "You used (or attempted to use) Ilmater’s Respite on another member of your adventuring party. On your return to Hillsfar, Bert and Kenna welcome you to their merry band of pranksters. Watch out for the blood pie!"
+            }
+        ]
+    },
+    {
+        "code": "CCC-ELF-04",
+        "name": "Blood of the Covenent",
+        "description": "Deaths of non-humans in the City of Hillsfar has taken attention of the Red Plumes away from several attacks by werewolves in the docks. Kriv sent out a request for adventurers to assist on this matter.",
+        "released": "2020-04-29",
+        "url": "https://www.dmsguild.com/product/309290/CCCELF04-Blood-of-the-Covenent",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Enduring Spellbook",
+                "rarity": "common"
+            },
+            {
+                "name": "Rod of Rulership",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Heroism",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Enduring Spellbook",
+                "spells": [
+                    { "name": "fire bolt", "level": 0 },
+                    { "name": "light", "level": 0 },
+                    { "name": "mage hand", "level": 0 },
+                    { "name": "prestidigitation", "level": 0 },
+                    { "name": "shocking grasp", "level": 0 },
+                    { "name": "detect magic", "level": 1 },
+                    { "name": "identify", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "shield", "level": 1 },
+                    { "name": "detect thoughts", "level": 2 },
+                    { "name": "mirror image", "level": 2 },
+                    { "name": "misty step", "level": 2 },
+                    { "name": "counterpsell", "level": 3 },
+                    { "name": "fly", "level": 3 },
+                    { "name": "lightning bolt", "level": 3 },
+                    { "name": "banishment", "level": 4 },
+                    { "name": "stoneskin", "level": 4 },
+                    { "name": "cone of cold", "level": 5 },
+                    { "name": "scrying", "level": 5 },
+                    { "name": "wall of force", "level": 5 },
+                    { "name": "globe of invulnerability", "level": 6 },
+                    { "name": "teleport", "level": 7 },
+                    { "name": "mind blank", "level": 8 },
+                    { "name": "time stop", "level": 9 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Crazy Squirrel (Wizard)",
+                "description": "Wearing a purple robe and pointy hat, this adorable squirrel also wields a wooden staff with a glowing symbol of House Garaf (A werewolf face with the star of Selûne over it). If Speak with Animal is used to communicate with it, it says it is a wizard to the House of Garaf and its here to fight Sharr!\n\n This Crazy Squirrel functions as a pet, does not contribute to combat, or provide any benefit beyond its adorableness!",
+                "pet": true
+            }
+        ]
     },
     {
         "code": "CCC-ELO-01",
         "name": "For the Kids!",
-        "description": "",
+        "description": "A mysterious illness cripples the children of the realm. No one has found the cure. Will you pass the tests and save the children of Faerûn?",
+        "released": "2018-11-17",
+        "url": "https://www.dmsguild.com/product/259022/CCCELO01-For-the-Kids",
+        "tier": [1],
+        "items": [
+            {
+                "name": "The Aloe of Ch (Keoghtom’s Ointment)",
+                "rarity": "uncommon"
+            }
+        ]
+    },
+    {
+        "code": "CCC-ELO-02",
+        "name": "The Four Kids",
+        "description": "A plea for help calls heroes into the deep of The Underdark, where a kind-hearted matron seeks help to vanquish childish soul-buried sorrows. How far will our heroes go for the kids?",
+        "released": "2020-01-14",
+        "url": "https://www.dmsguild.com/product/299859/CCCELO02-The-Four-Kids",
+        "tier": [1],
         "incomplete": true
     },
     {
         "code": "CCC-FC3-01-02",
-        "name": "Tales of Estirwald: Corruption of the Elderoak",
-        "description": "",
-        "incomplete": true
+        "name": "Corruption of the Elderoak",
+        "description": "Perpetual twilight awaits heroes when a simple request leads them to lands beyond time, beyond mortal understanding, and where those with twisted fates pray for atonement and freedom. Will joyful light return to this ancient land or will the curiosity of an outsider bring ruin to all. Part Two of the *Tales of Estirwald*.",
+        "released": "2019-02-27",
+        "url": "https://www.dmsguild.com/product/267821/CCCFC30102-Tales-of-Estirwald-Corruption-of-the-Elderoak",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Figurine of Wondrous Power (Golden Lions)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Invulnerability",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Enchanter’s Spellbook",
+                "spells": [
+                    { "name": "friends", "level": 0 },
+                    { "name": "mage hand", "level": 0 },
+                    { "name": "mending", "level": 0 },
+                    { "name": "message", "level": 0 },
+                    { "name": "charm person", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "hold person", "level": 2 },
+                    { "name": "invisibility", "level": 2 },
+                    { "name": "suggestion", "level": 2 },
+                    { "name": "fireball", "level": 3 },
+                    { "name": "haste", "level": 3 },
+                    { "name": "tongues", "level": 3 },
+                    { "name": "dominate beast", "level": 4 },
+                    { "name": "stoneskin", "level": 4 },
+                    { "name": "hold monster", "level": 5 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "I’m a Published Author!",
+                "description": "Congratulations, you have unwillingly published your first book, and it has not gone unnoticed. A conclave of Wizards on the Sword Coast has taken a liking in your fact-based, straight to the point style. Your name is spreading amongst academics, sages, librarians, Clerics of Oghma and Deneir and even Candlekeep has heard about it."
+            },
+            {
+                "name": "A Spectral Displacer Kitten?",
+                "description": "You have found a spectral six-legged kitten with small bumps on its shoulders. The kitten keeps blinking in and out of view, suggesting that it may have once been a Displacer Beast kitten. If you decide to keep it, you find it extremely playful and friendly. After several adventures you realize it will never grow into an adult.",
+                "pet": true
+            }
+        ]
     },
     {
         "code": "CCC-FC3-03",
-        "name": "Tales of Estirwald: The Fun House",
-        "description": "",
-        "incomplete": true
+        "name": "The Fun House",
+        "description": "Randel Malark Ambledragon was a magician of impressive renown. Rumour has it that before he became a travelling magician he a very successful adventurer. He settled down in Estirwald until one day he and his mansion simply disappeared. Now his mansion is back and rumours are flying all over the place. Are you courageous, daring, and clever enough to find out the truth? Part Three of the *Tales of Estirwald*.",
+        "released": "2019-03-12",
+        "url": "https://www.dmsguild.com/product/269392/CCCFC303-Tales-of-Estirwald-The-Fun-House",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Bag of Devouring",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Mind Reading",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Caught Red…errr Purple Handed",
+                "description": "You attempted to break into The Magician Randel Malark Ambledragon’s house instead of politely knocking at the door and he was not amused. To make sure that the world will know of your unlawful ways he has permanently changed the colour of your hands and forearms to a fluorescent purple colour that sparkles when in light of any source."
+            },
+            {
+                "name": "My Teddy Bear Has Claws",
+                "description": "Your generosity and good nature were on display by agreeing to play Jim’s game, despite hearing the ridiculous rules. As you leave the clearing where The Magician Randel Malark Ambledragon’s house is you feel something squirming in your pocket. A tiny Zorbo pops its head out and looks at you. This tiny zorbo is utterly harmless as fits in the palm of your hand. This creature has no mechanical effects and is a pet only, albeit a mischievous pet that loves playing games.",
+                "pet": true
+            }
+        ]
     },
     {
         "code": "CCC-FXC-01",
@@ -5542,7 +5953,8 @@
         "storyAwards": [
             {
                 "name": "Sweet and Stupid",
-                "description": "This foxhound has taken a liking to you and follows you around. She has a few obvious signs of her time on the streets, but otherwise looks to be of good breeding."
+                "description": "This foxhound has taken a liking to you and follows you around. She has a few obvious signs of her time on the streets, but otherwise looks to be of good breeding.",
+                "pet": true
             },
             {
                 "name": "Tarot of Fate (The Tower): Inverted",
@@ -5778,22 +6190,104 @@
         ]
     },
     {
-        "code": "CCC-THENT-0101",
+        "code": "CCC-THENT01-01",
         "name": "Beneath the Surface",
-        "description": "",
-        "incomplete": true
+        "description": "Steam has been rising from ruins east of the city of Thentia for almost two tendays. Scouts and adventurers have gone to investigate, but have not returned. What might be lurking in the depths of those dark places, and will it remain there? Part One of *Squamous Writhings*.",
+        "released": "2017-10-10",
+        "url": "https://www.dmsguild.com/product/223663/CCCTHENT0101-Beneath-the-Surface",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Pearl of Power",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            }
+        ]
     },
     {
-        "code": "CCC-THENT-0102",
+        "code": "CCC-THENT01-02",
         "name": "Those That Dwell Beneath",
-        "description": "",
-        "incomplete": true
+        "description": "In ruins near the city of Thentia, grungs have been trying to build a portal where they could move slaves in secret from the city of Melvaunt. But something sinister took hold of them, trapping them in the darkness. A map of the ancient city, which once stood on the surface of the land, leads the adventurers deeper into the catacombs. But will they find glory and riches? Or horror and death? Part Two of *Squamous Writhings*.",
+        "released": "2017-10-10",
+        "url": "https://www.dmsguild.com/product/223665/CCCTHENT0102-Those-That-Dwell-Beneath",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Periapt of Wound Closure",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 3
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Friend of the Baucha Tribe",
+                "description": "You saved the darklings fleeing the monstrous cave fisher, and acted with friendship after. Should your paths cross again, you are hailed as an ally of the Baucha [BOU-ka] tribe of darklings, and have advantage on non-Intimidation Charisma ability checks when interacting with them. If you attempt to use Intimidation on a member of the Baucha tribe, this story award is removed."
+            },
+            {
+                "name": "You Made Matthew Cry!",
+                "description": "You revealed the horror of his undead life to Matthew, an innocent child lost in the subterranean city of Yrisgow. His weeping haunts you, even in your dreams. Each time you long rest, make a DC 12 Charisma saving throw. On a failed save, your attacks, skill checks, and saving throws suffer a -1 penalty until you take another long rest, and succeed on the subsequent saving throw.\n\n A *remove curse* spell will cause the weeping to fade in 1d4-1 days. Further investigation into the ruins of the city may reveal another method to make Matthew stop haunting you. (Play through **CCC-THENT01-03**, *The Dreaming Relic*, for further details.)\n\n Even when deafened, you can hear the sad wailing. You can gain no respite from Matthew’s sorrow."
+            }
+        ]
     },
     {
-        "code": "CCC-THENT-0103",
+        "code": "CCC-THENT01-03",
         "name": "The Dreaming Relic",
-        "description": "",
-        "incomplete": true
+        "description": "The call of fame and fortune has led the adventurers into the deep dark beneath the ruins near the city of Thentia. Facing off against unknown horrors, they have found both enemies and allies. Now, something from the beginning of the world stirs in the black…and it hungers. Part Three of *Squamous Writhings*.",
+        "released": "2017-10-10",
+        "url": "https://www.dmsguild.com/product/223667/CCCTHENT0103-The-Dreaming-Relic",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Instrument of the Bards (Mac-Fuirmidh Cittern)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Growth",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 4
+            },
+            {
+                "name": "Spell Scroll of Comprehend Languages",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Gentle Repose",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Tenser's Floating Disk",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Knowledge of the Vault",
+                "description": "You returned information of surviving scrolls within the Vault to Vayu Ashvin, silver mage of Thentia. Overcome with appreciation, Vayu offers you room and board at his tower any time you are in Thentia. In addition, this information may prove useful during a future adventure."
+            }
+        ]
     },
     {
         "code": "CCC-TRI-01 YUL1-1",
@@ -5871,7 +6365,7 @@
         "storyAwards": [
             {
                 "name": "Harbinger of the Vast Gate",
-                "description": "The factions understand the difficulty of the task they asked, but emotions are hard to quell. The Far Realm flesh- magic around the illithid hive terrifies all, as nothing can currently penetrate it. You have been nicknamed a “Harbinger of the Vast Gate” by those who know of your failure, which is spreading by the day.\n\n As an aftereffect of almost being caught within, your body has been twisted. Far Realm creatures target you first and foremost, wishing to complete your transformation by killing you. Second, if you move to another plane of existence besides the material plane, subtle physical differences are seen. For example, a finger might become a tentacle, or your shadow moves erratically behind you. These changes cannot confer any mechanical bonuses. Those with *truesight* or other magical means of seeing true forms will see your altered body regard- less of your current plane."
+                "description": "The factions understand the difficulty of the task they asked, but emotions are hard to quell. The Far Realm flesh-magic around the illithid hive terrifies all, as nothing can currently penetrate it. You have been nicknamed a “Harbinger of the Vast Gate” by those who know of your failure, which is spreading by the day.\n\n As an aftereffect of almost being caught within, your body has been twisted. Far Realm creatures target you first and foremost, wishing to complete your transformation by killing you. Second, if you move to another plane of existence besides the material plane, subtle physical differences are seen. For example, a finger might become a tentacle, or your shadow moves erratically behind you. These changes cannot confer any mechanical bonuses. Those with *truesight* or other magical means of seeing true forms will see your altered body regard- less of your current plane."
             },
             {
                 "name": "Honorary Corps Member",
@@ -6160,7 +6654,8 @@
         "storyAwards": [
             {
                 "name": "Red Versus Blue",
-                "description": "Through the trust of Totha the Fierce, you now have a two-headed dragon wyrmling pet, who is half red and half blue. It is the size of a small house cat (use **cat** statistics from the Monster Manual) and cannot participate in combat. It sometimes sneezes out little tufts of smoke or a tiny bit of cold air, and the two heads are constantly looking for and fighting over snacks. All things are snacks."
+                "description": "Through the trust of Totha the Fierce, you now have a two-headed dragon wyrmling pet, who is half red and half blue. It is the size of a small house cat (use **cat** statistics from the Monster Manual) and cannot participate in combat. It sometimes sneezes out little tufts of smoke or a tiny bit of cold air, and the two heads are constantly looking for and fighting over snacks. All things are snacks.",
+                "pet": true
             },
             {
                 "name": "This Hangover’s Gonna Haunt You",

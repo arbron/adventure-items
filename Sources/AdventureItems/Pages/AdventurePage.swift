@@ -83,6 +83,10 @@ extension Publish.Item where Site == AdventureItemsSite {
             if let storyAwardText = "story award".counted(adventure.storyAwards.count) {
                 magicItemNames.append(storyAwardText)
             }
+            for award in adventure.storyAwards {
+                if award.downtime { tags.insert("downtime activity") }
+                if award.pet { tags.insert("pet") }
+            }
         }
         if let otherText = "other item".counted(otherConsumableCount, singularArticle: "one") {
             magicItemNames.append(otherText)
@@ -242,6 +246,13 @@ extension Publish.Item where Site == AdventureItemsSite {
                             .class("entry-label"),
                             " ",
                             .text("Downtime Activity")
+                        )
+                    ),
+                    .if(award.pet,
+                        .em(
+                            .class("entry-label"),
+                            " ",
+                            .text("Pet")
                         )
                     )
                 ),

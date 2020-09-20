@@ -11,4 +11,5 @@ struct StoryAward: Codable, Hashable {
     var name: String
     var description: String
     @DecodableDefault.False var downtime: Bool
+    @DecodableDefault.False var pet: Bool
 }

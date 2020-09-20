@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Fri, 18 Sep 2020 19:25:36 -0700</lastBuildDate><pubDate>Fri, 18 Sep 2020 19:25:36 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-00</guid><title>DDAL10-00 - Ice Road Trackers</title><description>Boots of False Tracks, Ersatz Eye, Smoldering Armor, Studded Leather, Unbreakable Arrow, 2 potions, 2 scrolls, and 3 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-00</link><pubDate>Mon, 14 Sep 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Sat, 19 Sep 2020 19:50:28 -0700</lastBuildDate><pubDate>Sat, 19 Sep 2020 19:50:28 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-00</guid><title>DDAL10-00 - Ice Road Trackers</title><description>Boots of False Tracks, Ersatz Eye, Smoldering Armor, Studded Leather, Unbreakable Arrow, 2 potions, 2 scrolls, and 3 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-00</link><pubDate>Mon, 14 Sep 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>Ice Road Trackers</h1>
   <h3>Season 10 Adventure for Tier 1
     <em class="release"> Released  on September 14, 2020</em>
@@ -246,6 +246,97 @@
       </li>
     </ul>
   </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-elf-03-01</guid><title>CCC-ELF-03-01 - Death's Claw</title><description>Net of Warning and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-elf-03-01</link><pubDate>Tue, 28 Apr 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>Death's Claw</h1>
+  <h3>Convention Created Content  for Tier 2
+    <em class="release"> Released  on April 28, 2020</em>
+  </h3><p>After a gruesome murder goes unsolved, characters are hired to investigate. When the murders continue, characters must race against time to stop a serial killer before it’s too late.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Net of Warning</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Sir Ardem’s Abhorrence</summary><p>Characters who participate in this adventure and accuse Sir Ardem of misbehavior get on his bad side. Ardem’s memory is long, especially against those who sleight him, and he is not likely to forget their accusations.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-elf-03-02</guid><title>CCC-ELF-03-02 - Echoes of Rage</title><description>Vines of Avarice (Gloves of Thievery), Ilmater’s Respite (Wand of Smiles), a potion, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-elf-03-02</link><pubDate>Tue, 28 Apr 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>Echoes of Rage</h1>
+  <h3>Convention Created Content  for Tier 2
+    <em class="release"> Released  on April 28, 2020</em>
+  </h3><p>As murders of non-humans continue in Hillsfar, the populace calls for drastic action against the city’s most xenophobic Senator. Can you find a way to stop the violence?</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Vines of Avarice (Gloves of Thievery)</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>
+        <span>Ilmater’s Respite (Wand of Smiles)</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Superior Healing</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Hillsfar’s Cycle</summary><p>One way or another, you resolved the dilemma with Sir Ardem Rohan and the boneclaw.</p><ul><li>If Sir Ardem recanted his racist past and begged forgiveness, he may just be trying to save his own life. Nonetheless, you feel assured that others will follow his example.</li><li>If Sir Ardem was killed, despite Bert and Ranlynn’s pleas, you feel a bony, clawed fingertip brush against your cheek during your dreams every time you take a long rest. (This is not intended to have a mechanical effect, but characters earning this story award may face tangible consequences in future adventures.)</li></ul>
+  </details>
+  <details class="story-award">
+    <summary>Why So Serious?</summary><p>You used (or attempted to use) Ilmater’s Respite on another member of your adventuring party. On your return to Hillsfar, Bert and Kenna welcome you to their merry band of pranksters. Watch out for the blood pie!</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-elf-04</guid><title>CCC-ELF-04 - Blood of the Covenent</title><description>Enduring Spellbook, Rod of Rulership, 5 potions, a spellbook, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-elf-04</link><pubDate>Tue, 28 Apr 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>Blood of the Covenent</h1>
+  <h3>Convention Created Content  for Tier 3
+    <em class="release"> Released  on April 28, 2020</em>
+  </h3><p>Deaths of non-humans in the City of Hillsfar has taken attention of the Red Plumes away from several attacks by werewolves in the docks. Kriv sent out a request for adventurers to assist on this matter.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Enduring Spellbook</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>
+        <span>Rod of Rulership</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>2 x 
+        <span>Potion of Greater Healing</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Heroism</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>2 x 
+        <span>Potion of Superior Healing</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Spellbooks</h2>
+  <p>
+    <ul>
+      <li>
+        <strong>Enduring Spellbook: </strong>fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, identify, mage armor, magic missile, shield, detect thoughts, mirror image, misty step, counterpsell, fly, lightning bolt, banishment, stoneskin, cone of cold, scrying, wall of force, globe of invulnerability, teleport, mind blank, and time stop
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Crazy Squirrel (Wizard)
+      <em class="entry-label"> Pet</em>
+    </summary><p>Wearing a purple robe and pointy hat, this adorable squirrel also wields a wooden staff with a glowing symbol of House Garaf (A werewolf face with the star of Selûne over it). If Speak with Animal is used to communicate with it, it says it is a wizard to the House of Garaf and its here to fight Sharr!</p><p>This Crazy Squirrel functions as a pet, does not contribute to combat, or provide any benefit beyond its adorableness!</p>
+  </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-nbdd01-02</guid><title>CCC-NBDD01-02 - Where Can She Be?</title><description>Clockwork Amulet, Hat of Disguise, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-nbdd01-02</link><pubDate>Tue, 28 Apr 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>Where Can She Be?</h1>
   <h3>Convention Created Content  for Tier 2
@@ -2280,7 +2371,9 @@
   </p>
   <h2>Story Awards</h2>
   <details class="story-award">
-    <summary>Sweet and Stupid</summary><p>This foxhound has taken a liking to you and follows you around. She has a few obvious signs of her time on the streets, but otherwise looks to be of good breeding.</p>
+    <summary>Sweet and Stupid
+      <em class="entry-label"> Pet</em>
+    </summary><p>This foxhound has taken a liking to you and follows you around. She has a few obvious signs of her time on the streets, but otherwise looks to be of good breeding.</p>
   </details>
   <details class="story-award">
     <summary>Tarot of Fate (The Tower): Inverted</summary><p>You either failed to deliver the wagon of coin to Widar Patja or took shortcuts along the way. Widar’s dreams will not be fulfilled, for good or ill.</p>
@@ -2351,6 +2444,33 @@
   <h2>Story Awards</h2>
   <details class="story-award">
     <summary>A Lich’s Secret</summary><p>When going through Selfaril’s memories of the past, you discovered Rastol Shan’s secret. He is a lich who was formerly Thurndan Tallwand, the Senior Cloak who betrayed Selfaril Uoumdolphin on behalf of his brother Rassendyll. What you do with this secret is up to you.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-fc3-03</guid><title>CCC-FC3-03 - The Fun House</title><description>Bag of Devouring, 2 potions, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-fc3-03</link><pubDate>Mon, 11 Mar 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>The Fun House</h1>
+  <h3>Convention Created Content  for Tier 3
+    <em class="release"> Released  on March 11, 2019</em>
+  </h3><p>Randel Malark Ambledragon was a magician of impressive renown. Rumour has it that before he became a travelling magician he a very successful adventurer. He settled down in Estirwald until one day he and his mansion simply disappeared. Now his mansion is back and rumours are flying all over the place. Are you courageous, daring, and clever enough to find out the truth? Part Three of the <em>Tales of Estirwald</em>.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Bag of Devouring</span>
+        <em class="entry-label"> Very Rare</em>
+      </li>
+      <li>2 x 
+        <span>Potion of Mind Reading</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Caught Red…errr Purple Handed</summary><p>You attempted to break into The Magician Randel Malark Ambledragon’s house instead of politely knocking at the door and he was not amused. To make sure that the world will know of your unlawful ways he has permanently changed the colour of your hands and forearms to a fluorescent purple colour that sparkles when in light of any source.</p>
+  </details>
+  <details class="story-award">
+    <summary>My Teddy Bear Has Claws
+      <em class="entry-label"> Pet</em>
+    </summary><p>Your generosity and good nature were on display by agreeing to play Jim’s game, despite hearing the ridiculous rules. As you leave the clearing where The Magician Randel Malark Ambledragon’s house is you feel something squirming in your pocket. A tiny Zorbo pops its head out and looks at you. This tiny zorbo is utterly harmless as fits in the palm of your hand. This creature has no mechanical effects and is a pet only, albeit a mischievous pet that loves playing games.</p>
   </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon2-3</guid><title>CCC-BMG-MOON2-3 - The Eye in the Mist</title><description>Llyneth’s Cloak of Mists (Cloak of Elvenkind), 2 potions, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon2-3</link><pubDate>Sun, 10 Mar 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>The Eye in the Mist</h1>
@@ -2450,105 +2570,6 @@
       <li>
         <span>Desolation (Greatsword of Sharpness)</span>
         <em class="entry-label"> Very Rare</em>
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal08-15</guid><title>DDAL08-15 - Forge of Fangs</title><description>Ring of Shooting Stars and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal08-15</link><pubDate>Mon, 4 Mar 2019 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>Forge of Fangs</h1>
-  <h3>Season 8 Adventure for Tier 3
-    <em class="release"> Released  on March 4, 2019</em>
-  </h3><p>The Forge of Fangs has been located in Vanrakdoom. While many innocents have been saved from an undying fate, the forge remains. Artor Morlin would like to see it torn to the ground and the threat ended forever. Part Three of the <em>Undying Threat</em> trilogy.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Ring of Shooting Stars</span>
-        <em class="entry-label"> Very Rare</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Marked by Shar</summary><p>Followers of Shar are always initially hostile to the characters.</p>
-  </details>
-  <details class="story-award">
-    <summary>Scholar of Vanrakdoom</summary><p>This adventure has awakened in an interest in Vanrakdoom and Vanrak Moonstar. Characters can spend their time studying the histories of Vanrak and his cult of Shar.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-tarot-02-03</guid><title>CCC-TAROT-02-03 - To Boldly Go</title><description>Auntie Helena’s Wand (Wand of Paralysis), a scroll, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-tarot-02-03</link><pubDate>Thu, 28 Feb 2019 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>To Boldly Go</h1>
-  <h3>Convention Created Content  for Tier 2
-    <em class="release"> Released  on February 28, 2019</em>
-  </h3><p>A strange visitor has arrived in Thentia. Both the Council of Mages and Merchants are interested in speaking with him as things in Thentia have been a bit gloom. Once his business is concluded in town he’ll need an escort back home to the…Feywild. Part Ten of <em>Song of Fates</em>.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Auntie Helena’s Wand (Wand of Paralysis)</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>1 x 
-        <span>Spell Scroll of Blight</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Tarot of Fate (The Magician): Inverted</summary><p>You thought it best to listen to Karasht and head to where the spores were most concentrated. Believing that you can overcome anything, you made a decision without hesitation.</p>
-  </details>
-  <details class="story-award">
-    <summary>Tarot of Fate (The Magician): Upright</summary><p>You listened to Widar’s plea and decided to investigate Summer’s Lilly. No doubt your skills will be needed in the future to help with what you saw.</p>
-  </details>
-  <details class="story-award">
-    <summary>Touched by Fate</summary><p>Many Powers circle around Thentia, and the Moonsea searching for lost magical artifacts. For whatever reason, the Fates have chosen you to be involved.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon2-2</guid><title>CCC-BMG-MOON2-2 - Army of the Unseen</title><description>Longbow, +1, a potion, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon2-2</link><pubDate>Wed, 27 Feb 2019 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>Army of the Unseen</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  by Baldman Games on February 27, 2019</em>
-  </h3><p>Little more than an outpost, Dynnegall is the life-blood of resources that flow from Caer Moray, supporting Ffolk townships across the archipelago. But the supply boat is overdue by almost a tenday and hope is difficult to find. With the recent attacks repelled an opportunity exists to send aid, but who dares to venture outside the walls?</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Longbow, +1</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Healing</span>
-        <em class="entry-label"> Common</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Dreams of Prophecy</summary><p>The maddening impulse to write the words echoing in your head has long faded, but that doesn’t stop them from visiting your dreams along with visions of dark woods and whispered chants.</p><p>“An eye turns in the mist as dark blood boils and churns. Vengeance and rippling death will quake through the noblest fey. Endless shadows will howl as reality unbinds, crying to the darkness that waits in veiled lands.”</p>
-  </details>
-  <details class="story-award">
-    <summary>Hero of Dynnegall</summary><p>Wrapped in a silver ribbon with a red seal is a letter from Earl Orwin Rhys himself, acknowledging your heroic deeds at Dynnegall. The letter has little value but is sure to provide bragging rights at any tavern in Moray.</p>
-  </details>
-  <details class="story-award">
-    <summary>Farmstead - Dynnegall, Moray</summary><p>Members of the Serifal Faithful are granted a deed to the farmstead. The farmstead includes a four-room farmhouse, a small stable with an adjoining paddock, a wagon, five acres of farmland, one horse, two pigs, and five sheep, along with two farmers to tend the property and work the land. This is a Tier 1 property.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal00-08</guid><title>DDAL00-08 - Layers Upon Layers</title><description>Boots of False Tracks, Sending Stones, and 6 scrolls</description><link>https://arbron.github.io/adventure-items/adventures/ddal00-08</link><pubDate>Sat, 16 Feb 2019 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>Layers Upon Layers</h1>
-  <h3>Season Agnostic Adventure for Tiers 1 and 2
-    <em class="release"> Released  on February 16, 2019</em>
-  </h3><p>During the liberation of Szith Morcane, the factions found an unlikely friend in an agent of evil. Now, that alliance has been put to the test—and the factions are in search of souls brave (or foolish) enough to venture to the mysterious depths of the Feywild in order to uphold their end of the alliance! Grab your planar forks—there’s adventuring to be done!</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Boots of False Tracks</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>
-        <span>Sending Stones</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>6 x 
-        <span>Spell Scroll of Gentle Repose</span>
-        <em class="entry-label"> Uncommon</em>
       </li>
     </ul>
   </p>

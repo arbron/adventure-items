@@ -58,9 +58,46 @@
         "code": "DDAL10-01",
         "name": "The Frozen North",
         "description": "An avalanche has stranded you and your allies in the treacherous Spine of the World, and a relentless blizzard is quickly blowing away all hope of survival. Gather the surviving members of your caravan and strike out for shelter. Strike out for life!",
-        "incomplete": true,
         "released": "2020-10-17",
-        "tier": [1]
+        "tier": [1],
+        "items": [
+            {
+                "name": "Goggles of Night",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Comprehension",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Growth",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Frostbitten",
+                "description": ""
+            },
+            {
+                "name": "The Rescuers",
+                "description": ""
+            },
+            {
+                "name": "The Special Delivery",
+                "description": "A parcel containing a delivery of homemade goods to persons unknown. The crate and its contents count as a single trinket—one person among the group can keep them. While the individual items aren’t really useful, if the characters can figure out who they were intended for, the recipient may be incredibly happy to have them."
+            }
+        ]
     },
     {
         "code": "DDAL10-02",

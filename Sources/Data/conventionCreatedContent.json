@@ -3562,7 +3562,7 @@
         "tier": [2],
         "items": [
             {
-                "name": "Jeny's Little Helpers (Figurine of Wondrous Power (Ivory Goats))",
+                "name": "Jeny's Little Helpers (Figurine of Wondrous Power, Ivory Goats)",
                 "rarity": "rare"
             },
             {
@@ -4136,62 +4136,239 @@
     {
         "code": "CCC-GARY-01",
         "name": "A Night to Remember",
-        "description": "",
-        "incomplete": true
+        "description": "A mysterious building has been constructed in the Zhent Slums outside Mulmaster. No one knows who or what built this massive circular ziggurat. That is, until you received an invitation for a dinner party to be held at the very top of the structure. What delights and mysteries await you?",
+        "released": "2017-04-14",
+        "url": "https://www.dmsguild.com/product/209690/CCCGARY01-A-Night-to-Remember",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Fangs of Sybil (Dagger of Venom)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 3
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Naked and Unafraid",
+                "description": "Any player entering the dinner party having left a piece of armor or a weapon behind gains an additional **point of renown** for participating in this adventure."
+            }
+        ]
     },
     {
         "code": "CCC-GARY-02",
         "name": "To Find a Way Out",
-        "description": "",
-        "incomplete": true
+        "description": "Disaster has struck, and you and your fellow party members have found yourself caught in a huge building, descending deeper into the depths of the structure as you try to find a way out. Laid in your path are deadly obstacles and mysterious clues as to why you came to be here in the first place.",
+        "released": "2017-04-14",
+        "url": "https://www.dmsguild.com/product/209692/CCCGARY02-To-Find-a-Way-Out",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Spell Scroll of Mass Cure Wounds",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Poison, basic (vial)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 3
+            }
+        ]
     },
     {
         "code": "CCC-GARY-03",
         "name": "Oh, We're In It Now",
-        "description": "",
-        "incomplete": true
+        "description": "All out mayhem has encompassed the ground floors of the huge structure you've been exploring. Forces fight back and forth through the halls, and you find yourself drawn into fights where you hope to survive long enough just to make it out.",
+        "released": "2017-04-14",
+        "url": "https://www.dmsguild.com/product/209693/CCCGARY03-Oh-Were-In-It-Now",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Cap of Water Breathing",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Cloak of the Manta Ray",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Goggles of Night",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Necklace of Fireballs",
+                "rarity": "rare"
+            },
+            {
+                "name": "Staff of the Python",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Ammunition, +1",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 5
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Poison",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-GARY-04",
         "name": "A Darkness in the Mountains",
-        "description": "",
-        "incomplete": true
+        "description": "In the shadow of the Galena Mountains, outside the Glumpen forest, the scars of the ancient war with the kingdom of the Witch King still lay fresh and exposed to the night air. A trade route between the regions of Vaasa and Damara have, through the years, created a crossroads at Aetherglen. The people who live there have an abiding honor for their dead, and the graveyards are shrines to their forebears. As you pass through, however, you are waylaid by a mysterious man who tells you that the dead are restless, and something worse may be stirring ‘neath the huge Gulthias trees of the forest.",
+        "released": "2018-03-29",
+        "url": "https://www.dmsguild.com/product/238303/CCCGARY04-The-Darkness-of-the-Mountains",
+        "tier": [1],
+        "storyAwards": [
+            {
+                "name": "Furrball the Skeleton Kitty Cat",
+                "description": "Furrball is a non-combat familiar. He qualifies as undead, but when threatened has an additional ability that allows him to enter the Ethereal Plane. This ability also allows him to be annoyingly underfoot. He demands food, even though he doesn’t eat, and demands pets and scratches behind his ears, even though he has no skin. Furrball is intended for flavor only and provides no advantages as a regular Wizard or Warlock familiar.",
+                "type": "pet"
+            }
+        ]
     },
     {
         "code": "CCC-GARY-05",
         "name": "The Shadows of the Trees",
-        "description": "",
-        "incomplete": true
+        "description": "You’ve uncovered something ancient, something evil, on the outskirts of a small village at the foot of the Galena Mountains. The people of Aetherglen have no other options and are beseeching you and your team to investigate the trail of defiled dead that leads deep into the Glumpen forest. The massive Gulthias trees tower over your passage into the forest, casting a deep shadow over the land.",
+        "released": "2018-03-29",
+        "url": "https://www.dmsguild.com/product/238352/CCCGARY05-The-Shadows-of-the-Trees",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Bag of Holding",
+                "rarity": "uncommon"
+            }
+        ]
     },
     {
         "code": "CCC-GARY-06",
         "name": "The Death Beneath the Roots",
-        "description": "",
-        "incomplete": true
+        "description": "An ancient Gulthias tree contains the answers you’re seeking to the questions of the ancient dead and the recently dying in the village of Aetherglen. Its roots are massive, but so is the massive echoing bole underneath the tree. Delving deeper on the well-traveled path, you discover an old Elven city, apparently carved and fashioned from the roots themselves. But, what you discover only leads to more questions and more danger. Do you dare to venture further, and deeper, into the darkness beneath the tree?",
+        "released": "2018-03-29",
+        "url": "https://www.dmsguild.com/product/238356/CCCGARY06-The-Death-Beneath-the-Roots",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Quaal's Feather Token (Tree)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-GARY-07",
         "name": "The Mirror Cities of Gulthias",
-        "description": "",
-        "incomplete": true
+        "description": "Beneath the ancient Gulthias tree is buried an even older city of Elvish design, populated by strange inhabitants that seem to be slaves of the tree. After exploring the city, you’ve found that there are strange passageways buried through the roots in the middle of common pathways, leading to a mirror city underneath. This city is suspended from the roots as the city it mirrors above is built on top of the roots. A darkness falls over this city, and you step carefully from root to root lest you fall into the deeper darkness below.",
+        "released": "2018-03-30",
+        "url": "https://www.dmsguild.com/product/238358/CCCGARY07-The-Mirror-Cities-of-Gulthias",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Cloak of Elvenkind",
+                "rarity": "uncommon"
+            }
+        ]
     },
     {
         "code": "CCC-GARY-08",
         "name": "That Which Lies Buried",
-        "description": "",
-        "incomplete": true
+        "description": "You’ve descended further into the earth, deep under the Gulthias tree, past the both the Elven cities of light and dark, and now the perpetual darkness of an immense pit faces you. What waits for you at the bottom? Is it the evil force that has corrupted the tree above? Do you dare disturb what has been buried so deep?",
+        "released": "2018-03-30",
+        "url": "https://www.dmsguild.com/product/238359/CCCGARY08-That-Which-Lies-Buried",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Longsword of Vengeance",
+                "rarity": "uncommon"
+            }
+        ]
     },
     {
         "code": "CCC-GARY-09",
         "name": "The Witch Maiden",
-        "description": "",
-        "incomplete": true
+        "description": "You’ve found yourselves trapped inside the tomb and temple of a Witch Maiden, one of the fabled First Sacrifices to the Witch King of ages ago. A powerful Lich in her own right, you hope that you wander through her tomb while she still slumbers, or else your journey this far deep into the evil darkness will come to a swift and abrupt end.",
+        "released": "2018-03-30",
+        "url": "https://www.dmsguild.com/product/238360/CCCGARY09-The-Witch-Maiden",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Staff of the Woodlands",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Poison",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Crown of Souls",
+                "description": "**Note that magical effects itemized below only occur in *ccc-gary-xx* modules. Outside of *ccc- gary-xx* modules it qualifies only as found treasure worth what is listed below.**\n\n A purring voice whispers in your ear: “Mmmmmm…I live still…” You recognize this voice as the Witch Maiden. This must be her phylactery!\n\n You try and take off the crown, but it’s stuck on your head. As you try, you hear her laughter in the back of your mind.\n\n While you’re wearing this crown, you can summon a **Shadow** once per long rest. The Shadow will follow your commands and act on your behalf for 10 minutes before it returns to the afterlife from whence it came. While it remains, you can communicate with it telepathically up to a range of 200’.\n\n While you’re wearing this crown, you can cast the cantrip *Message* at will. Unfortunately, the target of your message will hear the voice of the Witch Maiden delivering your information.\n\n While you’re wearing this crown, your Maximum Hit Points will fall by 1HP each day, immediately after waking from a long rest. If you are dropped to 0HP due to this effect, you have died. You cannot be returned to the living unless the crown is removed from your body.\n\n The crown can only be removed by removing your head, or by a *remove curse* spell.\n\n The crown has a particularly evil cast to it, and you’ll only be able to sell it a vendor with a successful contested Deception check. If you can sell it, it is worth 2500gp.\n\n The crown can only be destroyed by dropping it into molten lava."
+            }
+        ]
     },
     {
         "code": "CCC-GEL-01",
         "name": "Bedlam at the Benefit",
-        "description": "",
-        "incomplete": true
+        "description": "Some heroes raid dungesons. Some heroes slay dragons. And some heroes raise money for children’s hospitals. Everything is going splendidly for the fundraising gala at the Moonsea Children’s Hospital—until an uninvited guest and his aberrant entourage crash the party!",
+        "released": "2018-03-16",
+        "url": "https://www.dmsguild.com/product/237193/CCCGEL01-Bedlam-at-the-Benefit",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Dark Shard Amulet",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Resistance (Psychic)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Children’s Benefactor",
+                "description": "You rubbed elbows with the nobility to benefit a worthy, charitable cause. Additionally, word has spread that you saved some of them from a horrible death at the hands of a madman. While in the Moonsea region, you are welcome in high society and other people of high birth treat you as a member of the same social sphere."
+            }
+        ]
     },
     {
         "code": "CCC-GHC-01",
@@ -4927,6 +5104,7 @@
         "name": "A Dragon's Breath",
         "description": "Ragvala, also known as the \"Coinmaker\", is an ancient gold dragon who wishes to mend his broken friendship with his old adventuring buddy. Recently, he has heard rumors that his friend’s old magical instrument has resurfaced in the Quivering Forest. Unable to change shape anymore, the dragon needs the help of skilled adventurers who can join him on his quest.",
         "released": "2018-10-13",
+        "creator": "Greasy Snitches",
         "tier": [1],
         "items": [
             {
@@ -4952,6 +5130,7 @@
         "name": "Brotherhood",
         "description": "Ragvala, an ancient gold dragon and the founder of the Five-Leaf Clover is dead. A funeral ceremony will be held in 3 days before he becomes one with the earth. Rokstasha, his friend and a djinni has asked the help of the adventurers to find the other members of the Five-Leaf Clover if they are still alive and have them attend the ceremony. Don’t be late! Part 2 of the *Clover Group Series*.",
         "released": "2019-08-14",
+        "creator": "Greasy Snitches",
         "tier": [1],
         "items": [
             {
@@ -4975,6 +5154,7 @@
         "name": "Tainted Love",
         "description": "Rizgrim, the Great Doomguide of Kelemvor has discovered that the land within the Quivering Forest near the burial site of her friend is slowly being consumed by dark magic. The adventurers have been asked to find the source and eliminate it as soon as possible. Failing on this task could turn her dead friend into a dracolich. Nobody wants that! Right?! Part 3 of the *Clover Group Series*.",
         "released": "2020-02-04",
+        "creator": "Greasy Snitches",
         "tier": [1],
         "items": [
             {
@@ -4991,6 +5171,195 @@
                 "name": "Clingy Jelly!",
                 "description": "You spared the life of an oblex spawn. As a token of appreciation, it separates a part of itself and places a thin translucent layer of star-shaped green goo on your forehead. Whenever you are in combat, the goo stretches and changes shape, becoming a horn. Whenever you die, its shape changes into a small, flat skull. You can remove this story award by casting *lesser restoration* on yourself.",
                 "type": "pet"
+            }
+        ]
+    },
+    {
+        "code": "CCC-GSP02-01",
+        "name": "Minauros Unchained",
+        "description": "The valkyrie Sigrdri is looking for adventurers to go with her to the Nine Hells. Tasked to free heroic souls that are supposed to go to Ysgard but instead are stuck somewhere in different layers of Hell. Her first mission is to save a loyal and fearless minotaur druid that’s currently trapped in Minauros, the 3rd layer of Hell. Part One of *Heroes in Nine Hells*.",
+        "released": "2020-03-03",
+        "creator": "Greasy Snitches",
+        "url": "https://www.dmsguild.com/product/303699/CCCGSP0201-Minauros-Unchained",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Bulaga Wizard Hat (Hat of Vermin)",
+                "rarity": "common"
+            },
+            {
+                "name": "The Heart of Baga (Elemental Gem, Red Corundum)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Banned: Minauros",
+                "description": "Mammon’s baleful gaze is upon you. Perhaps you angered him directly, or perhaps your actions caused a disruption in his operations—whatever the case may be, he has elected to ban you from Minauros, the third layer of the Nine Hells, entirely. You can’t participate in further adventures in this place.\n\n A character with this story award may visit other areas of the Nine Hells but has been banned from Minauros."
+            }
+        ]
+    },
+    {
+        "code": "CCC-GSP02-02",
+        "name": "Stygia Untamed",
+        "description": "The valkyrie Sigrdri is looking for adventurers who can go with her to the Nine Hells. She is tasked to free heroic souls that are supposed to go to Ysgard but instead are stuck somewhere in different layers of hell. Her second mission is to save a kind and gentle snake guardian’s soul that is currently trapped in Stygia, the Fifth. Part Two of *Heroes in Nine Hells*.",
+        "released": "2020-04-20",
+        "creator": "Greasy Snitches",
+        "url": "https://www.dmsguild.com/product/307480/CCCGSP0202-Stygia-Untamed",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Stygian Scale Mail (Smoldering Armor)",
+                "rarity": "common"
+            },
+            {
+                "name": "Bulkawa’s Benevolence (Staff of the Python)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Banned: Stygia",
+                "description": "The frozen, inhospitable wilderness of Stygia is home to many vile creatures as well as an uncountable number from the Material Plane. Desperate criminals and those condemned to death may pray to Levistus, the ruler of Stygia, for freedom; should he answer, they are transported here. For reasons known only to you and him, you are forever banned from setting foot within Stygia. Perhaps you redeemed too many souls, or maybe you were discovered to be in league with Geryon, the former ruler of this realm; regardless, Levistus has closed this layer of the Nine Hells to you. You can’t participate in further adventures in this place.\n\n A character with this story award may visit other areas of the Nine Hells but has been banned from Stygia."
+            }
+        ]
+    },
+    {
+        "code": "CCC-GSP-FEAR01-01",
+        "name": "Beneath the Bleeding Tree",
+        "description": "Neighboring the village of Elventree, the once-peaceful settlement of Lighthouse is haunted by a series of disappearances. Rumors have spread that foul horrors from the Cormanthor forest abduct the unsuspecting settlers in the dead of night. Heroes are needed to uncover the fate of the citizens and to identify these creatures of the dark.",
+        "released": "2019-08-21",
+        "creator": "Greasy Snitches",
+        "url": "https://www.dmsguild.com/product/285712/CCCGSPFEAR0101-Beneath-the-Bleeding-Tree",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Hag’s Breath (Eversmoking Bottle)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Cause Fear",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Lingering Nightmare",
+                "description": "Any character captured by the meenlocks is subjected to the dark feys’ telepathic torment. This causes the character to develop mental trauma and gains the flaw: “I suffer from a phobia.”\n\n The specific phobia is chosen by the Dungeon Master; it may be something simple yet common, like darkness, insects, drowning, or heights."
+            }
+        ]
+    },
+    {
+        "code": "CCC-GSP-MON01-01",
+        "name": "Shadows of Despair",
+        "description": "When a young maiden is lured into the woods by a shadowy creature, her father suspects something is amiss and pleads for the aid of benevolent adventurers to solve the mystery.",
+        "released": "2020-02-04",
+        "creator": "Greasy Snitches",
+        "url": "https://www.dmsguild.com/product/302031/CCCGSPMON0101-Shadows-of-Despair",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-GSP-NTHR01-01",
+        "name": "A Night of Sorrows",
+        "description": "A small settlement on the outskirts of the Cormanthor forest called Dusklight has recently called for aid in defending against monstrous creatures that have begun attacking. Their leader, Kyria, believes they may be coming from the nearby ruins; a fragment of the ancient city of Thultanthar. Is this just a coincidence, or is there something more sinister at work here?",
+        "released": "2019-08-15",
+        "creator": "Greasy Snitches",
+        "url": "https://www.dmsguild.com/product/285722/CCCGSPNTHR0101-A-Night-of-Sorrows",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Amulet of Health",
+                "rarity": "rare"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Silent Nights",
+                "description": "Characters have put an end to the Sorrowsworn and their source, and have ensured that Kyria’s secrets remain unknown. Kyria is thankful for your discretion in handling the matter."
+            },
+            {
+                "name": "Twilight Fades",
+                "description": "Characters have put an end to the Sorrowsworn and their source, but have also revealed its existence to the inhabitants of Dusklight. With their newfound knowledge, numerous settlers have left, leaving it a shell of what it once was."
+            }
+        ]
+    },
+    {
+        "code": "CCC-GSP-OOZE01-01",
+        "name": "Oozing Hunger",
+        "description": "The people of Phlan are in dire need of help! The town’s water supplies have mysteriously turned a sickly green! Buildings and trees have been secreting slime! Creatures in the area have been going mad! Can the adventurers solve this slimy mystery?",
+        "released": "2019-08-21",
+        "creator": "Greasy Snitches",
+        "url": "https://www.dmsguild.com/product/285730/CCCGSPOOZE0101OozingHunger",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Armor of Insults (Mithral Splint Armor)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Juiblex’s Gift",
+                "description": "The encounter with Jubilex has left you ‘changed’. If you took any damage from an ooze or slime in the basement you gain this story award. A sentient ooze-like creature latches on to you. The creature is harmless and hides inside your body during combat but seeps out of your pores and slithers all over your body. The sentient ooze can speak to others verbally, forming a mouth to do so, and to you telepathically, and tries to impose its own unnatural hunger for living flesh on you, giving you an additional flaw:\n\n ***Hunger.*** *I constantly crave for living flesh*\n\n The sentient ooze creature can be destroyed via a *Remove Curse* spell."
+            }
+        ]
+    },
+    {
+        "code": "CCC-GSP-PHIL01-02",
+        "name": "The Murmuring Hollow of the Flooded Forest",
+        "description": "A threatening presence has been discovered in the Trollcrag mountains, causing troubled hearts inYlraphon. Greater threats may be much closer to home, however. The Dragul Orcs of the Flooded Forestare being slaughtered. In their desperation, they are turning to Ylraphon for salvation. What dark threatsawait you in the Murmuring Hollow of the Flooded Forest? Part Two of the *Dead Gods Collide* series.",
+        "released": "2019-08-21",
+        "creator": "Greasy Snitches",
+        "url": "https://www.dmsguild.com/product/285850/CCCGSPPHIL0102-The-Murmuring-Hollow-O-f-The-Flooded-Forest",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Eyes of Minute Seeing",
+                "rarity": "uncommon"
+            }
+        ]
+    },
+    {
+        "code": "CCC-GSP-PHIL01-03",
+        "name": "The Whispering Shadows of the Eldest Ruin",
+        "description": "When the conflict between two fanatical groups boils over, danger knocks directly on Ylraphon’s door. As violence erupts all around, you must delve into the Eldest Ruins, the most ancient remnants of Outer Ylraphon. There, a ruined drow manor house is said to contain an artifact strong enough to stop the forces rampaging through the Old City. Part Three of the *Dead Gods Collide* series.",
+        "released": "2019-08-21",
+        "creator": "Greasy Snitches",
+        "url": "https://www.dmsguild.com/product/285849/CCCGSPPHIL0103-The-Whispering-Shadows-of-the-Eldest-Ruin",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Robe of Useful Items",
+                "rarity": "uncommon"
             }
         ]
     },
@@ -6463,7 +6832,7 @@
         "tier": [2],
         "items": [
             {
-                "name": "The Plague Fly (Figurine of Wondrous Power (Ebony Fly))",
+                "name": "The Plague Fly (Figurine of Wondrous Power, Ebony Fly)",
                 "rarity": "rare"
             }
         ],

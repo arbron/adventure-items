@@ -134,7 +134,7 @@ extension Publish.Item where Site == AdventureItemsSite {
                     .p(Self.spellbookList(adventure.spellbooks))
                 ])),
                 .if(!adventure.storyAwards.isEmpty, .group([
-                    .h2("Story Awards"),
+                    .h2(.text(adventure.storyAwardsSectionName)),
                     Self.storyAwardList(adventure.storyAwards)
                 ]))
             ),

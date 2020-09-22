@@ -25,6 +25,12 @@ struct Adventure: Codable, Hashable {
 
     var source: Source { Source(code) }
     var isEpic: Bool { code.hasPrefix("DDEP") || code.hasPrefix("DDAL-EBEP") }
+    var storyAwardsSectionName: String {
+        switch source {
+        case .oracleOfWar: return "Legacy Events"
+        default: return "Story Awards"
+        }
+    }
 }
 
 extension Adventure {

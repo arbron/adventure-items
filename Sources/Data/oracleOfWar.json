@@ -2,34 +2,138 @@
     {
         "code": "DDAL-EB-01",
         "name": "The Night Land",
-        "description": "The brokers of Salvation pay good coin for artifacts scavenged from the haunted battlefields of the Mournland. In this nest of cutthroats, daring explorers gather to carve their destinies from the ruins of Cyre. They’ll need all the help they can get: it’s no secret that most scavengers don’t survive their first expedition in the Gray.\n\n The first adventure in the four-part *Spoils of War* storyline.",
+        "description": "The brokers of Salvation pay good coin for artifacts scavenged from the haunted battlefields of the Mournland. In this nest of cutthroats, daring explorers gather to carve their destinies from the ruins of Cyre. They’ll need all the help they can get: it’s no secret that most scavengers don’t survive their first expedition in the Gray. The first adventure in the four-part *Spoils of War* storyline.",
         "released": "2019-12-02",
+        "url": "https://www.dmsguild.com/product/296403/EB01-The-Night-Land",
         "tier": [1],
         "incomplete": true
     },
     {
         "code": "DDAL-EB-02",
         "name": "Voice in the Machine",
-        "description": "The brokers of Salvation pay good coin for artifacts scavenged from the haunted battlefields of the Mournland. In this nest of cutthroats, daring explorers gather to carve their destinies from the ruins of Cyre. The adventurers head deep into the Mournland to rescue a missing salvage team. In the heat of battle, they unearth a strange device from the ruins: the Oracle of War. This machine knows all the secrets they need to overcome their enemies—if only the adventurers can figure out how to operate it!\n\n The second adventure in the four-part *Spoils of War* storyline.",
+        "description": "The brokers of Salvation pay good coin for artifacts scavenged from the haunted battlefields of the Mournland. In this nest of cutthroats, daring explorers gather to carve their destinies from the ruins of Cyre. The adventurers head deep into the Mournland to rescue a missing salvage team. In the heat of battle, they unearth a strange device from the ruins: the Oracle of War. This machine knows all the secrets they need to overcome their enemies—if only the adventurers can figure out how to operate it! The second adventure in the four-part *Spoils of War* storyline.",
         "released": "2020-01-07",
+        "url": "https://www.dmsguild.com/product/299680/EB01-Voice-in-the-Machine",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Mithral Chain Mail",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Rope of Climbing",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Clairvoyance",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "A Friend Indeed",
+                "description": "You listened to Kalli Alran (or the NPC friend you created during **DDAL-EB-01** *The Night Land*) and went back to save her trapped comrade. At the end of this adventure, choose one of the following benefits:\n\n- Your friend applies a temporary enhancement to your armor, granting you +1 AC for the duration of your next adventure.\n- Your friend gives you a *potion of healing*."
+            },
+            {
+                "name": "Hard Call",
+                "description": "You angered Kalli Alran (or the NPC friend you created during **DDAL-EB-01** *The Night Land*) by not risking your life to save her trapped comrade. At the end of this adventure, each surviving member of the Gray Dogs—apart from your friend—slips you 5 gp as thanks."
+            },
+            {
+                "name": "White Rose",
+                "description": "You found a preserved white rose in the same marketplace that you found the *Oracle of War*.\n\n- Tick this if you identified the rose. At the end of the adventure, you can spend 5 gp to identify it as a rare Orioth rose from the distant jungle of Dajar Orioth in the elven nation of Aerenal."
+            }
+        ]
     },
     {
         "code": "DDAL-EB-03",
         "name": "Where the Dead Wait",
-        "description": "On their way back to Salvation, the adventurers are ambushed by a large force of undead and forced to seek shelter in a ruined cottage. As the dead close in from all sides, the survivors turn to the Oracle of War for a lifeline. Only this time, things don’t play out as expected…\n\n The third adventure in the four-part *Spoils of War* storyline.",
+        "description": "On their way back to Salvation, the adventurers are ambushed by a large force of undead and forced to seek shelter in a ruined cottage. As the dead close in from all sides, the survivors turn to the Oracle of War for a lifeline. Only this time, things don’t play out as expected… The third adventure in the four-part *Spoils of War* storyline.",
         "released": "2020-02-04",
+        "url": "https://www.dmsguild.com/product/302373/EB03-Where-the-Dead-Wait",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Armblade",
+                "rarity": "common"
+            },
+            {
+                "name": "Acid (vial)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Alchemist's fire (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Ball bearings (bag of 1,000)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Caltrops (bag of 20)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Hunting trap",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Silvered Crossbow Bolts",
+                "rarity": "common",
+                "consumable": true,
+                "count": 30
+            },
+            {
+                "name": "Spell Scroll of False Life",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Stolen Artifact",
+                "description": "A group of scavengers stole the *Oracle of War* from you. If you play **DDAL-EB-04** *The Third Protocol*, you start that adventure without the Oracle. You recover the artifact for Tiers 2–4."
+            },
+            {
+                "name": "Turned Traitor",
+                "description": "Your ally Kalli Alran (or the friend you created in **DDAL-EB-01** *The Night Land*) betrayed you to steal the *Oracle of War*. If they escaped alive, they may show up again in future adventures.\n\n- If you appeal to your ally by writing an in-character letter of 300 words or more, and hand it in to your DM for approval before playing **DDAL-EB-04** *The Third Protocol*, your ally may have second thoughts…"
+            }
+        ]
     },
     {
         "code": "DDAL-EB-04",
         "name": "The Third Protocol",
         "description": "The Oracle of War has been recovered from the Mournland. Its creators respond by activating the third protocol, an instruction to recover the device and eliminate all who know of its existence. As night falls, a posse of assassins step off the lightning rail with orders to raze Salvation to the ground and retrieve the Oracle.\n\n The final adventure in the four-part *Spoils of War* storyline.",
         "released": "2020-03-01",
+        "url": "https://www.dmsguild.com/product/305024/EB04-The-Third-Protocol",
         "tier": [1],
         "items": [
+            {
+                "name": "Circlet of Blasting",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "The Oracle Detector",
+                "rarity": "unique"
+            },
             {
                 "name": "Acid (vial)",
                 "rarity": "common",
@@ -54,6 +158,16 @@
                 "consumable": true,
                 "count": 1
             }
+        ],
+        "storyAwards": [
+            {
+                "name": "Captured Assassin",
+                "description": "You captured Saal Dreastroke or some of his cronies alive. Now you must decide what to do with them.\n\n- Turn them over to the Brelish authorities and gain 20 gp per captive.\n- Hold on to them in the hope that they could be useful. After each adventure that they remain in captivity, you must page 3 gp per captive on supplies."
+            },
+            {
+                "name": "Still Alive",
+                "description": "Despite all the horrors you've seen, your friend Kalli (or the replacement you made for this character during **DDAL-EB-01** *The Night Land*) remains alive and on your side. What does she do next?\n\n- Kalli heads to Morgrave University in Sharn to investigate the *Oracle of War*.\n- Kalli remains in Salvation and tries to set herself up as a salvage broker."
+            }
         ]
     },
     {
@@ -61,6 +175,7 @@
         "name": "A Century of Ashes",
         "description": "The adventurers seek out a trusted sage of Morgrave University to help them unlock the mysteries of the Oracle of War, but their studies risk upsetting powerful forces. Morgrave is said to be a beacon of knowledge shining from the city’s tallest towers, yet the adventurers soon learn that it can also be a deep pit of corruption.",
         "released": "2020-05-04",
+        "url": "https://www.dmsguild.com/product/312336/EB05-A-Century-of-Ashes",
         "tier": [2],
         "incomplete": true
     },
@@ -69,30 +184,67 @@
         "name": "The Last Word",
         "description": "Guided by prophecy, the adventurers seek out a spy operating in the heart of Wroat’s Royal Court. The Oracle of War has linked him to a great turning point in Khorvaire’s future, but he’s embedded in deep cover and difficult to reach. Thankfully, every agent has a weak link, and love is blind.",
         "released": "2020-06-03",
+        "url": "https://www.dmsguild.com/product/316059/EB06-The-Last-Word",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Ring of Evasion",
+                "rarity": "rare"
+            },
+            {
+                "name": "Wand of Fear",
+                "rarity": "rare"
+            },
+            {
+                "name": "Weapon, +1",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Dark Lanterns Flicker",
+                "description": "Mercutia ir'Gontarli was assassinated during the ball. The city of Wroat is put on high alert as rumors swirl about who could be responsible. This event has repercussions later in the campaign."
+            },
+            {
+                "name": "Runaway Lovers",
+                "description": "You helped Orsino and Cesaria escape to build new lives for themselves. They are forever grateful for your assistance.\n\n- Once only, during any adventure in the *Oracle of War* campaign, you can call on Orsino for assistance. You must have at least 8 hours free to contact him. Orsino's spy network can answer three questions for you, as per the *commune* spell. When you use this legacy event, all players in your group must remove it from their Adventure Records."
+            },
+            {
+                "name": "Silver Torch Extinguished",
+                "description": "Oliviér ir'Volett was exposed during the ball as a spy and assassin and paid the ultimate price. As the authorities trace his steps, word spreads that the nation of Thrane could be responsible for the killing. This event has repercussions later in the campaign."
+            }
+        ]
     },
     {
         "code": "DDAL-EB-07",
         "name": "Song of the Sky",
         "description": "The orphan Sky Blue lives with her awakened seagull companion in the eaves of Sharn’s highest buildings and survives by stealing scraps from the tables of the city’s nobility. According to the Draconic Prophecy, this humble thief is destined to guide Breland’s future. The adventurers must get to her before her rivals—if they can catch her!",
         "released": "2020-07-06",
+        "url": "https://www.dmsguild.com/product/319657/EB07-Song-of-the-Sky",
         "tier": [2],
         "incomplete": true
     },
     {
         "code": "DDAL-EB-08",
         "name": "Parliament of Gears",
-        "description": "On the edge of the Mournland, tensions are rising between the frontier folk and renegade warforged loyal to the Lord of Blades. When salvage workers start to go missing, the Brelish army sends the adventurers into the Mournland to mount a rescue.\n\n The first in a trilogy of adventures, the *Dogs of War* storyline.",
+        "description": "On the edge of the Mournland, tensions are rising between the frontier folk and renegade warforged loyal to the Lord of Blades. When salvage workers start to go missing, the Brelish army sends the adventurers into the Mournland to mount a rescue. The first in a trilogy of adventures, the *Dogs of War* storyline.",
         "released": "2020-08-03",
+        "url": "https://www.dmsguild.com/product/322749/EB08-Parliament-of-Gears",
         "tier": [2],
         "incomplete": true
     },
     {
         "code": "DDAL-EB-09",
         "name": "Lord Bucket",
-        "description": "When word reaches Breland that the Lord of Blades is plotting an attack, the outpost of Salvation becomes the first line of defense. In preparation for war, the Brelish army enlists the adventurers to secure the outpost, serving under the vainglorious General Karol Tyresh; a buffoon known to his troops as “Lord Bucket.”\n\n The second in a trilogy of adventures, the *Dogs of War* storyline.",
+        "description": "When word reaches Breland that the Lord of Blades is plotting an attack, the outpost of Salvation becomes the first line of defense. In preparation for war, the Brelish army enlists the adventurers to secure the outpost, serving under the vainglorious General Karol Tyresh; a buffoon known to his troops as “Lord Bucket.” The second in a trilogy of adventures, the *Dogs of War* storyline.",
         "released": "2020-09-01",
+        "url": "https://www.dmsguild.com/product/326339/EB09-Lord-Bucket",
         "tier": [2],
         "incomplete": true
     },
@@ -101,6 +253,7 @@
         "name": "The Iron Giant",
         "description": "In this epic event, Cultists of the Emerald Claw reanimate a warforged colossus from the battlefields outside Salvation and turn it against the outpost. The scavengers in town must work together to disable the titan limb-by-limb and save the outpost from annihilation. They are aided throughout by the Oracle of War, which provides vital tactical advice alongside cryptic verses from the Draconic Prophecy.",
         "released": "2020-04-07",
+        "url": "https://www.dmsguild.com/product/308553/EBEP01-The-Iron-Titan",
         "tier": [1],
         "items": [
             {
@@ -129,7 +282,7 @@
             },
             {
                 "name": "Fallen Titan",
-                "description": "The warforged colossus Big Moe was defeated. One of the salvage brokers, Irrulan Karnach, fled town just before the attack. Could she have been involved somehow?\n\n If you’re interested in tailing Karnach you can invest 200gp after this adventure into tracking her down. You discover a lead that she’s headed to Sharn. If you visit Sharn in a future adventure, you can locate her for questioning."
+                "description": "The warforged colossus Big Moe was defeated. One of the salvage brokers, Irrulan Karnach, fled town just before the attack. Could she have been involved somehow?\n\n- If you’re interested in tailing Karnach you can invest 200 gp after this adventure into tracking her down. You discover a lead that she’s headed to Sharn. If you visit Sharn in a future adventure, you can locate her for questioning."
             }
         ]
     },

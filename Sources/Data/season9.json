@@ -313,7 +313,50 @@
         "description": "Fai Chen has gone missing from Mahadi’s Traveling Emporium, and Fai Chen asks you to rescue him. You’ll have to do it without angering the master of the Emporium whose protection is crucial to your sacred mission. But in the Nine Hells, how much can you really trust someone you call friend?",
         "released": "2020-02-04",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Staff of Charming",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Growth",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Poison",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Fai-nal Purchase",
+                "description": "Fai Chen is dead, and you can no longer utilize his services. Other adventurers might claim to meet Fai Chen, but you know the truth. Every single Fai is super departed, it’s kind of your fault, and you won’t be trading items with him ever again…until you can pay for someone to cast raise dead on Fai and lose this story award. Spellcasting services their costs can be found in the *ALDMG*."
+            },
+            {
+                "name": "Immiass’s Favor",
+                "description": "You can expend this story award during a combat encounter with Sareash, a devil nicknamed Bloody Hooks, to summon a **black abishai** named Immiass to help you. Immiass stays until the end of the encounter or until reduced to 0 hit points, then disappears."
+            },
+            {
+                "name": "No Exceptions",
+                "description": "You’ve broken Mahadi’s only rules: “No fighting! No spellcasting! No exceptions!” By choosing to break the rules, you’ve been kicked out of Mahadi’s emporium. Now you must survive in the wastes without its safe shelter. You start any tier 2 Avernus Rising adventure at half hit points and with a level of exhaustion that can’t be removed."
+            }
+        ]
     },
     {
         "code": "DDAL09-12",

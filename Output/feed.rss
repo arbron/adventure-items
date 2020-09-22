@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Mon, 21 Sep 2020 21:00:55 -0700</lastBuildDate><pubDate>Mon, 21 Sep 2020 21:00:55 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-01</guid><title>DDAL10-01 - The Frozen North</title><description>Goggles of Night, 3 potions, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-01</link><pubDate>Fri, 16 Oct 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Tue, 22 Sep 2020 12:15:12 -0700</lastBuildDate><pubDate>Tue, 22 Sep 2020 12:15:12 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-01</guid><title>DDAL10-01 - The Frozen North</title><description>Goggles of Night, 3 potions, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-01</link><pubDate>Fri, 16 Oct 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>The Frozen North</h1>
   <h3>Season 10 Adventure for Tier 1
     <em class="release"> Released  on October 16, 2020</em>
@@ -2103,6 +2103,32 @@
   <details class="story-award">
     <summary>Celebrated by the Wardens</summary><p>For your bravery in eliminating the threat of the shadow dragon Pryumbranth and ensuring to portal is established between Alaron and Oman, your exploits are lauded by Wardens of the Deepshaes. If you are a member of that organization and completed <strong>MOON3</strong> trilogy, you are considered to have completed a Major Objective for advancement in that group.</p>
   </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-grey-01-01</guid><title>CCC-GREY-01-01 - A Rat's Tale</title><description>a scroll, a spellbook, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-grey-01-01</link><pubDate>Tue, 16 Jul 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>A Rat's Tale</h1>
+  <h3>Convention Created Content  for Tier 1
+    <em class="release"> Released  on July 16, 2019</em>
+  </h3><p>When a collection of rare books disappears from a wealthy landlord’s vault, adventurers are dispatched to sleuth out the thief and bring the tomes back home. But perhaps some knowledge is better buried than claimed…</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>1 x 
+        <span>Spell Scroll of Heroism</span>
+        <em class="entry-label"> Common</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Spellbooks</h2>
+  <p>
+    <ul>
+      <li>
+        <strong>Ruminations on the Accomplishments of Humanity: </strong>charm person, comprehend languages, snare, hold person, and suggestion
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Fate of the Rat</summary><p>The Grey Rat didn’t survive his encounter with you. His story ends here.</p>
+  </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-bwm-04-01</guid><title>CCC-BWM-04-01 - Thralls of Zuggtmoy: The Myconic Nidus</title><description>Miir (Scimitar of Warning), a potion, and 4 other items</description><link>https://arbron.github.io/adventure-items/adventures/ccc-bwm-04-01</link><pubDate>Wed, 10 Jul 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>Thralls of Zuggtmoy: The Myconic Nidus</h1>
   <h3>Convention Created Content  for Tier 2
@@ -2603,37 +2629,4 @@
       </li>
     </ul>
   </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddep09-01</guid><title>DDEP09-01 - Infernal Pursuits</title><description>Helm of Telepathy, Mantle of Spell Resistance, Necklace of Adaptation, 2 story awards, and 16 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddep09-01</link><pubDate>Fri, 17 May 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Infernal Pursuits</h1>
-  <h3>Season 9 Epic for Tier 1
-    <em class="release"> Released  on May 17, 2019</em>
-  </h3><p>A horse race in Baldur’s Gate becomes a hellish battle on infernal war machines in Avernus when the characters get caught between two evil merchants…and must hang on for dear life.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Helm of Telepathy</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>
-        <span>Mantle of Spell Resistance</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>
-        <span>Necklace of Adaptation</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>16 x 
-        <span>Soul Coin</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Minted Soul</summary><p>A portion of your soul has been minted into a soul coin: part of the damnable currency of the Nine Hells. As the coin moves through the markets of the inferno, you feel an echo that affects your mind. At the start of every gaming session you participate in, roll a d6 to determine an effect for that game.</p><table><thead><tr><th>Rolled d6</th><th>Effect</th></tr></thead><tbody><tr><td>1–3</td><td>No effect</td></tr><tr><td>4</td><td>Your soul coin is spent wisely by its owner. You gain inspiration at the start of this session.</td></tr><tr><td>5</td><td>Your soul coin is spent foolishly by its owner. You can’t earn inspiration during this session.</td></tr><tr><td>6</td><td>Your soul coin is stolen from its owner. You can only spend inspiration to benefit other players during this session.</td></tr></tbody></table>
-  </details>
-  <details class="story-award">
-    <summary>Promised Soul</summary><p>Your soul has been promised to a devil of the Nine Hells. If you die, it claims your soul and subjects it to an eternity of torment. The only way you can be restored to life is via a wish or true resurrection spell, after which you can remove this award.</p>
-  </details>
 </section>]]></content:encoded></item></channel></rss>

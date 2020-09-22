@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Mon, 21 Sep 2020 13:58:36 -0700</lastBuildDate><pubDate>Mon, 21 Sep 2020 13:58:36 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-01</guid><title>DDAL10-01 - The Frozen North</title><description>Goggles of Night, 3 potions, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-01</link><pubDate>Fri, 16 Oct 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Mon, 21 Sep 2020 21:00:55 -0700</lastBuildDate><pubDate>Mon, 21 Sep 2020 21:00:55 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-01</guid><title>DDAL10-01 - The Frozen North</title><description>Goggles of Night, 3 potions, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-01</link><pubDate>Fri, 16 Oct 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>The Frozen North</h1>
   <h3>Season 10 Adventure for Tier 1
     <em class="release"> Released  on October 16, 2020</em>
@@ -216,6 +216,42 @@
   </details>
   <details class="story-award">
     <summary>Honorary Member of Clan Rumnaheim</summary><p>You are considered an honorary member of the Rumnaheim clan. On your interactions within the Earthspur Mines and Town you are considered a dwarf, even if you are of a different race. For better or for worse.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-eb-06</guid><title>DDAL-EB-06 - The Last Word</title><description>Ring of Evasion, Wand of Fear, Weapon, +1, a potion, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal-eb-06</link><pubDate>Tue, 2 Jun 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>The Last Word</h1>
+  <h3>Oracle of War Adventure for Tier 2
+    <em class="release"> Released  on June 2, 2020</em>
+  </h3><p>Guided by prophecy, the adventurers seek out a spy operating in the heart of Wroat’s Royal Court. The Oracle of War has linked him to a great turning point in Khorvaire’s future, but he’s embedded in deep cover and difficult to reach. Thankfully, every agent has a weak link, and love is blind.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Ring of Evasion</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>
+        <span>Wand of Fear</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>
+        <span>Weapon, +1</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Greater Healing</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Dark Lanterns Flicker</summary><p>Mercutia ir'Gontarli was assassinated during the ball. The city of Wroat is put on high alert as rumors swirl about who could be responsible. This event has repercussions later in the campaign.</p>
+  </details>
+  <details class="story-award">
+    <summary>Runaway Lovers</summary><p>You helped Orsino and Cesaria escape to build new lives for themselves. They are forever grateful for your assistance.</p><ul><li>Once only, during any adventure in the <em>Oracle of War</em> campaign, you can call on Orsino for assistance. You must have at least 8 hours free to contact him. Orsino's spy network can answer three questions for you, as per the <em>commune</em> spell. When you use this legacy event, all players in your group must remove it from their Adventure Records.</li></ul>
+  </details>
+  <details class="story-award">
+    <summary>Silver Torch Extinguished</summary><p>Oliviér ir'Volett was exposed during the ball as a spy and assassin and paid the ultimate price. As the authorities trace his steps, word spreads that the nation of Thrane could be responsible for the killing. This event has repercussions later in the campaign.</p>
   </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon6-1</guid><title>CCC-BMG-MOON6-1 - A Reopened Eye</title><description>Enduring Spellbook, Fey Cloak of Protection, a spellbook, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon6-1</link><pubDate>Sun, 3 May 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>A Reopened Eye</h1>
@@ -695,7 +731,7 @@
     <summary>Death is a Door</summary><p>You died defending Salvation from its enemies. Mysterious forces brought you back to life, but you don’t know who they were or how they wielded such powerful magic.</p>
   </details>
   <details class="story-award">
-    <summary>Fallen Titan</summary><p>The warforged colossus Big Moe was defeated. One of the salvage brokers, Irrulan Karnach, fled town just before the attack. Could she have been involved somehow?</p><p>If you’re interested in tailing Karnach you can invest 200gp after this adventure into tracking her down. You discover a lead that she’s headed to Sharn. If you visit Sharn in a future adventure, you can locate her for questioning.</p>
+    <summary>Fallen Titan</summary><p>The warforged colossus Big Moe was defeated. One of the salvage brokers, Irrulan Karnach, fled town just before the attack. Could she have been involved somehow?</p><ul><li>If you’re interested in tailing Karnach you can invest 200 gp after this adventure into tracking her down. You discover a lead that she’s headed to Sharn. If you visit Sharn in a future adventure, you can locate her for questioning.</li></ul>
   </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-tri-26-rose1-1</guid><title>CCC-TRI-26 ROSE1-1 - Touch the Stars</title><description>Shadowneedle (Unbreakable Arrow), Shoes of the Glacier Walker (Boots of Striding and Springing), a potion, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-tri-26-rose1-1</link><pubDate>Sun, 22 Mar 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>Touch the Stars</h1>
@@ -777,7 +813,7 @@
   <details class="story-award">
     <summary>Banned: Minauros</summary><p>Mammon’s baleful gaze is upon you. Perhaps you angered him directly, or perhaps your actions caused a disruption in his operations—whatever the case may be, he has elected to ban you from Minauros, the third layer of the Nine Hells, entirely. You can’t participate in further adventures in this place.</p><p>A character with this story award may visit other areas of the Nine Hells but has been banned from Minauros.</p>
   </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-eb-04</guid><title>DDAL-EB-04 - The Third Protocol</title><description>a potion and 3 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal-eb-04</link><pubDate>Sat, 29 Feb 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-eb-04</guid><title>DDAL-EB-04 - The Third Protocol</title><description>Circlet of Blasting, The Oracle Detector, a potion, 2 story awards, and 3 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal-eb-04</link><pubDate>Sat, 29 Feb 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>The Third Protocol</h1>
   <h3>Oracle of War Adventure for Tier 1
     <em class="release"> Released  on February 29, 2020</em>
@@ -785,6 +821,14 @@
   <h2>Items</h2>
   <p>
     <ul>
+      <li>
+        <span>Circlet of Blasting</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>
+        <span>The Oracle Detector</span>
+        <em class="entry-label"> Unique</em>
+      </li>
       <li>1 x 
         <span>Acid (vial)</span>
         <em class="entry-label"> Common</em>
@@ -803,6 +847,13 @@
       </li>
     </ul>
   </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Captured Assassin</summary><p>You captured Saal Dreastroke or some of his cronies alive. Now you must decide what to do with them.</p><ul><li>Turn them over to the Brelish authorities and gain 20 gp per captive.</li><li>Hold on to them in the hope that they could be useful. After each adventure that they remain in captivity, you must page 3 gp per captive on supplies.</li></ul>
+  </details>
+  <details class="story-award">
+    <summary>Still Alive</summary><p>Despite all the horrors you've seen, your friend Kalli (or the replacement you made for this character during <strong>DDAL-EB-01</strong> <em>The Night Land</em>) remains alive and on your side. What does she do next?</p><ul><li>Kalli heads to Morgrave University in Sharn to investigate the <em>Oracle of War</em>.</li><li>Kalli remains in Salvation and tries to set herself up as a salvage broker.</li></ul>
+  </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal00-12a</guid><title>DDAL00-12a - Bad Seed</title><description>a potion and one other item</description><link>https://arbron.github.io/adventure-items/adventures/ddal00-12a</link><pubDate>Wed, 19 Feb 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>Bad Seed</h1>
   <h3>Season Agnostic Adventure for Tier 1
@@ -951,6 +1002,95 @@
       <em class="entry-label"> Pet</em>
     </summary><p>You spared the life of an oblex spawn. As a token of appreciation, it separates a part of itself and places a thin translucent layer of star-shaped green goo on your forehead. Whenever you are in combat, the goo stretches and changes shape, becoming a horn. Whenever you die, its shape changes into a small, flat skull. You can remove this story award by casting <em>lesser restoration</em> on yourself.</p>
   </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-eb-03</guid><title>DDAL-EB-03 - Where the Dead Wait</title><description>Armblade, a scroll, 2 story awards, and 38 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal-eb-03</link><pubDate>Mon, 3 Feb 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>Where the Dead Wait</h1>
+  <h3>Oracle of War Adventure for Tier 1
+    <em class="release"> Released  on February 3, 2020</em>
+  </h3><p>On their way back to Salvation, the adventurers are ambushed by a large force of undead and forced to seek shelter in a ruined cottage. As the dead close in from all sides, the survivors turn to the Oracle of War for a lifeline. Only this time, things don’t play out as expected… The third adventure in the four-part <em>Spoils of War</em> storyline.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Armblade</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>2 x 
+        <span>Acid (vial)</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>1 x 
+        <span>Alchemist's fire (flask)</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>1 x 
+        <span>Ball bearings (bag of 1,000)</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>2 x 
+        <span>Caltrops (bag of 20)</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>2 x 
+        <span>Hunting trap</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>30 x 
+        <span>Silvered Crossbow Bolts</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of False Life</span>
+        <em class="entry-label"> Common</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Stolen Artifact</summary><p>A group of scavengers stole the <em>Oracle of War</em> from you. If you play <strong>DDAL-EB-04</strong> <em>The Third Protocol</em>, you start that adventure without the Oracle. You recover the artifact for Tiers 2–4.</p>
+  </details>
+  <details class="story-award">
+    <summary>Turned Traitor</summary><p>Your ally Kalli Alran (or the friend you created in <strong>DDAL-EB-01</strong> <em>The Night Land</em>) betrayed you to steal the <em>Oracle of War</em>. If they escaped alive, they may show up again in future adventures.</p><ul><li>If you appeal to your ally by writing an in-character letter of 300 words or more, and hand it in to your DM for approval before playing <strong>DDAL-EB-04</strong> <em>The Third Protocol</em>, your ally may have second thoughts…</li></ul>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal09-11</guid><title>DDAL09-11 - Losing Fai</title><description>Staff of Charming, 3 potions, 3 story awards, and 2 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal09-11</link><pubDate>Mon, 3 Feb 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>Losing Fai</h1>
+  <h3>Season 9 Adventure for Tier 2
+    <em class="release"> Released  on February 3, 2020</em>
+  </h3><p>Fai Chen has gone missing from Mahadi’s Traveling Emporium, and Fai Chen asks you to rescue him. You’ll have to do it without angering the master of the Emporium whose protection is crucial to your sacred mission. But in the Nine Hells, how much can you really trust someone you call friend?</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Staff of Charming</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Greater Healing</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Growth</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Poison</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>2 x 
+        <span>Soul Coin</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Fai-nal Purchase</summary><p>Fai Chen is dead, and you can no longer utilize his services. Other adventurers might claim to meet Fai Chen, but you know the truth. Every single Fai is super departed, it’s kind of your fault, and you won’t be trading items with him ever again…until you can pay for someone to cast raise dead on Fai and lose this story award. Spellcasting services their costs can be found in the <em>ALDMG</em>.</p>
+  </details>
+  <details class="story-award">
+    <summary>Immiass’s Favor</summary><p>You can expend this story award during a combat encounter with Sareash, a devil nicknamed Bloody Hooks, to summon a <strong>black abishai</strong> named Immiass to help you. Immiass stays until the end of the encounter or until reduced to 0 hit points, then disappears.</p>
+  </details>
+  <details class="story-award">
+    <summary>No Exceptions</summary><p>You’ve broken Mahadi’s only rules: “No fighting! No spellcasting! No exceptions!” By choosing to break the rules, you’ve been kicked out of Mahadi’s emporium. Now you must survive in the wastes without its safe shelter. You start any tier 2 Avernus Rising adventure at half hit points and with a level of exhaustion that can’t be removed.</p>
+  </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-tri-20-yul1-5</guid><title>CCC-TRI-20 YUL1-5 - Breaking Yûlash</title><description>Wand of Polymorph, 2 potions, 2 scrolls, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-tri-20-yul1-5</link><pubDate>Wed, 15 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>Breaking Yûlash</h1>
   <h3>Convention Created Content  for Tier 3
@@ -1011,6 +1151,42 @@
       </li>
     </ul>
   </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-eb-02</guid><title>DDAL-EB-02 - Voice in the Machine</title><description>Mithral Chain Mail, Rope of Climbing, 2 potions, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal-eb-02</link><pubDate>Mon, 6 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>Voice in the Machine</h1>
+  <h3>Oracle of War Adventure for Tier 1
+    <em class="release"> Released  on January 6, 2020</em>
+  </h3><p>The brokers of Salvation pay good coin for artifacts scavenged from the haunted battlefields of the Mournland. In this nest of cutthroats, daring explorers gather to carve their destinies from the ruins of Cyre. The adventurers head deep into the Mournland to rescue a missing salvage team. In the heat of battle, they unearth a strange device from the ruins: the Oracle of War. This machine knows all the secrets they need to overcome their enemies—if only the adventurers can figure out how to operate it! The second adventure in the four-part <em>Spoils of War</em> storyline.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Mithral Chain Mail</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>
+        <span>Rope of Climbing</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Clairvoyance</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Healing</span>
+        <em class="entry-label"> Common</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>A Friend Indeed</summary><p>You listened to Kalli Alran (or the NPC friend you created during <strong>DDAL-EB-01</strong> <em>The Night Land</em>) and went back to save her trapped comrade. At the end of this adventure, choose one of the following benefits:</p><ul><li>Your friend applies a temporary enhancement to your armor, granting you +1 AC for the duration of your next adventure.</li><li>Your friend gives you a <em>potion of healing</em>.</li></ul>
+  </details>
+  <details class="story-award">
+    <summary>Hard Call</summary><p>You angered Kalli Alran (or the NPC friend you created during <strong>DDAL-EB-01</strong> <em>The Night Land</em>) by not risking your life to save her trapped comrade. At the end of this adventure, each surviving member of the Gray Dogs—apart from your friend—slips you 5 gp as thanks.</p>
+  </details>
+  <details class="story-award">
+    <summary>White Rose</summary><p>You found a preserved white rose in the same marketplace that you found the <em>Oracle of War</em>.</p><ul><li>Tick this if you identified the rose. At the end of the adventure, you can spend 5 gp to identify it as a rare Orioth rose from the distant jungle of Dajar Orioth in the elven nation of Aerenal.</li></ul>
+  </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal09-08</guid><title>DDAL09-08 - In the Garden of Evil</title><description>Arrow-Catching Shield, a potion, 2 story awards, and 2 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal09-08</link><pubDate>Mon, 6 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>In the Garden of Evil</h1>
   <h3>Season 9 Adventure for Tier 2
@@ -2460,100 +2636,4 @@
   <details class="story-award">
     <summary>Promised Soul</summary><p>Your soul has been promised to a devil of the Nine Hells. If you die, it claims your soul and subjects it to an eternity of torment. The only way you can be restored to life is via a wish or true resurrection spell, after which you can remove this award.</p>
   </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-nbdd01-01</guid><title>CCC-NBDD01-01 - Clever</title><description>Portable Hole, 2 potions, and a spellbook</description><link>https://arbron.github.io/adventure-items/adventures/ccc-nbdd01-01</link><pubDate>Wed, 15 May 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Clever</h1>
-  <h3>Convention Created Content  for Tier 2
-    <em class="release"> Released  on May 15, 2019</em>
-  </h3><p>A strange new crime family has been growing and tightening its grips on local businesses. Any who refuse their offers are found dead shortly after, torn apart by claws and teeth. Who is behind this wave of organized crime?</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Portable Hole</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>2 x 
-        <span>Potion of Greater Healing</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Spellbooks</h2>
-  <p>
-    <ul>
-      <li>
-        <strong>Tyrant Lizard Transporter’s Spellbook: </strong>alarm, disguise self, illusory script, Tenser's floating disk, unseen servant, arcane lock, enlarge/reduce, levitate, rope trick, fly, gaseous form, nondetection, sending, fabricate, Leomund's secret chest, and telekinesis
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal08-16</guid><title>DDAL08-16 - Change of Address</title><description>Plate Armor of Etherealness, 2 potions, and 3 scrolls</description><link>https://arbron.github.io/adventure-items/adventures/ddal08-16</link><pubDate>Mon, 22 Apr 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Change of Address</h1>
-  <h3>Season 8 Adventure for Tier 4
-    <em class="release"> Released  on April 22, 2019</em>
-  </h3><p>The hand behind the Baron of Blood’s troubles is revealed, and he vows to make himself the worst kind of neighbor. Part One of the <em>Home Sweet Home</em> trilogy.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Plate Armor of Etherealness</span>
-        <em class="entry-label"> Legendary</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Giant Strength (Fire)</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Healing</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>3 x 
-        <span>Spell Scroll of Lesser Restoration</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal08-17</guid><title>DDAL08-17 - The Tower of Ahghairon</title><description>Cubic Gate, a spellbook, and 2 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal08-17</link><pubDate>Mon, 22 Apr 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>The Tower of Ahghairon</h1>
-  <h3>Season 8 Adventure for Tier 4
-    <em class="release"> Released  on April 22, 2019</em>
-  </h3><p>The Tower of Ahghairon has been sealed for years, but when the door opens at last, it’s an invitation to even more mystery within. Part Two of the <em>Home Sweet Home</em> trilogy.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Cubic Gate</span>
-        <em class="entry-label"> Legendary</em>
-      </li>
-      <li>2 x 
-        <span>Water from the Fountain (Potion of Healing)</span>
-        <em class="entry-label"> Common</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Spellbooks</h2>
-  <p>
-    <ul>
-      <li>
-        <strong>Planer Spellbook: </strong>contact other planes and demiplane
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal08-18</guid><title>DDAL08-18 - Moving Day</title><description>Rod of Resurrection and a potion</description><link>https://arbron.github.io/adventure-items/adventures/ddal08-18</link><pubDate>Mon, 22 Apr 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Moving Day</h1>
-  <h3>Season 8 Adventure for Tier 4
-    <em class="release"> Released  on April 22, 2019</em>
-  </h3><p>You must transport the Baron of Blood (sealed within his coffin) to his new home. Unfortunately, his new neighbors are not happy to see him move in, and the Mad Mage himself wants to throw him a housewarming party. Part Three of the <em>Home Sweet Home</em> trilogy.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Rod of Resurrection</span>
-        <em class="entry-label"> Legendary</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Healing</span>
-        <em class="entry-label"> Common</em>
-      </li>
-    </ul>
-  </p>
 </section>]]></content:encoded></item></channel></rss>

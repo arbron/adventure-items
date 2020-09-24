@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Tue, 22 Sep 2020 14:09:14 -0700</lastBuildDate><pubDate>Tue, 22 Sep 2020 14:09:14 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-01</guid><title>DDAL10-01 - The Frozen North</title><description>Goggles of Night, 3 potions, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-01</link><pubDate>Fri, 16 Oct 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Wed, 23 Sep 2020 17:35:00 -0700</lastBuildDate><pubDate>Wed, 23 Sep 2020 17:35:00 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-01</guid><title>DDAL10-01 - The Frozen North</title><description>Goggles of Night, 3 potions, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-01</link><pubDate>Fri, 16 Oct 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>The Frozen North</h1>
   <h3>Season 10 Adventure for Tier 1
     <em class="release"> Released  on October 16, 2020</em>
@@ -188,6 +188,137 @@
       </li>
     </ul>
   </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal09-18</guid><title>DDAL09-18 - Consequences of Choice</title><description>Oathbow, Ring of Warmth, 2 potions, 2 scrolls, 2 story awards, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/ddal09-18</link><pubDate>Mon, 20 Jul 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>Consequences of Choice</h1>
+  <h3>Season 9 Adventure for Tier 3
+    <em class="release"> Released  on July 20, 2020</em>
+  </h3><p>The soul of the commander of the Bloody Hooves has been spirited away by Zariel’s lieutenant, General Everbleed. The Bloody Hooves are in disarray and will not be the fighting force Dara had hoped without the iron will of their commander to direct them. To find them amidst the battlefields of Avernus, you are going to need help. Hopefully you have made some friends in the Nine Hells…</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Oathbow</span>
+        <em class="entry-label"> Very Rare</em>
+      </li>
+      <li>
+        <span>Ring of Warmth</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>2 x 
+        <span>Potion of Superior Healing</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Blade Barrier</span>
+        <em class="entry-label"> Very Rare</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Investiture of Wind</span>
+        <em class="entry-label"> Very Rare</em>
+      </li>
+      <li>1 x 
+        <span>Soul Coin</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Failed to Protect!</summary><p>Your efforts to improve the defenses of the Wandering Emporium were insufficient to keep everyone alive. (Circle appropriately.)</p><table><tbody><tr><td><strong>Fai Chen</strong></td><td>Alive</td><td>Dead</td></tr><tr><td><strong>Slagg</strong></td><td>Alive</td><td>Dead</td></tr><tr><td><strong>Elliach</strong></td><td>Alive</td><td>Dead</td></tr><tr><td><strong>Rassh</strong></td><td>Alive</td><td>Dead</td></tr><tr><td><strong>Fhet’Ahla</strong></td><td>Alive</td><td>Dead</td></tr><tr><td><strong>One-or-Two</strong></td><td>Alive</td><td>Dead</td></tr><tr><td><strong>Skids</strong></td><td>Alive</td><td>Dead</td></tr><tr><td><strong>Verwyyr*</strong></td><td>Alive</td><td>Dead</td></tr><tr><td><strong>Raskamedies*</strong></td><td>Alive</td><td>Dead</td></tr><tr><td><strong>Glanring Ironbelly*</strong></td><td>Alive</td><td>Dead</td></tr></tbody></table>
+  </details>
+  <details class="story-award">
+    <summary>You Let Dara Die!</summary><p>You failed to keep Dara alive during this adventure. This impacts her abilities when next you meet! How many times did she die? _______</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal09-19</guid><title>DDAL09-19 - Fang and Claw</title><description>Scarab of Protection, Shield, +2, a potion, a scroll, 4 story awards, and 5 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal09-19</link><pubDate>Mon, 20 Jul 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>Fang and Claw</h1>
+  <h3>Season 9 Adventure for Tier 4
+    <em class="release"> Released  on July 20, 2020</em>
+  </h3><p>Zariel’s Lieutenant General Everbleed has fled with Commander De La Reue’s soul, only to be captured by Yeenoghu’s brood preparing to rampage! Dara implores you to recover the commander, though his soul has been taken to a most unusual place. Part One of the <em>Red Hunt</em> series of adventures.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Scarab of Protection</span>
+        <em class="entry-label"> Legendary</em>
+      </li>
+      <li>
+        <span>Shield, +2</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Supreme Healing</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Meteor Swarm</span>
+        <em class="entry-label"> Legendary</em>
+      </li>
+      <li>5 x 
+        <span>Soul Coin</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Clever Torso</summary><p>You are carrying the armless, legless torso of a <strong>ghast</strong>—the infernal architect Khemed Rein. Khemed can talk and is desperate to escape the Nine Hells. If you fail a saving throw while carrying Khemed, you can choose to have the effect target him instead. This always destroys him, even if the effect deals no damage. If you leave the Nine Hells, you can return Khemed to his homeland and he is forever in your debt.</p>
+  </details>
+  <details class="story-award">
+    <summary>Ice Pact</summary><p>The <strong>ice devil</strong> General Everbleed is escorting you on your mission to recover the soul of Rotger de la Reue. You can control the fiend in combat, but the DM can take control of his actions at any time. If you leave the Nine Hells, the general’s debt of service is removed, and he leaves your side.</p>
+  </details>
+  <details class="story-award">
+    <summary>Lost Hope</summary><p>The name of the person whom you care for the most has been revealed to the demons of the Abyss, and you cannot shake the fear that they are being hunted. You gain an additional bond: “My actions have endangered my loved one.” At the end of every adventure you play, roll a d20. On a result of a 1, your fears come true as the demon prince Yeenoghu assassinates your loved one. The only way to remove this story award is to kill Yeenoghu.</p>
+  </details>
+  <details class="story-award">
+    <summary>You Let Dara Die</summary><p>You failed to keep Dara alive during this adventure. This impacts her abilities when next you meet! How many times did she die? _______</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal09-20</guid><title>DDAL09-20 - Where Devils Fear to Tread</title><description>Deathshield (Defender, Greatsword), Rod of the Pact Keeper, +2, 2 potions, a scroll, 4 story awards, and 3 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal09-20</link><pubDate>Mon, 20 Jul 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>Where Devils Fear to Tread</h1>
+  <h3>Season 9 Adventure for Tier 4
+    <em class="release"> Released  on July 20, 2020</em>
+  </h3><p>The Commander’s soul has been cast through the portal into the Death Dells. You must follow into the lair of Yeenoghu and rescue the Commander before the Beast of Butchery devours him! Part Two of the <em>Red Hunt</em> series of adventures.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Deathshield (Defender, Greatsword)</span>
+        <em class="entry-label"> Legendary</em>
+      </li>
+      <li>
+        <span>Rod of the Pact Keeper, +2</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Flying</span>
+        <em class="entry-label"> Very Rare</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Longevity</span>
+        <em class="entry-label"> Very Rare</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Gate</span>
+        <em class="entry-label"> Legendary</em>
+      </li>
+      <li>3 x 
+        <span>Soul Coin</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Birth of a Demon Prince</summary><p>Against all advice and sanity, you have consumed the essence of the Demon Prince Yeenoghu on his home plane: the 422nd layer of the Abyss. Raw chaos and incarnate evil flows through your body, warping it into the monster that your nightmares feared might dwell within. As you change, the layer responds to suit your whims, twisting with newfound corruption. You are forever retired from D&amp;D Adventurers League play and you cannot be returned by any means. This character’s story has ended for you, but your friends have gained a powerful new enemy who knows them all too well.</p>
+  </details>
+  <details class="story-award">
+    <summary>Enemy of Elisande</summary><p>You have attempted to solve a problem with Elisande by using violence against her. The Chosen of Cyric will not forget.</p>
+  </details>
+  <details class="story-award">
+    <summary>Thanks of Ilmater</summary><p>You have worked the will of the gods of light to maintain the balance of the Blood War. If you are 20th level (or upon achieving 20th level) you may select the <em>boon of immortality</em> or the <em>boon of planar travel</em> from the <em>Dungeon Master’s Guide</em>. If you select the <em>boon of planar travel</em>, it takes you to the Brightwater: the realm of Ilmater and Sune in the Seven Heavens of Celestia.</p>
+  </details>
+  <details class="story-award">
+    <summary>Tipping the Balance</summary><p>You have drastically altered the balance of the Blood War, potentially bringing about the end of reality. All devils bare you a grudge and you make all Charisma checks against fiends at disadvantage. In addition, they no longer answer your call. All spells or abilities that summon a devil automatically fail.</p>
+  </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-odfc03-03</guid><title>CCC-ODFC03-03 - The Cause of All Life's Problems</title><description>Figurine of Wondrous Power (Marble Elephant), Tankard of Sobriety, a scroll, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-odfc03-03</link><pubDate>Sun, 19 Jul 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>The Cause of All Life's Problems</h1>
   <h3>Convention Created Content  for Tier 3
@@ -1186,6 +1317,54 @@
       <li>1 x 
         <span>Spell Scroll of Plane Shift</span>
         <em class="entry-label"> Very Rare</em>
+      </li>
+    </ul>
+  </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-kumori-03-02</guid><title>CCC-KUMORI-03-02 - The Millwright of Gond</title><description>2 potions, a story award, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/ccc-kumori-03-02</link><pubDate>Tue, 14 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>The Millwright of Gond</h1>
+  <h3>Convention Created Content  for Tier 1
+    <em class="release"> Released  on January 14, 2020</em>
+  </h3><p>Seburil, rock gnome priestess of Gond, has ordered his followers to harvest trees in the Quivering Forest. This has caused conflict with Avumat, verdant lord of the Circle of the Forest. The adventurers must intercede and negotiate a peace between the two factions.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>1 x 
+        <span>Dust of Disappearance</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>2 x 
+        <span>Potion of Healing</span>
+        <em class="entry-label"> Common</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Heroes of the Quivering Forest</summary><p>You stand amongst the trees of the Quivering Forest; the rustling of leaves is peaceful, soothing. Birds cheerily sing, sunbeams dapple your skin, and a cool breeze tickles your ears.</p><p>With the Quivering Forest’s current tranquility it might be easy to forget the recent conflicts, destruction, and chaos. If the woods here do have any awareness, its presence seems to be one of contentment and gratitude for your assistance in bringing natural order back to the land.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-kumori-03-03</guid><title>CCC-KUMORI-03-03 - Scales of Justice</title><description>Helm of Comprehending Languages, Horn of Silent Alarm, a potion, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-kumori-03-03</link><pubDate>Mon, 13 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>Scales of Justice</h1>
+  <h3>Convention Created Content  for Tier 1
+    <em class="release"> Released  on January 13, 2020</em>
+  </h3><p>Lyrezix the Gleaming has watched over the village of Volla for thirteen generations. When she fails to show up for a festival in her honor, the townspeople grow worried. It’s up to a hearty band of adventurers to discover what happened to their beloved dragon.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Helm of Comprehending Languages</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>
+        <span>Horn of Silent Alarm</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Growth</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Fog Cloud</span>
+        <em class="entry-label"> Common</em>
       </li>
     </ul>
   </p>
@@ -2545,114 +2724,6 @@
     <ul>
       <li>
         <strong>Giant Spellbook: </strong>thunder step, investiture of stone, and whirlwind
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-tri-29-tide1-1</guid><title>CCC-TRI-29 TIDE1-1 - Tidefall</title><description>Dagger, +3 and a potion</description><link>https://arbron.github.io/adventure-items/adventures/ccc-tri-29-tide1-1</link><pubDate>Mon, 27 May 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Tidefall</h1>
-  <h3>Convention Created Content  for Tier 3
-    <em class="release"> Released  by The Role Initiative on May 27, 2019</em>
-  </h3><p>Though the Elemental Cults failed in the Dessarin Valley and in Mulmaster, fragments of their primordial cults still seek to destroy civilization. An unlikely contact alerts the heroes to impending ruin in the city of Phlan. Will the heroes be able to follow the ravings of a mad man to stop this scheme, or will even more catastrophe be visited upon the City of Phlan?</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Dagger, +3</span>
-        <em class="entry-label"> Very Rare</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Heroism</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-tri-30-steel1-1</guid><title>CCC-TRI-30 STEEL1-1 - Remnants of a Dream</title><description>Cloak of Many Fashions, a spellbook, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-tri-30-steel1-1</link><pubDate>Mon, 27 May 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Remnants of a Dream</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  by The Role Initiative on May 27, 2019</em>
-  </h3><p>Heroes of the Realms have risen to stand against several recent events. The schemes of foul villains would have caused catastrophe across the lands of Faerûn, had they not been thwarted. And although they were indeed thwarted…there were those who escaped justice. Some of these remnants still scheme, still desire to make their dreams of destruction reality. It is time for new heroes to rise… Part One of the <em>Fire and Steel Resurgent</em> series.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Cloak of Many Fashions</span>
-        <em class="entry-label"> Common</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Spellbooks</h2>
-  <p>
-    <ul>
-      <li>
-        <strong>Traveling Spellbook: </strong>absorb elements, burning hands, ice knife, and continual flame
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Busted!</summary><p>A member of your party swiped something from the warehouse you were supposed to guard. The magistrate found that you were all culpable for the theft. Any payment for services rendered were reclaimed and the group of you were thrown in jail.</p><p>Additionally, you now have a criminal record in Hillsfar. This may work to your disadvantage in the future.</p>
-  </details>
-  <details class="story-award">
-    <summary>“My Hewo! Have a cookie!”</summary><p>Katia, the young girl you rescued from the cultists now considers you her hero and her “bestest friend.” Whenever you enter the docks of Hillsfar, there is a 50% chance that the 5-year old will bound up to you, and exclaim that “You! You my hewo! Have cookie?” and offer you one of her gingerbread cookies.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-tri-31-time1-1</guid><title>CCC-TRI-31 TIME1-1 - Out of Time</title><description>Dimensional Shackles, a scroll, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-tri-31-time1-1</link><pubDate>Mon, 27 May 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Out of Time</h1>
-  <h3>Convention Created Content  for Tier 2
-    <em class="release"> Released  by The Role Initiative on May 27, 2019</em>
-  </h3><p>Years ago, a young wizard looked out over the walls of his city and saw a vision in the winds—a vision of fire, conquest and glory. Now, his hour of destiny is at hand, and it may well spell disaster for the world. Can he be stopped before it’s too late?</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Dimensional Shackles</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>1 x 
-        <span>Spell Scroll of Stone Shape</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Emnity of the Stouthammers</summary><p>There may have been extenuating circumstances, but your part in the death of the Stouthammer garrison has earned you the enmity of their clan. You are not welcome at the Everforge, and any Stouthammer dwarf you meet will consider you a foe.</p>
-  </details>
-  <details class="story-award">
-    <summary>Friends in Hot Places</summary><p>Your actions today have earned you the gratitude of a very powerful creature. Should you ever find yourself back on the Elemental Plane of Fire and visiting the City of Brass, you will be welcomed as a friend.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-tri-32-daggr1-1</guid><title>CCC-TRI-32 DAGGR1-1 - Casks and Caskets</title><description>Amulet of Proof Against Detection and Location, 3 potions, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-tri-32-daggr1-1</link><pubDate>Mon, 27 May 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Casks and Caskets</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  by The Role Initiative on May 27, 2019</em>
-  </h3><p>The refugees of the Zhentarim Ghetto of Mulmaster have been abandoned by the city and its Thayan supporters. Work is hard to find, and even harder to accomplish as the everburning fires in the Ghetto continue unabated. It was inevitable that unrest in the Ghetto would grow, finally drawing the attention of the powers that be. Part One of the <em>Daggers of Lathander</em> series.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Amulet of Proof Against Detection and Location</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>3 x 
-        <span>Potion of Healing</span>
-        <em class="entry-label"> Common</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Known to the Daggers</summary><p>A member of the Daggers has seen your face and lived to report it to the rest of his band. They will be on the lookout for you in the future.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-tri-33-daggr1-2</guid><title>CCC-TRI-33 DAGGR1-2 - Matters of Life and Death</title><description>Ring of Mind Shielding</description><link>https://arbron.github.io/adventure-items/adventures/ccc-tri-33-daggr1-2</link><pubDate>Mon, 27 May 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Matters of Life and Death</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  by The Role Initiative on May 27, 2019</em>
-  </h3><p>A known gang from the refugee ghetto of Mulmaster wishes to make a statement at an important function at the Thayan Embassy. A murder mystery investigation is needed to catch this culprit, or the delicate peace between the city and its Thayan supporters could be shattered! Part Two of the <em>Daggers of Lathander</em> series.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Ring of Mind Shielding</span>
-        <em class="entry-label"> Uncommon</em>
       </li>
     </ul>
   </p>

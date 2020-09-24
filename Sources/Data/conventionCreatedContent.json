@@ -5827,38 +5827,212 @@
     {
         "code": "CCC-JGD-01",
         "name": "Left Black & Blue",
-        "description": "",
-        "incomplete": true
+        "description": "With Red Wizards and fouler things about, a power struggle among forgotten foes draws adventurers into peril.",
+        "released": "2018-12-29",
+        "url": "https://www.dmsguild.com/product/262311/Left-Black-and-Blue-A-Red-War-Story",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Stone Plate, +2",
+                "rarity": "veryRare"
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Kyros’s Spellbook",
+                "spells": [
+                    { "name": "fire bolt", "level": 0 },
+                    { "name": "light", "level": 0 },
+                    { "name": "mage hand", "level": 0 },
+                    { "name": "prestidigitation", "level": 0 },
+                    { "name": "shocking grasp", "level": 0 },
+                    { "name": "detect magic", "level": 1 },
+                    { "name": "identify", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "detect thoughts", "level": 2 },
+                    { "name": "mirror image", "level": 2 },
+                    { "name": "misty step", "level": 2 },
+                    { "name": "counterspell", "level": 3 },
+                    { "name": "fly", "level": 3 },
+                    { "name": "lightning bolt", "level": 3 },
+                    { "name": "banishment", "level": 4 },
+                    { "name": "fire shield", "level": 4 },
+                    { "name": "stoneskin", "level": 4 },
+                    { "name": "cone of cold", "level": 5 },
+                    { "name": "scrying", "level": 5 },
+                    { "name": "wall of force", "level": 5 },
+                    { "name": "globe of invulnerability", "level": 6 },
+                    { "name": "teleport", "level": 7 },
+                    { "name": "mind blank", "level": 8 },
+                    { "name": "gate", "level": 9 },
+                    { "name": "time stop", "level": 9 }
+                ]
+            }
+        ]
     },
     {
         "code": "CCC-KUMORI-01-01",
         "name": "Wreckers",
-        "description": "",
-        "incomplete": true
+        "description": "Cargo ships are being dashed against the rocks west of Hulburg, lured off course by a mysterious light. Is this the work of ordinary thieves, or are more nefarious forces at work?",
+        "released": "2017-11-20",
+        "url": "https://www.dmsguild.com/product/226912/CCCKUMORI0101--Wreckers",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Gem of Brightness",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Lesser Restoration",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-KUMORI-01-02",
         "name": "Wretches",
-        "description": "",
-        "incomplete": true
+        "description": "Accused of impersonation and kidnapping, a pair of old sisters have found refuge in Abermoor. In their wake, they have left a trail of blood, and are pursued by a bounty hunter. Hired for their expertise, the adventurers have joined the pursuit.",
+        "released": "2017-11-20",
+        "url": "https://www.dmsguild.com/product/226911/CCCKUMORI0102-Wretches",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Robe of Useful Items",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Fire Breath",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Knock",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Crespo’s Ire",
+                "description": "You have made an enemy of Crespo Thero. Though his memory is longer than his reach, it will behoove you to keep an eye over your shoulder if you plan on staying near the Moonsea."
+            }
+        ]
+    },
+    {
+        "code": "CCC-KUMORI-02-01",
+        "name": "Vacant",
+        "description": "Torrential rains and blustering winds drive the party into a cursed hamlet, resting in the eye of the storm. A mesmerizing void, mutated creatures, and the very ground could swallow the party, forever trapping them—unless they can escape.",
+        "released": "2019-01-22",
+        "url": "https://www.dmsguild.com/product/264732/CCCKUMORI0201-Vacant",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Heward’s Handy Spice Pouch",
+                "rarity": "common"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "TPVoid",
+                "description": "Your entire party was swallowed by the void and born again from it.\n\n- No matter how often you bathe, your body smells of damp earth and heavy rains.\n- For every time the entire party was swallowed by the void, you lost **1d4 months** of time. You had been trapped by the thorp and relived life, again and again, storm after storm, until your escape."
+            }
+        ]
     },
     {
         "code": "CCC-KUMORI-02-02",
         "name": "School Magic",
-        "description": "",
+        "description": "In the Border Forest, north of the Teshwave, the Vorisch family of Phlan has built the Moonsea School for Homeless Children. A haven and home for the displaced and orphaned of the Moonsea. However, strange events threaten to close the school. Can you find the cause, and aid the school?",
+        "released": "2018-12-18",
+        "url": "https://www.dmsguild.com/product/261266/CCCKUMORI0202-School-Magic",
+        "tier": [1],
         "incomplete": true
     },
     {
         "code": "CCC-KUMORI-02-04",
         "name": "To Be the Very Best",
-        "description": "",
+        "description": "Festival bells cut loud through the air! Adventurers are gathering to celebrate the Wild Monster Capture Festival. Tame wild monsters, team up with them in honorable combat, and you could win not only gold, but fame and renown! The spirit of the festival is about to get disrupted, however, and you must prepare for trouble…",
+        "released": "2018-11-26",
+        "url": "https://www.dmsguild.com/product/259775/CCCKUMORI0204-To-Be-the-Very-Best",
+        "tier": [1],
         "incomplete": true
     },
     {
         "code": "CCC-KUMORI-03-01",
-        "name": "",
-        "description": "",
+        "name": "Protégé of the Trampling Forest",
+        "description": "Rather than the adventurers traveling through a forest, an entire forest thunders toward them, running on its roots, trampling everything in its path. They receive transformative help, but it’s up to the party to get past frightened forest creatures and frightening constructs, to the heart of the problem. Can they stop the protégé of the trampling forest?",
+        "released": "2020-04-05",
+        "url": "https://www.dmsguild.com/product/308848/CCCKUMORI0301-Protege-of-the-Trampling-Forest",
+        "tier": [1],
         "incomplete": true
+    },
+    {
+        "code": "CCC-KUMORI-03-02",
+        "name": "The Millwright of Gond",
+        "description": "Seburil, rock gnome priestess of Gond, has ordered his followers to harvest trees in the Quivering Forest. This has caused conflict with Avumat, verdant lord of the Circle of the Forest. The adventurers must intercede and negotiate a peace between the two factions.",
+        "released": "2020-01-15",
+        "url": "https://www.dmsguild.com/product/299370/CCCKUMORI0302-The-Millwright-of-Gond-A-Quivering-Forest-Adventure",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Dust of Disappearance",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Heroes of the Quivering Forest",
+                "description": "You stand amongst the trees of the Quivering Forest; the rustling of leaves is peaceful, soothing. Birds cheerily sing, sunbeams dapple your skin, and a cool breeze tickles your ears.\n\n With the Quivering Forest’s current tranquility it might be easy to forget the recent conflicts, destruction, and chaos. If the woods here do have any awareness, its presence seems to be one of contentment and gratitude for your assistance in bringing natural order back to the land."
+            }
+        ]
+    },
+    {
+        "code": "CCC-KUMORI-03-03",
+        "name": "Scales of Justice",
+        "description": "Lyrezix the Gleaming has watched over the village of Volla for thirteen generations. When she fails to show up for a festival in her honor, the townspeople grow worried. It’s up to a hearty band of adventurers to discover what happened to their beloved dragon.",
+        "released": "2020-01-14",
+        "url": "https://www.dmsguild.com/product/299369/CCCKUMORI0303-Scales-of-Justice-A-Moonsea-Adventure",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Helm of Comprehending Languages",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Horn of Silent Alarm",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Growth",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Fog Cloud",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-LINKS-01",

@@ -150,6 +150,7 @@
         "name": "What Lies Beneath",
         "description": "The SALT Consortium has been unable to protect Zor Celis Helrehd’s caravans traveling through Hawksroost as more of them go missing each day. Zor Celis Helrehd has had enough and has taken out a bounty for adventurers to find out What Lies Beneath.",
         "released": "2018-11-13",
+        "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/257958/CCCALMOG01-TALES0101-What-Lies-Beneath",
         "tier": [1],
         "incomplete": true
@@ -159,8 +160,19 @@
         "name": "Claws of Fury",
         "description": "The frontier city of Hawksroost has seen a lot in the past few weeks, but the claims that the people have seen a skeleton dragon flying overhead at dusk are unsubstantiated. The hunt for the rumored creature is on, but is the creature what the people claim it is? Or is something else getting the people of Hawksroost all worked up?",
         "released": "2018-08-17",
+        "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/250115/CCCALMOG03-TALES0301-Claws-of-Fury",
         "tier": [3],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ALMOG-20 TALES01-04",
+        "name": "Jaunt to the Center of Faerûn",
+        "description": "A gnomish scientist working on rapid travel to the Underdark has disappeared after contacting some unknown civilization. How will you rescue this gnome before his new “friends” come crawling out of the Underdark?",
+        "released": "2019-11-23",
+        "creator": "Mount Ogden Gaming Company",
+        "url": "https://www.dmsguild.com/product/284810/Jaunt-to-the-Center-of-Faerun",
+        "tier": [1],
         "incomplete": true
     },
     {
@@ -186,6 +198,7 @@
         "name": "How the Prison Was Fed",
         "description": "A book found in the warden’s office gives clues on how to traverse the prison and how those that lived there were able to survive. Are there still survivors hidden in the Prison?",
         "released": "2019-09-05",
+        "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/284813/How-the-Prison-was-Fed",
         "tier": [1],
         "items": [
@@ -216,6 +229,7 @@
         "name": "Shadowed Bellview",
         "description": "Some things are best left to rot in their forgotten temples. Even in the isolated village of Bellview, common folk suffers the consequences of a treasure hunter’s greed. Part One of *The Jade Curse*.",
         "released": "2019-08-14",
+        "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/284824/Shadowed-Bellview",
         "tier": [1],
         "items": [
@@ -252,6 +266,7 @@
         "name": "Cove of Fallen Souls",
         "description": "When a demon lord rises beneath the town of Bellview, adventurers must delve through lost sea caves and depths unknown to track this monster’s descent. Will they arrive in time to save its latest victims or be consumed by the Lord of the Deep himself? Part Two of *The Jade Curse*.",
         "released": "2019-08-04",
+        "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/284815/Cove-of-Fallen-Souls",
         "tier": [1],
         "items": [
@@ -270,6 +285,7 @@
         "name": "The Drowning Woods",
         "description": "When Dagon’s Curse falls over an island in the Moonsea, his influence threatens to stretch far beyond its shores and engulf the world beyond. Will you be able to stop its spread in time, or will Faerûn become the newest layer of the Abyss?",
         "released": "2019-08-04",
+        "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/284826/The-Drowning-Woods",
         "tier": [1],
         "incomplete": true
@@ -435,6 +451,7 @@
         "name": "Legend of the Sword Bandit Surprise",
         "description": "A priest of Ilmater seeks to right an old wrong to please his god. Will you trust the whims of hags and journey through time to find out what when wrong during the Festival of Stars?",
         "released": "2018-03-13",
+        "creator": "Mount Ogden Gaming Company",
         "tier": [1],
         "items": [
             {
@@ -460,6 +477,7 @@
         "name": "Let's Find the Sword, GO!",
         "description": "After learning that Daern’s Blade, a relic that had protected the town of Hawksroost, vanished centuries ago, Sorrim requires assistance in locating it. An old halfling adventurer has learned rumors of the blade hidden within the Vanishing Hills. These same rumors also say that it may be guarded by something ancient. With the Festival of the Stars only a few days out, can the blade be found and returned in time?",
         "released": "2018-03-13",
+        "creator": "Mount Ogden Gaming Company",
         "tier": [2],
         "items": [
             {
@@ -491,6 +509,7 @@
         "name": "Star Sword, Return!",
         "description": "With less than two days until the Festival of Stars in Hawksroost, Daern's Blade is still missing, but the adventurers are en route to its resting place. Are they truly prepared for what they find?",
         "released": "2018-03-13",
+        "creator": "Mount Ogden Gaming Company",
         "tier": [2],
         "items": [
             {
@@ -4341,7 +4360,7 @@
     {
         "code": "CCC-GEL-01",
         "name": "Bedlam at the Benefit",
-        "description": "Some heroes raid dungesons. Some heroes slay dragons. And some heroes raise money for children’s hospitals. Everything is going splendidly for the fundraising gala at the Moonsea Children’s Hospital—until an uninvited guest and his aberrant entourage crash the party!",
+        "description": "Some heroes raid dungesons. Some heroes slay dragons. And some heroes raise money for children’s hospitals. Everything is going splendidly for the fundraising gala at the Moonsea Children’s Hospital—until an uninvited guest and his aberrant entourage crash the party! Part Two of the *Elua's Lighthouse* adventures.",
         "released": "2018-03-16",
         "url": "https://www.dmsguild.com/product/237193/CCCGEL01-Bedlam-at-the-Benefit",
         "tier": [1],
@@ -5621,6 +5640,33 @@
         ]
     },
     {
+        "code": "CCC-HAL-04",
+        "name": "Flight of the Centaurs",
+        "description": "A corrupted centaur has been sighted near the reclusive village of Jarko’tu’ta. Having traded with a Cormanthor centaur tribe, the villagers are concerned that something terrible has happened to them. Is there still time to save the centaurs or is it already too late?!",
+        "released": "2020-09-24",
+        "url": "https://www.dmsguild.com/product/324013/Flight-of-the-Centaurs-CCCHAL04",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-HAL-05",
+        "name": "House of Blades",
+        "description": "Zim Von Zeam—of ZVZ Caravans—has spent his life braving the lawless lands of Thar with his caravans. Now, life has gifted him with a new opportunity – establishing a trade route from Melvaunt to nothing less than an Underdark city. Does he have what it takes to deal with the treacherous drow? Zim’s ambition is an adventuring opportunity like no other. Can you prove yourselves worthy in a test of combat prowess against elite drow troops and their cunning commander?",
+        "released": "2020-09-24",
+        "url": "https://www.dmsguild.com/product/323804/House-of-Blades-CCCHAL05",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-HAL-06",
+        "name": "House of Silent Tides",
+        "description": "The body of a strange elf is discovered on the shores of Moonsea. Efforts to identify its origin lead to a sea bound expedition to the home of the sea elves. Elsewhere, an ambitious merchant sets upon the deadly task of establishing a trade route to nothing less than an Underdark city. His journey is destined to take him across the subterranean Moondeep Sea aboard a drow ship. Where the two seas meet, secrets hide and adventure begins.",
+        "released": "2020-09-24",
+        "url": "https://www.dmsguild.com/product/323807/House-of-Silent-Tides-CCCHAL06",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
         "code": "CCC-HATMS-01-01",
         "name": "Threatening Tides",
         "description": "On the eve of Shieldmeet, the sunken Isle of Maos rises from the depths of the Moonsea, only to return to the water with the rising of the sun. But this year, the island does not sink beneath the waves, and destruction follows in its wake. A drunkard named Will Brightsong is somehow connected, and the adventurers must keep him alive long enough to find out why! Part One of *The Song of Maos*.",
@@ -6037,80 +6083,561 @@
     {
         "code": "CCC-LINKS-01",
         "name": "Champion of the People",
-        "description": "",
-        "incomplete": true
+        "description": "A persistent ghost has been spotted in Phlan, flitting from building to building. The residents say that it stands in front of the Laughing Goblin every night, eyes wide and full of terror. If approached, it screams and disappears. In the wake of the town’s re-opening and the retreat of the thick winter fogs, peace must be returned before people leave for good.",
+        "released": "2017-08-10",
+        "url": "https://www.dmsguild.com/product/218722/CCCLINKS01-Champion-of-the-People",
+        "tier": [2],
+        "items": [
+            {
+                "name": "“Fat” Markoth’s Cummerbund (Belt of Hill Giant Strength)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Scroll of Protection (Undead)",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Enmity",
+                "description": "You have earned the enmity of an influential person in Phlan. Select from the following list:\n\n- Calypso\n- Marigold Butterleaf\n- Bitter-Blossom\n- Rooster Cinderelm\n- Regis Brightgem\n\n You have disadvantage on social checks with the noted person until you find a way to remove this story award."
+            },
+            {
+                "name": "Friend of Phlan",
+                "description": "You have performed a significant service for Phlan—and for Calypso, the new regent. She has marked you as an ally of the guard so long as you openly wear the pendant. This grants you advantage on social and investigation checks made in the presence of the town guard."
+            },
+            {
+                "name": "Reviled in Phlan",
+                "description": "If a character is unable or unwilling to pay the fine, Calypso makes it well known that they are not welcome in the city any longer. They must serve 30 days of hard time (downtime days; the character does not have to pay living expenses but can perform no other downtime activities during this time) before they are allowed to enter Phlan again. Furthermore, all social checks with Calypso, residents of Phlan, and city guards in any city in the Moonsea region are made at disadvantage until this story award is removed. Paying the 30 days of hard time does not remove this story award, but it does allow the character to re-enter the town."
+            }
+        ]
     },
     {
         "code": "CCC-LINKS-02",
         "name": "The Secrets We Keep",
-        "description": "",
-        "incomplete": true
+        "description": "As winter releases its grip on the region surrounding the town of Phlan, secrets are revealed within Glumpen Swamp. Strange landscapes and sigils have been found beneath the mud, and the wildlife around the swamp has become greatly agitated. At times a spectral figure can be seen in the distance, only to disappear upon approach. Can you discover what is happening in the muck and gloom?",
+        "released": "2017-08-13",
+        "url": "https://www.dmsguild.com/product/218925/CCCLINKS02-The-Secrets-We-Keep",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Raptor (Dancing Sword, Rapier)",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Heroism",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Dream",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Arcane Aid in Phlan",
+                "description": "You have freed Fulton Stormweather, an elf wizard that now resides in Phlan. You can spend two downtime days to travel to him and convince him to cast *legend lore* for you on an object. He can also provide the *identify* spell for free, but only once as his time in the feywild is preventing him from accessing the Weave as he once did."
+            },
+            {
+                "name": "Ire of Bootblack",
+                "description": "Bootblack is a powerful fey creature, and has taken notice of your abilities—and your inability to adhere to an agreement."
+            }
+        ]
     },
     {
         "code": "CCC-MACE-01",
         "name": "The Blight of Geoffrey",
-        "description": "",
-        "incomplete": true
+        "description": "Lord Geoffrey of the Smiths’ holdings has been struck by misfortune. He seeks adventurers to resolve issues at one of his farms, in his iron mine, and at his beloved inn. Can the party help Geoffrey and prevent him from losing his seat on the Merchant Council of Hulburg?",
+        "released": "2018-04-04",
+        "creator": "Mount Ogden Gaming Company",
+        "url": "https://www.dmsguild.com/product/238812/CCCMACE0101-The-Blight-of-Geoffrey",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Pipes of Haunting",
+                "rarity": "uncommon"
+            }
+        ]
     },
     {
         "code": "CCC-MACE-02",
         "name": "A Panther's Peril",
-        "description": "",
-        "incomplete": true
+        "description": "Lord Geoffrey of the Smiths has learned that a former comrade and fellow adventurer has taken his family heirloom and believes that this is the reason for his recent string of misfortune. He seeks adventurers to track down the Winged Panther and recover what was lost in order to break his supposed curse. Can the party track down this elusive thief and convince her return that which was taken?",
+        "released": "2018-04-04",
+        "creator": "Mount Ogden Gaming Company",
+        "url": "https://www.dmsguild.com/product/238814/CCCMACE0102-A-Panthers-Peril",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Javelin of Lightning",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Giant Strength (Hill)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Poison",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-MACE-03",
         "name": "Haunted Memories",
-        "description": "",
-        "incomplete": true
+        "description": "The search for Geoffrey’s family mace leads you to a meeting with a famous thief. In exchange for the information, she asks you to find a painting called Dawnsight. An easy task if you can withstand the haunted memories surrounding the painting.",
+        "released": "2018-06-18",
+        "creator": "Mount Ogden Gaming Company",
+        "url": "https://www.dmsguild.com/product/244858/CCCMACE0103-Haunted-Memories",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Longsword of Vengeance",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Antitoxin (vial)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Cure Wounds",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Heroism",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Art Curator",
+                "description": "You have taken the Dawnsight as you did not return to the Winged Panther on time. In several days you go to look at the painting and it is missing. A note remains where the painting was. It reads: *“Thank you so much for helping my family. Sadly I really need this painting more than you. Safe travels dear friend. -P”*"
+            }
+        ]
+    },
+    {
+        "code": "CCC-MALTH-01",
+        "name": "Selûne's Tear",
+        "description": "The town of Elmwood is being ravaged by a devastating plague. The town’s Constable pleads for help in finding the cause and a cure from any adventurers brave enough, or reckless enough to risk infection. Part One of *A Twisted Harvest*.",
+        "released": "2019-12-16",
+        "url": "https://www.dmsguild.com/product/297167/Selunes-Tear",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Lantern of Revealing",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "We are Indebted to You",
+                "description": "You discovered the cause of the plague and a cure. The Constable awards each member of the party a scroll granting him or her free room and board in any Elmwood establishment."
+            }
+        ]
+    },
+    {
+        "code": "CCC-MALTH-02",
+        "name": "The Jackal's Justice",
+        "description": "The town of Elmwood has seen its share of tragedy, and somehow, things keep getting worse. While the town recovers from a devastating plague, the constable informs adventurers that the bodies of the dead have been disappearing. She believes the disappearances may be tied to a young woman known as the Jackal. If the Jackal is behind the disappearances, what does she want with Elmwood’s dead? The constable tasks adventurers with finding an answer to this question, and if necessary, with stopping the Jackal. Part Two of *A Twisted Harvest*.",
+        "released": "2019-12-16",
+        "url": "https://www.dmsguild.com/product/297173/The-Jackals-Justice",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Instrument of the Bards (Doss Lute)",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Jackal’s Enmity",
+                "description": "You defeated The Jackal and her undead army, and forced her to abandon her lair. She does not suffer the humiliation well, and considers the adventurers enemies during all future meetings. Any character receiving this story award has disadvantage on all Charisma checks against The Jackal."
+            }
+        ]
+    },
+    {
+        "code": "CCC-MALTH-03",
+        "name": "Fire's Demise",
+        "description": "The Cult of the Eternal Flame is planning to detonate another devastation orb in the town of Elmwood. Can a party of adventurers find their stronghold in the Flooded Forest and stop them before Elmwood becomes a town populated solely by the dead? Part Three of *A Twisted Harvest*.",
+        "released": "2019-12-16",
+        "url": "https://www.dmsguild.com/product/297176/Fires-Demise",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Necklace of Fireballs",
+                "rarity": "rare"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Protector of the People",
+                "description": "You stopped the Cult of the Eternal Flame from destroying Elmwood. The citizens show their overwhelming gratitude by bestowing a silver medal bearing Elmwood’s crest, a phoenix rising from the ashes, on each party member. The medal proclaims the wearer is a **Protector of the People**."
+            }
+        ]
     },
     {
         "code": "CCC-MCX-01",
         "name": "All in a Day's Work",
-        "description": "",
-        "incomplete": true
+        "description": "The Mordell family has been on the decline for years. The family has reached out to their contacts one last time for help ridding the family of a generational curse. This is an adventure with four story arcs through a single dungeon.",
+        "released": "2018-10-28",
+        "url": "https://www.dmsguild.com/product/257386/CCCMCX01-All-in-a-Days-Work",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Circlet of Blasting",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            }
+        ]
     },
     {
-        "code": "CCC-MCX01-02",
+        "code": "CCC-MCX-01-02",
         "name": "The Rescue",
-        "description": "",
-        "incomplete": true
+        "description": "There are times when someone is called to the adventuring life and then there are times when someone tries to force the adventuring life. This is a case of the former helping the latter.",
+        "released": "2018-11-20",
+        "url": "https://www.dmsguild.com/product/259240/MCX0102-The-Rescue",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Cloak of Billowing",
+                "rarity": "common"
+            }
+        ]
     },
     {
         "code": "CCC-MIND-01",
         "name": "Lost in Thought",
-        "description": "",
-        "incomplete": true
+        "description": "With the liberation of Phlan, refugees from the city have been invited back to start their lives anew. But trouble strikes when one family of refugees goes missing while on the road to Phlan. The new Chancellor seeks answers. Will the adventurers find out what happened to the missing refugees or will they be lost forever? Part One of *The Dreamers* storyline.",
+        "released": "2018-07-04",
+        "creator": "Mount Ogden Gaming Company",
+        "url": "https://www.dmsguild.com/product/246253/CCCMIND0101-Lost-in-Thought",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Crystal Ball",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Resurrection",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-MIND-02",
         "name": "Mind Trip",
-        "description": "",
-        "incomplete": true
+        "description": "Phlan’s refugees are being assaulted on the road and taken into the Underdark to become illithid thralls. Can the characters save some of the travelers and uncover the mastermind of this evil operation? Only a delve into the Underdark will tell. Part Two of *The Dreamers* storyline.",
+        "released": "2018-07-06",
+        "creator": "Mount Ogden Gaming Company",
+        "url": "https://www.dmsguild.com/product/246478/CCCMIND0102-Mind-Trip",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Ring of Regeneration",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Invulnerability",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-MIND-03",
         "name": "Dream Walkers",
-        "description": "",
-        "incomplete": true
+        "description": "The characters reach the lair of an elder brain and must make their way through its minions to recover the refugees. May be able to get most the refugees out without facing the elder brain. But leaving the menace alive may have consequences too dire to ignore. Part Three of *The Dreamers* storyline.",
+        "released": "2018-07-06",
+        "creator": "Mount Ogden Gaming Company",
+        "url": "https://www.dmsguild.com/product/246480/CCCMIND0103-Dream-Walkers",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Wand of the War Mage, +3",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Spell Scroll of Mass Suggestion",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Power Word Pain",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Symbol",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
-        "code": "CCC-MMT01-01",
+        "code": "CCC-MMT-01-01",
         "name": "Secrets of Imaginary Friends",
-        "description": "",
+        "description": "The Moonsea Children’s Hospital is now open, and a small town has sprung up around Elua’s Lighthouse. The townsfolk share stories about strange occurrences in the area that they attribute to the fiendish creatures that escaped during the hospital’s benefit gala. Possibly it is all just rumors, but a peculiar and lonely child at the hospital may hold the answers. Part One of the *Elua's Lighthouse* adventures.",
+        "released": "2019-06-07",
+        "url": "https://www.dmsguild.com/product/279110/CCCMMT-0101-Secrets-of-Imaginary-Friends",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Helm of Comprehending Languages",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Absorb Elements",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Madness of Tharizdun",
+                "description": "The Chained God, Tharizdun, has briefly touched your mind. Seemingly at random you have nightmares of a black Obex (an inverted, two-tiered ziggurat) that shakes violently as though something is trapped inside and wants to get out.\n\n This award could come back to haunt you in further *Elua’s Lighthouse* adventures."
+            },
+            {
+                "name": "Not So Imaginary Friend",
+                "description": "You have saved the boy from a horrible fate. With his imaginary friend defeated, the other children are now more accepting of him. The children love to hear your tales of daring and bravery. You are always welcome to stay at the Moonsea Children’s Hospital."
+            }
+        ]
+    },
+    {
+        "code": "CCC-MMT-01-02",
+        "name": "A Little Competition Never Hurt Anyone",
+        "description": "The festival of Greengrass is fast approaching, and a scavenger hunt has been scheduled to take place that day in the town of Lighthouse, organized by a noble in nearby Hillsfar. Something more seems to be going on here though. Between a missing aide and overly competitive rival teams, this doesn’t seem to be your standard entertainment. But it’s only a game. Or is it?",
+        "released": "2019-11-22",
+        "url": "https://www.dmsguild.com/product/294627/CCCMMT-0102-A-Little-Competition-Never-Hurt-Anyone",
+        "tier": [1],
         "incomplete": true
     },
     {
-        "code": "CCC-MMT02-01",
+        "code": "CCC-MMT-01-03",
+        "name": "Honorable Dissent",
+        "description": "The Red War rages after the fall of Mulmaster. Refugees from Mulmaster are steadily spreading across the region, looking for a new beginning. In the chaos of the evacuation, however, a boy is found along the road. As the dust settles, it comes to light that the child’s father is a quartermaster with the Thayan army. Fearing repercussion for the Mulmaster refugees, you have been asked to return the child.",
+        "released": "2020-01-03",
+        "url": "https://www.dmsguild.com/product/295871/CCCMMT-0103-Honorable-Dissent--A-Price-of-the-Red-War-Adventure",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Wand of Secrets",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Resistance",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-MMT-01-05",
+        "name": "Secrets of the Cure",
+        "description": "Some of the children at the Moonsea Children’s Hospital have come down with a rare illness. Director Salinop has not been able to determine what is causing the affliction. She has pleaded with local adventurers to help determine the cause and find a cure. Part Three of the *Elua's Lighthouse* adventures.",
+        "released": "2020-04-20",
+        "url": "https://www.dmsguild.com/product/309003/CCCMMT-0105-Secrets-of-the-Cure",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Decanter of Endless Water",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Snare",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-MMT-02-01",
         "name": "The Stuff of Memories",
-        "description": "",
+        "description": "Was it something you drank? Perhaps you were drugged. Whatever it was, it caused you to forget why you just woke up in the Cormanthor Forest with some fellow adventurers. Some entity is messing with you, and it’s your job to figure out who and why! Part Four of the *Elua's Lighthouse* adventures.",
+        "released": "2019-06-07",
+        "url": "https://www.dmsguild.com/product/279118/CCCMMT-0201-The-Stuff-of-Memories",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Amulet of Proof Against Detection and Location",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Madness of Tharizdun",
+                "description": "The Chained God, Tharizdun, has briefly touched your mind. Seemingly at random you have nightmares of a black Obex (an inverted, two-tiered ziggurat) that shakes violently as though something is trapped inside and wants to get out.\n\n This award could come back to haunt you in further *Elua’s Lighthouse* adventures!"
+            }
+        ]
+    },
+    {
+        "code": "CCC-MTL-02",
+        "name": "House of Revenance",
+        "description": "New allies in the Underdark have emerged and are key to stopping drow slave-taking raids around the Moonsea. Now, one such ally has been assassinated and her body has been left to the most unpredictable and vile of Zethlentyn’s drow. What depraved price will the worshippers of the dreaded death goddess Kiaransalee set for their assistance? Are the adventurers ready to pay it? Part Two of the *Spies Below Moonsea* trilogy.",
+        "released": "2020-01-16",
+        "url": "https://www.dmsguild.com/product/300573/House-of-Revenance-CCCMTL02",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Moon-Touched Greatsword",
+                "rarity": "common"
+            },
+            {
+                "name": "Ring of Mind Shielding",
+                "rarity": "uncommon",
+                "properties": ["Sentinel"]
+            },
+            {
+                "name": "Spell Scroll of Revivify",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Dark Consequences",
+                "description": "The dark experiences in this adventure may take a psychological toll on certain characters. This toll is not represented by any mechanical effect and is entirely optional. Players are not required to take note of this if they do not wish to.\n\n Any character that participated in the minor graverending ritual and allowed the revenant to proceed on its dark business OR participated in the TRIAL OF DEATH and left Erkulia in the hands of the Yathrinshee may choose to add the following to the list of their bonds:\n\n If the character is of a non-evil alignment:\n\n- I once participated in an evil act that resulted in the death of a stranger and seek atonement for this act.\n\n If the character is of an evil alignment:\n\n- Partaking in an evil act has made me more conscious of the consequences of my actions.\n\n This bond carries no mechanical effect and can be removed by the player at any time."
+            },
+            {
+                "name": "Knowledge of House Zaunmice",
+                "description": "You have gained some insight or secret of a drow house. Other houses of the Zethlentyn Protectorate may find this valuable. This award has no immediate mechanical effect."
+            }
+        ]
+    },
+    {
+        "code": "CCC-MTL-03",
+        "name": "House of Webs",
+        "description": "Are you ready to turn the tables and enact a devious ambush against drow slavers? Do you want to visit a tavern run by an illithid? Have a run in with a dwarf battlerager? This is your chance! The simmering conflict between the freedom fighters of House Tor’Erhyl and the Lolth-serving slavers of House Ouss’Nassath has reached its boiling point. Following the recent assassination of a sword dancer, Matron Tor’Erhyl makes a bold plan to strike back where it hurts most—the slave shipments. Yet this not merely a mission of vengeance—it’s one of mercy and liberation. Part Three of the *Spies Below Moonsea* trilogy.",
+        "released": "2020-02-19",
+        "url": "https://www.dmsguild.com/product/303290/House-of-Webs-CCCMTL03",
+        "tier": [2],
         "incomplete": true
+    },
+    {
+        "code": "CCC-MWGF-01",
+        "name": "The Constellation",
+        "description": "Recently, residents of the Moonsea have been accosted by undead rising from the depths of the waters. Not only lost pirates, but sea creatures, too. An old fisherman's recurring dream could lead to an ancient oracle and an explanation. This is, if the party survives the journey. Part Four of the *Dead Men* series.",
+        "released": "2019-12-20",
+        "url": "https://www.dmsguild.com/product/298336/CCCMWGF01-The-Constellation-Part-Four-of-the-Dead-Men-Series",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Necklace of Adaptation",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Pole of Angling",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Resistance (Necrotic)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Star of the Deep",
+                "description": "The Constellation offers to brand each adventurer with a special sigil—a large star.\n\n To anyone else, the sigil looks like a normal tattoo. However, when you look at it, you see the writhing and twisting tentacles of The Constellation."
+            }
+        ]
     },
     {
         "code": "CCC-MYR-01",
         "name": "Friends in Need",
-        "description": "",
-        "incomplete": true
+        "description": "Faction agents have braved the Glacier of the White Worm and arrived at the Monastery of the Yellow Rose, only to be denied entry. It’s up to you and your companions to secure their entry, but it’s sure to be a wild ride.",
+        "released": "2018-09-09",
+        "url": "https://www.dmsguild.com/product/251969/CCCMYR01-Friends-in-Need",
+        "tier": [2],
+        "items": [
+            {
+                "name": "War Pick, +2",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Chapped",
+                "description": "Your scarred legs and odd gait, gained from being burned astride a remorhaz, are easily recognized by monks at the Monastery of the Yellow Rose as the mark of foolishness or lack of balance. You make Charisma (Intimidate and Persuasion) checks against those monks with disadvantage."
+            },
+            {
+                "name": "Wormspur",
+                "description": "Your boots are scarred and pocked with melted iron from destroyed wormspurs. Monks at the Monastery of the Yellow Rose recognize this as a sign of your remorhaz-riding prowess. You are more likely to gain entry to the monastery due to your prowess and you make Charisma (Intimidation and Persuasion) checks with advantage against monks who recognize your prowess."
+            }
+        ]
     },
     {
         "code": "CCC-NBDD01-01",
@@ -6805,6 +7332,7 @@
         "name": "Rumors and Riches",
         "description": "The Search and Locate Treasure Consortium funded an ill-fated mission into the wastes of Thar. They are unsure if faction infighting or monsters got the best of their expedition team as they followed a map to locate a supposed lost tomb. What dangers and treasures await the party as they go seeking rumors of riches?",
         "released": "2017-04-25",
+        "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/210440/CCCSALT0101-Rumors-of-Riches",
         "tier": [1],
         "items": [
@@ -6819,6 +7347,7 @@
         "name": "Moor Trouble",
         "description": "After the first expedition to locate an ancient tomb was prematurely ended by monsters, the Search and Locate Treasure Consortium is doubling down. Camp established, they are looking for adventurers to make their dreams come true, but the leader of the Consortium is hiding something. Will the characters be able to avoid the Man Slayer tribe that destroyed the first expedition, help Larazmu settle his internal struggles, and locate the tomb that they have been searching for without getting into Moor Trouble?",
         "released": "2017-04-25",
+        "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/210443/CCCSALT0102-Moor-Trouble",
         "tier": [1],
         "items": [
@@ -6833,6 +7362,8 @@
         "name": "Broken Halls of Goldahroud",
         "description": "Beneath the moorlands of Thar, hidden from all for centuries, lies the Broken Halls of Goldahroud. It seems to have been inhabited until recently as the blood marks on the walls are only a few weeks old. What mysteries lie beyond the doorway from the Tomb of Kered? Fear of the markings have forced the SALT Consortium to turn again to hiring adventurers to face what horrors await them in the Broken Halls of Goldahroud.",
         "released": "2017-04-25",
+        "creator": "Mount Ogden Gaming Company",
+        "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/210444/CCCSALT0103-Broken-Halls-of-Goldahroud",
         "tier": [1],
         "items": [
@@ -6874,6 +7405,7 @@
         "name": "Mulmaster's Meddlings",
         "description": "The SALT Consortium has been busy rebuilding the small town of Hawksroost and the increase in riches has caught the eye of many within the city of Mulmaster. While many are excited at the prospect of a partnership, Oriel Phoenixfeather is skeptical of any alliance. She is in search of a party to meet with one of the Zor’s that had reached out to the town and gather more information on them. However, in order to gain an audience with this mysterious person of power they will first need to win the Zor’s favor.",
         "released": "2018-06-09",
+        "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/244117/CCCSALT-0201-Mulmasters-Meddlings",
         "tier": [1],
         "items": [
@@ -6894,6 +7426,7 @@
         "name": "The Tower in the Valley",
         "description": "Prepare yourselves to enter a wizard’s wondrous tower! Within lies tricks and traps all from the mind of the brilliant? Or the insane? One never truly knows when it comes to wizards, but one thing is for certain; the rooms within will throw you for a loop!\n\n Prepare to deal with magical trickery and arcane mayhem as you embark to explore the Tower in the Valley.",
         "released": "2018-06-09",
+        "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/244116/CCCSALT-0202-Tower-in-the-Valley",
         "tier": [2],
         "items": [
@@ -6949,6 +7482,7 @@
         "name": "The Darkness Never Forgets",
         "description": "Oriel Phoenixfeather, the old halfling shopkeep from Hawksroost, has gone missing. Her granddaughter and the leaders of the SALT Consortium have sent out a call for adventurers to investigate the disappearance. A danger brewing to the north of Hawksroost, however, may make this search-and-rescue more dangerous than the party had initially planned.",
         "released": "2018-10-02",
+        "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/253907/CCCSALT0205-The-Darkness-Never-Forgets",
         "tier": [2],
         "items": [
@@ -7046,18 +7580,21 @@
         "code": "CCC-SKULL01-01",
         "name": "A Murder Most Foul",
         "description": "",
+        "creator": "Mount Ogden Gaming Company",
         "incomplete": true
     },
     {
         "code": "CCC-SKULL01-02",
         "name": "Not All Who Are Lost Should Be Found",
         "description": "",
+        "creator": "Mount Ogden Gaming Company",
         "incomplete": true
     },
     {
         "code": "CCC-SKULL01-03",
         "name": "Who Pulls the Strings",
         "description": "",
+        "creator": "Mount Ogden Gaming Company",
         "incomplete": true
     },
     {
@@ -7093,21 +7630,24 @@
         "incomplete": true
     },
     {
-        "code": "CCC-SRCC-0101",
+        "code": "CCC-SRCC-01-01",
         "name": "Trouble in the Old City",
         "description": "",
+        "creator": "Mount Ogden Gaming Company",
         "incomplete": true
     },
     {
-        "code": "CCC-SRCC-0102",
+        "code": "CCC-SRCC-01-02",
         "name": "Down the River of Snakes",
         "description": "",
+        "creator": "Mount Ogden Gaming Company",
         "incomplete": true
     },
     {
-        "code": "CCC-SRCC-0103",
+        "code": "CCC-SRCC-01-03",
         "name": "Altar of the Smoldering Eye",
         "description": "",
+        "creator": "Mount Ogden Gaming Company",
         "incomplete": true
     },
     {
@@ -8773,6 +9313,40 @@
         "name": "The Wayward Wives",
         "description": "",
         "incomplete": true
+    },
+    {
+        "code": "CCC-UNITE-05",
+        "name": "House of Moonlight",
+        "description": "It all starts with a mysterious coin that accompanies a note detailing a time and a place. Is this a meeting? Is it friendly? The only way to know is to go find out. What the adventurers discvover sets them on a journey to a land of darkness, decadence and deception. Part One of the *Spies Below Moonsea* trilogy.",
+        "released": "2020-01-03",
+        "url": "https://www.dmsguild.com/product/298232/House-of-Moonlight-CCCUNITE05-",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Moon-Touched Rapier of the Dark Tongue",
+                "rarity": "common"
+            },
+            {
+                "name": "Wand of Web",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Drawn to the Wheel",
+                "description": "You have received a vision of a great magic item at the bottom of the Axcelon mine. You sense that it is a powerful weapon. This award has no immediate mechanical effect."
+            },
+            {
+                "name": "Knowledge of House Tor’Erhyl",
+                "description": "You have gained some insight or secret of a drow house. Other houses of the Zethlentyn Protectorate may find this valuable. This award has no immediate mechanical effect."
+            }
+        ]
     },
     {
         "code": "CCC-WWC-01",

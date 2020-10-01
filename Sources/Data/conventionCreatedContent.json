@@ -4362,6 +4362,7 @@
         "name": "Bedlam at the Benefit",
         "description": "Some heroes raid dungesons. Some heroes slay dragons. And some heroes raise money for children’s hospitals. Everything is going splendidly for the fundraising gala at the Moonsea Children’s Hospital—until an uninvited guest and his aberrant entourage crash the party! Part Two of the *Elua's Lighthouse* adventures.",
         "released": "2018-03-16",
+        "creator": "Monkey Mind Tales",
         "url": "https://www.dmsguild.com/product/237193/CCCGEL01-Bedlam-at-the-Benefit",
         "tier": [1],
         "items": [
@@ -5267,6 +5268,7 @@
         "name": "A Rat's Tale",
         "description": "When a collection of rare books disappears from a wealthy landlord’s vault, adventurers are dispatched to sleuth out the thief and bring the tomes back home. But perhaps some knowledge is better buried than claimed…",
         "released": "2019-07-17",
+        "creator": "Monkey Mind Tales",
         "url": "https://www.dmsguild.com/product/282281/CCCGREY0101-A-Rats-Tale",
         "tier": [1],
         "items": [
@@ -6429,6 +6431,7 @@
         "name": "Secrets of Imaginary Friends",
         "description": "The Moonsea Children’s Hospital is now open, and a small town has sprung up around Elua’s Lighthouse. The townsfolk share stories about strange occurrences in the area that they attribute to the fiendish creatures that escaped during the hospital’s benefit gala. Possibly it is all just rumors, but a peculiar and lonely child at the hospital may hold the answers. Part One of the *Elua's Lighthouse* adventures.",
         "released": "2019-06-07",
+        "creator": "Monkey Mind Tales",
         "url": "https://www.dmsguild.com/product/279110/CCCMMT-0101-Secrets-of-Imaginary-Friends",
         "tier": [1],
         "items": [
@@ -6465,6 +6468,7 @@
         "name": "A Little Competition Never Hurt Anyone",
         "description": "The festival of Greengrass is fast approaching, and a scavenger hunt has been scheduled to take place that day in the town of Lighthouse, organized by a noble in nearby Hillsfar. Something more seems to be going on here though. Between a missing aide and overly competitive rival teams, this doesn’t seem to be your standard entertainment. But it’s only a game. Or is it?",
         "released": "2019-11-22",
+        "creator": "Monkey Mind Tales",
         "url": "https://www.dmsguild.com/product/294627/CCCMMT-0102-A-Little-Competition-Never-Hurt-Anyone",
         "tier": [1],
         "incomplete": true
@@ -6474,6 +6478,7 @@
         "name": "Honorable Dissent",
         "description": "The Red War rages after the fall of Mulmaster. Refugees from Mulmaster are steadily spreading across the region, looking for a new beginning. In the chaos of the evacuation, however, a boy is found along the road. As the dust settles, it comes to light that the child’s father is a quartermaster with the Thayan army. Fearing repercussion for the Mulmaster refugees, you have been asked to return the child.",
         "released": "2020-01-03",
+        "creator": "Monkey Mind Tales",
         "url": "https://www.dmsguild.com/product/295871/CCCMMT-0103-Honorable-Dissent--A-Price-of-the-Red-War-Adventure",
         "tier": [1],
         "items": [
@@ -6494,6 +6499,7 @@
         "name": "Secrets of the Cure",
         "description": "Some of the children at the Moonsea Children’s Hospital have come down with a rare illness. Director Salinop has not been able to determine what is causing the affliction. She has pleaded with local adventurers to help determine the cause and find a cure. Part Three of the *Elua's Lighthouse* adventures.",
         "released": "2020-04-20",
+        "creator": "Monkey Mind Tales",
         "url": "https://www.dmsguild.com/product/309003/CCCMMT-0105-Secrets-of-the-Cure",
         "tier": [1],
         "items": [
@@ -6520,6 +6526,7 @@
         "name": "The Stuff of Memories",
         "description": "Was it something you drank? Perhaps you were drugged. Whatever it was, it caused you to forget why you just woke up in the Cormanthor Forest with some fellow adventurers. Some entity is messing with you, and it’s your job to figure out who and why! Part Four of the *Elua's Lighthouse* adventures.",
         "released": "2019-06-07",
+        "creator": "Monkey Mind Tales",
         "url": "https://www.dmsguild.com/product/279118/CCCMMT-0201-The-Stuff-of-Memories",
         "tier": [2],
         "items": [
@@ -7607,32 +7614,252 @@
     {
         "code": "CCC-QCC-2017",
         "name": "Delusions of Grandeur, Dreams of Revenge",
-        "description": "",
-        "incomplete": true
+        "description": "The factions have heard murmurings of a new cult rising from the ashes of the obsessed dragon and elemental evil factions that they have dealt with in the past. This time, though, they seem to have an even more apocalyptic goal. A deep gnome informant claims the cult is dabbling with dangerous magic, but he, too, may have his own agenda",
+        "released": "2017-09-12",
+        "url": "https://www.dmsguild.com/product/221415/CCCQCC2017-Delusions-of-Grandeur-Dreams-of-Revenge",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Manual of Bodily Health",
+                "rarity": "veryRare"
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Mage’s Spellbook",
+                "spells": [
+                    { "name": "absorb elements", "level": 1 },
+                    { "name": "detect magic", "level": 1 },
+                    { "name": "earth tremor", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "shield", "level": 1 },
+                    { "name": "earthbind", "level": 2 },
+                    { "name": "pyrotechnics", "level": 2 },
+                    { "name": "misty step", "level": 2 },
+                    { "name": "skywrite", "level": 2 },
+                    { "name": "suggestion", "level": 2 },
+                    { "name": "counterspell", "level": 3 },
+                    { "name": "erupting earth", "level": 3 },
+                    { "name": "fireball", "level": 3 },
+                    { "name": "flame arrows", "level": 3 },
+                    { "name": "fly", "level": 3 },
+                    { "name": "elemental bane", "level": 4 },
+                    { "name": "greater invisibility", "level": 4 },
+                    { "name": "ice storm", "level": 4 },
+                    { "name": "watery sphere", "level": 4 },
+                    { "name": "cone of cold", "level": 5 },
+                    { "name": "control winds", "level": 5 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Favor of Boddynock Glitterstone",
+                "description": "Having spent time in the company of accomplished bounty hunter Boddynock Glitterstone, you have learned a thing or two about the history and efforts of the four major Elemental Evil cults that have been active in the regions through which you adventure. Boddynock reveals to you the location of a still functioning secret elemental node (air or water, PCs choice) near the Moonsea which you may travel to between adventures (spending 10 downtime days and the associated lifestyle costs). Travelling to a water node will allow a character to recharge a weird tank while traveling to an air node will allow them to recharge a balloon pack, storm boomerang, and/or wingwear (1 per day). In addition, you gain advantage on Intelligence (History) checks relating to any two of the following Elemental Evil cults: the Black Earth, the Crushing Wave, the Eternal Flame, and/or the Howling Hatred."
+            },
+            {
+                "name": "Learn the Culture (Mulmaster)",
+                "description": "You may spend 5 downtime days (and the associated lifestyle cost) in Mulmaster touring the city and learning the history of the region. You gain advantage on any single ability check relating to Mulmaster, the Brotherhood of the Cloaks, the cults of Elemental Evil, or the Red Wizards of Thay or on any single attack against an elemental or undead creature. Once the advantage benefit has been used, you may return to Mulmaster every time you gain a level and perform this quest again by spending the required downtime and lifestyle expenses.",
+                "type": "downtime"
+            },
+            {
+                "name": "To Wear the Cloak",
+                "description": "If your character is a spellcaster, Zora Culkin has offered to sponsor your admittance into the Brotherhood of the Cloak due to your service to the city of Mulmaster. Though joining the Cloaks is mandatory for any arcanists seeking to stay in Mulmaster for an extended period of time, and sponsorship is not required, Zora Culkin's sponsorship will definitely have its perks."
+            }
+        ]
     },
     {
-        "code": "CCC-QCC2018-01",
+        "code": "CCC-QCC-2018-01",
         "name": "Of Gods and Monsters",
-        "description": "",
-        "incomplete": true
+        "description": "Rumors abound that the travelling faire known as Doctor Jubal's Carnival of Curiosities have somehow acquired an actual, live tarrasque that they are displaying as part of their travelling show. An ancient eladrin who claims to be part of a secret order dedicated to protecting society from the creature is honor-bound to investigate the matter and wants the party to track down the travelling faire and see what they can discover.",
+        "released": "2018-09-12",
+        "url": "https://www.dmsguild.com/product/252176/CCCQCC201801-Of-Gods-and-Monsters",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Nine Lives Stealer Scimitar",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Flying",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Ecology of the Tarrasque",
+                "description": "Your research on the tarrasque grants you an encyclopedic knowledge of the history and lore of this creature. This award may have additional repercussions in future **QCC** modules."
+            },
+            {
+                "name": "Honorary Bullywug",
+                "description": "For helping to free their god from the bonds of oppression, a bullywug tribe of Chult owes you a life-debt. Should you ever find yourself in the presence of this bullywug tribe in Chult during a future **QCC** adventure, you will be treated as an ally. Should you ever willingly kill a froghemoth while in Chult or in the presence of a bullywug, this story award is lost."
+            },
+            {
+                "name": "Membership in the Royal Order of Tarrasque Herders",
+                "description": "Dryearth has offered you membership in the Order if you swear an oath to come to need of any civilized people threatened upon the return of the true tarrasque. This award may have additional repercussions in future **QCC** modules."
+            },
+            {
+                "name": "Run Away and Join the Circus",
+                "description": "You spend some time traveling with the circus as a performer until the start of your next adventure. You learn quite a bit about the inner workings of the circus during this time. This award may have additional repercussions in future **QCC** modules."
+            }
+        ]
     },
     {
-        "code": "CCC-QCC2018-02",
+        "code": "CCC-QCC-2018-02",
         "name": "Heart and Soul",
-        "description": "",
+        "description": "A young girl offers to hire the party to retrieve a family heirloom stolen from her by an evil archmage. The first catch: the archmage is a Red Wizard of Thay. The second catch: your potential employer insists on NO KILLING!",
+        "released": "2018-09-12",
+        "url": "https://www.dmsguild.com/product/252178/CCCQCC201802-Heart-and-Soul",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Figurine of Wondrous Power (Brass Griffon)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Elixir of Health",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Philter of Love",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1,
+                "illegal": true
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Secret Identity",
+                "description": "You stole an item from a powerful mage while operating under a secret identity. Tall tales spread far and wide about this mysterious burglar. Should you ever admit it was you, no one will believe you. If, at the start of a session, there are two or more characters with this story award are present at the table, they exchange a wink, knowing glance, or subtle nod. This award may have additional repercussions in future **QCC** modules."
+            },
+            {
+                "name": "We Got The Beet",
+                "description": "For returning the gem and its satchel to Constance Goodroot, she lets the characters know they need never be hungry while they are in the area. They are provided a free bushel of beets from the beet farm whenever they finish an adventure in Hillsfar (any **HILL**, **DDEX03**, or **CCC** adventure occurring in Hillsfar), along with numerous recipes for preparing several beet-themed dishes from the Goodroot family personal cookbook collection."
+            },
+            {
+                "name": "You’ve Got a Friend in Red",
+                "description": "Word spreads through the Red Wizard channels that you are a friend of Thay. This award may have additional repercussions in future **QCC** modules."
+            }
+        ]
+    },
+    {
+        "code": "CCC-QCC-2019-01",
+        "name": "Hillsfar's Rancid Web",
+        "description": "A suspicious murder leads the heroes into an old section of Hillsfar’s sewers, where the local fey are stirring up trouble for the surface dwellers.",
+        "released": "2019-07-14",
+        "url": "https://www.dmsguild.com/product/282851/CCCQCC201901-Hillsfars-Rancid-Webs",
+        "tier": [1],
         "incomplete": true
     },
     {
-        "code": "CCC-QCC2019-01",
-        "name": "Hillsfar's Rancid Web",
-        "description": "** PET STORY AWARD **",
+        "code": "CCC-QCC-2019-02",
+        "name": "Hag of Tricks",
+        "description": "Evil fey are trying to conquer Hillsfar by infiltrating the city and controlling key government positions. Adventurers try to sneak into the Red Plumes Compound to prove hags control the Director’s office.",
+        "released": "2019-07-15",
+        "url": "https://www.dmsguild.com/product/282984/CCCQCC201902-Hag-of-Tricks",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-QCC-2019-03",
+        "name": "The Scarlet Divide",
+        "description": "A contingent of Red Wizards has arrived in Hillsfar and is planning something. Rumors abound of a massive ritual being prepared to affect the entire city. Is their intent to help the city or harm it? And how is the First Lord involved?",
+        "released": "2019-07-16",
+        "url": "https://www.dmsguild.com/product/282991/CCCQCC201903-The-Scarlet-Divide",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Horn of Silent Alarm",
+                "rarity": "common"
+            },
+            {
+                "name": "Staff of Healing",
+                "rarity": "rare"
+            },
+            {
+                "name": "Crossbow Bolt, +2",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 20
+            },
+            {
+                "name": "Oil of Sharpness",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Invulnerability",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Hero of Hillsfar",
+                "description": "For assisting in ending the menace of the evil fey in Hillsfar once and for all, you receive a medal declaring you a “Hero of Hillsfar”. Tales of your exploits spread through the city from the commoners up through the nobles. Unless disguised, you are greeted by smiles and knowing nods anytime you wander the streets of Hillsfar. This Story Award may have additional repercussions in future **CCC-QCC** adventures."
+            },
+            {
+                "name": "Seeing Red",
+                "description": "You have intervened in the plans of Red Wizards one time too many. If your party becomes engaged in conflict with any Red Wizards in a future **CCC-QCC** adventure, the Red Wizards will always target you with their first attack. This Story Award may have additional repercussions in future **CCC-QCC** adventures. If you have the “*A Friend in Red*” Story Award from **CCC-QCC-2018-02**, you may permanently remove this Story Award from you character sheet by removing that one as well."
+            }
+        ]
+    },
+    {
+        "code": "CCC-QUAKE-01",
+        "name": "Red War: Thayan Peace Keeper",
+        "description": "During the Red War, you’ve been asked to deliver a mysterious wooden box labeled “Thayan Peace Keeper” to a group of legendary heroes inside Mulmaster. But the heroes never show up. A case of mistaken identity only further complicates what was supposed to be a simple mission—while the clock is ticking.",
+        "released": "2019-12-12",
+        "creator": "Monkey Mind Tales",
+        "url": "https://www.dmsguild.com/product/295873/CCCQUAKE01-Red-War-Thayan-Peace-Keeper",
+        "tier": [1],
         "incomplete": true
     },
     {
         "code": "CCC-REAP-01",
         "name": "Red War: Lost Ashes of the Wayward Gnome",
-        "description": "",
-        "incomplete": true
+        "description": "A priestess has traveled far from home to find herself in the middle of the RED WAR. Join her on a surreal, madcap journey through a dangerous warzone to recover the ashes of the gnome responsible for this conflict. Can anything good come out of this fool’s errand?",
+        "released": "2018-09-11",
+        "creator": "Monkey Mind Tales",
+        "url": "https://www.dmsguild.com/product/252159/CCCREAP01-Red-War-Lost-Ashes-of-a-Wayward-Gnome",
+        "tier": [2],
+        "items": [
+            {
+                "name": "The Choralier’s Companion (Saddle of the Cavalier)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Scroll of Protection (Undead)",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Tiny Servant",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Woodland Hospitality",
+                "description": "Shiallia, the Daughter of the High Forest, owes you for helping out Soleil—regardless of the outcome. Small woodland animals of the High Forest treat you like royalty."
+            }
+        ]
     },
     {
         "code": "CCC-ROLL20-02",

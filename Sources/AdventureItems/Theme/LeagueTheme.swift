@@ -272,8 +272,9 @@ private extension Node where Context == HTML.BodyContext {
             .p(
                 .text("Generated using "),
                 .a(.href("https://github.com/johnsundell/publish"), .text("Publish")),
-                .text(" from this "),
-                .a(.href("https://github.com/arbron/adventure-items/"), .text("source"))
+                .text(". Site source available on "),
+                .a(.href("https://github.com/arbron/adventure-items/"), .text("GitHub")),
+                .text(".")
             )
         )
     }

@@ -7829,6 +7829,164 @@
         "incomplete": true
     },
     {
+        "code": "CCC-RCC-01-01",
+        "name": "Flight of the Forgemage",
+        "description": "Thorin Ironcap has journeyed from his home in Mithral Hall to the Moonsea in search of his missing brother, Thoradin, who was exiled from Mithral Hall for blacksmithing experiments deemed “too risky”. Rumors exist that he is in Melvaunt, and that he had been using the forges in the city before disappearing recently. Thorin needs adventurers to find Thoradin before his experiments cost his brother his life…or worse!",
+        "released": "2020-01-09",
+        "url": "https://www.dmsguild.com/product/299975/CCCRCC0101-Flight-of-the-Forgemage",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Helm of Comprehending Languages",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Protection from Evil and Good",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Cryptic Whispers",
+                "description": "Even though creatures transformed into stone cursed are long dead, a vague whisper of their memories lives on in the fist-sized obsidian skull embedded within the stone cursed's body. Those who claim one of these skulls from a slain stone cursed often hear its whispering in their thoughts. While mostly the nonsensical ramblings of a tortured soul, the whispers occasionally (at the DMs discretion) offer up worthwhile information. However, these rare nuggets of guidance are not without a price. Those who carry a stone cursed’s skull for an extended period of time can begin to whisper to themselves on a regular basis and often find it difficult to focus on complex tasks.\n\n ***Note.*** While a DM may choose to provide information based on the skull’s whisperings, this story award is primarily for roleplaying purposes."
+            }
+        ]
+    },
+    {
+        "code": "CCC-RCC-01-02",
+        "name": "The King of Thar",
+        "description": "Rumors have surfaced of the return of Vorbyx, legendary King of Thar. The characters are hired to travel from Melvaunt deep into the humanoid-infested wastelands of Thar to ascertain the validity of the rumors and deal with the threat.",
+        "released": "2020-01-09",
+        "url": "https://www.dmsguild.com/product/299976/CCCRCC0102-The-King-of-Thar",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Immovable Rod",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Comprehend Languages",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-RCC-01-03",
+        "name": "Chains of Desperation",
+        "description": "An injured scout comes to you after her companions are captured near the Moonsea’s eastern coast. Can you save her friends before they disappear forever, or will you find yourself captives instead?",
+        "released": "2020-01-09",
+        "url": "https://www.dmsguild.com/product/299977/CCCRCC0103-Chains-of-Desperation",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Boots of False Tracks",
+                "rarity": "common"
+            },
+            {
+                "name": "Folding Boat",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Fire Breath",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-RCC-01-04",
+        "name": "Black Bliss",
+        "description": "On the streets of Mulmaster, a highly addictive elixir called Black Bliss offers hours of relaxation and euphoria for those seeking respite from the dreary, difficult life many struggle to maintain. If left unchecked, it is only a matter of time before its widespread use starts to affect the economic and social structure within the City of Danger. But what exactly is the substance, and where did it come from?",
+        "released": "2020-01-09",
+        "url": "https://www.dmsguild.com/product/299978/CCCRCC0104-Black-Bliss",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Night Cutter (Scimitar of Life Stealing)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Giant Strength (Fire)",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Teleport",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Night Cutter",
+                "description": "You openly carry the black-bladed scimitar called Night Cutter, which once belonged to a respected drow captain of House Rakarn. Unless your race is drow, you are considered unworthy by most drow to carry it, and they take an instant dislike to you, treating you as a usurper.\n\n If your race is drow, or if you do not openly carry the weapon, this drawback does not apply to you."
+            }
+        ]
+    },
+    {
+        "code": "CCC-RCC-01-06",
+        "name": "The Handfasting",
+        "description": "Enjoy a day at the faire and a chance to earn some easy coin in the process! A wealthy merchant wants to hire security for his daughter’s extravagant handfasting ceremony. It sounds like simple work, but why would a merchant hire seasoned adventures as wedding security? Perhaps the groom has some skeletons in his closet?",
+        "released": "2020-01-09",
+        "url": "https://www.dmsguild.com/product/299979/CCCRCC0106-The-Handfasting",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Periapt of Proof against Poison",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Teleport",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Minor Noble",
+                "description": "Lord Casplardann has awarded you a Grant of Arms, allowing you to place “Lord” or “Lady” before your name and legally display your heraldic crest on a shield or banner. While in Thentia, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. In addition, you can secure an audience with a Thentian noble if you need to."
+            }
+        ]
+    },
+    {
         "code": "CCC-REAP-01",
         "name": "Red War: Lost Ashes of the Wayward Gnome",
         "description": "A priestess has traveled far from home to find herself in the middle of the RED WAR. Join her on a surreal, madcap journey through a dangerous warzone to recover the ashes of the gnome responsible for this conflict. Can anything good come out of this fool’s errand?",
@@ -7870,46 +8028,361 @@
         "incomplete": true
     },
     {
-        "code": "CCC-ROZK-0101",
+        "code": "CCC-ROZK-01-01",
         "name": "Binder's Torment",
-        "description": "",
-        "incomplete": true
+        "description": "While attending the first annual Reclamation Day Festival in Phlan, a mysterious book is given to the adventurers, leading them to what appears to be an abandoned print shop west of the city. There they meet a would-be benefactor, who seeks their help in ridding the southern ruins of Zhentil Keep of a growing threat, the Ebon Tide, a group of mercenaries and bandits that are quickly becoming the scourge of the Moonsea. Part One of the *Necromancer of Zhentil Keep* trilogy.",
+        "released": "2017-09-18",
+        "url": "https://www.dmsguild.com/product/221932/CCCROZK0101-Binders-Torment",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Wand of the War Mage, +2",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Speed",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Banishment",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Black Leather Spellbook",
+                "spells": [
+                    { "name": "detect magic", "level": 1 },
+                    { "name": "feather fall", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "detect thoughts", "level": 2 },
+                    { "name": "locate object", "level": 2 },
+                    { "name": "scorching ray", "level": 2 },
+                    { "name": "clairvoyance", "level": 3 },
+                    { "name": "fly", "level": 3 },
+                    { "name": "fireball", "level": 3 },
+                    { "name": "arcane eye", "level": 4 },
+                    { "name": "ice storm", "level": 4 },
+                    { "name": "stoneskin", "level": 4 },
+                    { "name": "Rary's telepathic bond", "level": 5 },
+                    { "name": "scrying", "level": 5 },
+                    { "name": "mass suggestion", "level": 6 },
+                    { "name": "true seeing", "level": 6 },
+                    { "name": "delayed blast fireball", "level": 7 },
+                    { "name": "teleport", "level": 7 },
+                    { "name": "maze", "level": 8 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "An Ally In the Ebon Tide",
+                "description": "You convinced the Blackwind, Ezechiel Irnestul, to sign on with either the Zhentarim or the Lords’ Alliance. He survives, and his Ebon Tide may prove useful someday soon."
+            },
+            {
+                "name": "Heroes of Reclamation Day",
+                "description": "You ran toward danger and saved innocent lives. The people of Phlan will tell tales of your bravery, and business owners wish to show you the city’s gratitude. You receive a 10% discount on goods sold within the city."
+            },
+            {
+                "name": "Yellow-Bellied Cowards!",
+                "description": "You stood by and watched as innocent lives were lost. Word of your cowardice spreads like wildfire through the city of Phlan. While in the city, you roll with disadvantage on any Charisma-based checks with the citizens of Phlan, and business owners charge you 10% more on goods sold within the city."
+            }
+        ]
     },
     {
-        "code": "CCC-ROZK-0102",
+        "code": "CCC-ROZK-01-02",
         "name": "Zhentarim's Lament",
-        "description": "",
-        "incomplete": true
+        "description": "A dark force is rising from the ruins of Zhentil Keep. The Zhentarim themselves are on the move to stop it from spreading, and you have been pulled into the struggle. Will you find the objects of power that your adversary searches for before it is too late? Part Two of the *Necromancer of Zhentil Keep* trilogy.",
+        "released": "2017-09-18",
+        "url": "https://www.dmsguild.com/product/221933/CCCROZK0102-Zhentarims-Lament",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Tome of Leadership and Influence",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Spell Scroll of Enhance Ability",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Spell Scroll of Forcecage",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Programmed Illusion",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Simulacrum",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Nature of the Weave",
+                "description": "You have uncovered a series of tomes written by the archmage, Manshoon. By spending 50 downtime days, you gain proficiency in the Arcana skill. If you are already proficient in Arcana, you double your proficiency when making checks with the skill."
+            }
+        ]
     },
     {
-        "code": "CCC-ROZK-0103",
+        "code": "CCC-ROZK-01-03",
         "name": "Necromancer's Ascent",
-        "description": "",
-        "incomplete": true
+        "description": "The necromancer has been revealed, and his tower of black rock now dominates the ruins of Zhentil Keep. You must race against his machinations, or a cloud of undeath will overwhelm the Moonsea and beyond. Part Three of the *Necromancer of Zhentil Keep* trilogy.",
+        "released": "2017-09-18",
+        "url": "https://www.dmsguild.com/product/221934/CCCROZK0103-Necromancers-Ascent",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Spellguard Shield",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Potion of Vitality",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Circle of Death",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Contingency",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Mislead",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "You've Got a Friend In Me",
+                "description": "You have proven yourself an ally to not only your own faction, but to those who banded together to fight the necromancer, Marzellus Marshward. You are always welcome at the Waypoint Bindery, on the northwestern shore of the Moonsea. In addition, you can use the Waypoint to pass word on to your faction, even if your faction representative it not present at the time, and messages will be passed to you should they arrive but your faction contact is not currently at the bindery.\n\n Finally, Krenez, the founder of the Waypoint, will always have a bed and a meal for you should you need it, free of charge."
+            }
+        ]
     },
     {
         "code": "CCC-RPR-01",
         "name": "Eyes of Blood",
-        "description": "",
-        "incomplete": true
+        "description": "Recent goblin attacks near the outskirts of Hulburg prompted Lord Eorl Hulmaster to send a band of mercenaries into the foothills of the Galena Mountains to thin out their numbers. It was supposed to be an easy task, but it ended in disaster. The band's leader remains trapped in goblin territory with their chieftan as his prisoner.  Lord Hulmaster now needs skilled adventurers to retrieve the mercenary and his captive before it's too late.",
+        "released": "2018-04-23",
+        "url": "https://www.dmsguild.com/product/240487/CCCRPR01-Eyes-of-Blood",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Rebel’s Yell (Battleaxe, +1)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Resistance (Fire)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-RPSG-01",
         "name": "Ooze There",
-        "description": "",
+        "description": "As the City of Danger struggles to rebuild, a spate of unexplained disappearances in the Zhent Ghettos threatens to erupt into fresh chaos. The factions are hard pressed to investigate, and it falls upon you to uncover the truth behind this new menace. Part One of the *Neverdusk* trilogy.",
+        "released": "2018-06-09",
+        "url": "https://www.dmsguild.com/product/244135/CCCRPSG01-Ooze-There",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Sovad’s Staff of Flying (Broom of Flying)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Broken Seal",
+                "description": "You have failed to prevent Fenaria’s plans in the Forgotten Fane from coming to fruition and an ancient seal from being destroyed.\n\n This award may become relevant if you encounter Fenaria or the Cult of Glaugrax in future."
+            },
+            {
+                "name": "Fenaria’s Ire",
+                "description": "You stopped Fenaria from destroying an ancient seal in the Forgotten Fane and have incurred her wrath.\n\n This award may become relevant if you encounter Fenaria or the Cult of Glaugrax in future."
+            }
+        ]
+    },
+    {
+        "code": "CCC-RPSG-02",
+        "name": "Ooze Next?",
+        "description": "A sunken ruin deep beneath the bay of Mulmaster holds the key to unraveling the Cult of Glaugrax’s nefarious plans. Dare you brave danger and duplicity to plumb its depths? Part Two of the *Neverdusk* trilogy.",
+        "released": "2020-03-18",
+        "url": "https://www.dmsguild.com/product/306869/CCCRPSG02-Ooze-Next",
+        "tier": [2],
         "incomplete": true
     },
     {
         "code": "CCC-SAC-01",
         "name": "A Light in the Dark",
-        "description": "",
-        "incomplete": true
+        "description": "Reports are coming out of the conclusion of the death curse and the defeat of the lich Acererak. Adventurers are no longer afraid to go out into the night in search of Fame and fortune. A wily antiquarian has gleaned the location of an item of particular value And unsurpassed rarity. The problem is, she is certain she isn't the first…or the last to learn of it. A races for riches and renown, who will be the ones to get there first and claim their prize?",
+        "released": "2018-11-14",
+        "url": "https://www.dmsguild.com/product/258839/CCCSAC01-A-Light-in-the-Dark",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Efreeti Bottle",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Speed",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Favor of Everbright",
+                "description": "You have collected successfully the *Shadowgem* against all odds and have proven yourself to Amerantha Everbright. The Old-World Society will remember this, should you meet with them in the future."
+            },
+            {
+                "name": "Ire of Everbright",
+                "description": "You have let the *Shadowgem* fall into the hands of your enemies, earning you the disapproval of Amerantha Everbright. The Old-World Society will remember this, should you meet with them in the future."
+            }
+        ]
     },
     {
         "code": "CCC-SAC-02",
         "name": "Fun with Fey",
-        "description": "",
-        "incomplete": true
+        "description": "Trouble is afoot in the mysterious Quivering Forest. An Archdruid finds herself unable to control the magic of a particularly powerful tree. This tree’s magic threatens to create a portal that would allow the most mischievous members of the Feywild entry to the Moonsea region. Clever adventurers will be needed to discover the nature of these fluctuating powers and keep them at bay.",
+        "released": "2018-11-20",
+        "url": "https://www.dmsguild.com/product/259233/CCCSAC02-Fun-With-Fey",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Cloak of Displacement",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Resistance (Poison)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Erupting Earth",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Melf's Minute Meteors",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Thunder Step",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Wall of Water",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-SAC-03",
+        "name": "They're Good Adventurers, Brent",
+        "description": "Your party has been tasked with guarding a supply caravan headed over the Dragonspire Mountains to the Citadel of the Raven. While there must have been some concern great enough to warrant sending adventurers of your caliber, the journey has been uneventful and borderline boring. When nearing the end of your journey, you stumble upon the most sacred of Faerûn's beasts…a dog!  She seems lost and needs your assistance—a task fit for the good adventurers that you are.",
+        "released": "2020-04-20",
+        "url": "https://www.dmsguild.com/product/307705/CCCSAC03-Theyre-Good-Adventurers-Brent",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Immovable Rod",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Animal Friendship",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Fire)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-SAF-01-01",
+        "name": "Between Garrock and a Hard Place",
+        "description": "Miners and farming communities around the Earthspur Mountains are being found deserted of townsfolk. If the hobgoblins settling into the area are responsible, what are their motivations?",
+        "released": "2020-01-11",
+        "url": "https://www.dmsguild.com/product/299621/CCCSAF0101-Between-Garrock-and-a-Hard-Place",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Elemental Gem (Yellow Diamond)",
+                "rarity": "uncommon"
+            }
+        ]
     },
     {
         "code": "CCC-SALT-01-01",
@@ -8089,64 +8562,490 @@
         ]
     },
     {
-        "code": "CCC-SCAR01-01",
+        "code": "CCC-SCAR-01-01",
         "name": "Corrupted Artery",
-        "description": "",
-        "incomplete": true
+        "description": "The mining town of Glister has had a prosperous year, and people have been coming in search of work and wealth. A call has gone out for help in some local matters, but getting there is no easy task. Catch the caravan and travel through treacherous Thar! Part One of *Kossuth's Kiss*.",
+        "released": "2018-03-19",
+        "url": "https://www.dmsguild.com/product/237410/CCCSCAR0101-Corrupted-Artery",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Ornate Dagger, +1",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Gos’ Roadies",
+                "description": "You can use your connections with Gos to get a discount on an item while in Glister. You can spend 5 downtime days to earn a 10% discount on the purchase of any one weapon or armor from a merchant in Glister. Once you have used this Award, cross it off your list."
+            }
+        ]
     },
     {
-        "code": "CCC-SCAR01-02",
+        "code": "CCC-SCAR-01-02",
         "name": "Glister by Light",
-        "description": "",
-        "incomplete": true
+        "description": "The mining town of Glister has a problem. The latest caravan only arrived with a part of its supplies. Orcs waylaid them, took much needed goods, and are now making demands that the town return an artifact that is theirs, but the town is unfamiliar with. Help track down information about this artifact and possibly defend the city from an orc invasion! Part Two of *Kossuth's Kiss*.",
+        "released": "2018-05-15",
+        "url": "https://www.dmsguild.com/product/242220/CCCSCAR0102-Glister-By-Light",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Stone of Good Luck",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Over and Above",
+                "description": "You have saved the lives of many people in Glister by your recon mission and the knowledge gained. Everyone in the town knows of your deeds and shows you respect. You gain advantage on Charisma skill checks when dealing with anyone in the town of Glister."
+            },
+            {
+                "name": "Respect of The House of Swords",
+                "description": "The priests of Tempus respect those who show the ability to resolve issues with a weapon. You have impressed them by carving off a piece of the Striking Stone. You may call upon the House of Swords in Glister and get the same services as provided by the Acolyte background."
+            }
+        ]
     },
     {
-        "code": "CCC-SCAR02-01",
+        "code": "CCC-SCAR-02-01",
         "name": "Gister by Dark",
-        "description": "",
+        "description": "The mining town of Glister is under siege. Unprepared and short of supplies, the siege threatens to starve out the town. The mine has provided the only path that may provide some help; a collapsed tunnel has revealed an unknown cave that runs deep into the mountain. Part Three of *Kossuth's Kiss*.",
+        "released": "2019-03-18",
+        "url": "https://www.dmsguild.com/product/267891/CCCSCAR0201-Glister-By-Dark",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Clockwork Amulet",
+                "rarity": "common"
+            },
+            {
+                "name": "Rope of Climbing",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Invisibility",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Scroll of Protection (Poison)",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Identify",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-SCAR-02-02",
+        "name": "Nature's Defense",
+        "description": "A recent earthquake has revealed an unexplored cave system in the forests around Zhentil Keep, and rumors of old pirate treasure are drawing treasure hunters. Yet something is warping nature and causing attacks on the unwary. You’ve been asked to find the source and to set things right. Are you ready?",
+        "released": "2019-08-21",
+        "url": "https://www.dmsguild.com/product/286424/CCCSCAR0202-Natures-Defense",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Poison)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "And My Horses Also!",
+                "description": "You are beloved of House Malatar for returning their wayward scion with his retinue, and thus may be called on again in times of need."
+            },
+            {
+                "name": "At Least I Survived",
+                "description": "You are appreciated by House Malatar for returning their wayward scion, but they really, really wish you had also returned their valued servants."
+            }
+        ]
+    },
+    {
+        "code": "CCC-SCAR-03-01",
+        "name": "Devotees of the Dagger",
+        "description": "The orcs of the Burning Daggers clan have been pacified with the return of their religious artifact. But just as Glister begins to breathe again, an old “friend” returns with troubling news: a shaman has stirred up the clan to want war again. Can the adventurers stop this new leader and bring about peace again?",
+        "released": "2020-07-01",
+        "url": "https://www.dmsguild.com/product/317737/CCCSCAR0301-Devotees-of-the-Dagger",
+        "tier": [1],
         "incomplete": true
     },
     {
-        "code": "CCC-SFBAY-0101",
+        "code": "CCC-SCAR-03-02",
+        "name": "Secrets Underneath Glister",
+        "description": "With the discovery of Min Thelbur, a lost dwarven city, dwarven explorers descended to locate the royal warhammer of King Filburt Mithrilshield. However, the vermin had already moved in and the dwarves were unable to make their way into the palace, where ancient records indicate the warhammer was stored. They are hiring adventurers for an expedition to retrieve King Mithrilshield's warhammer.",
+        "released": "2020-07-01",
+        "url": "https://www.dmsguild.com/product/317738/CCCSCAR0302-Secrets-Underneath-Glister",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-SFBAY-01-01",
         "name": "Plots in Motion",
-        "description": "",
-        "incomplete": true
+        "description": "In the midst of a ferocious storm, a band of mercenaries raids a lighthouse. Is this just a plot against trade with Mulmaster, or something more sinister? Journey down the River Lis and explore a forgotten keep in search of answers.",
+        "released": "2017-03-02",
+        "url": "https://www.dmsguild.com/product/206459/CCCSFBAY0101-Plots-in-Motion",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Smoke (Shortsword, +2)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Oil of Sharpness",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Rider's Spellbook",
+                "spells": [
+                    { "name": "disguise self", "level": 1 },
+                    { "name": "fog cloud", "level": 1 },
+                    { "name": "grease", "level": 1 },
+                    { "name": "identify", "level": 1 },
+                    { "name": "blindness/deafness", "level": 2 },
+                    { "name": "locate object", "level": 2 },
+                    { "name": "mirror image", "level": 2 },
+                    { "name": "nondetection", "level": 3 },
+                    { "name": "phantom steed", "level": 3 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Crown Jewels",
+                "description": "Talindra’s Brooch is an exquisite piece of artwork. A silver dragon curls around a piece of amethyst. A fleck of ruby is set in the dragons eye, a circle of gold enclosing the whole piece. It is a piece of jewelry fit for Cormyrian royalty. They will be very glad to get it back.\n\n The jeweler to whom you sought to sell the piece to immediately closes his shop and sends out his assistant while he appraises the piece. He hems and haws over the value, checking ledgers and showing you drawings of other pieces and what those pieces sold for in comparison. But he does not have to stall long; the assistant returns with a full company of the watch in short order. They even bring magical support.\n\n You spend the next three days in jail, as you plead your innocence and deny all knowledge that the brooch had been stolen from the Corymyrian Royal Vaults. Apparently, it was quite the theft. The most powerful divination magic of Cormyr’s famed wizard college failed to turn up any clues. But eventually your story checks out. The staff at Hofstead’s beacon confirm that a woman matching Talindra’s description was pulled from the wreck and went with the other survivors to Mulmaster.\n\n From Mulmaster the trail goes cold. No one there remembers seeing her, even though you spend several days and no small amount of gold trying to locate her. Even divination magic fails. She has slipped through your grasp for now. But the Cormyrian authorities remain wary of you and circulate your description.\n\n *When you get this story award, immediately deduct five downtime days and 25 gold pieces from your character. Until another story award instructs otherwise, you have disadvantage on all Charisma checks with Cormyrian officials.*\n\n **This is a Cormyrian Heist story award.**"
+            },
+            {
+                "name": "Language Tutor Corbin Tusslefoot",
+                "description": "Corbin Tusslefoot, traveler and linguist owes you his life. In gratitude, he will suspend his travels and waives his usual fees to help you learn a new language. Corbin speaks and can tutor you in Dwarvish, Elven, Giant, and Draconic.\n\n Normally it costs 250 downtime days to learn a new language. With the help of a language tutor you may learn a new language by spending only 200 downtime days. Alternatively, if you already have another means of reducing the number of downtime days required to learn a language, such as a faction benefit, you may reduce the cost by 25 days. You may use multiple language tutors to reduce the cost of learning a language, but each tutor may only help you learn a particular language once. If you earn multiple copies of a particular language tutor award, that tutor may help you learn one new language for each instance of the award you have. Use of a language tutor story award may not reduce the cost to learn a language to less than 100 downtime days."
+            }
+        ]
     },
     {
-        "code": "CCC-SFBAY-0201",
+        "code": "CCC-SFBAY-02-01",
         "name": "Old Enemies Arise",
-        "description": "",
-        "incomplete": true
+        "description": "The alliance between Thay and Mulmaster is stronger than ever, and this does not sit well with some of the neighboring countries; in fact, it appears that one of them is attacking caravans leaving Mulmaster and heading towards Thay. You have been asked by the Cloaks to investigate the attacks, discover who is behind them, and stop them if you can. Part One of *Agents of the Cloaks*.",
+        "released": "2017-12-29",
+        "url": "https://www.dmsguild.com/product/230005/CCCSFBay0201-Old-Enemies-Arise",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Cloak of Displacement",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Animal Friendship",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Growth",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Lasharra’s Traveling Spellbook",
+                "spells": [
+                    { "name": "absorb elements", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "Tenser's floating disk", "level": 1 },
+                    { "name": "alarm", "level": 1 },
+                    { "name": "mirror image", "level": 2 },
+                    { "name": "misty step", "level": 2 },
+                    { "name": "shatter", "level": 2 },
+                    { "name": "counterspell", "level": 3 },
+                    { "name": "fireball", "level": 3 },
+                    { "name": "Leomund's tiny hut", "level": 3 },
+                    { "name": "lightning bolt", "level": 3 },
+                    { "name": "water breathing", "level": 3 },
+                    { "name": "greater invisibility", "level": 4 },
+                    { "name": "ice storm", "level": 4 },
+                    { "name": "stoneskin", "level": 4 },
+                    { "name": "Bigby's hand", "level": 5 },
+                    { "name": "cone of cold", "level": 5 },
+                    { "name": "Rary's telepathic bond", "level": 5 },
+                    { "name": "chain lightning", "level": 6 },
+                    { "name": "guards and wards", "level": 6 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Ally of Thay",
+                "description": "You are known to be an ally of the Thayan Plateau, whether you want to or not. You have advantage on Charisma-based checks with Red Wizards and other non-slaves from Thay."
+            },
+            {
+                "name": "Durthan’s Curse",
+                "description": "You have been marked by the evil Durthan. As long as either Lasharra, Yuldra or Shevarra are alive, they will be able scry you and will do so unless you take precautions to prevent it. If you are not able to prevent the scrying, your party will have disadvantage on all initiative checks in combats that involve any of the mentioned witches or any of their minions. You are also at a disadvantage on stealth checks to surprise the witches or their minions. This story award gets removed when all three witches are dead."
+            },
+            {
+                "name": "Enmity of the Wychlaran",
+                "description": "You have offended the secretive order of Rashemi witches by either taking the Vremyonni back to Mulmaster or keeping the wychlaran mask or both. You have disadvantage on all social checks with the people of Rashemen if they know your name and what you did. If discovered within the lands of Rashemen, you will be captured and put to death."
+            },
+            {
+                "name": "Friend of Rashemen",
+                "description": "You have earned the respect and regard of the Rashemi people by rescuing the Vremyonni and retuning the wychlaran mask. You have advantage on all social checks with the people of Rashemen if they know your name and what you did."
+            }
+        ]
     },
     {
-        "code": "CCC-SFBAY-0202",
+        "code": "CCC-SFBAY-02-02",
         "name": "Rise of the Ogre King",
-        "description": "",
-        "incomplete": true
+        "description": "You have been hired by the Brotherhood of the Cloaks to journey into the heart of desolate Thar. Once there you are to negotiate with the oni lord of Fangjaws Hold for the rights to excavate an ancient minotaur lord’s tomb within his territory. Part Two of *Agents of the Cloaks*.",
+        "released": "2018-08-21",
+        "url": "https://www.dmsguild.com/product/250384/CCCSFBay0202-Rise-of-the-Ogre-King",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Amulet of Health",
+                "rarity": "rare"
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Traveling Spellbook",
+                "spells": [
+                    { "name": "absorb elements", "level": 1 },
+                    { "name": "charm person", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "shield", "level": 1 },
+                    { "name": "hold person", "level": 2 },
+                    { "name": "mind spike", "level": 2 },
+                    { "name": "shadow blade", "level": 2 },
+                    { "name": "suggestion", "level": 2 },
+                    { "name": "counterspell", "level": 3 },
+                    { "name": "fireball", "level": 3 },
+                    { "name": "haste", "level": 3 },
+                    { "name": "lightning bolt", "level": 3 },
+                    { "name": "greater invisibility", "level": 4 },
+                    { "name": "polymorph", "level": 4 },
+                    { "name": "hold monster", "level": 5 },
+                    { "name": "scrying", "level": 5 },
+                    { "name": "synaptic static", "level": 5 },
+                    { "name": "telekinesis", "level": 5 },
+                    { "name": "chain lightning", "level": 6 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Enemies of Justice",
+                "description": "You have offended the Talons of Justice and good dragons across the lands. This may affect how good dragons treat you in the future."
+            },
+            {
+                "name": "Fangjaws Citizen",
+                "description": "You have been branded a citizen of Fangjaws Hold. While you have no featly to this monster town, you wear its brand; consequently, any enemy of Fangjaws that sees the brand, such as the Burning Dagger orcs, will start with a hostile attitude towards you.\n\n On the good side, all orcs, goblinoids and ogres that are under Fangjaw’s protection will give you and your traveling companions safe passage."
+            },
+            {
+                "name": "Knight of the Silver Dragon",
+                "description": "You have been anointed as a Knight of the Order of the Silver Dragon. You have sworn to the following oath.\n\n- To protect those that can’t protect themselves\n- To oppose evil wherever you find it\n- To seek a peaceful solution to all conflicts if possible.\n\n  Good dragons across the lands that see your emblem will look favorably upon you."
+            },
+            {
+                "name": "Pawn of Thay",
+                "description": "You have shown that you are willing to work for Thay and help them achieve their goals. The people of the Thayan plateau may look upon you as a resource."
+            },
+            {
+                "name": "Rashemi Regard",
+                "description": "You have done a great server for the Rashemi people. The people of Rashemen may look favorably upon you."
+            }
+        ]
     },
     {
-        "code": "CCC-SFBAY-0203",
+        "code": "CCC-SFBAY-02-03",
         "name": "The Risen Minotaur Lord",
-        "description": "",
-        "incomplete": true
+        "description": "An excavation team was sent to unearth the tomb of an ancient minotaur lord in Thar under the protection of the Tharkul of Fangjaws Hold. But something went wrong, and an undead army poured out of the burial site and laid siege to Fangjaws Hold. You have been hired by the Brotherhood of the Cloaks to help deal with the undead threat. Part Three of *Agents of the Cloaks*.",
+        "released": "2018-08-21",
+        "url": "https://www.dmsguild.com/product/250386/CCCSFBay0203-The-Risen-Minotaur-Lord",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Belt of Hill Giant Strength",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Invulnerability",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Fangjaws Citizen",
+                "description": "You have been branded a citizen of Fangjaws Hold. While you have no fealty to this monster town, you wear its brand, All orcs, goblinoids and ogres that are under Fangjaw’s protection will give you and your traveling companions safe passage.\n\n Any enemy of Fangjaws that sees the brand, such as the Burning Dagger orcs, may start with a hostile attitude towards you."
+            },
+            {
+                "name": "Fangjaws Nobility",
+                "description": "Requires that you are already a **Fangjaws Citizen**. You have further served Fangjaws Hold and have been rewarded with nobility. From this point forward, you may purchase a house in the Little Moonsea district for 2000 GP and 20 downtime days. This also increases your lifestyle expenses by 1 GP. In addition, you may administer justice to the citizens of Fangjaws Hold."
+            },
+            {
+                "name": "Honorary Wychlaran",
+                "description": "Requires that you have been awarded **Rashemi Regard** or **Friend of Rashemen** in each of two previous adventures. You have been accepted into the ranks of secretive Rashemi Witches known as Hathrans. From this point forward, you may enter the sacred Ashenwood, and other Rashemi will look upon you with respect and look to you for leadership. You have also been gifted with a spirit totem, and a mask of the wychlaran has been made for you in the shape of that spirit."
+            },
+            {
+                "name": "Rashemi Regard",
+                "description": "You have done a great service for the Rashemi people. The people of Rashemen may look favorably upon you.\n\n If you have the **Enmity of Rashemen** story award, both story awards get removed from your log sheet. Your deeds have earned forgiveness, but they did not earn both forgiveness and regard."
+            }
+        ]
     },
     {
-        "code": "CCC-SFBAY-0401",
+        "code": "CCC-SFBAY-04-01",
         "name": "The Cornflower Hive",
-        "description": "",
-        "incomplete": true
+        "description": "What links an infamous Zhentarim mercenary with a brilliant but tormented artificer? To find out, the adventurers must break the goblinoid siege of the village of Westfir. After the bizarre goblins are defeated, the Cornflower Hive must be destroyed. Ultimately, what secrets are held in the grain mill by the Westfork river?",
+        "released": "2018-01-26",
+        "url": "https://www.dmsguild.com/product/232430/CCCSFBAY0401-The-Cornflower-Hive",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Javelin of Lightning",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Alchemist's fire (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Potion of Water Breathing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Bless",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Goblinslayer",
+                "description": "You rescued the people of Westfir and stopped the goblin menace. You may stay in the village of Westfir for up to 10 days at a wealthy lifestyle with no cost. You may also purchase non-magical adventuring gear (excluding mounts, weapons or armor) for 25% off the listed retail price in the PHB during one of those downtime days."
+            }
+        ]
     },
     {
-        "code": "CCC-SFBAY-0402",
+        "code": "CCC-SFBAY-04-02",
         "name": "Under Earth & Stone",
-        "description": "",
-        "incomplete": true
+        "description": "A Mulmaster refugee named Ani Kuleimatt discovered references to a forgotten mine near the Moonsea, a mine rumored to produce an unexpected export. The adventurers are hired to locate the complex and secure its resources for the Mulmaster Diaspora.",
+        "released": "2018-01-26",
+        "url": "https://www.dmsguild.com/product/232428/CCCSFBAY0402-Under-Earth--Stone",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Traveler’s Heart (Stone of Controlling Earth Elementals)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Crossbow Bolt, +1",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 10
+            },
+            {
+                "name": "Spell Scroll of Speak with Animals",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Silk Trade",
+                "description": "For a cost of 5 downtime days and 25 gp, the adventurer may have either fine silk clothing or a spider-silk rope made in Duindelve.\n\n The silk clothing is dyed in bright colors and is the highest quality.\n\n The non-magical spider-silk rope is 50 feet long, has the same tensile strength as hemp rope, and weighs 2 pounds.",
+                "type": "downtime"
+            }
+        ]
     },
     {
-        "code": "CCC-SFBAY-0403",
+        "code": "CCC-SFBAY-04-03",
         "name": "The Ashen Scar",
-        "description": "",
-        "incomplete": true
+        "description": "The fey hold sway over the forests of Cormanthor. Their presence has kept the goblinoids disorganized and warring amongst themselves. Now, a deadly enemy of the woods has laid claim to a Feywild glade. This foe is slaughtering the forest defenders and rallying goblinoid tribes in the name of vengeance. Can you stop them in time?",
+        "released": "2018-06-28",
+        "url": "https://www.dmsguild.com/product/245751/CCCSFBAY0403-The-Ashen-Scar",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Boots of Elvenkind",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Arrow, +1",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 10
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Draught of the Feywild",
+                "description": "Dandelion the dryad gifted you with a sip from the magical spring within her glade. This water increases your maximum expected lifespan by 20 years. This Story Award does not interfere with *potions of longevity* or other effects that reduce your actual age."
+            },
+            {
+                "name": "Mulmaster Cloaks",
+                "description": "*The Ashen Scar* is considered a Mulmaster adventure for purposes of rank in the Cloaks.\n\n Instead of worrying about the punishments for using magic, arcane casters may choose to join the Brotherhood of the Cloaks. Characters that do so must swear to defend the rule of the High Blade, protect Mulmaster from the incursion of arcane magic and uphold the Edict of Arcane Banishment. Being a Cloak costs the character 3 Downtime Days per Mulmaster adventure played, and the character must maintain a wealthy lifestyle for that downtime.\n\n Joining the Cloaks is not without its benefits. All Cloaks receive a square medallion that denotes membership in the Brotherhood. This medallion gives the character advantage on social skill checks made with officials of Mulmaster (DM’s discretion). For each Mulmaster adventure played, the character gains one rank in the Cloaks organization. For each To Wear a Cloak favor the character has, he or she also gains an additional rank."
+            }
+        ]
     },
     {
         "code": "CCC-SHINY-02",
@@ -8196,19 +9095,19 @@
         ]
     },
     {
-        "code": "CCC-SQC-001",
+        "code": "CCC-SQC-01",
         "name": "The Woodland Sage",
         "description": "",
         "incomplete": true
     },
     {
-        "code": "CCC-SQC-0201",
+        "code": "CCC-SQC-02-01",
         "name": "None the Wiser",
         "description": "",
         "incomplete": true
     },
     {
-        "code": "CCC-SQC-0202",
+        "code": "CCC-SQC-02-02",
         "name": "Last Gasp",
         "description": "",
         "incomplete": true

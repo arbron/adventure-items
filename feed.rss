@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Thu, 1 Oct 2020 11:07:47 -0700</lastBuildDate><pubDate>Thu, 1 Oct 2020 11:07:47 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-01</guid><title>DDAL10-01 - The Frozen North</title><description>Goggles of Night, 3 potions, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-01</link><pubDate>Fri, 16 Oct 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Fri, 2 Oct 2020 12:00:53 -0700</lastBuildDate><pubDate>Fri, 2 Oct 2020 12:00:53 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-01</guid><title>DDAL10-01 - The Frozen North</title><description>Goggles of Night, 3 potions, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-01</link><pubDate>Fri, 16 Oct 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>The Frozen North</h1>
   <h3>Season 10 Adventure for Tier 1
     <em class="release"> Released  on October 16, 2020</em>
@@ -780,6 +780,28 @@
       </li>
     </ul>
   </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-sac-03</guid><title>CCC-SAC-03 - They're Good Adventurers, Brent</title><description>Immovable Rod and 2 potions</description><link>https://arbron.github.io/adventure-items/adventures/ccc-sac-03</link><pubDate>Sun, 19 Apr 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>They're Good Adventurers, Brent</h1>
+  <h3>Convention Created Content  for Tier 1
+    <em class="release"> Released  on April 19, 2020</em>
+  </h3><p>Your party has been tasked with guarding a supply caravan headed over the Dragonspire Mountains to the Citadel of the Raven. While there must have been some concern great enough to warrant sending adventurers of your caliber, the journey has been uneventful and borderline boring. When nearing the end of your journey, you stumble upon the most sacred of Faerûn's beasts…a dog! She seems lost and needs your assistance—a task fit for the good adventurers that you are.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Immovable Rod</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Animal Friendship</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Resistance (Fire)</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-tarot-02-08</guid><title>CCC-TAROT-02-08 - Winding Road to Freedom</title><description>Mantle of Freedom (Cloak of Billowing), Trident of Fish Command, a potion, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-tarot-02-08</link><pubDate>Sun, 19 Apr 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>Winding Road to Freedom</h1>
   <h3>Convention Created Content  for Tier 2
@@ -1419,6 +1441,150 @@
       </li>
     </ul>
   </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-saf-01-01</guid><title>CCC-SAF-01-01 - Between Garrock and a Hard Place</title><description>Elemental Gem (Yellow Diamond)</description><link>https://arbron.github.io/adventure-items/adventures/ccc-saf-01-01</link><pubDate>Fri, 10 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>Between Garrock and a Hard Place</h1>
+  <h3>Convention Created Content  for Tier 2
+    <em class="release"> Released  on January 10, 2020</em>
+  </h3><p>Miners and farming communities around the Earthspur Mountains are being found deserted of townsfolk. If the hobgoblins settling into the area are responsible, what are their motivations?</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Elemental Gem (Yellow Diamond)</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-rcc-01-01</guid><title>CCC-RCC-01-01 - Flight of the Forgemage</title><description>Helm of Comprehending Languages, a potion, a scroll, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-rcc-01-01</link><pubDate>Wed, 8 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>Flight of the Forgemage</h1>
+  <h3>Convention Created Content  for Tier 1
+    <em class="release"> Released  on January 8, 2020</em>
+  </h3><p>Thorin Ironcap has journeyed from his home in Mithral Hall to the Moonsea in search of his missing brother, Thoradin, who was exiled from Mithral Hall for blacksmithing experiments deemed “too risky”. Rumors exist that he is in Melvaunt, and that he had been using the forges in the city before disappearing recently. Thorin needs adventurers to find Thoradin before his experiments cost his brother his life…or worse!</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Helm of Comprehending Languages</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Healing</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Protection from Evil and Good</span>
+        <em class="entry-label"> Common</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Cryptic Whispers</summary><p>Even though creatures transformed into stone cursed are long dead, a vague whisper of their memories lives on in the fist-sized obsidian skull embedded within the stone cursed's body. Those who claim one of these skulls from a slain stone cursed often hear its whispering in their thoughts. While mostly the nonsensical ramblings of a tortured soul, the whispers occasionally (at the DMs discretion) offer up worthwhile information. However, these rare nuggets of guidance are not without a price. Those who carry a stone cursed’s skull for an extended period of time can begin to whisper to themselves on a regular basis and often find it difficult to focus on complex tasks.</p><p><strong><em>Note.</em></strong> While a DM may choose to provide information based on the skull’s whisperings, this story award is primarily for roleplaying purposes.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-rcc-01-02</guid><title>CCC-RCC-01-02 - The King of Thar</title><description>Immovable Rod, a potion, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-rcc-01-02</link><pubDate>Wed, 8 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>The King of Thar</h1>
+  <h3>Convention Created Content  for Tier 1
+    <em class="release"> Released  on January 8, 2020</em>
+  </h3><p>Rumors have surfaced of the return of Vorbyx, legendary King of Thar. The characters are hired to travel from Melvaunt deep into the humanoid-infested wastelands of Thar to ascertain the validity of the rumors and deal with the threat.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Immovable Rod</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Healing</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Comprehend Languages</span>
+        <em class="entry-label"> Common</em>
+      </li>
+    </ul>
+  </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-rcc-01-03</guid><title>CCC-RCC-01-03 - Chains of Desperation</title><description>Boots of False Tracks, Folding Boat, and 2 potions</description><link>https://arbron.github.io/adventure-items/adventures/ccc-rcc-01-03</link><pubDate>Wed, 8 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>Chains of Desperation</h1>
+  <h3>Convention Created Content  for Tier 1
+    <em class="release"> Released  on January 8, 2020</em>
+  </h3><p>An injured scout comes to you after her companions are captured near the Moonsea’s eastern coast. Can you save her friends before they disappear forever, or will you find yourself captives instead?</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Boots of False Tracks</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>
+        <span>Folding Boat</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Fire Breath</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Greater Healing</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-rcc-01-04</guid><title>CCC-RCC-01-04 - Black Bliss</title><description>Night Cutter (Scimitar of Life Stealing), 2 potions, a scroll, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-rcc-01-04</link><pubDate>Wed, 8 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>Black Bliss</h1>
+  <h3>Convention Created Content  for Tier 3
+    <em class="release"> Released  on January 8, 2020</em>
+  </h3><p>On the streets of Mulmaster, a highly addictive elixir called Black Bliss offers hours of relaxation and euphoria for those seeking respite from the dreary, difficult life many struggle to maintain. If left unchecked, it is only a matter of time before its widespread use starts to affect the economic and social structure within the City of Danger. But what exactly is the substance, and where did it come from?</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Night Cutter (Scimitar of Life Stealing)</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Giant Strength (Fire)</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Superior Healing</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Teleport</span>
+        <em class="entry-label"> Very Rare</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Night Cutter</summary><p>You openly carry the black-bladed scimitar called Night Cutter, which once belonged to a respected drow captain of House Rakarn. Unless your race is drow, you are considered unworthy by most drow to carry it, and they take an instant dislike to you, treating you as a usurper.</p><p>If your race is drow, or if you do not openly carry the weapon, this drawback does not apply to you.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-rcc-01-06</guid><title>CCC-RCC-01-06 - The Handfasting</title><description>Periapt of Proof against Poison, a potion, a scroll, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-rcc-01-06</link><pubDate>Wed, 8 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>The Handfasting</h1>
+  <h3>Convention Created Content  for Tier 3
+    <em class="release"> Released  on January 8, 2020</em>
+  </h3><p>Enjoy a day at the faire and a chance to earn some easy coin in the process! A wealthy merchant wants to hire security for his daughter’s extravagant handfasting ceremony. It sounds like simple work, but why would a merchant hire seasoned adventures as wedding security? Perhaps the groom has some skeletons in his closet?</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Periapt of Proof against Poison</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Superior Healing</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Teleport</span>
+        <em class="entry-label"> Very Rare</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Minor Noble</summary><p>Lord Casplardann has awarded you a Grant of Arms, allowing you to place “Lord” or “Lady” before your name and legally display your heraldic crest on a shield or banner. While in Thentia, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. In addition, you can secure an audience with a Thentian noble if you need to.</p>
+  </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-eb-02</guid><title>DDAL-EB-02 - Voice in the Machine</title><description>Mithral Chain Mail, Rope of Climbing, 2 potions, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal-eb-02</link><pubDate>Mon, 6 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>Voice in the Machine</h1>
   <h3>Oracle of War Adventure for Tier 1
@@ -2361,6 +2527,31 @@
       </li>
     </ul>
   </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-scar-02-02</guid><title>CCC-SCAR-02-02 - Nature's Defense</title><description>2 potions and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-scar-02-02</link><pubDate>Tue, 20 Aug 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>Nature's Defense</h1>
+  <h3>Convention Created Content  for Tier 1
+    <em class="release"> Released  on August 20, 2019</em>
+  </h3><p>A recent earthquake has revealed an unexplored cave system in the forests around Zhentil Keep, and rumors of old pirate treasure are drawing treasure hunters. Yet something is warping nature and causing attacks on the unwary. You’ve been asked to find the source and to set things right. Are you ready?</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>1 x 
+        <span>Potion of Healing</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Resistance (Poison)</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>And My Horses Also!</summary><p>You are beloved of House Malatar for returning their wayward scion with his retinue, and thus may be called on again in times of need.</p>
+  </details>
+  <details class="story-award">
+    <summary>At Least I Survived</summary><p>You are appreciated by House Malatar for returning their wayward scion, but they really, really wish you had also returned their valued servants.</p>
+  </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-slmh01-01</guid><title>CCC-SLMH01-01 - Codex Venator</title><description>a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-slmh01-01</link><pubDate>Mon, 19 Aug 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>Codex Venator</h1>
   <h3>Convention Created Content  for Tier 2
@@ -2512,213 +2703,4 @@
       </li>
     </ul>
   </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-tri-34-dead1-3</guid><title>CCC-TRI-34 DEAD1-3 - Rise of the Sea Dragon</title><description>Candle of the Deep, Trident of Warning, a potion, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-tri-34-dead1-3</link><pubDate>Sun, 28 Jul 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Rise of the Sea Dragon</h1>
-  <h3>Convention Created Content  for Tier 2
-    <em class="release"> Released  by The Role Initiative on July 28, 2019</em>
-  </h3><p>Old pirates tell an aged tale of a black dragon attacking merchant ships sailing the Moonsea. The beast was slain, or so they thought. Recently, merchant ships have been attacked, and they say the culprit was a black dragon. The beast may fly away with a few victims, but it leaves the rest to fend for themselves in the Moonsea.</p><p>Could this be the same creature from before? Can the adventurers slay the dragon and bring peace to the waters of the Moonsea? Part Three of the <em>Dead Men</em> series.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Candle of the Deep</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>
-        <span>Trident of Warning</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Superior Healing</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Mark of the Dead</summary><p>Either Abigail or Peaches explains that Captain Dread Red offers to tattoo each party member with the mark of his crew (the symbol for this adventure saga). If they agree, a jittering zombie with long, white hair, a bulging and blind right eye, and a wooden peg leg staggers up to them carrying a tattoo kit: a small hammer, a needle that resembles an icepick, and a bottle of black ink.</p><p>The tattoo process isn’t painful, the design is clean, and it can be placed anywhere on the body.</p><p>The Mark of the Dead may grant a character special conditions in future Dead Men’s Tales adventures.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon3-3</guid><title>CCC-BMG-MOON3-3 - Beneath the Cairnwell</title><description>Ever Vigilant (Silvered Greatsword of Warning), 3 potions, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon3-3</link><pubDate>Thu, 25 Jul 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Beneath the Cairnwell</h1>
-  <h3>Convention Created Content  for Tier 2
-    <em class="release"> Released  by Baldman Games on July 25, 2019</em>
-  </h3><p>The lost moonwell, known as the Cairnwell, plays a significant role in the battle for the Fairheight Range. Can it be saved and turned into a source of weal for the dwarves, or will the enemy take its power and turn it into a fountain of woe? Part 3 of the <em>Fairheight</em> trilogy.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Ever Vigilant (Silvered Greatsword of Warning)</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Gaseous Form</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Greater Healing</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Resistance (Poison)</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Celebrated by the Wardens</summary><p>For your bravery in eliminating the threat of the shadow dragon Pryumbranth and ensuring to portal is established between Alaron and Oman, your exploits are lauded by Wardens of the Deepshaes. If you are a member of that organization and completed <strong>MOON3</strong> trilogy, you are considered to have completed a Major Objective for advancement in that group.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-grey-01-01</guid><title>CCC-GREY-01-01 - A Rat's Tale</title><description>a scroll, a spellbook, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-grey-01-01</link><pubDate>Tue, 16 Jul 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>A Rat's Tale</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  by Monkey Mind Tales on July 16, 2019</em>
-  </h3><p>When a collection of rare books disappears from a wealthy landlord’s vault, adventurers are dispatched to sleuth out the thief and bring the tomes back home. But perhaps some knowledge is better buried than claimed…</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>1 x 
-        <span>Spell Scroll of Heroism</span>
-        <em class="entry-label"> Common</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Spellbooks</h2>
-  <p>
-    <ul>
-      <li>
-        <strong>Ruminations on the Accomplishments of Humanity: </strong>charm person, comprehend languages, snare, hold person, and suggestion
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Fate of the Rat</summary><p>The Grey Rat didn’t survive his encounter with you. His story ends here.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-qcc-2019-03</guid><title>CCC-QCC-2019-03 - The Scarlet Divide</title><description>Horn of Silent Alarm, Staff of Healing, a potion, 2 story awards, and 21 other items</description><link>https://arbron.github.io/adventure-items/adventures/ccc-qcc-2019-03</link><pubDate>Mon, 15 Jul 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>The Scarlet Divide</h1>
-  <h3>Convention Created Content  for Tier 3
-    <em class="release"> Released  on July 15, 2019</em>
-  </h3><p>A contingent of Red Wizards has arrived in Hillsfar and is planning something. Rumors abound of a massive ritual being prepared to affect the entire city. Is their intent to help the city or harm it? And how is the First Lord involved?</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Horn of Silent Alarm</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>
-        <span>Staff of Healing</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>20 x 
-        <span>Crossbow Bolt, +2</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>1 x 
-        <span>Oil of Sharpness</span>
-        <em class="entry-label"> Very Rare</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Invulnerability</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Hero of Hillsfar</summary><p>For assisting in ending the menace of the evil fey in Hillsfar once and for all, you receive a medal declaring you a “Hero of Hillsfar”. Tales of your exploits spread through the city from the commoners up through the nobles. Unless disguised, you are greeted by smiles and knowing nods anytime you wander the streets of Hillsfar. This Story Award may have additional repercussions in future <strong>CCC-QCC</strong> adventures.</p>
-  </details>
-  <details class="story-award">
-    <summary>Seeing Red</summary><p>You have intervened in the plans of Red Wizards one time too many. If your party becomes engaged in conflict with any Red Wizards in a future <strong>CCC-QCC</strong> adventure, the Red Wizards will always target you with their first attack. This Story Award may have additional repercussions in future <strong>CCC-QCC</strong> adventures. If you have the “<em>A Friend in Red</em>” Story Award from <strong>CCC-QCC-2018-02</strong>, you may permanently remove this Story Award from you character sheet by removing that one as well.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-bwm-04-01</guid><title>CCC-BWM-04-01 - Thralls of Zuggtmoy: The Myconic Nidus</title><description>Miir (Scimitar of Warning), a potion, and 4 other items</description><link>https://arbron.github.io/adventure-items/adventures/ccc-bwm-04-01</link><pubDate>Wed, 10 Jul 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Thralls of Zuggtmoy: The Myconic Nidus</h1>
-  <h3>Convention Created Content  for Tier 2
-    <em class="release"> Released  on July 10, 2019</em>
-  </h3><p>Under the Flooded Forest grows a toxic maze of magical fungi called the Nidus. From this horrid realm a cult has struck a terrible blow against the wood elves struggling to regrow the trees in the forsaken swamp of the Flooded Forest. The elves, on the brink of extinction, need the adventurers to navigate this deadly labyrinth and recover a precious object. But the tunnels here crawl with spore-laden beasts and demons, and the very air itself is poisonous.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Miir (Scimitar of Warning)</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>4 x 
-        <span>Arrow, +1</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Fire Breath</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-bwm-04-02</guid><title>CCC-BWM-04-02 - Thralls of Zuggtmoy: Sanctum of Rot</title><description>Cloak of Protection, a potion, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-bwm-04-02</link><pubDate>Wed, 10 Jul 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Thralls of Zuggtmoy: Sanctum of Rot</h1>
-  <h3>Convention Created Content  for Tier 2
-    <em class="release"> Released  on July 10, 2019</em>
-  </h3><p>Beyond the Nidus waits the inner sanctum where the heroes must confront Zuggtmoy’s zealot priest and his dark followers. The cult is preparing to use the Noctic Urn to lure a horrific entity to the Material Plane. The adventurers must stop them, or woe to all should they fail.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Cloak of Protection</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Giant Strength (Hill)</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Spell Scroll of Vampiric Touch</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-tarot-02-04</guid><title>CCC-TAROT-02-04 - Moonlit Waves, Part 1</title><description>Folding Boat, a potion, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-tarot-02-04</link><pubDate>Wed, 10 Jul 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Moonlit Waves, Part 1</h1>
-  <h3>Convention Created Content  for Tier 2
-    <em class="release"> Released  on July 10, 2019</em>
-  </h3><p>The havoc caused by the emergence of the Tarot Cards is not limited just to the lands of Thentia. Many trading vessels lie at the bottom of the harbor, sunk by unknown causes. Today, another attempt is made to raise one of those sunken ships. Part Eleven of <em>Song of Fates</em>.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Folding Boat</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Water Breathing</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Saved by Muma</summary><p>You contested with the Ghost of Seireri Moongleam in an attempt to free her soul but were found wanting. If it were not for Muma’s freshly baked cookies you may still be locked in that Lantern.</p>
-  </details>
-  <details class="story-award">
-    <summary>Tarot of Fate (The Star): Inverted</summary><p>You’ve retrieved the ghost of Seireri Moongleam from its banishment. Muma is working to release her soul so Seireri can once again protect her city.</p>
-  </details>
-  <details class="story-award">
-    <summary>Tarot of Fate (The Star): Upright</summary><p>The ghost of Seireri Moongleam has been lost once again and the Fate of Thentia has become a bit more clouded.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-drw01</guid><title>DDAL-DRW01 - Breaking Umberlee's Resolve</title><description>Iron Bands of Bilarro and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ddal-drw01</link><pubDate>Fri, 5 Jul 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Breaking Umberlee's Resolve</h1>
-  <h3>Dreams of Red Wizards Adventure for Tier 2
-    <em class="release"> Released  on July 5, 2019</em>
-  </h3><p>The search for a missing young woman kicks off a treacherous journey on the <em>Sea of Fallen Stars</em>.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Iron Bands of Bilarro</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Zehira’s Allyship</summary><p>As a thanks for freeing her from the morkoth lair, Zehira becomes a staunch ally of the characters. She boldly assumes command of Umberlee’s Resolve. Upon return to Turmish, she makes amends with her parents and takes on the role of a privateer captain sailing under the flag of Turmish. She accompanies the characters on the next adventure.</p>
-  </details>
 </section>]]></content:encoded></item></channel></rss>

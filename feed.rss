@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Fri, 2 Oct 2020 12:00:53 -0700</lastBuildDate><pubDate>Fri, 2 Oct 2020 12:00:53 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-01</guid><title>DDAL10-01 - The Frozen North</title><description>Goggles of Night, 3 potions, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-01</link><pubDate>Fri, 16 Oct 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Tue, 6 Oct 2020 14:01:23 -0700</lastBuildDate><pubDate>Tue, 6 Oct 2020 14:01:23 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-01</guid><title>DDAL10-01 - The Frozen North</title><description>Goggles of Night, 3 potions, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-01</link><pubDate>Fri, 16 Oct 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>The Frozen North</h1>
   <h3>Season 10 Adventure for Tier 1
     <em class="release"> Released  on October 16, 2020</em>
@@ -1871,6 +1871,107 @@
   <details class="story-award">
     <summary>Mark of the Sisterhood</summary><p>You have earned some favor with the <em>Sisterhood of the Blade</em> bounty hunting organization. By trading in this mark to a member of the sisterhood, you get their attention and some measure of cooperation. Benefits bestowed are detailed in adventures featuring the sisterhood and remain unknown until the mark is used.</p><p>The mark may come in handy in the following Tier 2 adventures:</p><ul><li>Six Summoned Swords</li><li>Six Striking Swords</li><li>Six Swords Unbound</li><li>Fiendly Competition</li><li>The Undisturbed</li></ul>
   </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-sqc-03-01</guid><title>CCC-SQC-03-01 - Consumption</title><description>Pipe of Smoke Monsters, Wand of Secrets, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-sqc-03-01</link><pubDate>Thu, 12 Dec 2019 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>Consumption</h1>
+  <h3>Convention Created Content  for Tier 2
+    <em class="release"> Released  on December 12, 2019</em>
+  </h3><p>After the death of a local historian, adventurers discover that no one is safe within the walls of Hillsfar. Will you they able to stop the culprits before the city is consumed from within?</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Pipe of Smoke Monsters</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>
+        <span>Wand of Secrets</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Celia the Squirrel
+      <em class="entry-label"> Pet</em>
+    </summary><p>This squirrel is native to the Feywild, evidenced by its bright blue fur and penchant for wild magical effects. This loyal pet may accompany you on adventures, but cannot participate in combat or provide any mechanical benefit.</p>
+  </details>
+  <details class="story-award">
+    <summary>The Pursuit of Knowledge</summary><p>You chose to absorb knowledge rather than losing it to the Oozes. As a result, you infrequently have the feeling of something slithering underneath your skin and your blood appears midnight black.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-sqc-03-02</guid><title>CCC-SQC-03-02 - Shiitake</title><description>Heward’s Handy Spice Pouch, Winged Boots, 3 potions, a scroll, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-sqc-03-02</link><pubDate>Thu, 12 Dec 2019 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>Shiitake</h1>
+  <h3>Convention Created Content  for Tier 2
+    <em class="release"> Released  on December 12, 2019</em>
+  </h3><p>As news of gruesome murders begin to die down within the walls of Hillsfar, reports of deaths in the farmland reach the Senate. Coincidences or is there a bigger evil behind all this?</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Heward’s Handy Spice Pouch</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>
+        <span>Winged Boots</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Climbing</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Greater Healing</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Heroism</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Aid</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Crazy Squirrel (Paladin)
+      <em class="entry-label"> Pet</em>
+    </summary><p>Clad in shinny plate armor, this adorable squirrel also wields a sword and a shadow shield with a red symbol of the Raven Queen glowing. If <em>Speak with Animal</em> is used to communicate with it, it says it is a Paladin of the Raven Queen and is here to smite undeads!</p><p>This Crazy Squirrel functions as a pet, does not contribute to combat, or provide any benefit beyond its adorableness!</p>
+  </details>
+  <details class="story-award">
+    <summary>Time is of Your Essence</summary><p>You have assisted the Thoon Mind Flayers to acquire a strange substance they call quintessence. Aiding the mysterious creatures may yield dividend in the future. You would hope…</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-sqc-03-03</guid><title>CCC-SQC-03-03 - Toxicity</title><description>Bag of Tricks (Rust), Horn of Silent Alarm, a potion, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-sqc-03-03</link><pubDate>Thu, 12 Dec 2019 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>Toxicity</h1>
+  <h3>Convention Created Content  for Tier 2
+    <em class="release"> Released  on December 12, 2019</em>
+  </h3><p>Humans and nonhumans are dying of poison across Hillsfar. As old tensions flare up in the Senate, can you bring the mysterious mastermind to justice before civil war erupts in the streets?</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Bag of Tricks (Rust)</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>
+        <span>Horn of Silent Alarm</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Resistance (Acid)</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>The Eldritch Squirrel
+      <em class="entry-label"> Pet</em>
+    </summary><p>You found an adorable squirrel playing in a vat of harmless ooze in Gourmand’s lair. This squirrel likes to play pranks and stare in to space, acting like it is seeing through your eyes. It uses the statistics of a <strong>cat</strong> from the <em>Monster Manual</em>.</p><p>The character who earns the squirrel can name it, and becomes convinced the squirrel can telepathically communicate its feelings and desires.</p>
+  </details>
+  <details class="story-award">
+    <summary>My Dreams Taste Like Raspberries</summary><p>You bonded with Kenna one way or another, and now she always seems to know when you are in town. Any time you rest in Hillsfar, you have surreal dreams of tracking pie demons that always end in a scrumptious dessert. Kenna also pledges more tangible aid, should you need it in a future adventure.</p>
+  </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal09-05</guid><title>DDAL09-05 - Faces of Fortune</title><description>Gem of Seeing, a potion, a story award, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/ddal09-05</link><pubDate>Mon, 9 Dec 2019 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>Faces of Fortune</h1>
   <h3>Season 9 Adventure for Tier 2
@@ -2633,74 +2734,4 @@
   <details class="story-award">
     <summary>Doomguide of Kelemvor</summary><p>You are now an official priest of Kelemvor, also known as a Doomguide. You have received a set of smoky grey priestly vestments with the symbol of Kelemvor and a cowled cloak with a white domino mask that emanates harmless blue flame whenever you wear it. You also gain the following ideal, "Death is but part of life: fear it not, evade it not, and view it not as evil."</p>
   </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-gad01-03</guid><title>CCC-GAD01-03 - Caught in Time</title><description>Chronostat of Precision (Clockwork Amulet), Prospector’s Chronoglass (Periapt of Proof Against Poison), and 3 potions</description><link>https://arbron.github.io/adventure-items/adventures/ccc-gad01-03</link><pubDate>Sun, 11 Aug 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Caught in Time</h1>
-  <h3>Convention Created Content  for Tier 3
-    <em class="release"> Released  on August 11, 2019</em>
-  </h3><p>The island-penal colony of Kulaica houses some of the most dangerous creatures in all the Moonsea. You must infiltrate this penal colony and investigate the bizarre murders of wardens before the entire colony erupts in chaos.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Chronostat of Precision (Clockwork Amulet)</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>
-        <span>Prospector’s Chronoglass (Periapt of Proof Against Poison)</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>2 x 
-        <span>Potion of Invulnerability</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Supreme Healing</span>
-        <em class="entry-label"> Very Rare</em>
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-almog-27-dagon01-02</guid><title>CCC-ALMOG-27 DAGON01-02 - Cove of Fallen Souls</title><description>Dark Shard Amulet and Ring of Swimming</description><link>https://arbron.github.io/adventure-items/adventures/ccc-almog-27-dagon01-02</link><pubDate>Sat, 3 Aug 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Cove of Fallen Souls</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  by Mount Ogden Gaming Company on August 3, 2019</em>
-  </h3><p>When a demon lord rises beneath the town of Bellview, adventurers must delve through lost sea caves and depths unknown to track this monster’s descent. Will they arrive in time to save its latest victims or be consumed by the Lord of the Deep himself? Part Two of <em>The Jade Curse</em>.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Dark Shard Amulet</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>
-        <span>Ring of Swimming</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddep-drw01</guid><title>DDEP-DRW01 - Assault on Myth Nantar</title><description>Gloves of Swimming and Climbing, Staff of Thunder and Lightning, Tentacle Rod, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/ddep-drw01</link><pubDate>Wed, 31 Jul 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Assault on Myth Nantar</h1>
-  <h3>Dreams of Red Wizards Epic for Tiers 2 and 3
-    <em class="release"> Released  on July 31, 2019</em>
-  </h3><p>Thay has set it sights on taking the underwater city of Myth Nantar. Can you stop a full-on invasion by its undead armada, or will the elves be looking for a new home?</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Gloves of Swimming and Climbing</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>
-        <span>Staff of Thunder and Lightning</span>
-        <em class="entry-label"> Very Rare</em>
-      </li>
-      <li>
-        <span>Tentacle Rod</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Greater Healing</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
 </section>]]></content:encoded></item></channel></rss>

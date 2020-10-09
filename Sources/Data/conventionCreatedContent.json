@@ -9673,32 +9673,200 @@
     {
         "code": "CCC-STORM-01",
         "name": "The Barrows of Solina",
-        "description": "",
-        "incomplete": true
+        "description": "Zhentarim traders. Shadowy figures roaming the fields near Hillsfar. How do these all relate? Everything traces back to the recently unearthed grave-barrows. Rescuing a caravan from undead attackers, the adventurers learn of an ancient danger.",
+        "released": "2018-05-01",
+        "url": "https://www.dmsguild.com/product/241068/CCCSTORM01-The-Barrows-of-Solina",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Dawnfire (Sun Blade)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Holy water (flask)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 6
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Daylight",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Solina’s Blessing",
+                "description": "In the event that you come across Vornjolnir's machinations or the Harrowed King's relics, know that Solina’s blessing is upon you."
+            }
+        ]
     },
     {
         "code": "CCC-STORM-02",
         "name": "Swamp of Sorrow: Bloodpurge Village",
-        "description": "",
-        "incomplete": true
+        "description": "Bloodpurge, a bayou village in the Flooded Forest, has come under siege by malevolent powers. Many hunters in this shanty-town have gone missing. Desperate folk murmur rumors of evil lurking in the willow groves.",
+        "released": "2019-04-04",
+        "url": "https://www.dmsguild.com/product/271604/CCCSTORM02-Swamp-of-Sorrow-Bloodpurge-Village",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Bag of Tricks (Tan)",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Green Man’s Ire",
+                "description": "You disobeyed the Green Man and slew the linnorm of the Flooded Forest. When the treant yelled, “You’ll have no friends of land, sea, or air until you leave my wood”, you felt the tree’s anger.\n\n You failed to accomplish the Green Man’s quest and have made enemies out of the ancient treants of the Flooded Forest.\n\n This story award could have an effect in a later adventure."
+            }
+        ]
     },
     {
-        "code": "CCC-SVH01-01",
+        "code": "CCC-SVH-01-01",
         "name": "Dawn of the Raven Lord",
-        "description": "",
-        "incomplete": true
+        "description": "Barbarian Raids have been disrupting life in the farms outside the mining town of Glister. Thrusk Tharmuil, the town’s elder has determined that the forces of the Glister are incapable of stopping the raids and puts out a call for assistance before the farms are destroyed and the barbarian horde sets its sights on Glister.",
+        "released": "2018-11-05",
+        "url": "https://www.dmsguild.com/product/257960/CCCSVH0101-Dawn-of-the-Raven-Lord",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Figurine of Wonderous Power (Serpentine Owl)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Invulnerability",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Heal",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Uthgardt Negotiator",
+                "description": "You successfully negotiated a peace with an Uthgardt chieftain before the battle of Hetford Orchard. Chieftain Grayfeather offers his expertise as an offer of good will, and will remain a valuable point of contact in the future."
+            }
+        ]
     },
     {
-        "code": "CCC-SVH01-02",
+        "code": "CCC-SVH-01-02",
         "name": "Raven Lord's Aerie",
-        "description": "",
-        "incomplete": true
+        "description": "Raids by the forces of the Raven Lord Attatarxes have taken their toll on the villages near Glister. Having finally gained an upper hand in repelling a raid, Thrusk Tharmuil seeks aid in taking the fight to the Raven Lord.",
+        "released": "2018-11-05",
+        "url": "https://www.dmsguild.com/product/257963/CCCSVH0102-Raven-Lords-Aerie",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Vicious Glaive",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Raven Lord’s Heart",
+                "description": "You have found and destroyed the true heart of the Raven Lord Attatarxes. Doing so has left him unable to regenerate if destroyed, and vulnerable to a true death."
+            },
+            {
+                "name": "Raven Lord’s Liver",
+                "description": "You have found and destroyed the true liver of the Raven Lord Attatarxes. Doing so has surely served to weaken him in some way."
+            },
+            {
+                "name": "Raven Lord’s Lungs",
+                "description": "You have found and destroyed the true lungs of the Raven Lord Attatarxes. Doing so has surely served to weaken him in some way."
+            }
+        ]
     },
     {
-        "code": "CCC-SVH01-03",
+        "code": "CCC-SVH-01-03",
         "name": "Vault of the Raven Lord",
-        "description": "",
-        "incomplete": true
+        "description": "After sabotaging the Raven Lord’s Aerie Thrusk Tharmuil prepares to send an expedition to attempt to eliminate Attatarxes once and for all.",
+        "released": "2018-11-05",
+        "url": "https://www.dmsguild.com/product/257962/CCCSVH0103-Vault-of-the-Raven-Lord",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Rod of Absorption",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Oil of Sharpness",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Mordenkainen's Faithful Hound",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Curse from the Shadows",
+                "description": "You saved Glister, for now, but the shadow of your failure to kill the Raven Lord once and for all hangs over your spirit."
+            },
+            {
+                "name": "Fallen Raven",
+                "description": "You helped rid Glister of the threat of the Raven Lord once and for all. As a result, you are hailed as a hero to the people of Glister."
+            }
+        ]
+    },
+    {
+        "code": "CCC-SVH-03-01",
+        "name": "Finder's Fiend",
+        "description": "Souls bound to a deadly fiend have escaped the Nine Hells and taken over denizens of Thentia. The devil wants the souls back and if they're not delivered quickly, she intends to come for them herself, endangering more innocents. To save the lives of the unsuspecting hosts, adventurers must track them down and send the stray souls back to Hell.",
+        "released": "2020-04-29",
+        "url": "https://www.dmsguild.com/product/311649/CCCSVH0301-Finders-Fiend-w--FG-mod",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Amulet of Proof against Detection and Location",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Spell Scroll of Danse Macabre",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Mind Spike",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Mark of the Sisterhood",
+                "description": "You have earned some favor with the Sisterhood of the Blade bounty hunting organization. By trading in this mark to a member of the sisterhood, you get their attention and some measure of cooperation. Benefits bestowed are detailed in adventures featuring the sisterhood and remain unknown until the mark is used."
+            }
+        ]
     },
     {
         "code": "CCC-TAROT-01-01",
@@ -10089,9 +10257,11 @@
     },
     {
         "code": "CCC-TAROT-02-06",
-        "name": "",
-        "description": " Part Thirteen of *Song of Fates*.",
-        "released": null,
+        "name": "The Hand That Wields",
+        "description": "The Council of Mages is under attack! Karasht Silverflame blames his murdered apprentices on the revival of a strange, almost forgotten local cult. He wants you to capture their leader and end the killing spree. But can his stories about a flying sword that slays on its own possibly be true? Part Thirteen of *Song of Fates*.",
+        "released": "2018-08-19",
+        "url": "https://www.dmsguild.com/product/246698/CCCTAROT0206-The-Hand-That-Wields",
+        "tier": [2],
         "incomplete": true
     },
     {
@@ -10179,9 +10349,11 @@
     },
     {
         "code": "CCC-TAROT-02-10",
-        "name": "",
-        "description": " Part Seventeen of *Song of Fates*.",
+        "name": "Facades Undone",
+        "description": "In Thentia, the illness seems to have subsided, and there is rioting demand for the walls to come down. However, something lurks in the wall that is a threat to the citizens. See where allegiances lie and find the hidden machinations for those interested in the power of Fate. Part Seventeen of *Song of Fates*.",
         "released": "2020-08-03",
+        "url": "https://www.dmsguild.com/product/321118/CCCTAROT0210-Facades-Undone",
+        "tier": [2],
         "incomplete": true
     },
     {
@@ -11313,21 +11485,123 @@
     {
         "code": "CCC-UCON-01",
         "name": "Blood & Fog",
-        "description": "",
-        "incomplete": true
+        "description": "Heavy mists have plagued the area around Phlan for weeks, even after the reported death of Vorgansharax, the Maimed Virulence. People have been disappearing in those deadly fogs, and now dead bodies are turning up. A D&D Adventurer’s League adventure set in the Quivering Forest.",
+        "released": "2016-12-12",
+        "url": "https://www.dmsguild.com/product/200484/CCCUCON01-Blood--Fog",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Berserker Flail (Berserker Axe)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "I Got a Puppy!",
+                "description": "You chose to keep the wolf puppy that was trapped in the gnoll camp deep inside the Quivering Forest. It is incredibly friendly and knows a few tricks; sometimes it even brings you small presents like sticks, stones, or a dead animal. This silver-haired wolf pup never howls at the moon, but does love to play in the woods and wander through heavy fogs whenever possible. This is a non-combat pet and is intended for roleplay purposes only.",
+                "type": "pet"
+            }
+        ]
     },
     {
-        "code": "CCC-UK-1",
+        "code": "CCC-UK-01",
         "name": "Call of the Elvenflow",
-        "description": "",
-        "incomplete": true
+        "description": "Folk tales warn of strange noises from the Cormanthor Forest when winter fogs are thickest and the black of night has no shadows to cast. When such noises are heard on a late summer’s afternoon, perhaps it’s time to turn once again to the old stories?",
+        "released": "2018-10-01",
+        "url": "https://www.dmsguild.com/product/253816/CCCUK1-Call-of-the-Elvenflow",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Dust of Dryness",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Blessing of the Hexad",
+                "description": "Your kind and considerate treatment of those less fortunate than you have earned you the blessing of the Hexad. You can draw a line through this award when playing **CCC-UK-02**: *The Wayward Wives to gain inspiration*."
+            }
+        ]
     },
     {
-        "code": "CCC-UK-2",
+        "code": "CCC-UK-02",
         "name": "The Wayward Wives",
-        "description": "",
-        "incomplete": true
+        "description": "Ill winds blow over Wayward. The men drink apart from their wives, while a mysterious traveler sows discontent between married couples. The Wayward wives have had enough and are plotting revenge.",
+        "released": "2018-10-01",
+        "url": "https://www.dmsguild.com/product/253817/CCCUK2-The-Wayward-Wives",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Broom of Flying",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Witchfinder",
+                "description": "You rid the village of Wayward of a troublesome hag. If you report your triumph to the local lord, Bourne of Candles, you may acquire a reward."
+            }
+        ]
     },
+    {
+        "code": "CCC-UK-03",
+        "name": "The Tainted Grove",
+        "description": "Everyone in Moonfern Ford knows to avoid the Tainted Grove, a place of darkness and evil amidst the sylvan beauty of Cormanthor. When a young hunter goes missing in the forest, things in the village take a dark turn.",
+        "released": "2019-07-22",
+        "url": "https://www.dmsguild.com/product/283656/CCCUK3-The-Tainted-Grove",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Dust of Disappearance",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Local Hero",
+                "description": "You saved Mother Aedwen, priest of the Sacred Hexad in Moonfern Ford, from the clutches of the unseelie fey. You must report this success to the local lord of the Elvenflow Estuary, the reclusive Bourne of Candles."
+            }
+        ]
+    },
+    {
+        "code": "CCC-UK-04",
+        "name": "Bourne of Candles",
+        "description": "An ancient legend, a missing wife, and a broken heart that time won’t mend.",
+        "released": "2019-07-22",
+        "url": "https://www.dmsguild.com/product/283657/CCCUK4-Bourne-of-Candles",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Cloak of the Manta Ray",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Friend of the Bourne",
+                "description": "For returning Lady Lenedriel to Bourne Casrob, he forever treats you as a trusted friend and ally. He always grants you an audience and listens favorably to your requests."
+            },
+            {
+                "name": "Knight of the Elvenflow Estuary",
+                "description": "For your services to the folk of the Elvenflow Estuary, the Bourne of Candles has dubbed you as a knight of one of the following villages: Buttergroves, Wayward, or Moonfern Ford. You are now treated as a hero of the Evenflow Estuary. This award does not confer any mechanical benefits or retainers, though it may impact further storylines set in this area."
+            }
+        ]    },
     {
         "code": "CCC-UNITE-05",
         "name": "House of Moonlight",
@@ -11365,44 +11639,408 @@
     {
         "code": "CCC-WWC-01",
         "name": "In the Face of Fear",
-        "description": "",
-        "incomplete": true
+        "description": "A devout priestess of Torm seeks one of three platinum discs once carried by a trio of Banite fanatics. To retrieve the item, the characters must travel into the rocky, broken lands of Thar and unravel the protective magic left behind by the archmage who originally hid the disc. Part One of the *Tenets of Bane* series.",
+        "released": "2018-04-26",
+        "url": "https://www.dmsguild.com/product/240678/CCCWWC01-In-the-Face-of-Fear",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Wand of Magic Missiles",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Courage in the Face of Fear",
+                "description": "You displayed tremendous courage while retrieving the Tenet of Fear from its hiding place deep within the wilds of Thar. Malana Homwell has noted your bravery and is impressed by your actions."
+            },
+            {
+                "name": "Inspired by Torm",
+                "description": "Priestess Malana Homwell is always on the lookout for those who exhibit the qualities of Torm. Your extraordinary virtuousness has caught her eye, and she offers to teach you the beliefs of Torm. You may spend **5 downtime days** to study at the Helping Hand temple. When your instruction ends, you earn the Inspired by Torm story award.\n\n The teachings of Torm have shown you a better way to live your life. While you may not worship the deity directly, you have come to appreciate Torm’s commitment to duty, loyalty, and courage, and you do your best to incorporate these qualities into you own life. While this story award may have benefits in future adventures involving the Tenets of Bane, it is intended primarily for roleplaying purposes.",
+                "type": "downtime"
+            }
+        ]
     },
     {
         "code": "CCC-WWC-02",
         "name": "Dark Waters of Hate",
-        "description": "",
-        "incomplete": true
+        "description": "A devout priestess of Torm seeks one of three platinum discs once carried by a trio of Banite fanatics. To retrieve the item, the characters must sail the Moonsea, journey to its depths, and unravel the protective magic left behind by the archmage who originally hid the disc. Part Two of the *Tenets of Bane* series.",
+        "released": "2018-04-26",
+        "url": "https://www.dmsguild.com/product/240679/CCCWWC02-Dark-Waters-of-Hate",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Trident of Fish Command",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Water Breathing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Inspired by Torm",
+                "description": "Priestess Malana Homwell is always on the lookout for those who exhibit the qualities of Torm. Your extraordinary virtuousness has caught her eye, and she offers to teach you the beliefs of Torm. You may spend **5 downtime days** to study at the Helping Hand temple. When your instruction ends, you earn the Inspired by Torm story award.\n\n The teachings of Torm have shown you a better way to live your life. While you may not worship the deity directly, you have come to appreciate Torm’s commitment to duty, loyalty, and courage, and you do your best to incorporate these qualities into you own life. While this story award may have benefits in future adventures involving the Tenets of Bane, it is intended primarily for roleplaying purposes.",
+                "type": "downtime"
+            },
+            {
+                "name": "Mercy for the Merfolk King",
+                "description": "You displayed kindness by helping King Garnon’s spirit find eternal rest. Malana Homwell has noted your compassion and is impressed by your actions."
+            }
+        ]
     },
     {
         "code": "CCC-WWC-03",
         "name": "Tyrant of the Forgotten Forge",
-        "description": "",
-        "incomplete": true
+        "description": "A devout priestess of Torm seeks one of three platinum discs once carried by a trio of Banite fanatics. To retrieve the item, the characters must delve an abandoned dwarven mine and unravel the protective magic left behind by the archmage who originally hid the disc. Part Three of the *Tenets of Bane* series.",
+        "released": "2018-04-26",
+        "url": "https://www.dmsguild.com/product/240680/CCCWWC03-Tyrant-of-the-Forgotten-Forge",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Bag of Holding",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Inspired by Torm",
+                "description": "Priestess Malana Homwell is always on the lookout for those who exhibit the qualities of Torm. Your extraordinary virtuousness has caught her eye, and she offers to teach you the beliefs of Torm. You may spend **5 downtime days** to study at the Helping Hand temple. When your instruction ends, you earn the Inspired by Torm story award.\n\n The teachings of Torm have shown you a better way to live your life. While you may not worship the deity directly, you have come to appreciate Torm’s commitment to duty, loyalty, and courage, and you do your best to incorporate these qualities into you own life. While this story award may have benefits in future adventures involving the Tenets of Bane, it is intended primarily for roleplaying purposes.",
+                "type": "downtime"
+            },
+            {
+                "name": "Worthy Sacrifice",
+                "description": "You willingly sacrificed yourself to achieve your goal and protect your companions. Malana Homwell has learned of your deed and is impressed by your actions."
+            }
+        ]
     },
     {
         "code": "CCC-WWC-04",
         "name": "The Black Hand",
-        "description": "",
-        "incomplete": true
+        "description": "A priestess of Torm needs adventurers to travel to Thentia with three platinum discs that once belonged to a trio of Banite fanatics. From there, the items are bound for Elturgard, where they can finally be destroyed. It seems like a simple task, but followers of Bane also seek the discs. Can you see your cargo safely to its destination and rid the Moonsea of its ill influence, or will Bane’s followers successfully reclaim what they believe is their rightful property? Part Four of the *Tenets of Bane* series.",
+        "released": "2018-04-26",
+        "url": "https://www.dmsguild.com/product/240681/CCCWWC04-The-Black-Hand",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Cloak of Protection",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Giant Strength (Hill)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            }
+        ]
     },
     {
-        "code": "CCC-WYC1-1",
+        "code": "CCC-WWC-05",
+        "name": "Tyrant of Orcs",
+        "description": "The attempted destruction of three platinum discs called the Tenets of Bane has gone awry, releasing the souls of their former owners back into the world of the living. Priestess Malana Homwell once again calls for aid from the Moonsea’s factions to track down and eliminate these vile Banites, who call themselves the Servants of Strife. Can you locate the blackguard Mace Dred and stop him before he causes even more death and destruction? Part Five of the *Tenets of Bane* series.",
+        "released": "2019-12-17",
+        "url": "https://www.dmsguild.com/product/298149/CCCWWC05-Tyrant-of-Orcs",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Ring of Warmth",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Invulnerability",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Torm’s Honor",
+                "description": "You fought with honor and defeated the orc leader, Mace the Dreadful, sparing his life. In addition, you managed to retrieve the Tenet of Tyranny and deliver it to Malana Homwell. The priestess is impressed by your dedication to Torm’s ways."
+            },
+            {
+                "name": "Touched by Torm",
+                "description": "Your dedication to Torm’s ways has impressed Malana Homwell and others in the church of Torm. As a result, you are invited for an intense period of study, prayer, and reflection at the Temple of Torm’s Coming in Tantras. If you choose to attend, you emerged with a deep connection to Torm and his beliefs. You feel as though the deity has touched your very being, but what this means for your future is still unclear.\n\n **Important:** This story award is only available to characters with the *Torm’s Honor*, *Torm’s Compassion*, *Torm’s Duty*, and *Inspired by Torm* story awards. While it may have benefits in future adventures involving the Tenets of Bane, it is intended primarily for roleplaying purposes."
+            }
+        ]
+    },
+    {
+        "code": "CCC-WWC-06",
+        "name": "The Fear of Fiends",
+        "description": "The attempted destruction of three platinum discs, called the Tenets of Bane, has gone awry, releasing the souls of their former owners back into the world of the living. Priestess Malana Homwell once again calls for aid from the Moonsea’s factions to track down and eliminate these vile Banites, who call themselves the Servants of Strife. Can you get to Sax Magnus and stop her before she summons a ravening horde? Part Six of the *Tenets of Bane* series.",
+        "released": "2019-12-17",
+        "url": "https://www.dmsguild.com/product/298151/CCCWWC06-The-Fear-of-Fiends",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Brooch of Shielding",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Feather Fall",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Silence",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Torm’s Compassion",
+                "description": "You showed compassion by not sacrificing any humanoids when closing the portal to the Abyss. In addition, you managed to retrieve the Tenet of Fear and deliver it to Malana Homwell. The priestess is impressed by your dedication to Torm’s ways."
+            },
+            {
+                "name": "Touched by Torm",
+                "description": "Your dedication to Torm’s ways has impressed Malana Homwell and others in the church of Torm. As a result, you are invited for an intense period of study, prayer, and reflection at the Temple of Torm’s Coming in Tantras. If you choose to attend, you emerged with a deep connection to Torm and his beliefs. You feel as though the deity has touched your very being, but what this means for your future is still unclear.\n\n **Important:** This story award is only available to characters with the *Torm’s Honor*, *Torm’s Compassion*, *Torm’s Duty*, and *Inspired by Torm* story awards. While it may have benefits in future adventures involving the Tenets of Bane, it is intended primarily for roleplaying purposes."
+            }
+        ]
+    },
+    {
+        "code": "CCC-WWC-07",
+        "name": "The Icy Hand of Hate",
+        "description": "The attempted destruction of three platinum discs, called the Tenets of Bane, has gone awry, releasing the souls of their former owners back into the world of the living. Priestess Malana Homwell once again calls for aid from the Moonsea’s factions to track down and eliminate these vile Banites, who call themselves the Servants of Strife. Can you travel to Glister and unravel the mystery of who is trying to turn the town against itself? Part Seven of the *Tenets of Bane* series.",
+        "released": "2019-12-17",
+        "url": "https://www.dmsguild.com/product/298152/CCCWWC07-The-Icy-Hand-of-Hate",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Sentinel Shield",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Potion of Heroism",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Torm’s Duty",
+                "description": "You dutifully returned High Cleric Gregon Ord and the Tenet of Hate to Malana Homwell. The priestess is impressed by your dedication to Torm’s ways."
+            },
+            {
+                "name": "Touched by Torm",
+                "description": "Your dedication to Torm’s ways has impressed Malana Homwell and others in the church of Torm. As a result, you are invited for an intense period of study, prayer, and reflection at the Temple of Torm’s Coming in Tantras. If you choose to attend, you emerged with a deep connection to Torm and his beliefs. You feel as though the deity has touched your very being, but what this means for your future is still unclear.\n\n **Important:** This story award is only available to characters with the *Torm’s Honor*, *Torm’s Compassion*, *Torm’s Duty*, and *Inspired by Torm* story awards. While it may have benefits in future adventures involving the Tenets of Bane, it is intended primarily for roleplaying purposes."
+            }
+        ]
+    },
+    {
+        "code": "CCC-WWC-08",
+        "name": "Pool of Annihilation",
+        "description": "The platinum discs known as the Tenets of Bane have been reclaimed, and their owners, the Servants of Strife, no longer threaten the Moonsea. As the last days of summer rapidly approach, your faction asks you to meet Priestess Malana Homwell in the city of Thentia, where the lore wizard Rylan Elentaur believes he may have found a way to destroy the discs once and for all. Part Eight of the *Tenets of Bane* series.",
+        "released": "2019-12-17",
+        "url": "https://www.dmsguild.com/product/298153/CCCWWC08-Pool-of-Annihilation",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Gloves of Missile Snaring",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Mystery Key",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Raise Dead",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Divine Spark",
+                "description": "You slew a manifestation of Bane’s power in a demi-plane created by the deity. When your spirit returned to your physical form, a miniscule portion of deific power went with it. In times of great anger or duress, your eyes now glow with divine radiance. The color of the luminance is up to you."
+            },
+            {
+                "name": "Mark of Bane",
+                "description": "You fell in battle while fighting a manifestation of Bane’s power in a demi-plane created by the deity. While your spirit was returned to your physical form unharmed, you now bear the mark of Bane somewhere on your body. The mark is a small black handprint roughly three inches by two inches in size. Whenever you are presented with an opportunity to act in a manner that aligns with Bane’s tenets of fear, hatred, or tyranny, the mark itches and burns. Whether you view this as a sign to fight against Bane’s beliefs or treat it as a call to honor his teachings is up to you."
+            }
+        ]
+    },
+    {
+        "code": "CCC-WWC-09",
+        "name": "Defenders of Est'Ellma",
+        "description": "Humanoid refugees have struggled to make Est'ellma a haven for all races. Sudden disappearances have disturbed their sanctuary. Will you go to their aid?",
+        "released": "2020-04-29",
+        "url": "https://www.dmsguild.com/product/309301/CCCWWC09-Defenders-of-EstEllma",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Decanter of Endless Water",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Animal Friendship",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Protection from Evil and Good",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-WWC-10",
+        "name": "Brental's Roads Scholars",
+        "description": "Brental's Caravan Company offers a training course for adventurers seeking the vaunted title Brental's Roads Scholar. Will you prove yourselves worthy?",
+        "released": "2020-05-04",
+        "url": "https://www.dmsguild.com/product/309308/CCCWWC10-Brentals-Roads-Scholars",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Immovable Rod",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Alarm",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-WYC-01-01",
         "name": "Back to the Burning",
-        "description": "",
-        "incomplete": true
+        "description": "A priestess of Aumunator has come to the Moonsea from the Anauroch Desert beseeching aid against an old and resurgent foe. Her requests for aid so far have been for naught and she knows time is running out to uncover the machinations at work.",
+        "released": "2018-12-02",
+        "url": "https://www.dmsguild.com/product/260269/CCCWYC11-Back-to-the-Burning",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Brazier of Commanding Fire Elementals",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Teleportation Circle",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Marked by the Fire of Imix",
+                "description": "You personally experienced the searing heat of a devastation orb first hand and, while it was only an illusory experience, the flames marked you even now. On your left hand a burnt marking of Imix appears.\n\n While you have this story award, you have advantage on all Charisma checks with members of the Cult of Burning Hatred and disadvantage on all Charisma checks to interact with clergy of any good aligned deity who also has the light domain, Miriam of Aumunator being an exception. This story award may be referenced in other **WYC** modules."
+            },
+            {
+                "name": "The Sacred Oath",
+                "description": "You agreed to take Miriam’s mission as your own, placing it above all others and taking a Sacred Divine Oath. While playing **WYC-01** mods, you have advantage on any save that would cause you to act against this oath.\n\n If you should tier out by playing other adventures before finishing the series, you will have disadvantage on all social checks with the priesthood of Aumunator for violating this sacred oath."
+            }
+        ]
     },
     {
-        "code": "CCC-WYC1-2",
+        "code": "CCC-WYC-01-02",
         "name": "Where Rock and Fire Meet",
-        "description": "",
-        "incomplete": true
+        "description": "The Cult of Eternal Flame has returned to the Moonsea seeking knowledge left behind at the sites of their greatest successes. Armed with a shard of information and a location in the middle of Mulmaster, can you discover the truth?",
+        "released": "2018-12-02",
+        "url": "https://www.dmsguild.com/product/260270/CCCWYC12-Where-Rock-and-Fire-Meet",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Flare (Flame Tongue Shortsword)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Resistance (Fire)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
-        "code": "CCC-WYC1-3",
+        "code": "CCC-WYC-01-03",
         "name": "The Dawn Heresy",
-        "description": "",
-        "incomplete": true
+        "description": "A heresy has infiltrated the faithful of Lathander by an enemy thought defeated and now the City of Forges might pay the price. The Cult of Eternal Flame’s plan looks to come to fruition; can you stop a catastrophe of extraplanar proportions?",
+        "released": "2018-12-02",
+        "url": "https://www.dmsguild.com/product/260272/CCCWYC13-The-Dawn-Heresy",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Wand of Fireballs",
+                "rarity": "rare"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Joined the Inquisition",
+                "description": "You have decided to join Miriam’s quest to root out the Cult of the Radiant Dawn throughout the Moonsea, no matter where and to whom that journey may take you. You have advantage on all Charisma checks with followers of Aumunator and disadvantage on all Charisma checks with followers of Lathander. Further, after any adventure in the Moonsea, you may spend **10 downtime days** to go to the Holy Cathedral of the Sun to receive spellcasting services for half price.\n\n After completing an adventure in Melvaunt, the cost is only **2 downtime days**.",
+                "type": "downtime"
+            },
+            {
+                "name": "Rejected the Inquisition",
+                "description": "You have decided not to follow Miriam’s inquisition against the Cult of the Radiant Dawn, for reasons that are your own. You may never acquire spellcasting services from the Holy Cathedral of the Sun and all spellcasting services in Melvaunt cost double for this character. Further, you have advantage on Charisma checks with followers of Lathander who appreciate your standing up to Miriam’s new inquisition."
+            }
+        ]
     },
     {
         "code": "CCC-YLRA01-01",

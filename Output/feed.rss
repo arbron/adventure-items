@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Tue, 6 Oct 2020 14:01:23 -0700</lastBuildDate><pubDate>Tue, 6 Oct 2020 14:01:23 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-01</guid><title>DDAL10-01 - The Frozen North</title><description>Goggles of Night, 3 potions, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-01</link><pubDate>Fri, 16 Oct 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Fri, 9 Oct 2020 14:13:14 -0700</lastBuildDate><pubDate>Fri, 9 Oct 2020 14:13:14 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-01</guid><title>DDAL10-01 - The Frozen North</title><description>Goggles of Night, 3 potions, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-01</link><pubDate>Fri, 16 Oct 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>The Frozen North</h1>
   <h3>Season 10 Adventure for Tier 1
     <em class="release"> Released  on October 16, 2020</em>
@@ -491,6 +491,28 @@
       </li>
     </ul>
   </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-wwc-10</guid><title>CCC-WWC-10 - Brental's Roads Scholars</title><description>Immovable Rod, a potion, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-wwc-10</link><pubDate>Sun, 3 May 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>Brental's Roads Scholars</h1>
+  <h3>Convention Created Content  for Tier 1
+    <em class="release"> Released  on May 3, 2020</em>
+  </h3><p>Brental's Caravan Company offers a training course for adventurers seeking the vaunted title Brental's Roads Scholar. Will you prove yourselves worthy?</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Immovable Rod</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Greater Healing</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Alarm</span>
+        <em class="entry-label"> Common</em>
+      </li>
+    </ul>
+  </p>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-eb-05</guid><title>DDAL-EB-05 - A Century of Ashes</title><description>Sending Stones, a potion, 5 story awards, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/ddal-eb-05</link><pubDate>Sun, 3 May 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>A Century of Ashes</h1>
   <h3>Oracle of War Adventure for Tier 2
@@ -642,6 +664,54 @@
   <details class="story-award">
     <summary>Do It A Capella</summary><p>You have performed with the traveling a capella kenku bard troupe, Roc Capella. Should you encounter them again, you will be welcome to join in their performance and are treated as part of the band.</p>
   </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-svh-03-01</guid><title>CCC-SVH-03-01 - Finder's Fiend</title><description>Amulet of Proof against Detection and Location, 2 scrolls, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-svh-03-01</link><pubDate>Tue, 28 Apr 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>Finder's Fiend</h1>
+  <h3>Convention Created Content  for Tier 2
+    <em class="release"> Released  on April 28, 2020</em>
+  </h3><p>Souls bound to a deadly fiend have escaped the Nine Hells and taken over denizens of Thentia. The devil wants the souls back and if they're not delivered quickly, she intends to come for them herself, endangering more innocents. To save the lives of the unsuspecting hosts, adventurers must track them down and send the stray souls back to Hell.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Amulet of Proof against Detection and Location</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Danse Macabre</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Mind Spike</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Mark of the Sisterhood</summary><p>You have earned some favor with the Sisterhood of the Blade bounty hunting organization. By trading in this mark to a member of the sisterhood, you get their attention and some measure of cooperation. Benefits bestowed are detailed in adventures featuring the sisterhood and remain unknown until the mark is used.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-wwc-09</guid><title>CCC-WWC-09 - Defenders of Est'Ellma</title><description>Decanter of Endless Water, a potion, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-wwc-09</link><pubDate>Tue, 28 Apr 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>Defenders of Est'Ellma</h1>
+  <h3>Convention Created Content  for Tier 1
+    <em class="release"> Released  on April 28, 2020</em>
+  </h3><p>Humanoid refugees have struggled to make Est'ellma a haven for all races. Sudden disappearances have disturbed their sanctuary. Will you go to their aid?</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Decanter of Endless Water</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Animal Friendship</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Protection from Evil and Good</span>
+        <em class="entry-label"> Common</em>
+      </li>
+    </ul>
+  </p>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal09-15</guid><title>DDAL09-15 - Maddening Screams</title><description>Helm of Telepathy, Red Dragon Scale Male, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ddal09-15</link><pubDate>Mon, 27 Apr 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>Maddening Screams</h1>
   <h3>Season 9 Adventure for Tier 3
@@ -1783,6 +1853,130 @@
   <details class="story-award">
     <summary>Star of the Deep</summary><p>The Constellation offers to brand each adventurer with a special sigil—a large star.</p><p>To anyone else, the sigil looks like a normal tattoo. However, when you look at it, you see the writhing and twisting tentacles of The Constellation.</p>
   </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-wwc-05</guid><title>CCC-WWC-05 - Tyrant of Orcs</title><description>Ring of Warmth, 2 potions, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-wwc-05</link><pubDate>Mon, 16 Dec 2019 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>Tyrant of Orcs</h1>
+  <h3>Convention Created Content  for Tier 2
+    <em class="release"> Released  on December 16, 2019</em>
+  </h3><p>The attempted destruction of three platinum discs called the Tenets of Bane has gone awry, releasing the souls of their former owners back into the world of the living. Priestess Malana Homwell once again calls for aid from the Moonsea’s factions to track down and eliminate these vile Banites, who call themselves the Servants of Strife. Can you locate the blackguard Mace Dred and stop him before he causes even more death and destruction? Part Five of the <em>Tenets of Bane</em> series.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Ring of Warmth</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Greater Healing</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Invulnerability</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Torm’s Honor</summary><p>You fought with honor and defeated the orc leader, Mace the Dreadful, sparing his life. In addition, you managed to retrieve the Tenet of Tyranny and deliver it to Malana Homwell. The priestess is impressed by your dedication to Torm’s ways.</p>
+  </details>
+  <details class="story-award">
+    <summary>Touched by Torm</summary><p>Your dedication to Torm’s ways has impressed Malana Homwell and others in the church of Torm. As a result, you are invited for an intense period of study, prayer, and reflection at the Temple of Torm’s Coming in Tantras. If you choose to attend, you emerged with a deep connection to Torm and his beliefs. You feel as though the deity has touched your very being, but what this means for your future is still unclear.</p><p><strong>Important:</strong> This story award is only available to characters with the <em>Torm’s Honor</em>, <em>Torm’s Compassion</em>, <em>Torm’s Duty</em>, and <em>Inspired by Torm</em> story awards. While it may have benefits in future adventures involving the Tenets of Bane, it is intended primarily for roleplaying purposes.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-wwc-06</guid><title>CCC-WWC-06 - The Fear of Fiends</title><description>Brooch of Shielding, a potion, 2 scrolls, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-wwc-06</link><pubDate>Mon, 16 Dec 2019 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>The Fear of Fiends</h1>
+  <h3>Convention Created Content  for Tier 2
+    <em class="release"> Released  on December 16, 2019</em>
+  </h3><p>The attempted destruction of three platinum discs, called the Tenets of Bane, has gone awry, releasing the souls of their former owners back into the world of the living. Priestess Malana Homwell once again calls for aid from the Moonsea’s factions to track down and eliminate these vile Banites, who call themselves the Servants of Strife. Can you get to Sax Magnus and stop her before she summons a ravening horde? Part Six of the <em>Tenets of Bane</em> series.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Brooch of Shielding</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Greater Healing</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Feather Fall</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Silence</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Torm’s Compassion</summary><p>You showed compassion by not sacrificing any humanoids when closing the portal to the Abyss. In addition, you managed to retrieve the Tenet of Fear and deliver it to Malana Homwell. The priestess is impressed by your dedication to Torm’s ways.</p>
+  </details>
+  <details class="story-award">
+    <summary>Touched by Torm</summary><p>Your dedication to Torm’s ways has impressed Malana Homwell and others in the church of Torm. As a result, you are invited for an intense period of study, prayer, and reflection at the Temple of Torm’s Coming in Tantras. If you choose to attend, you emerged with a deep connection to Torm and his beliefs. You feel as though the deity has touched your very being, but what this means for your future is still unclear.</p><p><strong>Important:</strong> This story award is only available to characters with the <em>Torm’s Honor</em>, <em>Torm’s Compassion</em>, <em>Torm’s Duty</em>, and <em>Inspired by Torm</em> story awards. While it may have benefits in future adventures involving the Tenets of Bane, it is intended primarily for roleplaying purposes.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-wwc-07</guid><title>CCC-WWC-07 - The Icy Hand of Hate</title><description>Sentinel Shield, 4 potions, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-wwc-07</link><pubDate>Mon, 16 Dec 2019 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>The Icy Hand of Hate</h1>
+  <h3>Convention Created Content  for Tier 2
+    <em class="release"> Released  on December 16, 2019</em>
+  </h3><p>The attempted destruction of three platinum discs, called the Tenets of Bane, has gone awry, releasing the souls of their former owners back into the world of the living. Priestess Malana Homwell once again calls for aid from the Moonsea’s factions to track down and eliminate these vile Banites, who call themselves the Servants of Strife. Can you travel to Glister and unravel the mystery of who is trying to turn the town against itself? Part Seven of the <em>Tenets of Bane</em> series.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Sentinel Shield</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>3 x 
+        <span>Potion of Greater Healing</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Heroism</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Torm’s Duty</summary><p>You dutifully returned High Cleric Gregon Ord and the Tenet of Hate to Malana Homwell. The priestess is impressed by your dedication to Torm’s ways.</p>
+  </details>
+  <details class="story-award">
+    <summary>Touched by Torm</summary><p>Your dedication to Torm’s ways has impressed Malana Homwell and others in the church of Torm. As a result, you are invited for an intense period of study, prayer, and reflection at the Temple of Torm’s Coming in Tantras. If you choose to attend, you emerged with a deep connection to Torm and his beliefs. You feel as though the deity has touched your very being, but what this means for your future is still unclear.</p><p><strong>Important:</strong> This story award is only available to characters with the <em>Torm’s Honor</em>, <em>Torm’s Compassion</em>, <em>Torm’s Duty</em>, and <em>Inspired by Torm</em> story awards. While it may have benefits in future adventures involving the Tenets of Bane, it is intended primarily for roleplaying purposes.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-wwc-08</guid><title>CCC-WWC-08 - Pool of Annihilation</title><description>Gloves of Missile Snaring, Mystery Key, 2 potions, a scroll, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-wwc-08</link><pubDate>Mon, 16 Dec 2019 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>Pool of Annihilation</h1>
+  <h3>Convention Created Content  for Tier 2
+    <em class="release"> Released  on December 16, 2019</em>
+  </h3><p>The platinum discs known as the Tenets of Bane have been reclaimed, and their owners, the Servants of Strife, no longer threaten the Moonsea. As the last days of summer rapidly approach, your faction asks you to meet Priestess Malana Homwell in the city of Thentia, where the lore wizard Rylan Elentaur believes he may have found a way to destroy the discs once and for all. Part Eight of the <em>Tenets of Bane</em> series.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Gloves of Missile Snaring</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>
+        <span>Mystery Key</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>2 x 
+        <span>Potion of Greater Healing</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Raise Dead</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Divine Spark</summary><p>You slew a manifestation of Bane’s power in a demi-plane created by the deity. When your spirit returned to your physical form, a miniscule portion of deific power went with it. In times of great anger or duress, your eyes now glow with divine radiance. The color of the luminance is up to you.</p>
+  </details>
+  <details class="story-award">
+    <summary>Mark of Bane</summary><p>You fell in battle while fighting a manifestation of Bane’s power in a demi-plane created by the deity. While your spirit was returned to your physical form unharmed, you now bear the mark of Bane somewhere on your body. The mark is a small black handprint roughly three inches by two inches in size. Whenever you are presented with an opportunity to act in a manner that aligns with Bane’s tenets of fear, hatred, or tyranny, the mark itches and burns. Whether you view this as a sign to fight against Bane’s beliefs or treat it as a call to honor his teachings is up to you.</p>
+  </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-malth-01</guid><title>CCC-MALTH-01 - Selûne's Tear</title><description>Lantern of Revealing, a potion, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-malth-01</link><pubDate>Sun, 15 Dec 2019 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>Selûne's Tear</h1>
   <h3>Convention Created Content  for Tier 2
@@ -2599,139 +2793,5 @@
   <h2>Story Awards</h2>
   <details class="story-award">
     <summary>Juiblex’s Gift</summary><p>The encounter with Jubilex has left you ‘changed’. If you took any damage from an ooze or slime in the basement you gain this story award. A sentient ooze-like creature latches on to you. The creature is harmless and hides inside your body during combat but seeps out of your pores and slithers all over your body. The sentient ooze can speak to others verbally, forming a mouth to do so, and to you telepathically, and tries to impose its own unnatural hunger for living flesh on you, giving you an additional flaw:</p><p><strong><em>Hunger.</em></strong> <em>I constantly crave for living flesh</em></p><p>The sentient ooze creature can be destroyed via a <em>Remove Curse</em> spell.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-gsp-phil01-02</guid><title>CCC-GSP-PHIL01-02 - The Murmuring Hollow of the Flooded Forest</title><description>Eyes of Minute Seeing</description><link>https://arbron.github.io/adventure-items/adventures/ccc-gsp-phil01-02</link><pubDate>Tue, 20 Aug 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>The Murmuring Hollow of the Flooded Forest</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  by Greasy Snitches on August 20, 2019</em>
-  </h3><p>A threatening presence has been discovered in the Trollcrag mountains, causing troubled hearts inYlraphon. Greater threats may be much closer to home, however. The Dragul Orcs of the Flooded Forestare being slaughtered. In their desperation, they are turning to Ylraphon for salvation. What dark threatsawait you in the Murmuring Hollow of the Flooded Forest? Part Two of the <em>Dead Gods Collide</em> series.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Eyes of Minute Seeing</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-gsp-phil01-03</guid><title>CCC-GSP-PHIL01-03 - The Whispering Shadows of the Eldest Ruin</title><description>Robe of Useful Items</description><link>https://arbron.github.io/adventure-items/adventures/ccc-gsp-phil01-03</link><pubDate>Tue, 20 Aug 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>The Whispering Shadows of the Eldest Ruin</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  by Greasy Snitches on August 20, 2019</em>
-  </h3><p>When the conflict between two fanatical groups boils over, danger knocks directly on Ylraphon’s door. As violence erupts all around, you must delve into the Eldest Ruins, the most ancient remnants of Outer Ylraphon. There, a ruined drow manor house is said to contain an artifact strong enough to stop the forces rampaging through the Old City. Part Three of the <em>Dead Gods Collide</em> series.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Robe of Useful Items</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-scar-02-02</guid><title>CCC-SCAR-02-02 - Nature's Defense</title><description>2 potions and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-scar-02-02</link><pubDate>Tue, 20 Aug 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Nature's Defense</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  on August 20, 2019</em>
-  </h3><p>A recent earthquake has revealed an unexplored cave system in the forests around Zhentil Keep, and rumors of old pirate treasure are drawing treasure hunters. Yet something is warping nature and causing attacks on the unwary. You’ve been asked to find the source and to set things right. Are you ready?</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>1 x 
-        <span>Potion of Healing</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Resistance (Poison)</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>And My Horses Also!</summary><p>You are beloved of House Malatar for returning their wayward scion with his retinue, and thus may be called on again in times of need.</p>
-  </details>
-  <details class="story-award">
-    <summary>At Least I Survived</summary><p>You are appreciated by House Malatar for returning their wayward scion, but they really, really wish you had also returned their valued servants.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-slmh01-01</guid><title>CCC-SLMH01-01 - Codex Venator</title><description>a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-slmh01-01</link><pubDate>Mon, 19 Aug 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Codex Venator</h1>
-  <h3>Convention Created Content  for Tier 2
-    <em class="release"> Released  on August 19, 2019</em>
-  </h3><p>The last descendent of an ancient order would like to vanquish that evil before it spreads, but, betrayed by his age, he’ll need the help of noble adventurers to fulfill his ancient thirst for vengeance.</p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Newblood Hunters</summary><p>The characters have chosen to join the ancient <strong>Order of the Noble Hunters</strong> signing a contract with their own blood.</p><p>They can now use the manor as a base of their operation and they will certainly become entangled with other mysterious assignments from the Order.</p><p>Naturally, this will draw the attention of old enemies of the order…</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-gsp-nthr01-01</guid><title>CCC-GSP-NTHR01-01 - A Night of Sorrows</title><description>Amulet of Health and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-gsp-nthr01-01</link><pubDate>Wed, 14 Aug 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>A Night of Sorrows</h1>
-  <h3>Convention Created Content  for Tier 3
-    <em class="release"> Released  by Greasy Snitches on August 14, 2019</em>
-  </h3><p>A small settlement on the outskirts of the Cormanthor forest called Dusklight has recently called for aid in defending against monstrous creatures that have begun attacking. Their leader, Kyria, believes they may be coming from the nearby ruins; a fragment of the ancient city of Thultanthar. Is this just a coincidence, or is there something more sinister at work here?</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Amulet of Health</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Silent Nights</summary><p>Characters have put an end to the Sorrowsworn and their source, and have ensured that Kyria’s secrets remain unknown. Kyria is thankful for your discretion in handling the matter.</p>
-  </details>
-  <details class="story-award">
-    <summary>Twilight Fades</summary><p>Characters have put an end to the Sorrowsworn and their source, but have also revealed its existence to the inhabitants of Dusklight. With their newfound knowledge, numerous settlers have left, leaving it a shell of what it once was.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-almog-26-dagon01-01</guid><title>CCC-ALMOG-26 DAGON01-01 - Shadowed Bellview</title><description>Bag of Holding, Candle of the Deep, 2 potions, 2 scrolls, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-almog-26-dagon01-01</link><pubDate>Tue, 13 Aug 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Shadowed Bellview</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  by Mount Ogden Gaming Company on August 13, 2019</em>
-  </h3><p>Some things are best left to rot in their forgotten temples. Even in the isolated village of Bellview, common folk suffers the consequences of a treasure hunter’s greed. Part One of <em>The Jade Curse</em>.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Bag of Holding</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>
-        <span>Candle of the Deep</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>2 x 
-        <span>Potion of Healing</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>2 x 
-        <span>Spell Scroll of Comprehend Languages</span>
-        <em class="entry-label"> Common</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Touched by Dagon</summary><p>Keeps track of how many jade shards the character has collected. Circle the number of jade shards your character has collected.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-gsp01-02</guid><title>CCC-GSP01-02 - Brotherhood</title><description>Pipe of Smoke Monsters and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-gsp01-02</link><pubDate>Tue, 13 Aug 2019 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Brotherhood</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  by Greasy Snitches on August 13, 2019</em>
-  </h3><p>Ragvala, an ancient gold dragon and the founder of the Five-Leaf Clover is dead. A funeral ceremony will be held in 3 days before he becomes one with the earth. Rokstasha, his friend and a djinni has asked the help of the adventurers to find the other members of the Five-Leaf Clover if they are still alive and have them attend the ceremony. Don’t be late! Part 2 of the <em>Clover Group Series</em>.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Pipe of Smoke Monsters</span>
-        <em class="entry-label"> Common</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Five-Leaf Clover Initiate</summary><p>A senior member of the Five Leaf Clover has taken a liking of you and made you a junior member of their adventuring group. A magical tattoo of a five-leaf clover has been permanently placed at the back of your right hand. When you put your will to it, harmless green flame erupts from the tattoo and engulfs your hand.</p>
-  </details>
-  <details class="story-award">
-    <summary>Doomguide of Kelemvor</summary><p>You are now an official priest of Kelemvor, also known as a Doomguide. You have received a set of smoky grey priestly vestments with the symbol of Kelemvor and a cowled cloak with a white domino mask that emanates harmless blue flame whenever you wear it. You also gain the following ideal, "Death is but part of life: fear it not, evade it not, and view it not as evil."</p>
   </details>
 </section>]]></content:encoded></item></channel></rss>

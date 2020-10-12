@@ -148,12 +148,23 @@
     {
         "code": "CCC-ALMOG-01 TALES01-01",
         "name": "What Lies Beneath",
-        "description": "The SALT Consortium has been unable to protect Zor Celis Helrehd’s caravans traveling through Hawksroost as more of them go missing each day. Zor Celis Helrehd has had enough and has taken out a bounty for adventurers to find out What Lies Beneath.",
+        "description": "The SALT Consortium has been unable to protect Zor Celis Helrehd’s caravans traveling through Hawksroost as more of them go missing each day. Zor Celis Helrehd has had enough and has taken out a bounty for adventurers to find out *What Lies Beneath*.",
         "released": "2018-11-13",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/257958/CCCALMOG01-TALES0101-What-Lies-Beneath",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Bands of the Tharkul (Bracers of Archery)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-ALMOG-03 TALES03-01",
@@ -163,7 +174,42 @@
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/250115/CCCALMOG03-TALES0301-Claws-of-Fury",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Belt of Fire Giant Strength",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Antitoxin (vial)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Supreme Healing",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Enhance Ability",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Grasping Vine",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-ALMOG-20 TALES01-04",
@@ -191,7 +237,30 @@
         "released": "2019-08-14",
         "url": "https://www.dmsguild.com/product/284732/Beneath-Ironfang-Keep",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Cloak of the Manta Ray",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Mage Hand",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Touched by Dagon",
+                "description": "The party could potentially complete this adventure with Bertrand’s jade necklace connecting them to Dagon and the larger story of the Jade Statue."
+            }
+        ]
     },
     {
         "code": "CCC-ALMOG-25 SALT01-05",
@@ -356,7 +425,49 @@
         "released": "2019-01-02",
         "url": "https://www.dmsguild.com/product/263173/CCCAN01-Secrets-of-Golden-Fire",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Clockwork Amulet",
+                "rarity": "common"
+            },
+            {
+                "name": "Helm of Telepathy",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Shadow Blade",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Betrayed the School",
+                "description": "Your choices have made you a mortal enemy of the Swift Horse School and its Founder. They avoid you as best they can and are likely to retaliate against you with force should the conditions favor them. Perhaps one day you can redeem yourself in their eyes…"
+            },
+            {
+                "name": "Blessing of the Ki-rin",
+                "description": "You have helped the Ki-rin and its allies on the Moonsea and it may see fit to bless you with celestial aid down the road. This can only happen if you once again elect to help the School of the Swift Horse."
+            },
+            {
+                "name": "Saved the School",
+                "description": " Having aided the school in a time of great need, you are welcome to stay with them for a time, come what may. If you spend **5 downtime days** training at Swift Horse, you train your spirit to make one future Wisodm saving throws with advantage, at which point this benefit disappears.",
+                "type": "downtime"
+            }
+        ]
     },
     {
         "code": "CCC-AN-02",
@@ -447,7 +558,7 @@
         ]
     },
     {
-        "code": "CCC-ANIME01-01",
+        "code": "CCC-ANIME-01-01",
         "name": "Legend of the Sword Bandit Surprise",
         "description": "A priest of Ilmater seeks to right an old wrong to please his god. Will you trust the whims of hags and journey through time to find out what when wrong during the Festival of Stars?",
         "released": "2018-03-13",
@@ -473,7 +584,7 @@
         ]
     },
     {
-        "code": "CCC-ANIME01-02",
+        "code": "CCC-ANIME-01-02",
         "name": "Let's Find the Sword, GO!",
         "description": "After learning that Daern’s Blade, a relic that had protected the town of Hawksroost, vanished centuries ago, Sorrim requires assistance in locating it. An old halfling adventurer has learned rumors of the blade hidden within the Vanishing Hills. These same rumors also say that it may be guarded by something ancient. With the Festival of the Stars only a few days out, can the blade be found and returned in time?",
         "released": "2018-03-13",
@@ -505,7 +616,7 @@
         ]
     },
     {
-        "code": "CCC-ANIME01-03",
+        "code": "CCC-ANIME-01-03",
         "name": "Star Sword, Return!",
         "description": "With less than two days until the Festival of Stars in Hawksroost, Daern's Blade is still missing, but the adventurers are en route to its resting place. Are they truly prepared for what they find?",
         "released": "2018-03-13",
@@ -531,7 +642,21 @@
         ]
     },
     {
-        "code": "CCC-BLD01-01",
+        "code": "CCC-AWE-01-02",
+        "name": "The Chi Directive",
+        "description": "Stories of Muckflash Marsh have been told for decades—deep whispered voices and floating lights. Recently the lights have brightened, and the voices turned higher pitched. A young woman has brought tales of evil doings at the march and a plea for aid. Part One of the *Mischief of Profiteering* series.",
+        "released": "2020-07-20",
+        "url": "https://www.dmsguild.com/product/320477/CCCAWE0102-The-Chi-Directive",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Lantern of Revealing",
+                "rarity": "uncommon"
+            }
+        ]
+    },
+    {
+        "code": "CCC-BLD-01-01",
         "name": "Bleeding Gate: Pandemonium",
         "description": "Hired as security escorts for a group of noble children on a pilgrimage to the underground town of Emudomier, the party meet a strange tiefling being hunted by the father of her unborn child and Peacesmith master negotiators who's vows of peace do not prevent them from experiencing tragedy. Can adventurers discover the cause of Peacesmith and wildlife disappearances? Can they put a stop to the chaos that plagues Emmudomier and threatens all of Toril?",
         "released": "2017-08-02",
@@ -559,7 +684,7 @@
         ]
     },
     {
-        "code": "CCC-BLD01-02",
+        "code": "CCC-BLD-01-02",
         "name": "Bleeding Gate: Amalgamation",
         "description": "When the party is hired to assist a covert organization, investigating the disappearances of Peacesmith, they are sent deep into the bowels of the town. It’s dirty work and the party certainly smells the stench of conspiracy (among other things). But after charging into a colossal mess in the Border Forest, they come face-to-face with the culprit.",
         "released": "2017-08-03",
@@ -573,7 +698,7 @@
         ]
     },
     {
-        "code": "CCC-BLD01-03",
+        "code": "CCC-BLD-01-03",
         "name": "Bleeding Gate: Lineage",
         "description": "A towering aberration threatens Emudomier. The mastermind behind its creation and the Peacesmith killings remain unknown. Can the adventurers end the chaos or will Emudomier, the Moonsea, and all of Toril be overwhelmed?",
         "released": "2018-01-18",
@@ -7423,6 +7548,15 @@
         ]
     },
     {
+        "code": "CCC-PIPYAPS-DH-01",
+        "name": "Breaking Bes",
+        "description": "An illness affecting the Mulmaster refugees has reached epidemic levels. Magical treatments are effective but limited. An antidote can be found in a stronghold in Minauros. The imp Pipyap has agreed to help you gain entry…for just a tiny favor…really. Part Three of the *Mischief of Profiteering* series.",
+        "released": "2020-07-20",
+        "url": "https://www.dmsguild.com/product/320481/CCCPIPYAPSDH1-Breaking-Bes",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
         "code": "CCC-PP-TDD-01-01",
         "name": "Troubled Under Winton",
         "description": "An earthquake has felled the windmill of Winton into a sinkhole. Were that not bad enough, humanoids have been seen skulking around its ruins at night, and an odd ruby glow can be seen from within. Can you discover the secret under Winton? Part One of *The Danger Downunder* series.",
@@ -9456,7 +9590,7 @@
         "storyAwards": [
             {
                 "name": "Guild Delving",
-                "description": "Immediately before or after an adventure set in Ylraphon, you may spend up to 30 downtime days (minimum 10) to attempt to research, find, and explore some of the ruins of Outer Ylraphon in search of treasure. In the presence of the DM, roll percentile dice and add the number of days spent on this downtime activity, comparing the total to the Treasure Seeking Results Table on this page.\n\n| d100 + Downtime Spent | Result |\n| ------ | ------ |\n| 1–35 | A fatiguing and fruitless cavern exploration. You spend 10 gp on expenses and gain 4 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 36–50 | A difficult and taxing trudge through the Flooded Forest. You gain 2 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 51–65 | A strange and discouraging affair. You make only enough to recuperate half of your lifestyle expenses. |\n| 66–79 | A lengthy but unremarkable overland trip. You recuperate half your lifestyle expenses and gain 2d12 gp. |\n| 80–89 | A profitable expedition to the Underdark. You recuperate half your lifestyle expenses and gain 1d4 x 10 gp. |\n| 90–99 | An exciting delve into a lost dwarven tomb. You recuperate half your lifestyle expenses and gain 1d6 x 10 gp. |\n| 100–109 | An unexpected discovery of a long-lost merchant house compound. You recuperate all your lifestyle expenses and gain 1d8 x 10 gp, as well as a book on the history of a Sword Coast city or town. (Have your DM select a title for it.) |\n| 110–119 | A lost shrine. You recuperate all your lifestyle expenses and gain 1d10 x 10 gp as well as a holy symbol for a deity of your choice. |\n| 120 or Higher | Altar of the Ghost Hound. You find a millennia-old shrine to a god you cannot identify, with treasures laid upon an altar deep beneath the ground. You recuperate all your lifestyle expenses and gain 1d12 x 10 gp as well as a *potion of healing*. ***If this is the first time you have rolled this result:*** You also gain a shining copper cloak-pin bearing the image of a flaming spirit hound. Write down “Copper Pin of the Spirit Hound” as a separate story award on your logsheet. |",
+                "description": "Immediately before or after an adventure set in Ylraphon, you may spend up to **30 downtime days** (minimum 10) to attempt to research, find, and explore some of the ruins of Outer Ylraphon in search of treasure. In the presence of the DM, roll percentile dice and add the number of days spent on this downtime activity, comparing the total to the Treasure Seeking Results Table on this page.\n\n| d100 + Downtime Spent | Result |\n| ------ | ------ |\n| 1–35 | A fatiguing and fruitless cavern exploration. You spend 10 gp on expenses and gain 4 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 36–50 | A difficult and taxing trudge through the Flooded Forest. You gain 2 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 51–65 | A strange and discouraging affair. You make only enough to recuperate half of your lifestyle expenses. |\n| 66–79 | A lengthy but unremarkable overland trip. You recuperate half your lifestyle expenses and gain 2d12 gp. |\n| 80–89 | A profitable expedition to the Underdark. You recuperate half your lifestyle expenses and gain 1d4 x 10 gp. |\n| 90–99 | An exciting delve into a lost dwarven tomb. You recuperate half your lifestyle expenses and gain 1d6 x 10 gp. |\n| 100–109 | An unexpected discovery of a long-lost merchant house compound. You recuperate all your lifestyle expenses and gain 1d8 x 10 gp, as well as a book on the history of a Sword Coast city or town. (Have your DM select a title for it.) |\n| 110–119 | A lost shrine. You recuperate all your lifestyle expenses and gain 1d10 x 10 gp as well as a holy symbol for a deity of your choice. |\n| 120 or Higher | Altar of the Ghost Hound. You find a millennia-old shrine to a god you cannot identify, with treasures laid upon an altar deep beneath the ground. You recuperate all your lifestyle expenses and gain 1d12 x 10 gp as well as a *potion of healing*. ***If this is the first time you have rolled this result:*** You also gain a shining copper cloak-pin bearing the image of a flaming spirit hound. Write down “Copper Pin of the Spirit Hound” as a separate story award on your logsheet. |",
                 "type": "downtime"
             },
             {
@@ -9510,7 +9644,7 @@
         "storyAwards": [
             {
                 "name": "Guild Delving",
-                "description": "Immediately before or after an adventure set in Ylraphon, you may spend up to 30 downtime days (minimum 10) to attempt to research, find, and explore some of the ruins of Outer Ylraphon in search of treasure. In the presence of the DM, roll percentile dice and add the number of days spent on this downtime activity, comparing the total to the Treasure Seeking Results Table on this page.\n\n| d100 + Downtime Spent | Result |\n| ------ | ------ |\n| 1–35 | A fatiguing and fruitless cavern exploration. You spend 10 gp on expenses and gain 4 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 36–50 | A difficult and taxing trudge through the Flooded Forest. You gain 2 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 51–65 | A strange and discouraging affair. You make only enough to recuperate half of your lifestyle expenses. |\n| 66–79 | A lengthy but unremarkable overland trip. You recuperate half your lifestyle expenses and gain 2d12 gp. |\n| 80–89 | A profitable expedition to the Underdark. You recuperate half your lifestyle expenses and gain 1d4 x 10 gp. |\n| 90–99 | An exciting delve into a lost dwarven tomb. You recuperate half your lifestyle expenses and gain 1d6 x 10 gp. |\n| 100–109 | An unexpected discovery of a long-lost merchant house compound. You recuperate all your lifestyle expenses and gain 1d8 x 10 gp, as well as a book on the history of a Sword Coast city or town. (Have your DM select a title for it.) |\n| 110–119 | A lost shrine. You recuperate all your lifestyle expenses and gain 1d10 x 10 gp as well as a holy symbol for a deity of your choice. |\n| 120 or Higher | Altar of the Ghost Hound. You find a millennia-old shrine to a god you cannot identify, with treasures laid upon an altar deep beneath the ground. You recuperate all your lifestyle expenses and gain 1d12 x 10 gp as well as a *potion of healing*. ***If this is the first time you have rolled this result:*** You also gain a shining copper cloak-pin bearing the image of a flaming spirit hound. Write down “Copper Pin of the Spirit Hound” as a separate story award on your logsheet. |",
+                "description": "Immediately before or after an adventure set in Ylraphon, you may spend up to **30 downtime days** (minimum 10) to attempt to research, find, and explore some of the ruins of Outer Ylraphon in search of treasure. In the presence of the DM, roll percentile dice and add the number of days spent on this downtime activity, comparing the total to the Treasure Seeking Results Table on this page.\n\n| d100 + Downtime Spent | Result |\n| ------ | ------ |\n| 1–35 | A fatiguing and fruitless cavern exploration. You spend 10 gp on expenses and gain 4 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 36–50 | A difficult and taxing trudge through the Flooded Forest. You gain 2 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 51–65 | A strange and discouraging affair. You make only enough to recuperate half of your lifestyle expenses. |\n| 66–79 | A lengthy but unremarkable overland trip. You recuperate half your lifestyle expenses and gain 2d12 gp. |\n| 80–89 | A profitable expedition to the Underdark. You recuperate half your lifestyle expenses and gain 1d4 x 10 gp. |\n| 90–99 | An exciting delve into a lost dwarven tomb. You recuperate half your lifestyle expenses and gain 1d6 x 10 gp. |\n| 100–109 | An unexpected discovery of a long-lost merchant house compound. You recuperate all your lifestyle expenses and gain 1d8 x 10 gp, as well as a book on the history of a Sword Coast city or town. (Have your DM select a title for it.) |\n| 110–119 | A lost shrine. You recuperate all your lifestyle expenses and gain 1d10 x 10 gp as well as a holy symbol for a deity of your choice. |\n| 120 or Higher | Altar of the Ghost Hound. You find a millennia-old shrine to a god you cannot identify, with treasures laid upon an altar deep beneath the ground. You recuperate all your lifestyle expenses and gain 1d12 x 10 gp as well as a *potion of healing*. ***If this is the first time you have rolled this result:*** You also gain a shining copper cloak-pin bearing the image of a flaming spirit hound. Write down “Copper Pin of the Spirit Hound” as a separate story award on your logsheet. |",
                 "type": "downtime"
             },
             {
@@ -9562,7 +9696,7 @@
             },
             {
                 "name": "Guild Delving",
-                "description": "Immediately before or after an adventure set in Ylraphon, you may spend up to 30 downtime days (minimum 10) to attempt to research, find, and explore some of the ruins of Outer Ylraphon in search of treasure. In the presence of the DM, roll percentile dice and add the number of days spent on this downtime activity, comparing the total to the Treasure Seeking Results Table on this page.\n\n| d100 + Downtime Spent | Result |\n| ------ | ------ |\n| 1–35 | A fatiguing and fruitless cavern exploration. You spend 10 gp on expenses and gain 4 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 36–50 | A difficult and taxing trudge through the Flooded Forest. You gain 2 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 51–65 | A strange and discouraging affair. You make only enough to recuperate half of your lifestyle expenses. |\n| 66–79 | A lengthy but unremarkable overland trip. You recuperate half your lifestyle expenses and gain 2d12 gp. |\n| 80–89 | A profitable expedition to the Underdark. You recuperate half your lifestyle expenses and gain 1d4 x 10 gp. |\n| 90–99 | An exciting delve into a lost dwarven tomb. You recuperate half your lifestyle expenses and gain 1d6 x 10 gp. |\n| 100–109 | An unexpected discovery of a long-lost merchant house compound. You recuperate all your lifestyle expenses and gain 1d8 x 10 gp, as well as a book on the history of a Sword Coast city or town. (Have your DM select a title for it.) |\n| 110–119 | A lost shrine. You recuperate all your lifestyle expenses and gain 1d10 x 10 gp as well as a holy symbol for a deity of your choice. |\n| 120 or Higher | Altar of the Ghost Hound. You find a millennia-old shrine to a god you cannot identify, with treasures laid upon an altar deep beneath the ground. You recuperate all your lifestyle expenses and gain 1d12 x 10 gp as well as a *potion of healing*. ***If this is the first time you have rolled this result:*** You also gain a shining copper cloak-pin bearing the image of a flaming spirit hound. Write down “Copper Pin of the Spirit Hound” as a separate story award on your logsheet. |",
+                "description": "Immediately before or after an adventure set in Ylraphon, you may spend up to **30 downtime days** (minimum 10) to attempt to research, find, and explore some of the ruins of Outer Ylraphon in search of treasure. In the presence of the DM, roll percentile dice and add the number of days spent on this downtime activity, comparing the total to the Treasure Seeking Results Table on this page.\n\n| d100 + Downtime Spent | Result |\n| ------ | ------ |\n| 1–35 | A fatiguing and fruitless cavern exploration. You spend 10 gp on expenses and gain 4 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 36–50 | A difficult and taxing trudge through the Flooded Forest. You gain 2 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 51–65 | A strange and discouraging affair. You make only enough to recuperate half of your lifestyle expenses. |\n| 66–79 | A lengthy but unremarkable overland trip. You recuperate half your lifestyle expenses and gain 2d12 gp. |\n| 80–89 | A profitable expedition to the Underdark. You recuperate half your lifestyle expenses and gain 1d4 x 10 gp. |\n| 90–99 | An exciting delve into a lost dwarven tomb. You recuperate half your lifestyle expenses and gain 1d6 x 10 gp. |\n| 100–109 | An unexpected discovery of a long-lost merchant house compound. You recuperate all your lifestyle expenses and gain 1d8 x 10 gp, as well as a book on the history of a Sword Coast city or town. (Have your DM select a title for it.) |\n| 110–119 | A lost shrine. You recuperate all your lifestyle expenses and gain 1d10 x 10 gp as well as a holy symbol for a deity of your choice. |\n| 120 or Higher | Altar of the Ghost Hound. You find a millennia-old shrine to a god you cannot identify, with treasures laid upon an altar deep beneath the ground. You recuperate all your lifestyle expenses and gain 1d12 x 10 gp as well as a *potion of healing*. ***If this is the first time you have rolled this result:*** You also gain a shining copper cloak-pin bearing the image of a flaming spirit hound. Write down “Copper Pin of the Spirit Hound” as a separate story award on your logsheet. |",
                 "type": "downtime"
             },
             {
@@ -11637,6 +11771,65 @@
         ]
     },
     {
+        "code": "CCC-VOTE-01-01",
+        "name": "A Small Trifle",
+        "description": "Jeny Greenteeth again needs the help of adventurers, and this time, she is willing to pay a large price for their help—restoring the pact between Phlan and the fey of the Quivering Forest. All she needs is a coin from a dragon hoard. Easy enough, right? You may change your mind when you hear the name of the dragon…",
+        "released": "2020-05-08",
+        "url": "https://www.dmsguild.com/product/312580/CCCVOTE0101-A-Small-Trifle",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Emerald Eye (Ersatz Eye)",
+                "rarity": "common"
+            },
+            {
+                "name": "Jeny’s Hairpin (Javelin of Warning)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Diminution",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Mage's Spellbook",
+                "spells": [
+                    { "name": "fire bolt", "level": 0 },
+                    { "name": "light", "level": 0 },
+                    { "name": "mage hand", "level": 0 },
+                    { "name": "prestidigitation", "level": 0 },
+                    { "name": "detect magic", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "shield", "level": 1 },
+                    { "name": "misty step", "level": 2 },
+                    { "name": "suggestion", "level": 2 },
+                    { "name": "counterspell", "level": 3 },
+                    { "name": "fireball", "level": 3 },
+                    { "name": "fly", "level": 3 },
+                    { "name": "greater invisibility", "level": 4 },
+                    { "name": "ice storm", "level": 4 },
+                    { "name": "cone of cold", "level": 5 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Banned: Stygia",
+                "description": "The frozen, inhospitable wilderness of Stygia is home to many vile creatures as well as an uncountable number from the Material Plane. Desperate criminals and those condemned to death may pray to Levistus, the ruler of Stygia, for freedom; should he answer, they are transported here. For reasons known only to you and him, you are forever banned from setting foot within Stygia. Perhaps you redeemed too many souls, or maybe you were discovered to be in league with Geryon, the former ruler of this realm; regardless, Levistus has closed this later of the Nine Hells to you. You can’t participate in further adventures in this place.\n\n A character with this story award may visit other areas of the Nine Hells but has been banned from Stygia."
+            }
+        ]
+    },
+    {
         "code": "CCC-WWC-01",
         "name": "In the Face of Fear",
         "description": "A devout priestess of Torm seeks one of three platinum discs once carried by a trio of Banite fanatics. To retrieve the item, the characters must travel into the rocky, broken lands of Thar and unravel the protective magic left behind by the archmage who originally hid the disc. Part One of the *Tenets of Bane* series.",
@@ -12043,21 +12236,377 @@
         ]
     },
     {
-        "code": "CCC-YLRA01-01",
+        "code": "CCC-YLRA-01-01",
         "name": "Her Dying Wish",
-        "description": "",
-        "incomplete": true
+        "description": "You’ve come to the wild frontier outpost of Ylraphon, a town rebuilt from destruction and now ruled by adventurers, to pass on a proud noblewoman’s final wish to her dungeon-raiding heirs. Yet the young heroes of House Marsh have delved too deep. Can you rescue them from a trap-filled ruin, vengeful assassins, and a mysterious entity that turns its attackers into its defenders? Part One of the *Whispers Over Ylraphon* series.",
+        "released": "2017-07-02",
+        "url": "https://www.dmsguild.com/product/215448/CCCYLRA0101-Her-Dying-Wish",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Ioun Stone of Reserve",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Giant Strength (Fire)",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Glyph of Warding",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Water Breathing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "A Treatise on Selûne's Phases and the Prediction of Future Events",
+                "spells": [
+                    { "name": "chromatic orb", "level": 1 },
+                    { "name": "find familiar", "level": 1 },
+                    { "name": "ice knife", "level": 1 },
+                    { "name": "Tasha's hideous laughter", "level": 1 },
+                    { "name": "crown of madness", "level": 2 },
+                    { "name": "Maximilian's earthen grasp", "level": 2 },
+                    { "name": "erupting earth", "level": 3 },
+                    { "name": "tidal wave", "level": 3 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Eldritch Amber Prison",
+                "description": "Great misfortune caused you to be trapped and locked away in an eldritch amber prison controlled by the ancient entity called the Tree of Doors. You remain there, alive but in a death-like hibernation, until you are rescued by members of the Adventurers Guild of Ylraphon. Spend **20 downtime days** to wait until you are rescued. If you do not have the downtime days to spend, you are still eventually freed, but whenever you earn downtime during any future adventure, it is immediately spent towards repaying the downtime cost of this story award, until you have spent a total of 20, after which you resume earning downtime normally."
+            },
+            {
+                "name": "Founding Landowner",
+                "description": "Spend 1,000 gp and **30 downtime days** to obtain this award, which marks you as a resident of Ylraphon. You are the owner of a 10-foot by 10-foot room in town which you can call entirely your own, which contains a bed, one chest, two chairs, and a very small table. In addition, while adventuring in the Ylraphon area, you can reduce the cost of a comfortable, wealthy, or aristocratic lifestyle by 2 gp per day (to a minimum of 1 gp per day).",
+                "type": "property"
+            },
+            {
+                "name": "Guild Delving",
+                "description": "Immediately before or after an adventure set in Ylraphon, you may spend up to **30 downtime days** (minimum 10) to attempt to research, find, and explore some of the ruins of Outer Ylraphon in search of treasure. In the presence of the DM, roll percentile dice and add the number of days spent on this downtime activity, comparing the total to the Treasure Seeking Results Table on this page.\n\n| d100 + Downtime Spent | Result |\n| ------ | ------ |\n| 1–35 | A fatiguing and fruitless cavern exploration. You spend 10 gp on expenses and gain 4 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 36–50 | A difficult and taxing trudge through the Flooded Forest. You gain 2 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 51–65 | A strange and discouraging affair. You make only enough to recuperate half of your lifestyle expenses. |\n| 66–79 | A lengthy but unremarkable overland trip. You recuperate half your lifestyle expenses and gain 2d12 gp. |\n| 80–89 | A profitable expedition to the Underdark. You recuperate half your lifestyle expenses and gain 1d4 x 10 gp. |\n| 90–99 | An exciting delve into a lost dwarven tomb. You recuperate half your lifestyle expenses and gain 1d6 x 10 gp. |\n| 100–109 | An unexpected discovery of a long-lost merchant house compound. You recuperate all your lifestyle expenses and gain 1d8 x 10 gp, as well as a book on the history of a Sword Coast city or town. (Have your DM select a title for it.) |\n| 110–119 | A lost shrine. You recuperate all your lifestyle expenses and gain 1d10 x 10 gp as well as a holy symbol for a deity of your choice. |\n| 120 or Higher | Altar of the Ghost Hound. You find a millennia-old shrine to a god you cannot identify, with treasures laid upon an altar deep beneath the ground. You recuperate all your lifestyle expenses and gain 1d12 x 10 gp as well as a *potion of healing*. ***If this is the first time you have rolled this result:*** You also gain a shining copper cloak-pin bearing the image of a flaming spirit hound. Write down “Copper Pin of the Spirit Hound” as a separate story award on your logsheet. |",
+                "type": "downtime"
+            },
+            {
+                "name": "Local Pursuit: Academic Researcher",
+                "description": "You enjoy research privileges at Master Salvar’s Academy of Spellcraft and the Arcanist’s Art, a school of magic still under construction. Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. Record the chosen skill as part of this story award (*“Local Pursuit: Academic Researcher (Skill)”*). Immediately before or after an adventure set in Ylraphon, you may spend **5 downtime days** performing special research. Once during your next game session, you may inform your DM you are using this benefit to gain advantage on a single Intelligence check or on a single Constitution saving throw to maintain your concentration on a spell when you take damage. If you use this benefit on an Intelligence check for the skill you chose when you gained this story award, you may treat a d20 roll of 9 or lower as a 10 for that check.",
+                "type": "downtime"
+            },
+            {
+                "name": "Local Pursuit: Monster Hunting",
+                "description": "You hunt a certain type of creature in the local wilderness during your spare time in Ylraphon. Choose one of the following: black puddings, hags, fire giants, shambling mounds, dinosaurs, umber hulks, beholders (and beholder-kin, such as gauths or mindwitnesses), yugoloths, golems, zombies, red dragons, or hell hounds. (If you have the Favored Enemy feature, you may instead choose one type of humanoid that is your favored enemy.) Record your choice as part of this story award (*“Local Pursuit: Monster Hunting (Creature Type)”*). Immediately before or after an adventure set in Ylraphon, you may spend **5 downtime days** hunting with experienced trackers. Once during your next game session after this activity, you may inform your DM you are using this benefit to gain advantage on a single attack or initiative roll against a creature of the type you chose for this story award, or on one Wisdom check.",
+                "type": "downtime"
+            },
+            {
+                "name": "Local Pursuit: Preaching the Faith",
+                "description": "You take on an important role at a local temple or shrine. Choose a deity you worship. If you do not already worship a chosen deity, you must choose one worshiped by a fellow member of your party. Record your choice as part of this story award (*“Local Pursuit: Preaching the Faith (Deity)”*). Immediately before or after an adventure set in Ylraphon, you may spend **5 downtime days** participating in or leading religious rites (such as weddings, funerals, ordinations, or rituals recognizing holy occasions). If you do so, you gain the benefits of having spent 3 days performing the Recuperating downtime activity (as described in the *Player’s Handbook*), and you begin your next game session with Inspiration.",
+                "type": "downtime"
+            },
+            {
+                "name": "Local Pursuit: Shadowcloak Specialist",
+                "description": "You have become an influential member or ally of the Shadowcloaks, Ylraphon’s thieves’ guild, and they rely on you for your expertise in a particular illicit activity. Choose any one tool. Record the chosen tool as part of this story award (*“Local Pursuit: Shadowcloak Specialist (Tool)”*). Immediately before or after an adventure set in Ylraphon, you may spend **5 downtime days** performing illicit activities with the Shadowcloaks in town. Once during your next game session after this activity, you may inform your DM you are using this benefit to gain advantage on a single ability check with the tool you chose for this story award or on a single initiative roll.",
+                "type": "downtime"
+            },
+            {
+                "name": "Local Pursuit: Town Watch Training",
+                "description": "You help to train the new Town Watch. Choose a type of simple or martial weapon that you and your comrades train with and record it as part of this story award (*“Local Pursuit: Town Watch Training (Weapon)”*). (If you wish, you may choose Unarmed Strike as a weapon for this purpose.) Immediately before or after an adventure set in Ylraphon, you may spend **5 downtime days** training Town Watch members or recruits. Once during your next game session after this activity, you may inform your DM you are using this benefit to gain advantage on a single attack roll with the weapon you chose for this story award or on a single social interaction check with members of a law enforcement organization (such as the Ylraphon Town Watch).",
+                "type": "downtime"
+            },
+            {
+                "name": "Old City Infamy",
+                "description": "Your activities have earned you both respect and contempt. Rumors of your activities alienate the Mulmasterites who live in the Old City. You have disadvantage on Charisma (Persuasion) checks with refugees living in the area outside the Palisade. However, due to the rivalry between these newcomers and the natives, you gain advantage on Charisma (Persuasion) checks with Ylraphon locals who live within the Palisade."
+            },
+            {
+                "name": "Ylraphon Adventurers Guild",
+                "description": "The Adventurers Guild of Ylraphon is a loose-knit league of “dungeoneers, tomb-robbers, errant crusaders, swashbuckling mercenaries, and sundry formidable scalawags of all races and vocations” (according to its charter). It represents adventurers’ interests in town and helps regulate the profitable exploration of the surrounding ruins.\n\n To initially join the Adventurers Guild of Ylraphon, a character must speak to Jotan Silverhammer, lieutenant guildmaster and volunteer sergeant of the Town Watch. There is no cost if you discovered the cause of the illness affecting the Old City, or if you obtain one of the **Local Pursuit** story awards, due to your substantial contribution to prosperity of the Old City. Otherwise, initial dues are 50 gp, with additional payments of 12 gp a month. These costs are waived, however, for volunteers either who work three shifts a month for the Town Watch. In game terms, this means a character must spend 50 gp to join, and to remain a member, whenever they spend downtime, they must spend an additional 4 gp for every 10 downtime days they spend (though you may be able to substitute downtime for this cost, see below).\n\n If a character who owes these dues fails to pay them as soon as they spend downtime, they must pay them by the end of their next game session or they lose all benefits of guild membership, and must pay the 50 gp initial dues again to regain them.\n\n Members of the Adventurers Guild may delve local ruins in search of treasure. They gain access to the **Guild Delving** downtime activity before or after any adventure set in Ylraphon."
+            }
+        ]
     },
     {
-        "code": "CCC-YLRA01-02",
+        "code": "CCC-YLRA-01-02",
         "name": "Uneasy Lies the Head",
-        "description": "",
+        "description": "Refugees from Mulmaster have flooded the rough-and-tumble town of Ylraphon. Poverty, shortages, overcrowding, and an unnatural heatwave have tempers running high. When a series of mysterious crimes erupt, the people are desperate for someone to blame. Can you find the connection and the culprit, or will the angry mob deal its own form of justice? Part Two of the *Whispers Over Ylraphon* series.",
+        "released": "2017-07-02",
+        "url": "https://www.dmsguild.com/product/215484/CCCYLRA0102-Uneasy-Lies-the-Head",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Flame Tongue",
+                "rarity": "rare"
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Vanquo’s Spellbook",
+                "spells": [
+                    { "name": "alter self", "level": 2 },
+                    { "name": "enlarge/reduce", "level": 2 },
+                    { "name": "glyph of warding", "level": 2 },
+                    { "name": "suggestion", "level": 2 },
+                    { "name": "dispel magic", "level": 3 },
+                    { "name": "fly", "level": 3 },
+                    { "name": "greater invisibility", "level": 4 },
+                    { "name": "teleportation circle", "level": 5 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Caveat Venditor",
+                "description": "You managed to disperse a swarm of pixies from the Chiang Emporium in Ylraphon with minimal damage to the shop. Your reputation for mastery and grace precedes you amongst members of the Chiang Emporium."
+            },
+            {
+                "name": "An Emberstar Exclusive",
+                "description": "You’ve gained the favor of Sebastian Emberstar after rescuing his employees from a lynch mob. In gratitude, he grants you an exclusive offer: access to their forges. You have the one-time opportunity to provide your own funds to add decorative flourishes to a weapon you own (gems in the hilt, embossed or filigree in the blades, etc). You can spend any amount, but if you spend at least 10,000 gold, the weapon’s craftsmanship impresses those who view it and know about such things. At the DM’s option, once per adventure you can gain advantage on a Charisma-based ability check by flourishing or displaying the weapon."
+            },
+            {
+                "name": "Guild Delving",
+                "description": "Immediately before or after an adventure set in Ylraphon, you may spend up to **30 downtime days** (minimum 10) to attempt to research, find, and explore some of the ruins of Outer Ylraphon in search of treasure. In the presence of the DM, roll percentile dice and add the number of days spent on this downtime activity, comparing the total to the Treasure Seeking Results Table on this page.\n\n| d100 + Downtime Spent | Result |\n| ------ | ------ |\n| 1–35 | A fatiguing and fruitless cavern exploration. You spend 10 gp on expenses and gain 4 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 36–50 | A difficult and taxing trudge through the Flooded Forest. You gain 2 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 51–65 | A strange and discouraging affair. You make only enough to recuperate half of your lifestyle expenses. |\n| 66–79 | A lengthy but unremarkable overland trip. You recuperate half your lifestyle expenses and gain 2d12 gp. |\n| 80–89 | A profitable expedition to the Underdark. You recuperate half your lifestyle expenses and gain 1d4 x 10 gp. |\n| 90–99 | An exciting delve into a lost dwarven tomb. You recuperate half your lifestyle expenses and gain 1d6 x 10 gp. |\n| 100–109 | An unexpected discovery of a long-lost merchant house compound. You recuperate all your lifestyle expenses and gain 1d8 x 10 gp, as well as a book on the history of a Sword Coast city or town. (Have your DM select a title for it.) |\n| 110–119 | A lost shrine. You recuperate all your lifestyle expenses and gain 1d10 x 10 gp as well as a holy symbol for a deity of your choice. |\n| 120 or Higher | Altar of the Ghost Hound. You find a millennia-old shrine to a god you cannot identify, with treasures laid upon an altar deep beneath the ground. You recuperate all your lifestyle expenses and gain 1d12 x 10 gp as well as a *potion of healing*. ***If this is the first time you have rolled this result:*** You also gain a shining copper cloak-pin bearing the image of a flaming spirit hound. Write down “Copper Pin of the Spirit Hound” as a separate story award on your logsheet. |",
+                "type": "downtime"
+            },
+            {
+                "name": "Local Pursuit: Acadmic Researcher",
+                "description": "You enjoy research privileges at Master Salvar’s Academy of Spellcraft and the Arcanist’s Art, a school of magic still under construction. Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. Record the chosen skill as part of this story award (*“Local Pursuit: Academic Researcher (Skill)”*). Immediately before or after an adventure set in Ylraphon, you may spend **5 downtime days** performing special research. Once during your next game session, you may inform your DM you are using this benefit to gain advantage on a single Intelligence check or on a single Constitution saving throw to maintain your concentration on a spell when you take damage. If you use this benefit on an Intelligence check for the skill you chose when you gained this story award, you may treat a d20 roll of 9 or lower as a 10 for that check.",
+                "type": "downtime"
+            },
+            {
+                "name": "Local Pursuit: Preaching the Faith",
+                "description": "You take on an important role at a local temple or shrine. Choose a deity you worship. If you do not already worship a chosen deity, you must choose one worshiped by a fellow member of your party. Record your choice as part of this story award (*“Local Pursuit: Preaching the Faith (Deity)”*). Immediately before or after an adventure set in Ylraphon, you may spend **5 downtime days** participating in or leading religious rites (such as weddings, funerals, ordinations, or rituals recognizing holy occasions). If you do so, you gain the benefits of having spent 3 days performing the Recuperating downtime activity (as described in the *Player’s Handbook*), and you begin your next game session with Inspiration.",
+                "type": "downtime"
+            },
+            {
+                "name": "Local Pursuit: Shadowcloak Specialist",
+                "description": "You have become an influential member or ally of the Shadowcloaks, Ylraphon’s thieves’ guild, and they rely on you for your expertise in a particular illicit activity. Choose any one tool. Record the chosen tool as part of this story award (*“Local Pursuit: Shadowcloak Specialist (Tool)”*). Immediately before or after an adventure set in Ylraphon, you may spend **5 downtime days** performing illicit activities with the Shadowcloaks in town. Once during your next game session after this activity, you may inform your DM you are using this benefit to gain advantage on a single ability check with the tool you chose for this story award or on a single initiative roll.",
+                "type": "downtime"
+            },
+            {
+                "name": "Local Pursuit: Town Watch Training",
+                "description": "You help to train the new Town Watch. Choose a type of simple or martial weapon that you and your comrades train with and record it as part of this story award (*“Local Pursuit: Town Watch Training (Weapon)”*). (If you wish, you may choose Unarmed Strike as a weapon for this purpose.) Immediately before or after an adventure set in Ylraphon, you may spend **5 downtime days** training Town Watch members or recruits. Once during your next game session after this activity, you may inform your DM you are using this benefit to gain advantage on a single attack roll with the weapon you chose for this story award or on a single social interaction check with members of a law enforcement organization (such as the Ylraphon Town Watch).",
+                "type": "downtime"
+            },
+            {
+                "name": "The Moonmaiden's Waters",
+                "description": "You foiled an attack on the Moonwater, preventing Vanquo from taking control of the temple. While the temples’ famous prophetic baths were befouled, the High Initiate, Andorran Bree, has offered you an opportunity to use them once the waters are suitably cleansed."
+            },
+            {
+                "name": "…A Terrible Thing to Waste",
+                "description": "You fell in battle against the minions of a renegade mind flayer. But an adventurer’s brain—even when not taken alive — is a delicacy few mind flayers could resist. Selfless heroics add such a delicious spice! Your story ends here, although your demise spares you from spending your days as a mindless thrall—a fate your compatriots are likely to share."
+            },
+            {
+                "name": "Ylraphon Adventurers Guild",
+                "description": "The Adventurers Guild of Ylraphon is a loose-knit league of “dungeoneers, tomb-robbers, errant crusaders, swashbuckling mercenaries, and sundry formidable scalawags of all races and vocations” (according to its charter). It represents adventurers’ interests in town and helps regulate the profitable exploration of the surrounding ruins.\n\n To initially join the Adventurers Guild of Ylraphon, a character must speak to Jotan Silverhammer, lieutenant guildmaster and volunteer sergeant of the Town Watch. There is no cost if you discovered the cause of the illness affecting the Old City, or if you obtain one of the **Local Pursuit** story awards, due to your substantial contribution to prosperity of the Old City. Otherwise, initial dues are 50 gp, with additional payments of 12 gp a month. These costs are waived, however, for volunteers either who work three shifts a month for the Town Watch. In game terms, this means a character must spend 50 gp to join, and to remain a member, whenever they spend downtime, they must spend an additional 4 gp for every 10 downtime days they spend (though you may be able to substitute downtime for this cost, see below).\n\n If a character who owes these dues fails to pay them as soon as they spend downtime, they must pay them by the end of their next game session or they lose all benefits of guild membership, and must pay the 50 gp initial dues again to regain them.\n\n Members of the Adventurers Guild may delve local ruins in search of treasure. They gain access to the **Guild Delving** downtime activity before or after any adventure set in Ylraphon."
+            }
+        ]
+    },
+    {
+        "code": "CCC-YLRA-01-03",
+        "name": "Bound by Duty",
+        "description": "Civil disorder threatens to throw the leaderless town of Ylraphon into chaos. You find respite from this political strife when the Chiang Emporium hires you for an escort mission. The task: sail south to accompany a Chiang Emporium envoy on a return voyage to Ylraphon, where her wedding is to take place upon her arrival. The voyage is perilous, but not nearly as complicated as what awaits when you finally make it back to town. Part Three of the *Whispers Over Ylraphon* series.",
+        "released": "2017-07-02",
+        "url": "https://www.dmsguild.com/product/215508/CCCYLRA0103-Bound-By-Duty",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Oath Basin of Alyolvoy (Bowl of Commanding Water Elementals)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Heroism",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Boon of the Sea Hags",
+                "description": "You bargained with sea hags, trading lives or goods for the benefit of those wicked creatures. They promised you a boon of luck, and the hags deliver on that promise: you have received a boon of bad luck.\n\n The next time you receive a point of Inspiration, it works in reverse, forcing you to roll with Disadvantage when you spend that point of Inspiration. As per the usual rule, you cannot have more than one point of Inspiration at a time, so you must spend any Inspiration you receive before you can get another one.\n\n Once this happens three times, this boon loses its effect, but the story award remains."
+            },
+            {
+                "name": "Chiang Enmity",
+                "description": "Whether willful or not, your actions have somehow subverted the Chiang Emporium. Word of your deeds travels fast between the Chiang’s numerous mercantile posts. From there, your ill reputation spreads among Shou communities throughout the Sword Coast and beyond.\n\n You gain disadvantage on Charisma-based ability checks that involve interacting with individuals from House Chiang. Additionally, you gain disadvantage on those same checks that involve Shou individuals who are friendly or neutral towards House Chiang and the reigning Shou empire.\n\n You lose this story award and any of its effects if you ever earn the **Chiang Goodwill** story award."
+            },
+            {
+                "name": "Chiang Goodwill",
+                "description": "Your service to the Chiang Emporium has earned you their respect. Word of your deeds travels fast between the Chiang’s numerous mercantile posts. From there, your reputation spreads among Shou communities throughout the Sword Coast and beyond.\n\n You gain advantage on Charisma-based ability checks that involve interacting with individuals from House Chiang. Additionally, you gain advantage on those same checks that involve Shou individuals who are friendly or neutral towards House Chiang and the reigning Shou empire.\n\n You lose this story award and any of its effects if you ever earn the **Chiang Enmity** story award."
+            },
+            {
+                "name": "Guild Delving",
+                "description": "Immediately before or after an adventure set in Ylraphon, you may spend up to **30 downtime days** (minimum 10) to attempt to research, find, and explore some of the ruins of Outer Ylraphon in search of treasure. In the presence of the DM, roll percentile dice and add the number of days spent on this downtime activity, comparing the total to the Treasure Seeking Results Table on this page.\n\n| d100 + Downtime Spent | Result |\n| ------ | ------ |\n| 1–35 | A fatiguing and fruitless cavern exploration. You spend 10 gp on expenses and gain 4 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 36–50 | A difficult and taxing trudge through the Flooded Forest. You gain 2 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 51–65 | A strange and discouraging affair. You make only enough to recuperate half of your lifestyle expenses. |\n| 66–79 | A lengthy but unremarkable overland trip. You recuperate half your lifestyle expenses and gain 2d12 gp. |\n| 80–89 | A profitable expedition to the Underdark. You recuperate half your lifestyle expenses and gain 1d4 x 10 gp. |\n| 90–99 | An exciting delve into a lost dwarven tomb. You recuperate half your lifestyle expenses and gain 1d6 x 10 gp. |\n| 100–109 | An unexpected discovery of a long-lost merchant house compound. You recuperate all your lifestyle expenses and gain 1d8 x 10 gp, as well as a book on the history of a Sword Coast city or town. (Have your DM select a title for it.) |\n| 110–119 | A lost shrine. You recuperate all your lifestyle expenses and gain 1d10 x 10 gp as well as a holy symbol for a deity of your choice. |\n| 120 or Higher | Altar of the Ghost Hound. You find a millennia-old shrine to a god you cannot identify, with treasures laid upon an altar deep beneath the ground. You recuperate all your lifestyle expenses and gain 1d12 x 10 gp as well as a *potion of healing*. ***If this is the first time you have rolled this result:*** You also gain a shining copper cloak-pin bearing the image of a flaming spirit hound. Write down “Copper Pin of the Spirit Hound” as a separate story award on your logsheet. |",
+                "type": "downtime"
+            },
+            {
+                "name": "Local Pursuit: Monster Hunting",
+                "description": "You hunt a certain type of creature in the local wilderness during your spare time in Ylraphon. Choose one of the following: black puddings, hags, fire giants, shambling mounds, dinosaurs, umber hulks, beholders (and beholder-kin, such as gauths or mindwitnesses), yugoloths, golems, zombies, red dragons, or hell hounds. (If you have the Favored Enemy feature, you may instead choose one type of humanoid that is your favored enemy.) Record your choice as part of this story award (*“Local Pursuit: Monster Hunting (Creature Type)”*). Immediately before or after an adventure set in Ylraphon, you may spend **5 downtime days** hunting with experienced trackers. Once during your next game session after this activity, you may inform your DM you are using this benefit to gain advantage on a single attack or initiative roll against a creature of the type you chose for this story award, or on one Wisdom check.",
+                "type": "downtime"
+            },
+            {
+                "name": "Local Pursuit: Preaching the Faith",
+                "description": "You take on an important role at a local temple or shrine. Choose a deity you worship. If you do not already worship a chosen deity, you must choose one worshiped by a fellow member of your party. Record your choice as part of this story award (*“Local Pursuit: Preaching the Faith (Deity)”*). Immediately before or after an adventure set in Ylraphon, you may spend **5 downtime days** participating in or leading religious rites (such as weddings, funerals, ordinations, or rituals recognizing holy occasions). If you do so, you gain the benefits of having spent 3 days performing the Recuperating downtime activity (as described in the *Player’s Handbook*), and you begin your next game session with Inspiration.",
+                "type": "downtime"
+            },
+            {
+                "name": "Local Pursuit: Shadowcloak Specialist",
+                "description": "You have become an influential member or ally of the Shadowcloaks, Ylraphon’s thieves’ guild, and they rely on you for your expertise in a particular illicit activity. Choose any one tool. Record the chosen tool as part of this story award (*“Local Pursuit: Shadowcloak Specialist (Tool)”*). Immediately before or after an adventure set in Ylraphon, you may spend **5 downtime days** performing illicit activities with the Shadowcloaks in town. Once during your next game session after this activity, you may inform your DM you are using this benefit to gain advantage on a single ability check with the tool you chose for this story award or on a single initiative roll.",
+                "type": "downtime"
+            },
+            {
+                "name": "Local Pursuit: Town Watch Training",
+                "description": "You help to train the new Town Watch. Choose a type of simple or martial weapon that you and your comrades train with and record it as part of this story award (*“Local Pursuit: Town Watch Training (Weapon)”*). (If you wish, you may choose Unarmed Strike as a weapon for this purpose.) Immediately before or after an adventure set in Ylraphon, you may spend **5 downtime days** training Town Watch members or recruits. Once during your next game session after this activity, you may inform your DM you are using this benefit to gain advantage on a single attack roll with the weapon you chose for this story award or on a single social interaction check with members of a law enforcement organization (such as the Ylraphon Town Watch).",
+                "type": "downtime"
+            },
+            {
+                "name": "Ylraphon Adventurers Guild",
+                "description": "The Adventurers Guild of Ylraphon is a loose-knit league of “dungeoneers, tomb-robbers, errant crusaders, swashbuckling mercenaries, and sundry formidable scalawags of all races and vocations” (according to its charter). It represents adventurers’ interests in town and helps regulate the profitable exploration of the surrounding ruins.\n\n To initially join the Adventurers Guild of Ylraphon, a character must speak to Jotan Silverhammer, lieutenant guildmaster and volunteer sergeant of the Town Watch. There is no cost if you discovered the cause of the illness affecting the Old City, or if you obtain one of the **Local Pursuit** story awards, due to your substantial contribution to prosperity of the Old City. Otherwise, initial dues are 50 gp, with additional payments of 12 gp a month. These costs are waived, however, for volunteers either who work three shifts a month for the Town Watch. In game terms, this means a character must spend 50 gp to join, and to remain a member, whenever they spend downtime, they must spend an additional 4 gp for every 10 downtime days they spend (though you may be able to substitute downtime for this cost, see below).\n\n If a character who owes these dues fails to pay them as soon as they spend downtime, they must pay them by the end of their next game session or they lose all benefits of guild membership, and must pay the 50 gp initial dues again to regain them.\n\n Members of the Adventurers Guild may delve local ruins in search of treasure. They gain access to the **Guild Delving** downtime activity before or after any adventure set in Ylraphon."
+            }
+        ]
+    },
+    {
+        "code": "CCC-YLRA-SDCC-01-01",
+        "name": "Exploratory Arts",
+        "description": "Anticipation is running high for the Ylraphon Convocation of Delvers, Seekers, and Sages, and every adventurer worth their salt is flocking to Ylraphon to take part. The festival promises tests of skill, renowned guest lecturers, an extensive Mercantile Exhibition, and many more attractions. But within this celebration of the exploratory arts lurks an uninvited guest of honor—danger!",
+        "released": "2020-05-04",
+        "url": "https://www.dmsguild.com/product/312289/CCCYLRASDCC011-Exploratory-Arts",
+        "tier": [1],
         "incomplete": true
     },
     {
-        "code": "CCC-YLRA01-03",
-        "name": "Bound by Duty",
-        "description": "",
+        "code": "CCC-YLRA-SDCC-01-02",
+        "name": "No Good Deed",
+        "description": "The Ylraphon Convocation of Delvers, Seekers, and Sages is in full swing, and its Mercantile Exhibition is packed with festival-goers. But not all of them are here for bargains, as the characters soon discover, and good deeds may not be enough to bring peace to Ylraphon.",
+        "released": "2020-05-04",
+        "url": "https://www.dmsguild.com/product/312294/CCCYLRASDCC012-No-Good-Deed",
+        "tier": [1],
         "incomplete": true
+    },
+    {
+        "code": "CCC-YLRA-SDCC-01-03",
+        "name": "Cast In Shadow",
+        "description": "The many disasters plaguing the first-ever Ylraphon Convocation of Delvers, Seekers, and Sages seem to be the work of someone or something in the Flooded Forest. To put a stop to the festival’s troubles, the characters will brave the vast swamp and consult with the Wise Woman who lives there—and find themselves caught up in a sinister plot centuries in the making.",
+        "released": "2020-05-04",
+        "url": "https://www.dmsguild.com/product/312295/CCCYLRASDCC013-Cast-In-Shadow",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-ZIEGE-01",
+        "name": "Shadows of Blood Moon",
+        "description": "A dark shadow creeps over the small village of Redcraft, leaving deep red trails of blood in its wake. Missing villagers and livestock plague the town and it is up to the adventurers to discover the root of the problem…was that a wolves howl that just broke the silence of the night? Part One of the *Blood Moon Chronicles*.",
+        "released": "2018-10-31",
+        "url": "https://www.dmsguild.com/product/257622/CCCZiege01-Shadows-of-Blood-Moon",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Figurine of Wondrous Power (Ivory Goat)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Silvered Longsword",
+                "rarity": "common"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Malar’s Bane",
+                "description": "Werefolk everywhere hear of your exploits against Malar and come to despise you for it. You have disadvantage on all Charisma checks against lycanthropes, whether or not you know they are cursed."
+            }
+        ]
+    },
+    {
+        "code": "CCC-ZIEGE-02",
+        "name": "Storm of the Blood Moon",
+        "description": "Lycanthropes have infested the Cormanther Woods surrounding the village of Redcraft, barely kept at bay by our brave adventurers. A kidnapping has spurred the village into action, but deep in the woods what one expects to find isn’t always what one finds… Part One of the *Blood Moon Chronicles*.",
+        "released": "2018-10-31",
+        "url": "https://www.dmsguild.com/product/257623/CCCZiege02-Storm-of-the-Blood-Moon",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Ring of the Ram",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Silvered Ammunition",
+                "rarity": "common",
+                "consumable": true,
+                "count": 10
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Redcraftian Heroes",
+                "description": "The city of Redcraft will be ever thankful for your services. You may spend 10 downtime days to travel here and have Oris Oakburst silver any of your weapons free of charge."
+            }
+        ]
+    },
+    {
+        "code": "CCC-ZIEGE-03",
+        "name": "Dead Men Feel No Cold",
+        "description": "Waterdeep’s master griffon rider has been murdered and no one knows why. Who would dare such a crime in a city where even the smallest transgressions face harsh penalties? The party is brought in to answer this question, which sends them on a trail that will take them through the most dangerous areas of the City of Splendors. Can they discover the truth before the villains escape, or will they instead accuse an innocent of the crime?",
+        "released": "2018-10-31",
+        "url": "https://www.dmsguild.com/product/257607/CCCZiege03-Dead-Men-Feel-No-Cold",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Ring of Spell Storing",
+                "rarity": "rare"
+            }
+        ]
+    },
+    {
+        "code": "CCC-ZIEGE-04-01",
+        "name": "The Miser's Glory",
+        "description": "Three decades ago, a terrible disease swept through the town of Shadeharbor. Nearly half the population of the village died before it ended. The cause of the disease was never discovered. Now, the town leaders from that time are turning up dead. Can you unearth the secrets that have lain buried in Shadehabor all this time?",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Lantern of Revealing",
+                "rarity": "uncommon"
+            }
+        ]
+    },
+    {
+        "code": "CCC-ZIEGE-04-02",
+        "name": "The Widow's Fang",
+        "description": "More than three decades ago, a young child became ill with a horrible disease and died. Instead of departing, her spirit lingered on as a ghost, haunting the hospital where she spent the last days of her life. Now, a new owner hopes to reopen the hospital, but first the ghost must be exorcised. Can you help the child find peace at last?",
+        "tier": [1],
+        "items": [
+            {
+                "name": "The Adventures of Cherise and Antonia (Bag of Tricks, Tan)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Revivify",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
 ]

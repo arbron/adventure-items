@@ -656,6 +656,88 @@
         ]
     },
     {
+        "code": "CCC-BFG-01-01",
+        "name": "A House Divided",
+        "description": "A retired paladin’s disappearance and rumors of his manor being haunted cause the local Temple of Selûne to hire adventurers to investigate. What secrets does the manor hold? Part One of the *Avatar of Shar* adventures.",
+        "released": "2020-08-07",
+        "url": "https://www.dmsguild.com/product/322127/CCCBFG0101-A-House-Divided",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Longsword of Warning",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Heroism",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-BFG-01-02",
+        "name": "Secrets of the Moon",
+        "description": "A mysterious map hints at the gathering of sinister forces near Thentia. The temple of Selûne fears that the cryptic map, and the strange artifact discovered along with it, may signal involvement of the cult of Shar, and hires adventurers to investigate. Part Two of the *Avatar of Shar* adventures.",
+        "released": "2020-08-07",
+        "url": "https://www.dmsguild.com/product/322163/CCCBFG0102-Secrets-of-the-Moon",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Deck of Illusions",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Mystery Key",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-BFG-01-03",
+        "name": "Dark Moon Return",
+        "description": "Cassius Valen has returned to Thentia as an agent of Shar and has taken a powerful artifact that will power a vast teleportation network around the Moonsea. Will the heroes answer the call and stop Cassius before he sets Armageddon in motion? Part Three of the *Avatar of Shar* adventures.",
+        "released": "2020-07-22",
+        "url": "https://www.dmsguild.com/product/321328/CCCBFG0103-Dark-Moon-Return",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Javelin of Lighting",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Gaseous Form",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Growth",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Defender of the Moon",
+                "description": "You aided the Temple of Selûne in Thentia by defeating agents of Shar that threatened the entire Moonsea. The priests of the temple remember your aide and honor your efforts. The temple will always be a safe shelter for you."
+            }
+        ]
+    },
+    {
         "code": "CCC-BLD-01-01",
         "name": "Bleeding Gate: Pandemonium",
         "description": "Hired as security escorts for a group of noble children on a pilgrimage to the underground town of Emudomier, the party meet a strange tiefling being hunted by the father of her unborn child and Peacesmith master negotiators who's vows of peace do not prevent them from experiencing tragedy. Can adventurers discover the cause of Peacesmith and wildlife disappearances? Can they put a stop to the chaos that plagues Emmudomier and threatens all of Toril?",
@@ -1000,7 +1082,7 @@
         ]
     },
     {
-        "code": "CCC-BMG-HULB1-S",
+        "code": "CCC-BMG HULB1-S",
         "name": "Extinction",
         "description": "",
         "incomplete": true
@@ -3114,6 +3196,78 @@
         "incomplete": true
     },
     {
+        "code": "CCC-CENTRIC-01-02",
+        "name": "Road to Reconciliation",
+        "description": "The Eraka clan vowed to raid any caravan leaving Phlan until the high chieftain's daughter is returned from captivity. Can you prevent war between the Eraka and Algreth’s aggressive merchant company?",
+        "released": "2020-08-03",
+        "creator": "Concentric Games",
+        "url": "https://www.dmsguild.com/product/321273/CCCCENTRIC-0102-Road-to-Reconciliation",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Boots of False Tracks",
+                "rarity": "common"
+            },
+            {
+                "name": "Saddle of the Cavalier",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Locate Animals or Plants",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Benevolent Takeover",
+                "description": "Jereth’s successful leadership of Kolwyn’s Caravan has earned you favour among the merchants of Phlan. They may offer further opportunities in the future."
+            },
+            {
+                "name": "Eraka Peacemaker",
+                "description": "After negotiating a successful treaty, you are respected by the Eraka as an agent for peace. You may call upon them for assistance in the future."
+            }
+        ]
+    },
+    {
+        "code": "CCC-CENTRIC-01-03",
+        "name": "The Patchwork Tower",
+        "description": "Modrons have gathered in the Moonwatch Hills to build a strange tower. Ranging far and wide, they pilfer items both valuable and worthless to grow the swaying, shaking mass of the Patchwork Tower. What strange impulse guides them? What exactly are they building?",
+        "released": "2020-08-07",
+        "creator": "Concentric Games",
+        "url": "https://www.dmsguild.com/product/322508/CCCCENTRIC0103----The-Patchwork-Tower",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Clockwork Amulet",
+                "rarity": "common"
+            },
+            {
+                "name": "Immovable Rod",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Oil of Slipperiness",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Darkvision",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
         "code": "CCC-CIC-01",
         "name": "The Vault of the Devourer",
         "description": "Amid the gales and snowy Earthspur Mountains, the tumbling ruins of the ancient Tempest Mage’s tower brood over the village of Windy Valley. When a kidnapper flees into the ruins, it’s up to a group of adventurers to apprehend the rogue and save his victim from the vault below. Part One of the *Ruined Tower of the Tempest Mage*.",
@@ -3621,7 +3775,30 @@
         "creator": "Cold Iron Conventions",
         "url": "https://www.dmsguild.com/product/314995/CCCCIC15-Den-Of-The-Dead-Witch",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Necklace of Fireballs",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Tasha's Hideous Laughter",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "The Witchstone (Walloping Ammunition, Bullet)",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-CIC-16",
@@ -3636,20 +3813,61 @@
     {
         "code": "CCC-CNE-01",
         "name": "The Treasure Beneath",
-        "description": "",
-        "incomplete": true
-    },
-    {
-        "code": "CCC-CNE-01",
-        "name": "Before The Hatch",
-        "description": "",
+        "description": "A mysterious location has been uncovered and a group of adventurers are tasked with charting a ship onto the Moonsea. There they begin their underwater quest to find the treasures of the Lost City of Northkeep, facing an assortment of deep-sea challenges and enemies and eventually meeting with an ancient clan of Orcs guarding the isolated ruins of Northkeep. Part One of the *Shadow of Northkeep* trilogy.",
+        "released": "2018-10-04",
+        "url": "https://www.dmsguild.com/product/254041/CCCCNE01-The-Treasure-Beneath",
+        "tier": [2],
         "incomplete": true
     },
     {
         "code": "CCC-CNE-02",
-        "name": "Into The Depths",
-        "description": "",
+        "name": "Before The Hatch",
+        "description": "The Ancient sunken city of Northkeep is filled with wild magic and and unknown dangers. Within this desolate place, a warlock experiments on wildlife to create the ultimate living weapon capable of destroying the entire Moonsea region. In order to save the world, adventurers must stop the experiments from completing. Part Two of the *Shadow of Northkeep* trilogy.",
+        "released": "2018-10-04",
+        "url": "https://www.dmsguild.com/product/254019/CCCCNE02-Before-The-Hatch",
+        "tier": [2],
         "incomplete": true
+    },
+    {
+        "code": "CCC-CNE-03",
+        "name": "Into The Depths",
+        "description": "A Shadow of the long-destroyed city of Northkeep has been found deep below the Moonsea. Filled with wild magic and inhabited by strange creatures and people, a group of Warlocks work to bring a great evil into the world. In order to protect the Moonsea, the Warlocks must be stopped. Part Three of the *Shadow of Northkeep* trilogy.",
+        "released": "2018-10-04",
+        "url": "https://www.dmsguild.com/product/254018/CCCCNE03-Into-The-Depths",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-CNE-06",
+        "name": "Burst!",
+        "description": "A stolen artifact and a missing adventuring party sends a group of heroes on a hunt across the Moonsea Region. Unfortunately, the heroes will wind up being the prey. Part One of the *Vhaeraun-Touched* series.",
+        "released": "2020-08-03",
+        "url": "https://www.dmsguild.com/product/320942/CCCCNE006-Burst",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Dagger of Venom",
+                "rarity": "rare"
+            },
+            {
+                "name": "Wand of Web",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Eye of Lolth",
+                "description": "A golden bracelet with a ruby magically suspended in the center is on the ground next to the him. No part of the ruby touches the bracelet. It seems to float in the gap between the gold. There’s writing in Undercommon on the bracelet, the *Eye of Lolth*. It reads: From the Demon Webs, Lolth sees all who scheme against Her.”\n\n This isn’t a magic item, but an item sacred to Lolth and her followers. It only exists in this adventure and cannot be attained for any future games.\n\n Characters will not be able to acquire the item and keep it. Lolth arranges for her minions of spiders to take the *Eye of Lolth* at the end of the adventure."
+            },
+            {
+                "name": "“Kill Me.”",
+                "description": "If an adventurer puts a humanoid about to die giving birth to a Vhaeraun-touched drider out of his misery in this adventure, her sanity teeters. Whenever faced with a similar situation in the *Vhaeraun Touched* series, the DM is advised to describe the character’s struggle with her sanity."
+            },
+            {
+                "name": "Web Weary",
+                "description": "Adventurers who survive this adventure know how to tread cautiously through Vhaeraun-touched drider lairs and rescue allies trapped in Vhaeraun-touched drider webs. This may have great benefit in future *Vhaeraun Touched* adventures."
+            }
+        ]
     },
     {
         "code": "CCC-COTN-01-01",
@@ -3688,17 +3906,72 @@
     {
         "code": "CCC-DDSC-01",
         "name": "Murder at the Stop",
-        "description": "",
-        "incomplete": true
+        "description": "With the repeal of the Law of Humanity, things have changed in the Hillsfar surrounds, and not necessarily for the better. The farming village of The Stop is no exception. The Red Plume Soldiers have withdrawn their presence and no one is left to maintain order. When things get out of hand, a noble representative of the people and the law is required.",
+        "released": "2017-07-20",
+        "url": "https://www.dmsguild.com/product/216992/CCCDDSC01-Murder-at-The-Stop",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Pearl of Power",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Greater Restoration",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Raise Dead",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Carnie Crony",
+                "description": "If the characters can capture Priscilla the gorilla without harming her, Dr, Jubal and the other carnies are grateful. Any charisma based ability checks involving members of the Dr, Jubal’s Carnival are made with advantage and the admission fee to the carnival is waived."
+            },
+            {
+                "name": "Officer of the Militia",
+                "description": "You have spent a significant amount of time in the town of The Stop aiding the locals. With tensions high in the town, the new militia may not be accepted by everyone. If you spend five downtime days advocating, recruiting and training for the new militia, you become a member of their ranks and may always stay at the militia barracks free of charge. Any character that holds the *Boon of Bitterwood*, (from **DDEX03-05** *Bane of the Tradeways*), story award, need only spend **3 downtime days**.",
+                "type": "downtime"
+            }
+        ]
     },
     {
         "code": "CCC-DDSC-02",
         "name": "A Fool and His Gold",
-        "description": "",
-        "incomplete": true
+        "description": "Dr. Jubal and his Carnival of Curiosities left The Stop almost a tenday ago. When one of the circus wagons is found abandoned, folks fear the worst. Brave heroes are needed to find out what has become of the good Doctor and his troupe. Are you up for the challenge?",
+        "released": "2017-07-20",
+        "url": "https://www.dmsguild.com/product/217046/CCCDDSC02-A-Fool-and-His-Gold",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Ring of Jumping",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Family Reunion",
+                "description": "You helped reunite the halflings Pickles and Jam while also rescuing them from the Ringmaster’s sadistic carnival. The twins are forever in your debt and helps you in any way they can during future adventures."
+            },
+            {
+                "name": "I Got My Eye On You",
+                "description": "The gazer, Iris has taken a liking to you and wishes to be your familiar. She enjoys mocking your enemies in a nasally voice while floating just out of their reach. A description of her can be found in the *Volo’s Guide to Monsters*."
+            }
+        ]
     },
     {
-        "code": "CCC-DES01-01",
+        "code": "CCC-DES-01-01",
         "name": "Finding the Rabbit Hole",
         "description": "Pirates are pillaging and raiding more than usual along the Stojanow River and its tributaries, prompting Aya Glenmiir to invite help from renowned adventurers. The journey toward Greenhall is complicated by deeper issues in the Quivering Forest. The ever-malicious hag Jeny Greenteeth makes an appearance, revealing the hidden source of activity and presenting a new opportunity to the adventurers. Part One of the *At Jeny's Request* series.",
         "released": "2018-12-03",
@@ -3718,7 +3991,7 @@
         ]
     },
     {
-        "code": "CCC-DES01-02",
+        "code": "CCC-DES-01-02",
         "name": "A Sanity Never Questioned",
         "description": "Jeny Greenteeth gives you a letter that must reach its far-off destination, with frightening consequences if it doesn't make it there by nightfall. Jeny knows one way to accomplish this, but her method of travel isn't for the weak of spirit. All magic has a price, dearies, and these magics may have you doubting your sanity. Part Two of the *At Jeny's Request* series.",
         "released": "2018-12-03",
@@ -3762,7 +4035,7 @@
         ]
     },
     {
-        "code": "CCC-DES01-03",
+        "code": "CCC-DES-01-03",
         "name": "A Question Never Asked",
         "description": "The Fey Veil barrier to the Feywild weakens as the Greengrass equinox approaches. A Fey hunting party awaits on the other side. The hunt will expect a reception, but Greenhall is no condition to host the hunt. Can the adventurers prevent the unsated hunters from destroying the village, or will they join in alongside the hunt? Part Three of the *At Jeny's Request* series.",
         "released": "2019-12-17",
@@ -3771,7 +4044,7 @@
         "incomplete": true
     },
     {
-        "code": "CCC-DES01-04",
+        "code": "CCC-DES-01-04",
         "name": "An Answer Never Offered",
         "description": "The Mistress of Tides calls upon heroes to awaken an ancient archfey to aid against the threat of Seelie and Unseelie Court conspirators. But a treacherous fey creature fueled by insatiable envy is playing a spoiler. Part Four of the *At Jeny's Request* series.",
         "released": "2019-12-17",
@@ -3780,7 +4053,7 @@
         "incomplete": true
     },
     {
-        "code": "CCC-DES01-05",
+        "code": "CCC-DES-01-05",
         "name": "The Die is Cast",
         "description": "After liberating the Green Man from his stony prison, the adventurers are given a lead. Can they reach their informant before their opponent gathers word of their actions? Part Five of the *At Jeny's Request* series.",
         "released": "2019-12-18",
@@ -3789,13 +4062,95 @@
         "incomplete": true
     },
     {
-        "code": "CCC-DES01-06",
+        "code": "CCC-DES-01-06",
         "name": "One Last Job",
         "description": "At last, the enemy behind the floods in the Feywild is revealed. However, the watery nemesis is far more frightening than initially thought. Can your adventuring party rise to a challenged birthed in the watery depths? The final part of the *At Jeny's Request* series.",
         "released": "2020-08-21",
         "url": "https://www.dmsguild.com/product/322754/CCCDES0106-One-Last-Job",
         "tier": [2],
+        "items": [
+            {
+                "name": "Charlatan's Die",
+                "rarity": "common"
+            },
+            {
+                "name": "Dark Shard Amulet",
+                "rarity": "common"
+            },
+            {
+                "name": "Jeny’s Special Helper (Broom of Flying)",
+                "rarity": "uncommon"
+            }
+        ]
+    },
+    {
+        "code": "CCC-DES-02-01",
+        "name": "Those Who Are Eaten",
+        "description": "After other heroes dispatched the Demon Lords back to their respective planes, Bea was able to peacefully give birth to sextuplets with six fingers and six toes. Unfortunately, others have heard of the unusual circumstances and plot to bring back the Demon Lord Grazzt, by any means necessary. Part One of the *Children of Sin* trilogy.",
+        "released": "2020-04-20",
+        "url": "https://www.dmsguild.com/product/307309/CCCDES0201-Those-Who-Are-Eaten",
+        "tier": [1],
         "incomplete": true
+    },
+    {
+        "code": "CCC-DES-02-02",
+        "name": "On a Six-Fingered Trail",
+        "description": "You are charged with rescuing Bea’s missing sextuplets and must bring their captors to justice. A walk in the park for brave adventurers, unless the trail extends beyond the darkness. Part Two of the *Children of Sin* trilogy.",
+        "released": "2020-04-20",
+        "url": "https://www.dmsguild.com/product/307311/CCCDES0202-On-a-SixFingered-Trail",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-DES-02-03",
+        "name": "Those Who Eat",
+        "description": "Finding themselves on a foggy bank alongside the Moonsea, the adventurers must dive into sunken ruins to save six innocent children from the God Who Eats. Part Three of the *Children of Sin* trilogy.",
+        "released": "2020-04-20",
+        "url": "https://www.dmsguild.com/product/307312/CCCDES0203-Those-Who-Eat",
+        "tier": [1],
+        "incomplete": true
+    },
+    {
+        "code": "CCC-DES-03-01",
+        "name": "A Snip Here, a Stitch There",
+        "description": "Mysterious dead magic zones are popping up in areas consecrated to gods, with deadly consequences. Can you get to the bottom of it before more lives are lost?",
+        "released": "2020-08-21",
+        "url": "https://www.dmsguild.com/product/322760/CCCDES0301-A-Snip-Here-a-Stitch-There",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Band of the Black Unicorn (Iron Bands of Bilarro)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Elixir of Health",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Oil of Etherealness",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Invulnerability",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Mad Mage Remembers",
+                "description": "You helped the Mad Mage regain a portion of his identity, if not his memories. This story award may help you in future adventures in this series."
+            },
+            {
+                "name": "Noticed by Bilarro",
+                "description": "Your character has drawn the attention (and likely, the ire) of Bilarro. This story award may come into play in future adventures in this series."
+            }
+        ]
     },
     {
         "code": "CCC-DRUID-01",
@@ -3830,6 +4185,42 @@
             {
                 "name": "Token of the Withered Mother",
                 "description": "At the risk of your safety and sanity, you have acquired an iron token from an annis hag. The iron token is magically bound to you and all attempts to get rid of it prove futile—howsoever you try, the token reappears in your hand at the end of each long rest.\n\n So long as the iron token is bound to you, whenever the moon is at its fullest, you dream about receiving a visit from the Withered Mother who gave you the token. In the dream, the hag takes your head in her hands and plants a kiss on your cheek. When you awaken, your cheek smells of rancid spittle.\n\n Whenever you play one of the **DRUID** series adventures, you make all Charisma and Charisma-based skill checks at Disadvantage."
+            }
+        ]
+    },
+    {
+        "code": "CCC-DRUID-03",
+        "name": "In Tents",
+        "description": "The Moonsea Army is all that stands between Phlan and the undead of the Necromancer Marzellus. You wait in tents, summoned for your loyalty, your bravery, your heroism, and perhaps even your gullibility. Can you remain unflappable, no matter the stakes!",
+        "released": "2019-12-10",
+        "url": "https://www.dmsguild.com/product/297088/DDALCCCDRUIDS03-In-Tents",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Lantern of Revealing",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Veteran's Cane",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Walloping Ammuniton",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Rising Hero",
+                "description": "Your name travels ahead of you, resulting in favorable treatment in your FIRST reactions with strangers in the Moonsea region."
             }
         ]
     },
@@ -6045,6 +6436,20 @@
         ]
     },
     {
+        "code": "CCC-KKALGO-02-01",
+        "name": "Honeybee Mayhem",
+        "description": "Rumors say that a mysterious monster appeared in Honeybrew town. The monster wanders around the town and spreads terror, and finally, two young dwarves got hurt by the beast. Can adventurers protect the village from this monster?",
+        "released": "2020-08-27",
+        "url": "https://www.dmsguild.com/product/325998/CCCKKALGO0201-HONEYBEE-MAYHEM",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Lantern of Revealing",
+                "rarity": "uncommon"
+            }
+        ]
+    },
+    {
         "code": "CCC-KUMORI-01-01",
         "name": "Wreckers",
         "description": "Cargo ships are being dashed against the rocks west of Hulburg, lured off course by a mysterious light. Is this the work of ordinary thieves, or are more nefarious forces at work?",
@@ -6361,6 +6766,117 @@
             {
                 "name": "Art Curator",
                 "description": "You have taken the Dawnsight as you did not return to the Winged Panther on time. In several days you go to look at the painting and it is missing. A note remains where the painting was. It reads: *“Thank you so much for helping my family. Sadly I really need this painting more than you. Safe travels dear friend. -P”*"
+            }
+        ]
+    },
+    {
+        "code": "CCC-MAG-01-01",
+        "name": "Mischief at the Festival",
+        "description": "The annual Magic and Gold Festival in Thentia has begun! Come watch some shows, eat some food, play some games, and solve a murder.",
+        "released": "2020-08-03",
+        "url": "https://www.dmsguild.com/product/318581/CCCMAG0101-Mischief-at-the-Festival",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Potion of Growth",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Major Image",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Dr. Dalathon’s Spellbook",
+                "spells": [
+                    { "name": "catapult", "level": 1 },
+                    { "name": "longstrider", "level": 1 },
+                    { "name": "alter self", "level": 2 },
+                    { "name": "darkvision", "level": 2 },
+                    { "name": "Maximilian's earthen grasp", "level": 2 },
+                    { "name": "skywrite", "level": 2 },
+                    { "name": "tiny servant", "level": 3 },
+                    { "name": "water breathing", "level": 3 },
+                    { "name": "stone shape", "level": 4 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "A Dapper Familiar",
+                "description": "Only a character with at least one level in warlock can gain this story award.\n\n You have made friends with Dapper the imp. If you have Pact of the Chain, you can summon Dapper as your imp familiar (no mechanical changes from a normal Pact of the Chain imp familiar). Dapper is a cheerful, three-eyed imp who loves to eat, and she tries to lick everything at least once just to see how it tastes. She is egotistical and self-aggrandizing, and once summoned by a warlock, she insists that she is the master and the warlock is her familiar.",
+                "type": "familiar"
+            },
+            {
+                "name": "Moonsea Liberator",
+                "description": "You helped lead the Welbers, a family of escaped slaves from Melvaunt, to safety out of Thentia. Because of your good deed, Edea Valkrana has welcomed you into the Moonsea Liberation Society and given you a small clay tile carved with the symbol of a pair of crossed feathers. Any slave or abolitionist who sees this symbol recognizes you as an ally."
+            }
+        ]
+    },
+    {
+        "code": "CCC-MAG-01-02",
+        "name": "Murder at the Festival!",
+        "description": "A series of grisly murders threatens the festivities at the annual Magic and Gold Festival in Thentia! Can your group of adventurers uncover the source of the attacks and stop the murderer before they strike again?",
+        "released": "2020-08-03",
+        "url": "https://www.dmsguild.com/product/320871/CCCMAG0102-Murder-at-the-Festival",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Bag of Tricks (Tan)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Wand of Smiles",
+                "rarity": "common"
+            },
+            {
+                "name": "Arrow, +2",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 3
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Enmity of Etana",
+                "description": "You have caught the attention of Etana, a powerful wizard from the future that becomes a Lich. Making enemies you haven’t met yet is never a good idea."
+            }
+        ]
+    },
+    {
+        "code": "CCC-MAG-01-03",
+        "name": "The Clock that Didn't Tick",
+        "description": "Disappearing shipments, missing alchemists—and proven musical acts whose rehearsals sound terrible! Instead of showing off Thentia to potential trading partners and giving the locals something to celebrate, the pall over this year’s Magic and Gold Festival threatens to drive business to Melvaunt and give the locals a reason to riot.",
+        "released": "2020-07-20",
+        "url": "https://www.dmsguild.com/product/320986/CCCMAG0103-The-Clock-that-Didnt-Tick",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Cape of the Mountebank",
+                "rarity": "rare"
+            },
+            {
+                "name": "Elixir of Health",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Invulnerability",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Vitality",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
             }
         ]
     },

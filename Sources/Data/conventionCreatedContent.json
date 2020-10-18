@@ -5435,7 +5435,34 @@
         "creator": "Gamehole Publishing",
         "url": "https://www.dmsguild.com/product/313193/CCCGHCBK201-Shadows-of-Rith-Keep",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Charlatan's Die",
+                "rarity": "common"
+            },
+            {
+                "name": "Saddle of the Cavalier",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Bless",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-GHC-BK2-02",
@@ -5445,7 +5472,25 @@
         "creator": "Gamehole Publishing",
         "url": "https://www.dmsguild.com/product/313301/CCCGHCBK202-The-Folly-of-Sneaky-Simon",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Decanter of Endless Water",
+                "rarity": "uncommon",
+                "properties": ["Compass"]
+            },
+            {
+                "name": "Potion of Animal Friendship",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-GHC-BK2-03",
@@ -5455,7 +5500,24 @@
         "creator": "Gamehole Publishing",
         "url": "https://www.dmsguild.com/product/313304/CCCGHCBK203-Framed-in-Felshroun",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Cloak of the Manta Ray",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Hero of Felshroun",
+                "description": "You are known, throughout Felshroun, as a hero of the city. Foresters will treat you with respect, and generally assume you’re on the up-and-up. The Baron will listen seriously to what you have to say."
+            }
+        ]
     },
     {
         "code": "CCC-GHC-BK2-04",
@@ -5465,7 +5527,18 @@
         "creator": "Gamehole Publishing",
         "url": "https://www.dmsguild.com/product/313307/CCCGHCBK204-Wicked-Little-Things",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Wand of Secrets",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-GHC-BK2-05",
@@ -5475,7 +5548,18 @@
         "creator": "Gamehole Publishing",
         "url": "https://www.dmsguild.com/product/313797/CCCGHCBK205-Finglebruggles-Phantomball-Field",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Boots of Striding and Springing",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Phantomball Champion",
+                "description": "You are a champion phantomball player, and your status has spread throughout the region. Any civilized NPC you meet for the first time in the Border Kingdoms has a chance of being a phantomball fan who recognizes you."
+            }
+        ]
     },
     {
         "code": "CCC-GHC-BK2-06",
@@ -5485,7 +5569,30 @@
         "creator": "Gamehole Publishing",
         "url": "https://www.dmsguild.com/product/313798/CCCGHCBK206-Eye-of-Darkness-Heart-of-Light",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Mind Fortress (Ring of Mind Shielding)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Climbing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Heart of Light",
+                "description": "One character—yours—was trusted by one of the spirits of Ravinan. This blessing manifests as a glowing light radiating from the character’s chest where their heart would be, while in the presence of the Eye of Darkness. This story award may have an impact in future Border Kingdoms adventures."
+            }
+        ]
     },
     {
         "code": "CCC-GHC-BK2-07",
@@ -5495,7 +5602,24 @@
         "creator": "Gamehole Publishing",
         "url": "https://www.dmsguild.com/product/313308/CCCGHCBK207-In-The-Dead-of-Knight",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Hat of Disguise",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Resistance (Cold)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-GHC-BK2-08",
@@ -5505,7 +5629,59 @@
         "creator": "Gamehole Publishing",
         "url": "https://www.dmsguild.com/product/313799/CCCGHCBK208-Ancient-Rivals",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Clockwork Amulet",
+                "rarity": "common"
+            },
+            {
+                "name": "Staff of Healing",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Giant Strength (Cloud)",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Fyndulaas's Spellbook",
+                "spells": [
+                    { "name": "detect magic", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "shield", "level": 1 },
+                    { "name": "thunderwave", "level": 1 },
+                    { "name": "detect thoughts", "level": 2 },
+                    { "name": "invisibility", "level": 2 },
+                    { "name": "Melf's acid arrow", "level": 2 },
+                    { "name": "mirror image", "level": 2 },
+                    { "name": "animate dead", "level": 3 },
+                    { "name": "counterspell", "level": 3 },
+                    { "name": "dispel magic", "level": 3 },
+                    { "name": "fireball", "level": 3 },
+                    { "name": "blight", "level": 4 },
+                    { "name": "dimension door", "level": 4 },
+                    { "name": "cloudkill", "level": 5 },
+                    { "name": "scrying", "level": 5 },
+                    { "name": "disintegrate", "level": 6 },
+                    { "name": "globe of invulnerability", "level": 6 },
+                    { "name": "finger of death", "level": 7 },
+                    { "name": "plane shift", "level": 7 },
+                    { "name": "dominate monster", "level": 8 },
+                    { "name": "power word stun", "level": 8 },
+                    { "name": "power word kill", "level": 9 }
+                ],
+                "note": "Written in the very back of the book are scribed the true names of three demons that Fyndulaas would oft times summon to do his bidding: Gaggazoth, the Cleaver of the Horned King (a **tanarukk**); Valgurrek the Gluttonous (a **barlgura**); Thurzroggad, Scythe of the Six Fingered Lord (a **babau**)."
+            }
+        ]
     },
     {
         "code": "CCC-GHC-BK2-09",
@@ -5515,7 +5691,28 @@
         "creator": "Gamehole Publishing",
         "url": "https://www.dmsguild.com/product/313309/CCCGHCBK209-Breath-of-Fire",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Dark Shard Amulet",
+                "rarity": "common"
+            },
+            {
+                "name": "Figurine of Wonderous Power (Onyx Dog)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Giant Strength (Frost)",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-GLIP-01-01",
@@ -6534,7 +6731,24 @@
         "released": "2018-12-18",
         "url": "https://www.dmsguild.com/product/261266/CCCKUMORI0202-School-Magic",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Red’s Slippers (Boots of Elvenkind)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Spell Scroll of Silence",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "A Fair Trade",
+                "description": "You journeyed to Underhill to aid the Moonsea School of Homeless Children. You earned an audience with Snowhair, Queen of Underhill. Your solution involved a bargain of Patronage. Granting Snowhair the right to Patronage for one student a year. For good or ill you have bargained with a fey and accepted the consequences. Those familiar with the fey, and fey themselves can sense this bargain upon you. You can feel each season pass and the tug of each phase of the moon that might open the gates to Underhill while the bargain lasts."
+            }
+        ]
     },
     {
         "code": "CCC-KUMORI-02-04",
@@ -6543,7 +6757,44 @@
         "released": "2018-11-26",
         "url": "https://www.dmsguild.com/product/259775/CCCKUMORI0204-To-Be-the-Very-Best",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Unbreakable Arrow",
+                "rarity": "common"
+            },
+            {
+                "name": "Wild Monster Capture Cards (Deck of Illusions)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Giant Strength (Hill)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Absorb Elements",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Caught Them All!",
+                "description": "You have all worked together as a team, successfully capturing all of one type of Capture Monster throughout the course of the festival (circle that type in the list below). You may have even captured all of two types!\n\n The students at the Moonsea School for Homeless Children look at you in awe. Even the faculty regard you highly."
+            },
+            {
+                "name": "Top of the Coliseum",
+                "description": "You successfully battled your way up the ranks in the Monster Capture Battle Coliseum, winning every match and suffering no loses. Adventurers speak of you as they spread out through the Moonsea, and you are recognized at the various inns and taverns you visit there.\n\n You’ve become something of a celebrity! People talk about you, buy you drinks, and ask for you to tell stories of your Capture Monster battles when you stay at town with an inn, tavern, or other form of lodging."
+            }
+        ]
     },
     {
         "code": "CCC-KUMORI-03-01",
@@ -12129,6 +12380,46 @@
             {
                 "name": "Mark of the Dead",
                 "description": "Either Abigail or Peaches explains that Captain Dread Red offers to tattoo each party member with the mark of his crew (the symbol for this adventure saga). If they agree, a jittering zombie with long, white hair, a bulging and blind right eye, and a wooden peg leg staggers up to them carrying a tattoo kit: a small hammer, a needle that resembles an icepick, and a bottle of black ink.\n\n The tattoo process isn’t painful, the design is clean, and it can be placed anywhere on the body.\n\n The Mark of the Dead may grant a character special conditions in future Dead Men’s Tales adventures."
+            }
+        ]
+    },
+    {
+        "code": "CCC-TTS-01",
+        "name": "Three Moles for Father Octavius",
+        "description": "An ancient kindness repaid, a disaster waiting to happen. Can a timely intervention save a befuddled old man and the forgotten cove he loves so dearly.",
+        "released": "2019-12-30",
+        "url": "https://www.dmsguild.com/product/299061/CCCTTS1-Three-Moles-for-Father-Octavius",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Lead Mining Goggles (Goggles of the Night)",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Freedom of Kennan’s Cove",
+                "description": "You are always welcome to stay in Kennan’s Cove and a bed will always be found for you if you pass this way."
+            }
+        ]
+    },
+    {
+        "code": "CCC-TTS-03",
+        "name": "Heart of the Storm",
+        "description": "The city state of Thentia is plagued with relentless storms, with no sunlight in sight. The local wizards believe that the weather may be linked to a sunken ruin and the previous expedition has gone missing. Will the party be able to rescue the adventurers and clear the skies once and for all?",
+        "released": "2019-12-14",
+        "url": "https://www.dmsguild.com/product/297746/CCCTTS3-Heart-of-the-Storm",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Decanter of Endless Water",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Savior of the Golden Trout",
+                "description": "Having saved the local heroes, you have gained celebrity status. Thentians are more than happy to provide you with free lodgings and food. Additionally, thanks to your intervention, the Golden Trout adventuring party is still in business—they will be more than happy to assist you should you run into them again in future adventures."
             }
         ]
     },

@@ -223,7 +223,7 @@ extension Publish.Item where Site == AdventureItemsSite {
                         .if(spellbook.note != "",
                             .em(
                                 .class("entry-label"),
-                                .text(spellbook.note)
+                                .raw("\(Self.parser.html(from: spellbook.note))")
                             )
                         )
                     )

@@ -80,7 +80,7 @@ extension Publish.Item where Site == AdventureItemsSite {
         }
         if !adventure.storyAwards.isEmpty {
             tags.insert("story awards")
-            if let storyAwardText = "story award".counted(adventure.storyAwards.count) {
+            if let storyAwardText = adventure.storyAwardName.lowercased().counted(adventure.storyAwards.count) {
                 magicItemNames.append(storyAwardText)
             }
             for award in adventure.storyAwards {
@@ -134,7 +134,7 @@ extension Publish.Item where Site == AdventureItemsSite {
                     .p(Self.spellbookList(adventure.spellbooks))
                 ])),
                 .if(!adventure.storyAwards.isEmpty, .group([
-                    .h2(.text(adventure.storyAwardsSectionName)),
+                    .h2(.text(adventure.storyAwardName), .text("s")),
                     Self.storyAwardList(adventure.storyAwards)
                 ]))
             ),

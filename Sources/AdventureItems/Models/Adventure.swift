@@ -25,10 +25,14 @@ struct Adventure: Codable, Hashable {
 
     var source: Source { Source(code) }
     var isEpic: Bool { code.hasPrefix("DDEP") || code.hasPrefix("DDAL-EBEP") }
-    var storyAwardsSectionName: String {
+    var storyAwardName: String {
         switch source {
-        case .oracleOfWar: return "Legacy Events"
-        default: return "Story Awards"
+        case .dreamsOfRedWizards, .oracleOfWar:
+            if code != "DDAL-DRW-01" && code != "DDAL-DRW-02" && code != "DDAL-DRW-03" {
+                return "Legacy Event"
+            }
+            fallthrough
+        default: return "Story Award"
         }
     }
 }

@@ -3870,6 +3870,79 @@
         ]
     },
     {
+        "code": "CCC-COS-01",
+        "name": "The Only Way To Be Sure",
+        "description": "A small mining village near the edge of Thar goes silent. You are sent to investigate… And discover that the truth is much worse than expected.",
+        "released": "2019-08-10",
+        "url": "https://www.dmsguild.com/product/285292/CCCCOS01-The-Only-Way-To-Be-Sure",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Portable Hole",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Heroism",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-COS-02-01",
+        "name": "38 Souls",
+        "description": "The death of a mysterious philanthropist has left a few simple tasks unfinished. This may either be the easiest adventure of your life, or your last. Part One of the *Hammer of the Gods* sequence.",
+        "released": "2020-06-05",
+        "url": "https://www.dmsguild.com/product/315756/CCCCOS0201-38-Souls",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Wand of Secrets",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Oil of Slipperiness",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Illusionist’s Spellbook",
+                "spells": [
+                    { "name": "dancing lights", "level": 0 },
+                    { "name": "mage hand", "level": 0 },
+                    { "name": "minor illusion", "level": 0 },
+                    { "name": "poison spray", "level": 0 },
+                    { "name": "color spray", "level": 1 },
+                    { "name": "disguise self", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "invisibility", "level": 2 },
+                    { "name": "mirror image", "level": 2 },
+                    { "name": "phantasmal force", "level": 2 },
+                    { "name": "major image", "level": 3 },
+                    { "name": "phantom steed", "level": 3 },
+                    { "name": "phantasmal killer", "level": 4 }
+                ]
+            }
+        ]
+    },
+    {
         "code": "CCC-COTN-01-01",
         "name": "By The Seashore: A Red War Tale",
         "description": "Chaotic magic torments the village of Stonedock, presenting opportunity to a devious grifter. Unknown to the scoundrel, a stolen trinket brings with it the wrath of Thay! Who will weather the storm of deception?",
@@ -4050,7 +4123,18 @@
         "released": "2019-12-17",
         "url": "https://www.dmsguild.com/product/298041/CCCDES0104-An-Answer-Never-Offered",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Decanter of Endless Water",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Blessed Are the Merciful",
+                "description": "This story award is earned by characters who bring Jormal to The Green Man alive to receive justice. For this act, The Green Man develops respect for their wisdom and judgment. This story award may come into play in future adventures."
+            }
+        ]
     },
     {
         "code": "CCC-DES-01-05",
@@ -4221,6 +4305,132 @@
             {
                 "name": "Rising Hero",
                 "description": "Your name travels ahead of you, resulting in favorable treatment in your FIRST reactions with strangers in the Moonsea region."
+            }
+        ]
+    },
+    {
+        "code": "CCC-DWB-CW-01",
+        "name": "The Clockwork Caravan",
+        "description": "Caravans of goods are being stolen and their occupants slaughtered, so a trap must be laid to stop these bandits. The bandits are clever however, so we must be careful…",
+        "released": "2020-01-31",
+        "url": "https://www.dmsguild.com/product/301901/CCCDWBCW01-The-Clockwork-Caravan",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Immovable Rod",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            }
+        ]
+    },
+    {
+        "code": "CCC-DWB-ESR-01",
+        "name": "An Enchanting Shade of Red",
+        "description": "A Red Wizard is on the loose in the city of Phlan. Can they be tracked down before they escape…",
+        "released": "2020-01-30",
+        "url": "https://www.dmsguild.com/product/301899/CCCDWBESR01-An-Enchanting-Shade-of-Red",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Helm of Comprehending Languages",
+                "rarity": "uncommon"
+            }
+        ]
+    },
+    {
+        "code": "CCC-DWB-GNA-01",
+        "name": "Gallery of the Nightmare Artist",
+        "description": "Deep in the city of Malagard, a mad artist cackles and feverishly crafts his masterpieces. Will you come to his show? ",
+        "released": "2020-05-04",
+        "url": "https://www.dmsguild.com/product/311687/CCCDWBGNA1-Gallery-of-the-Nightmare-Artist",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Daern’s Instant Fortress",
+                "rarity": "rare"
+            },
+            {
+                "name": "Spell Scroll of Creation",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Forbiddance",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Banned: Maladomini",
+                "description": "Maladomini’s prevailing theme is truth, and the truth is…you’ve violated the laws of this place. Whether you’ve done so knowingly or not, Baalzebul, lord of the seventh layer of the Nine Hells, has deemed you guilty of this transgression and has banned you from ever returning. You can’t participate in further adventures in this place.\n\n A character with this story award may visit other areas of the Nine Hells but has been banned from Maladomini."
+            }
+        ]
+    },
+    {
+        "code": "CCC-DWB-Q-01",
+        "name": "Quarantine",
+        "description": "Orc raids are commonplace in Faerun and the village of Mantera had learned to deal with that reality. However, that reality changed 2 nights ago when mysterious lights over an Orc encampment near the village heralded a new wave of undead and diseased orcish berserkers lead by strange priests. The village has been battered and many of its citizens are poisoned by their attacks. So a local priestess sent out a call for Adventurers to come to their aid.",
+        "released": "2020-01-31",
+        "url": "https://www.dmsguild.com/product/301902/CCCDWBQ01-Quarantine",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Lantern of Revealing",
+                "rarity": "uncommon"
+            }
+        ]
+    },
+    {
+        "code": "CCC-DWB-TFG-01",
+        "name": "The Frostbane Garden",
+        "description": "A portal to the feywild has been created in the icy wastes of stygia. This cannot be!",
+        "released": "2020-05-04",
+        "url": "https://www.dmsguild.com/product/311689/CCCDWBTFG-1-The-Frostbane-Garden",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Stone of Good Luck",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Resistance (Poison)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Banned: Stygia",
+                "description": "The frozen, inhospitable wilderness of Stygia is home to many vile creatures as well as an uncountable number from the Material Plane. Desperate criminals and those condemned to death may pray to Levistus, the ruler of Stygia, for freedom; should he answer, they are transported here. For reasons known only to you and him, you are forever banned from setting foot within Stygia. Perhaps you redeemed too many souls, or maybe you were discovered to be in league with Geryon, the former ruler of this realm; regardless, Levistus has closed this layer of the Nine Hells to you. You can’t participate in further adventures in this place.\n\n A character with this story award may visit other areas of the Nine Hells but has been banned from Stygia."
+            }
+        ]
+    },
+    {
+        "code": "CCC-DWB-TRM-01",
+        "name": "Red Mirage",
+        "description": "Silvara Steeljaw has hired a new quartermaster, but someone has kidnapped him!",
+        "released": "2020-05-04",
+        "url": "https://www.dmsguild.com/product/311688/CCCDWBTRM1-Red-Mirage",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Helm of Comprehend Languages",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potions of Resistance (Psychic)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
             }
         ]
     },
@@ -4420,7 +4630,102 @@
         "released": "2020-01-14",
         "url": "https://www.dmsguild.com/product/299859/CCCELO02-The-Four-Kids",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Breegla’s Nightlamp (Candle of the Deep)",
+                "rarity": "common"
+            },
+            {
+                "name": "Mother Pqwirli’s Pod Pouch (Bag of Holding)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Cha’Raega’s Porridge (Potion of Fire Breath)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Always Home",
+                "description": "The children of Qaahrez Sanctuary have been cured of their ailments! Your play with them has showed that kindness, courage, and hope can defeat sickness and mean spirits like the Dark Priory. Mother Pqwirli’s sanctuary will always welcome you during journeys in the Underdark or in future **CCC-ELO** adventures."
+            }
+        ]
+    },
+    {
+        "code": "CCC-EPI-01-01",
+        "name": "Hordes of Thar: The White Hand of Death",
+        "description": "A disease is spreading around the town of Melvaunt, causing boils and festering marks to form on townsfolk and travelers alike. The local guard believes that this disease is of unnatural origin, and has issued a call for brave adventurers to investigate the matter. Can you find the source of the plague, or will you simply fall as another victim? Part One of the *Hordes of Thar Saga*.",
+        "released": "2019-11-26",
+        "creator": "Adventurers Anonymous Manila",
+        "url": "https://www.dmsguild.com/product/295621/CCCEPI0101-Hordes-of-Thar--The-White-Hand-of-Death",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Aier (Pearl of Power)",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Child of Melvaunt",
+                "description": "Defeating Halgash within the 5 hour time limit or (using Divine Intervention) to save Alyssa will get you the friendship of Melvaunt’s City Watch. This may come in handy later on."
+            },
+            {
+                "name": "Gratitude of the Spared",
+                "description": "If the players manage to spare Halgash and her tribemates, they earn this story award. Sparing Halgash has left her indebted to you. Only time will tell if she will return to aid you in a future adventure."
+            }
+        ]
+    },
+    {
+        "code": "CCC-EPI-01-02",
+        "name": "Hordes of Thar: The Bloody Crescent",
+        "description": "Melvaunt’s guards are found dead in the barracks, the mark of an orcish murder god splattered on their walls. While the assassins are elusive, the Emerald Enclave has found a way to track them to their shadowy hold in the form of a strange hermit. Will the adventurers bring light to the situation or be lost in the dark?",
+        "released": "2020-08-03",
+        "creator": "Adventurers Anonymous Manila",
+        "url": "https://www.dmsguild.com/product/319994/CCCEPI0102-Hordes-of-Thar-The-Bloody-Crescent",
+        "tier": [2],
+        "items": [
+            {
+                "name": "The Harbinger (Glaive of Warning)",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Mark of Seasons",
+                "description": "As thanks for killing Gnott, Tita Malas offers adventurers a tattoo that can tell the seasons. Adventurers who choose to accept gain a tattoo (characters can decide where on their body) of a balete tree that changes its appearance to match the current season (spring, summer, autumn, or winter) of the area they are in. Bearing this mark may have some bearing on future adventures."
+            },
+            {
+                "name": "Silencing the Shadows",
+                "description": "Defeating Gnott stops the servants of Shaargas from joining the main orc horde. No doubt this would have some effect on future adventures involving the battle to come."
+            }
+        ]
+    },
+    {
+        "code": "CCC-FAD-01",
+        "name": "Out The Back",
+        "description": "The town of Phlan has had a lot of trouble, but at least today there aren’t any dragons in the sky.  You’ve received a mysterious summons from a citizen of Phlan asking for your help, with the promise of a chance to do some good, what are you waiting for?!",
+        "released": "2020-06-03",
+        "url": "https://www.dmsguild.com/product/312977/CCCFAD01-Out-The-Back",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Boots of False Tracks",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Welcomers Gloves (Gloves of Thievery)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Heroism",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-FC3-01-02",
@@ -4514,10 +4819,50 @@
         ]
     },
     {
+        "code": "CCC-FCC-01",
+        "name": "Isle of Moss",
+        "description": "The City of Hillsfar has endured continuous chaos since the Rage of Demons. First Lord Vuhm Yestral dreamed of stability the day he took office. Five years later, the only real change is the number of grey hairs on his head. While xenophobia has reduced greatly, stability in the region is nowhere in sight. It has been a couple of months after the mighty beast was slain and Hillsfar is barely recovering of the major assault by multiple factions. Now rumors of Red wizards kidnapping farmers have spread across the city. What could the Thayans be up to this time? Part One of the *Mystery of the Isles*.",
+        "released": "2020-03-30",
+        "url": "https://www.dmsguild.com/product/307811/CCC--FCC--001-Isle-of-Moss",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Boots of False Tracks",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Helm of Comprehend Languages",
+                "rarity": "uncommon"
+            }
+        ]
+    },
+    {
         "code": "CCC-FXC-01",
         "name": "Nothing Happens in Elmwood",
-        "description": "",
-        "incomplete": true
+        "description": "All the priests in Melvaunt tell Lady Elsa Tillingwood that she needs a miracle to heal her. In the wake of Moander’s rampage through Elmwood, a child is born with miraculous healing powers. Lady Elsa has tasked you with investigating this divine coincidence…are you up for the challenge?",
+        "released": "2018-08-21",
+        "url": "https://www.dmsguild.com/product/250362/CCCFXC01--Nothing-Happens-in-Elmwood",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Flaming Sigil (Charm of Vitality)",
+                "rarity": "unique"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Child Likes You",
+                "description": "You have a mark on you where the child touched you, and it glows with a white inner light. The child will always see you as a friend and as his hero."
+            },
+            {
+                "name": "Kobold Slayer",
+                "description": "By ruthlessly slaughtering kobold commoners, you have acquired the reputation of Kobold Slayer that is spreading throughout the Moonsea region. This reputation may serve or hinder you in the future. Kobold characters will no doubt react poorly in your presence (disadvantage on persuasion or deception checks, but advantage on intimidation checks)."
+            },
+            {
+                "name": "Respect of the Pierced Snout Tribe",
+                "description": "By defusing the situation and negotiating the return of the child, you have earned the respect of Matron Tokni and the Pierced Snout tribe. Your future endeavours may lead you to another meeting at some point, in which case this story award could have an effect."
+            }
+        ]
     },
     {
         "code": "CCC-GAD01-01",

@@ -2999,6 +2999,48 @@
         ]
     },
     {
+        "code": "CCC-BMG-MOON7-1",
+        "name": "The Temple of the Beast",
+        "description": "The Temple of the Beast was one of the most dangerous temples kept by the old druids of the Earthmother. Revering wild and unpredictable beasts came with much risk. Surviving its trials may be your undoing! Part One of the *Temples of the Earthmother* trilogy.",
+        "released": "2020-10-27",
+        "creator": "Baldmaan Games",
+        "url": "https://www.dmsguild.com/product/333534/CCCBMG-MOON-71-The-Temple-of-the-Beast",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Staff of the Python",
+                "rarity": "uncommon"
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-MOON7-2",
+        "name": "The Temple of the Sun",
+        "description": "The Temple of the Sun provided hope to the servants of the Earthmother when events in their lives looked the most dire. Now that the temple has returned, it has become a beacon for those who love the light. But it is also a target for those who dwell in the shadows. Part Two of the *Temples of the Earthmother* trilogy.",
+        "released": "2020-10-27",
+        "creator": "Baldmaan Games",
+        "url": "https://www.dmsguild.com/product/333535/CCCBMG-MOON-72-The-Temple-of-the-Sun",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Elemental Gem (Red Corundum)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "CCC-BMG-MOON7-3",
+        "name": "The Temple of Death",
+        "description": "When the ancient Temple of Death reappears on Oman Island, those devoted to the Earthmother are determined to reconsecrate it to the goddess. However, a necromancer feels that it is his birthright to claim it as his lair as well. Part Three of the *Temples of the Earthmother* trilogy.",
+        "released": "2020-10-27",
+        "creator": "Baldmaan Games",
+        "url": "https://www.dmsguild.com/product/333537/CCCBMG-MOON-73-The-Temple-of-Death",
+        "tier": [2],
+        "incomplete": true
+    },
+    {
         "code": "CCC-BWM-01",
         "name": "Howling on the Moonsea",
         "description": "Aristocrats and nobles from all around the Moonsea come to vacation upon the pleasure barge that sets sail from the floating Sokol Sea Palace. However, recent late-night howling and frightening shapes in the dark have discouraged the usual number of customers from boarding the Sokol Sea Palace. Rumors of Zhentarim cargo ships being attacked by unseen monsters in Moonsea have also added to the fear of sailing to the once thriving vacation destination. Now, the Sokol family and their ferryman Karsk are turning to the recent job fair in Phlan to find a group of adventurers to investigate these alarming sounds and sights hoping to return their business to prosperity once more.",

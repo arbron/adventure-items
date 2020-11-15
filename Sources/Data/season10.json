@@ -57,7 +57,7 @@
     {
         "code": "DDAL10-01",
         "name": "The Frozen North",
-        "description": "An avalanche has stranded you and your allies in the treacherous Spine of the World, and a relentless blizzard is quickly blowing away all hope of survival. Gather the surviving members of your caravan and strike out for shelter. Strike out for life!",
+        "description": "An avalanche has stranded you and your allies in the treacherous Spine of the World, and a relentless blizzard is quickly blowing away all hope of survival. Gather the surviving members of your caravan and strike out for shelter. Strike out for life! Part One of the *Plague of Ancients* series of adventures.",
         "released": "2020-10-17",
         "tier": [1],
         "items": [
@@ -102,25 +102,49 @@
     {
         "code": "DDAL10-02",
         "name": "Gnashing Teeth",
-        "description": "The goliaths of Wyrmdoom Crag are a proud, but thankfully, generous people. Having provided you with shelter from the deadly wilds of Icewind Dale, they’ve asked you to look into the strange things that have been happening in and around their home.",
-        "incomplete": true,
+        "description": "The goliaths of Wyrmdoom Crag are a proud, but thankfully, generous people. Having provided you with shelter from the deadly wilds of Icewind Dale, they’ve asked you to look into the strange things that have been happening in and around their home. Part Two of the *Plague of Ancients* series of adventures.",
         "released": "2020-11-15",
-        "tier": [1]
+        "tier": [1],
+        "incomplete": true,
+        "items": [
+            {
+                "name": "Sending Stones",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Water Breathing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "One Man's Junk",
+                "description": "You've caught the attention of a geedy mud mephit."
+            }
+        ]
     },
     {
         "code": "DDAL10-03",
         "name": "Divining Evil",
         "description": "A gruesome discovery sets you off into the frozen wastes in search of answers. Will you find the answers you seek, or will your journey leave you with only more questions?",
-        "incomplete": true,
         "released": "2020-11-15",
-        "tier": [1]
+        "tier": [1],
+        "incomplete": true
     },
     {
         "code": "DDAL10-02",
         "name": "Cold Benevolence",
         "description": "Feral-Tongue must be stopped! But without aid, it’s likely that your efforts will be in vain. Among rising tensions, Old Goat suggests an unlikely ally: Chwingas! Her plan, however, isn’t popular among other members of the clan. Can you sway their opinion? Better still, can you find the elusive elemental spirits?",
-        "incomplete": true,
-        "tier": [1]
+        "tier": [1],
+        "incomplete": true
     },
     {
         "code": "DDEP10-00",

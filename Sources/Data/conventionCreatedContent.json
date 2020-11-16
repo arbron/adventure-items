@@ -3038,7 +3038,12 @@
         "creator": "Baldman Games",
         "url": "https://www.dmsguild.com/product/333537/CCCBMG-MOON-73-The-Temple-of-Death",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Cloak of Protection",
+                "rarity": "uncommon"
+            }
+        ]
     },
     {
         "code": "CCC-BWM-01",

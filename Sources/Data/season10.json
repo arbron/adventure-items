@@ -136,10 +136,33 @@
         "description": "A gruesome discovery sets you off into the frozen wastes in search of answers. Will you find the answers you seek, or will your journey leave you with only more questions?",
         "released": "2020-11-15",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Boots of Striding and Springing",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Spell Scroll of Lesser Restoration",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Arrowhead",
+                "description": "The character who possesses the chardalyn arrowhead gains the flaw “I am irritable and rash in my decision making.”"
+            }
+        ]
     },
     {
-        "code": "DDAL10-02",
+        "code": "DDAL10-04",
         "name": "Cold Benevolence",
         "description": "Feral-Tongue must be stopped! But without aid, it’s likely that your efforts will be in vain. Among rising tensions, Old Goat suggests an unlikely ally: Chwingas! Her plan, however, isn’t popular among other members of the clan. Can you sway their opinion? Better still, can you find the elusive elemental spirits?",
         "tier": [1],

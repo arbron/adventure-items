@@ -12,6 +12,8 @@ struct Adventure: Codable, Hashable {
     var name: String
     var description: String
 
+    var adventureSeed: String?
+
     var released: Date?
     var creator: String?
     var url: URL?
@@ -60,10 +62,13 @@ extension Adventure {
         case oracleOfWar
 
         case conventionCreatedContent
+        case dungeonCraft
 
         init(_ code: String) {
             if code.hasPrefix("CCC-") {
                 self = .conventionCreatedContent
+            } else if code.hasPrefix("DC-") {
+                self = .dungeonCraft
             } else if code.hasPrefixes("DDAL-DRW", "DDEP-DRW") {
                 self = .dreamsOfRedWizards
             } else if code.hasPrefixes("DDAL-ELW", "DDAL-WGE") {
@@ -93,7 +98,8 @@ extension Adventure {
                 .dreamsOfRedWizards,
                 .embersOfTheLastWar,
                 .oracleOfWar,
-                .conventionCreatedContent
+                .conventionCreatedContent,
+                .dungeonCraft
             ])
             return cases
         }
@@ -107,6 +113,7 @@ extension Adventure {
             case .embersOfTheLastWar: return "Embers of the Last War"
             case .oracleOfWar: return "Oracle of War"
             case .conventionCreatedContent: return "Convention Created Content"
+            case .dungeonCraft: return "Dungeoncraft"
             }
         }
     }

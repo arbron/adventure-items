@@ -124,6 +124,9 @@ extension Publish.Item where Site == AdventureItemsSite {
             .section(
                 .h1(.text(adventure.name)),
                 Self.subheading(adventure),
+                .unwrap(adventure.adventureSeed) { seed in
+                    .p(.em("Adventure Seed: "), .text(seed))
+                },
                 .if(!adventure.description.isEmpty, .raw("\(parser.html(from: adventure.description))")),
                 .if(!adventure.items.isEmpty, .group([
                     .h2("Items"),

@@ -7207,9 +7207,7 @@
         "items": [
             {
                 "name": "Dust of Disappearance",
-                "rarity": "uncommon",
-                "consumable": true,
-                "count": 1
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Healing",
@@ -12900,9 +12898,7 @@
         "items": [
             {
                 "name": "Dust of Disappearance",
-                "rarity": "uncommon",
-                "consumable": true,
-                "count": 1
+                "rarity": "uncommon"
             }
         ],
         "storyAwards": [

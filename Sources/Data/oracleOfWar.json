@@ -218,14 +218,12 @@
         "tier": [2],
         "items": [
             {
-                "name": "Sending Stones",
+                "name": "Dust of Disappearance",
                 "rarity": "uncommon"
             },
             {
-                "name": "Dust of Disappearance",
-                "rarity": "uncommon",
-                "consumable": true,
-                "count": 1
+                "name": "Sending Stones",
+                "rarity": "uncommon"
             },
             {
                 "name": "Potion of Poison",

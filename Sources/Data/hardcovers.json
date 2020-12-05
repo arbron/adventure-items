@@ -267,6 +267,10 @@
                 "storyItem": true
             },
             {
+                "name": "Dust of Disappearance",
+                "rarity": "uncommon"
+            },
+            {
                 "name": "Dwarven Plate",
                 "rarity": "veryRare",
                 "guidance": "Optional reward for turning Orcsplitter over to the Harpers."
@@ -404,12 +408,6 @@
             },
             {
                 "name": "Bottled Breath",
-                "rarity": "uncommon",
-                "consumable": true,
-                "count": 1
-            },
-            {
-                "name": "Dust of Disappearance",
                 "rarity": "uncommon",
                 "consumable": true,
                 "count": 1

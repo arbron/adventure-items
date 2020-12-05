@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Sun, 15 Nov 2020 20:04:02 -0800</lastBuildDate><pubDate>Sun, 15 Nov 2020 20:04:02 -0800</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</guid><title>CCC-ZIEGE-04-02 - The Widow's Fang</title><description>The Adventures of Cherise and Antonia (Bag of Tricks, Tan), 2 potions, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</link><pubDate>Sun, 15 Nov 2020 20:04:04 -0800</pubDate><content:encoded><![CDATA[<section>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Fri, 4 Dec 2020 22:37:33 -0800</lastBuildDate><pubDate>Fri, 4 Dec 2020 22:37:33 -0800</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</guid><title>CCC-ZIEGE-04-02 - The Widow's Fang</title><description>The Adventures of Cherise and Antonia (Bag of Tricks, Tan), 2 potions, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</link><pubDate>Fri, 4 Dec 2020 22:37:35 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>The Widow's Fang</h1>
   <h3>Convention Created Content  for Tier 1</h3><p>More than three decades ago, a young child became ill with a horrible disease and died. Instead of departing, her spirit lingered on as a ghost, haunting the hospital where she spent the last days of her life. Now, a new owner hopes to reopen the hospital, but first the ghost must be exorcised. Can you help the child find peace at last?</p>
   <h2>Items</h2>
@@ -18,7 +18,7 @@
       </li>
     </ul>
   </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</guid><title>CCC-ZIEGE-04-01 - The Miser's Glory</title><description>Lantern of Revealing</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</link><pubDate>Sun, 15 Nov 2020 20:04:04 -0800</pubDate><content:encoded><![CDATA[<section>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</guid><title>CCC-ZIEGE-04-01 - The Miser's Glory</title><description>Lantern of Revealing</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</link><pubDate>Fri, 4 Dec 2020 22:37:35 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>The Miser's Glory</h1>
   <h3>Convention Created Content  for Tier 1</h3><p>Three decades ago, a terrible disease swept through the town of Shadeharbor. Nearly half the population of the village died before it ended. The cause of the disease was never discovered. Now, the town leaders from that time are turning up dead. Can you unearth the secrets that have lain buried in Shadehabor all this time?</p>
   <h2>Items</h2>
@@ -27,6 +27,31 @@
       <li>
         <span>Lantern of Revealing</span>
         <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-gsp03-01</guid><title>DC-PoA-GSP03-01 - The Missing Link</title><description>Boots of False Tracks, Dust of Disappearance, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-gsp03-01</link><pubDate>Mon, 30 Nov 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>The Missing Link</h1>
+  <h3>Dungeoncraft Adventure for Tier 1
+    <em class="release"> Released  by Greasy Snitches on November 30, 2020</em>
+  </h3>
+  <p>
+    <em>Adventure Seed: </em>Once Bitten, Twice Shy
+  </p><p>Someone's mysterious disappearance started a chain of kidnappings, the most recent of which is tied to someone dear to an old man. He is desperate to find out where they were taken. Can the adventurers unravel the mystery behind these missing individuals? Part One of The <em>Frozen Eye</em> series.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Boots of False Tracks</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>
+        <span>Dust of Disappearance</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Climbing</span>
+        <em class="entry-label"> Common</em>
       </li>
     </ul>
   </p>
@@ -1475,7 +1500,7 @@
       </li>
     </ul>
   </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-eb-05</guid><title>DDAL-EB-05 - A Century of Ashes</title><description>Sending Stones, a potion, 5 legacy events, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/ddal-eb-05</link><pubDate>Sun, 3 May 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-eb-05</guid><title>DDAL-EB-05 - A Century of Ashes</title><description>Dust of Disappearance, Sending Stones, a potion, and 5 legacy events</description><link>https://arbron.github.io/adventure-items/adventures/ddal-eb-05</link><pubDate>Sun, 3 May 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>A Century of Ashes</h1>
   <h3>Oracle of War Adventure for Tier 2
     <em class="release"> Released  on May 3, 2020</em>
@@ -1484,11 +1509,11 @@
   <p>
     <ul>
       <li>
-        <span>Sending Stones</span>
+        <span>Dust of Disappearance</span>
         <em class="entry-label"> Uncommon</em>
       </li>
-      <li>1 x 
-        <span>Dust of Disappearance</span>
+      <li>
+        <span>Sending Stones</span>
         <em class="entry-label"> Uncommon</em>
       </li>
       <li>1 x 
@@ -2489,7 +2514,7 @@
       </li>
     </ul>
   </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-kumori-03-02</guid><title>CCC-KUMORI-03-02 - The Millwright of Gond</title><description>2 potions, a story award, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/ccc-kumori-03-02</link><pubDate>Tue, 14 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-kumori-03-02</guid><title>CCC-KUMORI-03-02 - The Millwright of Gond</title><description>Dust of Disappearance, 2 potions, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-kumori-03-02</link><pubDate>Tue, 14 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>The Millwright of Gond</h1>
   <h3>Convention Created Content  for Tier 1
     <em class="release"> Released  on January 14, 2020</em>
@@ -2497,7 +2522,7 @@
   <h2>Items</h2>
   <p>
     <ul>
-      <li>1 x 
+      <li>
         <span>Dust of Disappearance</span>
         <em class="entry-label"> Uncommon</em>
       </li>
@@ -2577,30 +2602,4 @@
       </li>
     </ul>
   </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-rcc-01-01</guid><title>CCC-RCC-01-01 - Flight of the Forgemage</title><description>Helm of Comprehending Languages, a potion, a scroll, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-rcc-01-01</link><pubDate>Wed, 8 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>Flight of the Forgemage</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  on January 8, 2020</em>
-  </h3><p>Thorin Ironcap has journeyed from his home in Mithral Hall to the Moonsea in search of his missing brother, Thoradin, who was exiled from Mithral Hall for blacksmithing experiments deemed “too risky”. Rumors exist that he is in Melvaunt, and that he had been using the forges in the city before disappearing recently. Thorin needs adventurers to find Thoradin before his experiments cost his brother his life…or worse!</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Helm of Comprehending Languages</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Healing</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>1 x 
-        <span>Spell Scroll of Protection from Evil and Good</span>
-        <em class="entry-label"> Common</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Cryptic Whispers</summary><p>Even though creatures transformed into stone cursed are long dead, a vague whisper of their memories lives on in the fist-sized obsidian skull embedded within the stone cursed's body. Those who claim one of these skulls from a slain stone cursed often hear its whispering in their thoughts. While mostly the nonsensical ramblings of a tortured soul, the whispers occasionally (at the DMs discretion) offer up worthwhile information. However, these rare nuggets of guidance are not without a price. Those who carry a stone cursed’s skull for an extended period of time can begin to whisper to themselves on a regular basis and often find it difficult to focus on complex tasks.</p><p><strong><em>Note.</em></strong> While a DM may choose to provide information based on the skull’s whisperings, this story award is primarily for roleplaying purposes.</p>
-  </details>
 </section>]]></content:encoded></item></channel></rss>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Fri, 4 Dec 2020 22:37:33 -0800</lastBuildDate><pubDate>Fri, 4 Dec 2020 22:37:33 -0800</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</guid><title>CCC-ZIEGE-04-02 - The Widow's Fang</title><description>The Adventures of Cherise and Antonia (Bag of Tricks, Tan), 2 potions, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</link><pubDate>Fri, 4 Dec 2020 22:37:35 -0800</pubDate><content:encoded><![CDATA[<section>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Fri, 11 Dec 2020 22:23:17 -0800</lastBuildDate><pubDate>Fri, 11 Dec 2020 22:23:17 -0800</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</guid><title>CCC-ZIEGE-04-02 - The Widow's Fang</title><description>The Adventures of Cherise and Antonia (Bag of Tricks, Tan), 2 potions, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</link><pubDate>Fri, 11 Dec 2020 22:23:19 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>The Widow's Fang</h1>
   <h3>Convention Created Content  for Tier 1</h3><p>More than three decades ago, a young child became ill with a horrible disease and died. Instead of departing, her spirit lingered on as a ghost, haunting the hospital where she spent the last days of her life. Now, a new owner hopes to reopen the hospital, but first the ghost must be exorcised. Can you help the child find peace at last?</p>
   <h2>Items</h2>
@@ -18,7 +18,7 @@
       </li>
     </ul>
   </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</guid><title>CCC-ZIEGE-04-01 - The Miser's Glory</title><description>Lantern of Revealing</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</link><pubDate>Fri, 4 Dec 2020 22:37:35 -0800</pubDate><content:encoded><![CDATA[<section>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</guid><title>CCC-ZIEGE-04-01 - The Miser's Glory</title><description>Lantern of Revealing</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</link><pubDate>Fri, 11 Dec 2020 22:23:19 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>The Miser's Glory</h1>
   <h3>Convention Created Content  for Tier 1</h3><p>Three decades ago, a terrible disease swept through the town of Shadeharbor. Nearly half the population of the village died before it ended. The cause of the disease was never discovered. Now, the town leaders from that time are turning up dead. Can you unearth the secrets that have lain buried in Shadehabor all this time?</p>
   <h2>Items</h2>
@@ -27,6 +27,31 @@
       <li>
         <span>Lantern of Revealing</span>
         <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-gsp01-01</guid><title>DC-PoA-GSP01-01 - A Wolf's Whisper</title><description>Boots of the Winterlands, Pole of Angling, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-gsp01-01</link><pubDate>Sat, 5 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>A Wolf's Whisper</h1>
+  <h3>Dungeoncraft Adventure for Tier 1
+    <em class="release"> Released  by Greasy Snitches on December 5, 2020</em>
+  </h3>
+  <p>
+    <em>Adventure Seed: </em>Awake and Afraid
+  </p><p>Talking beasts have been wandering around Easthaven, whispering about a crimson star. The villagers, taking advantage of this situation, are killing these animals for food. One injured wolf managed to evade the hunters, but they are not willing to let their game escape. Part One of <em>The Crimson Star</em> series.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Boots of the Winterlands</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>
+        <span>Pole of Angling</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Healing</span>
+        <em class="entry-label"> Common</em>
       </li>
     </ul>
   </p>
@@ -2585,20 +2610,6 @@
       <li>1 x 
         <span>Spell Scroll of Fog Cloud</span>
         <em class="entry-label"> Common</em>
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-saf-01-01</guid><title>CCC-SAF-01-01 - Between Garrock and a Hard Place</title><description>Elemental Gem (Yellow Diamond)</description><link>https://arbron.github.io/adventure-items/adventures/ccc-saf-01-01</link><pubDate>Fri, 10 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>Between Garrock and a Hard Place</h1>
-  <h3>Convention Created Content  for Tier 2
-    <em class="release"> Released  on January 10, 2020</em>
-  </h3><p>Miners and farming communities around the Earthspur Mountains are being found deserted of townsfolk. If the hobgoblins settling into the area are responsible, what are their motivations?</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Elemental Gem (Yellow Diamond)</span>
-        <em class="entry-label"> Uncommon</em>
       </li>
     </ul>
   </p>

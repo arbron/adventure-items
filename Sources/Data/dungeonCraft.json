@@ -1,5 +1,30 @@
 [
     {
+        "code": "DC-PoA-GSP01-01",
+        "name": "A Wolf's Whisper",
+        "description": "Talking beasts have been wandering around Easthaven, whispering about a crimson star. The villagers, taking advantage of this situation, are killing these animals for food. One injured wolf managed to evade the hunters, but they are not willing to let their game escape. Part One of *The Crimson Star* series.",
+        "released": "2020-12-06",
+        "creator": "Greasy Snitches",
+        "tier": [1],
+        "adventureSeed": "Awake and Afraid",
+        "items": [
+            {
+                "name": "Boots of the Winterlands",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Pole of Angling",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
         "code": "DC-PoA-GSP03-01",
         "name": "The Missing Link",
         "description": "Someone's mysterious disappearance started a chain of kidnappings, the most recent of which is tied to someone dear to an old man. He is desperate to find out where they were taken. Can the adventurers unravel the mystery behind these missing individuals? Part One of The *Frozen Eye* series.",

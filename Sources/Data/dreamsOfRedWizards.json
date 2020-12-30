@@ -167,6 +167,42 @@
         ]
     },
     {
+        "code": "DDAL-DRW-06",
+        "name": "Thimblerigging",
+        "description": "The chase is on to recover the stolen Wyrmskull Throne. Getting ahead of the Cult of the Dragon will require secret lore, favors from new friends—and an excursion to a site of forgotten horrors. Part Three of the *Storm King’s Descent* series of adventures.",
+        "released": "2020-10-28",
+        "url": "https://www.dmsguild.com/product/333727/DDALDRW06-Thimblerigging",
+        "tier": [3],
+        "items": [
+            {
+                "name": "Necklace of Prayer Beads",
+                "rarity": "rare"
+            },
+            {
+                "name": "Ioun Stone of Vitality",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Heroism",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Code Breaker",
+                "description": "You have made a copy of *The Death of the Mind*, the book requested by Master Reader Alsbith. Written in a code using an ancient dialect of Chultan, the book is nearly indecipherable. If you speak Chultan or can use magic or class features every day to read it, you can attempt to break the code. Spend 10 DT and attempt a DC 20 Intelligence check in front of your DM. If you are successful, you will eventually crack the code in a future adventure. If not, you fail, but you can choose to spend another 10 DT and try again."
+            }
+        ]
+    },
+    {
         "code": "DDEP-DRW01",
         "name": "Assault on Myth Nantar",
         "description": "Thay has set it sights on taking the underwater city of Myth Nantar. Can you stop a full-on invasion by its undead armada, or will the elves be looking for a new home?",

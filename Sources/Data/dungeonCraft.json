@@ -3,10 +3,11 @@
         "code": "DC-PoA-GSP01-01",
         "name": "A Wolf's Whisper",
         "description": "Talking beasts have been wandering around Easthaven, whispering about a crimson star. The villagers, taking advantage of this situation, are killing these animals for food. One injured wolf managed to evade the hunters, but they are not willing to let their game escape. Part One of *The Crimson Star* series.",
+        "adventureSeed": "Awake and Afraid",
         "released": "2020-12-06",
         "creator": "Greasy Snitches",
+        "url": "https://www.dmsguild.com/product/338570/A-Wolfs-Whisper-DCPoAGSP0101",
         "tier": [1],
-        "adventureSeed": "Awake and Afraid",
         "items": [
             {
                 "name": "Boots of the Winterlands",
@@ -28,10 +29,11 @@
         "code": "DC-PoA-GSP03-01",
         "name": "The Missing Link",
         "description": "Someone's mysterious disappearance started a chain of kidnappings, the most recent of which is tied to someone dear to an old man. He is desperate to find out where they were taken. Can the adventurers unravel the mystery behind these missing individuals? Part One of The *Frozen Eye* series.",
+        "adventureSeed": "Once Bitten, Twice Shy",
         "released": "2020-12-01",
         "creator": "Greasy Snitches",
+        "url": "https://www.dmsguild.com/product/337908/The-Missing-Link-DCPoAGSP0301",
         "tier": [1],
-        "adventureSeed": "Once Bitten, Twice Shy",
         "items": [
             {
                 "name": "Boots of False Tracks",
@@ -43,6 +45,32 @@
             },
             {
                 "name": "Potion of Climbing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "code": "DC-PoA-LEGIT-SV-01",
+        "name": "The Coldlight Star",
+        "description": "A day of unusual warmth slices through the everlasting rime, giving the town of Termalaine a ray of hope. But only a fool would think breaking Auril’s hold would be easy. Can you weather what mortal hubris has wrought? Or will Termalaine be undone by…The Coldlight Star.",
+        "adventureSeed": "The Warmest Day",
+        "released": "2020-11-29",
+        "creator": "The Legitimate Business",
+        "url": "https://www.dmsguild.com/product/337701/DCPOALEGITSV01-The-Coldlight-Star",
+        "tier": [1],
+        "items": [
+            {
+                "name": "Mix #5 (Eversmoking Bottle)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Wintergreen Guard (Smoldering Armor - Breastplate)",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Healing",
                 "rarity": "common",
                 "consumable": true,
                 "count": 1

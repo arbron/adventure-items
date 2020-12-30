@@ -376,16 +376,86 @@
         "released": "2020-03-10",
         "url": "https://www.dmsguild.com/product/301019/DDAL0912-The-Breath-of-Life",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Cloak of Arachnida",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Giant Strength (Fire)",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 3
+            },
+            {
+                "name": "Potion of Resistance (Lightning)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 3
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "No Exceptions!",
+                "description": "You’ve broken Mahadi’s only rules: “No fighting! No spellcasting! No exceptions!” By choosing to break the rules, you’ve been kicked out of Mahdi’s Wondrous Emporium. Now you must survive in the wastes without its safe shelter. You start any tier 2 or higher Avernus Rising adventure at half hit points and with a level of exhaustion that can’t be removed."
+            },
+            {
+                "name": "Sleep Tight",
+                "description": "Galabraga is ancient even by hag standards, she has made countless bargains with all manner of creatures to her benefit. One does not live as long as she without having the occasional double cross or deal gone wrong, but woe to those that try.\n\n Galabraga is extremely irritated by having to have a new *simulacrum* made. She was visiting her numerous daughters residing in Minauros when the character destroyed her *simulacrum*. As such, she requests her daughters haunt the characters’ dreams until such time as they die. Galabraga allows her daughters to keep the souls for their service, see **Nightmare Haunting**. Characters who have assisted in destroying her *simulacrum* in any way earn this story award. If the characters provide Galabraga a new *simulacrum* and 5 *soul coins* for their insolence as well as her pain and suffering, may remove the story award."
+            }
+        ]
     },
     {
         "code": "DDAL09-13",
         "name": "The Swarmed Heart",
-        "description": "Bees! The peace of Mahadi’s emporium is shattered as a swarm of hellwasps has descended upon it! Since this is odd behavior for hellwasps, Dara senses a higher power at work and asks you to discover the truth about the creatures’ attacks. Are you up to the task, or will you just end up getting stung? Part Two of the *Call for Aid* series of adventures.",
+        "description": "Covered in bees! The peace of Mahadi’s emporium is shattered as a swarm of hellwasps has descended upon it! Since this is odd behavior for hellwasps, Dara senses a higher power at work and asks you to discover the truth about the creatures’ attacks. Are you up to the task, or will you just end up getting stung? Part Two of the *Call for Aid* series of adventures.",
         "released": "2020-03-10",
         "url": "https://www.dmsguild.com/product/301020/DDAL0913-The-Swarmed-Heart",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Broom of Flying",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Quarterstaff, +3",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Climbing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 10
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "No Exceptions!",
+                "description": "You’ve broken Mahadi’s only rules: “No fighting! No spellcasting! No exceptions!” By choosing to break the rules, you’ve been kicked out of Mahdi’s Wondrous Emporium. Now you must survive in the wastes without its safe shelter. You start any tier 2 or higher Avernus Rising adventure at half hit points and with a level of exhaustion that can’t be removed."
+            },
+            {
+                "name": "A Solitary Wasp",
+                "description": "If the characters cast *greater restoration* on Griditch or he is cured by one of the revived angels, Griditch regains his senses and chooses to rest in the Wandering Emporium. Griditch is willing to run errands for the characters by purchasing items at cost in the Material Plane and returning with them within a few hours if they provide the coin."
+            }
+        ]
     },
     {
         "code": "DDAL09-14",
@@ -394,7 +464,61 @@
         "released": "2020-03-10",
         "url": "https://www.dmsguild.com/product/301021/DDAL0914-The-Vast-Emptiness-of-Grace",
         "tier": [3],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Belt of Stone Giant Strength",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Wand of Secrets",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 2
+            },
+            {
+                "name": "Spell Scroll of Power Word Pain",
+                "rarity": "veryRare",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Soul Coin",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Oiled Leather Spellbook",
+                "spells": [
+                    { "name": "comprehend languages", "level": 1 },
+                    { "name": "fog cloud", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "shield", "level": 1 },
+                    { "name": "detect thoughts", "level": 2 },
+                    { "name": "gust of wind", "level": 2 },
+                    { "name": "mirror image", "level": 2 },
+                    { "name": "animate dead", "level": 3 },
+                    { "name": "bestow curse", "level": 3 },
+                    { "name": "fireball", "level": 3 },
+                    { "name": "glyph of warding", "level": 3 },
+                    { "name": "blight", "level": 4 },
+                    { "name": "greater invisibility", "level": 4 },
+                    { "name": "dominate person", "level": 5 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Wards Got!",
+                "description": "You’ve successfully retrieved the wards of suffering from the bowels of a long-lost temple to Ilmater. With the protection they afford, Dara stands a much better chance of surviving her ordeal in the Canyon of Screams."
+            }
+        ]
     },
     {
         "code": "DDAL09-15",

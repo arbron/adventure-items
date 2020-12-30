@@ -165,8 +165,34 @@
         "code": "DDAL10-04",
         "name": "Cold Benevolence",
         "description": "Feral-Tongue must be stopped! But without aid, it’s likely that your efforts will be in vain. Among rising tensions, Old Goat suggests an unlikely ally: Chwingas! Her plan, however, isn’t popular among other members of the clan. Can you sway their opinion? Better still, can you find the elusive elemental spirits?",
+        "released": null,
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Robe of Useful Items",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Resistance (Cold)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Charm of Lor the Timid",
+                "description": "The characters earn this story award if they successfully persuade Lor the Timid to aid them."
+            },
+            {
+                "name": "Charm of Sappa Everwatching",
+                "description": "The characters earn this story award if they successfully persuade Sappa Ever-Watching to aid them."
+            },
+            {
+                "name": "Charm of Singing Gir",
+                "description": "The characters earn this story award if they successfully persuade Singing Gir to aid them."
+            }
+        ]
     },
     {
         "code": "DDEP10-00",
@@ -196,20 +222,6 @@
                 "rarity": "uncommon",
                 "consumable": true,
                 "count": 1
-            }
-        ],
-        "storyAwards": [
-            {
-                "name": "Bunny Slipper Snowshoes",
-                "description": " Certain to keep your feet warm while traversing the arctic, these fashionable snowshoes expand and contract to fit any Small or Medium humanoid creature."
-            },
-            {
-                "name": "Campfire Ice Sculture",
-                "description": "When placed on the ground in a cold climate, this tiny sculpture glows orange-red and emits heat enough for up to four Medium creatures within five feet to become comfortably warm."
-            },
-            {
-                "name": "Magical Slushy Grinder",
-                "description": "When snow or ice are dropped into this trinket, it can produce up to 5 gallons of a sweet, lemon-flavored slush. Once used, the magic ceases to function until the next dawn."
             }
         ]
     },

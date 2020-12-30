@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Fri, 11 Dec 2020 22:23:17 -0800</lastBuildDate><pubDate>Fri, 11 Dec 2020 22:23:17 -0800</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</guid><title>CCC-ZIEGE-04-02 - The Widow's Fang</title><description>The Adventures of Cherise and Antonia (Bag of Tricks, Tan), 2 potions, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</link><pubDate>Fri, 11 Dec 2020 22:23:19 -0800</pubDate><content:encoded><![CDATA[<section>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Wed, 30 Dec 2020 14:03:53 -0800</lastBuildDate><pubDate>Wed, 30 Dec 2020 14:03:53 -0800</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-04</guid><title>DDAL10-04 - Cold Benevolence</title><description>Robe of Useful Items, a potion, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-04</link><pubDate>Wed, 30 Dec 2020 14:03:56 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>Cold Benevolence</h1>
+  <h3>Season 10 Adventure for Tier 1</h3><p>Feral-Tongue must be stopped! But without aid, it’s likely that your efforts will be in vain. Among rising tensions, Old Goat suggests an unlikely ally: Chwingas! Her plan, however, isn’t popular among other members of the clan. Can you sway their opinion? Better still, can you find the elusive elemental spirits?</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Robe of Useful Items</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Resistance (Cold)</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Charm of Lor the Timid</summary><p>The characters earn this story award if they successfully persuade Lor the Timid to aid them.</p>
+  </details>
+  <details class="story-award">
+    <summary>Charm of Sappa Everwatching</summary><p>The characters earn this story award if they successfully persuade Sappa Ever-Watching to aid them.</p>
+  </details>
+  <details class="story-award">
+    <summary>Charm of Singing Gir</summary><p>The characters earn this story award if they successfully persuade Singing Gir to aid them.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</guid><title>CCC-ZIEGE-04-02 - The Widow's Fang</title><description>The Adventures of Cherise and Antonia (Bag of Tricks, Tan), 2 potions, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</link><pubDate>Wed, 30 Dec 2020 14:03:56 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>The Widow's Fang</h1>
   <h3>Convention Created Content  for Tier 1</h3><p>More than three decades ago, a young child became ill with a horrible disease and died. Instead of departing, her spirit lingered on as a ghost, haunting the hospital where she spent the last days of her life. Now, a new owner hopes to reopen the hospital, but first the ghost must be exorcised. Can you help the child find peace at last?</p>
   <h2>Items</h2>
@@ -18,7 +44,7 @@
       </li>
     </ul>
   </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</guid><title>CCC-ZIEGE-04-01 - The Miser's Glory</title><description>Lantern of Revealing</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</link><pubDate>Fri, 11 Dec 2020 22:23:19 -0800</pubDate><content:encoded><![CDATA[<section>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</guid><title>CCC-ZIEGE-04-01 - The Miser's Glory</title><description>Lantern of Revealing</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</link><pubDate>Wed, 30 Dec 2020 14:03:56 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>The Miser's Glory</h1>
   <h3>Convention Created Content  for Tier 1</h3><p>Three decades ago, a terrible disease swept through the town of Shadeharbor. Nearly half the population of the village died before it ended. The cause of the disease was never discovered. Now, the town leaders from that time are turning up dead. Can you unearth the secrets that have lain buried in Shadehabor all this time?</p>
   <h2>Items</h2>
@@ -260,7 +286,7 @@
   <details class="story-award">
     <summary>Liberator</summary><p>You rescued the Thayan political prisoner Trildor Zihial from the dungeons beneath the Citadel, and he survived to tell the tale. He owes you his life and swears to dedicate his freedom to continuing to oppose Szass Tam’s tyrannical rule over Thay.</p>
   </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddep10-00</guid><title>DDEP10-00 - Great Knucklehead Rally</title><description>Figurine of Wonderous Power (Snowy Owl aka Silver Raven), Horn of Silent Alarm, Mariner's Armor, Rope of Climbing, a potion, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddep10-00</link><pubDate>Fri, 18 Sep 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddep10-00</guid><title>DDEP10-00 - Great Knucklehead Rally</title><description>Figurine of Wonderous Power (Snowy Owl aka Silver Raven), Horn of Silent Alarm, Mariner's Armor, Rope of Climbing, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/ddep10-00</link><pubDate>Fri, 18 Sep 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>Great Knucklehead Rally</h1>
   <h3>Season 10 Epic for Tier 1
     <em class="release"> Released  on September 18, 2020</em>
@@ -290,16 +316,6 @@
       </li>
     </ul>
   </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Bunny Slipper Snowshoes</summary><p>Certain to keep your feet warm while traversing the arctic, these fashionable snowshoes expand and contract to fit any Small or Medium humanoid creature.</p>
-  </details>
-  <details class="story-award">
-    <summary>Campfire Ice Sculture</summary><p>When placed on the ground in a cold climate, this tiny sculpture glows orange-red and emits heat enough for up to four Medium creatures within five feet to become comfortably warm.</p>
-  </details>
-  <details class="story-award">
-    <summary>Magical Slushy Grinder</summary><p>When snow or ice are dropped into this trinket, it can produce up to 5 gallons of a sweet, lemon-flavored slush. Once used, the magic ceases to function until the next dawn.</p>
-  </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-00</guid><title>DDAL10-00 - Ice Road Trackers</title><description>Boots of False Tracks, Ersatz Eye, Smoldering Armor, Studded Leather, Unbreakable Arrow, 2 potions, 2 scrolls, and 3 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-00</link><pubDate>Mon, 14 Sep 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>Ice Road Trackers</h1>
   <h3>Season 10 Adventure for Tier 1
@@ -2100,6 +2116,118 @@
       </li>
     </ul>
   </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal09-12</guid><title>DDAL09-12 - The Breath of Life</title><description>Cloak of Arachnida, 4 potions, 2 story awards, and 3 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal09-12</link><pubDate>Mon, 9 Mar 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>The Breath of Life</h1>
+  <h3>Season 9 Adventure for Tier 3
+    <em class="release"> Released  on March 9, 2020</em>
+  </h3><p>An archdevil has invited you to a ball, and though it’s likely a trap, it’d be rude to decline. Dara, however, is keen on attending, since this fiend’s most treasured possession is the bejeweled skull of a dead angel. Dara believes that the artifact holds the secret to accessing a long-dormant reliquary. Ready to crash a party? Part One of the <em>Call for Aid</em> series of adventures.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Cloak of Arachnida</span>
+        <em class="entry-label"> Very Rare</em>
+      </li>
+      <li>3 x 
+        <span>Potion of Giant Strength (Fire)</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Resistance (Lightning)</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>3 x 
+        <span>Soul Coin</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>No Exceptions!</summary><p>You’ve broken Mahadi’s only rules: “No fighting! No spellcasting! No exceptions!” By choosing to break the rules, you’ve been kicked out of Mahdi’s Wondrous Emporium. Now you must survive in the wastes without its safe shelter. You start any tier 2 or higher Avernus Rising adventure at half hit points and with a level of exhaustion that can’t be removed.</p>
+  </details>
+  <details class="story-award">
+    <summary>Sleep Tight</summary><p>Galabraga is ancient even by hag standards, she has made countless bargains with all manner of creatures to her benefit. One does not live as long as she without having the occasional double cross or deal gone wrong, but woe to those that try.</p><p>Galabraga is extremely irritated by having to have a new <em>simulacrum</em> made. She was visiting her numerous daughters residing in Minauros when the character destroyed her <em>simulacrum</em>. As such, she requests her daughters haunt the characters’ dreams until such time as they die. Galabraga allows her daughters to keep the souls for their service, see <strong>Nightmare Haunting</strong>. Characters who have assisted in destroying her <em>simulacrum</em> in any way earn this story award. If the characters provide Galabraga a new <em>simulacrum</em> and 5 <em>soul coins</em> for their insolence as well as her pain and suffering, may remove the story award.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal09-13</guid><title>DDAL09-13 - The Swarmed Heart</title><description>Broom of Flying, Quarterstaff, +3, 4 potions, 2 story awards, and 10 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal09-13</link><pubDate>Mon, 9 Mar 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>The Swarmed Heart</h1>
+  <h3>Season 9 Adventure for Tier 3
+    <em class="release"> Released  on March 9, 2020</em>
+  </h3><p>Covered in bees! The peace of Mahadi’s emporium is shattered as a swarm of hellwasps has descended upon it! Since this is odd behavior for hellwasps, Dara senses a higher power at work and asks you to discover the truth about the creatures’ attacks. Are you up to the task, or will you just end up getting stung? Part Two of the <em>Call for Aid</em> series of adventures.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Broom of Flying</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>
+        <span>Quarterstaff, +3</span>
+        <em class="entry-label"> Very Rare</em>
+      </li>
+      <li>2 x 
+        <span>Potion of Climbing</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>2 x 
+        <span>Potion of Greater Healing</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>10 x 
+        <span>Soul Coin</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>No Exceptions!</summary><p>You’ve broken Mahadi’s only rules: “No fighting! No spellcasting! No exceptions!” By choosing to break the rules, you’ve been kicked out of Mahdi’s Wondrous Emporium. Now you must survive in the wastes without its safe shelter. You start any tier 2 or higher Avernus Rising adventure at half hit points and with a level of exhaustion that can’t be removed.</p>
+  </details>
+  <details class="story-award">
+    <summary>A Solitary Wasp</summary><p>If the characters cast <em>greater restoration</em> on Griditch or he is cured by one of the revived angels, Griditch regains his senses and chooses to rest in the Wandering Emporium. Griditch is willing to run errands for the characters by purchasing items at cost in the Material Plane and returning with them within a few hours if they provide the coin.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal09-14</guid><title>DDAL09-14 - The Vast Emptiness of Grace</title><description>Belt of Stone Giant Strength, Wand of Secrets, 2 potions, a scroll, a spellbook, a story award, and 2 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal09-14</link><pubDate>Mon, 9 Mar 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>The Vast Emptiness of Grace</h1>
+  <h3>Season 9 Adventure for Tier 3
+    <em class="release"> Released  on March 9, 2020</em>
+  </h3><p>The divine spark has been returned to Verwyyr and Raskamedies and the time has come to return to the Material plane in search of an ancient artifact once belonging to Ilmater himself. Beneath the holy city of Elturel lay a reliquary—the Dolorous Adytum. What secrets lie in the dark parts of the world? It’s time to find out. Part Three of the <em>Call for Aid</em> series of adventures.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Belt of Stone Giant Strength</span>
+        <em class="entry-label"> Very Rare</em>
+      </li>
+      <li>
+        <span>Wand of Secrets</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>2 x 
+        <span>Potion of Superior Healing</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Power Word Pain</span>
+        <em class="entry-label"> Very Rare</em>
+      </li>
+      <li>2 x 
+        <span>Soul Coin</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Spellbooks</h2>
+  <p>
+    <ul>
+      <li>
+        <strong>Oiled Leather Spellbook: </strong>comprehend languages, fog cloud, magic missile, shield, detect thoughts, gust of wind, mirror image, animate dead, bestow curse, fireball, glyph of warding, blight, greater invisibility, and dominate person
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Wards Got!</summary><p>You’ve successfully retrieved the wards of suffering from the bowels of a long-lost temple to Ilmater. With the protection they afford, Dara stands a much better chance of surviving her ordeal in the Canyon of Screams.</p>
+  </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-gsp02-01</guid><title>CCC-GSP02-01 - Minauros Unchained</title><description>Bulaga Wizard Hat (Hat of Vermin), a potion, a story award, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/ccc-gsp02-01</link><pubDate>Mon, 2 Mar 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>Minauros Unchained</h1>
   <h3>Convention Created Content  for Tier 1
@@ -2509,108 +2637,4 @@
   <details class="story-award">
     <summary>Shots Fired</summary><p>You have committed an act of war against the Zhentarim by killing a spy while working for First Lord Yestral. This story reward may come into play in the future.</p>
   </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-tri-21-yul1-6</guid><title>CCC-TRI-21 YUL1-6 - The Rifts of Madness</title><description>Kaorti Resin Armor (Scale Armor of Psychic Resistance), a potion, and 3 scrolls</description><link>https://arbron.github.io/adventure-items/adventures/ccc-tri-21-yul1-6</link><pubDate>Wed, 15 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>The Rifts of Madness</h1>
-  <h3>Convention Created Content  for Tier 3
-    <em class="release"> Released  by The Role Initiative on January 15, 2020</em>
-  </h3><p>The vast power released by the destruction of a powerful gate connected to the Far Realm created rifts in the fabric of the planes. Even worse, a foul taint has begun permeating into the planes. Are you brave enough to face what is lurking beyond the Rifts of Madness? Part Six of the <em>Yûlash</em> series.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Kaorti Resin Armor (Scale Armor of Psychic Resistance)</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Superior Healing</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>1 x 
-        <span>Spell Scroll of Immolation</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>1 x 
-        <span>Spell Scroll of Mass Healing Word</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Spell Scroll of Plane Shift</span>
-        <em class="entry-label"> Very Rare</em>
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-kumori-03-02</guid><title>CCC-KUMORI-03-02 - The Millwright of Gond</title><description>Dust of Disappearance, 2 potions, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ccc-kumori-03-02</link><pubDate>Tue, 14 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>The Millwright of Gond</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  on January 14, 2020</em>
-  </h3><p>Seburil, rock gnome priestess of Gond, has ordered his followers to harvest trees in the Quivering Forest. This has caused conflict with Avumat, verdant lord of the Circle of the Forest. The adventurers must intercede and negotiate a peace between the two factions.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Dust of Disappearance</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>2 x 
-        <span>Potion of Healing</span>
-        <em class="entry-label"> Common</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Heroes of the Quivering Forest</summary><p>You stand amongst the trees of the Quivering Forest; the rustling of leaves is peaceful, soothing. Birds cheerily sing, sunbeams dapple your skin, and a cool breeze tickles your ears.</p><p>With the Quivering Forest’s current tranquility it might be easy to forget the recent conflicts, destruction, and chaos. If the woods here do have any awareness, its presence seems to be one of contentment and gratitude for your assistance in bringing natural order back to the land.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-elo-02</guid><title>CCC-ELO-02 - The Four Kids</title><description>Breegla’s Nightlamp (Candle of the Deep), Mother Pqwirli’s Pod Pouch (Bag of Holding), a story award, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/ccc-elo-02</link><pubDate>Mon, 13 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>The Four Kids</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  on January 13, 2020</em>
-  </h3><p>A plea for help calls heroes into the deep of The Underdark, where a kind-hearted matron seeks help to vanquish childish soul-buried sorrows. How far will our heroes go for the kids?</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Breegla’s Nightlamp (Candle of the Deep)</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>
-        <span>Mother Pqwirli’s Pod Pouch (Bag of Holding)</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Cha’Raega’s Porridge (Potion of Fire Breath)</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Always Home</summary><p>The children of Qaahrez Sanctuary have been cured of their ailments! Your play with them has showed that kindness, courage, and hope can defeat sickness and mean spirits like the Dark Priory. Mother Pqwirli’s sanctuary will always welcome you during journeys in the Underdark or in future <strong>CCC-ELO</strong> adventures.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-kumori-03-03</guid><title>CCC-KUMORI-03-03 - Scales of Justice</title><description>Helm of Comprehending Languages, Horn of Silent Alarm, a potion, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-kumori-03-03</link><pubDate>Mon, 13 Jan 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>Scales of Justice</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  on January 13, 2020</em>
-  </h3><p>Lyrezix the Gleaming has watched over the village of Volla for thirteen generations. When she fails to show up for a festival in her honor, the townspeople grow worried. It’s up to a hearty band of adventurers to discover what happened to their beloved dragon.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Helm of Comprehending Languages</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>
-        <span>Horn of Silent Alarm</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Growth</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Spell Scroll of Fog Cloud</span>
-        <em class="entry-label"> Common</em>
-      </li>
-    </ul>
-  </p>
 </section>]]></content:encoded></item></channel></rss>

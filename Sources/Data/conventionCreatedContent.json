@@ -3929,6 +3929,12 @@
                 "rarity": "rare"
             },
             {
+                "name": "Potion of Greater Healing",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
                 "name": "Potion of Healing",
                 "rarity": "common",
                 "consumable": true,
@@ -5040,7 +5046,22 @@
         "released": "2020-07-01",
         "url": "https://www.dmsguild.com/product/315751/CCCGAD0201-The-Monster-Within",
         "tier": [1],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Moon-Touched Rapier",
+                "rarity": "common"
+            },
+            {
+                "name": "Goggles of Night",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Potion of Giant Strength (Hill)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "CCC-GAD02-02",

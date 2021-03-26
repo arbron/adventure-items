@@ -1,32 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Sun, 14 Mar 2021 10:34:19 -0700</lastBuildDate><pubDate>Sun, 14 Mar 2021 10:34:19 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-06</guid><title>DDAL10-06 - The Fallen Star</title><description>Chime of Opening, Prosthetic Limb, a potion, a story award, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-06</link><pubDate>Sun, 14 Mar 2021 10:34:21 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>The Fallen Star</h1>
-  <h3>Season 10 Adventure for Tier 2</h3><p>As the last vestiges of Feral-Tongue’s legacy echo across Icewind Dale, an ominous sign makes itself known. A falling star far to the west heralds a new unknown. A goliath hunting party returns to Wyrmdoom Crag, speaking of a strange creature. Perhaps it may be the key to discovering the source of the mysterious light. Part Six of the <em>Plague of Ancients</em> series of adventures.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Chime of Opening</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>
-        <span>Prosthetic Limb</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>1 x 
-        <span>Charm of the Ice Troll</span>
-        <em class="entry-label"> Unique</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Greater Healing</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Captured Goliaths</summary><p>The characters earn this story award if they return to Wyrmdoom Crag, where they discover that Nararhak Tree-Eye and the goliath hunters have been captured by neogi.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</guid><title>CCC-ZIEGE-04-02 - The Widow's Fang</title><description>The Adventures of Cherise and Antonia (Bag of Tricks, Tan), 2 potions, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</link><pubDate>Sun, 14 Mar 2021 10:34:21 -0700</pubDate><content:encoded><![CDATA[<section>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Fri, 26 Mar 2021 15:35:55 -0700</lastBuildDate><pubDate>Fri, 26 Mar 2021 15:35:55 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</guid><title>CCC-ZIEGE-04-02 - The Widow's Fang</title><description>The Adventures of Cherise and Antonia (Bag of Tricks, Tan), 2 potions, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</link><pubDate>Fri, 26 Mar 2021 15:35:57 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>The Widow's Fang</h1>
   <h3>Convention Created Content  for Tier 1</h3><p>More than three decades ago, a young child became ill with a horrible disease and died. Instead of departing, her spirit lingered on as a ghost, haunting the hospital where she spent the last days of her life. Now, a new owner hopes to reopen the hospital, but first the ghost must be exorcised. Can you help the child find peace at last?</p>
   <h2>Items</h2>
@@ -46,7 +18,7 @@
       </li>
     </ul>
   </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</guid><title>CCC-ZIEGE-04-01 - The Miser's Glory</title><description>Lantern of Revealing</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</link><pubDate>Sun, 14 Mar 2021 10:34:21 -0700</pubDate><content:encoded><![CDATA[<section>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</guid><title>CCC-ZIEGE-04-01 - The Miser's Glory</title><description>Lantern of Revealing</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</link><pubDate>Fri, 26 Mar 2021 15:35:57 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>The Miser's Glory</h1>
   <h3>Convention Created Content  for Tier 1</h3><p>Three decades ago, a terrible disease swept through the town of Shadeharbor. Nearly half the population of the village died before it ended. The cause of the disease was never discovered. Now, the town leaders from that time are turning up dead. Can you unearth the secrets that have lain buried in Shadehabor all this time?</p>
   <h2>Items</h2>
@@ -55,6 +27,99 @@
       <li>
         <span>Lantern of Revealing</span>
         <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-garyxiii-01</guid><title>DC-PoA-GaryXIII-01 - Little Feet, Cold Nights</title><description>All-Purpose Tool, +1, Boots of False Tracks, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-garyxiii-01</link><pubDate>Wed, 24 Mar 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>Little Feet, Cold Nights</h1>
+  <h3>Dungeoncraft Adventure for Tier 2
+    <em class="release"> Released  on March 24, 2021</em>
+  </h3>
+  <p>
+    <em>Adventure Seed: </em>My, What Big Feet You Have
+  </p><p>Strange lights in the forest, claw marks on the doors of regular citizens, and worst of all; their beloved pets are being attacked and killed. The town of West Easthaven is under attack by unknown forces for nefarious reasons. Can our adventurers put together the clues to make sense of these strange events or will the citizens continue to be terrorized by these odd disturbances? Part One of the <em>To Survive the Night</em> series.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>All-Purpose Tool, +1</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>
+        <span>Boots of False Tracks</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>1 x 
+        <span>Scroll of Protection from Evil and Good</span>
+        <em class="entry-label"> Common</em>
+      </li>
+    </ul>
+  </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-garyxiii-02</guid><title>DC-PoA-GaryXIII-02 - A New Place to Call Home</title><description>Mirror of the Past, Mithral Armor (scale, barding only), and 6 other items</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-garyxiii-02</link><pubDate>Wed, 24 Mar 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>A New Place to Call Home</h1>
+  <h3>Dungeoncraft Adventure for Tier 2
+    <em class="release"> Released  on March 24, 2021</em>
+  </h3>
+  <p>
+    <em>Adventure Seed: </em>Ageless Hunger
+  </p><p>Undead pour from an abandon keep in The Frozen North, threatening the already tenuous balance of life in the Ten-Towns, as an unlikely benefactor seeks heroes in hopes of turning this keep into a future stronghold. Secrets and dangers await the heroes as they venture out into the unforgiving cold. Part Two of the <em>To Survive the Night</em> series.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Mirror of the Past</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>
+        <span>Mithral Armor (scale, barding only)</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>6 x 
+        <span>Bone-Tipped Arrow, +1</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-garyxiii-03</guid><title>DC-PoA-GaryXIII-03 - Personal Fouls and Penalties</title><description>Cloak of the Manta Ray, Wand of Pyrotechnics, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-garyxiii-03</link><pubDate>Wed, 24 Mar 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>Personal Fouls and Penalties</h1>
+  <h3>Dungeoncraft Adventure for Tier 2
+    <em class="release"> Released  on March 24, 2021</em>
+  </h3>
+  <p>
+    <em>Adventure Seed: </em>Goat-ball!
+  </p><p>Morale in the small village of Goodenow has fallen to an all-time low with the suspicious death of the star goat-ball player on the eve of a big match. When a shadowy enemy begins to target a local team of bonesetters, the mystery deepens. Is it game over in Goodenow? Part Three of the <em>To Survive the Night</em> series.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Cloak of the Manta Ray</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>
+        <span>Wand of Pyrotechnics</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Watchful Rest</span>
+        <em class="entry-label"> Common</em>
+      </li>
+    </ul>
+  </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-07</guid><title>DDAL10-07 - Into the Darkness</title><description>Dark Shard Amulet and Mace of Smiting</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-07</link><pubDate>Thu, 11 Mar 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>Into the Darkness</h1>
+  <h3>Season 10 Adventure for Tier 2
+    <em class="release"> Released  on March 11, 2021</em>
+  </h3><p>Times have been especially hard on the goliaths of Wyrmdoom Crag, and losing the few hunters they have left to neogi slavers will certainly spell their doom. You must delve into the ruins of an ancient city buried beneath the Spine of the World. What secrets lay in the deep dark? Do they promise salvation or doom? Part Seven of the <em>Plague of Ancients</em> series of adventures.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Dark Shard Amulet</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>
+        <span>Mace of Smiting</span>
+        <em class="entry-label"> Rare</em>
       </li>
     </ul>
   </p>
@@ -127,6 +192,36 @@
   </details>
   <details class="story-award">
     <summary>The Song Falls Silent</summary>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-06</guid><title>DDAL10-06 - The Fallen Star</title><description>Chime of Opening, Prosthetic Limb, a potion, a story award, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-06</link><pubDate>Thu, 11 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>The Fallen Star</h1>
+  <h3>Season 10 Adventure for Tier 2
+    <em class="release"> Released  on February 11, 2021</em>
+  </h3><p>As the last vestiges of Feral-Tongue’s legacy echo across Icewind Dale, an ominous sign makes itself known. A falling star far to the west heralds a new unknown. A goliath hunting party returns to Wyrmdoom Crag, speaking of a strange creature. Perhaps it may be the key to discovering the source of the mysterious light. Part Six of the <em>Plague of Ancients</em> series of adventures.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Chime of Opening</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>
+        <span>Prosthetic Limb</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>1 x 
+        <span>Charm of the Ice Troll</span>
+        <em class="entry-label"> Unique</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Greater Healing</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>Captured Goliaths</summary><p>The characters earn this story award if they return to Wyrmdoom Crag, where they discover that Nararhak Tree-Eye and the goliath hunters have been captured by neogi.</p>
   </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-04</guid><title>DDAL10-04 - Cold Benevolence</title><description>Robe of Useful Items, a potion, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-04</link><pubDate>Mon, 25 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>Cold Benevolence</h1>
@@ -2545,131 +2640,4 @@
       </li>
     </ul>
   </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal00-12d</guid><title>DDAL00-12d - The Devil's Song</title><description>Instrument of the Bards (Ollamh Harp), a potion, and 4 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal00-12d</link><pubDate>Wed, 19 Feb 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>The Devil's Song</h1>
-  <h3>Season Agnostic Adventure for Tier 4
-    <em class="release"> Released  on February 19, 2020</em>
-  </h3>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Instrument of the Bards (Ollamh Harp)</span>
-        <em class="entry-label"> Legendary</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Supreme Healing</span>
-        <em class="entry-label"> Very Rare</em>
-      </li>
-      <li>4 x 
-        <span>Soul Coin</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-aether02-01</guid><title>CCC-AETHER02-01 - The Heir of Orcus: Verse IV</title><description>Candle of the Deep, Hat of Disguise, 2 potions, and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-aether02-01</link><pubDate>Mon, 17 Feb 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>The Heir of Orcus: Verse IV</h1>
-  <h3>Convention Created Content  for Tier 2
-    <em class="release"> Released  on February 17, 2020</em>
-  </h3><p>Agents have uncovered several cells of the Cult of the Heir in the Moonsea region. Plan and lead an elite operation to eliminate the cells, but beware…one wrong choice might lead to certain death</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Candle of the Deep</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>
-        <span>Hat of Disguise</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Giant Strength (Hill)</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Invulnerability</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>Death to the Heir!</summary><p>Your planning and mission were flawlessly executed! You dealt a significant blow to the Cult of the Heir this day . With the information you collected you can immediately begin seeking out hidden cells to destroy whatever remains of the Cult of the Heir.</p>
-  </details>
-  <details class="story-award">
-    <summary>Game Over Man, Game Over!</summary><p>Your mission is a failure. The forces of good sustained high levels of casualties and the Cult of the Heir successfully thwarted your goals.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-gsp01-03</guid><title>CCC-GSP01-03 - Tainted Love</title><description>Cloak of Many Fashions and 2 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ccc-gsp01-03</link><pubDate>Mon, 3 Feb 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>Tainted Love</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  by Greasy Snitches on February 3, 2020</em>
-  </h3><p>Rizgrim, the Great Doomguide of Kelemvor has discovered that the land within the Quivering Forest near the burial site of her friend is slowly being consumed by dark magic. The adventurers have been asked to find the source and eliminate it as soon as possible. Failing on this task could turn her dead friend into a dracolich. Nobody wants that! Right?! Part 3 of the <em>Clover Group Series</em>.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Cloak of Many Fashions</span>
-        <em class="entry-label"> Common</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>In Search of Her</summary><p>You have found and read the journal of Tho’Guroh, containing information on how to find a hag’s dark lair. Whenever you succeed in finding a hag’s lair, a trail of thin mist appears, leading up to the location you are looking for. While the mist is present, you hear whispers of a very convincing old woman telling you to get "samples" from your party members, like a strand of hair, spit, dead skin, fingernails, etc. Remove this story award when you meet Jenny Greenteeth.</p>
-  </details>
-  <details class="story-award">
-    <summary>Clingy Jelly!
-      <em class="entry-label"> Pet</em>
-    </summary><p>You spared the life of an oblex spawn. As a token of appreciation, it separates a part of itself and places a thin translucent layer of star-shaped green goo on your forehead. Whenever you are in combat, the goo stretches and changes shape, becoming a horn. Whenever you die, its shape changes into a small, flat skull. You can remove this story award by casting <em>lesser restoration</em> on yourself.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-eb-03</guid><title>DDAL-EB-03 - Where the Dead Wait</title><description>Armblade, a scroll, 2 legacy events, and 38 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal-eb-03</link><pubDate>Mon, 3 Feb 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>Where the Dead Wait</h1>
-  <h3>Oracle of War Adventure for Tier 1
-    <em class="release"> Released  on February 3, 2020</em>
-  </h3><p>On their way back to Salvation, the adventurers are ambushed by a large force of undead and forced to seek shelter in a ruined cottage. As the dead close in from all sides, the survivors turn to the Oracle of War for a lifeline. Only this time, things don’t play out as expected… The third adventure in the four-part <em>Spoils of War</em> storyline.</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Armblade</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>2 x 
-        <span>Acid (vial)</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>1 x 
-        <span>Alchemist's fire (flask)</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>1 x 
-        <span>Ball bearings (bag of 1,000)</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>2 x 
-        <span>Caltrops (bag of 20)</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>2 x 
-        <span>Hunting trap</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>30 x 
-        <span>Silvered Crossbow Bolts</span>
-        <em class="entry-label"> Common</em>
-      </li>
-      <li>1 x 
-        <span>Spell Scroll of False Life</span>
-        <em class="entry-label"> Common</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Legacy Events</h2>
-  <details class="story-award">
-    <summary>Stolen Artifact</summary><p>A group of scavengers stole the <em>Oracle of War</em> from you. If you play <strong>DDAL-EB-04</strong> <em>The Third Protocol</em>, you start that adventure without the Oracle. You recover the artifact for Tiers 2–4.</p>
-  </details>
-  <details class="story-award">
-    <summary>Turned Traitor</summary><p>Your ally Kalli Alran (or the friend you created in <strong>DDAL-EB-01</strong> <em>The Night Land</em>) betrayed you to steal the <em>Oracle of War</em>. If they escaped alive, they may show up again in future adventures.</p><ul><li>If you appeal to your ally by writing an in-character letter of 300 words or more, and hand it in to your DM for approval before playing <strong>DDAL-EB-04</strong> <em>The Third Protocol</em>, your ally may have second thoughts…</li></ul>
-  </details>
 </section>]]></content:encoded></item></channel></rss>

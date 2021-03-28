@@ -75,19 +75,49 @@
         "code": "DC-PoA-GaryXIII-04",
         "name": "As Above, So Below",
         "description": "A lottery held under suspicous circumstances. A Paladin trying to do the right thing. Can the adventurers find the truth in time? Part Four of the *To Survive the Night* series.",
-        "adventureSeed": "",
+        "adventureSeed": "Holy Auril, Mother of Cod",
         "released": "2021-03-26",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Cast-Off Armor (Breastplate)",
+                "rarity": "common"
+            },
+            {
+                "name": "Guardian Emblem",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Spell Scroll of Detect Evil and Good",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "DC-PoA-GaryXIII-05",
         "name": "Shard of Hope",
         "description": "When arcane experimentation creates artifacts that ensnare the mind and beguile the senses, only the bravest adventurers can resist the toxic temptation of desecration and darkness, to travel to where this evil lies and defeat it. Lies are brought to bear and secrets are revealed. Part Five of the *To Survive the Night* series.",
-        "adventureSeed": "",
+        "adventureSeed": "This Seems Familiar",
         "released": "2021-03-26",
         "tier": [2],
-        "incomplete": true
+        "items": [
+            {
+                "name": "Arcane Grimoire, +1",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Illuminator's Tattoo",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            }
+        ]
     },
     {
         "code": "DC-PoA-GSP01-01",

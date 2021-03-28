@@ -57,6 +57,8 @@ extension Adventure {
         case season(Int)
         case hardcover
 
+        case authorOnly
+
         case dreamsOfRedWizards
         case embersOfTheLastWar
         case oracleOfWar
@@ -82,6 +84,8 @@ extension Adventure {
                 self = .season(seasonNum.intValue)
             } else if code.hasPrefix("DDHC") {
                 self = .hardcover
+            } else if code.hasPrefix("DDAO") {
+                self = .authorOnly
             } else {
                 fatalError("Invalid adventure code: \(code)")
             }
@@ -94,6 +98,7 @@ extension Adventure {
             }
             cases.append(.season(0))
             cases.append(contentsOf: [
+                .authorOnly,
                 .hardcover,
                 .dreamsOfRedWizards,
                 .embersOfTheLastWar,
@@ -109,6 +114,7 @@ extension Adventure {
             case .season(0): return "Season Agnostic"
             case .season(let number): return "Season \(number)"
             case .hardcover: return "Hardcover"
+            case .authorOnly: return "Author Only"
             case .dreamsOfRedWizards: return "Dreams of Red Wizards"
             case .embersOfTheLastWar: return "Embers of the Last War"
             case .oracleOfWar: return "Oracle of War"

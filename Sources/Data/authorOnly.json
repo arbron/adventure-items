@@ -1,0 +1,21 @@
+[
+    {
+        "code": "DDAO-38",
+        "name": "The Green Isle",
+        "description": "Laeral Silverhand has tasked you with sailing to the seemingly-abandoned island of Evermeet—what will you find there?",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Elven Chain",
+                "rarity": "rare"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Moon-Horse",
+                "description": "A Moon-Horse takes a liking to you and decides to follow you home.",
+                "type": "pet"
+            }
+        ]
+    }
+]

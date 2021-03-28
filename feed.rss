@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Fri, 26 Mar 2021 15:35:55 -0700</lastBuildDate><pubDate>Fri, 26 Mar 2021 15:35:55 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</guid><title>CCC-ZIEGE-04-02 - The Widow's Fang</title><description>The Adventures of Cherise and Antonia (Bag of Tricks, Tan), 2 potions, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</link><pubDate>Fri, 26 Mar 2021 15:35:57 -0700</pubDate><content:encoded><![CDATA[<section>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Sun, 28 Mar 2021 14:04:46 -0700</lastBuildDate><pubDate>Sun, 28 Mar 2021 14:04:46 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</guid><title>CCC-ZIEGE-04-02 - The Widow's Fang</title><description>The Adventures of Cherise and Antonia (Bag of Tricks, Tan), 2 potions, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</link><pubDate>Sun, 28 Mar 2021 14:04:48 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>The Widow's Fang</h1>
   <h3>Convention Created Content  for Tier 1</h3><p>More than three decades ago, a young child became ill with a horrible disease and died. Instead of departing, her spirit lingered on as a ghost, haunting the hospital where she spent the last days of her life. Now, a new owner hopes to reopen the hospital, but first the ghost must be exorcised. Can you help the child find peace at last?</p>
   <h2>Items</h2>
@@ -18,7 +18,7 @@
       </li>
     </ul>
   </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</guid><title>CCC-ZIEGE-04-01 - The Miser's Glory</title><description>Lantern of Revealing</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</link><pubDate>Fri, 26 Mar 2021 15:35:57 -0700</pubDate><content:encoded><![CDATA[<section>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</guid><title>CCC-ZIEGE-04-01 - The Miser's Glory</title><description>Lantern of Revealing</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</link><pubDate>Sun, 28 Mar 2021 14:04:48 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>The Miser's Glory</h1>
   <h3>Convention Created Content  for Tier 1</h3><p>Three decades ago, a terrible disease swept through the town of Shadeharbor. Nearly half the population of the village died before it ended. The cause of the disease was never discovered. Now, the town leaders from that time are turning up dead. Can you unearth the secrets that have lain buried in Shadehabor all this time?</p>
   <h2>Items</h2>
@@ -27,6 +27,74 @@
       <li>
         <span>Lantern of Revealing</span>
         <em class="entry-label"> Uncommon</em>
+      </li>
+    </ul>
+  </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddao-38</guid><title>DDAO-38 - The Green Isle</title><description>Elven Chain and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ddao-38</link><pubDate>Sun, 28 Mar 2021 14:04:46 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>The Green Isle</h1>
+  <h3>Author Only Adventure for Tier 2</h3><p>Laeral Silverhand has tasked you with sailing to the seemingly-abandoned island of Evermeet—what will you find there?</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Elven Chain</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>The Moon-Horse
+      <em class="entry-label"> Pet</em>
+    </summary><p>A Moon-Horse takes a liking to you and decides to follow you home.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-garyxiii-04</guid><title>DC-PoA-GaryXIII-04 - As Above, So Below</title><description>Cast-Off Armor (Breastplate), Guardian Emblem, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-garyxiii-04</link><pubDate>Thu, 25 Mar 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>As Above, So Below</h1>
+  <h3>Dungeoncraft Adventure for Tier 2
+    <em class="release"> Released  on March 25, 2021</em>
+  </h3>
+  <p>
+    <em>Adventure Seed: </em>Holy Auril, Mother of Cod
+  </p><p>A lottery held under suspicous circumstances. A Paladin trying to do the right thing. Can the adventurers find the truth in time? Part Four of the <em>To Survive the Night</em> series.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Cast-Off Armor (Breastplate)</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>
+        <span>Guardian Emblem</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>1 x 
+        <span>Spell Scroll of Detect Evil and Good</span>
+        <em class="entry-label"> Common</em>
+      </li>
+    </ul>
+  </p>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-garyxiii-05</guid><title>DC-PoA-GaryXIII-05 - Shard of Hope</title><description>Arcane Grimoire, +1, Illuminator's Tattoo, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-garyxiii-05</link><pubDate>Thu, 25 Mar 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>Shard of Hope</h1>
+  <h3>Dungeoncraft Adventure for Tier 2
+    <em class="release"> Released  on March 25, 2021</em>
+  </h3>
+  <p>
+    <em>Adventure Seed: </em>This Seems Familiar
+  </p><p>When arcane experimentation creates artifacts that ensnare the mind and beguile the senses, only the bravest adventurers can resist the toxic temptation of desecration and darkness, to travel to where this evil lies and defeat it. Lies are brought to bear and secrets are revealed. Part Five of the <em>To Survive the Night</em> series.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Arcane Grimoire, +1</span>
+        <em class="entry-label"> Uncommon</em>
+      </li>
+      <li>
+        <span>Illuminator's Tattoo</span>
+        <em class="entry-label"> Common</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Healing</span>
+        <em class="entry-label"> Common</em>
       </li>
     </ul>
   </p>
@@ -2570,74 +2638,4 @@
   <details class="story-award">
     <summary>Still Alive</summary><p>Despite all the horrors you've seen, your friend Kalli (or the replacement you made for this character during <strong>DDAL-EB-01</strong> <em>The Night Land</em>) remains alive and on your side. What does she do next?</p><ul><li>Kalli heads to Morgrave University in Sharn to investigate the <em>Oracle of War</em>.</li><li>Kalli remains in Salvation and tries to set herself up as a salvage broker.</li></ul>
   </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal00-12a</guid><title>DDAL00-12a - Bad Seed</title><description>a potion and one other item</description><link>https://arbron.github.io/adventure-items/adventures/ddal00-12a</link><pubDate>Wed, 19 Feb 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>Bad Seed</h1>
-  <h3>Season Agnostic Adventure for Tier 1
-    <em class="release"> Released  on February 19, 2020</em>
-  </h3>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>1 x 
-        <span>Potion of Giant Strength (Hill)</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Soul Coin</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal00-12b</guid><title>DDAL00-12b - A Helpful Distraction</title><description>Ring of Evasion, a potion, a scroll, and 2 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal00-12b</link><pubDate>Wed, 19 Feb 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>A Helpful Distraction</h1>
-  <h3>Season Agnostic Adventure for Tier 2
-    <em class="release"> Released  on February 19, 2020</em>
-  </h3>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Ring of Evasion</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Greater Healing</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Spell Scroll of Healing Spirit</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>2 x 
-        <span>Soul Coin</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal00-12c</guid><title>DDAL00-12c - The Soft Touch</title><description>Candle of Invocation (Lawful Evil), Ring of Mind Shielding, 2 potions, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/ddal00-12c</link><pubDate>Wed, 19 Feb 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
-  <h1>The Soft Touch</h1>
-  <h3>Season Agnostic Adventure for Tier 3
-    <em class="release"> Released  on February 19, 2020</em>
-  </h3>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Candle of Invocation (Lawful Evil)</span>
-        <em class="entry-label"> Very Rare</em>
-      </li>
-      <li>
-        <span>Ring of Mind Shielding</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>2 x 
-        <span>Potion of Supreme Healing</span>
-        <em class="entry-label"> Very Rare</em>
-      </li>
-      <li>1 x 
-        <span>Soul Coin</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
 </section>]]></content:encoded></item></channel></rss>

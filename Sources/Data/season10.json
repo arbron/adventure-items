@@ -300,6 +300,19 @@
         ]
     },
     {
+        "code": "DDAL10-08",
+        "name": "Volatile Thoughts",
+        "description": "Just when you thought Realmspace-faring slavers were the worst thing that could cross your path, it quickly became apparent you were wrong—terrible things lurk in the depths of the longdead Abeiran city of Xorvintroth. And when faced with countless, unfathomable horrors infesting an ancient city of a long-dead civilization from another world there’s only one solution…explosives. Part Eight of the *Plague of Ancients* series of adventures.",
+        "released": "2021-04-16",
+        "tier": [2],
+        "items": [
+            {
+                "name": "Boots of Levitation",
+                "rarity": "rare"
+            }
+        ]
+    },
+    {
         "code": "DDEP10-00",
         "name": "Great Knucklehead Rally",
         "description": "To fight the despair brought on by the Everlasting Rime, an eccentric dwarf sponsors a fishing tournament she calls the “Great Knucklehead Rally.” The event draws the curious, the hopeful, and the cynical alike. And it also draws unexpected guests that test the mettle of the attendees.",

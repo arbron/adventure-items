@@ -1422,7 +1422,7 @@
         ],
         "spellbooks": [
             {
-                "name": "Archmage's Spellbook",
+                "name": "Mage's Spellbook",
                 "spells": [
                     { "name": "fire bolt", "level": 0 },
                     { "name": "light", "level": 0 },
@@ -1443,7 +1443,7 @@
                 ]
             },
             {
-                "name": "Mage's Spellbook",
+                "name": "Julnar's Spellbook",
                 "spells": [
                     { "name": "fire bolt", "level": 0 },
                     { "name": "light", "level": 0 },

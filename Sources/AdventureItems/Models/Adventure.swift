@@ -18,12 +18,18 @@ struct Adventure: Codable, Hashable {
     var creator: String?
     var url: URL?
     var tier: [Tier]?
+    var length: Length?
+    var apl: Int?
+
+    @DecodableDefault.EmptyList var credits: [Credit]
 
     @DecodableDefault.False var incomplete: Bool
 
     @DecodableDefault.EmptyList var items: [Item]
     @DecodableDefault.EmptyList var spellbooks: [Spellbook]
     @DecodableDefault.EmptyList var storyAwards: [StoryAward]
+
+    @DecodableDefault.EmptyList var missing: [String]
 
     var source: Source { Source(code) }
     var isEpic: Bool { code.hasPrefix("DDEP") || code.hasPrefix("DDAL-EBEP") }

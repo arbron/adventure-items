@@ -3006,6 +3006,47 @@
         "creator": "Baldman Games",
         "url": "https://www.dmsguild.com/product/333534/CCCBMG-MOON-71-The-Temple-of-the-Beast",
         "tier": [2],
+        "length": "2-4",
+        "apl": 8,
+        "credits": [
+            {
+                "name": "Christopher M. Sniezak",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Travis Woodall",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Shawn Merwin",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Andrew Hewitt",
+                "role": "Editing"
+            },
+            {
+                "name": "Amanda Gomes",
+                "role": "Cartography"
+            },
+            {
+                "name": "Mike Schley",
+                "role": "Cartography"
+            },
+            {
+                "name": "Loulouka1",
+                "role": "Cover Illustration"
+            },
+            {
+                "name": "Sarah Shaw",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Erik Nowak",
+                "role": "Design & Layout"
+            }
+        ],
         "items": [
             {
                 "name": "Staff of the Python",
@@ -3021,6 +3062,47 @@
         "creator": "Baldman Games",
         "url": "https://www.dmsguild.com/product/333535/CCCBMG-MOON-72-The-Temple-of-the-Sun",
         "tier": [2],
+        "length": "2-4",
+        "apl": 8,
+        "credits": [
+            {
+                "name": "Andy Dempz",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Eric Menge",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Shawn Merwin",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Andrew Hewitt",
+                "role": "Editing"
+            },
+            {
+                "name": "Amanda Gomes",
+                "role": "Cartography"
+            },
+            {
+                "name": "Mike Schley",
+                "role": "Cartography"
+            },
+            {
+                "name": "Mia Shaly",
+                "role": "Cover Illustration"
+            },
+            {
+                "name": "Sarah Shaw",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Erik Nowak",
+                "role": "Design & Layout"
+            }
+        ],
         "items": [
             {
                 "name": "Elemental Gem (Red Corundum)",
@@ -3038,12 +3120,905 @@
         "creator": "Baldman Games",
         "url": "https://www.dmsguild.com/product/333537/CCCBMG-MOON-73-The-Temple-of-Death",
         "tier": [2],
+        "length": "2-4",
+        "apl": 8,
+        "credits": [
+            {
+                "name": "Jennifer Adcock",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Eric Menge",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Shawn Merwin",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Andrew Hewitt",
+                "role": "Editing"
+            },
+            {
+                "name": "Amanda Gomes",
+                "role": "Cartography"
+            },
+            {
+                "name": "Mike Schley",
+                "role": "Cartography"
+            },
+            {
+                "name": "Svekloid",
+                "role": "Cover Illustration"
+            },
+            {
+                "name": "Sarah Shaw",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Erik Nowak",
+                "role": "Design & Layout"
+            }
+        ],
         "items": [
             {
                 "name": "Cloak of Protection",
                 "rarity": "uncommon"
             }
-        ]
+        ],
+        "missing": ["pdf"]
+    },
+    {
+        "code": "CCC-BMG-MOON8-1",
+        "name": "Blood on the Moors",
+        "description": "The rumored death of a unicorn protector has everyone concerned as all eyes in the Moonshaes turn to Moray. When the expedition sent to investigate doesn’t return, the fires of panic begin to roar. What evil awaits you on the moors? Part One of *The Dawn of the Darkening* trilogy.",
+        "released": "2020-12-11",
+        "creator": "Baldman Games",
+        "url": "https://www.dmsguild.com/product/339685/CCCBMG-MOON-81-Blood-on-the-Moors",
+        "tier": [2],
+        "length": 4,
+        "apl": 8,
+        "credits": [
+            {
+                "name": "Savannah Houston-McIntyre",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Eric Menge",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Robert Alaniz",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Janine Hempy",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Janine Hempy",
+                "role": "Editing"
+            },
+            {
+                "name": "Sydney Cook",
+                "role": "Cartography"
+            },
+            {
+                "name": "Mike Schley",
+                "role": "Cartography"
+            },
+            {
+                "name": "Dmitriy Danilov",
+                "role": "Cover Illustration"
+            },
+            {
+                "name": "Amanda Gomes",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Aviv Or",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Sarah Shaw",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Erik Nowak",
+                "role": "Managing Layout Editor"
+            },
+            {
+                "name": "Joe Raso",
+                "role": "Layout"
+            }
+        ],
+        "missing": ["items", "pdf"]
+    },
+    {
+        "code": "CCC-BMG-MOON8-2",
+        "name": "Breasal Strife",
+        "description": "The Naïlo Expedition stumbled their way into the dreaded Breasal Marsh. It’s deadly enough in its own right without the added threat of sinister shadows. Is there anyone with the courage to follow and rescue them? Part Two of *The Dawn of the Darkening* trilogy.",
+        "released": "2020-12-11",
+        "creator": "Baldman Games",
+        "url": "https://www.dmsguild.com/product/339686/CCCBMG-MOON-82-Breasal-Strife",
+        "tier": [2],
+        "length": 4,
+        "apl": 8,
+        "credits": [
+            {
+                "name": "Y. Michael Zhang",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Eric Menge",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Robert Alaniz",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Janine Hempy",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Janine Hempy",
+                "role": "Editing"
+            },
+            {
+                "name": "Sydney Cook",
+                "role": "Cartography"
+            },
+            {
+                "name": "Mike Schley",
+                "role": "Cartography"
+            },
+            {
+                "name": "matsiukpavel",
+                "role": "Cover Illustration"
+            },
+            {
+                "name": "Matt Marrow",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Erik Nowak",
+                "role": "Managing Layout Editor"
+            },
+            {
+                "name": "Joe Raso",
+                "role": "Layout"
+            }
+        ],
+        "missing": ["items", "pdf"]
+    },
+    {
+        "code": "CCC-BMG-MOON8-3",
+        "name": "A Grim View of Farview",
+        "description": "Following the trail of a lost expedition, all signs point to the small Northlander town of Farview. Day blends into night and the townsfolk are acting strangely. Hopefully some answers cna be foudn here, along with warmth and rest. Part Three of *The Dawn of the Darkening* trilogy.",
+        "released": "2020-12-11",
+        "creator": "Baldman Games",
+        "url": "https://www.dmsguild.com/product/339687/CCCBMG-MOON-83-A-Grim-View-of-Farview",
+        "tier": [2],
+        "length": 4,
+        "apl": 8,
+        "credits": [
+            {
+                "name": "Erik Scott de Bie",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Eric Menge",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Robert Alaniz",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Janine Hempy",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Andrew Hewitt",
+                "role": "Editing"
+            },
+            {
+                "name": "Amanda Gomes",
+                "role": "Cartography"
+            },
+            {
+                "name": "Luke Absolom Reid",
+                "role": "Cartography"
+            },
+            {
+                "name": "Mike Schley",
+                "role": "Cartography"
+            },
+            {
+                "name": "Mimadeo",
+                "role": "Cover Illustration"
+            },
+            {
+                "name": "Erik Nowak",
+                "role": "Cover Illustration"
+            },
+            {
+                "name": "Aviv Or",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Sarah Shaw",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Erik Nowak",
+                "role": "Managing Layout Editor"
+            },
+            {
+                "name": "Joe Raso",
+                "role": "Layout"
+            }
+        ],
+        "missing": ["items", "pdf"]
+    },
+    {
+        "code": "CCC-BMG-MOON9-1",
+        "name": "Dark Moon Rising",
+        "description": "A vitally important diplomat has gone missing, and a village seems to be troubled by an unseen force that threatens to spread all across the Moonshaes. All the while, a massive volcano rumbles in its slumber, threatening to awake, bringing forth chaos and destruction. A Dark Moon Rises over the island of Norland. Can you come to its aid? Part One of the *Dark Moon* trilogy.",
+        "released": "2021-02-23",
+        "creator": "Baldman Games",
+        "url": "https://www.dmsguild.com/product/348022/CCCBMG-MOON-91-Dark-Moon-Rising",
+        "tier": [2],
+        "length": "2-4",
+        "apl": 8,
+        "credits": [
+            {
+                "name": "Mitchell Smithson",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Eric Menge",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Pieter Sleijpen",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Andrew Hewitt",
+                "role": "Editing"
+            },
+            {
+                "name": "Sydney Cook",
+                "role": "Cartography"
+            },
+            {
+                "name": "Mike Schley",
+                "role": "Cartography"
+            },
+            {
+                "name": "Tithi Luadthong",
+                "role": "Cover Illustration"
+            },
+            {
+                "name": "Aviv Or",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Sarah Shaw",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Erik Nowak",
+                "role": "Managing Layout Editor"
+            },
+            {
+                "name": "Graham Ward",
+                "role": "Layout"
+            }
+        ],
+        "missing": ["items", "pdf"]
+    },
+    {
+        "code": "CCC-BMG-MOON9-2",
+        "name": "Dark Moon Marching",
+        "description": "Fighting factions in Rogarsheim increase the peril of the duergar and the threat from the Shadowfell. Can the characters uncover the darkness in Rogarsheim and unite the people against the threat from the Shadowfell? Part Two of the *Dark Moon* trilogy.",
+        "released": "2021-02-23",
+        "creator": "Baldman Games",
+        "url": "https://www.dmsguild.com/product/348024/CCCBMG-MOON-92-Dark-Moon-Marching",
+        "tier": [2],
+        "length": "2-4",
+        "apl": 8,
+        "credits": [
+            {
+                "name": "Michael McKeown",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Eric Menge",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Pieter Sleijpen",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Andrew Hewitt",
+                "role": "Editing"
+            },
+            {
+                "name": "Sydney Cook",
+                "role": "Cartography"
+            },
+            {
+                "name": "Mike Schley",
+                "role": "Cartography"
+            },
+            {
+                "name": "Liu Zishan",
+                "role": "Cover Illustration"
+            },
+            {
+                "name": "Aviv Or",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Sarah Shaw",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Erik Nowak",
+                "role": "Managing Layout Editor"
+            },
+            {
+                "name": "Graham Ward",
+                "role": "Layout"
+            }
+        ],
+        "missing": ["items", "pdf"]
+    },
+    {
+        "code": "CCC-BMG-MOON9-3",
+        "name": "Dark Moon Bound",
+        "description": "The characters need to recruit a cleric of Valkur to help them defeat the shadow army before the firbolg shaman and his minions rout the army of Norland with their spells of fear and terror. Will the characters persuade the cleric to assist them and return to the battlefield in time for Valkur to aid them all? Part Three of the *Dark Moon* trilogy.",
+        "released": "2021-02-23",
+        "creator": "Baldman Games",
+        "url": "https://www.dmsguild.com/product/348025/CCCBMG-MOON-93-Dark-Moon-Bound",
+        "tier": [2],
+        "length": "2-4",
+        "apl": 8,
+        "credits": [
+            {
+                "name": "Ree Moorhead Pruehs",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Eric Menge",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Pieter Sleijpen",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Andrew Hewitt",
+                "role": "Editing"
+            },
+            {
+                "name": "Sydney Cook",
+                "role": "Cartography"
+            },
+            {
+                "name": "Mike Schley",
+                "role": "Cartography"
+            },
+            {
+                "name": "Alex Coan",
+                "role": "Cover Illustration"
+            },
+            {
+                "name": "Aviv Or",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Sarah Shaw",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Erik Nowak",
+                "role": "Managing Layout Editor"
+            },
+            {
+                "name": "Graham Ward",
+                "role": "Layout"
+            }
+        ],
+        "missing": ["items", "pdf"]
+    },
+    {
+        "code": "CCC-BMG-MOON10-1",
+        "name": "Whispers & Warnings",
+        "description": "The reach of the Shadowfell has come to Alaron! The Great Gark's forces are intent on spreading the Howling Disease throughout the island, and the fey are in dire peril. Will you ride to their aid or will the shadow spread across the land? Part One of *The Dark Tidings* trilogy.",
+        "released": "2021-05-10",
+        "creator": "Baldman Games",
+        "url": "https://www.dmsguild.com/product/357308/CCCBMG-MOON-1001-Whispers--Warnings",
+        "tier": [1],
+        "length": 4,
+        "apl": 3,
+        "credits": [
+            {
+                "name": "Janine Hempy",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Eric Menge",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Amy Lynn Dzura",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Andrew Hewitt",
+                "role": "Editing"
+            },
+            {
+                "name": "Amanda Gomes",
+                "role": "Cartography"
+            },
+            {
+                "name": "Mike Schley",
+                "role": "Cartography"
+            },
+            {
+                "name": "Stone36",
+                "role": "Cover Illustration"
+            },
+            {
+                "name": "Veronika Federova",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Sarah Shaw",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Erik Nowak",
+                "role": "Managing Layout Editor"
+            },
+            {
+                "name": "Joe Raso",
+                "role": "Layout"
+            }
+        ],
+        "missing": ["items", "pdf"]
+    },
+    {
+        "code": "CCC-BMG-MOON10-2",
+        "name": "Shadows & Shrouds",
+        "description": "A new threat is gaining power over the moonwells of Alaron, and the druids of the Earthmother believe the best way to uncover the sinister plot is to venture into the Shadowfell itself. Part Two of *The Dark Tidings* trilogy.",
+        "released": "2021-05-10",
+        "creator": "Baldman Games",
+        "url": "https://www.dmsguild.com/product/357309/CCCBMG-MOON-1002-Shadows--Shrouds",
+        "tier": [1],
+        "length": 4,
+        "apl": 3,
+        "credits": [
+            {
+                "name": "Chris Dzura",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Eric Menge",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Amy Lynn Dzura",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Janine Hempy",
+                "role": "Editing"
+            },
+            {
+                "name": "Mike Schley",
+                "role": "Cartography"
+            },
+            {
+                "name": "andreiuc88",
+                "role": "Cover Illustration"
+            },
+            {
+                "name": "Matt Morrow",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Sarah Shaw",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Erik Nowak",
+                "role": "Managing Layout Editor"
+            },
+            {
+                "name": "Joe Raso",
+                "role": "Layout"
+            }
+        ],
+        "missing": ["items", "pdf"]
+    },
+    {
+        "code": "CCC-BMG-MOON10-3",
+        "name": "Fortresses & Fortunes",
+        "description": "A mysterious force from the Shadowfell threatens the high seat of power in Alaron! With an army marching to the capital and enemies within Caer Callidyrr, the royal family places their trust in outsiders to root out the evil within before the enemies overwhelm the last free human kingdom of the Moonshaes! Part Three of *The Dark Tidings* trilogy.",
+        "released": "2021-05-10",
+        "creator": "Baldman Games",
+        "url": "https://www.dmsguild.com/product/357310/CCCBMG-MOON-1003-Fortresses--Fortunes",
+        "tier": [1],
+        "length": 4,
+        "apl": 3,
+        "credits": [
+            {
+                "name": "Ben Heisler",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Paige Leitman",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Shawn Banerjee",
+                "role": "Special Thanks"
+            },
+            {
+                "name": "Eric Menge",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Amy Lynn Dzura",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Janine Hempy",
+                "role": "Editing"
+            },
+            {
+                "name": "Mike Schley",
+                "role": "Cartography"
+            },
+            {
+                "name": "herryfaizal",
+                "role": "Cover Illustration"
+            },
+            {
+                "name": "Veronika Federova",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Aviv Or",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Erik Nowak",
+                "role": "Managing Layout Editor"
+            },
+            {
+                "name": "Joe Raso",
+                "role": "Layout"
+            }
+        ],
+        "missing": ["items", "pdf"]
+    },
+    {
+        "code": "CCC-BMG-MOON11-1",
+        "name": "A Darkened City",
+        "description": "Once brilliant Caer Callidyrr has darkened, and the Slain sits on the High King’s throne.  Helpless to fight this unknowable enemy, the forces of light have asked you to infiltrate the enemy’s stronghold and learn all you can. Will you dare the shadowed streets of the capital of the Moonshaes to gain entry to the Court of the Slain?",
+        "released": "2021-05-13",
+        "creator": "Baldman Games",
+        "url": "https://www.dmsguild.com/product/357635/CCCBMG-MOON-111-A-Darkened-City",
+        "tier": [2],
+        "length": 4,
+        "apl": 8,
+        "credits": [
+            {
+                "name": "Ma’at Crook",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Savannah Houston-McIntyre",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Andrew Hewitt",
+                "role": "Editing"
+            },
+            {
+                "name": "Eric Menge",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Luke Absolum Reid",
+                "role": "Cartography"
+            },
+            {
+                "name": "Ma’at Crook",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Veronika Federova",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Sarah Shaw",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Erik Nowak",
+                "role": "Lead Layout Editor"
+            },
+            {
+                "name": "$$",
+                "role": "Layout"
+            }
+        ],
+        "missing": ["items", "pdf"]
+    },
+    {
+        "code": "CCC-BMG-MOON11-2",
+        "name": "A Darkened Court",
+        "description": "The Court of the Slain at Caer Callidyrr holds many intrigues and even more danger. Yet you must walk these darkened halls and speak in whispers to uncover the malevolent plots of the Slain. Careful, now. One wrong step or a misplaced word could mean exposure and oblivion.",
+        "released": "2021-05-13",
+        "creator": "Baldman Games",
+        "url": "https://www.dmsguild.com/product/357636/CCCBMG-MOON-112-A-Darkened-Court",
+        "tier": [2],
+        "length": 4,
+        "apl": 8,
+        "credits": [
+            {
+                "name": "Justine Vandermeer",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Savannah Houston-McIntyre",
+                "role": "Development & Editing"
+            },
+            {
+                "name": "Andrew Hewitt",
+                "role": "Proofreading"
+            },
+            {
+                "name": "Eric Menge",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Luke Absolum Reid",
+                "role": "Cartography"
+            },
+            {
+                "name": "Mike Schley",
+                "role": "Cartography"
+            },
+            {
+                "name": "Ma’at Crook",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Veronika Federova",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Sarah Shaw",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Erik Nowak",
+                "role": "Lead Layout Editor"
+            },
+            {
+                "name": "$$",
+                "role": "Layout"
+            }
+        ],
+        "missing": ["items", "pdf"]
+    },
+    {
+        "code": "CCC-BMG-MOON11-3",
+        "name": "A Darkened Heart",
+        "description": "You have worked your way to the heart of the Darkened Court at Caer Callidyrr. There, you have a chance to pierce the shadows and secrets that surround and protect the Slain. Can you reveal the mystery of the greatest threat to the Moonshaes and will you survive to tell anyone else?",
+        "released": "2021-05-13",
+        "creator": "Baldman Games",
+        "url": "https://www.dmsguild.com/product/357637/CCCBMG-MOON-113-A-Darkened-Heart",
+        "tier": [2],
+        "length": 4,
+        "apl": 8,
+        "credits": [
+            {
+                "name": "Eric Menge",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Savannah Houston-McIntyre",
+                "role": "Development & Editing"
+            },
+            {
+                "name": "Andrew Hewitt",
+                "role": "Proofreading"
+            },
+            {
+                "name": "Eric Menge",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Sydney Cook",
+                "role": "Cartography"
+            },
+            {
+                "name": "Luke Absolum Reid",
+                "role": "Cartography"
+            },
+            {
+                "name": "Mike Schley",
+                "role": "Cartography"
+            },
+            {
+                "name": "Ma’at Crook",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Veronika Federova",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Amanda Gomes",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Sarah Shaw",
+                "role": "Illustrations"
+            }
+        ],
+        "missing": ["items", "pdf"]
+    },
+    {
+        "code": "CCC-BMG-MOON12-1",
+        "name": "Nothing Is Sacred",
+        "description": "The Moonshaes are plunged into shadow and with permission of High Lady Ordalf, survivors have made their way to Gwynneth, the only Isle spared from darkness. The Conclave needs heroes to execute their plans of survival in the face of the most powerful threat the Moonshaes have yet seen, the Slain.",
+        "released": "2021-05-20",
+        "creator": "Baldman Games",
+        "url": "https://www.dmsguild.com/product/358288/CCCBMG-MOON-121-Nothing-Is-Sacred",
+        "tier": [3],
+        "length": "2-4",
+        "apl": 13,
+        "missing": ["credits", "items", "pdf"]
+    },
+    {
+        "code": "CCC-BMG-MOON12-2",
+        "name": "A Gift from the Queen",
+        "description": "With the fate of the Moonshaes held in the balance, the adventurer’s path lies  in the lost tomb of an ancient Queen. What answers could she possibly offer to loosen the Slain’s deadly hold on this world.",
+        "released": "2021-05-20",
+        "creator": "Baldman Games",
+        "url": "https://www.dmsguild.com/product/358290/CCCBMG-MOON-122-A-Gift-from-the-Queen",
+        "tier": [3],
+        "length": "2-4",
+        "apl": 13,
+        "credits": [
+            {
+                "name": "Jeff C. Stevens",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Toni Winslow-Brill",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Janine Hempy",
+                "role": "Editor"
+            },
+            {
+                "name": "Eric Menge",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Sydney Cook",
+                "role": "Cartography"
+            },
+            {
+                "name": "Mike Schley",
+                "role": "Cartography"
+            },
+            {
+                "name": "Diane Hazlett",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Matt Morrow",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Aviv Or",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Robert Alaniz",
+                "role": "Special Thanks"
+            }
+        ],
+        "missing": ["items", "pdf"]
+    },
+    {
+        "code": "CCC-BMG-MOON12-3",
+        "name": "Tempest of Malice",
+        "description": "The key to severing the chains of the Slain is located at Tempest Keep, and the adventurers must face the impossible—brave the wrath of the elements to harness the power of the storm.",
+        "released": "2021-05-20",
+        "creator": "Baldman Games",
+        "url": "https://www.dmsguild.com/product/358291/CCCBMG-MOON-123-Tempest-of-Malice",
+        "tier": [3],
+        "length": "2-4",
+        "apl": 13,
+        "credits": [
+            {
+                "name": "Ashley Warren",
+                "role": "Lead Designer",
+                "key": true
+            },
+            {
+                "name": "Toni Winslow-Brill",
+                "role": "Lead Editor"
+            },
+            {
+                "name": "Janine Hempy",
+                "role": "Editor"
+            },
+            {
+                "name": "Eric Menge",
+                "role": "Moonshae Story Architect"
+            },
+            {
+                "name": "Sydney Cook",
+                "role": "Cartography"
+            },
+            {
+                "name": "Dyson Logos",
+                "role": "Cartography"
+            },
+            {
+                "name": "Mike Schley",
+                "role": "Cartography"
+            },
+            {
+                "name": "Veronika Federova",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Matt Morrow",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Aviv Or",
+                "role": "Illustrations"
+            },
+            {
+                "name": "Robert Alaniz",
+                "role": "Special Thanks"
+            }
+        ],
+        "missing": ["items", "pdf"]
     },
     {
         "code": "CCC-BWM-01",
@@ -5046,6 +6021,8 @@
         "released": "2020-07-01",
         "url": "https://www.dmsguild.com/product/315751/CCCGAD0201-The-Monster-Within",
         "tier": [1],
+        "length": "2-4",
+        "apl": 3,
         "items": [
             {
                 "name": "Moon-Touched Rapier",
@@ -9263,6 +10240,45 @@
             {
                 "name": "Night Cutter",
                 "description": "You openly carry the black-bladed scimitar called Night Cutter, which once belonged to a respected drow captain of House Rakarn. Unless your race is drow, you are considered unworthy by most drow to carry it, and they take an instant dislike to you, treating you as a usurper.\n\n If your race is drow, or if you do not openly carry the weapon, this drawback does not apply to you."
+            }
+        ]
+    },
+    {
+        "code": "CCC-RCC-01-05",
+        "name": "The Lost City of Tharn",
+        "description": "Throughout your adventuring career, you’ve collected scraps of information about the lost city of Tharn from scholars, sages, songs, stories, and legends. Many of the accounts are different, but they each have one thing in common: None who have sought Tharn in earnest have ever returned. Will you be the first to find the fabled city and uncover its past?",
+        "released": "2020-04-24",
+        "url": "https://www.dmsguild.com/product/311055/The-Lost-City-of-Tharn-An-Adventure-for-Tier-3-Characters",
+        "tier": [3],
+        "length": 2,
+        "apl": 13,
+        "credits": [
+            {
+                "name": "Dave Zajac",
+                "role": "Adventure Designer",
+                "key": true
+            }
+        ],
+        "items": [
+            {
+                "name": "Pipe of Smoke Monsters",
+                "rarity": "common"
+            },
+            {
+                "name": "Ring of Evasion",
+                "rarity": "rare"
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 3
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "The Lost City of Tharn",
+                "description": "You found the fabled city of Tharn and slew a great evil within. In your spare time, you are eventually able to capture your tale in writing and share it with several libraries throughout the Moonsea. While by no means a masterpiece, your manuscript may (or may not) impress any sages, scholars, or historians you encounter in your future travels."
             }
         ]
     },

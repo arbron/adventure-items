@@ -6,6 +6,27 @@
         "released": "2019-12-02",
         "url": "https://www.dmsguild.com/product/296403/EB01-The-Night-Land",
         "tier": [1],
+        "length": 4,
+        "apl": 1,
+        "credits": [
+            {
+                "name": "Shawn Merwin",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            }
+        ],
         "items": [
             {
                 "name": "Alchemist's fire (flask)",
@@ -54,6 +75,27 @@
         "released": "2020-01-07",
         "url": "https://www.dmsguild.com/product/299680/EB01-Voice-in-the-Machine",
         "tier": [1],
+        "length": 4,
+        "apl": 2,
+        "credits": [
+            {
+                "name": "Will Doyle",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            }
+        ],
         "items": [
             {
                 "name": "Mithral Chain Mail",
@@ -98,6 +140,27 @@
         "released": "2020-02-04",
         "url": "https://www.dmsguild.com/product/302373/EB03-Where-the-Dead-Wait",
         "tier": [1],
+        "length": 4,
+        "apl": 3,
+        "credits": [
+            {
+                "name": "JAmes Introcaso",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            }
+        ],
         "items": [
             {
                 "name": "Armblade",
@@ -164,6 +227,71 @@
         "released": "2020-03-01",
         "url": "https://www.dmsguild.com/product/305024/EB04-The-Third-Protocol",
         "tier": [1],
+        "length": 4,
+        "apl": 4,
+        "credits": [
+            {
+                "name": "M.T. Black",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            },
+            {
+                "name": "Conceptopolis",
+                "role": "Artist"
+            },
+            {
+                "name": "Olga Drebas",
+                "role": "Artist"
+            },
+            {
+                "name": "Wayne England",
+                "role": "Artist"
+            },
+            {
+                "name": "Justin Gerard",
+                "role": "Artist"
+            },
+            {
+                "name": "Julian Kok",
+                "role": "Artist"
+            },
+            {
+                "name": "Lee Moyer",
+                "role": "Artist"
+            },
+            {
+                "name": "Jim Nelson",
+                "role": "Artist"
+            },
+            {
+                "name": "Matt Stewart",
+                "role": "Artist"
+            },
+            {
+                "name": "Ben Wootten",
+                "role": "Artist"
+            },
+            {
+                "name": "Vance Kelly",
+                "role": "Cover Illustrator"
+            },
+            {
+                "name": "Jim Nelson",
+                "role": "Cover Illustrator"
+            }
+        ],
         "items": [
             {
                 "name": "Circlet of Blasting",
@@ -216,6 +344,67 @@
         "released": "2020-05-04",
         "url": "https://www.dmsguild.com/product/312336/EB05-A-Century-of-Ashes",
         "tier": [2],
+        "length": 4,
+        "apl": 5,
+        "credits": [
+            {
+                "name": "Bianca Bickford",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            },
+            {
+                "name": "Steve Argyle",
+                "role": "Artist"
+            },
+            {
+                "name": "Eric Deschamps",
+                "role": "Artist"
+            },
+            {
+                "name": "Olga Drebas",
+                "role": "Artist"
+            },
+            {
+                "name": "Wayne England",
+                "role": "Artist"
+            },
+            {
+                "name": "Suzanne Helmigh",
+                "role": "Artist"
+            },
+            {
+                "name": "Ralph Horsley",
+                "role": "Artist"
+            },
+            {
+                "name": "Brynn Metheney",
+                "role": "Artist"
+            },
+            {
+                "name": "Lee Moyer",
+                "role": "Artist"
+            },
+            {
+                "name": "Vance Kelly",
+                "role": "Cover Illustrator"
+            },
+            {
+                "name": "Eric Deschamps",
+                "role": "Cover Illustrator"
+            }
+        ],
         "items": [
             {
                 "name": "Dust of Disappearance",
@@ -262,6 +451,71 @@
         "released": "2020-06-03",
         "url": "https://www.dmsguild.com/product/316059/EB06-The-Last-Word",
         "tier": [2],
+        "length": 4,
+        "apl": 6,
+        "credits": [
+            {
+                "name": "Anne Gregersen",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            },
+            {
+                "name": "Zoltan Boros",
+                "role": "Artist"
+            },
+            {
+                "name": "Olga Drebas",
+                "role": "Artist"
+            },
+            {
+                "name": "Leesha Hannigan",
+                "role": "Artist"
+            },
+            {
+                "name": "Aaron Hübrich",
+                "role": "Artist"
+            },
+            {
+                "name": "Lee Moyer",
+                "role": "Artist"
+            },
+            {
+                "name": "Steve Prescott",
+                "role": "Artist"
+            },
+            {
+                "name": "Ned Rogers",
+                "role": "Artist"
+            },
+            {
+                "name": "Carmen Sinek",
+                "role": "Artist"
+            },
+            {
+                "name": "Craig J. Spearing",
+                "role": "Artist"
+            },
+            {
+                "name": "Vance Kelly",
+                "role": "Cover Illustrator"
+            },
+            {
+                "name": "Ned Rogers",
+                "role": "Cover Illustrator"
+            }
+        ],
         "items": [
             {
                 "name": "Ring of Evasion",
@@ -304,7 +558,118 @@
         "released": "2020-07-06",
         "url": "https://www.dmsguild.com/product/319657/EB07-Song-of-the-Sky",
         "tier": [2],
-        "incomplete": true
+        "length": 4,
+        "apl": 7,
+        "credits": [
+            {
+                "name": "Stacey Allan",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            },
+            {
+                "name": "Eric Belisle",
+                "role": "Artist"
+            },
+            {
+                "name": "Conceptopolis",
+                "role": "Artist"
+            },
+            {
+                "name": "Olga Drebas",
+                "role": "Artist"
+            },
+            {
+                "name": "Wayne England",
+                "role": "Artist"
+            },
+            {
+                "name": "Andrew Jones",
+                "role": "Artist"
+            },
+            {
+                "name": "Lee Moyer",
+                "role": "Artist"
+            },
+            {
+                "name": "Steve Prescott",
+                "role": "Artist"
+            },
+            {
+                "name": "Wayne Reynolds",
+                "role": "Artist"
+            },
+            {
+                "name": "Mark Tedin",
+                "role": "Artist"
+            },
+            {
+                "name": "Shawn Wood",
+                "role": "Artist"
+            },
+            {
+                "name": "Vance Kelly",
+                "role": "Cover Illustrator"
+            },
+            {
+                "name": "Wayne Reynolds",
+                "role": "Cover Illustrator"
+            }
+        ],
+        "items": [
+            {
+                "name": "Necklace of Adaptation",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Soarsled",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Alchemist's Fire",
+                "rarity": "common",
+                "consumable": true,
+                "count": 5
+            },
+            {
+                "name": "Feather Token",
+                "rarity": "rare",
+                "consumable": true,
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Emerald Claw Captive",
+                "description": "You captured Emerald Claw agent Irullan Karnach alive. At the end of this adventure, you must decide what to do with her:\n\n- Hand her over to the Brelish authorities and claim a reward of 100 gp.\n- Keep her as a captive. While she remains alive, you must pay 10 gp at the end of each adventure to cover the expenses of her incarceration. If you have access to your own prison cell, you can keep her imprisoned for free.\n- Execute her."
+            },
+            {
+                "name": "Flamewing's Favored",
+                "description": "You impressed the sphinx Flamewind with your performance during the steeplechase."
+            },
+            {
+                "name": "Mark of the Sphinx",
+                "description": "You took Sky Blue to the sphinx Flamewind, who gave her a protective amulet to wear. Flamewind has asked you to look after the girl, and promised she'll be in touch."
+            },
+            {
+                "name": "The Show Must Go On",
+                "description": "The bard Stormflower helped you save Sky Blue and is now committed to forging your legend in song.\n\n- If you write Stormflower a decent song of at least three verses and hand it in to your DM before playing **DDAL-EB-08** *Parliament of Gears*, Stormflower makes you an honorary member of the Circle of Song: a secret alliance of bards and entertainers."
+            },
+            {
+                "name": "Wing and a Prayer",
+                "description": "You left the city with Sky Blue to go in search of her father, who supposedly died during the Last War. Flamewind is unhappy that you defied her and sends spies to locate you.\n\n- At the end of each adventure in this campaign (including this one), your party must succeed on a group DC 10 Wisdom (Insight) check to stay ahead of the sphinx's agents. If your group fails, tick this box and stop making checks. You are now being watched!"
+            }
+        ]
     },
     {
         "code": "DDAL-EB-08",
@@ -313,7 +678,115 @@
         "released": "2020-08-03",
         "url": "https://www.dmsguild.com/product/322749/EB08-Parliament-of-Gears",
         "tier": [2],
-        "incomplete": true
+        "length": 4,
+        "apl": 8,
+        "credits": [
+            {
+                "name": "Ian Hawthorne",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            },
+            {
+                "name": "Milivoj Cernan",
+                "role": "Artist"
+            },
+            {
+                "name": "Adam Cook",
+                "role": "Artist"
+            },
+            {
+                "name": "Olga Drebas",
+                "role": "Artist"
+            },
+            {
+                "name": "Wayne England",
+                "role": "Artist"
+            },
+            {
+                "name": "Aaron Hübrich",
+                "role": "Artist"
+            },
+            {
+                "name": "Daniel Landerman",
+                "role": "Artist"
+            },
+            {
+                "name": "Lee Moyer",
+                "role": "Artist"
+            },
+            {
+                "name": "Vance Kelly",
+                "role": "Cover Illustrator"
+            },
+            {
+                "name": "Adam Cook",
+                "role": "Cover Illustrator"
+            }
+        ],
+        "items": [
+            {
+                "name": "Elemental Gem (Blue Sapphire)",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Halberd +2",
+                "rarity": "rare"
+            },
+            {
+                "name": "Orb of Shielding (Lamannian Flint)",
+                "rarity": "common"
+            },
+            {
+                "name": "Potion of Comprehension",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Healing",
+                "rarity": "common",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Acid)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Potion of Resistance (Lightning)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Beard Braid",
+                "description": "Tellarak Natharon, nephew of the *Oracle of War*'s creator Sulring Mroranon, gave you a beard braid to identify yourself to his uncle."
+            },
+            {
+                "name": "Bested Captain Reeve",
+                "description": "You fought Captain Reeve of the 1st Mobile Divison and lived to tell the tale. Once per adventure in the *Oracle of War* campaign, you can use this legacy event to gain advantage on an Intimidation or Persuasion check made to interact with a warforged."
+            },
+            {
+                "name": "Eternal Gratitude",
+                "description": "You rescued one or more captives from the Blades' *Conclave*. They won't forget your bravery and go out of their way to repay you. If you rescued any of the captives listed below, you gain their benefit:\n\n- Breyten Bokk d'Orien grants you a single spell component of up to 500 gp value.\n- Bunty Griswold leaves your group a legacy in her will. At the start of each Core Storyline adventure in the *Oracle of War* campaign, roll a d20. On a 1, Bunty dies and each character with this legacy event gains 250 gp. All players in your group must remove this legacy event from their Adventure Records.\n- Dabren Ty can silver one of your weapons or up to 20 pieces of ammunition.\n- Jurian Saal gifts you a *potion of healing*.\n- Kronce offers to help you out on a mission. You may call on the **veteran** to accompany you on any adventure in the *Oracle of War* campaign. When you use this legacy event, all players in your group must remove it from their Adventure Records.\n- Larten gives you a map of Cyre which grants you advantage to all Wisdom (Survival) checks made to navigate the Mournland."
+            }
+        ]
     },
     {
         "code": "DDAL-EB-09",
@@ -322,7 +795,785 @@
         "released": "2020-09-01",
         "url": "https://www.dmsguild.com/product/326339/EB09-Lord-Bucket",
         "tier": [2],
-        "incomplete": true
+        "length": 4,
+        "apl": 9,
+        "credits": [
+            {
+                "name": "Travis Woodall",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            },
+            {
+                "name": "Olga Drebas",
+                "role": "Artist"
+            },
+            {
+                "name": "Titus Lunter",
+                "role": "Artist"
+            },
+            {
+                "name": "Lee Moyer",
+                "role": "Artist"
+            },
+            {
+                "name": "Bryan Syme",
+                "role": "Artist"
+            },
+            {
+                "name": "James Zhang",
+                "role": "Artist"
+            },
+            {
+                "name": "Vance Kelly",
+                "role": "Cover Illustrator"
+            },
+            {
+                "name": "James Zhang",
+                "role": "Cover Illustrator"
+            }
+        ],
+        "items": [
+            {
+                "name": "Shield, +2",
+                "rarity": "rare"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Captured!",
+                "description": "You've been captured by the Lord of Blades and taken into the Mournland! You being the next adventure confined in one of the Lord of Blades' enclaves."
+            },
+            {
+                "name": "Not This Time, Death",
+                "description": "You saved General Tyresh from an apparent assassination attempt, perpetrated by someone loyal to Breland. While he's unlikely to publicly acknowledge your bravery, he repays you for it in private. General Tyresh provides you with 100 gp from his personal coffers in honor of saving his life."
+            },
+            {
+                "name": "Sky Fall",
+                "description": "Sky Blue's been captured by the Lord of Blades! Will you seek her out and free her?"
+            },
+            {
+                "name": "Your Face Is Known",
+                "description": "You have brought yourself to the Lord of Blades' attention—as a killer of warforged and an obstable to his plans to form a warforged nation. Who knows how far across Khovaire his reach extends…?"
+            }
+        ]
+    },
+    {
+        "code": "DDAL-EB-10",
+        "name": "Judgment of Iron",
+        "description": "The Brelish army advances into the Mournland in a doomed assault on the enclave of the Lord of Blades. A massacre is almost guaranteed—but the adventurers have other goals in mind. Amid the horror of war, they attempt to spring the artificer Sulring Mroranon from his prison. The third in a trilogy of adventures, the *Dogs of War* storyline.",
+        "released": "2020-10-07",
+        "url": "https://www.dmsguild.com/product/331083/EB10-Judgment-of-Iron",
+        "tier": [2],
+        "length": 4,
+        "apl": 10,
+        "credits": [
+            {
+                "name": "Richard Green",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            },
+            {
+                "name": "Olga Drebas",
+                "role": "Artist"
+            },
+            {
+                "name": "Sam Keiser",
+                "role": "Artist"
+            },
+            {
+                "name": "Lee Moyer",
+                "role": "Artist"
+            },
+            {
+                "name": "Wayne Reynolds",
+                "role": "Artist"
+            },
+            {
+                "name": "Cory Trego-Erdner",
+                "role": "Artist"
+            },
+            {
+                "name": "Vance Kelly",
+                "role": "Cover Illustrator"
+            },
+            {
+                "name": "Wayne Reynolds",
+                "role": "Cover Illustrator"
+            }
+        ],
+        "items": [
+            {
+                "name": "Belt of Dwarvenkind",
+                "rarity": "rare"
+            },
+            {
+                "name": "Brooch of Shielding",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Sending Stones",
+                "rarity": "uncommon"
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Flechette's Brassbound Spellbook",
+                "spells": [
+                    { "name": "fire bolt", "level": 0 },
+                    { "name": "light", "level": 0 },
+                    { "name": "prestidigitation", "level": 0 },
+                    { "name": "shocking grasp", "level": 0 },
+                    { "name": "detect magic", "level": 1 },
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "magic missile", "level": 1 },
+                    { "name": "shield", "level": 1 },
+                    { "name": "misty step", "level": 2 },
+                    { "name": "suggestion", "level": 2 },
+                    { "name": "counterspell", "level": 3 },
+                    { "name": "fireball", "level": 3 },
+                    { "name": "fly", "level": 3 },
+                    { "name": "greater invisibility", "level": 4 },
+                    { "name": "ice storm", "level": 4 },
+                    { "name": "cone of cold", "level": 5 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Arcane Kinetics",
+                "description": "You defeated the warforged mage Flechette and seized her spellbook. At the end of any core adventure in the *Oracle of War* campaign, you can gain the following benefit:\n\n- Copy a wizard spell of 5th level or lower from legal sources into your spellbook, ritual book, or Book of Shadows at no cost. You must have the Book of Ancient Secrets invocation at add to your Book of Shadows."
+            },
+            {
+                "name": "Argonth Survivor",
+                "description": "You were there when Argonth fell to the Lord of Blades. Your time on the floating fortress means you're familiar with its layout, attack capabilities, and defenses."
+            },
+            {
+                "name": "Your Face Is Known",
+                "description": "You defeated the Lord of Blades' lieutenant in sight of him and lived to tell the tale. Next time, you might not be so lucky."
+            }
+        ]
+    },
+    {
+        "code": "DDAL-EB-11",
+        "name": "My Undying Heart",
+        "description": "High above Karrnath, the adventurers present the Oracle of War to the Institute of the Twelve. The dragonmarked houses promise security, but dead eyes are watching from the dark. In this nation of storms, the drums of war are beating again. The first in a trilogy of adventures, the *Drums of War* storyline.",
+        "released": "2020-12-01",
+        "url": "https://www.dmsguild.com/product/337947/EB11-My-Undying-Heart",
+        "tier": [3],
+        "length": 4,
+        "apl": 11,
+        "credits": [
+            {
+                "name": "Tom “Evhelm” Donovan",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            },
+            {
+                "name": "Eric Belisle",
+                "role": "Artist"
+            },
+            {
+                "name": "Daarken",
+                "role": "Artist"
+            },
+            {
+                "name": "Olga Drebas",
+                "role": "Artist"
+            },
+            {
+                "name": "Lee Moyer",
+                "role": "Artist"
+            },
+            {
+                "name": "Vincent Proce",
+                "role": "Artist"
+            },
+            {
+                "name": "Chris Rahn",
+                "role": "Artist"
+            },
+            {
+                "name": "Eva Wildermann",
+                "role": "Artist"
+            },
+            {
+                "name": "Vance Kelly",
+                "role": "Cover Illustrator"
+            },
+            {
+                "name": "Philip Straub",
+                "role": "Cover Illustrator"
+            }
+        ],
+        "items": [
+            {
+                "name": "Armor, +1",
+                "rarity": "rare"
+            },
+            {
+                "name": "Barding, +1",
+                "rarity": "rare"
+            },
+            {
+                "name": "Crystal Skull",
+                "rarity": "unique"
+            },
+            {
+                "name": "Potion of Resistance (Fire)",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Scroll of Protection (Undead)",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Crystal Skull",
+                "description": "Irullan Karnach confessed that she delivered a crystal skull with the power to bring the dead back to life to the Order of the Emerald Claw."
+            },
+            {
+                "name": "Rescued Agent",
+                "description": "You freed Leele d'Jorasco from captivity in the Emerald Claw enclave. She promises to aid you again in the future."
+            }
+        ]
+    },
+    {
+        "code": "DDAL-EB-12",
+        "name": "The Waiting Game",
+        "description": "Narcy of Xandrar offers safe haven in the towers of Arcanix, but even she can't foresee the coming storm. Across the centuries, dead hands move their puppets in a grand conspiracy to control the Draconic Prophecy. They predicted the Oracle of War's creation, and now their agents lie in wait for the day they can seize it for themselves. That day is today. This is the second in a trilogy of adventures, the *Drums of War* storyline.",
+        "released": "2021-01-05",
+        "url": "https://www.dmsguild.com/product/342451/EB12-The-Waiting-Game",
+        "tier": [3],
+        "length": 4,
+        "apl": 12,
+        "credits": [
+            {
+                "name": "Shawn Merwin",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            },
+            {
+                "name": "Olga Drebas",
+                "role": "Artist"
+            },
+            {
+                "name": "Kekai Kotaki",
+                "role": "Artist"
+            },
+            {
+                "name": "Titus Lunter",
+                "role": "Artist"
+            },
+            {
+                "name": "Lee Moyer",
+                "role": "Artist"
+            },
+            {
+                "name": "Brian Valeza",
+                "role": "Artist"
+            },
+            {
+                "name": "James Zhang",
+                "role": "Artist"
+            },
+            {
+                "name": "Vance Kelly",
+                "role": "Cover Illustrator"
+            },
+            {
+                "name": "Kekai Kotaki",
+                "role": "Cover Illustrator"
+            }
+        ],
+        "items": [
+            {
+                "name": "Ring of Regeneration",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Potion of Superior Healing",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Heroic Failure",
+                "description": "You failed to stop Immeral's plan before at least one of the floating towers were crashed into Arcanix:\n\n- For each tower that fell (to the maximum of 3), you **MUST** refuse the next hero point earned during a future adventure. When you've refused hero points equal to the number of fortresses that crashed, remove this legacy event from your character."
+            }
+        ]
+    },
+    {
+        "code": "DDAL-EB-13",
+        "name": "Stonefire",
+        "description": "The light of the Silver Flame shields all who bathe in its glory, but also casts deep shadows. When heretics in the fortress city of Flamekeep emerge from the dark, the Cathedral of the Silver Flame becomes the last bastion in a citywide conflict. This is the third in a trilogy of adventures, the *Drums of War* storyline.",
+        "released": "2021-01-25",
+        "url": "https://www.dmsguild.com/product/344584/EB13-Stonefire",
+        "tier": [3],
+        "length": 4,
+        "apl": 13,
+        "credits": [
+            {
+                "name": "Rich Lescouflair",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            },
+            {
+                "name": "Rich Lescouflair",
+                "role": "Cartography"
+            },
+            {
+                "name": "Olga Drebas",
+                "role": "Artist"
+            },
+            {
+                "name": "Vance Kelly",
+                "role": "Artist"
+            },
+            {
+                "name": "Michael Komarck",
+                "role": "Artist"
+            },
+            {
+                "name": "Ron Lemen",
+                "role": "Artist"
+            },
+            {
+                "name": "Titus Lunter",
+                "role": "Artist"
+            },
+            {
+                "name": "Howard Lyon",
+                "role": "Artist"
+            },
+            {
+                "name": "Effiam Mercier",
+                "role": "Artist"
+            },
+            {
+                "name": "Lee Moyer",
+                "role": "Artist"
+            },
+            {
+                "name": "Vance Kelly",
+                "role": "Cover Illustrator"
+            },
+            {
+                "name": "Sam Keiser",
+                "role": "Cover Illustrator"
+            }
+        ],
+        "items": [
+            {
+                "name": "Elemntal Airship",
+                "rarity": "unique"
+            },
+            {
+                "name": "Mace of Disruption",
+                "rarity": "rare"
+            },
+            {
+                "name": "Ring of Evasion",
+                "rarity": "rare"
+            },
+            {
+                "name": "Shield, +3",
+                "rarity": "veryRare"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Battlefield Medic",
+                "description": "You helped Keeper Jaela Daran tend to the wounded. Later in the campaign, you may discover the consequences of this action."
+            },
+            {
+                "name": "Divine Vigilance",
+                "description": "You persuaded the Keeper of the Flame to begin peace talks with Breland to unite against the threat posed by the Lord of Blades."
+            },
+            {
+                "name": "Traitor Sphinx",
+                "description": "Flamewind survived her failed ambush and fled into Sharn. You haven't seen the last of her, for sure."
+            },
+            {
+                "name": "Trust No One",
+                "description": "You helped Lukas Varko escaped the Cathedral of the Flame. Perhaps you'll see him again in the future…"
+            }
+        ]
+    },
+    {
+        "code": "DDAL-EB-14",
+        "name": "From Dust",
+        "description": "Deep beneath Metrol, the Order of the Emerald Claw is excavating the ruins of a haunted daelkyr sanctuary. Sulring Mroranon knows a sage who can provide vital information about the dig site, but there's a catch—they've not been seen for over a century. This is the first in a trilogy of adventures, the *Engines of War* storyline.",
+        "released": "2021-03-09",
+        "url": "https://www.dmsguild.com/product/349669/EB14-From-Dust",
+        "tier": [3],
+        "length": 4,
+        "apl": 14,
+        "credits": [
+            {
+                "name": "Andy Dempz",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            },
+            {
+                "name": "John Avon",
+                "role": "Artist"
+            },
+            {
+                "name": "Conceptopolis",
+                "role": "Artist"
+            },
+            {
+                "name": "Olga Drebas",
+                "role": "Artist"
+            },
+            {
+                "name": "Justin Gerard",
+                "role": "Artist"
+            },
+            {
+                "name": "Tomas Giorello",
+                "role": "Artist"
+            },
+            {
+                "name": "Ilich Henriquez",
+                "role": "Artist"
+            },
+            {
+                "name": "Lee Moyer",
+                "role": "Artist"
+            },
+            {
+                "name": "Ilya Shkipin",
+                "role": "Artist"
+            },
+            {
+                "name": "Vance Kelly",
+                "role": "Cover Illustrator"
+            },
+            {
+                "name": "William O'Connor",
+                "role": "Cover Illustrator"
+            }
+        ],
+        "items": [
+            {
+                "name": "Gisaul's Spellbook (Libram of Souls and Flesh)",
+                "rarity": "rare"
+            },
+            {
+                "name": "Tentacle Rod",
+                "rarity": "rare"
+            },
+            {
+                "name": "Dust of Disappearance",
+                "rarity": "uncommon",
+                "consumable": true,
+                "count": 1
+            },
+            {
+                "name": "Elixir of Health",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 1
+            }
+        ],
+        "spellbooks": [
+            {
+                "name": "Gisaul's Spellbook",
+                "spells": [
+                    { "name": "mage armor", "level": 1 },
+                    { "name": "ray of sickness", "level": 1 },
+                    { "name": "blindness/deafness", "level": 2 },
+                    { "name": "ray of enfeeblement", "level": 2 },
+                    { "name": "web", "level": 2 },
+                    { "name": "bestow curse", "level": 3 },
+                    { "name": "vampiric touch", "level": 3 },
+                    { "name": "blight", "level": 4 },
+                    { "name": "dimension door", "level": 4 },
+                    { "name": "stoneskin", "level": 4 },
+                    { "name": "Bigby's hand", "level": 5 },
+                    { "name": "cloudkill", "level": 5 }
+                ]
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Desperate Measures",
+                "description": "Spinweave taught you how to temporarily release Valaara from Khyber by performing a ritual in the Creeping Nave. This could prove…useful?"
+            },
+            {
+                "name": "Survivors of the Thorn Expedition",
+                "description": "Some members of the Thorn Expedition are still alive. Check who survived below:\n\n- Gisaul Varren\n- Drago"
+            },
+            {
+                "name": "Tavern Tale Spinner",
+                "description": "You impressed the dwarves at the Stone Golem tavern with your tale-spinning prowess. At the end of this adventure, you can return to the Stone Golem to carouse with the dwarves.\n\n| Roll | Result |\n| ------ | ------ |\n| 1–2 | You gain a hipflask of Frostmantle Fire, a string dwarven liquor. If you drink from this hipflask as an action, you are immune to fear for 1 hour. You can drink from the hipflask three times before it empties. |\n| 3–4 | The dwarves etch your tale into the walls of the tavern, immortalizing your legend in dwarf lore. You begin your next adventure with 2 hero points. |\n| 5–6 | One of the noble dwarves is so impressed with your tales that she commissions a bejeweled ivory statue of you or one of your companions (value 1,500 gp, but can only be sold at market for 500 gp). |"
+            }
+        ]
+    },
+    {
+        "code": "DDAL-EB-15",
+        "name": "Dream Eater",
+        "description": "Across Eberron, the spirits of the dead stir as the Order of the Emerald Claw draws back the veil to Dolurrh. To avert calamity, the adventurers must cut a deal with an infamous bonecaster of the Talenta Plains—the Dream Eater—and her pack of loyal tyrannosaurs. This is the second in a trilogy of adventures, the *Engines of War* storyline.",
+        "released": "2021-04-06",
+        "url": "https://www.dmsguild.com/product/352879/EB15-Dream-Eater",
+        "tier": [3],
+        "length": 4,
+        "apl": 15,
+        "credits": [
+            {
+                "name": "Celeste Conowitch",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            },
+            {
+                "name": "Eric Deschamps",
+                "role": "Artist"
+            },
+            {
+                "name": "Olga Drebas",
+                "role": "Artist"
+            },
+            {
+                "name": "Howard Lyon",
+                "role": "Artist"
+            },
+            {
+                "name": "Lee Moyer",
+                "role": "Artist"
+            },
+            {
+                "name": "Marc Sasso",
+                "role": "Artist"
+            },
+            {
+                "name": "Dan Scott",
+                "role": "Artist"
+            },
+            {
+                "name": "Vance Kelly",
+                "role": "Cover Illustrator"
+            },
+            {
+                "name": "Adam Cook",
+                "role": "Cover Illustrator"
+            }
+        ],
+        "items": [
+            {
+                "name": "Bracers of Archery",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Staff of the Woodlands",
+                "rarity": "rare"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Allosaurus Mount",
+                "description": "",
+                "type": "pet"
+            },
+            {
+                "name": "Dragon Spirit",
+                "description": "In the mists of the Boneyard, you allowed the restless spirit of a silver dragon to latch onto your soul. While the dragon spirit dwells inside you, you are immune to the Frightful Presence of dragons and have resistance to damage from their breath weapons."
+            },
+            {
+                "name": "Dream Walker",
+                "description": "You helped the Dream Eater lay the restless spirit of hte dragon Carnelian to rest. At the end of the adventure, choose one of the following rewards:\n\n- The Dream Eater performs a ritual that grants you resistance to necrotic damage for the duration of your next adventure.\n- If you chose the allosaurus mount as a reward, the halfling Norrin teaches it the “Talenta Dodge”. If the allosaurus is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. (Norrin must survive the adventure to offer this training.)\n- If you chose the *bracers of archery* reward, the halfling Davric enchants your quiver with a luck charm. When you roll a 1 on a d20 for an attack roll with an arrow drawn from this quiver, you can reroll the die and must use the new roll. (Davric must survive the adventure to offer this reward.)"
+            }
+        ]
+    },
+    {
+        "code": "DDAL-EB-16",
+        "name": "The Dragon Below",
+        "description": "In the depths of Valaara's sanctuary, the Order of the Emerald Claw harnesses ancient engines of destruction to wage war on the surface world. Only the Oracle of War can stop them now—if the adventurers can get it to work! This is the third in a trilogy of adventures, the *Engines of War* storyline.",
+        "released": "2021-05-03",
+        "url": "https://www.dmsguild.com/product/356496/EB16-The-Dragon-Below",
+        "tier": [3],
+        "length": 4,
+        "apl": 16,
+        "credits": [
+            {
+                "name": "Bianca Bickford",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            },
+            {
+                "name": "Olga Drebas",
+                "role": "Artist"
+            },
+            {
+                "name": "Wayne England",
+                "role": "Artist"
+            },
+            {
+                "name": "Jon Hodgson",
+                "role": "Artist"
+            },
+            {
+                "name": "Titus Lunter",
+                "role": "Artist"
+            },
+            {
+                "name": "Lee Moyer",
+                "role": "Artist"
+            },
+            {
+                "name": "Craig J. Spearing",
+                "role": "Artist"
+            },
+            {
+                "name": "Bryan Syme",
+                "role": "Artist"
+            },
+            {
+                "name": "Vance Kelly",
+                "role": "Cover Illustrator"
+            },
+            {
+                "name": "Craig J. Spearing",
+                "role": "Cover Illustrator"
+            }
+        ],
+        "items": [
+            {
+                "name": "Dryyn's Tentacle Whip",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Living Armor",
+                "rarity": "veryRare"
+            },
+            {
+                "name": "Living Gloves",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Oil of Etherealness",
+                "rarity": "rare",
+                "consumable": true,
+                "count": 2
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Madness Unleashed",
+                "description": "You freed Valaara, “the Crawing Queen” from the Deepest Hive, her demiplane lair in the depths of Khyber. Spinweave told you Valaara would only briefly be freed, and Spinweave wouldn't lie to you. Besides, what's unleashing one of the daelkyr between friends, really?"
+            },
+            {
+                "name": "Making Trouble",
+                "description": "Trez Zul revealed that the Lord of Blades is searching the ruins of Making for a creation forged hidden inside a secret Cyran government facility. The Lord of Blades is capturing and interrogating Cyran officers to uncover the location of this base."
+            },
+            {
+                "name": "Secret of the Triune",
+                "description": "You gave the three genies bound within the *Oracle of War* a secret. What will come of this fledgling bond of trust between you and the Lamannian Triune?"
+            }
+        ]
     },
     {
         "code": "DDAL-EBEP-01",
@@ -331,6 +1582,97 @@
         "released": "2020-04-07",
         "url": "https://www.dmsguild.com/product/308553/EBEP01-The-Iron-Titan",
         "tier": [1],
+        "length": 3,
+        "apl": 4,
+        "credits": [
+            {
+                "name": "Will Doyle",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "James Introcaso",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Shawn Merwin",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            },
+            {
+                "name": "Mark Behm",
+                "role": "Artist"
+            },
+            {
+                "name": "Conceptopolis",
+                "role": "Artist"
+            },
+            {
+                "name": "William O'Connor",
+                "role": "Artist"
+            },
+            {
+                "name": "Olga Drebas",
+                "role": "Artist"
+            },
+            {
+                "name": "Scott M. Fischer",
+                "role": "Artist"
+            },
+            {
+                "name": "Ron Lemen",
+                "role": "Artist"
+            },
+            {
+                "name": "Marcel Mercado",
+                "role": "Artist"
+            },
+            {
+                "name": "Lee Moyer",
+                "role": "Artist"
+            },
+            {
+                "name": "Lindsey Look",
+                "role": "Artist"
+            },
+            {
+                "name": "Ryan Pancoast",
+                "role": "Artist"
+            },
+            {
+                "name": "Steve Prescott",
+                "role": "Artist"
+            },
+            {
+                "name": "Richard Whitters",
+                "role": "Artist"
+            },
+            {
+                "name": "Kieran Yanner",
+                "role": "Artist"
+            },
+            {
+                "name": "Vance Kelly",
+                "role": "Cover Illustrator"
+            },
+            {
+                "name": "Ron Lemen",
+                "role": "Cover Illustrator"
+            }
+        ],
         "items": [
             {
                 "name": "Lantern of Revealing",
@@ -359,6 +1701,124 @@
             {
                 "name": "Fallen Titan",
                 "description": "The warforged colossus Big Moe was defeated. One of the salvage brokers, Irrulan Karnach, fled town just before the attack. Could she have been involved somehow?\n\n- If you’re interested in tailing Karnach you can invest 200 gp after this adventure into tracking her down. You discover a lead that she’s headed to Sharn. If you visit Sharn in a future adventure, you can locate her for questioning."
+            }
+        ]
+    },
+    {
+        "code": "DDAL-EBEP-02",
+        "name": "Rolling Thunder",
+        "description": "In this Epic event, the adventurers infiltrate the royal lightning rail train to steal a ledger belonging to the king’s brother, Kor ir’Wynarn. With war brewing between Breland and Thrane, Lord Kor rides north to Sword Keep to defend the border—but scheming forces intend to strike him down before he gets there.",
+        "released": "2020-11-10",
+        "url": "https://www.dmsguild.com/product/335587/EBEP02-Rolling-Thunder",
+        "tier": [2],
+        "length": 4,
+        "apl": 8,
+        "credits": [
+            {
+                "name": "Will Doyle",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Tony Porteous",
+                "role": "Designer",
+                "key": true
+            },
+            {
+                "name": "Will Doyle",
+                "role": "Campaign Story and Development"
+            },
+            {
+                "name": "Ashley Michaela “Navigator” Lawson",
+                "role": "Editing"
+            },
+            {
+                "name": "Stacey Allan",
+                "role": "Art Direction and Layout"
+            },
+            {
+                "name": "Chippy",
+                "role": "Artist"
+            },
+            {
+                "name": "Daarken",
+                "role": "Artist"
+            },
+            {
+                "name": "Olga Drebas",
+                "role": "Artist"
+            },
+            {
+                "name": "Caroline Gariba",
+                "role": "Artist"
+            },
+            {
+                "name": "Suzanne Helmigh",
+                "role": "Artist"
+            },
+            {
+                "name": "Aaron Hübrich",
+                "role": "Artist"
+            },
+            {
+                "name": "Titus Lunter",
+                "role": "Artist"
+            },
+            {
+                "name": "Lee Moyer",
+                "role": "Artist"
+            },
+            {
+                "name": "Wayne Reynolds",
+                "role": "Artist"
+            },
+            {
+                "name": "Chippy",
+                "role": "Cover Illustrator"
+            },
+            {
+                "name": "Vance Kelly",
+                "role": "Cover Illustrator"
+            },
+            {
+                "name": "M.T. Black",
+                "role": "Special Thanks"
+            }
+        ],
+        "items": [
+            {
+                "name": "Boots of Speed",
+                "rarity": "rare"
+            },
+            {
+                "name": "Hat of Disguise",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "Stone of Good Luck (Luckstone)",
+                "rarity": "uncommon"
+            }
+        ],
+        "storyAwards": [
+            {
+                "name": "Death is a Door",
+                "description": "You died while trying to rob the royal lightning rail train *Excelsior*. Mysterious forces brought you back to life, but you don't know who or what they are."
+            },
+            {
+                "name": "Mournland Dossier",
+                "description": "You stole a dossier of intelligence on the Mournland, which Sky is convinced can help her find her missing father."
+            },
+            {
+                "name": "Oracle Dossier",
+                "description": "You stole a file of top secret intelligence on the *Oracle of War*. The information held within is encoded and can't be decrypted until you play **DDAL-EB-11** *My Undying Heart*. While you have this legacy event marked, Sky Blue and Earl cannot appear in **DDAL-EB-08**, **DDAL-EB-09**, or **DDAL-EB-10**."
+            },
+            {
+                "name": "Regicide",
+                "description": "Lord Kor ir'Wynarn, the “King in Green”, brother to King Boranel of Breland, is dead. This event is sure to forment trouble later in the campaign!"
+            },
+            {
+                "name": "Swords of Liberty",
+                "description": "You identified the Swords of Liberty as being responsible for the attack on Lord Kor. You may be able to use this information to your advantage in the future."
             }
         ]
     },

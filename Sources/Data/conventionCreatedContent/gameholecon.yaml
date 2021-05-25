@@ -1,0 +1,883 @@
+- code: CCC-GHC-01
+  name: Tharaera Lost
+  description: >-
+    A criminal band known as “Suldran’s Dark” who is active all over the Moonsea
+    region and especially on the waters of the Moonsea itself, recently seized a
+    caravel out of Phlan carrying trade-bars of smelted copper and “batons” of
+    steel ready to be hammered into swords. Along with all of the cargo, the
+    Dark seized six passengers for ransom. Little did they know that one of the
+    passengers was a Harper agent. A rescue taking the party deep into the
+    Cormanthor forest is now needed.
+  released: '2016-12-15'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/200723/CCCGHC01-Tharaera-Lost'
+  tier: [2]
+  items:
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 4
+    - name: Spell Scroll of Arcane Eye
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Evard's Black Tentacles
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Legend Lore
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Scrying
+      rarity: rare
+      consumable: true
+      count: 1
+
+
+- code: CCC-GHC-02
+  name: Skulljaw Hill
+  description: >-
+    The search for the missing Harper agent has brought you to the small coastal
+    town of Elventree on the south shore of the Moonsea. With important clues in
+    hand and after a stop at a local festhall, you will be forced to brave
+    further challenges found in the depths of the Cormanthor forest.
+  released: '2016-12-15'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/200738/CCCGHC02-Skulljaw-Hill'
+  tier: [2]
+  items:
+    - name: Battle Axe, +1
+      rarity: uncommon
+    - name: Spell Scroll of Fire Bolt
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Cloud of Daggers
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Vampiric Touch
+      rarity: uncommon
+      consumable: true
+      count: 1
+
+
+- code: CCC-GHC-03
+  name: Facing the Dark
+  description: >-
+    A captive Harper agent is being held by the criminal gang “Suldran’s Dark”
+    in the depths of the Cormanthor forest. Only the most stalwart and brave
+    will be able to face this enemy and rescue the imprisoned Harper.
+  released: '2016-12-15'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/200739/CCCGHC03-Facing-the-Dark'
+  tier: [2]
+  items:
+    - name: Ring of Protection
+      rarity: rare
+
+
+- code: CCC-GHC-04
+  name: Shade of the Dark
+  description: >-
+    Deep in the forests of Cormanthor, the Golden Paragon Trading Company has
+    set up a logging camp to harvest the valuable trees of the Midwood. Until
+    recently, the profitable camp delivered lumber downriver to Semberholme, but
+    its last communication spoke of attacks from forest monsters and panicked
+    loggers unwilling to work. The Golden Paragon Trading Company needs
+    adventurers to find the underlying cause of their timber production
+    problems. Are the incursions simply the woodland creatures defending their
+    home, or is something more sinister happening in the ancient forest?
+  released: '2017-12-04'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/228101/CCCGHC04--Shade-Of-The-Dark'
+  tier: [2]
+  items:
+    - name: Ring of Warmth
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+
+
+- code: CCC-GHC-05
+  name: Trail of Treachery
+  description: >-
+    Deep in the forests of Cormanthor, the Golden Paragon Trading Company has
+    set up a logging camp to harvest the valuable trees of the Midwood.
+    Recently, rumors of a valuable tree lured a group of loggers away from the
+    safety of the camp after a series of monster attacks caused it to shut down
+    operations. In response, the camp’s foreman sends a group of adventurers
+    into the woods to bring the loggers back alive, but they quickly discover
+    the situation is more complicated than it seems.
+  released: '2017-12-04'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/228104/CCCGHC05--Trail-Of-Treachery'
+  tier: [2]
+  items:
+    - name: Icicle (Shortsword, +1)
+      rarity: uncommon
+    - name: Potion of Vitality
+      rarity: veryRare
+      consumable: true
+      count: 1
+
+
+- code: CCC-GHC-06
+  name: What You Wish For
+  description: >-
+    Deep in the forests of Cormanthor, the Golden Paragon Trading Company has
+    set up a logging camp to harvest the valuable trees of the Midwood. After
+    investigating monster attacks against the camp, adventurers have learned
+    that something more sinister might be afoot in the area. Several power
+    groups seek something dark and lost in the woods, but sometimes the worst
+    thing you can get is what you wish for.
+  released: '2017-12-04'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/228105/CCCGHC06--What-You-Wish-For'
+  tier: [2]
+  items:
+    - name: Dagger, +2
+      rarity: rare
+    - name: Potion of Invisibility
+      rarity: veryRare
+      consumable: true
+      count: 1
+
+
+- code: CCC-GHC-07
+  name: The River Runs Red
+  description: >-
+    The Golden Paragon Trading Company has been working for months to secure a
+    long-term trade deal with the Seven Suns Trading Coster, but efforts to
+    deliver the final agreements to Calaunt have each ended with dead envoys and
+    missing documents. The latest delegation recently departed Elmwood,
+    traveling south down the River Lis. The Golden Paragon seeks experienced
+    individuals to follow their representatives and ensure they reach their
+    destination safely. Can the adventurers catch them before another tragedy
+    occurs?
+  released: '2017-12-04'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/228106/CCCGHC07--The-River-Runs-Red'
+  tier: [3]
+  items:
+    - name: Ring of the Ram
+      rarity: rare
+    - name: Potion of Invisibility
+      rarity: veryRare
+      consumable: true
+      count: 1
+
+
+- code: CCC-GHC-08
+  name: Death in the Ruins
+  description: >-
+    A fire burns deep within the ruins of Fort Dalton. Have you finally found
+    the missing trade delegates you seek, or is it more of the horrid creatures
+    that dwell within the Flooded Forest hoping to lure you to your death?
+  released: '2017-12-04'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/228107/CCCGHC08--Death-In-The-Ruins'
+  tier: [3]
+  items:
+    - name: Tyr's Justice (Greatsword, +2)
+      rarity: rare
+    - name: Potion of Fire Breath
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 2
+
+
+- code: CCC-GHC-09
+  name: Swamp of Death
+  description: >-
+    Blood covers the wet, swampy ground. Some of it is yours, but much of it is
+    not. You had the delegates under your protection, if only for a short while.
+    Tracks in the mud lead deeper into the Flooded Forest, and your time may be
+    running out. Can you rescue the delegates and escape the foul swamp before
+    they meet an untimely end at the hands of their captors?
+  released: '2017-12-04'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/228108/CCCGHC09--Swamp-Of-Death'
+  tier: [3]
+  items:
+    - name: Giant Bane (Longbow, +2)
+      rarity: rare
+    - name: Potion of Vitality
+      rarity: veryRare
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Etherealness
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Wind Walk
+      rarity: veryRare
+      consumable: true
+      count: 1
+
+
+- code: CCC-GHC-BK1-01
+  name: Into the Border Kingdoms
+  description: >-
+    Night falls on the Border Kingdoms, a land rife with conflicts and schemes,
+    where lords, counts, dukes, kings, and emperors rise, proclaim themselves,
+    and are swept away with the speed and regularity of waves crashing upon a
+    shore. As you settle in for the evening at a quaint little roadhouse by the
+    name of Harker’s Cleaver, all seems quiet. Were the stories of this
+    turbulent region just that, or have the Border Kingdoms yet to reveal their
+    true nature?
+  released: '2018-12-07'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/260870/CCCGHCBK101-Into-the-Border-Kingdoms'
+  tier: [1]
+  items:
+    - name: Moon-Touched Longsword
+      rarity: common
+    - name: Quiver of Ehlonna
+      rarity: uncommon
+
+
+- code: CCC-GHC-BK1-02
+  name: The Tithes That Bind
+  description: >-
+    The Border Kingdoms are a haven of adventure, warring neighbors, and
+    marauding monsters. But something or someone has set its sights on
+    disrupting that casual chaos. Are you one of the brave adventurers who can
+    help the Gilmann merchant house uncover the mystery? Part One of the
+    *Shadows on the Border* trilogy.
+  released: '2018-12-07'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/260872/CCCGHCBK102-The-Tithes-That-Bind'
+  tier: [2]
+  items:
+    - name: Death's Head Mace (Mace of Disruption)
+      rarity: rare
+      properties:
+        - Harmonious
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Dimension Door
+      rarity: rare
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Mardin's Spellbook
+      spells:
+        - name: fog cloud
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: blindness/deafness
+          level: 2
+        - name: Melf's acid arrow
+          level: 2
+        - name: see invisibility
+          level: 2
+        - name: animate dead
+          level: 3
+        - name: fireball
+          level: 3
+        - name: counterspell
+          level: 3
+        - name: vitriolic sphere
+          level: 4
+  storyAwards:
+    - name: Champion of All Souls
+      description: |-
+        You heroically defended the Church of All Souls in the Border Kingdom
+        town of Emrys against an attack from foul undead creatures. The clergy
+        of all the different faiths that worship there are greatly indebted to
+        you.
+        
+        Whenever you are adventuring in or around the town of Emrys, you may
+        visit the Church of All Souls, and, regardless of your faith, request
+        one spell a day from the Spellcasting Services table for free (as if
+        you had the Acolyte Background). The only cost paid for the spell is
+        the base price for the consumed material component, if any is required.
+        Once you have used this story award five times, remove this feature, but
+        keep the story award. It might be of use in the future.
+
+
+- code: CCC-GHC-BK1-03
+  name: The Darkest Knight
+  description: >-
+    Rumors abound concerning the Great Oak Mercenary Company and their possible
+    role in the undead incursions plaguing the Border Kingdoms. Can you gain an
+    audience with the Great Oak himself and learn what he knows? Part Two of the
+    *Shadows on the Border* trilogy.
+  released: '2018-12-07'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/260873/CCCGHCBK103-The-Darkest-Knight'
+  tier: [2]
+  items:
+    - name: Tentacle Rod
+      rarity: rare
+    - name: Spell Scroll of Identify
+      rarity: common
+      consumable: true
+      count: 2
+
+
+- code: CCC-GHC-BK1-04
+  name: I am the Fire
+  description: >-
+    A shadow has fallen over the Border Kingdoms. Dark forces are on the move,
+    and a new power has risen. The effects of this new evil are just beginning
+    to show themselves in the villages and towns through the lands. Can a party
+    of adventurers stop the advancement of the dark forces before they wash over
+    the entire kingdoms? Part Three of the *Shadows on the Border* trilogy.
+  released: '2018-12-07'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/260874/CCCGHCBK104-I-am-the-Fire'
+  tier: [2]
+  items:
+    - name: Ring of Fire Resistance
+      rarity: rare
+  storyAwards:
+    - name: Burning Heart of Rymdyl
+      description: >-
+        You brought the wizard, Rymdyl, back to life, sacrificing the Heart of
+        the Tower—a powerful magical crystal—in the process. You have earned her
+        respect, her thanks, and her favor. You have advantage on all Charisma
+        (Persuasion) checks while within the kingdom of Talduth Vale. You also
+        have her favor in any future dealings with Rymdyl.
+
+
+- code: CCC-GHC-BK1-05
+  name: For the Glory of Bloutar!
+  description: >-
+    After being charged with recovering a relic of the “Bloodsword Baron” by a
+    distant relative of the long-dead Baron named Celban Hilathan, you have
+    journeyed into the depths of the Qurth Forest. You are told that some
+    terrible evil has taken up residence underneath the ruins of a long
+    abandoned keep and is now actively collecting artifacts of the world of the
+    living for some unknown purpose. Do you have what it takes to survive the
+    challenges of both the forest and the ruins and return with the prize?
+  released: '2018-12-07'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/260875/CCCGHCBK105-For-the-Glory-of-Bloutar'
+  tier: [2]
+  items:
+    - name: Stout (Longsword, +2)
+      rarity: rare
+    - name: Potion of Climbing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 3
+    - name: Spell Scroll of Blink
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Fabricate
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Major Image
+      rarity: uncommon
+      consumable: true
+      count: 1
+
+
+- code: CCC-GHC-BK1-06
+  name: Legacy and Virtue
+  description: >-
+    The lands of Hawkgarth have long been known as “the Wood of Many Monsters”.
+    It is rumored that an archmage of some ancient kingdom busied himself with
+    the creation of new and terrible beasts in this place, and champions from
+    all over Faerûn would come to test their mettle. A blood-red beast
+    terrorizes the villages at night, and the normally stoic residents are quick
+    to recruit able-bodied heroes. Too bad you're not their first choice!
+  released: '2018-12-07'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/260876/CCCGHCBK106-Legacy-and-Virtue'
+  tier: [1]
+  items:
+    - name: Circlet of Blasting
+      rarity: uncommon
+    - name: Antitoxin (vial)
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Anders Tharion Rescued
+      description: >-
+        You rescued Anders Tharion, a young noble that had been kidnapped from
+        Talduth Vale. Whether or not he shows up in your later adventures
+        remains to be seen, but he will surely remember your impact regardless.
+
+
+- code: CCC-GHC-BK1-07
+  name: The Peculiar Case of the Selptan Felines
+  description: >-
+    Well that’s odd. There sure are a lot of cats in the hamlet of Selpt. In
+    fact, it seems as if just about everyone has one, and boy do they pamper
+    those cats. Even if you’ve never been a cat person, it’s hard to say no. In
+    fact, you should probably be adopted by one straight away. Yes, that’s it.
+    You belong to that cat. Who’s a pretty human?
+  released: '2018-12-07'
+  creator: Gamehole Publishing
+  url: >-
+    https://www.dmsguild.com/product/260877/CCCGHCBK107-The-Peculiar-Case-of-the-Selptan-Felines
+  tier: [1]
+  items:
+    - name: Helm of Telepathy
+      rarity: uncommon
+    - name: Spell Scroll of Beast Bond
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Snare
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Feline Friend Forever
+      description: >-
+        While your cat no longer has any magical bond to you and has lost all of
+        their abilities, they remain affectionate toward you and have followed
+        you from Selpt. As a final gift from the hive mind, they have been
+        granted long life. As long as you care for your cat, they will never
+        leave you; growing old together with you. Your cat’s statistics are as a
+        normal cat from the *Monster Manual*. Your cat is a suitable target for
+        the *find familiar* spell, should you be able to cast it.
+      type: pet
+
+
+- code: CCC-GHC-BK1-08
+  name: The Hunt for Cutter Jack
+  description: >-
+    Rumor has it the brigand Cutter Jack is holed up with his latest score in
+    one of the haunted keeps outside Arnglar. There's a tidy bounty on Cutter
+    Jack's head too, so it might be worth checking out.
+  released: '2018-12-07'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/260878/CCCGHCBK108-The-Hunt-for-Cutter-Jack'
+  tier: [1]
+  items:
+    - name: Ilmater’s Bleeding Heart (Periapt of Wound Closure)
+      rarity: uncommon
+  storyAwards:
+    - name: It’s a Princess Cut
+      description: >-
+        Should you successfully return the diamonds to Irl with Brini Fendoun,
+        the owners and operators of A Handful of Diamonds gem emporium offer to
+        teach you how to inspect and cut gems. You spend 180 downtime days in
+        Irl learning apprentice gem cutting, at the end of which you are
+        proficient with jeweler’s tools and are given a set of the same.
+      type: downtime
+
+
+- code: CCC-GHC-BK1-09
+  name: Scavengers
+  description: >-
+    Peryton are known the world over as fearsome foes and gruesome battlefield
+    scavengers. To keep the population under control, the small kingdom of
+    Hawkgarth sponsors an annual peryton hunt. It's an opportunity to make a
+    little coin and build your heroic legacy—what could go wrong?
+  released: '2018-12-07'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/260879/CCCGHCBK109-Scavengers'
+  tier: [1]
+  items:
+    - name: Bag of Tricks (Gray)
+      rarity: uncommon
+
+
+- code: CCC-GHC-BK1-10
+  name: The Heart of Shadow
+  description: >-
+    A great evil is rising in the Border Kingdoms. The dead walk the wilderness
+    in greater numbers than ever before. As if they are driven to some hidden
+    task or agenda. But they aren’t the only thing stirring in the wilds of the
+    kingdoms. More shadows have woken in the dark places that the weak of will
+    dare not go, but where the brave will dive into the heart of. Which are you?
+  released: '2018-12-07'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/260880/CCCGHCBK110-The-Heart-of-Shadow'
+  tier: [3]
+  items:
+    - name: 'Angel Sting (Dancing Sword, Rapier)'
+      rarity: veryRare
+    - name: Potion of Flying
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+
+
+- code: CCC-GHC-BK2-01
+  name: Shadows of Rith Keep
+  description: >-
+    The ruins of Rith Keep lie a short distance from the small Border Kingdoms
+    thorp of Largrin. In times past, the keep was home to the self-appointed
+    River Lord of Largrin, a warrior of great skill who protected the
+    surrounding lands. It is now little more than a stone shell, which rumors
+    say is haunted. Are these tales simply the fanciful stories of local beet
+    farmers, or does something more sinister lurk in the shadows of Rith Keep?
+  released: '2020-05-11'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/313193/CCCGHCBK201-Shadows-of-Rith-Keep'
+  tier: [1]
+  items:
+    - name: Charlatan's Die
+      rarity: common
+    - name: Saddle of the Cavalier
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Bless
+      rarity: common
+      consumable: true
+      count: 1
+
+
+- code: CCC-GHC-BK2-02
+  name: The Folly of Sneaky Simon
+  description: >-
+    The council of merchant dukes from the town of Emrys have recently been
+    troubled by a highwayman outside of the city spooking off would be merchants
+    and customers alike. Whispers speak of a tiny demon in a red hat with knives
+    faster than sound, but what is the real truth?
+  released: '2020-05-11'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/313301/CCCGHCBK202-The-Folly-of-Sneaky-Simon'
+  tier: [1]
+  items:
+    - name: Decanter of Endless Water
+      rarity: uncommon
+      properties:
+        - Compass
+    - name: Potion of Animal Friendship
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+
+
+- code: CCC-GHC-BK2-03
+  name: Framed in Felshroun
+  description: >-
+    As the heroes are celebrating vanquishing a cursed spirit in Felshroun, they
+    find out it’s not as dead as they’d hoped. A frantic chase through the city
+    ensues. Can the heroes banish it for good before too much damage is done?
+  released: '2020-05-11'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/313304/CCCGHCBK203-Framed-in-Felshroun'
+  tier: [1]
+  items:
+    - name: Cloak of the Manta Ray
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+  storyAwards:
+    - name: Hero of Felshroun
+      description: >-
+        You are known, throughout Felshroun, as a hero of the city. Foresters
+        will treat you with respect, and generally assume you’re on the
+        up-and-up. The Baron will listen seriously to what you have to say.
+
+
+- code: CCC-GHC-BK2-04
+  name: Wicked Little Things
+  description: >-
+    Lord Barlett is at the end of his wit trying to keep his Manor together.
+    Doors slamming, objects disappearing, harm upon the Manor children and more
+    have plagued the estate for far too long. Can the adventurers determine the
+    cause of these events?
+  released: '2020-05-11'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/313307/CCCGHCBK204-Wicked-Little-Things'
+  tier: [1]
+  items:
+    - name: Wand of Secrets
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+
+
+- code: CCC-GHC-BK2-05
+  name: Finglebruggle's Phantomball Field
+  description: >-
+    The heroes are pulled into a fast-paced sport played in certain parts of the
+    Border Kingdoms. But the trophy, the community's pride and joy, is stolen by
+    a vengeful wizard who challenges the party to retrieve it in his own private
+    “Finglebruggleball“ dungeon. Can the heroes use their newly acquired sports
+    skills to overcome the wizard's deadly traps and mysteries?
+  released: '2020-05-15'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/313797/CCCGHCBK205-Finglebruggles-Phantomball-Field'
+  tier: [2]
+  items:
+    - name: Boots of Striding and Springing
+      rarity: uncommon
+  storyAwards:
+    - name: Phantomball Champion
+      description: >-
+        You are a champion phantomball player, and your status has spread
+        throughout the region. Any civilized NPC you meet for the first time in
+        the Border Kingdoms has a chance of being a phantomball fan who
+        recognizes you.
+
+
+- code: CCC-GHC-BK2-06
+  name: 'Eye of Darkness, Heart of Light'
+  description: >-
+    Undead hordes continue to ravage Blackbarn, but hope exists. To the north in
+    the deep wood lies a ruined tower, and within a nearly-forgotten item is
+    rumored capable of drawing the walking dead to it. Can you find the Eye of
+    Darkness and harness its dark energies for the good of Blackbarn?
+  released: '2020-05-15'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/313798/CCCGHCBK206-Eye-of-Darkness-Heart-of-Light'
+  tier: [2]
+  items:
+    - name: Mind Fortress (Ring of Mind Shielding)
+      rarity: uncommon
+    - name: Potion of Climbing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Heart of Light
+      description: >-
+        One character—yours—was trusted by one of the spirits of Ravinan. This
+        blessing manifests as a glowing light radiating from the character’s
+        chest where their heart would be, while in the presence of the Eye of
+        Darkness. This story award may have an impact in future Border Kingdoms
+        adventures.
+
+
+- code: CCC-GHC-BK2-07
+  name: In The Dead of Knight
+  description: >-
+    When a young prince’s parents are kidnapped, it is the characters who answer
+    the call for help. Can they learn the hidden truth before it's too late or
+    will they join countless other unfortunate souls, forgotten and dead in
+    fetid swamp waters?
+  released: '2020-05-11'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/313308/CCCGHCBK207-In-The-Dead-of-Knight'
+  tier: [2]
+  items:
+    - name: Hat of Disguise
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Potion of Resistance (Cold)
+      rarity: uncommon
+      consumable: true
+      count: 1
+
+
+- code: CCC-GHC-BK2-08
+  name: Ancient Rivals
+  description: >-
+    A chilling darkness continues to creep across the Border Kingdoms. House
+    Gilmann, a wealthy merchant house from Emrys, has discovered the members of
+    one of its caravans are possessed by evil spirits. Can you discover the
+    source of the possessions in time to save them?
+  released: '2020-05-15'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/313799/CCCGHCBK208-Ancient-Rivals'
+  tier: [3]
+  items:
+    - name: Clockwork Amulet
+      rarity: common
+    - name: Staff of Healing
+      rarity: rare
+    - name: Potion of Giant Strength (Cloud)
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Fyndulaas's Spellbook
+      spells:
+        - name: detect magic
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: shield
+          level: 1
+        - name: thunderwave
+          level: 1
+        - name: detect thoughts
+          level: 2
+        - name: invisibility
+          level: 2
+        - name: Melf's acid arrow
+          level: 2
+        - name: mirror image
+          level: 2
+        - name: animate dead
+          level: 3
+        - name: counterspell
+          level: 3
+        - name: dispel magic
+          level: 3
+        - name: fireball
+          level: 3
+        - name: blight
+          level: 4
+        - name: dimension door
+          level: 4
+        - name: cloudkill
+          level: 5
+        - name: scrying
+          level: 5
+        - name: disintegrate
+          level: 6
+        - name: globe of invulnerability
+          level: 6
+        - name: finger of death
+          level: 7
+        - name: plane shift
+          level: 7
+        - name: dominate monster
+          level: 8
+        - name: power word stun
+          level: 8
+        - name: power word kill
+          level: 9
+      note: >-
+        Written in the very back of the book are scribed the true names of three
+        demons that Fyndulaas would oft times summon to do his bidding:
+        Gaggazoth, the Cleaver of the Horned King (a **tanarukk**); Valgurrek
+        the Gluttonous (a **barlgura**); Thurzroggad, Scythe of the Six Fingered
+        Lord (a **babau**).
+
+
+- code: CCC-GHC-BK2-09
+  name: Breath of Fire
+  description: >-
+    One of the merchant princes of the Border Kingdoms has a truly heroic quest
+    for you. Reports from the south talk of a fire breathing beast that is
+    causing problems with the caravans along the roads. The task is more than to
+    just slay the beast—this merchant is looking to make use of an artifact that
+    came into his possession. He wants you to capture it with the artifact and
+    return it to him, to use for the betterment of the entire Border Kingdoms.
+    Are you up to the task?
+  released: '2020-05-11'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/313309/CCCGHCBK209-Breath-of-Fire'
+  tier: [3]
+  items:
+    - name: Dark Shard Amulet
+      rarity: common
+    - name: Figurine of Wonderous Power (Onyx Dog)
+      rarity: rare
+    - name: Potion of Giant Strength (Frost)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+
+
+- code: CCC-GHC-BK3-09
+  name: A Convergence of Gods
+  description: >-
+    The area known as Godswalk Keep has been showing signs of activity. Are the
+    Bloodreavers really working towards bringing back Garagos and restoring him
+    to divine status? Only true heroes of the Border Kingdoms can stop them.
+  released: '2021-01-26'
+  creator: Gamehole Publishing
+  url: 'https://www.dmsguild.com/product/344639/CCCGHCBK0309-A-Convergence-of-Gods'
+  tier: [4]
+  length: 4
+  apl: 18
+  credits:
+    - name: Anthony Joyce
+      role: Lead Designer
+      key: true
+    - name: Ed Greenwood
+      role: Additional Design and Consultation
+    - name: Ethan Yen
+      role: Editing
+    - name: Joe Alfano
+      role: Border Kingdoms Loresmiths
+    - name: Tim Mangan
+      role: Border Kingdoms Loresmiths
+    - name: Rick O'Donnell
+      role: Border Kingdoms Loresmiths
+    - name: Ethan Yen
+      role: Border Kingdoms Loresmiths
+    - name: Dave Zajac
+      role: Layout
+    - name: Tim Mangan
+      role: Layout
+    - name: Matthew Sargent
+      role: Cover Art
+    - name: Cze and Peku
+      role: Cartographer
+    - name: Mike Schley
+      role: Cartographer
+    - name: Justice Arman
+      role: Special Thanks
+    - name: Noah Grand
+      role: Special Thanks
+    - name: Alan Patrick
+      role: Special Thanks
+    - name: Shawn Merwin
+      role: Special Thanks
+  items:
+    - name: Tome of the Stilled Tongue
+      rarity: legendary
+    - name: Elixir of Health
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Oil of Sharpness
+      rarity: veryRare
+      consumable: true
+      count: 1

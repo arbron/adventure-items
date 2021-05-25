@@ -42,7 +42,7 @@ for file in yamlFiles {
     adventures.append(contentsOf: try yamlDecoder.decode([Adventure].self, from: file.readAsString()))
 }
 
-adventures.sort { (lhs, rhs) in lhs.code < rhs.code }
+adventures.sort { (lhs, rhs) in lhs.code.localizedStandardCompare(rhs.code) == .orderedAscending }
 
 
 // This will generate your website using the built-in Foundation theme:

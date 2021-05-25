@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Mon, 24 May 2021 21:31:07 -0700</lastBuildDate><pubDate>Mon, 24 May 2021 21:31:07 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</guid><title>CCC-ZIEGE-04-02 - The Widow's Fang</title><description>The Adventures of Cherise and Antonia (Bag of Tricks, Tan), 2 potions, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</link><pubDate>Mon, 24 May 2021 21:31:08 -0700</pubDate><content:encoded><![CDATA[<section>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Tue, 25 May 2021 14:34:25 -0700</lastBuildDate><pubDate>Tue, 25 May 2021 14:34:25 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddao-48</guid><title>DDAO-48 - Pomp</title><description>Moose Bite (Lifewell Tattoo) and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ddao-48</link><pubDate>Tue, 25 May 2021 14:34:29 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>Pomp</h1>
+  <h3>Author Only Adventure for Tier 2</h3><p>Nestled deep inside a broken temple, something has awoken. Hunters are missing and the stench of death rolls across the Spine of the World. What hope can be found within the icy clutches of Icewind Dale when ancient secrets greet the light?</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Moose Bite (Lifewell Tattoo)</span>
+        <em class="entry-label"> Very Rare</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>A Moose Named Death
+      <em class="entry-label"> Pet</em>
+    </summary><p>The howling winds of Icewind Dale keep many things secret and hidden from the prying eyes of the world. For instance, the Netherese temple dedicated to Jergal, the ancient god of death, has lain dormant and alone for many hundreds of years. But you're an adventurer and when an opportunity arises to investigate (and loot!) the temples of old, you rise to the occasion. And this time was no exception—your deeds inspired the echoes of a lost god and you now find yourself in the (somewhat unenviable) position of being caretaker of his agent.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddao-38</guid><title>DDAO-38 - The Green Isle</title><description>Elven Chain and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ddao-38</link><pubDate>Tue, 25 May 2021 14:34:29 -0700</pubDate><content:encoded><![CDATA[<section>
+  <h1>The Green Isle</h1>
+  <h3>Author Only Adventure for Tier 2</h3><p>Laeral Silverhand has tasked you with sailing to the seemingly-abandoned island of Evermeet—what will you find there?</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Elven Chain</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+    </ul>
+  </p>
+  <h2>Story Awards</h2>
+  <details class="story-award">
+    <summary>The Moon-Horse
+      <em class="entry-label"> Pet</em>
+    </summary><p>A Moon-Horse takes a liking to you and decides to follow you home.</p>
+  </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</guid><title>CCC-ZIEGE-04-02 - The Widow's Fang</title><description>The Adventures of Cherise and Antonia (Bag of Tricks, Tan), 2 potions, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-02</link><pubDate>Tue, 25 May 2021 14:34:28 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>The Widow's Fang</h1>
   <h3>Convention Created Content  for Tier 1</h3><p>More than three decades ago, a young child became ill with a horrible disease and died. Instead of departing, her spirit lingered on as a ghost, haunting the hospital where she spent the last days of her life. Now, a new owner hopes to reopen the hospital, but first the ghost must be exorcised. Can you help the child find peace at last?</p>
   <h2>Items</h2>
@@ -18,7 +54,7 @@
       </li>
     </ul>
   </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</guid><title>CCC-ZIEGE-04-01 - The Miser's Glory</title><description>Lantern of Revealing</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</link><pubDate>Mon, 24 May 2021 21:31:08 -0700</pubDate><content:encoded><![CDATA[<section>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</guid><title>CCC-ZIEGE-04-01 - The Miser's Glory</title><description>Lantern of Revealing</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ziege-04-01</link><pubDate>Tue, 25 May 2021 14:34:28 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>The Miser's Glory</h1>
   <h3>Convention Created Content  for Tier 1</h3><p>Three decades ago, a terrible disease swept through the town of Shadeharbor. Nearly half the population of the village died before it ended. The cause of the disease was never discovered. Now, the town leaders from that time are turning up dead. Can you unearth the secrets that have lain buried in Shadehabor all this time?</p>
   <h2>Items</h2>
@@ -30,42 +66,6 @@
       </li>
     </ul>
   </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddao-48</guid><title>DDAO-48 - Pomp</title><description>Moose Bite (Lifewell Tattoo) and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ddao-48</link><pubDate>Mon, 24 May 2021 21:31:07 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Pomp</h1>
-  <h3>Author Only Adventure for Tier 2</h3><p>Nestled deep inside a broken temple, something has awoken. Hunters are missing and the stench of death rolls across the Spine of the World. What hope can be found within the icy clutches of Icewind Dale when ancient secrets greet the light?</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Moose Bite (Lifewell Tattoo)</span>
-        <em class="entry-label"> Very Rare</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>A Moose Named Death
-      <em class="entry-label"> Pet</em>
-    </summary><p>The howling winds of Icewind Dale keep many things secret and hidden from the prying eyes of the world. For instance, the Netherese temple dedicated to Jergal, the ancient god of death, has lain dormant and alone for many hundreds of years. But you're an adventurer and when an opportunity arises to investigate (and loot!) the temples of old, you rise to the occasion. And this time was no exception—your deeds inspired the echoes of a lost god and you now find yourself in the (somewhat unenviable) position of being caretaker of his agent.</p>
-  </details>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddao-38</guid><title>DDAO-38 - The Green Isle</title><description>Elven Chain and a story award</description><link>https://arbron.github.io/adventure-items/adventures/ddao-38</link><pubDate>Mon, 24 May 2021 21:31:07 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>The Green Isle</h1>
-  <h3>Author Only Adventure for Tier 2</h3><p>Laeral Silverhand has tasked you with sailing to the seemingly-abandoned island of Evermeet—what will you find there?</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Elven Chain</span>
-        <em class="entry-label"> Rare</em>
-      </li>
-    </ul>
-  </p>
-  <h2>Story Awards</h2>
-  <details class="story-award">
-    <summary>The Moon-Horse
-      <em class="entry-label"> Pet</em>
-    </summary><p>A Moon-Horse takes a liking to you and decides to follow you home.</p>
-  </details>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon12-1</guid><title>CCC-BMG-MOON12-1 - Nothing Is Sacred</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon12-1</link><pubDate>Wed, 19 May 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
   <h1>Nothing Is Sacred</h1>
   <h3>Convention Created Content  for Tier 3
@@ -497,6 +497,32 @@
   <details class="story-award">
     <summary>Captured Goliaths</summary><p>Nararhak Tree-Eye and some of the goliath hunters you encountered were captured by spiderlike creatures Lieutenant Prook calls “neogi.”</p>
   </details>
+</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ghc-bk3-09</guid><title>CCC-GHC-BK3-09 - A Convergence of Gods</title><description>Tome of the Stilled Tongue, a potion, and 2 other items</description><link>https://arbron.github.io/adventure-items/adventures/ccc-ghc-bk3-09</link><pubDate>Mon, 25 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
+  <h1>A Convergence of Gods</h1>
+  <h3>Convention Created Content  for Tier 4
+    <em class="release"> Released  by Gamehole Publishing on January 25, 2021</em>
+  </h3><p>The area known as Godswalk Keep has been showing signs of activity. Are the Bloodreavers really working towards bringing back Garagos and restoring him to divine status? Only true heroes of the Border Kingdoms can stop them.</p>
+  <h2>Items</h2>
+  <p>
+    <ul>
+      <li>
+        <span>Tome of the Stilled Tongue</span>
+        <em class="entry-label"> Legendary</em>
+      </li>
+      <li>1 x 
+        <span>Elixir of Health</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Potion of Heroism</span>
+        <em class="entry-label"> Rare</em>
+      </li>
+      <li>1 x 
+        <span>Oil of Sharpness</span>
+        <em class="entry-label"> Very Rare</em>
+      </li>
+    </ul>
+  </p>
 </section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-04</guid><title>DDAL10-04 - Cold Benevolence</title><description>Robe of Useful Items, a potion, and 3 story awards</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-04</link><pubDate>Mon, 25 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<section>
   <h1>Cold Benevolence</h1>
   <h3>Season 10 Adventure for Tier 1
@@ -2377,28 +2403,6 @@
       <li>1 x 
         <span>Spell Scroll of Scorching Ray</span>
         <em class="entry-label"> Uncommon</em>
-      </li>
-    </ul>
-  </p>
-</section>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-wwc-10</guid><title>CCC-WWC-10 - Brental's Roads Scholars</title><description>Immovable Rod, a potion, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/ccc-wwc-10</link><pubDate>Sun, 3 May 2020 17:00:00 -0700</pubDate><content:encoded><![CDATA[<section>
-  <h1>Brental's Roads Scholars</h1>
-  <h3>Convention Created Content  for Tier 1
-    <em class="release"> Released  on May 3, 2020</em>
-  </h3><p>Brental's Caravan Company offers a training course for adventurers seeking the vaunted title Brental's Roads Scholar. Will you prove yourselves worthy?</p>
-  <h2>Items</h2>
-  <p>
-    <ul>
-      <li>
-        <span>Immovable Rod</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Potion of Greater Healing</span>
-        <em class="entry-label"> Uncommon</em>
-      </li>
-      <li>1 x 
-        <span>Spell Scroll of Alarm</span>
-        <em class="entry-label"> Common</em>
       </li>
     </ul>
   </p>

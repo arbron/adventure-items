@@ -1,0 +1,446 @@
+- code: DDAL-DRW-01
+  name: Breaking Umberlee's Resolve
+  description: >-
+    The search for a missing young woman kicks off a treacherous journey on the
+    *Sea of Fallen Stars*.
+  released: '2019-07-06'
+  url: 'https://www.dmsguild.com/product/273777/DDALDRW01-Breaking-Umberlees-Resolve'
+  tier: 2
+  length: 4-6
+  apl: 8
+  credits:
+    - name: Ashley Warren
+      role: Lead Designer
+      key: true
+    - name: Chris Lindsay
+      role: Designer
+    - name: Will Ansell
+      role: Consultant
+    - name: Chris Lindsay
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director & Graphic Designer
+    - name: Dyson Logos
+      role: Art/Cartography
+    - name: Mike Schley
+      role: Art/Cartography
+  items:
+    - name: Iron Bands of Bilarro
+      rarity: rare
+  storyAwards:
+    - name: Zehira’s Allyship
+      description: >-
+        As a thanks for freeing her from the morkoth lair, Zehira becomes a
+        staunch ally of the characters. She boldly assumes command of Umberlee’s
+        Resolve. Upon return to Turmish, she makes amends with her parents and
+        takes on the role of a privateer captain sailing under the flag of
+        Turmish. She accompanies the characters on the next adventure.
+
+
+- code: DDAL-DRW-02
+  name: Blood in the Water
+  description: >-
+    An exploration to the underwater city of Myth Nantar leads to a conspiracy,
+    a mystery, and a heist.
+  released: '2019-07-06'
+  url: 'https://www.dmsguild.com/product/282024/DDALDRW02-Blood-in-the-Water'
+  tier: 2
+  length: 4-6
+  apl: 8
+  credits:
+    - name: Ashley Warren
+      role: Lead Designer
+      key: true
+    - name: Chris Lindsay
+      role: Designer
+    - name: Will Ansell
+      role: Consultant
+    - name: Claire Hoffman
+      role: Editing
+    - name: Travis Woodall
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director & Graphic Designer
+  items:
+    - name: Bowl of Commanding Water Elementals
+      rarity: rare
+  storyAwards:
+    - name: Thessalia’s Allyship
+      description: >-
+        Helping Thessalia retrieve the bowl of commanding water elementals earns
+        them her allyship. Thessalia is less of a fighter and more of a scholar,
+        but she gladly helps research topics that aid in their quest. Like
+        Zehira, Thessalia is proudly Turmish and wants to keep her homeland free
+        from Thay.
+
+
+- code: DDAL-DRW-03
+  name: Saving Silverbeard
+  description: >-
+    Powerful elements collide in the wake of the attack on Myth Nantar. The
+    conclusion to the haunting sea-faring tale on the *Sea of Fallen Stars*.
+  released: '2019-09-26'
+  url: 'https://www.dmsguild.com/product/285151/DDALDRW03-Saving-Silverbeard'
+  tier: 3
+  length: 4-6
+  apl: 8
+  credits:
+    - name: Ashley Warren
+      role: Lead Designer
+      key: true
+    - name: Chris Lindsay
+      role: Designer
+    - name: Will Ansell
+      role: Consultant
+    - name: Rich Lescouflair
+      role: Art Director & Graphic Designer
+  items:
+    - name: Helm of Brilliance
+      rarity: veryRare
+  storyAwards:
+    - name: Turmish Hospitality
+      description: >-
+        As a thanks for their aid in uncovering the Thayan plot, Turmish become
+        a safe harbor for the characters, and they are always offered a place to
+        stay. Zehira remains a friend to the party.
+
+
+- code: DDAL-DRW-04
+  name: Foreign Affairs
+  description: >-
+    An invitation to the storm giant court of King Hekaton becomes a
+    continent-spanning mystery that could change the face of Faerûn. Part One of
+    the *Storm King’s Descent* series of adventures.
+  released: '2020-08-31'
+  url: 'https://www.dmsguild.com/product/326717/DDALDRW04-Foreign-Affairs'
+  tier: 3
+  length: 4-6
+  apl: 13
+  credits:
+    - name: Greg Marks
+      role: Lead Designer
+    - name: Ginny Loveday
+      role: Designer
+      key: true
+    - name: Scott Fitzgerald Gray
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director & Graphic Designer
+    - name: Travis Woodall
+      role: Cartography
+  items:
+    - name: Dragontooth Dagger
+      rarity: rare
+    - name: Necklace of Fireballs
+      rarity: rare
+    - name: Shield of the Uven Rune
+      rarity: veryRare
+    - name: Potion of Supreme Healing
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Ally of the Zulkir
+      description: >-
+        You have agreed to work with the Thayan zulkir of enchantment, Dar’lon Ma.
+    - name: A Costly Ride
+      description: >-
+        You offered a favor to the wizard Khynree and passed up a chance to
+        repay that debt. Since you refused him once, your debt has grown. To
+        clear your debt, Khynree requires that you forfeit a common or rarer
+        permanent magic item or a rare or rarer consumable magic item.
+
+
+- code: DDAL-DRW-05
+  name: Uncertain Scrutiny
+  description: >-
+    In search of King Hekaton, you must enter the dread land of Thay—but getting
+    in will prove less difficult than getting out. Part Two of the *Storm King’s
+    Descent* series of adventures.
+  released: '2020-09-28'
+  url: 'https://www.dmsguild.com/product/330203/DDALDRW05-Uncertain-Scrutiny'
+  tier: 3
+  length: 6
+  apl: 13
+  credits:
+    - name: Greg Marks
+      role: Lead Designer
+    - name: Ben Heisler
+      role: Designer
+      key: true
+    - name: Paige Leitman
+      role: Special Thanks
+    - name: Shawn Banerjee
+      role: Special Thanks
+    - name: Scott Fitzgerald Gray
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director & Graphic Designer
+    - name: Paige Leitman
+      role: Cartography
+  items:
+    - name: Cape of the Mountebank
+      rarity: rare
+    - name: Horn of Silent Alarm
+      rarity: common
+    - name: Ioun Stone of Celebration
+      rarity: common
+      properties:
+        - Harmonious
+    - name: Staff of Frost
+      rarity: veryRare
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Vitality
+      rarity: veryRare
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Forcecage
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Mass Cure Wounds
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Tile of Teleport
+      rarity: veryRare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Liberator
+      description: >-
+        You rescued the Thayan political prisoner Trildor Zihial from the
+        dungeons beneath the Citadel, and he survived to tell the tale. He owes
+        you his life and swears to dedicate his freedom to continuing to oppose
+        Szass Tam’s tyrannical rule over Thay.
+
+
+- code: DDAL-DRW-06
+  name: Thimblerigging
+  description: >-
+    The chase is on to recover the stolen Wyrmskull Throne. Getting ahead of the
+    Cult of the Dragon will require secret lore, favors from new friends—and an
+    excursion to a site of forgotten horrors. Part Three of the *Storm King’s
+    Descent* series of adventures.
+  released: '2020-10-28'
+  url: 'https://www.dmsguild.com/product/333727/DDALDRW06-Thimblerigging'
+  tier: 3
+  length: 6
+  apl: 13
+  credits:
+    - name: Greg Marks
+      role: Lead Designer
+    - name: M.T. Black
+      role: Designer
+      key: true
+    - name: Scott Fitzgerald Gray
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director & Graphic Designer
+    - name: Travis Woodall
+      role: Cartography
+  items:
+    - name: Necklace of Prayer Beads
+      rarity: rare
+    - name: Ioun Stone of Vitality
+      rarity: veryRare
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Code Breaker
+      description: >-
+        You have made a copy of *The Death of the Mind*, the book requested by
+        Master Reader Alsbith. Written in a code using an ancient dialect of
+        Chultan, the book is nearly indecipherable. If you speak Chultan or can
+        use magic or class features every day to read it, you can attempt to
+        break the code. Spend 10 DT and attempt a DC 20 Intelligence check in
+        front of your DM. If you are successful, you will eventually crack the
+        code in a future adventure. If not, you fail, but you can choose to
+        spend another 10 DT and try again.
+
+
+- code: DDAL-DRW-07
+  name: Moment of Peace
+  description: >-
+    Armed with a ritual that will let them track the *Wyrmskull Throne*, the
+    characters travel to distant mountain, magical desert, and the Outer
+    Planes—but all their success might yet be undone by a vengeful enemy.
+    Part Four of the *Storm King’s Descent* series of adventures.
+  released: '2021-01-26'
+  url: 'https://www.dmsguild.com/product/344671/DDALDRW07-Moment-of-Peace'
+  tier: 3
+  length: 6
+  apl: 13
+  credits:
+    - name: Greg Marks
+      role: Lead Designer
+    - name: Toni Winslow-Brill
+      role: Designer
+      key: true
+    - name: Scott Fitzgerald Gray
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director & Graphic Designer
+    - name: Travis Woodall
+      role: Cartography
+  items:
+    - name: Dancing Longsword
+      rarity: veryRare
+    - name: Stonespeaker Crystal
+      rarity: rare
+    - name: Elixir of Health
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Passwall
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of True Seeing
+      rarity: veryRare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Oathbreaker
+      description: >-
+        Whether by choice or by circumstance, you have failed to fulfill your
+        promise to V'zree of reaching out to the soul of the drow arcanist
+        X'althoa, then gloating about how V'zree shared the secret of the
+        *soultheft* spell. But with V'zree trapped in Carceri, surely there will
+        be no consequences.
+
+
+- code: DDAL-DRW-08
+  name: The Harrowing of Hell
+  description: >-
+    King Hekaton’s soul is trapped in the Nine Hells—and the characters must
+    brave trials on Avernus, Acheron, and in the mind of the storm giant king
+    to win it back from the Lord of Lies. Part Six of the *Storm King’s Descent*
+    series of adventures.
+  released: '2021-03-11'
+  url: 'https://www.dmsguild.com/product/349905/DDALDRW08-The-Harrowing-of-Hell'
+  tier: 4
+  length: 8
+  apl: 18
+  credits:
+    - name: Greg Marks
+      role: Lead Designer
+    - name: Carl Sibley
+      role: Designer
+      key: true
+    - name: Scott Fitzgerald Gray
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director & Graphic Designer
+    - name: Dyson Logos
+      role: Cartography
+    - name: Carl Sibley
+      role: Cartography
+  items:
+    - name: Chime of Opening
+      rarity: rare
+    - name: Oathbow
+      rarity: veryRare
+    - name: Scarab of Protection
+      rarity: legendary
+    - name: Potion of Storm Giant Strength
+      rarity: legendary
+      consumable: true
+      count: 1
+    - name: Potion of Vitality
+      rarity: veryRare
+      consumable: true
+      count: 3
+  storyAwards:
+    - name: Burn, Baby, Burn
+      description: >-
+        Asmodeus has imprisoned your soul within a *soul coin* and fed it to an
+        infernal war machine’s engine, destroying your soul instantly. Not even
+        divine intervention can resurrect you now. Your character is permanently
+        retired.
+    - name: No Exceptions!
+      description: >-
+        You’ve broken one of Mahadi’s rules for the Wandering Emporium: “No
+        fighting! No spellcasting! No exceptions!” You’ve been kicked out of
+        the emporium, and are banned from ever entering it again.
+    - name: Knight of the Giant Queen
+      description: >-
+        You have sworn allegiance to Serissa, the storm giant queen, and have
+        joined her court at Maelstrom. The vow you have sworn to her supersedes
+        all other oaths.
+
+
+- code: DDAL-DRWEP-01
+  name: Assault on Myth Nantar
+  description: >-
+    Thay has set it sights on taking the underwater city of Myth Nantar. Can you
+    stop a full-on invasion by its undead armada, or will the elves be looking
+    for a new home?
+  released: '2019-08-01'
+  tier: [2, 3]
+  length: 4
+  apl: [8, 13]
+  credits:
+    - name: Amy Lynn Dzura
+      role: Designer
+      key: true
+    - name: James Introcaso
+      role: Designer
+      key: true
+    - name: Amy Lynn Dzura
+      role: Cartography
+    - name: Dyson Logos
+      role: Cartography
+  items:
+    - name: Gloves of Swimming and Climbing
+      rarity: uncommon
+    - name: Staff of Thunder and Lightning
+      rarity: veryRare
+    - name: Tentacle Rod
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+
+
+- code: DDAL-DRWEP-02
+  name: Wings of Death
+  description: >-
+    The treachery and master plan of Thay are at last revealed—and heroes are
+    needed for a final assault to prevent the return of one of Faerûn’s greatest
+    evils! Part Five of the *Storm King’s Descent* series of adventures.
+  released: '2021-03-11'
+  url: 'https://www.dmsguild.com/product/349908/DDALDRWEP02-Wings-of-Death'
+  tier: [3, 4]
+  length: 4
+  apl: [13, 18]
+  credits:
+    - name: Greg Marks
+      role: Lead Designer
+    - name: Emily Harmon
+      role: Designer
+      key: true
+    - name: Garrett Colon
+      role: Designer
+      key: true
+    - name: Scott Fitzgerald Gray
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director & Graphic Designer
+  missing:
+    - items
+    - pdf

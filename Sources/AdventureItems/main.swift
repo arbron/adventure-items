@@ -25,21 +25,25 @@ struct AdventureItemsSite: Website {
     static let indentationMode: Indentation.Kind = .spaces(2)
 }
 
-// JSON Decoding
+// Decoding
 let jsonDecoder = JSONDecoder()
 jsonDecoder.dateDecodingStrategy = .formatted(.iso8601date)
+let yamlDecoder = YAMLDecoder()
 
 let dataFolder = try Folder.packageFolder(path: "Data/")
-let jsonFiles = dataFolder.files.recursive.compactMap { $0.extension == "json" ? $0 : nil }
+var adventures: [Adventure] = .init()
 
-var adventures: [Adventure] = try jsonDecoder.decode([Adventure].self, files: jsonFiles)
+for file in dataFolder.files.recursive {
+    switch file.extension {
+    case "json":
+        adventures.append(contentsOf: try jsonDecoder.decode([Adventure].self, from: file.read()))
+    case "yaml":
+        adventures.append(contentsOf: try yamlDecoder.decode([Adventure].self, from: file.readAsString(encodedAs: .utf8)))
+    default:
+        continue
+    }
 
-// YAML Decoding
-let yamlDecoder = YAMLDecoder()
-let yamlFiles = dataFolder.files.recursive.compactMap { $0.extension == "yaml" ? $0 : nil }
-for file in yamlFiles {
     fputs("Loading Adventures from \(file.name)\n", stdout)
-    adventures.append(contentsOf: try yamlDecoder.decode([Adventure].self, from: file.readAsString()))
 }
 
 adventures.sort { (lhs, rhs) in lhs.code.localizedStandardCompare(rhs.code) == .orderedAscending }

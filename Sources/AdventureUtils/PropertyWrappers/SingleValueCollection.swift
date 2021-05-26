@@ -53,3 +53,25 @@ extension SingleValueCollection: ExpressibleByArrayLiteral where Value: Expressi
         wrappedValue = elements as! Value?
     }
 }
+
+extension KeyedEncodingContainer {
+    public mutating func encode<T: Collection & Encodable>(_ value: SingleValueCollection<T>, forKey key: Key) throws where T.Element: Encodable {
+        guard let wrappedValue = value.wrappedValue else { return }
+        if wrappedValue.count == 1, let value = wrappedValue.first {
+            try encode(value, forKey: key)
+        } else {
+            try encode(wrappedValue, forKey: key)
+        }
+    }
+}
+
+extension KeyedDecodingContainer {
+    public func decode<T: Collection & Decodable>(_ type: SingleValueCollection<T>.Type,
+                                                  forKey key: Key) throws -> SingleValueCollection<T> where T.Element: Decodable {
+        do {
+            return SingleValueCollection(wrappedValue: ([try decode(T.Element.self, forKey: key)] as! T))
+        } catch {
+            return SingleValueCollection(wrappedValue: try decodeIfPresent(T.self, forKey: key))
+        }
+    }
+}

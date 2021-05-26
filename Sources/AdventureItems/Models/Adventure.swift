@@ -34,7 +34,7 @@ struct Adventure: Codable, Hashable {
     @DecodableDefault.EmptyList var missing: [String]
 
     var source: Source { Source(code) }
-    var isEpic: Bool { code.hasPrefix("DDEP") || code.hasPrefix("DDAL-EBEP") }
+    var isEpic: Bool { code.hasPrefix("DDEP") || code.hasPrefix("DDAL-EBEP") || code.hasPrefix("DDAL-DRWEP") }
     var storyAwardName: String {
         switch source {
         case .dreamsOfRedWizards, .oracleOfWar:

@@ -11,6 +11,10 @@ let package = Package(
         .executable(
             name: "AdventureItems",
             targets: ["AdventureItems"]
+        ),
+        .library(
+            name: "AdventureUtils",
+            targets: ["AdventureUtils"]
         )
     ],
     dependencies: [
@@ -22,7 +26,12 @@ let package = Package(
     targets: [
         .target(
             name: "AdventureItems",
-            dependencies: ["Ink", "Plot", "Publish", "Yams"]
+            dependencies: ["AdventureUtils", "Ink", "Plot", "Publish", "Yams"]
+        ),
+        .target(name: "AdventureUtils"),
+        .testTarget(
+            name: "AdventureUtilsTests",
+            dependencies: ["AdventureUtils"]
         )
     ]
 )

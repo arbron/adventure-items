@@ -29,7 +29,7 @@ struct AdventureItemsSite: Website {
 let jsonDecoder = JSONDecoder()
 jsonDecoder.dateDecodingStrategy = .formatted(.iso8601date)
 
-let dataFolder = try Folder.packageFolder(path: "Sources/Data/")
+let dataFolder = try Folder.packageFolder(path: "Sources/Data/masters/")
 let jsonFiles = dataFolder.files.recursive.compactMap { $0.extension == "json" ? $0 : nil }
 
 var adventures: [Adventure] = try jsonDecoder.decode([Adventure].self, files: jsonFiles)

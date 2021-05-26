@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import AdventureUtils
 
 struct Item: Codable, Hashable {
     var name: String

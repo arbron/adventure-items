@@ -6,6 +6,8 @@
 //
 
 import Foundation
+import AdventureUtils
+
 
 struct Adventure: Codable, Hashable {
     var code: String
@@ -17,9 +19,9 @@ struct Adventure: Codable, Hashable {
     var released: Date?
     var creator: String?
     var url: URL?
-    var tier: [Tier]?
+    @SingleValueCollection var tier: [Tier]?
     var length: Length?
-    var apl: Int?
+    @SingleValueCollection var apl: [Int]?
 
     @DecodableDefault.EmptyList var credits: [Credit]
 

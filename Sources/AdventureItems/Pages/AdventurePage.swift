@@ -262,7 +262,7 @@ struct AdventureInformation: Component {
     let adventure: Adventure
 
     var body: Component {
-        Text("APL: \(adventure.apl ?? 0)")
+        Text("APL: \(adventure.apl?.first ?? 0)")
 //        if let apl = adventure.apl {
 //            Text("\(apl)")
 //        }

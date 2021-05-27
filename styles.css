@@ -204,6 +204,10 @@ td, th {
     padding: 6px 10px;
 }
 
+.missing {
+    color: #ccc;
+}
+
 footer {
     color: #8a8a8a;
 }

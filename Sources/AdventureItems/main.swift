@@ -53,7 +53,8 @@ adventures.sort { (lhs, rhs) in lhs.code.localizedStandardCompare(rhs.code) == .
 try AdventureItemsSite().publish(using: [
     .addMarkdownFiles(),
     .copyResources(),
-    .addAdventures(adventures, removeIncomplete: true),
+    .addAdventures(adventures),
+    .addSpreadsheet(adventures),
     .generateHTML(withTheme: .league, indentation: AdventureItemsSite.indentationMode),
     .generateRSSFeed(including: [.adventures]),
     .generateSiteMap()

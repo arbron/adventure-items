@@ -49,6 +49,10 @@ struct Adventure: Codable, Hashable {
         default: return "story-award"
         }
     }
+
+    var path: String {
+        code.lowercased().replacingOccurrences(of: " ", with: "-")
+    }
 }
 
 extension Adventure {

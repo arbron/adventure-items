@@ -11,6 +11,14 @@ enum Length: Hashable {
     case flat(Int)
     case range(min: Int, max: Int)
     case multi(count: Int, length: Int)
+
+    var localizedStringValue: String {
+        switch self {
+        case let .flat(length): return "\(length)"
+        case let .range(min, max): return "\(min)–\(max)"
+        case let .multi(count, length): return "\(count)×\(length)"
+        }
+    }
 }
 
 extension Length: Codable {

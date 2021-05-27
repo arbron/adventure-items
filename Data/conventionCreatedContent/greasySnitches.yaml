@@ -1,0 +1,395 @@
+- code: CCC-GSP01-01
+  name: A Dragon's Breath
+  description: >-
+    Ragvala, also known as the “Coinmaker”, is an ancient gold dragon who wishes
+    to mend his broken friendship with his old adventuring buddy. Recently, he
+    has heard rumors that his friend’s old magical instrument has resurfaced in
+    the Quivering Forest. Unable to change shape anymore, the dragon needs the
+    help of skilled adventurers who can join him on his quest.
+  released: '2018-10-13'
+  creator: Greasy Snitches
+  tier: 1
+  items:
+    - name: Dragon's Lullaby (Instrument of the Bards - Mac-Fuirmidh cittern)
+      rarity: uncommon
+    - name: Spell Scroll of Comprehend Languages
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Five-Leaf Clover Initiate
+      description: >-
+        A senior member of the Five Leaf Clover has taken a liking of you and
+        made you a junior member of their adventuring group. A magical tattoo of
+        a five-leaf clover has been permanently placed at the back of your right
+        hand. When you put your will to it, harmless green flame erupts from the
+        tattoo and engulfs your hand.
+  missing:
+    - credits
+
+
+- code: CCC-GSP01-02
+  name: Brotherhood
+  description: >-
+    Ragvala, an ancient gold dragon and the founder of the Five-Leaf Clover is
+    dead. A funeral ceremony will be held in 3 days before he becomes one with
+    the earth. Rokstasha, his friend and a djinni has asked the help of the
+    adventurers to find the other members of the Five-Leaf Clover if they are
+    still alive and have them attend the ceremony. Don’t be late! Part 2 of the
+    *Clover Group Series*.
+  released: '2019-08-14'
+  creator: Greasy Snitches
+  tier: 1
+  items:
+    - name: Pipe of Smoke Monsters
+      rarity: common
+  storyAwards:
+    - name: Five-Leaf Clover Initiate
+      description: >-
+        A senior member of the Five Leaf Clover has taken a liking of you and
+        made you a junior member of their adventuring group. A magical tattoo of
+        a five-leaf clover has been permanently placed at the back of your right
+        hand. When you put your will to it, harmless green flame erupts from the
+        tattoo and engulfs your hand.
+    - name: Doomguide of Kelemvor
+      description: >-
+        You are now an official priest of Kelemvor, also known as a Doomguide.
+        You have received a set of smoky grey priestly vestments with the symbol
+        of Kelemvor and a cowled cloak with a white domino mask that emanates
+        harmless blue flame whenever you wear it. You also gain the following
+        ideal, "Death is but part of life: fear it not, evade it not, and view
+        it not as evil."
+  missing:
+    - credits
+
+
+- code: CCC-GSP01-03
+  name: Tainted Love
+  description: >-
+    Rizgrim, the Great Doomguide of Kelemvor has discovered that the land within
+    the Quivering Forest near the burial site of her friend is slowly being
+    consumed by dark magic. The adventurers have been asked to find the source
+    and eliminate it as soon as possible. Failing on this task could turn her
+    dead friend into a dracolich. Nobody wants that! Right?! Part 3 of the
+    *Clover Group Series*.
+  released: '2020-02-04'
+  creator: Greasy Snitches
+  tier: 1
+  items:
+    - name: Cloak of Many Fashions
+      rarity: common
+  storyAwards:
+    - name: In Search of Her
+      description: >-
+        You have found and read the journal of Tho’Guroh, containing information
+        on how to find a hag’s dark lair. Whenever you succeed in finding a
+        hag’s lair, a trail of thin mist appears, leading up to the location you
+        are looking for. While the mist is present, you hear whispers of a very
+        convincing old woman telling you to get “samples” from your party
+        members, like a strand of hair, spit, dead skin, fingernails, etc.
+        Remove this story award when you meet Jenny Greenteeth.
+    - name: Clingy Jelly!
+      description: >-
+        You spared the life of an oblex spawn. As a token of appreciation, it
+        separates a part of itself and places a thin translucent layer of
+        star-shaped green goo on your forehead. Whenever you are in combat, the
+        goo stretches and changes shape, becoming a horn. Whenever you die, its
+        shape changes into a small, flat skull. You can remove this story award
+        by casting *lesser restoration* on yourself.
+      type: pet
+  missing:
+    - credits
+
+- code: CCC-GSP02-01
+  name: Minauros Unchained
+  description: >-
+    The valkyrie Sigrdri is looking for adventurers to go with her to the Nine
+    Hells. Tasked to free heroic souls that are supposed to go to Ysgard but
+    instead are stuck somewhere in different layers of Hell. Her first mission
+    is to save a loyal and fearless minotaur druid that’s currently trapped in
+    Minauros, the 3rd layer of Hell. Part One of *Heroes in Nine Hells*.
+  released: '2020-03-03'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/303699/CCCGSP0201-Minauros-Unchained'
+  tier: 1
+  items:
+    - name: Bulaga Wizard Hat (Hat of Vermin)
+      rarity: common
+    - name: 'The Heart of Baga (Elemental Gem, Red Corundum)'
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: 'Banned: Minauros'
+      description: |-
+        Mammon’s baleful gaze is upon you. Perhaps you angered him directly, or
+        perhaps your actions caused a disruption in his operations—whatever the
+        case may be, he has elected to ban you from Minauros, the third layer of
+        the Nine Hells, entirely. You can’t participate in further adventures in
+        this place.
+  
+        A character with this story award may visit other areas of the Nine Hells
+        but has been banned from Minauros.
+  missing:
+    - credits
+
+
+- code: CCC-GSP02-02
+  name: Stygia Untamed
+  description: >-
+    The valkyrie Sigrdri is looking for adventurers who can go with her to the
+    Nine Hells. She is tasked to free heroic souls that are supposed to go to
+    Ysgard but instead are stuck somewhere in different layers of hell. Her
+    second mission is to save a kind and gentle snake guardian’s soul that is
+    currently trapped in Stygia, the Fifth. Part Two of *Heroes in Nine Hells*.
+  released: '2020-04-20'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/307480/CCCGSP0202-Stygia-Untamed'
+  tier: 2
+  items:
+    - name: Stygian Scale Mail (Smoldering Armor)
+      rarity: common
+    - name: Bulkawa’s Benevolence (Staff of the Python)
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: 'Banned: Stygia'
+      description: |-
+        The frozen, inhospitable wilderness of Stygia is home to many vile
+        creatures as well as an uncountable number from the Material Plane.
+        Desperate criminals and those condemned to death may pray to Levistus,
+        the ruler of Stygia, for freedom; should he answer, they are transported
+        here. For reasons known only to you and him, you are forever banned from
+        setting foot within Stygia. Perhaps you redeemed too many souls, or
+        maybe you were discovered to be in league with Geryon, the former ruler
+        of this realm; regardless, Levistus has closed this layer of the Nine
+        Hells to you. You can’t participate in further adventures in this place.
+  
+        A character with this story award may visit other areas of the Nine Hells
+        but has been banned from Stygia.
+  missing:
+    - credits
+
+
+- code: CCC-GSP02-03
+  name: Maladomini Unleashed
+  description: >-
+    The valkyrie Sigrdri is tasked to free heroic souls bound for Ysgard, but
+    are instead stuck somewhere in different layers of the Nine Hells. Now, she
+    is looking for adventurers to go with her on her final mission: save the
+    Biguri Siblings, a family of valiant earth genasi warriors trapped in
+    Maladomini, the Seventh Layer of Hell. Part Three of *Heroes in Nine Hells*.
+  released: '2020-11-23'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/336854/CCCGSP0203-Maladomini-Unleashed'
+  tier: 3
+  length: 4-6
+  apl: 15
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-GSP03-01
+  name: Heartfelt Memories
+  description: >-
+    Lily asks for help to bring her mother to her final resting place, but the
+    fey have other interests. Is believing in memories enough?
+  released: '2021-01-04'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/341795/CCCGSP0301'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-GSP04-01
+  name: 'Devil King High School: Year One'
+  description: >-
+    The Devil King School of Higher Learning is looking for new students this school
+    year. Those who accept the school’s invitation will be sent to Minauros, the
+    third layer of the Nine Hells. Will the adventu—I mean students—survive the tests
+    given to them by their devilish professors? Part One of *I Got Accepted as a
+    Student in the Nine Hells and Now I'm at the Top of the Class* series.
+  released: '2020-11-17'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/336048/CCCGSP0401-Devil-King-High-School-Year-One'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+- code: CCC-GSP-FEAR01-01
+  name: Beneath the Bleeding Tree
+  description: >-
+    Neighboring the village of Elventree, the once-peaceful settlement of
+    Lighthouse is haunted by a series of disappearances. Rumors have spread that
+    foul horrors from the Cormanthor forest abduct the unsuspecting settlers in
+    the dead of night. Heroes are needed to uncover the fate of the citizens and
+    to identify these creatures of the dark.
+  released: '2019-08-21'
+  creator: Greasy Snitches
+  url: >-
+    https://www.dmsguild.com/product/285712/CCCGSPFEAR0101-Beneath-the-Bleeding-Tree
+  tier: 1
+  items:
+    - name: Hag’s Breath (Eversmoking Bottle)
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Cause Fear
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Lingering Nightmare
+      description: |-
+        Any character captured by the meenlocks is subjected to the dark feys’
+        telepathic torment. This causes the character to develop mental trauma
+        and gains the flaw: “I suffer from a phobia.”
+  
+        The specific phobia is chosen by the Dungeon Master; it may be something
+        simple yet common, like darkness, insects, drowning, or heights.
+  missing:
+    - credits
+
+
+- code: CCC-GSP-MON01-01
+  name: Shadows of Despair
+  description: >-
+    When a young maiden is lured into the woods by a shadowy creature, her
+    father suspects something is amiss and pleads for the aid of benevolent
+    adventurers to solve the mystery.
+  released: '2020-02-04'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/302031/CCCGSPMON0101-Shadows-of-Despair'
+  tier: 2
+  missing:
+    - items
+    - pdf
+
+
+- code: CCC-GSP-NTHR01-01
+  name: A Night of Sorrows
+  description: >-
+    A small settlement on the outskirts of the Cormanthor forest called
+    Dusklight has recently called for aid in defending against monstrous
+    creatures that have begun attacking. Their leader, Kyria, believes they may
+    be coming from the nearby ruins; a fragment of the ancient city of
+    Thultanthar. Is this just a coincidence, or is there something more sinister
+    at work here?
+  released: '2019-08-15'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/285722/CCCGSPNTHR0101-A-Night-of-Sorrows'
+  tier: 3
+  items:
+    - name: Amulet of Health
+      rarity: rare
+  storyAwards:
+    - name: Silent Nights
+      description: >-
+        Characters have put an end to the Sorrowsworn and their source, and have
+        ensured that Kyria’s secrets remain unknown. Kyria is thankful for your
+        discretion in handling the matter.
+    - name: Twilight Fades
+      description: >-
+        Characters have put an end to the Sorrowsworn and their source, but have
+        also revealed its existence to the inhabitants of Dusklight. With their
+        newfound knowledge, numerous settlers have left, leaving it a shell of
+        what it once was.
+  missing:
+    - credits
+
+
+- code: CCC-GSP-OOZE01-01
+  name: Oozing Hunger
+  description: >-
+    The people of Phlan are in dire need of help! The town’s water supplies have
+    mysteriously turned a sickly green! Buildings and trees have been secreting
+    slime! Creatures in the area have been going mad! Can the adventurers solve
+    this slimy mystery?
+  released: '2019-08-21'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/285730/CCCGSPOOZE0101OozingHunger'
+  tier: 2
+  items:
+    - name: Armor of Insults (Mithral Splint Armor)
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+  storyAwards:
+    - name: Juiblex’s Gift
+      description: |-
+        The encounter with Jubilex has left you ‘changed’. If you took any
+        damage from an ooze or slime in the basement you gain this story award.
+        A sentient ooze-like creature latches on to you. The creature is
+        harmless and hides inside your body during combat but seeps out of your
+        pores and slithers all over your body. The sentient ooze can speak to
+        others verbally, forming a mouth to do so, and to you telepathically,
+        and tries to impose its own unnatural hunger for living flesh on you,
+        giving you an additional flaw:
+  
+        ***Hunger.*** *I constantly crave for living flesh*
+  
+        The sentient ooze creature can be destroyed via a *Remove Curse* spell.
+  missing:
+    - credits
+
+
+- code: CCC-GSP-PHIL01-02
+  name: The Murmuring Hollow of the Flooded Forest
+  description: >-
+    A threatening presence has been discovered in the Trollcrag mountains,
+    causing troubled hearts inYlraphon. Greater threats may be much closer to
+    home, however. The Dragul Orcs of the Flooded Forestare being slaughtered.
+    In their desperation, they are turning to Ylraphon for salvation. What dark
+    threatsawait you in the Murmuring Hollow of the Flooded Forest? Part Two of
+    the *Dead Gods Collide* series.
+  released: '2019-08-21'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/285850/CCCGSPPHIL0102-The-Murmuring-Hollow-O-f-The-Flooded-Forest'
+  tier: 1
+  items:
+    - name: Eyes of Minute Seeing
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-GSP-PHIL01-03
+  name: The Whispering Shadows of the Eldest Ruin
+  description: >-
+    When the conflict between two fanatical groups boils over, danger knocks
+    directly on Ylraphon’s door. As violence erupts all around, you must delve
+    into the Eldest Ruins, the most ancient remnants of Outer Ylraphon. There, a
+    ruined drow manor house is said to contain an artifact strong enough to stop
+    the forces rampaging through the Old City. Part Three of the *Dead Gods
+    Collide* series.
+  released: '2019-08-21'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/285849/CCCGSPPHIL0103-The-Whispering-Shadows-of-the-Eldest-Ruin'
+  tier: 1
+  items:
+    - name: Robe of Useful Items
+      rarity: uncommon
+  missing:
+    - credits

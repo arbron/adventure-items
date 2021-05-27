@@ -1,0 +1,19 @@
+- code: happy-go-lucky
+  name: Happy-Go-Lucky
+  description: >-
+    A much-loved figure from Salvation has gone missing in the Mournland,
+    apparently while searching for a massive hidden hoard. Is there still a
+    chance to bring one (or possibly both) of them back?  Or has luck finally
+    run out?
+  released: '2021-03-05'
+  url: 'https://www.dmsguild.com/product/349212/HappyGoLucky'
+  tier: 3
+  length: 3
+  apl: 13
+  credits:
+    - name: Scott Moore
+      role: Author
+      key: true
+  missing:
+    - items
+    - pdf

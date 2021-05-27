@@ -1,0 +1,142 @@
+- code: CCC-RPSG-01
+  name: Ooze There
+  description: >-
+    As the City of Danger struggles to rebuild, a spate of unexplained
+    disappearances in the Zhent Ghettos threatens to erupt into fresh chaos. The
+    factions are hard pressed to investigate, and it falls upon you to uncover
+    the truth behind this new menace. Part One of the *Neverdusk* trilogy.
+  released: '2018-06-09'
+  url: 'https://www.dmsguild.com/product/244135/CCCRPSG01-Ooze-There'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Sovad’s Staff of Flying (Broom of Flying)
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Broken Seal
+      description: |-
+        You have failed to prevent Fenaria’s plans in the Forgotten Fane from
+        coming to fruition and an ancient seal from being destroyed.
+  
+        This award may become relevant if you encounter Fenaria or the Cult of
+        Glaugrax in future.
+    - name: Fenaria’s Ire
+      description: |-
+        You stopped Fenaria from destroying an ancient seal in the Forgotten
+        Fane and have incurred her wrath.
+  
+        This award may become relevant if you encounter Fenaria or the Cult of
+        Glaugrax in future.
+
+
+- code: CCC-RPSG-02
+  name: Ooze Next?
+  description: >-
+    A sunken ruin deep beneath the bay of Mulmaster holds the key to unraveling
+    the Cult of Glaugrax’s nefarious plans. Dare you brave danger and duplicity
+    to plumb its depths? Part Two of the *Neverdusk* trilogy.
+  released: '2020-03-18'
+  url: 'https://www.dmsguild.com/product/306869/CCCRPSG02-Ooze-Next'
+  tier: 2
+  length: 2-4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+
+- code: CCC-RPSG-03
+  name: Fenaria’s Gambit
+  description: >-
+    As the **Red War** rages and Mulmaster burns, the Cult of Glaugrax sunders
+    the arcane bindings on their alien master, unleashing an ancient evil that
+    threatens to sink the Factions' evacuation efforts. Can you thwart them
+    before the City of Danger is swept away in the wake of Fenaria's revenge?  
+    Part Three of the *Neverdusk* trilogy.
+  released: '2020-11-03'
+  url: 'https://www.dmsguild.com/product/334414/CCCRPSG03-Fenarias-Gambit'
+  tier: 3
+  length: 4-6
+  apl: 13
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-RPSG-04
+  name: The Waystop
+  description: >-
+    A relentless torrential storm has forced you to seek shelter at an
+    abandoned caravan lodge with several others you met on the road, but
+    the dangers outside may pale in comparison to the dangers within. Can
+    you survive the night?
+  released: '2020-12-30'
+  url: 'https://www.dmsguild.com/product/341653/CCCRPSG04-The-Waystop'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-RPSG-05
+  name: Through the Ashes and Flames
+  description: >-
+    A relentless heat wave has left the Flooded Forest parched, and the
+    Fireseeker Task Force is scrambling to contain fires that have blazed to
+    inexplicable life. Can you discover what burns at the heart of this
+    mystery before all that is left are ashes?
+  released: '2020-12-30'
+  url: 'https://www.dmsguild.com/product/341670/CCCRPSG05-Through-the-Ashes-and-Flames'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-RPSG-06
+  name: Of Caravans and Crossings
+  description: >-
+    A wealthy merchant’s child has been abducted by brigands, and courageous
+    adventurers are needed to mount a daring rescue. Will you succeed?
+  released: '2020-12-30'
+  url: 'https://www.dmsguild.com/product/341677/CCCRPSG06-Of-Caravans-and-Crossings'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-RPSG-07
+  name: In Good Company
+  description: |-
+    Come, come, all ye daring adventurers—the Young Wolves have a job for you!
+
+    It's simple: travel alongside a caravan through the Cormanthor Forest, and escort a sick noblewoman home to her loving family. The job pays handsomely for a week's work.
+
+    What could possibly go wrong? 
+  released: '2020-12-30'
+  url: 'https://www.dmsguild.com/product/341695/CCCRPSG07-In-Good-Company'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf

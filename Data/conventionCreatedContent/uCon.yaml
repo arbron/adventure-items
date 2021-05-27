@@ -1,0 +1,86 @@
+- code: CCC-UCON-01
+  name: Blood & Fog
+  description: >-
+    Heavy mists have plagued the area around Phlan for weeks, even after the
+    reported death of Vorgansharax, the Maimed Virulence. People have been
+    disappearing in those deadly fogs, and now dead bodies are turning up.
+  released: '2016-12-12'
+  url: 'https://www.dmsguild.com/product/200484/CCCUCON01-Blood--Fog'
+  tier: 2
+  length: 4
+  apl: 7
+  items:
+    - name: Berserker Flail (Berserker Axe)
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: I Got a Puppy!
+      description: >-
+        You chose to keep the wolf puppy that was trapped in the gnoll camp deep
+        inside the Quivering Forest. It is incredibly friendly and knows a few
+        tricks; sometimes it even brings you small presents like sticks, stones,
+        or a dead animal. This silver-haired wolf pup never howls at the moon,
+        but does love to play in the woods and wander through heavy fogs
+        whenever possible. This is a non-combat pet and is intended for roleplay
+        purposes only.
+      type: pet
+  missing:
+    - credits
+
+
+- code: CCC-UCON-02-01
+  name: The Goat Mayor
+  description: >-
+    You visit the peculiar village of Basht expecting a pleasant evening filled
+    with good food and drink, and a chance to learn their strange customs and
+    superstitions. Your evening is interrupted when you are asked to rescue their
+    mayor. Their mayor? A goat that lives in the center of town. Why is he so
+    vital, and why is this a job for adventurers?
+  released: '2020-12-28'
+  url: 'https://www.dmsguild.com/product/341178/CCCUCON0201-The-Goat-Mayor'
+  tier: 1
+  length: 2-4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-UCON-02-02
+  name: Rescue Down Under
+  description: >-
+    While in the peculiar village of Basht, a town full of strange customs and
+    superstitions, an elderly woman asks you to check in on her grandson, a
+    Gondite tinkerer testing out his latest invention in a nearby cavern. Sounds
+    easy enough, right?
+  released: '2020-12-28'
+  url: 'https://www.dmsguild.com/product/337260/CCCUCON0202-Rescue-Down-Under'
+  tier: 2
+  length: 2-4
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-UCON-03
+  name: The Straw Bears
+  description: >-
+    You return to the peculiar village of Basht for one of their unusual
+    festivals: the procession of the Straw Bears. While there, you meet some
+    old friends and are asked to escort the brave villagers into the woods
+    to continue the party into the night. It should be perfectly safe,
+    shouldn’t it?
+  released: '2020-12-30'
+  url: 'https://www.dmsguild.com/product/341504/CCCUCON03-The-Straw-Bears'
+  tier: 1
+  length: 2-4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf

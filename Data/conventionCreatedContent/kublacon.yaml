@@ -1,0 +1,167 @@
+- code: CCC-SAC-01
+  name: A Light in the Dark
+  description: >-
+    Reports are coming out of the conclusion of the death curse and the defeat
+    of the lich Acererak. Adventurers are no longer afraid to go out into the
+    night in search of Fame and fortune. A wily antiquarian has gleaned the
+    location of an item of particular value And unsurpassed rarity. The problem
+    is, she is certain she isn't the first…or the last to learn of it. A races
+    for riches and renown, who will be the ones to get there first and claim
+    their prize?
+  released: '2018-11-14'
+  url: 'https://www.dmsguild.com/product/258839/CCCSAC01-A-Light-in-the-Dark'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Efreeti Bottle
+      rarity: veryRare
+    - name: Potion of Speed
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Favor of Everbright
+      description: >-
+        You have collected successfully the *Shadowgem* against all odds and
+        have proven yourself to Amerantha Everbright. The Old-World Society will
+        remember this, should you meet with them in the future.
+    - name: Ire of Everbright
+      description: >-
+        You have let the *Shadowgem* fall into the hands of your enemies,
+        earning you the disapproval of Amerantha Everbright. The Old-World
+        Society will remember this, should you meet with them in the future.
+  missing:
+    - credits
+
+
+- code: CCC-SAC-02
+  name: Fun with Fey
+  description: >-
+    Trouble is afoot in the mysterious Quivering Forest. An Archdruid finds
+    herself unable to control the magic of a particularly powerful tree. This
+    tree’s magic threatens to create a portal that would allow the most
+    mischievous members of the Feywild entry to the Moonsea region. Clever
+    adventurers will be needed to discover the nature of these fluctuating
+    powers and keep them at bay.
+  released: '2018-11-20'
+  url: 'https://www.dmsguild.com/product/259233/CCCSAC02-Fun-With-Fey'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Cloak of Displacement
+      rarity: rare
+    - name: Potion of Resistance (Poison)
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Erupting Earth
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Melf's Minute Meteors
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Thunder Step
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Wall of Water
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-SAC-03
+  name: They’re Good Adventurers, Brent
+  description: >-
+    Your party has been tasked with guarding a supply caravan headed over the
+    Dragonspire Mountains to the Citadel of the Raven. While there must have
+    been some concern great enough to warrant sending adventurers of your
+    caliber, the journey has been uneventful and borderline boring. When nearing
+    the end of your journey, you stumble upon the most sacred of Faerûn's
+    beasts…a dog! She seems lost and needs your assistance—a task fit for the
+    good adventurers that you are.
+  released: '2020-04-20'
+  url: 'https://www.dmsguild.com/product/307705/CCCSAC03-Theyre-Good-Adventurers-Brent'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Immovable Rod
+      rarity: uncommon
+    - name: Potion of Animal Friendship
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Resistance (Fire)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-SAC-04
+  name: One With the Storm
+  description: |-
+    The citizens of **Hulburg** have angered the god Umberlee. Feeling
+    slighted by the meager offerings at the last festival of the sea goddess,
+    she has sent her forces to decimate the town.
+    
+    The battle will be lost unless someone can find reinforcements for the city.
+    There are rumors of powerful giants living on a nearby island who may be
+    able to help.
+  released: '2020-12-18'
+  url: 'https://www.dmsguild.com/product/340372/CCCSAC04-One-With-the-Storm'
+  tier: 2
+  length: 2-4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-SAC-05
+  name: Fey in Hell
+  description: >-
+    The corrupted archdruid Kelandrakix is rumored to be running amok in Maladomini,
+    the 7th layer of hell. Baalzebul wants to put a stop to her pit fighting
+    business and needs and outside party who is not bound by their rules to take
+    care of the problem. Can the party navigate the bureaucracy of Maladomini and
+    put an end to Kelandrakix’s shenanigans? 
+  released: '2020-12-18'
+  url: 'https://www.dmsguild.com/product/340373/CCCSAC05-Fey-in-Hell'
+  tier: 3
+  length: 4
+  apl: 13
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-SAC-06
+  name: So, You Get Frogs
+  description: >-
+    You are certain you went to sleep somewhere quite different, but find yourself
+    awakened in a dismal swamp, on the porch of an empty shack. What forces have
+    drawn you here, and what challenges will you need to survive to get back home?
+  released: '2020-12-30'
+  url: 'https://www.dmsguild.com/product/341624/CCCSAC06-So-You-Get-Frogs'
+  tier: 1
+  length: 4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf

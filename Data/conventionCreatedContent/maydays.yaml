@@ -1,0 +1,32 @@
+- code: CCC-MAYDAYS-01
+  name: The Bandit’s Mark
+  description: >-
+    The RED WOLF leads a gang that preys on travellers in the wild lands of THAR.
+    Dozens of adventurers and bounty hunters have come for the bandit, drawn by
+    the price on their head. Can you avoid the other hunters, and find them first?
+  released: '2020-07-01'
+  url: 'https://www.dmsguild.com/product/318715/CCCMAYDAYS01-The-Bandits-Mark'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-MAYDAYS-02-01
+  name: King Obould’s Fist
+  description: >-
+    A figure from legend asks the gathered heroes to help set the cosmos aright.
+    Will the heroes overcome the multiversal threat? Will they overcome their
+    own biases?
+  released: '2020-12-30'
+  url: 'https://www.dmsguild.com/product/341252/CCCMAYDAYS0201-King-Oboulds-Fist'
+  tier: 3
+  length: 4-6
+  apl: 13
+  missing:
+    - credits
+    - items
+    - pdf

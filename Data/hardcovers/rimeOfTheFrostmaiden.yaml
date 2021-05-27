@@ -1,0 +1,38 @@
+- code: DDHC-RotFM
+  name: 'Icewind Dale: Rime of the Frostmaiden'
+  description: >-
+    Beneath the unyielding night sky, you stand before a towering glacier
+    and recite an ancient rhyme, causing a crack to form in the great wall
+    of ice. Beyond this yawning fissure, the Caves of Hunger await. What
+    fantastic secrets and treasures are entombed in the sunless heart of
+    the glacier, and what will their discovery mean for the denizens of
+    Icewind Dale?
+  released: '2020-09-15'
+  credits:
+    - name: Christopher Perkins
+      role: Story Creator & Lead Writer
+      key: true
+    - name: Stacey Allan
+      role: Writer
+    - name: Bill Benham
+      role: Writer
+    - name: H.H. Carlan
+      role: Writer
+    - name: Celeste Conowitch
+      role: Writer
+    - name: Dan Dillon
+      role: Writer
+    - name: Will Doyle
+      role: Writer
+    - name: Mikayla Ebel
+      role: Writer
+    - name: Anne Gregersen
+      role: Writer
+    - name: Chad Quandt
+      role: Writer
+    - name: Morrigan Robbins
+      role: Writer
+    - name: Ashley Warren
+      role: Writer
+  missing:
+    - items

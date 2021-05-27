@@ -1,0 +1,31 @@
+- code: DDIA-VOLO
+  name: In Volo’s Wake
+  description: >-
+    The town of Phandalin, nestled in the foothills to the east of the Sword
+    Mountains, continues to grow since being rebuilt after the devastation
+    wrought by rampaging orc hordes. It recently survived violent gang activity,
+    drow machinations, and even the attention of a green dragon. But can it
+    withstand a new threat, bizarre but no less perilous: the fame brought by a
+    visit from none other than loremaster Volothamp Geddarm?
+  released: '2017-01-31'
+  url: 'https://www.dmsguild.com/product/203580/In-Volos-Wake-5e'
+  tier: 1
+  length: 6x1
+  credits:
+    - name: Monica Valentinelli
+      role: Adventure Author
+      key: true
+    - name: Shawn Merwin
+      role: Adventure Author
+      key: true
+    - name: Rich Lescouflair
+      role: Adventure Author
+      key: true
+    - name: Christopher Lindsay
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+    - name: Traivs Woodall
+      role: Cartography
+  missing:
+    - items

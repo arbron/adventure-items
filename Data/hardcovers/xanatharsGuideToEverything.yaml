@@ -1,0 +1,56 @@
+- code: DDHC-XGE-01
+  name: Rats of Waterdeep
+  description: >-
+    Solve a brutal crime on the mean streets of Waterdeep in this madcap
+    companion adventure for *Xanathar's Guide to Everything*!
+  released: '2018-04-22'
+  url: 'https://www.dmsguild.com/product/240322/Rats-of-Waterdeep'
+  tier: 1
+  length: 3-4
+  apl: 1
+  credits:
+    - name: Lysa Penrose
+      role: Design
+      key: true
+    - name: Will Doyle
+      role: Design
+      key: true
+    - name: Stacey Allan
+      role: Editing & Development
+    - name: Wil Doyle
+      role: Editing & Development
+    - name: Lysa Penrose
+      role: Editing & Development
+    - name: Stacey Allan
+      role: Artist
+    - name: Jared Blando
+      role: Cartography
+    - name: Will Doyle
+      role: Cartography
+    - name: M.T. Black
+      role: Special Thanks
+  missing:
+    - items
+
+- code: DDIA-XGE
+  name: Underworld Speculation
+  description: >-
+    Operating as secret agents for the Lords of Waterdeep, a promising lead
+    takes you deep into the world of the Xanathar, but what will it take for
+    you to return?
+  released: '2018-01-10'
+  url: 'https://www.dmsguild.com/product/230970/DDIAXGE-Underworld-Speculation'
+  tier: 1
+  length: 4
+  apl: 3
+  credits:
+    - name: Chris Lindsay
+      role: Designer
+      key: true
+    - name: Stan! Brown
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  missing:
+    - items
+    - pdf

@@ -1,0 +1,728 @@
+- code: DDAL-OPEN-2016
+  name: Soulbound Tomb
+  description: ''
+  released: '2016-06-18'
+  tier: [1, 2]
+  length: 8
+  credits:
+    - name: Teos Abadia
+      role: Adventure Designer
+      key: true
+    - name: Shawn Merwin
+      role: Adventure Designer
+      key: true
+    - name: M. Sean Molley
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Chris Lindsay
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  items:
+    - name: Adamantine Half-Plate
+      rarity: uncommon
+    - name: Bag of Tricks (Rust)
+      rarity: uncommon
+    - name: 'Battleaxe, +1'
+      rarity: uncommon
+    - name: Cloak of Arachnida
+      rarity: veryRare
+    - name: 'Dagger, +1'
+      rarity: uncommon
+    - name: Dagger of Venom
+      rarity: rare
+    - name: Eyes of Charming
+      rarity: uncommon
+    - name: Figurine of Wondrous Power (Silver Raven)
+      rarity: uncommon
+    - name: Flame Tongue
+      rarity: rare
+    - name: Frost Brand
+      rarity: veryRare
+    - name: Gem of Brightness
+      rarity: uncommon
+    - name: Giant Slayer Greataxe
+      rarity: rare
+    - name: Gloves of Thievery
+      rarity: uncommon
+    - name: Helm of Comprehend Languages
+      rarity: uncommon
+    - name: Instrument of the Bards (Cli Lyre)
+      rarity: rare
+      properties:
+        - Harmonious
+    - name: Javelin of Lightning
+      rarity: uncommon
+    - name: 'Mace, +1'
+      rarity: uncommon
+    - name: Necklace of Fireballs
+      rarity: rare
+    - name: Pearl of Power
+      rarity: uncommon
+    - name: Periapt of Proof against Poison
+      rarity: rare
+    - name: Portable Hole
+      rarity: rare
+    - name: Ring of Resistance
+      rarity: rare
+    - name: Robe of Useful Items
+      rarity: uncommon
+    - name: 'Rod of the Pact Keeper, +1'
+      rarity: uncommon
+      properties:
+        - Song Craft
+    - name: Sending Stones
+      rarity: uncommon
+    - name: 'Shield, +1'
+      rarity: uncommon
+    - name: 'Shortsword, +1'
+      rarity: uncommon
+    - name: 'Silvered Dagger, +1'
+      rarity: uncommon
+    - name: Staff of the Adder
+      rarity: uncommon
+    - name: 'Wand of the War Mage, +1'
+      rarity: uncommon
+    - name: 'Weapon, +1'
+      rarity: uncommon
+      properties:
+        - Temperate
+    - name: 'Weapon, +2'
+      rarity: rare
+      properties:
+        - Temperate
+    - name: Alchemist's fire (flask)
+      rarity: common
+      consumable: true
+      count: 4
+    - name: Potion of Flying
+      rarity: veryRare
+      consumable: true
+      count: 2
+    - name: Potion of Giant Strength (Cloud)
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Giant Strength (Frost)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 28
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 8
+    - name: Potion of Invisibility
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 3
+    - name: Potion of Resistance (Fire)
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Speed
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 10
+    - name: Potion of Supreme Healing
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Universal Solvent
+      rarity: legendary
+      consumable: true
+      count: 1
+
+
+- code: DDAL-OPEN-2017
+  name: The Lost Temples of Lake Luo
+  description: ''
+  released: '2017-06-17'
+  tier: [1, 2]
+  length: 8
+  credits:
+    - name: Teos Abadia
+      role: Adventure Designer
+      key: true
+    - name: Shawn Merwin
+      role: Adventure Designer
+      key: true
+    - name: M. Sean Molley
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Chris Lindsay
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  items:
+    - name: Bag of Holding
+      rarity: uncommon
+    - name: Boots of Elvenkind
+      rarity: uncommon
+    - name: Boots of Levitation
+      rarity: rare
+    - name: Bracers of Defense
+      rarity: rare
+    - name: Broom of Flying
+      rarity: uncommon
+    - name: Cap of Water Breathing
+      rarity: uncommon
+    - name: Cloak of Elvenkind
+      rarity: uncommon
+    - name: Cloak of the Bat
+      rarity: rare
+      property:
+        - Hungry
+    - name: Driftglobe
+      rarity: uncommon
+    - name: Horn of Blasting
+      rarity: rare
+    - name: Javelin of Lightning
+      rarity: uncommon
+    - name: Mithral Breastplate
+      rarity: uncommon
+      property:
+        - Confident
+    - name: 'Mithral Breastplate, +1'
+      rarity: rare
+      property:
+        - Confident
+    - name: 'Mithral Breastplate, +2'
+      rarity: veryRare
+      property:
+        - Confident
+    - name: 'Mithral Chain Shirt, +1'
+      rarity: rare
+    - name: Necklace of Adaptation
+      rarity: uncommon
+    - name: Necklace of Fireballs
+      rarity: rare
+    - name: Nolzur's Marvelous Pigments
+      rarity: veryRare
+    - name: Pearl of Power
+      rarity: uncommon
+    - name: Periapt of Wound Closure
+      rarity: uncommon
+    - name: Ring of Jumping
+      rarity: uncommon
+    - name: 'Shortsword, +1'
+      rarity: uncommon
+    - name: 'Spear, +2'
+      rarity: rare
+      properties:
+        - Gleaming
+        - Unbreakable
+    - name: Staff of the Python
+      rarity: uncommon
+    - name: Sword of Life Stealing
+      rarity: rare
+    - name: 'Sword of Life Stealing, +1'
+      rarity: veryRare
+    - name: 'Sword of Life Stealing, +2'
+      rarity: legendary
+    - name: Vicious Weapon
+      rarity: rare
+      property:
+        - Illusion
+    - name: 'Vicious Weapon, +1'
+      rarity: veryRare
+      property:
+        - Illusion
+    - name: 'Vicious Weapon, +2'
+      rarity: legendary
+      property:
+        - Illusion
+    - name: 'Wand of the War Mage, +1'
+      rarity: uncommon
+    - name: 'Wand of the War Mage, +2'
+      rarity: rare
+    - name: 'Wand of the War Mage, +3'
+      rarity: veryRare
+    - name: 'Arrow, +2'
+      rarity: rare
+      consumable: true
+      count: 5
+    - name: Potion of Fire Breath
+      rarity: uncommon
+      consumable: true
+      count: 3
+    - name: Potion of Giant Strength (Frost)
+      rarity: rare
+      consumable: true
+      count: 3
+    - name: Potion of Giant Strength (Hill)
+      rarity: uncommon
+      consumable: true
+      count: 3
+    - name: Potion of Giant Strength (Stone)
+      rarity: rare
+      consumable: true
+      count: 3
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 20
+    - name: Potion of Growth
+      rarity: uncommon
+      consumable: true
+      count: 3
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 20
+    - name: Potion of Invisibility
+      rarity: veryRare
+      consumable: true
+      count: 3
+    - name: Potion of Speed
+      rarity: veryRare
+      consumable: true
+      count: 3
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 20
+    - name: Potion of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 4
+  storyAwards:
+    - name: Acererak's First Victim
+      description: >-
+        You were the first character at the D&D Open to die after the lich
+        Acererak triggered the Soulmonger. This first exposure to the Soulmonger
+        has a strange effect. If your character returns to life, the character
+        has resistance to necrotic energy. The resistance fades away on June 1,
+        2018.
+    - name: Adventuring Makes Me Sleepy
+      description: >-
+        You were the first party to take a long rest in the 2017 D&D Open. Your
+        caution and good sense were noted by the powers of this strange place,
+        and you have been temporarily changed by that power. The next time you
+        take a long rest after your current adventure, you receive a prophetic
+        vision from the spirits of Chult. Ask a single question concerning a
+        specific goal, event, or activity to occur in your current adventure.
+        The DM offers a truthful reply. The reply might be a short phrase, a
+        cryptic rhyme, or an omen.
+    - name: Alive in Death
+      description: >-
+        One of your companions slew a creature and dedicated it to Nanny Pu'Pu.
+        In return, her enchanted green gem brought you back to life. Well…sort
+        of. Your skin and features resemble those of a dead person. You gain the
+        undead creature type, while still retaining your previous creature type.
+        This condition remains for the rest of your character’s life. Undead
+        monsters may ignore you until you attack them, but you have disadvantage
+        of Charisma (Persuasion) checks with humanoid creatures.
+    - name: Awesome Lunch Meat
+      description: >-
+        You distinguished yourself during the battle with the Giant
+        Tyrannosaurus Rex of Doom! Ubtao is impressed by your cunning. Twice he
+        grants you a boon, allowing you to reroll a failed check. Mark through
+        this certificate when used the second time.
+    - name: Big Game Hunter
+      description: >-
+        Your team struck the killing blow against the Giant Tyrannosaurus Rex of
+        Doom! Tales of your prowess reach the merchant princes in Port Nyanzaru
+        in Chult, who seek to curry your favor through favorable trade offers,
+        including with other merchants. The next time you visit Fai Chen's
+        market, you may purchase an item for half of the stated gold piece cost.
+    - name: Blood for the Trickster Gods
+      description: >-
+        Your party was defeated at least five times by the dangers of Lake Luo's
+        lost temples. Strangely, this pleased the Trickster Gods of Chult. They
+        watch over you. The next time you are brought to 0 hit points, you are
+        left with 1 hit point instead and you cannot be reduced below 0 hit
+        points until the start of your next turn. Mark through this certificate
+        once it has been spent.
+    - name: The Chosen of Chult
+      description: >-
+        When you died in Chult, your soul left your body and was replaced by
+        something ancient and mysterious. You now have the personality of an old
+        and immortal being, but the rest of you is the same. For the rest of
+        this adventure, you are resistant to all piercing, bludgeoning, and
+        slashing damage.
+  
+         When the 2017 D&D Open concludes, you lose this resistance. However, some of that immortal soul remains with you. You have advantage on death saves.
+    - name: Dice Tower Master
+      description: >-
+        You placed first in the Craft (dice tower) Challenge of Ubtao at the D&D
+        Open! If you are reduced to 0 hit points, you may expend this
+        certificate and build a tower out of six different polyhedral dice. As
+        soon as you succeed, your character returns to consciousness with twice
+        your level in hit points.
+    - name: Explorer of Chult
+      description: >-
+        Your adventures in Chult, for good or woe, are spoken of by the
+        residents of Port Nyanzaru. The bards of Chult sing of our exploits, and
+        those songs may someday reach Baldur's Gate and beyond. Your fame in
+        Port Nyanzaru makes you a local celebrity. You have advantage on
+        Charisma (Perception) checks with residents and visitors to that port
+        city.
+    - name: Favor of Ubtao
+      description: >-
+        You have acted with honor, granting the relics of Ubtao to that lost
+        god's worshippers. When you performed this act of kindness, you received
+        a tattoo in the form of a labyrinth. When you touch the tattoo (no
+        action), you (and only you) gain the benefit of a bless spell for 1
+        minute. The power of the tattoo dissipates until you take a long rest.
+        Once you reach 11th level, the power of the tattoo fades. Instead, you
+        gain an extra hit point when you gain a level.
+    - name: Glimpsed Into the Madness of Evil
+      description: >-
+        You have seen into the madness that is about to sweep through Chult.
+        While you have seen an inkling of the doom that is coming, you also are
+        imbued with energy to fight it. While adventuring in Chult, you gain 1
+        additional hit point per spell level when you are cured by a spell that
+        heals hit point damage. However, your dreams and visions are wracked
+        with the terror that is coming. When you finish a long rest, you regain
+        one less hit die than normal (to a minimum of 1).
+    - name: Hated by the Evil Powers of Chult
+      description: >-
+        You have angered Acererak, and you are known to any of the creatures who
+        serve him in Chult. These creatures favor attacking you in a battle.
+        However, your success over their master has imbued you with a certain
+        power. Whenever you take necrotic damage, you can use a reaction to gain
+        resistance to necrotic damage until the start of your next turn. This
+        power refreshes with a short rest.
+    - name: I Like to Pace Myself
+      description: >-
+        You were the first party to take 2 short rests in the 2017 D&D Open.
+        Your caution and good sense were noted by the powers of this strange
+        place, and you have been temporarily changed by that power. The next two
+        times you take a long rest after you leave Chult, you double the value
+        of any hit dice you roll during the short rest.
+    - name: I Need New Dice
+      description: >-
+        The next two times you roll a 1 on a d20 during an adventure after the
+        D&D Open, you may reroll the d20, taking the second result. Mark through
+        this certificate once it has been spent.
+    - name: Infested With Evil Spirits
+      description: >-
+        The strange magic of Chult has returned you to life so many times during
+        your adventures that you have been infested with evil spirits. Whenever
+        you reach 0 hit points, one of the evil spirits takes control of you.
+        When you are returned to consciousness, until you take a long rest, you
+        gain the new flaw: “An unpredictable trickster spirit controls my
+        actions.”
+    - name: Master of Archery
+      description: >-
+        You placed first in the Archery Competition for the Challenge of Ubtao
+        at the D&D Open! If your character is at disadvantage when making a
+        ranged attack roll, you may expend this certificate to cancel the
+        disadvantage.
+    - name: Master of Intellect
+      description: >-
+        You placed first in the Intelligence (Mathematics) Challenge of Ubtao at
+        the D&D Open! If you fail a skill check, you may expend this certificate
+        and chose any one die (d4, d6, d8, d10, d12, or d20) and add the result
+        to the roll. However, if the check fails, you may not use that die (or
+        any die with that same number of sides) for the rest of the encounter.
+    - name: Master of Senses
+      description: >-
+        You placed first in the Intelligence (Investigation) check for the
+        Challenge of Ubtao at the D&D Open! If your character is blinded, you
+        may close your eyes, roll a die, and guess whether the result is odd or
+        even. If you are incorrect, you may not use this certificate this
+        adventure. If you are correct, mark through this certificate. You are no
+        longer blinded and cannot be blinded for the next 2 minutes.
+    - name: Maze Runner
+      description: >-
+        You skillfully navigated Ubtao's maze, completing all of the encounter
+        bonus conditions. Ubtao grants you a boon. When spending Hit Dice, you
+        may expend this certificate to receive the maximum value of any dice
+        rolled during a short rest. Mark through this certificate when used.
+    - name: Nanny Pu'Pu's Charm
+      description: >-
+        This character activated Nanny Pu'Pu's rag doll charm during the
+        adventure. Nanny Pu'Pu has claimed a bit of your soul. The first Wisdom
+        saving throw you make after each long rest is made with disadvantage, as
+        your sleep is wracked with the most horrible nightmares. Your screams
+        and whimpering during sleep make it hard for others around you to rest.
+        However, after a short rest, you gain 1 additional hit point for each
+        Hit Die used.
+    - name: Raider of the Lost Shrines
+      description: >-
+        You completed all of the bonus conditions for three or more Trickster
+        God shrines! You have a knack for solving puzzles and noticing danger.
+        The next time after this adventure that a trap targets you, any attacks
+        against you automatically miss and you succeed at any skill checks or
+        saving throws due to the trap going off. Mark through this certificate
+        once it has been spent.
+    - name: Still Standing
+      description: >-
+        Your party survived the second round of the D&D Open without any party
+        member being brought to 0 hit points! Words of your prowess reach the
+        Factions. You may expend this certificate to fulfil the secret mission
+        requirements for Faction Advancement, so long as you meet the other
+        requirements. You may instead expand this certificate to grant this
+        benefit to another character, either your own or another player's
+        character.
+    - name: Ubtao's Chosen
+      description: >-
+        Your team was one of the first three to complete the cube puzzle,
+        granting access to Ubtao's sunken temple! Ubtao watches you, and at two
+        times of your choosing, grants you Inspiration. Mark through this
+        certificate once expended.
+    - name: A Worthy of Ubtao
+      description: >-
+        You were one of the fastest parties to complete Ubtao's challenge. For
+        your wisdom and cunning, you start with inspiration in the next five
+        adventures or story chapters you play.
+
+
+- code: DDAL-OPEN-2018
+  name: Gangs of Waterdeep
+  description: ''
+  released: '2018-06-16'
+  tier: 1
+  length: 8
+  apl: 3
+  credits:
+    - name: Will Doyle
+      role: Adventure Designer
+      key: true
+    - name: James Introcaso
+      role: Adventure Designer
+      key: true
+    - name: Shawn Merwin
+      role: Adventure Designer
+      key: true
+    - name: Chris Lindsay
+      role: Development and Editing
+  items:
+    - name: Wand of Fear
+      rarity: rare
+  storyAwards:
+    - name: 2018 D&D Open Participant Award
+      description: >-
+        Thank you for participating in the 2018 D&D Open! For simply having a
+        grand time, you can create a D&D Adventurers League character using 900
+        XP. You get to skip those pesky first two levels! Congratulations.
+    - name: Bad Reputation
+      description: >-
+        You were arrested during the D&D Open. Give the Bad Reputation feature
+        from the pirate background in the *Player’s Handbook* to one of your
+        characters.
+    - name: Best Dressed Informant
+      description: |-
+        Congratulations on winning the 2018 D&D Open costume contest!
+
+        - You can create a D&D Adventurers League character using 6,500 XP.
+        - The character you create with this reward gains one rare magic item of
+        your choice.
+        - The character you create should resemble the NPC informant you played
+        in some way.
+    - name: Bregan D’aerthe Buddy
+      description: |-
+        Congratulations on winning the 2018 D&D Open! You recovered the *Eye of
+        Zaltec* and gave it to Bregan D’aerthe.
+
+        - You can create a D&D Adventurers League character using 6,500 XP. This
+        character must be a drow.
+        - The character you create with this reward gains one of the following
+        magic items of your choice: *boots of speed*, a *portable hole*, or a
+        *wand of lightning bolts*.
+    - name: Cassalanter Compadre
+      description: |-
+        Congratulations on winning the 2018 D&D Open! You recovered the *Eye of
+        Zaltec* and gave it to the Cassalanters.
+
+        - You can create a D&D Adventurers League character using 6,500 XP. This
+        character must have the noble background.
+        - The character you create with this reward gains one of the following
+        magic items of your choice: an *amulet of health*, a *rod of rulership*,
+        or any *vicious weapon*.
+    - name: Force Grey Friend
+      description: |-
+        Congratulations on winning the 2018 D&D Open! You recovered the *Eye of
+        Zaltec* and gave it to Force Grey.
+
+        - You can create a D&D Adventurers League character using 6,500 XP. This
+        character must have the folk hero background.
+        - The character you create with this reward gains one of the following
+        magic items of your choice: a *+2 shield*, a *cape of the mountebank*,
+        or a *flame tongue*.
+    - name: Harper Homie
+      description: |-
+        Congratulations on winning the 2018 D&D Open! You recovered the *Eye of
+        Zaltec* and gave it to the Harpers.
+
+        - You can create a D&D Adventurers League character using 6,500 XP. This
+        character must be a member of the Harpers.
+        - The character you create with this reward gains one of the following
+        magic items of your choice: *boots of levitation*, a *sun blade*, or a
+        *wand of wonder*.
+    - name: Lords’ Alliance Lover
+      description: |-
+        Congratulations on winning the 2018 D&D Open! You recovered the *Eye of
+        Zaltec* and gave it to the Lords’ Alliance.
+
+        - You can create a D&D Adventurers League character using 6,500 XP. This
+        character must be a member of the Lords’ Alliance.
+        - The character you create with this reward gains one of the following
+        magic items of your choice: *+1 armor*, a *mantle of spell resistance*,
+        or a *ring of evasion*.
+    - name: Manshoon’s Mate
+      description: |-
+        Congratulations on winning the 2018 D&D Open! You recovered the *Eye of
+        Zaltec* and gave it to the Zhentarim allied with Manshoon.
+
+        - You can create a D&D Adventurers League character using 6,500 XP. This
+        character must have the criminal background.
+        - The character you create with this reward gains one of the following
+        magic items of your choice: a *dagger of venom*, a *robe of eyes*, or a
+        *wand of fear*.
+    - name: Manshoon’s Adversary
+      description: |-
+        Congratulations on winning the 2018 D&D Open! You recovered the *Eye of
+        Zaltec* and gave it to the Zhentarim not allied with Manshoon.
+
+        - You can create a D&D Adventurers League character using 6,500 XP. This
+        character must be a member of the Zhentarim.
+        - The character you create with this reward gains one of the following
+        magic items of your choice: a *dagger of venom*, *elven chain*, or a
+        *sword of life stealing*.
+    - name: My Precious!
+      description: |-
+        Congratulations on winning the 2018 D&D Open! You recovered the *Eye of
+        Zaltec* and kept it.
+
+        - You can create a D&D Adventurers League character using 6,500 XP.
+        - The character you create with this reward gains 5,000 gp.
+    - name: Order of the Gauntlet Chum
+      description: |-
+        Congratulations on winning the 2018 D&D Open! You recovered the *Eye of
+        Zaltec* and gave it to the Order of the Gauntlet.
+
+        - You can create a D&D Adventurers League character using 6,500 XP. This
+        character must be a member of the Order of the Gauntlet.
+        - The character you create with this reward gains one of the following
+        magic items of your choice: *armor of fire resistance*, a *mace of
+        disruption*, or a *ring of protection*.
+    - name: Treasures of the Aboleth
+      description: >-
+        Congratulations! You recovered the *Eye of Zaltec*. Choose one uncommon
+        magic item from the *Dungeon Master’s Guide* to give to one of your
+        characters.
+    - name: Volo’s Cohort
+      description: |-
+        Congratulations on winning the 2018 D&D Open! You recovered the *Eye of
+        Zaltec* and gave it to Volo.
+
+        - You can create a D&D Adventurers League character using 6,500 XP. This
+        character must have the sage background.
+        - The character you create with this reward gains one of the following
+        magic items of your choice: *Daern’s instant fortress*, a *ring of x-ray
+        vision*, or a *staff of swarming insects*.
+    - name: Xanathar’s Ally
+      description: |-
+        Congratulations on winning the 2018 D&D Open! You recovered the *Eye of
+        Zaltec* and gave it to the Xanathar Guild.
+
+        - You can create a D&D Adventurers League character using 6,500 XP. This
+        character must have the criminal background.
+        - The character you create with this reward gains one of the following
+        magic items of your choice: a *+2 weapon*, a *cloak of the bat*, or a
+        *tentacle rod*.
+
+
+- code: DDAL-OPEN-2019
+  name: Forged in Fire
+  description: ''
+  released: '2019-06-01'
+  tier: 2
+  length: 8
+  apl: 7
+  credits:
+    - name: Will Doyle
+      role: Adventure Designer
+      key: true
+    - name: James Introcaso
+      role: Adventure Designer
+      key: true
+    - name: Shawn Merwin
+      role: Adventure Designer
+      key: true
+    - name: Chris Lindsay
+      role: Development and Editing
+  storyAwards:
+    - name: 2019 D&D Open DM Award
+      description: |-
+        You can create a new 7th-level D&D Adventurers League character using
+        this award. That character can start with one of the following magic
+        items:
+
+        - *Amulet of health*
+        - *Boots of levitation*
+        - *Cloak of the bat*
+        - *Flame tongue longsword*
+        - *Helm of teleportation*
+    - name: 2019 D&D Open Participant Award
+      description: >-
+        Thank you for participating in the 2019 D&D Open! For simply having a
+        grand time, you can create a new 5th-level D&D Adventurers League
+        character using this award. You get to skip those pesky first four
+        levels! Congratulations.
+    - name: 2019 D&D Open Winner Award
+      description: |-
+        You can create a new 11th-level D&D Adventurers League character using
+        this award. That character can start with one of the following magic
+        items:
+
+        - *+2 armor*
+        - *+3 wand of the war mage*
+        - *+3 weapon*
+        - *Ring of regeneration*
+        - *Staff of lightning and thunder*
+    - name: Bessed Dressed DM Award
+      description: |-
+        You can create a new 11th-level D&D Adventurers League character using
+        this award. That character can start with one of the following magic
+        items:
+
+        - *+2 armor*
+        - *Belt of stone giant strength*
+        - *Cloak of arachnida*
+        - *Robe of scintillating colors*
+        - *Robe of stars*
+    - name: Friends Over Fights Award
+      description: |-
+        The character you create with your 2019 D&D Open Participant Story Award
+        gains one of the following magic items:
+
+        - *Boots of speed*
+        - *Cape of the mountebank*
+        - *Horn of Valhalla*
+        - *Portable hole*
+        - *Staff of healing*
+    - name: Ready for Combat Award
+      description: |-
+        The character you create with your 2019 D&D Open Participant Story Award
+        gains one of the following magic items:
+
+        - *+1 armor*
+        - *+2 wand of the war mage*
+        - *+2 weapon*
+        - *Ring of the ram*
+        - *Staff of withering*
+    - name: Soulless Award
+      description: >-
+        You gain advantage on a Charisma (Deception or Intimidation) check.
+        After you use this feature, all Charisma ability checks you make for the
+        next 24 hours are made with disadvantage, and you cannot use this
+        feature again until the end of that time.

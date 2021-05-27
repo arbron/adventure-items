@@ -1,0 +1,42 @@
+- code: DDHC-LR
+  name: Locathah Rising
+  description: >-
+    This is a story about what happens when a normally peaceful species
+    is pushed to the point of open conflict.
+  released: '2019-09-19'
+  url: 'https://www.dmsguild.com/product/289261/Locathah-Rising-5e'
+  tier: 2
+  apl: 9
+  credits:
+    - name: Chris Lindsay
+      role: Designer
+      key: true
+    - name: Shawn Merwin
+      role: Developer
+    - name: Hannah Rose
+      role: Editor
+    - name: Dyson Logos
+      role: Cartographer
+    - name: Rich Lescouflair
+      role: Graphic Designer
+    - name: Shawn Wood
+      role: Cover Illustrator
+    - name: Joachim Barrum
+      role: Interior Illustrator
+    - name: Eric Belisle
+      role: Interior Illustrator
+    - name: Filip Burburan
+      role: Interior Illustrator
+    - name: Aaron Hubrich
+      role: Interior Illustrator
+    - name: Raymond Swanland
+      role: Interior Illustrator
+    - name: Shawn Wood
+      role: Interior Illustrator
+  items:
+    - name: Bowl of Commanding Water Elementals
+      rarity: rare
+    - name: Gem of Seeing
+      rarity: rare
+    - name: Periapt of Wound Closure
+      rarity: uncommon

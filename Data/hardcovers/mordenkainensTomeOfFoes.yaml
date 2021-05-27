@@ -1,0 +1,239 @@
+- code: DDHC-MORD-01
+  name: Riddle of the Raven Queen
+  description: >-
+    Embark on a rescue mission into the heart of the Shadowfell in this
+    adventure for the world's greatest role-playing game!
+  released: '2018-05-21'
+  url: 'https://www.dmsguild.com/product/242611/Riddle-of-the-Raven-Queen'
+  tier: 2
+  length: 8-12
+  apl: 8
+  credits:
+    - name: Claire Hoffman
+      role: Adventure Designer
+      key: true
+    - name: James Introcaso
+      role: Adventure Designer
+      key: true
+    - name: Greg Marks
+      role: Adventure Designer
+      key: true
+    - name: Travis Woodall
+      role: Adventure Designer
+      key: true
+    - name: Ginny Loveday
+      role: Editor
+    - name: James Introcaso
+      role: Project Management
+    - name: Shawn Merwin
+      role: Project Management
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+    - name: Mark Molnar
+      role: Cover Art
+    - name: Sidharth Chaturvedi
+      role: Interior Artist
+    - name: Wayne England
+      role: Interior Artist
+    - name: Mark Molnar
+      role: Interior Artist
+    - name: Ilya Shkipin
+      role: Interior Artist
+    - name: Dyson Logos
+      role: Cartography
+    - name: Travis Woodall
+      role: Cartography
+
+
+- code: DDHC-MORD-02
+  name: The Lich-Queen's Begotten
+  description: >-
+    The Lich-Queen of the Githyanki is one of the most malevolent beings in
+    existence, and she is scheming to become more powerful than ever before.
+    Our heroes must journey to the Astral Plane where they will encounter
+    astonishing new locations and terrible new enemies. Can they thwart the
+    diabolical plans of the Lich-Queen and save the multiverse?
+  released: '2018-05-21'
+  url: 'https://www.dmsguild.com/product/242645/The-LichQueens-Begotten'
+  tier: 3
+  length: 4-6
+  apl: 13
+  credits:
+    - name: M.T. Black
+      role: Adventure Designer
+      key: true
+    - name: Ginny Loveday
+      role: Editor
+    - name: James Introcaso
+      role: Project Management
+    - name: Shawn Merwin
+      role: Project Management
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+    - name: Zoltan Boros
+      role: Cover Art
+    - name: Aleski Briclot
+      role: Interior Artist
+    - name: Sidharth Chaturvedi
+      role: Interior Artist
+    - name: Jon Hodgson
+      role: Interior Artist
+    - name: Daniel Landerman
+      role: Interior Artist
+    - name: Olly Lawson
+      role: Interior Artist
+    - name: Ben Wooten
+      role: Interior Artist
+
+
+- code: DDHC-MORD-03
+  name: To Wake The Leviathan
+  description: |-
+    Across the infinite layers of the Lower Planes, a band of heroes desperately
+    hunts for the whereabouts of an ancient weapon—one that could very well
+    turn the tide of the eternal Blood War.
+
+    With the help of the archmage Mordenkainen, these adventurers must stop
+    the great Leviathan from falling into fiendish hands. Can they unlock the
+    mysteries of the war machine before it's too late? 
+  released: '2018-05-24'
+  url: 'https://www.dmsguild.com/product/242840/To-Wake-The-Leviathan'
+  tier: 3
+  length: 4-6
+  apl: 13
+  credits:
+    - name: Rich Lescouflair
+      role: Adventure Designer
+      key: true
+    - name: Shawn Merwin
+      role: Editor
+    - name: James Introcaso
+      role: Project Management
+    - name: Shawn Merwin
+      role: Project Management
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+    - name: Eric Belisle
+      role: Artist
+    - name: Aaron Hübrich
+      role: Artist
+    - name: Mark Molnar
+      role: Artist
+    - name: Alexey Morozov
+      role: Artist
+    - name: Hector Ortiz
+      role: Artist
+    - name: Vincent Proce
+      role: Artist
+    - name: Zack Stella
+      role: Artist
+    - name: Franz Vohwinkel
+      role: Artist
+
+
+- code: DDHC-MORD-04
+  name: Pudding Faire
+  description: >-
+    You awaken on the morning of the Pudding Faire: just as you did yesterday…
+    and the day before that… and the day before that! To escape the loop, you
+    must break a curse that strikes to the heart of halfling and gnome lore.
+  released: '2018-08-13'
+  url: 'https://www.dmsguild.com/product/249757/Pudding-Faire'
+  tier: 1
+  length: 3-4
+  apl: 3
+  credits:
+    - name: Will Doyle
+      role: Adventure Designer
+      key: true
+    - name: Will Doyle
+      role: Design
+    - name: Cindy Moore
+      role: Design
+    - name: Shawn Merwin
+      role: Design
+    - name: M.T. Black
+      role: Dad Jokes
+    - name: Shawn Merwin
+      role: Development and Editing
+    - name: Ginny Loveday
+      role: Development and Editing
+    - name: James Introcaso
+      role: Project Management
+    - name: Shawn Merwin
+      role: Project Management
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+    - name: Mark Behm
+      role: Cover Art
+    - name: Beth Trott
+      role: Interior Artist
+    - name: Cory Trego-Erdner
+      role: Interior Artist
+    - name: Craig J. Spearing
+      role: Interior Artist
+    - name: Jasper Ejsing
+      role: Interior Artist
+    - name: Rob Rey
+      role: Interior Artist
+    - name: Wayne England
+      role: Interior Artist
+    - name: Zack Stella
+      role: Interior Artist
+    - name: Will Doyle
+      role: Cartography
+
+
+- code: DDHC-MORD-05
+  name: Escape from Wheloon
+  description: >-
+    The walled city of Wheloon holds the criminal population of Cormyr. The
+    residents of that place are bound to it forever and cut off from the outside
+    world. Inside, plans are made and malcontents pool their resources–and
+    outside, forces influence the innocent to ensure that a dire plot can be
+    realized without interference from the knights and mages that guard the
+    realm. Now you’re here with no memory of what brought you to Wheloon, and
+    all you can think of is finding out why!
+  released: '2018-09-12'
+  url: 'https://www.dmsguild.com/product/251922/Escape-from-Wheloon'
+  tier: 1
+  length: 3-4
+  apl: 1
+  credits:
+    - name: Alan Patrick
+      role: Adventure Author
+      key: true
+    - name: Ginny Loveday
+      role: Editing
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+    - name: Mark Behm
+      role: Cover Art
+    - name: Elven Tower
+      role: Cartography
+    - name: Adam Wood
+      role: Cartography
+
+
+- code: DDIA-MORD
+  name: Rrakkma
+  description: >-
+    You stand before the Sha’sal Khou elders as the most diverse gith hunting party ever assembled. Are you powerful enough to keep the mind flayers from enslaving your people once again?
+
+    You’ll have to race across the planes to find out.
+  released: '2018-07-31'
+  url: 'https://www.dmsguild.com/product/248633/DDIAMORD-Rrakkma-5e'
+  tier: 2
+  length: 6-8
+  apl: 9
+  credits:
+    - name: Chris Lindsay
+      role: Lead Designer
+      key: true
+    - name: Claire Hoffman
+      role: Editing
+    - name: Travis Woodall
+      role: Editing
+  missing:
+    - items
+    - pdf

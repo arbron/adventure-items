@@ -1,0 +1,313 @@
+- code: DDHC-CM-01
+  name: The Joy of Extradimensional Spaces
+  description: >-
+    A book leads characters on a quest to find a missing sage. This adventure,
+    inspired by the Mordenkainen's magnificent mansion spell, presents a
+    memorable introductory mystery for new arrivals to Candlekeep.
+  released: '2021-03-16'
+  tier: 1
+  apl: 1
+  credits:
+    - name: Michael Polkinghorn
+      role: Writer
+      key: true
+    - name: Hannah Rose
+      role: Edited
+
+
+- code: DDHC-CM-02
+  name: Mazfroth's Mighty Digressions
+  description: >-
+    A monstrous revelation sheds light on a book merchant's scam. This adventure
+    takes the characters from Candlekeep to Baldur's Gate and includes a new
+    monster: the gingwatzim.
+  released: '2021-03-16'
+  tier: 1
+  apl: 2
+  credits:
+    - name: Alison Huang
+      role: Writer
+      key: true
+    - name: Hannah Rose
+      role: Edited
+    - name: Hannah Rose
+      role: Developed
+    - name: Christopher Perkins
+      role: Developed
+
+
+- code: DDHC-CM-03
+  name: Book of the Raven
+  description: >-
+    A treasure map tucked inside a book leads adventurers to a remote hilltop
+    chalet occupied by a secret society. This adventure has the trappings of a
+    haunted house mystery and provides a possible route into the Shadowfell.
+  released: '2021-03-16'
+  tier: 1
+  apl: 3
+  credits:
+    - name: Christopher Perkins
+      role: Writer
+      key: true
+    - name: Kim Mohan
+      role: Edited
+
+
+- code: DDHC-CM-04
+  name: A Deep and Creeping Darkness
+  description: >-
+    A book describing a mining disaster prompts adventurers to search for a
+    missing town. This mystery keeps players guessing until the end and makes
+    clever use of a D&D monster that rarely gets much love.
+  released: '2021-03-16'
+  tier: 1
+  apl: 4
+  credits:
+    - name: Sarah Madsen
+      role: Written
+      key: true
+    - name: Michele Carter
+      role: Developed & Edited
+
+
+- code: DDHC-CM-05
+  name: Shemshime's Bedtime Rhyme
+  description: >-
+    A catchy and contagious rhyme traces back to a sinister clockwork book.
+    Trapped in one of Candlekeep's cellars, the characters must figure out the
+    best way to stop the spread of this odd contagion.
+  released: '2021-03-16'
+  tier: 1
+  apl: 4
+  credits:
+    - name: Ari Levitch
+      role: Written
+      key: true
+    - name: Michele Carter
+      role: Developed & Edited
+
+
+- code: DDHC-CM-06
+  name: The Price of Beauty
+  description: >-
+    A book about beauty shows the way to a secluded temple where beauty is only
+    skin deep. Characters who don't want to get embroiled in the temple's
+    mysteries should, at the very least, enjoy the bath and pedicure.
+  released: '2021-03-16'
+  tier: 2
+  apl: 5
+  credits:
+    - name: Mark Hulmes
+      role: Written
+      key: true
+    - name: Scott Fitzgerald Gray
+      role: Developed & Edited
+
+
+- code: DDHC-CM-07
+  name: Book of Cylinders
+  description: >-
+    Engraved cylinders contained within a book tell a gripping tale when rolled
+    across wet clay. This adventure updates the grippli (distant relatives to
+    bullywugs) for fifth edition and sheds some light on grippli society.
+  released: '2021-03-16'
+  tier: 2
+  apl: 6
+  credits:
+    - name: Graeme Barber
+      role: Written
+      key: true
+    - name: Kim Mohan
+      role: Developed & Edited
+
+
+- code: DDHC-CM-08
+  name: Sarah of Yellowcrest Manor
+  description: >-
+    A haunted book points a ghostly finger at the perpetrators of an unsolved
+    mass killing in Waterdeep. This mystery features urban and dungeon
+    exploration, as well as a potentially new, otherworldly campaign villain.
+  released: '2021-03-16'
+  tier: 2
+  apl: 7
+  credits:
+    - name: Derek Ruiz
+      role: Written
+      key: true
+    - name: Scott Fitzgerald Gray
+      role: Developed & Edited
+
+
+- code: DDHC-CM-09
+  name: Lore of Lurue
+  description: >-
+    Adventurers become immersed in a storybook conflict involving Lurue the
+    Unicorn Queen and Malar the Beast Lord, which leads adventurers to the
+    corrupted Pool of Eternal Spring. Can they end the corruption for the good
+    of the High Forest?
+  released: '2021-03-16'
+  tier: 2
+  apl: 8
+  credits:
+    - name: Kelly Lynne D’Angelo
+      role: Written
+      key: true
+    - name: Kim Mohan
+      role: Developed & Edited
+
+
+- code: DDHC-CM-10
+  name: Kandlekeep Dekonstruktion
+  description: >-
+    A stolen book leads adventurers to a tower in Candlekeep that is more than
+    what it seems. This adventure strikes a more light-hearted tone than the
+    others, but the mystery and its revelations are well worth the journey.
+  released: '2021-03-16'
+  tier: 2
+  apl: 9
+  credits:
+    - name: Amy Vorpahl
+      role: Written
+      key: true
+    - name: Christopher Perkins
+      role: Developed
+    - name: Scott Fitzgerald Gray
+      role: Edited
+
+
+- code: DDHC-CM-11
+  name: Zikran's Zephyrean Tome
+  description: >-
+    A djinni trapped in a book offers a wish spell to adventurers to find a way
+    to release him. The key to the djinni's freedom lies with his former master,
+    a mad wizard on the cusp of mastering elemental magic.
+  released: '2021-03-16'
+  tier: 2
+  apl: 10
+  credits:
+    - name: Taymoor Rehman
+      role: Written
+      key: true
+    - name: Christopher Perkins
+      role: Developed & Edited
+
+
+- code: DDHC-CM-12
+  name: The Curious Tale of Wisteria Vale
+  description: >-
+    A book holds the key to freeing Arrant Quill, who has languished in a
+    demiplanar prison for years, waiting for a cure to his madness. The
+    adventurers must administer the cure but Quill is not the greatest danger in
+    this prison plane.
+  released: '2021-03-16'
+  tier: 3
+  apl: 11
+  credits:
+    - name: Kienna Shaw
+      role: Written
+      key: true
+    - name: Christopher Perkins
+      role: Developed & Edited
+    - name: Hannah Rose
+      role: Developed & Edited
+
+
+- code: DDHC-CM-13
+  name: The Book of Inner Alchemy
+  description: >-
+    A search for the missing pages of a book puts adventurers in conflict with
+    the monks of the Immortal Lotus. Heroes who defeat these Shou villains and
+    retrieve the pages can learn to make gloves of soul catching, a new and
+    legendary magic item.
+  released: '2021-03-16'
+  tier: 3
+  apl: 12
+  credits:
+    - name: Daniel Kwan
+      role: Written
+      key: true
+    - name: Hannah Rose
+      role: Developed & Edited
+
+
+- code: DDHC-CM-14
+  name: The Canopic Being
+  description: >-
+    A book brings a number of puzzling organ transplants to life. This adventure
+    takes the characters from Candlekeep to Tashluta, a tropical city, and from
+    there into an unusual dungeon harboring a fearsome threat to their future
+    well-being.
+  released: '2021-03-16'
+  tier: 3
+  apl: 13
+  credits:
+    - name: Jennifer Kretchmer
+      role: Written
+      key: true
+    - name: Scott Fitzgerald Gray
+      role: Developed & Edited
+    - name: Christopher Perkins
+      role: Developed & Edited
+
+
+- code: DDHC-CM-15
+  name: The Scrivener's Tale
+  description: >-
+    A tome leaves its magical mark as adventurers struggle to contain the evil
+    archfey trapped inside it. In this adventure, heroes are taken to the ruins
+    of a forgotten kingdom and its ancient, subterranean library.
+  released: '2021-03-16'
+  tier: 3
+  apl: 14
+  credits:
+    - name: Brandes Stoddard
+      role: Written
+      key: true
+    - name: Christopher Perkins
+      role: Developed
+    - name: Scott Fitzgerald Gray
+      role: Edited
+
+
+- code: DDHC-CM-16
+  name: Alkaaar's Appendix
+  description: >-
+    A book chronicles an unsolved mystery about a wandering stone golem in the
+    desert of Anauroch. The golem is part of a larger mystery that unfolds as
+    characters explore, ending with the discovery of a necropolis buried in the
+    sand.
+  released: '2021-03-16'
+  tier: 3
+  apl: 15
+  credits:
+    - name: Adam Lee
+      role: Written
+      key: true
+    - name: Michele Carter
+      role: Developed
+    - name: Christopher Perkins
+      role: Developed
+    - name: Michele Carter
+      role: Edited
+
+
+- code: DDHC-CM-17
+  name: Xanthoria
+  description: >-
+    A fell grimoire helps adventurers end a fungal plague. But Xanthoria is more
+    than just the name of the book; it's the last word spoken by those who
+    succumb to the plague, and adventurers who pursue the book's leads will soon
+    find out why.
+  released: '2021-03-16'
+  tier: 4
+  apl: 16
+  credits:
+    - name: Toni Winslow-Brill
+      role: Written
+      key: true
+    - name: Bill Benham
+      role: Developed
+    - name: Christopher Perkins
+      role: Developed
+    - name: Kim Mohan
+      role: Edited

@@ -12,7 +12,7 @@ import AdventureUtils
 struct Adventure: Codable, Hashable {
     var code: String
     var name: String
-    var description: String
+    @DecodableDefault.EmptyString var description: String
 
     var adventureSeed: String?
 
@@ -66,6 +66,7 @@ extension Adventure {
         case hardcover
 
         case authorOnly
+        case introAdventure
 
         case dreamsOfRedWizards
         case embersOfTheLastWar
@@ -94,6 +95,8 @@ extension Adventure {
                 self = .hardcover
             } else if code.hasPrefix("DDAO") {
                 self = .authorOnly
+            } else if code.hasPrefix("DDIA") || code.hasPrefix("DDLE") {
+                self = .introAdventure
             } else {
                 fatalError("Invalid adventure code: \(code)")
             }
@@ -107,6 +110,7 @@ extension Adventure {
             cases.append(.season(0))
             cases.append(contentsOf: [
                 .authorOnly,
+                .introAdventure,
                 .hardcover,
                 .dreamsOfRedWizards,
                 .embersOfTheLastWar,
@@ -123,6 +127,7 @@ extension Adventure {
             case .season(let number): return "Season \(number)"
             case .hardcover: return "Hardcover"
             case .authorOnly: return "Author Only"
+            case .introAdventure: return "Intro Adventure"
             case .dreamsOfRedWizards: return "Dreams of Red Wizards"
             case .embersOfTheLastWar: return "Embers of the Last War"
             case .oracleOfWar: return "Oracle of War"

@@ -1,0 +1,666 @@
+- code: DDAO-01
+  name: Window to the Past
+  description: |-
+    When a Thayan research expedition returns from the Glacier of the White
+    Wyrm with only two survivors that are reduced to whispering about an
+    ancient pyramid under the ice, perhaps it is time to discover just what
+    scares the life out of a nation of necromancers.
+
+    Published as [DDAL00-01](/adventures/ddal00-01/)
+  tier: [2, 3, 4]
+  length: 4
+  credits:
+    - name: Alan Patrick
+      role: Author
+
+
+- code: DDAO-02
+  name: One Night in Luskan
+  description: >-
+    Action! Adventure! Debauchery! Pirates! All this and more can be found
+    in Luskan, City of Sails. Do you have what it takes to survive in this
+    den of larceny and vice? Fame, wealth, and even a chance to do something
+    good await!
+  tier: [1, 2, 3]
+  length: 4
+  credits:
+    - name: Bill Benham
+      role: Author
+
+
+- code: DDAO-03
+  name: The Taming of Elisande
+  description: >-
+    The mystery of Elisande has finally been revealed. Potentially a powerful
+    weapon that could alter the balance of power in the Moonsea, you’ve been
+    asked to accompany her as she journeys into the Bloodstone Lands. Will
+    you be able to sway her to way of your thinking? 
+  tier: [1, 2, 3]
+  length: 4
+  credits:
+    - name: Greg Marks
+      role: Author
+
+
+- code: DDAO-04
+  name: Halruaa Rising
+  description: >-
+    The magical folk of Halruaa have returned to Faerûn after nearly 100
+    years. With their magical airships they reach out to countries and
+    city-states across the Sword Coast with offers of friendship, but is
+    that truly what they seek? Can you unravel the mysterious ways of the
+    Halruaans or will you succumb to their arcane might?
+  tier: [1, 2, 3]
+  length: 4
+  credits:
+    - name: Robert Adducci
+      role: Author
+
+
+- code: DDAO-05
+  name: The Space Between the Spaces
+  description: >-
+    The magical folk of Halruaa have returned to Faerûn after nearly 100
+    years. With their magical airships they reach out to countries and
+    city-states across the Sword Coast with offers of friendship, but is
+    that truly what they seek? Can you unravel the mysterious ways of the
+    Halruaans or will you succumb to their arcane might?
+  tier: 3
+  length: 4
+  credits:
+    - name: Travis Woodall
+      role: Author
+
+
+- code: DDAO-06
+  name: Enchantment Under the Sea
+  tier: [1, 2]
+  length: 4
+  credits:
+    - name: Mike Mearls
+      role: Author
+
+
+- code: DDAO-07
+  name: Holocaust Pursuit
+  description: >-
+    The Book of Vile Darkness has been stolen from beneath the library at
+    Candlekeep, and though the monks have chased the thief all the way to
+    Waterdeep, they’re ill-equipped to delve into Undermountain where they
+    suspect foul play most apocalyptic.
+  tier: [1, 2, 3]
+  length: 4
+  credits:
+    - name: Chris Lindsay
+      role: Author
+
+
+- code: DDAO-08
+  name: Perkins Palooza!
+  tier: [1, 2]
+  length: 4
+  credits:
+    - name: Chris Perkins
+      role: Author
+
+
+- code: DDAO-09
+  name: Lyceum Sepulchral
+  description: >-
+    An ancient stone giant seminary is the target of corruption, having
+    fallen under the influence of the Book of Vile Darkness. It will most
+    certainly take a heroic effort to cleanse these halls of the evil that
+    dwells within.
+  tier: [2, 3]
+  length: 4
+  credits:
+    - name: Chris Lindsay
+      role: Author
+
+
+- code: DDAO-10
+  name: Across a Misty Tavern Yard
+  description: >-
+    Strange mists have been spotted in the Quivering Forest and many fear
+    the return of Barovia. If anyone can warn you of what goes bump in the
+    night, it is Jeny Greenteeth. Part One of Four.
+  tier: [1, 2, 3, 4]
+  length: 4
+  credits:
+    - name: Greg Marks
+      role: Author
+
+
+- code: DDAO-11
+  name: Those That Came Before
+  description: |-
+    All of the scribes in Candlekeep are reporting eerie dreams, dreams in
+    which the flying citadels of Ancient Netheril remain aloft among the
+    clouds, with the modern skylines of Neverwinter and Waterdeep far below.
+    These hazy visions all end the same way: with tremendous calamity as
+    those fortresses smash down upon the defenseless metropolises. What aid
+    can be enlisted when such doom is on the horizon?
+
+    Published as [DDAL00-03](/adventures/ddal00-03/)
+  tier: [3, 4]
+  length: 4
+  credits:
+    - name: Alan Patrick
+      role: Author
+
+
+- code: DDAO-12
+  name: Dragons of Fire and Death
+  description: |-
+    Giants have been plundering the farms and villages on the Iron Route,
+    but there is more behind these giant attacks than simple plunder. A
+    burning roadhouse and subsequent clues bring promises of riches and
+    threats of fire and death in the Dragonspire mountains. A forgotten
+    enemy rises, dare you face it?
+
+    A sequel to [DDEX01-12 Raider of the Twilight Marsh](/adventures/ddex01-12/).
+  tier: 3
+  length: 4
+  credits:
+    - name: Robert Adducci
+      role: Author
+
+
+- code: DDAO-13
+  name: Embers of Hate
+  description: |-
+    Hatred burns with a fire unlikely any other; and the hotter the flame,
+    the more difficult it is to stamp it out. Beneath the rubble of
+    Mulmaster, and a group of angry men and women seek to stoke smoldering
+    embers of hate anew into a raging conflagration. Can you stop them
+    before it is too late, or will this hatred rise from the ashes—free to
+    burn all it touches?
+
+    Published as [DDAL00-07](/adventures/ddal00-07/)
+  tier: [1, 2]
+  length: 4
+  credits:
+    - name: Travis Woodall
+      role: Author
+
+
+- code: DDAO-14
+  name: Act of Grace
+  description: >-
+    Ill omens blow into port on the trade winds. A former pirate speaks
+    of strange and deadly happenings on the high seas. Danger, riches,
+    and excitement await!
+  tier: [1, 2]
+  length: 4
+  credits:
+    - name: Bill Benham
+      role: Author
+
+
+- code: DDAO-15
+  name: Debts to be Paid
+  description: >-
+    The glow of happiness caused by Mulhrond’s returned to Toril, along
+    with the return of their pantheon’s incarnations, has begun to fade.
+    Old rivalries among the priesthood are renewed and the neglect of
+    certain religious sites during the past century is both an embarrassment
+    and a bone of contention. The Zhentarim see this as a prime opportunity
+    for profit and are calling in favors from the other Factions to make the
+    most of this unique situation.
+  tier: [1, 2]
+  length: 4
+  credits:
+    - name: Claire Hoffman
+      role: Author
+
+
+- code: DDAO-16
+  name: Wild Arcana
+  description: >-
+    Near the small village of Alonsphar, south of Hillsfar just inside the
+    Cormanthor forest magic has been acting strangely. Spells, potions,
+    items, locations, and even people have erupted with odd magical
+    effects. What is causing this wild arcana?
+  tier: [1, 2]
+  length: 4
+  credits:
+    - name: Robert Adducci
+      role: Author
+
+
+- code: DDAO-17
+  name: Grung Reverie
+  tier: 2
+  length: 4
+  credits:
+    - name: Chris Lindsay
+      role: Author
+
+
+- code: DDAO-18
+  name: The Long Night
+  tier: 2
+  length: 4
+  credits:
+    - name: Bill Benham
+      role: Author
+
+
+- code: DDAO-19
+  name: Layers Upon Layers
+  description: |-
+    During the liberation of Szith Morcane, the factions found an unlikely
+    friend in an agent of evil. Now, that alliance has been put to the
+    test—and the factions are in search of souls brave (or foolish) enough
+    to venture to the mysterious depths of the Feywild in order to uphold
+    their end of the alliance! Grab your planar forks—there’s adventuring
+    to be done!
+
+    Published as [DDAL00-08](/adventures/ddal00-08/)
+  tier: [1, 2]
+  length: 4
+  credits:
+    - name: Travis Woodall
+      role: Author
+
+
+- code: DDAO-20
+  name: Somber Screams…
+  description: >-
+    A grotesque statuette leads you to the village of Narrows and a
+    disturbing seaside mystery. Part Two of Four.
+  tier: [1, 2, 3, 4]
+  length: 4
+  credits:
+    - name: Greg Marks
+      role: Author
+
+
+- code: DDAO-21
+  name: Trust & Understanding
+  description: |-
+    The shield dwarves of western Faerûn sometimes speak of a labyrinthine
+    structure on the shores of a misty lake. Rumored to imprison an
+    ancient creature that predates Faerûn’s beginnings, the place has long
+    been sealed. But now coins are showing up in bazaars and trader’s
+    booths that match the description of those minted by this citadel, and
+    they are rightly concerned.
+
+    Published as [DDAL00-10](/adventures/ddal00-10/)
+  tier: 4
+  length: 6-8
+  credits:
+    - name: Alan Patrick
+      role: Author
+
+
+- code: DDAO-22
+  name: Debts Old and New
+  tier: [2, 3]
+  length: 4
+  credits:
+    - name: Claire Hoffman
+      role: Author
+
+
+- code: DDAO-23
+  name: Trail of Bones
+  tier: 3
+  length: 4
+  credits:
+    - name: Robert Adducci
+      role: Author
+
+
+- code: DDAO-24
+  name: Dire Arcana
+  description: >-
+    A magical mishap at an arcane faire releases a surge of Wild Lightning
+    and dire spells into the region. These living spells act with purpose,
+    but to what end? Will you learn what drives this dire arcana before
+    it's too late? Part One of Two.
+  tier: 2
+  length: 4
+  credits:
+    - name: Robert Adducci
+      role: Author
+
+
+- code: DDAO-25
+  name: Devious Arcana
+  description: >-
+    Part Two of Two.
+  tier: 2
+  length: 4
+  credits:
+    - name: Robert Adducci
+      role: Author
+
+
+- code: DDAO-26
+  name: Mirt’s Merry Mayhem
+  tier: 2
+  length: 4
+  credits:
+    - name: Chris Lindsay
+      role: Author
+
+
+- code: DDAO-27
+  name: The Least Among Us
+  tier: 1
+  length: 4
+  credits:
+    - name: Bill Benham
+      role: Author
+
+
+- code: DDAO-28
+  name: It’s Aliiiive!
+  tier: 2
+  length: 2
+  credits:
+    - name: Lysa Penrose
+      role: Author
+
+
+- code: DDAO-29
+  name: Necropolis of the Dracolich
+  tier: 3
+  length: 4
+  credits:
+    - name: Robert Adducci
+      role: Author
+
+
+- code: DDAO-30
+  name: …And Melancholy Laughter
+  description: >-
+    A border dispute threatens spin out of control, but are even darker
+    forces at work? Part Three of Four.
+  tier: [1, 2, 3, 4]
+  length: 5
+  credits:
+    - name: Greg Marks
+      role: Author
+
+
+- code: DDAO-31
+  name: A Wet Wedding
+  tier: 3
+  length: 4
+  credits:
+    - name: Greg Marks
+      role: Author
+
+
+- code: DDAO-32
+  name: It’s Nothing Personal, Guy!
+  description: >-
+    It’s not very often that one gets called upon to assassinate the puppet
+    leader of city. Well that day has come. An exiled Hawk has called upon
+    you to right a wrong and set Mulmaster back on the track to prosperity.
+    Make the City of Danger great again!
+  tier: [1, 2]
+  length: 4
+  credits:
+    - name: Travis Woodall
+      role: Author
+
+
+- code: DDAO-33
+  name: It Starts at the End
+  tier: 1
+  length: 4
+  credits:
+    - name: Alan Patrick
+      role: Author
+
+
+- code: DDAO-34
+  name: Dangerous Negotiations
+  description: >-
+    Even dysfunctional families seek revenge, thus a series of deals must
+    be negotiated or an Ancient blue dragon will lay waste to the farmlands
+    of Mulhorand.
+  tier: 3
+  length: 4
+  credits:
+    - name: Claire Hoffman
+      role: Author
+
+
+- code: DDAO-35
+  name: To Steal the Wind
+  length: 4
+  credits:
+    - name: Greg Marks
+      role: Author
+
+
+- code: DDAO-36
+  name: TBA
+  length: 4
+  credits:
+    - name: Greg Marks
+      role: Author
+
+
+- code: DDAO-37
+  name: TBA
+  length: 4
+  credits:
+    - name: Lysa Penrose
+      role: Author
+
+
+- code: DDAO-38
+  name: The Green Isle
+  description: >-
+    Laeral Silverhand has tasked you with sailing to the seemingly-abandoned
+    island of Evermeet—what will you find there?
+  tier: 2
+  length: 4
+  credits:
+    - name: Amy Lynn Dzura
+      role: Author
+  items:
+    - name: Elven Chain
+      rarity: rare
+  storyAwards:
+    - name: The Moon-Horse
+      description: A Moon-Horse takes a liking to you and decides to follow you home.
+      type: pet
+  missing:
+    - pdf
+
+
+- code: DDAO-39
+  name: Calling in Markers
+  description: >-
+    You NEVER thought Mirt would ACTUALLY call on you to keep your vow, or
+    PERHAPS you hoped he wouldn’t. Either way, he has called upon you indeed.
+    Welcome to the BIG SHOW! You hope you won’t forget it.
+  tier: [2, 3]
+  length: 4
+  credits:
+    - name: Christ Lindsay
+      role: Author
+
+
+- code: DDAO-40
+  name: Gifts, Polite and Faire
+  description: >-
+    What starts as a visit to an isolated woodland village rapidly becomes
+    something more. There are rules to follow and you would be wise to do so,
+    for the Whisper King comes. Part Four of Four.
+  tier: 3
+  length: 4
+  credits:
+    - name: Greg Marks
+      role: Author
+
+
+- code: DDAO-41
+  name: The Mystery of Placid Cay
+  description: >-
+    A wealthy Amnian merchant is missing a highly valuable shipment of exotic
+    fruit from an island in the Sea of Swords. She needs adventurers to travel
+    to the island and see what might be happening there. Along the way one
+    might expect an exciting sea voyage, a terrible curse, and a mystery on
+    the idyllic island known as Placid Cay.
+  tier: 1
+  length: 4
+  credits:
+    - name: Shawn Merwin
+      role: Author
+
+
+- code: DDAO-43
+  name: Curious and Curiouser
+  description: >-
+    Drawn together by forces outside your influence, your only choice is to
+    work together if you want to escape an ancient Netherese vault. When up
+    is down, will you be able to set aside your differences and escape?
+  length: 4
+  credits:
+    - name: Alan Patrick
+      role: Author
+
+
+- code: DDAO-45
+  name: The Cube of Chance and Folly
+  credits:
+    - name: Greg Marks
+      role: Author
+
+
+- code: DDAO-48
+  name: Pomp
+  description: >-
+    Nestled deep inside a broken temple, something has awoken. Hunters are
+    missing and the stench of death rolls across the Spine of the World. What
+    hope can be found within the icy clutches of Icewind Dale when ancient
+    secrets greet the light?
+  tier: 2
+  length: 4
+  credits:
+    - name: Alan Patrick
+      role: Author
+  items:
+    - name: Moose Bite (Lifewell Tattoo)
+      rarity: veryRare
+  storyAwards:
+    - name: A Moose Named Death
+      description: >-
+        The howling winds of Icewind Dale keep many things secret and hidden
+        from the prying eyes of the world. For instance, the Netherese temple
+        dedicated to Jergal, the ancient god of death, has lain dormant and
+        alone for many hundreds of years. But you're an adventurer and when an
+        opportunity arises to investigate (and loot!) the temples of old, you
+        rise to the occasion. And this time was no exception—your deeds inspired
+        the echoes of a lost god and you now find yourself in the (somewhat
+        unenviable) position of being caretaker of his agent.
+      type: pet
+  missing:
+    - pdf
+
+
+- code: DDAO-BB
+  name: Grim Portents
+  description: >-
+    A star falls in the north, an ill omen for the town of Leilon. Is it all
+    superstition or are hard times coming?
+  tier: 1
+  length: 2
+  credits:
+    - name: Bill Benham
+      role: Author
+
+
+- code: DDAO-EP01a
+  name: Caves of Chaos - A Little Dragons
+  description: >-
+    Part One of Eight.
+  tier: 1
+  length: 2
+  credits:
+    - name: Chris Lindsay
+      role: Author
+
+
+- code: DDAO-EP01b
+  name: Caves of Chaos - Godsworn
+  description: >-
+    Part Two of Eight.
+  tier: 1
+  length: 2
+  credits:
+    - name: Chris Lindsay
+      role: Author
+
+
+- code: DDAO-EP01c
+  name: Caves of Chaos - Downtrodden
+  description: >-
+    Part Three of Eight.
+  tier: 1
+  length: 2
+  credits:
+    - name: Chris Lindsay
+      role: Author
+
+
+- code: DDAO-EP01d
+  name: Caves of Chaos - Conquering Host
+  description: >-
+    Part Four of Eight.
+  tier: 1
+  length: 2
+  credits:
+    - name: Chris Lindsay
+      role: Author
+
+
+- code: DDAO-EP01e
+  name: Caves of Chaos - Give a Hoot
+  description: >-
+    Part Five of Eight.
+  tier: 1
+  length: 2
+  credits:
+    - name: Chris Lindsay
+      role: Author
+
+
+- code: DDAO-EP01f
+  name: Caves of Chaos - Savage
+  description: >-
+    Part Six of Eight.
+  tier: 1
+  length: 2
+  credits:
+    - name: Chris Lindsay
+      role: Author
+
+
+- code: DDAO-EP01g
+  name: Caves of Chaos - Baphomet's Blood
+  description: >-
+    Part Seven of Eight.
+  tier: 1
+  length: 2
+  credits:
+    - name: Chris Lindsay
+      role: Author
+
+
+- code: DDAO-EP01h
+  name: Caves of Chaos - Yeenonghu's Brood
+  description: >-
+    Part Eight of Eight.
+  tier: 1
+  length: 4
+  credits:
+    - name: Chris Lindsay
+      role: Author

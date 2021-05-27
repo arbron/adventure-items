@@ -11,7 +11,18 @@
   released: '2016-12-15'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/200723/CCCGHC01-Tharaera-Lost'
-  tier: [2]
+  tier: 2
+  length: 2
+  apl: 7
+  credits:
+    - name: Ed Greenwood
+      role: Adventure Designer
+      key: true
+    - name: Alex Kammer
+      role: Adventure Designer
+      key: true
+    - name: Thomas Valley
+      role: Editing and Layout
   items:
     - name: Potion of Greater Healing
       rarity: uncommon
@@ -45,7 +56,18 @@
   released: '2016-12-15'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/200738/CCCGHC02-Skulljaw-Hill'
-  tier: [2]
+  tier: 2
+  length: 2
+  apl: 7
+  credits:
+    - name: Ed Greenwood
+      role: Adventure Designer
+      key: true
+    - name: Alex Kammer
+      role: Adventure Designer
+      key: true
+    - name: Thomas Valley
+      role: Editing and Layout
   items:
     - name: Battle Axe, +1
       rarity: uncommon
@@ -72,7 +94,18 @@
   released: '2016-12-15'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/200739/CCCGHC03-Facing-the-Dark'
-  tier: [2]
+  tier: 2
+  length: 2
+  apl: 7
+  credits:
+    - name: Ed Greenwood
+      role: Adventure Designer
+      key: true
+    - name: Alex Kammer
+      role: Adventure Designer
+      key: true
+    - name: Thomas Valley
+      role: Editing and Layout
   items:
     - name: Ring of Protection
       rarity: rare
@@ -92,7 +125,21 @@
   released: '2017-12-04'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/228101/CCCGHC04--Shade-Of-The-Dark'
-  tier: [2]
+  tier: 2
+  length: 2
+  apl: 7
+  credits:
+    - name: Dave Zajac
+      role: Adventure Designer
+      key: true
+    - name: Andrew Hitchcock
+      role: Story Concept
+    - name: Royce Thigpen
+      role: Story Concept
+    - name: Dave Zajac
+      role: Development and Editing
+    - name: Royce Thigpen
+      role: Development and Editing
   items:
     - name: Ring of Warmth
       rarity: uncommon
@@ -115,7 +162,21 @@
   released: '2017-12-04'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/228104/CCCGHC05--Trail-Of-Treachery'
-  tier: [2]
+  tier: 2
+  length: 2
+  apl: 8
+  credits:
+    - name: Rob Wieland
+      role: Adventure Designer
+      key: true
+    - name: Andrew Hitchcock
+      role: Story Concept
+    - name: Royce Thigpen
+      role: Story Concept
+    - name: Dave Zajac
+      role: Development and Editing
+    - name: Royce Thigpen
+      role: Development and Editing
   items:
     - name: Icicle (Shortsword, +1)
       rarity: uncommon
@@ -137,7 +198,19 @@
   released: '2017-12-04'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/228105/CCCGHC06--What-You-Wish-For'
-  tier: [2]
+  tier: 2
+  length: 2
+  apl: 8
+  credits:
+    - name: Shawn Merwin
+      role: Adventure Designer
+      key: true
+    - name: Andrew Hitchcock
+      role: Story Concept
+    - name: Royce Thigpen
+      role: Story Concept
+    - name: Royce Thigpen
+      role: Development and Editing
   items:
     - name: Dagger, +2
       rarity: rare
@@ -161,7 +234,22 @@
   released: '2017-12-04'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/228106/CCCGHC07--The-River-Runs-Red'
-  tier: [3]
+  tier: 3
+  length: 2
+  apl: 13
+  credits:
+    - name: Ed Greenwood
+      role: Adventure Designer
+      key: true
+    - name: Alex Kammer
+      role: Adventure Designer
+      key: true
+    - name: Ed Greenwood
+      role: Story Concept
+    - name: Alex Kammer
+      role: Story Concept
+    - name: Dave Zajac
+      role: Editing and Layout
   items:
     - name: Ring of the Ram
       rarity: rare
@@ -180,7 +268,22 @@
   released: '2017-12-04'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/228107/CCCGHC08--Death-In-The-Ruins'
-  tier: [3]
+  tier: 3
+  length: 2
+  apl: 13
+  credits:
+    - name: Alex Kammer
+      role: Adventure Designer
+      key: true
+    - name: Ed Greenwood
+      role: Adventure Designer
+      key: true
+    - name: Ed Greenwood
+      role: Story Concept
+    - name: Alex Kammer
+      role: Story Concept
+    - name: Dave Zajac
+      role: Editing and Layout
   items:
     - name: Tyr's Justice (Greatsword, +2)
       rarity: rare
@@ -205,7 +308,22 @@
   released: '2017-12-04'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/228108/CCCGHC09--Swamp-Of-Death'
-  tier: [3]
+  tier: 3
+  length: 2
+  apl: 13
+  credits:
+    - name: Alex Kammer
+      role: Adventure Designer
+      key: true
+    - name: Ed Greenwood
+      role: Adventure Designer
+      key: true
+    - name: Ed Greenwood
+      role: Story Concept
+    - name: Alex Kammer
+      role: Story Concept
+    - name: Dave Zajac
+      role: Editing and Layout
   items:
     - name: Giant Bane (Longbow, +2)
       rarity: rare
@@ -236,7 +354,15 @@
   released: '2018-12-07'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/260870/CCCGHCBK101-Into-the-Border-Kingdoms'
-  tier: [1]
+  tier: 1
+  length: 2
+  apl: 1
+  credits:
+    - name: Dave Zajac
+      role: Adventure Designer
+      key: true
+    - name: Ed Greenwood
+      role: Border Kingdoms Lore
   items:
     - name: Moon-Touched Longsword
       rarity: common
@@ -255,7 +381,17 @@
   released: '2018-12-07'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/260872/CCCGHCBK102-The-Tithes-That-Bind'
-  tier: [2]
+  tier: 2
+  length: 4
+  apl: 8
+  credits:
+    - name: Mitchell Smithson
+      role: Adventure Designer
+      key: true
+    - name: Ed Greenwood
+      role: Border Kingdoms Lore
+    - name: Jason Braun
+      role: Cover Art
   items:
     - name: Death's Head Mace (Mace of Disruption)
       rarity: rare
@@ -319,7 +455,7 @@
   released: '2018-12-07'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/260873/CCCGHCBK103-The-Darkest-Knight'
-  tier: [2]
+  tier: 2
   items:
     - name: Tentacle Rod
       rarity: rare
@@ -340,7 +476,7 @@
   released: '2018-12-07'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/260874/CCCGHCBK104-I-am-the-Fire'
-  tier: [2]
+  tier: 2
   items:
     - name: Ring of Fire Resistance
       rarity: rare
@@ -367,7 +503,7 @@
   released: '2018-12-07'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/260875/CCCGHCBK105-For-the-Glory-of-Bloutar'
-  tier: [2]
+  tier: 2
   items:
     - name: Stout (Longsword, +2)
       rarity: rare
@@ -405,7 +541,7 @@
   released: '2018-12-07'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/260876/CCCGHCBK106-Legacy-and-Virtue'
-  tier: [1]
+  tier: 1
   items:
     - name: Circlet of Blasting
       rarity: uncommon
@@ -437,7 +573,7 @@
   creator: Gamehole Publishing
   url: >-
     https://www.dmsguild.com/product/260877/CCCGHCBK107-The-Peculiar-Case-of-the-Selptan-Felines
-  tier: [1]
+  tier: 1
   items:
     - name: Helm of Telepathy
       rarity: uncommon
@@ -471,7 +607,7 @@
   released: '2018-12-07'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/260878/CCCGHCBK108-The-Hunt-for-Cutter-Jack'
-  tier: [1]
+  tier: 1
   items:
     - name: Ilmater’s Bleeding Heart (Periapt of Wound Closure)
       rarity: uncommon
@@ -496,7 +632,7 @@
   released: '2018-12-07'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/260879/CCCGHCBK109-Scavengers'
-  tier: [1]
+  tier: 1
   items:
     - name: Bag of Tricks (Gray)
       rarity: uncommon
@@ -513,7 +649,7 @@
   released: '2018-12-07'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/260880/CCCGHCBK110-The-Heart-of-Shadow'
-  tier: [3]
+  tier: 3
   items:
     - name: 'Angel Sting (Dancing Sword, Rapier)'
       rarity: veryRare
@@ -539,7 +675,7 @@
   released: '2020-05-11'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/313193/CCCGHCBK201-Shadows-of-Rith-Keep'
-  tier: [1]
+  tier: 1
   items:
     - name: Charlatan's Die
       rarity: common
@@ -569,7 +705,7 @@
   released: '2020-05-11'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/313301/CCCGHCBK202-The-Folly-of-Sneaky-Simon'
-  tier: [1]
+  tier: 1
   items:
     - name: Decanter of Endless Water
       rarity: uncommon
@@ -594,7 +730,7 @@
   released: '2020-05-11'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/313304/CCCGHCBK203-Framed-in-Felshroun'
-  tier: [1]
+  tier: 1
   items:
     - name: Cloak of the Manta Ray
       rarity: uncommon
@@ -620,7 +756,7 @@
   released: '2020-05-11'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/313307/CCCGHCBK204-Wicked-Little-Things'
-  tier: [1]
+  tier: 1
   items:
     - name: Wand of Secrets
       rarity: uncommon
@@ -641,7 +777,7 @@
   released: '2020-05-15'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/313797/CCCGHCBK205-Finglebruggles-Phantomball-Field'
-  tier: [2]
+  tier: 2
   items:
     - name: Boots of Striding and Springing
       rarity: uncommon
@@ -664,7 +800,7 @@
   released: '2020-05-15'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/313798/CCCGHCBK206-Eye-of-Darkness-Heart-of-Light'
-  tier: [2]
+  tier: 2
   items:
     - name: Mind Fortress (Ring of Mind Shielding)
       rarity: uncommon
@@ -696,7 +832,7 @@
   released: '2020-05-11'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/313308/CCCGHCBK207-In-The-Dead-of-Knight'
-  tier: [2]
+  tier: 2
   items:
     - name: Hat of Disguise
       rarity: uncommon
@@ -720,7 +856,7 @@
   released: '2020-05-15'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/313799/CCCGHCBK208-Ancient-Rivals'
-  tier: [3]
+  tier: 3
   items:
     - name: Clockwork Amulet
       rarity: common
@@ -804,7 +940,7 @@
   released: '2020-05-11'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/313309/CCCGHCBK209-Breath-of-Fire'
-  tier: [3]
+  tier: 3
   items:
     - name: Dark Shard Amulet
       rarity: common
@@ -829,7 +965,7 @@
   released: '2021-01-26'
   creator: Gamehole Publishing
   url: 'https://www.dmsguild.com/product/344639/CCCGHCBK0309-A-Convergence-of-Gods'
-  tier: [4]
+  tier: 4
   length: 4
   apl: 18
   credits:

@@ -114,7 +114,7 @@ extension Publish.Item where Site == AdventureItemsSite {
                 title: "\(adventure.code) - \(adventure.name)",
                 description: description,
                 body: Self.body(adventure),
-                date: adventure.released ?? Date()
+                date: adventure.released ?? Date.distantPast
             )
         )
     }

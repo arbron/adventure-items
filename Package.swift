@@ -1,9 +1,10 @@
-// swift-tools-version:5.2
+// swift-tools-version:5.4
 
 import PackageDescription
 
 let package = Package(
     name: "AdventureItems",
+    defaultLocalization: "en",
     platforms: [
         .macOS(.v10_15),
     ],
@@ -24,7 +25,7 @@ let package = Package(
         .package(name: "Yams", url: "https://github.com/jpsim/Yams.git", from: "4.0.6")
     ],
     targets: [
-        .target(
+        .executableTarget(
             name: "AdventureItems",
             dependencies: ["AdventureUtils", "Ink", "Plot", "Publish", "Yams"]
         ),

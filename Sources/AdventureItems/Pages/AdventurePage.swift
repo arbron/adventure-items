@@ -80,9 +80,8 @@ extension Publish.Item where Site == AdventureItemsSite {
         }
         if !adventure.storyAwards.isEmpty {
             tags.insert("story awards")
-            if let storyAwardText = adventure.storyAwardName.lowercased().counted(adventure.storyAwards.count) {
-                magicItemNames.append(storyAwardText)
-            }
+            let string = NSLocalizedString("\(adventure.storyAwardType)-numbered", bundle: Bundle.module, comment: "")
+            magicItemNames.append(String.localizedStringWithFormat(string, adventure.storyAwards.count))
             for award in adventure.storyAwards {
                 guard let type = award.type else { continue }
                 tags.insert("\(type.plural)")
@@ -92,7 +91,7 @@ extension Publish.Item where Site == AdventureItemsSite {
             magicItemNames.append(otherText)
         }
 
-        tags.insert("adventure: \(adventure.source.stringValue.lowercased())")
+        tags.insert("adventure: \(adventure.source.localizedStringValue.lowercased())")
         _ = adventure.tier.map { $0.map { tags.insert("adventure: tier \($0.rawValue)") } }
         if adventure.isEpic {
             tags.insert("adventure: epic")
@@ -148,7 +147,7 @@ extension Publish.Item where Site == AdventureItemsSite {
     private static func subheading(_ adventure: Adventure) -> Node<HTML.BodyContext> {
         .group(
             .h3(
-                .text(adventure.source.stringValue),
+                .text(adventure.source.localizedStringValue),
                 " ",
                 .if(adventure.source != .conventionCreatedContent,
                     .if(!adventure.isEpic, .text("Adventure"), else: .text("Epic"))

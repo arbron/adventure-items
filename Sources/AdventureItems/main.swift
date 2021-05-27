@@ -17,8 +17,8 @@ struct AdventureItemsSite: Website {
 
     // Update these properties to configure your website:
     var url = URL(string: "https://arbron.github.io/adventure-items/")!
-    var name = "Adventure Items"
-    var description = "Find a D&D adventure to give your character the perfect piece of swag."
+    var name = NSLocalizedString("title", bundle: Bundle.module, comment: "")
+    var description = NSLocalizedString("site-description", bundle: Bundle.module, comment: "")
     var language: Language { .english }
     var imagePath: Path? { nil }
 

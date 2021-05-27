@@ -36,13 +36,17 @@ struct Adventure: Codable, Hashable {
     var source: Source { Source(code) }
     var isEpic: Bool { code.hasPrefix("DDEP") || code.hasPrefix("DDAL-EBEP") || code.hasPrefix("DDAL-DRWEP") }
     var storyAwardName: String {
+        let string = NSLocalizedString(storyAwardType, bundle: Bundle.module, comment: "")
+        return String.localizedStringWithFormat(string, 1)
+    }
+    var storyAwardType: String {
         switch source {
         case .dreamsOfRedWizards, .oracleOfWar:
             if code != "DDAL-DRW-01" && code != "DDAL-DRW-02" && code != "DDAL-DRW-03" {
-                return "Legacy Event"
+                return "legacy-event"
             }
             fallthrough
-        default: return "Story Award"
+        default: return "story-award"
         }
     }
 }
@@ -121,19 +125,13 @@ extension Adventure {
             return cases
         }
 
-        var stringValue: String {
-            switch self {
-            case .season(0): return "Season Agnostic"
-            case .season(let number): return "Season \(number)"
-            case .hardcover: return "Hardcover"
-            case .authorOnly: return "Author Only"
-            case .introAdventure: return "Intro Adventure"
-            case .dreamsOfRedWizards: return "Dreams of Red Wizards"
-            case .embersOfTheLastWar: return "Embers of the Last War"
-            case .oracleOfWar: return "Oracle of War"
-            case .conventionCreatedContent: return "Convention Created Content"
-            case .dungeonCraft: return "Dungeoncraft"
+        var localizedStringValue: String {
+            if case let Source.season(number) = self, number > 0 {
+                let string = NSLocalizedString("source-season(#)", bundle: Bundle.module, comment: "Adventure source name for \(self)")
+                return String.localizedStringWithFormat(string, number)
             }
+            let key = "source-\(self)"
+            return NSLocalizedString(key, bundle: Bundle.module, comment: "Adventure source name for \(self)")
         }
     }
 }

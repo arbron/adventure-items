@@ -1,0 +1,24 @@
+"title" = "Adventure Items";
+"welcome-header" = "Welcome to Adventure Items!";
+"site-description" = "Find a D&D adventure to give your character the perfect piece of swag.";
+
+
+/* Adventure Sources */
+"source-authorOnly" = "Author Only";
+"source-conventionCreatedContent" = "Convention Created Content";
+"source-dreamsOfRedWizards" = "Dreams of Red Wizards";
+"source-dungeonCraft" = "Dungeoncraft";
+"source-embersOfTheLastWar" = "Embers of the Last War";
+"source-hardcover" = "Hardcover";
+"source-introAdventure" = "Intro Adventure";
+"source-oracleOfWar" = "Oracle of War";
+"source-season(0)" = "Season Agnostic";
+"source-season(#)" = "Season %d";
+
+/* Item Rarities */
+"rarity-common" = "Common";
+"rarity-uncommon" = "Uncommon";
+"rarity-rare" = "Rare";
+"rarity-veryRare" = "Very Rare";
+"rarity-legendary" = "Legendary";
+"rarity-unique" = "Unique";

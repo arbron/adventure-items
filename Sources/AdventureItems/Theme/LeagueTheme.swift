@@ -39,7 +39,7 @@ private struct LeagueHTMLFactory: HTMLFactory {
                     .forEach(Adventure.Source.allCases, { category in
                         .unwrap(splitItems[category]) { items in
                             .group(
-                                .h2(.text(category.stringValue)),
+                                .h2(.text(category.localizedStringValue)),
                                 .adventureList(for: items)
                             )
                         }

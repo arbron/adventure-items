@@ -1,0 +1,444 @@
+- code: DDHC-SKT
+  name: Storm King’s Thunder
+  description: |-
+    Giants have emerged from their strongholds to threaten civilization as never
+    before. Hill giants are stealing all the grain and livestock they can while
+    stone giants have been scouring settlements that have been around forever.
+    Fire giants are press-ganging the smallfolk into the desert, while frost
+    giant longships have been pillaging along the Sword Coast. Even the elusive
+    cloud giants have been witnessed, their wondrous floating cities appearing
+    above Waterdeep and Baldur’s Gate. Where is the storm giant King Hekaton,
+    who is tasked with keeping order among the giants?
+
+    The humans, dwarves, elves, and other small folk of the Sword Coast will be
+    crushed underfoot from the onslaught of these giant foes. The only chance at
+    survival is for the small folk to work together to investigate this invasion
+    and harness the power of rune magic, the giants’ weapon against their
+    ancient enemy the dragons. The only way the people of Faerûn can restore
+    order is to use the giants’ own power against them.
+  released: '2016-09-06'
+  tier: [1, 2]
+  items:
+    - name: Adamantine Plate Armor
+      rarity: uncommon
+    - name: Amulet of Proof Against Detection and Location
+      rarity: uncommon
+    - name: Ancient Relic Boulder
+      rarity: unique
+      storyItem: true
+    - name: Ancient Relic Ring of Hardened Magma
+      rarity: unique
+      storyItem: true
+    - name: Apparatus of Kwalish
+      rarity: legendary
+    - name: Bag of Holding
+      rarity: uncommon
+    - name: Bag of Tricks (Gray)
+      rarity: uncommon
+    - name: Banner of the Krig Rune
+      rarity: rare
+    - name: Blod Stone
+      rarity: rare
+    - name: Bracers of Defense
+      rarity: rare
+    - name: 'Breastplate, +2'
+      rarity: veryRare
+    - name: Charm of Restoration
+      rarity: unique
+    - name: Claw of the Wyrm Rune
+      rarity: rare
+    - name: Cloak of Protection
+      rarity: uncommon
+    - name: Crystal Ball
+      rarity: veryRare
+    - name: Conch of Teleportation
+      rarity: veryRare
+      storyItem: true
+    - name: Decanter of Endless Water
+      rarity: uncommon
+    - name: Figurine of Wondrous Power (Golden Lion)
+      rarity: rare
+    - name: Figurine of Wondrous Power (Serpentine Owl)
+      rarity: rare
+    - name: Flame Tongue Greatsword
+      rarity: rare
+    - name: Gavel of the Venn Rune
+      rarity: rare
+    - name: Giant Slayer Greatsword / Greataxe
+      rarity: rare
+    - name: 'Greataxe, +1'
+      rarity: uncommon
+    - name: Gurt's Greataxe
+      rarity: legendary
+    - name: Heward's Handy Haversack
+      rarity: rare
+    - name: Ingot of the Skold Rune
+      rarity: veryRare
+    - name: Instrument of the Bards (Anstruth Harp)
+      rarity: veryRare
+    - name: Iron Flask
+      rarity: legendary
+      illegal: true
+    - name: Korolnor Scepter
+      rarity: legendary
+      storyItem: true
+    - name: 'Longbow, +1'
+      rarity: uncommon
+    - name: Master's Amulet
+      rarity: rare
+      illegal: true
+    - name: Navigation Orb
+      rarity: veryRare
+      storyItem: true
+    - name: Oathbow
+      rarity: veryRare
+    - name: Opal of the Ild Run
+      rarity: rare
+    - name: Orb of the Stein Rune
+      rarity: rare
+    - name: Pearl of Power
+      rarity: uncommon
+    - name: Pennant of the Vind Rune
+      rarity: veryRare
+    - name: 'Plate Armor, +3'
+      rarity: legendary
+    - name: Potion of Climbing
+      rarity: common
+    - name: Ring of Cold Resistance
+      rarity: rare
+    - name: Ring of Fire Resistance
+      rarity: rare
+    - name: Ring of Lightning Resistance
+      rarity: rare
+    - name: Ring of Protection
+      rarity: rare
+    - name: Robe of Serpents
+      rarity: uncommon
+    - name: Rod of the Vonindod
+      rarity: rare
+    - name: Shard of the Ise Rune
+      rarity: veryRare
+    - name: Trident of Fish Command
+      rarity: uncommon
+    - name: Wand of Fireballs
+      rarity: rare
+    - name: Wand of Lightning Bolts
+      rarity: rare
+    - name: 'Wand of the War Mage, +1'
+      rarity: uncommon
+    - name: Alchemist's fire (flask)
+      rarity: common
+      consumable: true
+      count: 60
+    - name: Healer's kit
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Clairvoyance
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Diminution
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Giant Size
+      rarity: legendary
+      consumable: true
+      count: 7
+      storyItem: true
+    - name: Potion of Giant Strength (Storm)
+      rarity: legendary
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Poison
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Resistance (Fire)
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Resistance (Lightning)
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Resistance (Poison)
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Supreme Healing
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Silver Berries (Potion of Invisibility)
+      rarity: veryRare
+      consumable: true
+      count: 5
+    - name: Silvered Dart
+      rarity: common
+      consumable: true
+      count: 10
+    - name: Spell Scroll of Animate Objects
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Chain Lightning
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Dispel Magic
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Dominate Monster
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Fly
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Legend Lore
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Magic Weapon
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Phantasmal Killer
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Sending
+      rarity: uncommon
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Tongues
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Sansuri’s Enormous Spellbook
+      spells:
+        - name: alarm
+          level: 1
+        - name: identify
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: shield
+          level: 1
+        - name: thunderwave
+          level: 1
+        - name: unseen servant
+          level: 1
+        - name: arcane lock
+          level: 2
+        - name: continual flame
+          level: 2
+        - name: gust of wind
+          level: 2
+        - name: invisibility
+          level: 2
+        - name: knock
+          level: 2
+        - name: mirror image
+          level: 2
+        - name: dispel magic
+          level: 3
+        - name: glyph of warding
+          level: 3
+        - name: haste
+          level: 3
+        - name: hypnotic pattern
+          level: 3
+        - name: lightning bolt
+          level: 3
+        - name: sending
+          level: 3
+        - name: fabricate
+          level: 4
+        - name: ice storm
+          level: 4
+        - name: Leomund's secret chest
+          level: 4
+        - name: Mordenkainen's faithful hound
+          level: 4
+        - name: stoneskin
+          level: 4
+        - name: Bigby's hand
+          level: 5
+        - name: cloudkill
+          level: 5
+        - name: geas
+          level: 5
+        - name: wall of force
+          level: 5
+        - name: globe of invulnerability
+          level: 6
+        - name: guards and wards
+          level: 6
+        - name: true seeing
+          level: 6
+        - name: Mordenkainen's sword
+          level: 7
+        - name: reverse gravity
+          level: 7
+        - name: simulacrum
+          level: 7
+    - name: Tholtz's Spellbook
+      spells:
+        - name: detect magic
+          level: 1
+        - name: disguise self
+          level: 1
+        - name: identify
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: thunderwave
+          level: 1
+        - name: darkvision
+          level: 2
+        - name: detect thoughts
+          level: 2
+        - name: mirror image
+          level: 2
+        - name: misty step
+          level: 2
+        - name: suggestion
+          level: 2
+        - name: counterspell
+          level: 3
+        - name: fly
+          level: 3
+        - name: lightning bolt
+          level: 3
+        - name: sending
+          level: 3
+        - name: water breathing
+          level: 3
+        - name: arcane eye
+          level: 4
+        - name: banishment
+          level: 4
+        - name: fire shield
+          level: 4
+        - name: ice storm
+          level: 4
+        - name: stoneskin
+          level: 4
+        - name: cone of cold
+          level: 5
+        - name: scrying
+          level: 5
+        - name: seeming
+          level: 5
+        - name: teleportation circle
+          level: 5
+        - name: wall of force
+          level: 5
+        - name: chain lightning
+          level: 6
+        - name: flesh to stone
+          level: 6
+        - name: globe of invulnerability
+          level: 6
+        - name: prismatic spray
+          level: 7
+        - name: teleport
+          level: 7
+        - name: dominate monster
+          level: 8
+        - name: mind blank
+          level: 8
+        - name: time stop
+          level: 9
+    - name: Zephyros’s Spellbook
+      spells:
+        - name: mending
+          level: 0
+        - name: message
+          level: 0
+        - name: prestidigitation
+          level: 0
+        - name: ray of frost
+          level: 0
+        - name: shocking grasp
+          level: 0
+        - name: charm person
+          level: 1
+        - name: comprehend languages
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: shield
+          level: 1
+        - name: continual flame
+          level: 2
+        - name: crown of madness
+          level: 2
+        - name: gust of wind
+          level: 2
+        - name: levitate
+          level: 2
+        - name: mirror image
+          level: 2
+        - name: misty step
+          level: 2
+        - name: shatter
+          level: 2
+        - name: hypnotic pattern
+          level: 3
+        - name: nondetection
+          level: 3
+        - name: protection from energy
+          level: 3
+        - name: slow
+          level: 3
+        - name: tongues
+          level: 3
+        - name: arcane eye
+          level: 4
+        - name: conjure minor elementals
+          level: 4
+        - name: fire shield
+          level: 4
+        - name: greater invisibility
+          level: 4
+        - name: Otiluke's resilient sphere
+          level: 4
+        - name: cone of cold
+          level: 5
+        - name: contact other planes
+          level: 5
+        - name: modify memory
+          level: 5
+        - name: mass suggestion
+          level: 6

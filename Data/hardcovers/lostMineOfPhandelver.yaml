@@ -1,0 +1,73 @@
+- code: DDHC-LMOP
+  name: Lost Mine of Phandelver
+  released: '2014-07-15'
+  tier: 1
+  items:
+    - name: Boots of Striding and Springing
+      rarity: uncommon
+    - name: 'Dragonguard (Breastplate, +1)'
+      rarity: rare
+    - name: Gauntlets of Ogre Power
+      rarity: uncommon
+    - name: 'Hew (Battleaxe, +1)'
+      rarity: uncommon
+    - name: 'Lightbringer (Mace, +1)'
+      rarity: uncommon
+    - name: Ring of Protection
+      rarity: rare
+    - name: Spider Staff
+      rarity: rare
+    - name: Staff of Defense
+      rarity: rare
+    - name: 'Talon (Longsword, +1)'
+      rarity: uncommon
+    - name: Wand of Magic Missiles
+      rarity: uncommon
+    - name: Potion of Flying
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 13
+    - name: Potion of Invisibility
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Vitality
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Augury
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Charm Person
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Darkness
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Fireball
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Lightning Bolt
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Misty Step
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Revivify
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Silence
+      rarity: uncommon
+      consumable: true
+      count: 1

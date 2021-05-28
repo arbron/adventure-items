@@ -1,0 +1,331 @@
+- code: CCC-GARY-01
+  name: A Night to Remember
+  description: >-
+    A mysterious building has been constructed in the Zhent Slums outside
+    Mulmaster. No one knows who or what built this massive circular ziggurat.
+    That is, until you received an invitation for a dinner party to be held at
+    the very top of the structure. What delights and mysteries await you?
+  released: '2017-04-14'
+  url: 'https://www.dmsguild.com/product/209690/CCCGARY01-A-Night-to-Remember'
+  tier: 2
+  length: 2
+  apl: 7
+  items:
+    - name: Fangs of Sybil (Dagger of Venom)
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 3
+  storyAwards:
+    - name: Naked and Unafraid
+      description: >-
+        Any player entering the dinner party having left a piece of armor or a
+        weapon behind gains an additional **point of renown** for participating
+        in this adventure.
+  missing:
+    - credits
+
+
+- code: CCC-GARY-02
+  name: To Find a Way Out
+  description: >-
+    Disaster has struck, and you and your fellow party members have found
+    yourself caught in a huge building, descending deeper into the depths of the
+    structure as you try to find a way out. Laid in your path are deadly
+    obstacles and mysterious clues as to why you came to be here in the first
+    place.
+  released: '2017-04-14'
+  url: 'https://www.dmsguild.com/product/209692/CCCGARY02-To-Find-a-Way-Out'
+  tier: 2
+  length: 2
+  apl: 7
+  items:
+    - name: Spell Scroll of Mass Cure Wounds
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: 'Poison, basic (vial)'
+      rarity: common
+      consumable: true
+      count: 3
+  missing:
+    - credits
+
+
+- code: CCC-GARY-03
+  name: Oh, We’re In It Now
+  description: >-
+    All out mayhem has encompassed the ground floors of the huge structure
+    you've been exploring. Forces fight back and forth through the halls, and
+    you find yourself drawn into fights where you hope to survive long enough
+    just to make it out.
+  released: '2017-04-14'
+  url: 'https://www.dmsguild.com/product/209693/CCCGARY03-Oh-Were-In-It-Now'
+  tier: 2
+  length: 2
+  apl: 7
+  items:
+    - name: Cap of Water Breathing
+      rarity: uncommon
+    - name: Cloak of the Manta Ray
+      rarity: uncommon
+    - name: Goggles of Night
+      rarity: uncommon
+    - name: Necklace of Fireballs
+      rarity: rare
+    - name: Staff of the Python
+      rarity: uncommon
+    - name: 'Ammunition, +1'
+      rarity: uncommon
+      consumable: true
+      count: 5
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Poison
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-GARY-04
+  name: A Darkness in the Mountains
+  description: >-
+    In the shadow of the Galena Mountains, outside the Glumpen forest, the scars
+    of the ancient war with the kingdom of the Witch King still lay fresh and
+    exposed to the night air. A trade route between the regions of Vaasa and
+    Damara have, through the years, created a crossroads at Aetherglen. The
+    people who live there have an abiding honor for their dead, and the
+    graveyards are shrines to their forebears. As you pass through, however, you
+    are waylaid by a mysterious man who tells you that the dead are restless,
+    and something worse may be stirring ‘neath the huge Gulthias trees of the
+    forest.
+  released: '2018-03-29'
+  url: 'https://www.dmsguild.com/product/238303/CCCGARY04-The-Darkness-of-the-Mountains'
+  tier: 1
+  length: 2
+  apl: 3
+  storyAwards:
+    - name: Furrball the Skeleton Kitty Cat
+      description: >-
+        Furrball is a non-combat familiar. He qualifies as undead, but when
+        threatened has an additional ability that allows him to enter the
+        Ethereal Plane. This ability also allows him to be annoyingly underfoot.
+        He demands food, even though he doesn’t eat, and demands pets and
+        scratches behind his ears, even though he has no skin. Furrball is
+        intended for flavor only and provides no advantages as a regular Wizard
+        or Warlock familiar.
+      type: pet
+  missing:
+    - credits
+
+
+- code: CCC-GARY-05
+  name: The Shadows of the Trees
+  description: >-
+    You’ve uncovered something ancient, something evil, on the outskirts of a
+    small village at the foot of the Galena Mountains. The people of Aetherglen
+    have no other options and are beseeching you and your team to investigate
+    the trail of defiled dead that leads deep into the Glumpen forest. The
+    massive Gulthias trees tower over your passage into the forest, casting a
+    deep shadow over the land.
+  released: '2018-03-29'
+  url: 'https://www.dmsguild.com/product/238352/CCCGARY05-The-Shadows-of-the-Trees'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Bag of Holding
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-GARY-06
+  name: The Death Beneath the Roots
+  description: >-
+    An ancient Gulthias tree contains the answers you’re seeking to the
+    questions of the ancient dead and the recently dying in the village of
+    Aetherglen. Its roots are massive, but so is the massive echoing bole
+    underneath the tree. Delving deeper on the well-traveled path, you discover
+    an old Elven city, apparently carved and fashioned from the roots
+    themselves. But, what you discover only leads to more questions and more
+    danger. Do you dare to venture further, and deeper, into the darkness
+    beneath the tree?
+  released: '2018-03-29'
+  url: 'https://www.dmsguild.com/product/238356/CCCGARY06-The-Death-Beneath-the-Roots'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Quaal's Feather Token (Tree)
+      rarity: rare
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-GARY-07
+  name: The Mirror Cities of Gulthias
+  description: >-
+    Beneath the ancient Gulthias tree is buried an even older city of Elvish
+    design, populated by strange inhabitants that seem to be slaves of the tree.
+    After exploring the city, you’ve found that there are strange passageways
+    buried through the roots in the middle of common pathways, leading to a
+    mirror city underneath. This city is suspended from the roots as the city it
+    mirrors above is built on top of the roots. A darkness falls over this city,
+    and you step carefully from root to root lest you fall into the deeper
+    darkness below.
+  released: '2018-03-30'
+  url: 'https://www.dmsguild.com/product/238358/CCCGARY07-The-Mirror-Cities-of-Gulthias'
+  tier: 2
+  length: 2
+  apl: 7
+  items:
+    - name: Cloak of Elvenkind
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-GARY-08
+  name: That Which Lies Buried
+  description: >-
+    You’ve descended further into the earth, deep under the Gulthias tree, past
+    the both the Elven cities of light and dark, and now the perpetual darkness
+    of an immense pit faces you. What waits for you at the bottom? Is it the
+    evil force that has corrupted the tree above? Do you dare disturb what has
+    been buried so deep?
+  released: '2018-03-30'
+  url: 'https://www.dmsguild.com/product/238359/CCCGARY08-That-Which-Lies-Buried'
+  tier: 2
+  length: 2
+  apl: 7
+  items:
+    - name: Longsword of Vengeance
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-GARY-09
+  name: The Witch Maiden
+  description: >-
+    You’ve found yourselves trapped inside the tomb and temple of a Witch
+    Maiden, one of the fabled First Sacrifices to the Witch King of ages ago. A
+    powerful Lich in her own right, you hope that you wander through her tomb
+    while she still slumbers, or else your journey this far deep into the evil
+    darkness will come to a swift and abrupt end.
+  released: '2018-03-30'
+  url: 'https://www.dmsguild.com/product/238360/CCCGARY09-The-Witch-Maiden'
+  tier: 2
+  length: 2
+  apl: 7
+  items:
+    - name: Staff of the Woodlands
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 2
+    - name: Potion of Poison
+      rarity: uncommon
+      consumable: true
+      count: 2
+  storyAwards:
+    - name: The Crown of Souls
+      description: |-
+        **Note that magical effects itemized below only occur in *ccc-gary-xx*
+        modules. Outside of *ccc-gary-xx* modules it qualifies only as found
+        treasure worth what is listed below.**
+
+        A purring voice whispers in your ear: “Mmmmmm…I live still…” You
+        recognize this voice as the Witch Maiden. This must be her phylactery!
+
+        You try and take off the crown, but it’s stuck on your head. As you try,
+        you hear her laughter in the back of your mind.
+
+        While you’re wearing this crown, you can summon a **Shadow** once per long
+        rest. The Shadow will follow your commands and act on your behalf for 10
+        minutes before it returns to the afterlife from whence it came. While it
+        remains, you can communicate with it telepathically up to a range of 200’.
+
+        While you’re wearing this crown, you can cast the cantrip *Message* at will.
+        Unfortunately, the target of your message will hear the voice of the Witch
+        Maiden delivering your information.
+
+        While you’re wearing this crown, your Maximum Hit Points will fall by 1HP
+        each day, immediately after waking from a long rest. If you are dropped to
+        0HP due to this effect, you have died. You cannot be returned to the living
+        unless the crown is removed from your body.
+
+        The crown can only be removed by removing your head, or by a *remove curse*
+        spell.
+
+        The crown has a particularly evil cast to it, and you’ll only be able to sell
+        it a vendor with a successful contested Deception check. If you can sell it,
+        it is worth 2500gp.
+
+        The crown can only be destroyed by dropping it into molten lava.
+  missing:
+    - credits
+
+
+- code: CCC-GARY-15
+  name: Friendship Never Dies
+  description: >-
+    After a strange necrotic energy washes over the village of Greenspar, characters
+    must investigate the source of this (un)deadly affliction. Will they be able to
+    exterminate the source of this blight, or fall prey to it themselves? Part One of
+    the *Immortals* series.
+  released: '2020-11-30'
+  url: 'https://www.dmsguild.com/product/337266/CCCGARY15-Friendship-Never-Dies'
+  tier: 1
+  length: 2-4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-GARY-16
+  name: My Immortal Loneliness
+  description: >-
+    Characters investigate a decrepit mansion in order to cleanse it of necrotic
+    energy and discover the occupant has unanticipated tastes. Part Two of the
+    *Immortals* series.
+  released: '2020-12-04'
+  url: 'https://www.dmsguild.com/product/338351/CCCGARY16-My-Immortal-Loneliness'
+  tier: 1
+  length: 2-4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-GARY-17
+  name: A Simple Plan
+  description: >-
+    Following leads from their previous adventures, the characters explore the
+    Salazane mansion and confront the source of the ancient family curse. Part
+    Three of the *Immortals* series.
+  released: '2020-12-28'
+  url: 'https://www.dmsguild.com/product/341259/CCCGARY17-A-Simple-Plan'
+  tier: 1
+  length: 2-4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+

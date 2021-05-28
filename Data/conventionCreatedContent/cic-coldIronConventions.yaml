@@ -1,0 +1,614 @@
+- code: CCC-CIC-01
+  name: The Vault of the Devourer
+  description: >-
+    Amid the gales and snowy Earthspur Mountains, the tumbling ruins of the
+    ancient Tempest Mage’s tower brood over the village of Windy Valley. When a
+    kidnapper flees into the ruins, it’s up to a group of adventurers to
+    apprehend the rogue and save his victim from the vault below. Part One of
+    the *Ruined Tower of the Tempest Mage*.
+  released: '2016-12-04'
+  creator: Cold Iron Conventions
+  url: 'https://www.dmsguild.com/product/199826/CCCCIC01-The-Vault-of-the-Devourer'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Boots of the Winterlands
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Arms of Hadar
+      rarity: common
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Conjurer's Spellbook
+      spells:
+        - name: absorb elements
+          level: 1
+        - name: find familiar
+          level: 1
+        - name: grease
+          level: 1
+        - name: unseen servant
+          level: 1
+        - name: dust devil
+          level: 2
+        - name: flaming sphere
+          level: 2
+        - name: misty step
+          level: 2
+  missing:
+    - credits
+
+
+- code: CCC-CIC-02
+  name: The Clockwork Laboratory
+  description: >-
+    Knock, knock, open the door. Tick tock, time is short. Stalk, stalk, it
+    comes for you. How will you open the lock, once you can no longer wind the
+    clock? Part Two of the *Ruined Tower of the Tempest Mage*.
+  released: '2017-03-21'
+  creator: Cold Iron Conventions
+  url: 'https://www.dmsguild.com/product/207980/CCCCIC02-The-Clockwork-Laboratory'
+  tier: 2
+  length: 4
+  apl: 7
+  items:
+    - name: Figurine of Wondrous Power (Onyx Dog)
+      rarity: rare
+    - name: Antitoxin (vial)
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Healer's kit
+      rarity: common
+      consumable: true
+      count: 4
+    - name: Oil of Slipperiness
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 4
+    - name: Scroll of Protection (Elementals)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Prayer of Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Clockwork Spellbook
+      spells:
+        - name: absorb elements
+          level: 1
+        - name: alarm
+          level: 1
+        - name: earth tremor
+          level: 1
+        - name: grease
+          level: 1
+        - name: Tenser's floating disk
+          level: 1
+        - name: unseen servant
+          level: 1
+        - name: arcane lock
+          level: 2
+        - name: knock
+          level: 2
+        - name: magic weapon
+          level: 2
+        - name: shatter
+          level: 2
+        - name: glyph of warding
+          level: 3
+        - name: lightning bolt
+          level: 3
+        - name: magic circle
+          level: 3
+        - name: sending
+          level: 3
+        - name: conjure minor elementals
+          level: 4
+        - name: fabricate
+          level: 4
+        - name: stone shape
+          level: 4
+        - name: stoneskin
+          level: 4
+        - name: animate objects
+          level: 5
+        - name: conjure elementals
+          level: 5
+  storyAwards:
+    - name: Guide to Alchemy
+      description: >-
+        When consulted for 1 minute, this handwritten guide provides advantage
+        on Intelligence-based checks to identify alchemical items.
+  missing:
+    - credits
+
+
+- code: CCC-CIC-03
+  name: The Desolate Undercroft
+  description: >-
+    The deepest depths of the ruins of the Tempest Mage's tower have not seen a
+    living soul for centuries. In the silent dark, death waits for you. Will you
+    rush to meet him? Part Three of the *Ruined Tower of the Tempest Mage*.
+  released: '2017-03-22'
+  creator: Cold Iron Conventions
+  url: 'https://www.dmsguild.com/product/207993/CCCCIC03-The-Desolate-Undercroft'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Mace of Disruption
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Mind Reading
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Animate Dead
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Rope Trick
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Vampiric Touch
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Chains Forged in Death
+      description: >-
+        You were rescued from the jaws of death by the ghost Cloella. Since her
+        demise against the Tempest Mage, her ghostly chain now rests around your
+        neck. While you feel its weight, you cannot grasp it or remove in any
+        way.
+  missing:
+    - credits
+
+
+- code: CCC-CIC-04
+  name: Best Friends Forever
+  description: >-
+    It is a volatile time in Mulmaster. Nobles jockey for power and position.
+    Refugees fight for mere survival. Danger and evil buried away awaken, adding
+    to the chaos. The adventurers are tasked with investing strange events. Will
+    they make a new friend or add to their list of enemies?
+  released: '2017-07-13'
+  creator: Cold Iron Conventions
+  url: 'https://www.dmsguild.com/product/216389/CCCCIC04-Best-Friends-Forever'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Sending Stones
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Scroll of Protection (Friends)
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Gratitude of the Von Finklestein Family
+      description: >-
+        You have made an ally of the von Finklestein Family. You may use this
+        favor one of two ways. You may either cash in this favor to gain a spell
+        scroll with a *Player's Handbook* wizard spell of 3rd-level or lower, or
+        you gain access to a new downtime activity. At the end of any adventure,
+        you may spend 10 downtime to visit the family and their secret arcane
+        library. While at the library you may scribe a *Player's Handbook*
+        wizard spell of 3rd-level or lower into your spell book or book of
+        shadows for no additional gold cost beyond the cost to scribe a spell.
+      type: downtime
+    - name: To Wear the Cloak
+      description: >-
+        If your character is an arcane spellcaster, you receive an offer to
+        sponsor your admittance into the Brotherhood of the Cloak. Though
+        joining the Cloaks is mandatory for any arcanists seeking to stay in
+        Mulmaster for an extended period of time, and sponsorship is not
+        required but sponsorship definitely has its perks.
+  missing:
+    - credits
+
+
+- code: CCC-CIC-05
+  name: Donum Vitae
+  description: >-
+    A faded and tattered journal recovered from the tomb of the Tempest Mage
+    alluded to The Donum Vitae, a tome containing a ritual capable of reversing
+    the curse of undeath. A powerful and influential family in Mulmaster has a
+    strong interest in magic of this type.
+  released: '2018-03-28'
+  creator: Cold Iron Conventions
+  url: 'https://www.dmsguild.com/product/238300/CCCCIC05-Donum-Vitae'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Wand of Wonder
+      rarity: rare
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Greater Invisibility
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Betrayer
+      description: >-
+        You have Betrayed the Von Finklestein Family. All favors with the family
+        are voided.
+    - name: Gratitude of the Church of Kelemvor
+      description: >-
+        You have performed a great service for the Church of Kelemvor. As a
+        reward the church has agreed to defray the cost of a *raise dead* spell.
+        If your body is returned to Mulmaster or Phlan the clergy will cast it
+        for free (you must still pay for the material component).
+    - name: Gratitude of the Von Finklestein Family
+      description: |-
+        You have made an ally of the von Finklestein Family. You may use this
+        favor one of two ways. You may either cash in this favor to gain a spell
+        scroll with a *Player's Handbook* wizard spell of 3rd-level or lower at
+        no cost (you must still pay for expensive material components) while you
+        are in Mulmaster or you may gain access to a new downtime activity. At
+        the end of any adventure, you may spend 10 downtime to visit the family
+        and their secret arcane library. While at the library you may scribe a
+        *Player's Handbook* wizard spell of 3rd-level or lower into your spell
+        book or book of shadows. You are still responsible for the cost to
+        scribe this spell. Once you have used this favor, you may not use it
+        again.
+
+        If this is the 2nd time you have earned this reward the spell level is
+        raised to 5th.
+      type: downtime
+  missing:
+    - credits
+
+
+- code: CCC-CIC-06
+  name: End of the Line
+  description: >-
+    A mining accident leads to a failed rescue attempt. Now you have been asked
+    help. What awaits you…at the end of the line?
+  released: '2018-03-27'
+  creator: Cold Iron Conventions
+  url: 'https://www.dmsguild.com/product/238181/CCCCIC06-End-of-the-Line'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Miner's Pick
+      rarity: common
+    - name: 'Shortsword, +1'
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Bag O' 'Shrooms
+      description: >-
+        You have collected an assortment of mushrooms from a subterranean
+        garden. Unsure of their identification at the time, you suspect they may
+        hold herbal properties that may help or hinder. You may be able to
+        identify them in a future adventure.
+  missing:
+    - credits
+
+
+- code: CCC-CIC-07
+  name: Pieces of You
+  description: >-
+    An ancient tome, a dangerous ritual, and the ultimate question, what makes
+    us human? How far are you willing to go to save the life of a child? What
+    lines are you willing to cross and how much are you willing to give?
+  released: '2018-07-30'
+  creator: Cold Iron Conventions
+  url: 'https://www.dmsguild.com/product/248551/CCCCIC07-Pieces-of-You'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Portable Hole
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Acquired an Apprentice
+      description: >-
+        You have agreed to apprentice either or both Del and Afsar Lunadream in
+        exchange for their donating a part of their soul. Caring for young men
+        is not only time consuming but also expensive. At the end of every
+        adventure you must spend one downtime day and 4 gold pieces to fulfill
+        your obligation as a mentor for each child.
+    - name: Soul Donor
+      description: |-
+        You have given away a piece of your soul to save Abby Von Finklestein.
+        This act of kindness has forever changed you. You gain a new Flaw based
+        on the virtue you donated:
+
+        - **Humility**: You lost all modesty. Your pride is the most important
+        thing and you will not suffer insult.
+        - **Kindness**: Kindness is a tool of the weak and you are not weak. You
+        lose the ability to feel sympathy or compassion for anything or anyone.
+        - **Temperance**: Food, wine, drink, gambling, and many other substances
+        are your birthright. You lost all restraint: indulgence is your middle
+        name.
+        - **Chastity**: Pleasures of the flesh are the reason the gods have
+        placed you on Toril. Who are you to deny anyone the gift the gods send
+        them?
+        - **Patience**: You deserve to get what you want when you want it.
+        Delays, no matter how small, send you into a rage.
+        - **Charity**: You work hard for all you have, why should you share with
+        others? You are the personification of selfishness. Everything you have
+        is yours, and you plan to keep it.
+        - **Diligence**: If you wanted to work hard you'd be a farmer not an
+        adventurer. You always take short cuts and seek the quickest path to
+        your goals perferring others to do the work for you.
+  missing:
+    - credits
+
+
+- code: CCC-CIC-08
+  name: The Last Voyage of the Woolgathering Tidsoptimist
+  description: >-
+    Zor von Finklestein has purchased an aging cargo vessel and filled it with
+    food for suffering Mulmaster. Now you only need to make sure the vessel
+    comes into port.
+  released: '2018-03-28'
+  creator: Cold Iron Conventions
+  url: 'https://www.dmsguild.com/product/238289/CCCCIC08-The-Last-Voyage-of-the-Woolgathering-Tidsoptimist'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Gauntlets of Ogre Power
+      rarity: uncommon
+    - name: Potion of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: 'Well, At Least You Tried'
+      description: >-
+        You are a survivor of the *Woolgathering Tidsoptimist* disaster who
+        tried to bring crucial supplies to Mulmaster despite the calamity around
+        you. The starving people of the Zhent Ghetto remember and erect a small
+        memorial honoring you and the rest of the ill-fated crew.
+  missing:
+    - credits
+
+
+- code: CCC-CIC-09
+  name: Steamy Shores of Danger
+  description: >-
+    An urgent plea for assistance comes from the coastal village of Jarko’tu’ta.
+    Traders are dead, canoes destroyed, bloodthirsty sharks spotted! A perilous
+    canoe journey and fog-shrouded mysteries await adventurers.
+  released: '2018-06-23'
+  creator: Cold Iron Conventions
+  url: 'https://www.dmsguild.com/product/245320/CCCCIC09-Steamy-Shores-of-Danger'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Geyser Figurine (Decanter of Endless Water)
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Protection from Evil and Good
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Greeting of the Forefathers
+      description: |-
+        You have learned how to introduce yourself in a formal and impressive
+        way. During your future encounters with members of tribal cultures of
+        Big Folk Island or the village of Jarko'tu'ta you may gain advantage on
+        social checks if you recite your Greeting during introductions.
+
+        The greeting of the forefathers is simple and consists of 7 parts:
+
+        - Part 1: Name of character
+        - Part 2: Name of father
+        - Part 3: Name of grandfather
+        - Part 4: Name of great grandfather
+        - Parts 5, 6, 7: Life accomplishments
+  missing:
+    - credits
+
+
+- code: CCC-CIC-10
+  name: Terror at Soward Manor
+  description: >-
+    Soward Manor has been abandoned for years, recently serving as a hiding
+    place for bandits and criminals. Strange noises and lights bring the mansion
+    back to the attention of Mulmaster. What is happening at Soward Manor, and
+    how significant is the threat? This is the first adventure in the *Pilgrim’s
+    Progress* trilogy.
+  released: '2018-11-04'
+  creator: Cold Iron Conventions
+  url: 'https://www.dmsguild.com/product/257945/CCCCIC10-Terror-at-Soward-Manor'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Bracers of Defense
+      rarity: rare
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 4
+    - name: Potion of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Protector of the Gifted
+      description: >-
+        You have made an ally of deJun and the Von Finklestein families, and
+        they remain your ally as long as you vow to protect the innocent gifted
+        people of Mulmaster and the surrounding areas. If you gain further favor
+        with them, it might pay greater dividends.
+  missing:
+    - credits
+
+
+- code: CCC-CIC-11
+  name: Death at Peril Island
+  description: >-
+    Ships approaching Peril Island rarely survive the dangerous reefs. Sailors
+    who have braved the shores speak of terrible beasts. Now the island seems to
+    be an important link in an ongoing mystery. Pull those rowboats to the shore
+    and prepare for the worst. This is the second adventure in the *Pilgrim’s
+    Progress* trilogy.
+  released: '2018-11-24'
+  creator: Cold Iron Conventions
+  url: 'https://www.dmsguild.com/product/259558/CCCCIC11-Death-at-Peril-Island'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Eye Patch of Blasting (Circlet of Blasting)
+      rarity: uncommon
+    - name: Spell Scroll of Elemental Weapon
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell SCroll of Revivify
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Despised by Talos
+      description: >-
+        You are marked in some invisible way by the storm god Talos. Neutral or
+        evil followers of Talos recognize this mark and treat you with hostility
+        or contempt.
+  missing:
+    - credits
+
+
+- code: CCC-CIC-12
+  name: Redemption at Talos Sound
+  description: >-
+    A sound is usually a safe harbor on a large sea Talos Sound, on the other
+    hand, is known as a graveyard for ships and sailors entering it. Now
+    adventurers must brave this wild place if they hope to bring a peaceful
+    resolution to their current troubles. This is the third and final adventure
+    in the *Pilgrim’s Progress* trilogy.
+  released: '2018-11-24'
+  creator: Cold Iron Conventions
+  url: 'https://www.dmsguild.com/product/259563/CCCCIC12-Redemption-at-Talos-Sound'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: 'Trident, +2'
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 3
+    - name: Spell Scroll of Control Water
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Gratitude of the Von Finklesteins
+      description: |-
+        You have made an ally of the Von Finklestein Family. You may use this
+        favor in one of two ways. You may either cash in this favor once to gain
+        the casting of a spell of a *Player's Handbook* wizard spell of
+        3rd-level or lower at no cost (you must still pay for expensive material
+        components) while you are in Mulmaster or you may gain access to a new
+        downtime activity. At the end of any adventure, you may spend 10
+        downtime to visit the family and their secret arcane library. While at
+        the library you may scribe a *Player's Handbook* wizard spell of
+        3rd-level or lower into your spell book or book of shadows. You are
+        still responsible for the cost to scribe this spell. Once you have used
+        this favor, you may not use it again.
+
+        If this is the 2nd time you have earned this reward the spell level is
+        raised to 5th.
+      type: downtime
+  missing:
+    - credits
+
+
+- code: CCC-CIC-15
+  name: Den of the Dead Witch
+  description: >-
+    All the mothers of Windy Valley are plagued by foul dreams as mining
+    operations uncover a lost level of the dungeons beneath the ruins of the
+    Tempest Mage’s tower. Evil stirs and heroes are called on to reveal its
+    source.
+  released: '2020-05-25'
+  creator: Cold Iron Conventions
+  url: 'https://www.dmsguild.com/product/314995/CCCCIC15-Den-Of-The-Dead-Witch'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Necklace of Fireballs
+      rarity: rare
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Tasha's Hideous Laughter
+      rarity: common
+      consumable: true
+      count: 1
+    - name: 'The Witchstone (Walloping Ammunition, Bullet)'
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-CIC-16
+  name: Open Ambitions
+  description: >-
+    Individuals in Hulburg enlist your aid to combat an ambitious threat to
+    Waterdeep. You are needed to infiltrate Fangjaws Hold and bring the threat’s
+    mastermind to justice.
+  released: '2020-06-22'
+  creator: Cold Iron Conventions
+  url: 'https://www.dmsguild.com/product/318239/CCCCIC16-Open-Ambitions'
+  tier: 2
+  length: 2-4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf

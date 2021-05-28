@@ -1,0 +1,315 @@
+- code: CCC-DES-01-01
+  name: Finding the Rabbit Hole
+  description: >-
+    Pirates are pillaging and raiding more than usual along the Stojanow River
+    and its tributaries, prompting Aya Glenmiir to invite help from renowned
+    adventurers. The journey toward Greenhall is complicated by deeper issues in
+    the Quivering Forest. The ever-malicious hag Jeny Greenteeth makes an
+    appearance, revealing the hidden source of activity and presenting a new
+    opportunity to the adventurers. Part One of the *At Jeny's Request* series.
+  released: '2018-12-03'
+  url: 'https://www.dmsguild.com/product/260395/CCCDES0101-Finding-the-Rabbit-Hole'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Jeny’s Little Helpers (Figurine of Wondrous Power, Ivory Goats)
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 2
+  missing:
+    - credits
+
+
+- code: CCC-DES-01-02
+  name: A Sanity Never Questioned
+  description: >-
+    Jeny Greenteeth gives you a letter that must reach its far-off destination,
+    with frightening consequences if it doesn't make it there by nightfall. Jeny
+    knows one way to accomplish this, but her method of travel isn't for the
+    weak of spirit. All magic has a price, dearies, and these magics may have
+    you doubting your sanity. Part Two of the *At Jeny's Request* series.
+  released: '2018-12-03'
+  url: 'https://www.dmsguild.com/product/260385/CCCDES0102-A-Sanity-Never-Questioned'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Driftwood Staff (Staff of Healing)
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 2
+  storyAwards:
+    - name: Hunted by Selithiss
+      description: >-
+        You have attracted the attention of Selithiss, as well as those whom she
+        works for. This negative attention won’t be good. This story award may
+        have an effect in future D8 Summit modules.
+    - name: Jeny Owes Me a Tiny Favor
+      description: >-
+        You have served Jeny well, and she will not forget. Fey of the Unseelie
+        Court may view you more favorably as a result. This story award may have
+        an effect in future D8 Summit modules.
+    - name: Love Stronger than Death
+      description: >-
+        You have received the Mistress of Tides’ kiss, which has magical
+        properties fueled by the Feywild itself. Fey of the Seelie Court may
+        view you more favorably as a result. This story award may have an effect
+        in future D8 Summit modules.
+    - name: A Sanity Questioned
+      description: |-
+        In your dreams, you still revisit the Feywild, as if a part of your
+        essence remained when you were ripped away from it. This split-soul
+        state may make you less resistant to the magic of the fey. This story
+        award may have an effect in future D8 Summit modules.
+
+        This story award can be removed with either a visit to the Feywild in
+        any subsequent adventure (reunifying the soul), or with a *wish* spell.
+  missing:
+    - credits
+
+
+- code: CCC-DES-01-03
+  name: A Question Never Asked
+  description: >-
+    The Fey Veil barrier to the Feywild weakens as the Greengrass equinox
+    approaches. A Fey hunting party awaits on the other side. The hunt will
+    expect a reception, but Greenhall is no condition to host the hunt. Can the
+    adventurers prevent the unsated hunters from destroying the village, or will
+    they join in alongside the hunt? Part Three of the *At Jeny's Request*
+    series.
+  released: '2019-12-17'
+  url: 'https://www.dmsguild.com/product/298056/CCCDES0103-A-Question-Never-Asked'
+  tier: 2
+  length: 2
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-DES-01-04
+  name: An Answer Never Offered
+  description: >-
+    The Mistress of Tides calls upon heroes to awaken an ancient archfey to aid
+    against the threat of Seelie and Unseelie Court conspirators. But a
+    treacherous fey creature fueled by insatiable envy is playing a spoiler.
+    Part Four of the *At Jeny's Request* series.
+  released: '2019-12-17'
+  url: 'https://www.dmsguild.com/product/298041/CCCDES0104-An-Answer-Never-Offered'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Decanter of Endless Water
+      rarity: uncommon
+  storyAwards:
+    - name: Blessed Are the Merciful
+      description: >-
+        This story award is earned by characters who bring Jormal to The Green
+        Man alive to receive justice. For this act, The Green Man develops
+        respect for their wisdom and judgment. This story award may come into
+        play in future adventures.
+  missing:
+    - credits
+
+
+- code: CCC-DES-01-05
+  name: The Die is Cast
+  description: >-
+    After liberating the Green Man from his stony prison, the adventurers are
+    given a lead. Can they reach their informant before their opponent gathers
+    word of their actions? Part Five of the *At Jeny's Request* series.
+  released: '2019-12-18'
+  url: 'https://www.dmsguild.com/product/297616/CCCDES0105-The-Die-is-Cast'
+  tier: 2
+  length: 2
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-DES-01-06
+  name: One Last Job
+  description: >-
+    At last, the enemy behind the floods in the Feywild is revealed. However,
+    the watery nemesis is far more frightening than initially thought. Can your
+    adventuring party rise to a challenged birthed in the watery depths? The
+    final part of the *At Jeny's Request* series.
+  released: '2020-08-21'
+  url: 'https://www.dmsguild.com/product/322754/CCCDES0106-One-Last-Job'
+  tier: 2
+  length: 4-6
+  apl: 8
+  items:
+    - name: Charlatan's Die
+      rarity: common
+    - name: Dark Shard Amulet
+      rarity: common
+    - name: Jeny’s Special Helper (Broom of Flying)
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-DES-02-01
+  name: Those Who Are Eaten
+  description: >-
+    After other heroes dispatched the Demon Lords back to their respective
+    planes, Bea was able to peacefully give birth to sextuplets with six fingers
+    and six toes. Unfortunately, others have heard of the unusual circumstances
+    and plot to bring back the Demon Lord Grazzt, by any means necessary. Part
+    One of the *Children of Sin* trilogy.
+  released: '2020-04-20'
+  url: 'https://www.dmsguild.com/product/307309/CCCDES0201-Those-Who-Are-Eaten'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-DES-02-02
+  name: On a Six-Fingered Trail
+  description: >-
+    You are charged with rescuing Bea’s missing sextuplets and must bring their
+    captors to justice. A walk in the park for brave adventurers, unless the
+    trail extends beyond the darkness. Part Two of the *Children of Sin*
+    trilogy.
+  released: '2020-04-20'
+  url: 'https://www.dmsguild.com/product/307311/CCCDES0202-On-a-SixFingered-Trail'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-DES-02-03
+  name: Those Who Eat
+  description: >-
+    Finding themselves on a foggy bank alongside the Moonsea, the adventurers
+    must dive into sunken ruins to save six innocent children from the God Who
+    Eats. Part Three of the *Children of Sin* trilogy.
+  released: '2020-04-20'
+  url: 'https://www.dmsguild.com/product/307312/CCCDES0203-Those-Who-Eat'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-DES-03-01
+  name: A Snip Here, a Stitch There
+  description: >-
+    Mysterious dead magic zones are popping up in areas consecrated to gods,
+    with deadly consequences. Can you get to the bottom of it before more lives
+    are lost?
+  released: '2020-08-21'
+  url: 'https://www.dmsguild.com/product/322760/CCCDES0301-A-Snip-Here-a-Stitch-There'
+  tier: 3
+  length: 4-6
+  apl: 13
+  items:
+    - name: Band of the Black Unicorn (Iron Bands of Bilarro)
+      rarity: rare
+    - name: Elixir of Health
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Oil of Etherealness
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Mad Mage Remembers
+      description: >-
+        You helped the Mad Mage regain a portion of his identity, if not his
+        memories. This story award may help you in future adventures in this
+        series.
+    - name: Noticed by Bilarro
+      description: >-
+        Your character has drawn the attention (and likely, the ire) of Bilarro.
+        This story award may come into play in future adventures in this series.
+  missing:
+    - credits
+
+
+- code: CCC-DES-04-01
+  name: A Hellish Haul
+  description: |-
+    **A Problem of Hellish Proportions**
+
+    A fiendish proposition offers heroes a way home but relies upon a task so
+    torturous that it pushes their loyalty, greed and sanity to their limits! Can
+    adventurers endure the hellish haul or will their hopes sink into the fetid
+    fens of an endless bog?
+  released: '2020-11-09'
+  url: 'https://www.dmsguild.com/product/334715/CCCDES0401-A-Hellish-Haul'
+  tier: 1
+  length: 2-4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-DES-04-02
+  name: A Hell of a Party
+  description: |-
+    **A Hell of a Good(ish) Time**
+
+    A powerful devil is organizing a dark alliance that would have long-reaching
+    consequences if left unchecked. Brave heroes, as well as cunning troublemakers,
+    are needed to crash this fiendish gathering.
+  released: '2020-11-09'
+  url: 'https://www.dmsguild.com/product/334716/CCCDES0402-A-Hell-of-a-Party'
+  tier: 1
+  length: 4-6
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-DES-04-03
+  name: In Accordance with Plans
+  description: |-
+    **One Hell of an Issue to Tackle**
+
+    A glorious city rises against a landscape of urban decay and ruin, attracting
+    the desperate and those that prey upon them. All will conform to the
+    architect’s vision.
+  released: '2020-11-09'
+  url: 'https://www.dmsguild.com/product/334717/CCCDES0403-In-Accordance-with-Plans'
+  tier: 3
+  length: 4
+  apl: 13
+  missing:
+    - credits
+    - items
+    - pdf

@@ -1,0 +1,198 @@
+- code: CCC-WYC-01-01
+  name: Back to the Burning
+  description: >-
+    A priestess of Aumunator has come to the Moonsea from the Anauroch Desert
+    beseeching aid against an old and resurgent foe. Her requests for aid so far
+    have been for naught and she knows time is running out to uncover the
+    machinations at work.
+  released: '2018-12-02'
+  url: 'https://www.dmsguild.com/product/260269/CCCWYC11-Back-to-the-Burning'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Brazier of Commanding Fire Elementals
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Teleportation Circle
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Marked by the Fire of Imix
+      description: |-
+        You personally experienced the searing heat of a devastation orb first
+        hand and, while it was only an illusory experience, the flames marked
+        you even now. On your left hand a burnt marking of Imix appears.
+  
+        While you have this story award, you have advantage on all Charisma checks
+        with members of the Cult of Burning Hatred and disadvantage on all Charisma
+        checks to interact with clergy of any good aligned deity who also has the
+        light domain, Miriam of Aumunator being an exception. This story award may
+        be referenced in other **WYC** modules.
+    - name: The Sacred Oath
+      description: |-
+        You agreed to take Miriam’s mission as your own, placing it above all
+        others and taking a Sacred Divine Oath. While playing **WYC-01** mods,
+        you have advantage on any save that would cause you to act against this
+        oath.
+  
+        If you should tier out by playing other adventures before finishing the
+        series, you will have disadvantage on all social checks with the priesthood
+        of Aumunator for violating this sacred oath.
+  missing:
+    - credits
+
+
+- code: CCC-WYC-01-02
+  name: Where Rock and Fire Meet
+  description: >-
+    The Cult of Eternal Flame has returned to the Moonsea seeking knowledge left
+    behind at the sites of their greatest successes. Armed with a shard of
+    information and a location in the middle of Mulmaster, can you discover the
+    truth?
+  released: '2018-12-02'
+  url: 'https://www.dmsguild.com/product/260270/CCCWYC12-Where-Rock-and-Fire-Meet'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Flare (Flame Tongue Shortsword)
+      rarity: rare
+    - name: Potion of Resistance (Fire)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-WYC-01-03
+  name: The Dawn Heresy
+  description: >-
+    A heresy has infiltrated the faithful of Lathander by an enemy thought
+    defeated and now the City of Forges might pay the price. The Cult of Eternal
+    Flame’s plan looks to come to fruition; can you stop a catastrophe of
+    extraplanar proportions?
+  released: '2018-12-02'
+  url: 'https://www.dmsguild.com/product/260272/CCCWYC13-The-Dawn-Heresy'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Wand of Fireballs
+      rarity: rare
+  storyAwards:
+    - name: Joined the Inquisition
+      description: |-
+        You have decided to join Miriam’s quest to root out the Cult of the
+        Radiant Dawn throughout the Moonsea, no matter where and to whom that
+        journey may take you. You have advantage on all Charisma checks with
+        followers of Aumunator and disadvantage on all Charisma checks with
+        followers of Lathander. Further, after any adventure in the Moonsea, you
+        may spend **10 downtime days** to go to the Holy Cathedral of the Sun to
+        receive spellcasting services for half price.
+  
+        After completing an adventure in Melvaunt, the cost is only **2 downtime days**.
+      type: downtime
+    - name: Rejected the Inquisition
+      description: >-
+        You have decided not to follow Miriam’s inquisition against the Cult of
+        the Radiant Dawn, for reasons that are your own. You may never acquire
+        spellcasting services from the Holy Cathedral of the Sun and all
+        spellcasting services in Melvaunt cost double for this character.
+        Further, you have advantage on Charisma checks with followers of
+        Lathander who appreciate your standing up to Miriam’s new inquisition.
+  missing:
+    - credits
+
+
+- code: CCC-WYC-02-01
+  name: The Light of Heresy
+  description: >-
+    The priestess Miriam seeks a collection of artifacts to enhance the power of her
+    Inquisition. She offers a reward to adventurers who can retrieve the first, the
+    Sun Disk of Aumunator. There’s one catch—she isn’t sure where it can be found.
+  released: '2020-11-09'
+  url: 'https://www.dmsguild.com/product/335411/WYC-21-The-Light-of-Heresy'
+  tier: 2
+  length: 2-4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-WYC-02-02
+  name: A Shard of Shar
+  description: >-
+    Miriam, a priestess of Amunator has received a message from an acquaintance in
+    Mulmaster that she has something dark in her possession that can only be trusted
+    with the Inquisition of the Radiant Dawn and you are the only ones she can trust.
+  released: '2020-11-09'
+  url: 'https://www.dmsguild.com/product/335413/WYC-22-A-Shard-of-Shar'
+  tier: 2
+  length: 2-4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-WYC-02-03
+  name: What History Leaves Behind
+  description: >-
+    The Inquisition of the Radiant Dawn has come across an opportunity that no one
+    would have thought possible. In one of the ruins of Thultanthar spread across the
+    Cormanthor lies an ancient text that will be key to the Inquisition’s future
+    success, and only you can be trusted to find it.
+  released: '2020-11-09'
+  url: 'https://www.dmsguild.com/product/335414/WYC-23-What-History-Leaves-Behind'
+  tier: 2
+  length: 2-4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-WYC Intro 1
+  name: A Bridge to Thar
+  description: >-
+    The adventurers volunteer for an urgent mission to raid a cultist group disguised
+    as a merchant caravan that's transporting tribute and slaves to forge an alliance
+    with savage orcs.
+  released: '2020-11-09'
+  url: 'https://www.dmsguild.com/product/335417/WYC-Intro-1-A-Bridge-to-Thar'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-WYC Intro 2
+  name: The Ballad of Naoki and Koa
+  description: >-
+    The hottest music act in the Moonsea region, Duke Monsoon and the Waves are
+    traveling to Phlan to headline the Reclamation Day festival. The caravan is in
+    need of extra security and you need a job. All you have to do is ensure Duke
+    Monsoon makes it to the gig on time. What could possibly go wrong?
+  released: '2020-11-09'
+  url: 'https://www.dmsguild.com/product/335418/WYC-Intro-2-The-Ballad-of-Naoki-and-Koa'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+

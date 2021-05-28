@@ -1,0 +1,19 @@
+- code: CCC-TXLIFE-01
+  name: House of Masks
+  description: |-
+    Drow slave-taking raids near Melvaunt have slowed thanks to the continuing
+    co-operation with the good-aligned drow house Tor’Erhyl. The next step in the
+    alliance is an unprecedented chance to attend a grand gala within the drow
+    city of Zethlentyn Prime.
+
+    This adventure features a unique opportunity to engage in social spycraft to
+    gather information! Part of the *Spies Below the Moonsea* series.
+  released: '2020-11-12'
+  url: 'https://www.dmsguild.com/product/335282/House-of-Masks-CCCTXLIFE01'
+  tier: 2
+  length: 2-4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf

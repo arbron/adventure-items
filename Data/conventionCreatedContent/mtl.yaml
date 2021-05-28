@@ -1,0 +1,80 @@
+- code: CCC-MTL-02
+  name: House of Revenance
+  description: >-
+    New allies in the Underdark have emerged and are key to stopping drow
+    slave-taking raids around the Moonsea. Now, one such ally has been
+    assassinated and her body has been left to the most unpredictable and vile
+    of Zethlentyn’s drow. What depraved price will the worshippers of the
+    dreaded death goddess Kiaransalee set for their assistance? Are the
+    adventurers ready to pay it? Part Two of the *Spies Below the Moonsea* series.
+  released: '2020-01-16'
+  url: 'https://www.dmsguild.com/product/300573/House-of-Revenance-CCCMTL02'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Moon-Touched Greatsword
+      rarity: common
+    - name: Ring of Mind Shielding
+      rarity: uncommon
+      properties:
+        - Sentinel
+    - name: Spell Scroll of Revivify
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Dark Consequences
+      description: |-
+        The dark experiences in this adventure may take a psychological toll on
+        certain characters. This toll is not represented by any mechanical
+        effect and is entirely optional. Players are not required to take note
+        of this if they do not wish to.
+  
+        Any character that participated in the minor graverending ritual and allowed
+        the revenant to proceed on its dark business OR participated in the TRIAL OF
+        DEATH and left Erkulia in the hands of the Yathrinshee may choose to add the
+        following to the list of their bonds:
+
+        If the character is of a non-evil alignment:
+
+        - I once participated in an evil act that resulted in the death of a
+        stranger and seek atonement for this act.
+
+        If the character is of an evil alignment:
+
+        - Partaking in an evil act has made me more conscious of the
+        consequences of my actions.
+
+        This bond carries no mechanical effect and can be removed by the player at
+        any time.
+    - name: Knowledge of House Zaunmice
+      description: >-
+        You have gained some insight or secret of a drow house. Other houses of
+        the Zethlentyn Protectorate may find this valuable. This award has no
+        immediate mechanical effect.
+  missing:
+    - credits
+
+
+- code: CCC-MTL-03
+  name: House of Webs
+  description: >-
+    Are you ready to turn the tables and enact a devious ambush against drow
+    slavers? Do you want to visit a tavern run by an illithid? Have a run in
+    with a dwarf battlerager? This is your chance! The simmering conflict
+    between the freedom fighters of House Tor’Erhyl and the Lolth-serving
+    slavers of House Ouss’Nassath has reached its boiling point. Following the
+    recent assassination of a sword dancer, Matron Tor’Erhyl makes a bold plan
+    to strike back where it hurts most—the slave shipments. Yet this not merely
+    a mission of vengeance—it’s one of mercy and liberation. Part Three of the
+    *Spies Below the Moonsea* series.
+  released: '2020-02-19'
+  url: 'https://www.dmsguild.com/product/303290/House-of-Webs-CCCMTL03'
+  tier: 2
+  length: 2-4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf

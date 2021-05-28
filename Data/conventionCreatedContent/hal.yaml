@@ -1,0 +1,156 @@
+- code: CCC-HAL-01
+  name: Fate of the Nightworms
+  description: >-
+    Strange geothermal activity brings adventurers to the tiny coastal village
+    of Jarko’tu’ta. A dangerous cave descent leads them into the dark world
+    below the surface. Waiting for them there are encounters with creatures
+    strange, beautiful and deadly!
+  released: '2018-11-06'
+  url: 'https://www.dmsguild.com/product/258088/CCCHAL01-Fate-of-the-Nightworms'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Faint (Driftglobe)
+      rarity: uncommon
+    - name: Spell Scroll of Clairvoyance
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Dark Dreams of Light
+      description: >-
+        Sometimes at night, when a star falls across an outdoor sky on a
+        moonless night, or when a lantern’s faint light can be seen through a
+        foggy city morning, you remember the soft light of the nightworms. Yet,
+        there is a worry there. Did you truly find the cause of their demise or
+        will they perish to their unknown predator and be forever gone from
+        anything but dreams? Your sleep after such thoughts is uneasy.
+  missing:
+    - credits
+
+
+- code: CCC-HAL-02 ZETH-02
+  name: Six Striking Swords
+  description: >-
+    A mysterious resident has taken over an abandoned castle along a perilous
+    trade route. Now, strange happenings have the traders spooked and there is
+    concern about the economic fallout. Adventurers are dispatched to make a
+    deal with the paranoid and potentially unstable occupant. This is the second
+    adventure of the *Swords Below the Moonsea* saga.
+  released: '2018-11-25'
+  url: 'https://www.dmsguild.com/product/259625/ZETH02-Six-Striking-Swords-CCCHAL02'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Dark Mother’s Ring of Spell Storing
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Mass Cure Wounds
+      rarity: rare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-HAL-03 ZETH-03
+  name: Six Swords Unbound
+  description: >-
+    In an effort to secure a surface trade route, adventurers find themselves
+    embroiled in the revenge schemes of a powerful drow exile. The chance to
+    learn about the state of the Underdark and the fates of many innocents taken
+    in surface raids is too valuable to pass up. Yet the risk is clear, for what
+    lies ahead is nothing short of an all-out assault on a drow manor. This is
+    the third adventure of the *Swords Below the Moonsea* saga.
+  released: '2018-11-25'
+  url: 'https://www.dmsguild.com/product/259623/ZETH03-Six-Swords-Unbound-CCCHAL03'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: 'The Sixth Sword (Rapier, +2)'
+      rarity: rare
+      properties:
+        - Guardian
+    - name: Spell Scroll of Banishment
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: A Moon Coin and a Note
+      description: |-
+        You’ve received a mysterious coin and note from an
+        Eilistraee-worshipping house of the Zethlentyn Protectorate. Coordinates
+        in the note refer to an aboveground location. Is this a meeting? The
+        only certain thing is that someone in the Underdark has taken an
+        interest in you.
+  
+        This story award has no effect unless specifically referenced in another
+        adventure.
+  missing:
+    - credits
+
+
+- code: CCC-HAL-04
+  name: Flight of the Centaurs
+  description: >-
+    A corrupted centaur has been sighted near the reclusive village of
+    Jarko’tu’ta. Having traded with a Cormanthor centaur tribe, the villagers
+    are concerned that something terrible has happened to them. Is there still
+    time to save the centaurs or is it already too late?!
+  released: '2020-09-24'
+  url: 'https://www.dmsguild.com/product/324013/Flight-of-the-Centaurs-CCCHAL04'
+  tier: 1
+  length: 2-4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-HAL-05
+  name: House of Blades
+  description: >-
+    Zim Von Zeam—of ZVZ Caravans—has spent his life braving the lawless lands of
+    Thar with his caravans. Now, life has gifted him with a new
+    opportunity–establishing a trade route from Melvaunt to nothing less than an
+    Underdark city. Does he have what it takes to deal with the treacherous drow?
+    Zim’s ambition is an adventuring opportunity like no other. Can you prove
+    yourselves worthy in a test of combat prowess against elite drow troops and
+    their cunning commander? Part Four of the *Spies Below the Moonsea* series.
+  released: '2020-09-24'
+  url: 'https://www.dmsguild.com/product/323804/House-of-Blades-CCCHAL05'
+  tier: 2
+  length: 2-4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-HAL-06
+  name: House of Silent Tides
+  description: >-
+    The body of a strange elf is discovered on the shores of Moonsea. Efforts to
+    identify its origin lead to a sea bound expedition to the home of the sea
+    elves. Elsewhere, an ambitious merchant sets upon the deadly task of
+    establishing a trade route to nothing less than an Underdark city. His
+    journey is destined to take him across the subterranean Moondeep Sea aboard
+    a drow ship. Where the two seas meet, secrets hide and adventure begins.
+    Part Five of the *Spies Below the Moonsea* series.
+  released: '2020-09-24'
+  url: 'https://www.dmsguild.com/product/323807/House-of-Silent-Tides-CCCHAL06'
+  tier: 2
+  length: 2-4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf

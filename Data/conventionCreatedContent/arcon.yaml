@@ -1,0 +1,49 @@
+- code: CCC-ARCON01-01
+  name: Forest Song
+  description: >-
+    People traveling in through this area has been disappearing without a trace. But
+    now the merchant guild has hired extra guards, so all should be safe. Right? Part
+    of the *Oar’s Rest* adventure series.
+  released: '2020-11-05'
+  url: 'https://www.dmsguild.com/product/334613/CCCARCON0101--Forest-Song'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-ARCON01-02
+  name: A Whale of a Tale
+  description: >-
+    You have been requested to escort an important package. It could be greatest adventure
+    ever told! True love, sports and intrigue could all be part of this thrilling tale.
+    Part of the *Oar’s Rest* adventure series.
+  released: '2020-11-05'
+  url: 'https://www.dmsguild.com/product/334674/CCCARCON0102--A-Whale-of-a-Tale'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+  
+
+- code: CCC-ARCON01-03
+  name: Pharmacist Wanted
+  description: >-
+    They haven’t delivered the medicine, and no one wants to enter the forest to get it.
+    Why don’t you go ahead? I mean, it’s probably not dangerous. Part of the *Oar’s Rest*
+    adventure series.
+  released: '2020-11-03'
+  url: 'https://www.dmsguild.com/product/334450/CCCARCON0103--Pharmacist-Wanted'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf

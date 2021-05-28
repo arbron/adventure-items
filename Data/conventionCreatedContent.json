@@ -1681,97 +1681,6 @@
         ]
     },
     {
-        "code": "CCC-FC3-01-02",
-        "name": "Corruption of the Elderoak",
-        "description": "Perpetual twilight awaits heroes when a simple request leads them to lands beyond time, beyond mortal understanding, and where those with twisted fates pray for atonement and freedom. Will joyful light return to this ancient land or will the curiosity of an outsider bring ruin to all. Part Two of the *Tales of Estirwald*.",
-        "released": "2019-02-27",
-        "url": "https://www.dmsguild.com/product/267821/CCCFC30102-Tales-of-Estirwald-Corruption-of-the-Elderoak",
-        "tier": [2],
-        "items": [
-            {
-                "name": "Figurine of Wondrous Power (Golden Lions)",
-                "rarity": "rare"
-            },
-            {
-                "name": "Potion of Greater Healing",
-                "rarity": "uncommon",
-                "consumable": true,
-                "count": 2
-            },
-            {
-                "name": "Potion of Invulnerability",
-                "rarity": "rare",
-                "consumable": true,
-                "count": 1
-            }
-        ],
-        "spellbooks": [
-            {
-                "name": "Enchanter’s Spellbook",
-                "spells": [
-                    { "name": "friends", "level": 0 },
-                    { "name": "mage hand", "level": 0 },
-                    { "name": "mending", "level": 0 },
-                    { "name": "message", "level": 0 },
-                    { "name": "charm person", "level": 1 },
-                    { "name": "mage armor", "level": 1 },
-                    { "name": "magic missile", "level": 1 },
-                    { "name": "hold person", "level": 2 },
-                    { "name": "invisibility", "level": 2 },
-                    { "name": "suggestion", "level": 2 },
-                    { "name": "fireball", "level": 3 },
-                    { "name": "haste", "level": 3 },
-                    { "name": "tongues", "level": 3 },
-                    { "name": "dominate beast", "level": 4 },
-                    { "name": "stoneskin", "level": 4 },
-                    { "name": "hold monster", "level": 5 }
-                ]
-            }
-        ],
-        "storyAwards": [
-            {
-                "name": "I’m a Published Author!",
-                "description": "Congratulations, you have unwillingly published your first book, and it has not gone unnoticed. A conclave of Wizards on the Sword Coast has taken a liking in your fact-based, straight to the point style. Your name is spreading amongst academics, sages, librarians, Clerics of Oghma and Deneir and even Candlekeep has heard about it."
-            },
-            {
-                "name": "A Spectral Displacer Kitten?",
-                "description": "You have found a spectral six-legged kitten with small bumps on its shoulders. The kitten keeps blinking in and out of view, suggesting that it may have once been a Displacer Beast kitten. If you decide to keep it, you find it extremely playful and friendly. After several adventures you realize it will never grow into an adult.",
-                "type": "pet"
-            }
-        ]
-    },
-    {
-        "code": "CCC-FC3-03",
-        "name": "The Fun House",
-        "description": "Randel Malark Ambledragon was a magician of impressive renown. Rumour has it that before he became a travelling magician he a very successful adventurer. He settled down in Estirwald until one day he and his mansion simply disappeared. Now his mansion is back and rumours are flying all over the place. Are you courageous, daring, and clever enough to find out the truth? Part Three of the *Tales of Estirwald*.",
-        "released": "2019-03-12",
-        "url": "https://www.dmsguild.com/product/269392/CCCFC303-Tales-of-Estirwald-The-Fun-House",
-        "tier": [3],
-        "items": [
-            {
-                "name": "Bag of Devouring",
-                "rarity": "veryRare"
-            },
-            {
-                "name": "Potion of Mind Reading",
-                "rarity": "rare",
-                "consumable": true,
-                "count": 2
-            }
-        ],
-        "storyAwards": [
-            {
-                "name": "Caught Red…errr Purple Handed",
-                "description": "You attempted to break into The Magician Randel Malark Ambledragon’s house instead of politely knocking at the door and he was not amused. To make sure that the world will know of your unlawful ways he has permanently changed the colour of your hands and forearms to a fluorescent purple colour that sparkles when in light of any source."
-            },
-            {
-                "name": "My Teddy Bear Has Claws",
-                "description": "Your generosity and good nature were on display by agreeing to play Jim’s game, despite hearing the ridiculous rules. As you leave the clearing where The Magician Randel Malark Ambledragon’s house is you feel something squirming in your pocket. A tiny Zorbo pops its head out and looks at you. This tiny zorbo is utterly harmless as fits in the palm of your hand. This creature has no mechanical effects and is a pet only, albeit a mischievous pet that loves playing games.",
-                "type": "pet"
-            }
-        ]
-    },
-    {
         "code": "CCC-FCC-01",
         "name": "Isle of Moss",
         "description": "The City of Hillsfar has endured continuous chaos since the Rage of Demons. First Lord Vuhm Yestral dreamed of stability the day he took office. Five years later, the only real change is the number of grey hairs on his head. While xenophobia has reduced greatly, stability in the region is nowhere in sight. It has been a couple of months after the mighty beast was slain and Hillsfar is barely recovering of the major assault by multiple factions. Now rumors of Red wizards kidnapping farmers have spread across the city. What could the Thayans be up to this time? Part One of the *Mystery of the Isles*.",
@@ -2312,112 +2221,6 @@
                 "description": "The Grey Rat didn’t survive his encounter with you. His story ends here."
             }
         ]
-    },
-    {
-        "code": "CCC-HAL-01",
-        "name": "Fate of the Nightworms",
-        "description": "Strange geothermal activity brings adventurers to the tiny coastal village of Jarko’tu’ta. A dangerous cave descent leads them into the dark world below the surface. Waiting for them there are encounters with creatures strange, beautiful and deadly!",
-        "released": "2018-11-06",
-        "url": "https://www.dmsguild.com/product/258088/CCCHAL01-Fate-of-the-Nightworms",
-        "tier": [1],
-        "items": [
-            {
-                "name": "Faint (Driftglobe)",
-                "rarity": "uncommon"
-            },
-            {
-                "name": "Spell Scroll of Clairvoyance",
-                "rarity": "uncommon",
-                "consumable": true,
-                "count": 1
-            }
-        ],
-        "storyAwards": [
-            {
-                "name": "Dark Dreams of Light",
-                "description": "Sometimes at night, when a star falls across an outdoor sky on a moonless night, or when a lantern’s faint light can be seen through a foggy city morning, you remember the soft light of the nightworms. Yet, there is a worry there. Did you truly find the cause of their demise or will they perish to their unknown predator and be forever gone from anything but dreams? Your sleep after such thoughts is uneasy."
-            }
-        ]
-    },
-    {
-        "code": "CCC-HAL-02 ZETH-02",
-        "name": "Six Striking Swords",
-        "description": "A mysterious resident has taken over an abandoned castle along a perilous trade route. Now, strange happenings have the traders spooked and there is concern about the economic fallout. Adventurers are dispatched to make a deal with the paranoid and potentially unstable occupant. This is the second adventure of the *Swords Below the Moonsea* saga.",
-        "released": "2018-11-25",
-        "url": "https://www.dmsguild.com/product/259625/ZETH02-Six-Striking-Swords-CCCHAL02",
-        "tier": [2],
-        "items": [
-            {
-                "name": "Dark Mother’s Ring of Spell Storing",
-                "rarity": "rare"
-            },
-            {
-                "name": "Potion of Greater Healing",
-                "rarity": "uncommon",
-                "consumable": true,
-                "count": 1
-            },
-            {
-                "name": "Spell Scroll of Mass Cure Wounds",
-                "rarity": "rare",
-                "consumable": true,
-                "count": 1
-            }
-        ]
-    },
-    {
-        "code": "CCC-HAL-03 ZETH-03",
-        "name": "Six Swords Unbound",
-        "description": "In an effort to secure a surface trade route, adventurers find themselves embroiled in the revenge schemes of a powerful drow exile. The chance to learn about the state of the Underdark and the fates of many innocents taken in surface raids is too valuable to pass up. Yet the risk is clear, for what lies ahead is nothing short of an all-out assault on a drow manor. This is the third adventure of the *Swords Below the Moonsea* saga.",
-        "released": "2018-11-25",
-        "url": "https://www.dmsguild.com/product/259623/ZETH03-Six-Swords-Unbound-CCCHAL03",
-        "tier": [2],
-        "items": [
-            {
-                "name": "The Sixth Sword (Rapier, +2)",
-                "rarity": "rare",
-                "properties": ["Guardian"]
-            },
-            {
-                "name": "Spell Scroll of Banishment",
-                "rarity": "rare",
-                "consumable": true,
-                "count": 1
-            }
-        ],
-        "storyAwards": [
-            {
-                "name": "A Moon Coin and a Note",
-                "description": "You’ve received a mysterious coin and note from an Eilistraee-worshipping house of the Zethlentyn Protectorate. Coordinates in the note refer to an aboveground location. Is this a meeting? The only certain thing is that someone in the Underdark has taken an interest in you.\n\n This story award has no effect unless specifically referenced in another adventure."
-            }
-        ]
-    },
-    {
-        "code": "CCC-HAL-04",
-        "name": "Flight of the Centaurs",
-        "description": "A corrupted centaur has been sighted near the reclusive village of Jarko’tu’ta. Having traded with a Cormanthor centaur tribe, the villagers are concerned that something terrible has happened to them. Is there still time to save the centaurs or is it already too late?!",
-        "released": "2020-09-24",
-        "url": "https://www.dmsguild.com/product/324013/Flight-of-the-Centaurs-CCCHAL04",
-        "tier": [1],
-        "incomplete": true
-    },
-    {
-        "code": "CCC-HAL-05",
-        "name": "House of Blades",
-        "description": "Zim Von Zeam—of ZVZ Caravans—has spent his life braving the lawless lands of Thar with his caravans. Now, life has gifted him with a new opportunity – establishing a trade route from Melvaunt to nothing less than an Underdark city. Does he have what it takes to deal with the treacherous drow? Zim’s ambition is an adventuring opportunity like no other. Can you prove yourselves worthy in a test of combat prowess against elite drow troops and their cunning commander?",
-        "released": "2020-09-24",
-        "url": "https://www.dmsguild.com/product/323804/House-of-Blades-CCCHAL05",
-        "tier": [2],
-        "incomplete": true
-    },
-    {
-        "code": "CCC-HAL-06",
-        "name": "House of Silent Tides",
-        "description": "The body of a strange elf is discovered on the shores of Moonsea. Efforts to identify its origin lead to a sea bound expedition to the home of the sea elves. Elsewhere, an ambitious merchant sets upon the deadly task of establishing a trade route to nothing less than an Underdark city. His journey is destined to take him across the subterranean Moondeep Sea aboard a drow ship. Where the two seas meet, secrets hide and adventure begins.",
-        "released": "2020-09-24",
-        "url": "https://www.dmsguild.com/product/323807/House-of-Silent-Tides-CCCHAL06",
-        "tier": [2],
-        "incomplete": true
     },
     {
         "code": "CCC-HATMS-01-01",
@@ -3469,50 +3272,6 @@
                 "description": "The Chained God, Tharizdun, has briefly touched your mind. Seemingly at random you have nightmares of a black Obex (an inverted, two-tiered ziggurat) that shakes violently as though something is trapped inside and wants to get out.\n\n This award could come back to haunt you in further *Elua’s Lighthouse* adventures!"
             }
         ]
-    },
-    {
-        "code": "CCC-MTL-02",
-        "name": "House of Revenance",
-        "description": "New allies in the Underdark have emerged and are key to stopping drow slave-taking raids around the Moonsea. Now, one such ally has been assassinated and her body has been left to the most unpredictable and vile of Zethlentyn’s drow. What depraved price will the worshippers of the dreaded death goddess Kiaransalee set for their assistance? Are the adventurers ready to pay it? Part Two of the *Spies Below Moonsea* trilogy.",
-        "released": "2020-01-16",
-        "url": "https://www.dmsguild.com/product/300573/House-of-Revenance-CCCMTL02",
-        "tier": [2],
-        "items": [
-            {
-                "name": "Moon-Touched Greatsword",
-                "rarity": "common"
-            },
-            {
-                "name": "Ring of Mind Shielding",
-                "rarity": "uncommon",
-                "properties": ["Sentinel"]
-            },
-            {
-                "name": "Spell Scroll of Revivify",
-                "rarity": "uncommon",
-                "consumable": true,
-                "count": 1
-            }
-        ],
-        "storyAwards": [
-            {
-                "name": "Dark Consequences",
-                "description": "The dark experiences in this adventure may take a psychological toll on certain characters. This toll is not represented by any mechanical effect and is entirely optional. Players are not required to take note of this if they do not wish to.\n\n Any character that participated in the minor graverending ritual and allowed the revenant to proceed on its dark business OR participated in the TRIAL OF DEATH and left Erkulia in the hands of the Yathrinshee may choose to add the following to the list of their bonds:\n\n If the character is of a non-evil alignment:\n\n- I once participated in an evil act that resulted in the death of a stranger and seek atonement for this act.\n\n If the character is of an evil alignment:\n\n- Partaking in an evil act has made me more conscious of the consequences of my actions.\n\n This bond carries no mechanical effect and can be removed by the player at any time."
-            },
-            {
-                "name": "Knowledge of House Zaunmice",
-                "description": "You have gained some insight or secret of a drow house. Other houses of the Zethlentyn Protectorate may find this valuable. This award has no immediate mechanical effect."
-            }
-        ]
-    },
-    {
-        "code": "CCC-MTL-03",
-        "name": "House of Webs",
-        "description": "Are you ready to turn the tables and enact a devious ambush against drow slavers? Do you want to visit a tavern run by an illithid? Have a run in with a dwarf battlerager? This is your chance! The simmering conflict between the freedom fighters of House Tor’Erhyl and the Lolth-serving slavers of House Ouss’Nassath has reached its boiling point. Following the recent assassination of a sword dancer, Matron Tor’Erhyl makes a bold plan to strike back where it hurts most—the slave shipments. Yet this not merely a mission of vengeance—it’s one of mercy and liberation. Part Three of the *Spies Below Moonsea* trilogy.",
-        "released": "2020-02-19",
-        "url": "https://www.dmsguild.com/product/303290/House-of-Webs-CCCMTL03",
-        "tier": [2],
-        "incomplete": true
     },
     {
         "code": "CCC-MWGF-01",
@@ -5198,20 +4957,6 @@
                 "rarity": "uncommon",
                 "consumable": true,
                 "count": 1
-            }
-        ]
-    },
-    {
-        "code": "CCC-SAF-01-01",
-        "name": "Between Garrock and a Hard Place",
-        "description": "Miners and farming communities around the Earthspur Mountains are being found deserted of townsfolk. If the hobgoblins settling into the area are responsible, what are their motivations?",
-        "released": "2020-01-11",
-        "url": "https://www.dmsguild.com/product/299621/CCCSAF0101-Between-Garrock-and-a-Hard-Place",
-        "tier": [2],
-        "items": [
-            {
-                "name": "Elemental Gem (Yellow Diamond)",
-                "rarity": "uncommon"
             }
         ]
     },
@@ -8442,39 +8187,6 @@
             {
                 "name": "Knight of the Elvenflow Estuary",
                 "description": "For your services to the folk of the Elvenflow Estuary, the Bourne of Candles has dubbed you as a knight of one of the following villages: Buttergroves, Wayward, or Moonfern Ford. You are now treated as a hero of the Evenflow Estuary. This award does not confer any mechanical benefits or retainers, though it may impact further storylines set in this area."
-            }
-        ]    },
-    {
-        "code": "CCC-UNITE-05",
-        "name": "House of Moonlight",
-        "description": "It all starts with a mysterious coin that accompanies a note detailing a time and a place. Is this a meeting? Is it friendly? The only way to know is to go find out. What the adventurers discvover sets them on a journey to a land of darkness, decadence and deception. Part One of the *Spies Below Moonsea* trilogy.",
-        "released": "2020-01-03",
-        "url": "https://www.dmsguild.com/product/298232/House-of-Moonlight-CCCUNITE05-",
-        "tier": [2],
-        "items": [
-            {
-                "name": "Moon-Touched Rapier of the Dark Tongue",
-                "rarity": "common"
-            },
-            {
-                "name": "Wand of Web",
-                "rarity": "uncommon"
-            },
-            {
-                "name": "Potion of Superior Healing",
-                "rarity": "rare",
-                "consumable": true,
-                "count": 1
-            }
-        ],
-        "storyAwards": [
-            {
-                "name": "Drawn to the Wheel",
-                "description": "You have received a vision of a great magic item at the bottom of the Axcelon mine. You sense that it is a powerful weapon. This award has no immediate mechanical effect."
-            },
-            {
-                "name": "Knowledge of House Tor’Erhyl",
-                "description": "You have gained some insight or secret of a drow house. Other houses of the Zethlentyn Protectorate may find this valuable. This award has no immediate mechanical effect."
             }
         ]
     },

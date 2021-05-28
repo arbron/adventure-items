@@ -1,0 +1,95 @@
+- code: CCC-UNITE-05
+  name: House of Moonlight
+  description: >-
+    It all starts with a mysterious coin that accompanies a note detailing a
+    time and a place. Is this a meeting? Is it friendly? The only way to know is
+    to go find out. What the adventurers discvover sets them on a journey to a
+    land of darkness, decadence and deception. Part One of the *Spies Below
+    the Moonsea* series.
+  released: '2020-01-03'
+  url: 'https://www.dmsguild.com/product/298232/House-of-Moonlight-CCCUNITE05-'
+  tier: 2
+  length: 4-6
+  apl: 8
+  items:
+    - name: Moon-Touched Rapier of the Dark Tongue
+      rarity: common
+    - name: Wand of Web
+      rarity: uncommon
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Drawn to the Wheel
+      description: >-
+        You have received a vision of a great magic item at the bottom of the
+        Axcelon mine. You sense that it is a powerful weapon. This award has no
+        immediate mechanical effect.
+    - name: Knowledge of House Tor’Erhyl
+      description: >-
+        You have gained some insight or secret of a drow house. Other houses of
+        the Zethlentyn Protectorate may find this valuable. This award has no
+        immediate mechanical effect.
+  missing:
+    - credits
+
+
+- code: CCC-UNITE-07
+  name: The Second Exodus of Syln Nahail
+  description: |-
+    Let the characters show the stuff they are made of!
+
+    A hostile army closes in on the town of Syln Nahail.
+    Aid must be secured.
+    A line of retreat must be held open.
+
+    Sacrifices will have to be made.
+  released: '2020-12-21'
+  url: 'https://www.dmsguild.com/product/340567/CCCUNITE007-The-Second-Exodus-of-Syln-Nahail'
+  tier: 2
+  length: 2-4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-UNITE-AN-04
+  name: Sisterhood of the Blade
+  description: |-
+    **Live the exciting life of an adventurer! Free training provided! Want to know more?**
+
+    New posters advertising free training for adventurers have appeared around the
+    town of Melvaunt. Is this just a training facility or something more sinister?
+    The only way to find out is to go! A *Sisterhood of the Blade* adventure.
+  released: '2019-11-26'
+  url: 'https://www.dmsguild.com/product/295614/Sisterhood-of-the-Blade-CCCUNITEAN04'
+  tier: 1
+  length: 2-4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-UNITE-GD-01
+  name: House of Diamonds
+  description: >-
+    New allies in the Underdark have emerged and are working to liberate drow-taken
+    slaves from around the Moonsea. Key to this endeavor is finding a safe and secret
+    passage between the Underdark and the surface. Rumors tell of such a passage deep
+    within the abandoned Axcelon Diamond Mine. Yet the passage is the least of the
+    treasures and dangers that the mine holds. Part Seven of the *Spies Below the Moonsea*
+    series.
+  released: '2020-11-12'
+  url: 'https://www.dmsguild.com/product/335286/House-of-Diamonds-CCCUNITEGD01'
+  tier: 2
+  length: 2-4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf

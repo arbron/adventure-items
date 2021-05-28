@@ -1,0 +1,34 @@
+- code: CCC-OHAYOCON-01-03
+  name: Friendly Competition
+  description: >-
+    Bounty hunting around the Moonsea is a cut-throat business and tracking down
+    the mark is easier than snagging it first. Pick the target, make your plans
+    and watch out for the competition! A *Sisterhood of the Blade* adventure.
+  released: '2019-02-02'
+  url: 'https://www.dmsguild.com/product/265659/CCCOHAYOCON0103-Fiendly-Competition'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Necklace of the Legions (Necklace of Fireballs)
+      rarity: rare
+    - name: Staff of Birdcalls
+      rarity: common
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Resistance (Fire)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Mark of the Sisterhood
+      description: >-
+        You have earned some favour with the *Sisterhood of the Blade* bounty
+        hunting organization. By trading in this mark to a member of the
+        sisterhood, you get their attention and some measure of cooperation.
+        Benefits bestowed are detailed in adventures featuring the sisterhood
+        and remain unknown until the mark is used.
+  missing:
+    - credits

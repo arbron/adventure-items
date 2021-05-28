@@ -1,0 +1,45 @@
+- code: CCC-OA-01-01
+  name: When Mages Fall
+  description: >-
+    Fledgling wizards are being struck down in Thentia, the City of Mages.Rumors
+    tie the deaths to the reappearance of an ancient artifact, the Bright Sword.
+    Can adventurers solve the mystery of the mage slayings before the body count
+    rises? A *Sisterhood of the Blade* adventure.
+  released: '2019-12-13'
+  url: 'https://www.dmsguild.com/product/296439/When-Mages-Fall-CCCOA0101'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Hat of Wizardry
+      rarity: common
+    - name: >-
+        Superbly Angled Feathered Beret of the Librarian (Helm of Comprehending
+        Languages)
+      rarity: uncommon
+    - name: Potion of Growth
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Mark of the Sisterhood
+      description: |-
+        You have earned some favor with the *Sisterhood of the Blade* bounty
+        hunting organization. By trading in this mark to a member of the
+        sisterhood, you get their attention and some measure of cooperation.
+        Benefits bestowed are detailed in adventures featuring the sisterhood
+        and remain unknown until the mark is used.
+
+        The mark may come in handy in the following Tier 2 adventures:
+
+        - [Six Summoned Swords](/adventures/ccc-pha-01-zeth-01/)
+        - [Six Striking Swords](/adventures/ccc-hal-02-zeth-02/)
+        - [Six Swords Unbound](/adventures/ccc-hal-03-zeth-03/)
+        - [Fiendly Competition](/adventures/ccc-ohayocon-01-03/)
+        - The Undisturbed
+  missing:
+    - credits

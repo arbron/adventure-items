@@ -1,0 +1,146 @@
+- code: CCC-SVH-01-01
+  name: Dawn of the Raven Lord
+  description: >-
+    Barbarian Raids have been disrupting life in the farms outside the mining
+    town of Glister. Thrusk Tharmuil, the town’s elder has determined that the
+    forces of the Glister are incapable of stopping the raids and puts out a
+    call for assistance before the farms are destroyed and the barbarian horde
+    sets its sights on Glister. Part One of the *Rise of the Raven Lord* series.
+  released: '2018-11-05'
+  url: 'https://www.dmsguild.com/product/257960/CCCSVH0101-Dawn-of-the-Raven-Lord'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Figurine of Wonderous Power (Serpentine Owl)
+      rarity: rare
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Heal
+      rarity: veryRare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Uthgardt Negotiator
+      description: >-
+        You successfully negotiated a peace with an Uthgardt chieftain before
+        the battle of Hetford Orchard. Chieftain Grayfeather offers his
+        expertise as an offer of good will, and will remain a valuable point of
+        contact in the future.
+  missing:
+    - credits
+
+
+- code: CCC-SVH-01-02
+  name: Raven Lord’s Aerie
+  description: >-
+    Raids by the forces of the Raven Lord Attatarxes have taken their toll on
+    the villages near Glister. Having finally gained an upper hand in repelling
+    a raid, Thrusk Tharmuil seeks aid in taking the fight to the Raven Lord.
+    Part Two of the *Rise of the Raven Lord* series.
+  released: '2018-11-05'
+  url: 'https://www.dmsguild.com/product/257963/CCCSVH0102-Raven-Lords-Aerie'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Vicious Glaive
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Raven Lord’s Heart
+      description: >-
+        You have found and destroyed the true heart of the Raven Lord
+        Attatarxes. Doing so has left him unable to regenerate if destroyed, and
+        vulnerable to a true death.
+    - name: Raven Lord’s Liver
+      description: >-
+        You have found and destroyed the true liver of the Raven Lord
+        Attatarxes. Doing so has surely served to weaken him in some way.
+    - name: Raven Lord’s Lungs
+      description: >-
+        You have found and destroyed the true lungs of the Raven Lord
+        Attatarxes. Doing so has surely served to weaken him in some way.
+  missing:
+    - credits
+
+
+- code: CCC-SVH-01-03
+  name: Vault of the Raven Lord
+  description: >-
+    After sabotaging the Raven Lord’s Aerie Thrusk Tharmuil prepares to send an
+    expedition to attempt to eliminate Attatarxes once and for all. Part Three of
+    the *Rise of the Raven Lord* series.
+  released: '2018-11-05'
+  url: 'https://www.dmsguild.com/product/257962/CCCSVH0103-Vault-of-the-Raven-Lord'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Rod of Absorption
+      rarity: veryRare
+    - name: Oil of Sharpness
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Mordenkainen's Faithful Hound
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Curse from the Shadows
+      description: >-
+        You saved Glister, for now, but the shadow of your failure to kill the
+        Raven Lord once and for all hangs over your spirit.
+    - name: Fallen Raven
+      description: >-
+        You helped rid Glister of the threat of the Raven Lord once and for all.
+        As a result, you are hailed as a hero to the people of Glister.
+  missing:
+    - credits
+
+
+- code: CCC-SVH-03-01
+  name: Finder's Fiend
+  description: >-
+    Souls bound to a deadly fiend have escaped the Nine Hells and taken over
+    denizens of Thentia. The devil wants the souls back and if they're not
+    delivered quickly, she intends to come for them herself, endangering more
+    innocents. To save the lives of the unsuspecting hosts, adventurers must
+    track them down and send the stray souls back to Hell.  A *Sisterhood of
+    the Blade* adventure.
+  released: '2020-04-29'
+  url: 'https://www.dmsguild.com/product/311649/CCCSVH0301-Finders-Fiend-w--FG-mod'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Amulet of Proof against Detection and Location
+      rarity: uncommon
+    - name: Spell Scroll of Danse Macabre
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Mind Spike
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Mark of the Sisterhood
+      description: >-
+        You have earned some favor with the Sisterhood of the Blade bounty
+        hunting organization. By trading in this mark to a member of the
+        sisterhood, you get their attention and some measure of cooperation.
+        Benefits bestowed are detailed in adventures featuring the sisterhood
+        and remain unknown until the mark is used.
+  missing:
+    - credits

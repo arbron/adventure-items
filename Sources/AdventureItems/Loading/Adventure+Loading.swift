@@ -11,7 +11,7 @@ import Yams
 
 
 extension Adventure {
-    static func load() throws -> [Adventure] {
+    static func load() throws -> [Self] {
         let jsonDecoder = JSONDecoder()
         jsonDecoder.dateDecodingStrategy = .formatted(.iso8601date)
         let yamlDecoder = YAMLDecoder()
@@ -29,7 +29,7 @@ extension Adventure {
                 continue
             }
 
-            fputs("Loading Adventures from \(file.name)\n", stdout)
+            fputs("Loading Adventures from \(file.path(relativeTo: dataFolder))\n", stdout)
         }
 
         adventures.sort { (lhs, rhs) in lhs.code.localizedStandardCompare(rhs.code) == .orderedAscending }

@@ -9,10 +9,12 @@ struct AdventureItemsSite: Website {
     enum SectionID: String, WebsiteSectionID {
         // Add the sections that you want your website to contain here:
         case adventures
+//        case series
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
-        var adventure: Adventure
+        var adventure: Adventure?
+        var series: Series?
     }
 
     // Update these properties to configure your website:
@@ -25,8 +27,11 @@ struct AdventureItemsSite: Website {
     static let indentationMode: Indentation.Kind = .spaces(2)
 }
 
+
 // Load data
 var adventures = try Adventure.load()
+var series = try Series.load()
+Series.collate(&series, with: &adventures)
 
 
 // This will generate your website using the built-in Foundation theme:
@@ -34,6 +39,7 @@ try AdventureItemsSite().publish(using: [
     .addMarkdownFiles(),
     .copyResources(),
     .addAdventures(adventures),
+//    .addSeries(series),
     .addSpreadsheet(adventures),
     .generateHTML(withTheme: .league, indentation: AdventureItemsSite.indentationMode),
     .generateRSSFeed(including: [.adventures]),

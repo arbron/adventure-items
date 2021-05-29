@@ -5,8 +5,8 @@
 //  Created by Jeff Hitchcock on 2020-09-04.
 //
 
-import Foundation
 import AdventureUtils
+import Foundation
 
 
 struct Adventure: Codable, Hashable {
@@ -33,29 +33,38 @@ struct Adventure: Codable, Hashable {
 
     @DecodableDefault.EmptyList var missing: [String]
 
+
+    // MARK: Not Included in Data Files
+    var series: Series?
+}
+
+extension Adventure {
     var source: Source { Source(code) }
     var isEpic: Bool { code.hasPrefix("DDEP") || code.hasPrefix("DDAL-EBEP") || code.hasPrefix("DDAL-DRWEP") }
     var storyAwardName: String {
-        let string = NSLocalizedString(storyAwardType, bundle: Bundle.module, comment: "")
+        let string = NSLocalizedString(storyAwardType.rawValue, bundle: Bundle.module, comment: "")
         return String.localizedStringWithFormat(string, 1)
     }
-    var storyAwardType: String {
+    var storyAwardType: StoryAwardType {
         switch source {
         case .dreamsOfRedWizards, .oracleOfWar:
             if code != "DDAL-DRW-01" && code != "DDAL-DRW-02" && code != "DDAL-DRW-03" {
-                return "legacy-event"
+                return .legacyEvent
             }
             fallthrough
-        default: return "story-award"
+        default: return .default
         }
     }
 
     var path: String {
         code.lowercased().replacingOccurrences(of: " ", with: "-")
     }
-}
 
-extension Adventure {
+    enum StoryAwardType: String {
+        case `default` = "story-award"
+        case legacyEvent = "legacy-event"
+    }
+
     enum Tier: Int, Codable, Hashable {
         case one = 1, two, three, four
     }

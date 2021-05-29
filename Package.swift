@@ -29,7 +29,10 @@ let package = Package(
             name: "AdventureItems",
             dependencies: ["AdventureUtils", "Ink", "Plot", "Publish", "Yams"]
         ),
-        .target(name: "AdventureUtils"),
+        .target(
+            name: "AdventureUtils",
+            dependencies: ["Ink", "Plot"]
+        ),
         .testTarget(
             name: "AdventureUtilsTests",
             dependencies: ["AdventureUtils"]

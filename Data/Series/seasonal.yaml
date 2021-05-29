@@ -1,0 +1,20 @@
+- slug: plague-of-ancients
+  name: Plague of Ancients
+  usesArticle: true
+  adventures:
+    - code: DDAL10-01
+      position: 1
+    - code: DDAL10-02
+      position: 2
+    - code: DDAL10-03
+      position: 3
+    - code: DDAL10-04
+      position: 4
+    - code: DDAL10-05
+      position: 5
+    - code: DDAL10-06
+      position: 6
+    - code: DDAL10-07
+      position: 7
+    - code: DDAL10-08
+      position: 8

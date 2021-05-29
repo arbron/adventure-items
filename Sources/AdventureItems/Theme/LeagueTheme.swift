@@ -54,15 +54,16 @@ private struct LeagueHTMLFactory: HTMLFactory {
         var dictionary: [Adventure.Source: [Publish.Item<Site>]] = [:]
 
         for item in items {
-            switch item.metadata.adventure.source {
+            guard let adventure = item.metadata.adventure else { continue }
+            switch adventure.source {
             case .conventionCreatedContent:
                 var array = dictionary[.conventionCreatedContent] ?? []
                 array.append(item)
                 dictionary[.conventionCreatedContent] = array
             default:
-                var array = dictionary[item.metadata.adventure.source] ?? []
+                var array = dictionary[adventure.source] ?? []
                 array.append(item)
-                dictionary[item.metadata.adventure.source] = array
+                dictionary[adventure.source] = array
             }
         }
 
@@ -190,13 +191,15 @@ private extension Node where Context == HTML.BodyContext {
         .ul(
             .class("item-list"),
             .forEach(items) { item in
-                .li(.article(
-                    .h1(
-                        .a(.href(item.path), .text(item.metadata.adventure.name)),
-                        .em(.class("adventure-code"), .text(item.metadata.adventure.code))
-                    ),
-                    .raw(Self.parser.html(from: item.description))
-                ))
+                .unwrap(item.metadata.adventure) { adventure in
+                    .li(.article(
+                        .h1(
+                            .a(.href(item.path), .text(adventure.name)),
+                            .em(.class("adventure-code"), .text(adventure.code))
+                        ),
+                        .raw(Self.parser.html(from: item.description))
+                    ))
+                }
             }
         )
     }

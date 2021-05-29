@@ -1,20 +1,208 @@
 //
-//  File.swift
+//  AdventurePage.swift
 //  
 //
 //  Created by Jeff Hitchcock on 2020-09-06.
 //
 
+import AdventureUtils
 import Foundation
 import Plot
 import Publish
 import Ink
 
+
+fileprivate let parser = MarkdownParser()
+
+
+struct AdventurePage: Component {
+    let adventure: Adventure
+
+    @ComponentBuilder
+    var body: Component {
+        H1(adventure.name)
+        subHeading
+
+        if let seed = adventure.adventureSeed {
+            Paragraph {
+                Text("Adventure Seed: ").italic()
+                Text(seed)
+            }
+        }
+        if !adventure.description.isEmpty {
+            Markdowned(adventure.description)
+        }
+//        if let series = adventure.series {
+//            Paragraph(series.name)
+//        }
+
+        if !adventure.items.isEmpty {
+            ItemsSection(adventure.items)
+        }
+        if !adventure.spellbooks.isEmpty {
+            SpellbooksSection(adventure.spellbooks)
+        }
+        if !adventure.storyAwards.isEmpty {
+            StoryAwardsSection(adventure.storyAwards, type: adventure.storyAwardType)
+        }
+    }
+
+    @ComponentBuilder
+    var subHeading: Component {
+        H3 {
+            Text("\(adventure.source.localizedStringValue) ")
+            if adventure.source != .conventionCreatedContent {
+                Text(!adventure.isEpic ? "Adventure" : "Epic") // TODO: Localize adventure & epic subheadings
+            }
+            if let tiers = tiersString {
+                Text(tiers)
+            }
+            if let released = releaseString {
+                Text(released)
+                    .italic()
+                    .class("release")
+            }
+        }
+    }
+
+    var tiersString: String? {
+        guard let tiers = adventure.tier else { return nil }
+
+        if tiers.count == 4 {
+            return " for All Tiers" // TODO: Localize for all tiers
+        }
+        if let formattedTiers = ListFormatter().string(from: tiers.map(\.rawValue)) {
+            var string = " for Tier" // TODO: Localize for tier
+            if tiers.count > 1 { string = "\(string)s" }
+            return "\(string) \(formattedTiers)"
+        }
+        return nil
+    }
+
+    var releaseString: String? {
+        guard adventure.released != nil || adventure.creator != nil else { return nil }
+
+        var string = "Released" // TODO: Localize adventure released
+        if let creator = adventure.creator {
+            string = "\(string) by \(creator)" // TODO: Localize adventure creator
+        }
+        if let date = adventure.released {
+            string = "\(string) on \(Self.dateFormatter.string(from: date))" // TODO: Localize adventure release date
+        }
+        return string
+    }
+
+    static var dateFormatter: DateFormatter {
+        let f = DateFormatter()
+        f.dateStyle = .long
+        f.timeStyle = .none
+        f.locale = Locale(identifier: "en_US")
+        return f
+    }
+}
+
+
+struct ItemsSection: Component {
+    let items: [Item]
+    
+    init(_ items: [Item]) {
+        self.items = items
+    }
+
+    @ComponentBuilder
+    var body: Component {
+        H2("Items") // TODO: Localize items header
+        List(items) { item in
+            ListItem {
+                if let count = item.count {
+                    Text("\(count) x ") // TODO: Localize item count
+                }
+                Span {
+                    Text(item.name)
+                }.class(item.illegal ? "illegal" : "")
+                Text(" ")
+                Text(
+                    !item.illegal ? item.rarity.name : "Not AL Legal" // TODO: Localize not al legal
+                ).italic().class("entry-label")
+            }
+        }
+    }
+}
+
+
+struct SpellbooksSection: Component {
+    static let formatter = ListFormatter()
+
+    let spellbooks: [Spellbook]
+    
+    init(_ spellbooks: [Spellbook]) {
+        self.spellbooks = spellbooks
+    }
+
+    @ComponentBuilder
+    var body: Component {
+        H2("Spellbooks") // TODO: Localize spellbooks header
+        List(spellbooks) { spellbook in
+            ListItem {
+                if let spells = formattedSpells(spellbook) {
+                    Text("\(spellbook.name): ").bold()
+                    Text(spells) // TODO: Display spells better
+                    if spellbook.note != "" {
+                        Markdowned(spellbook.note)
+                            .italic()
+                            .class("entry-label")
+                    }
+                } else {
+                    Text(spellbook.name).bold()
+                }
+            }
+        }
+    }
+
+    func formattedSpells(_ spellbook: Spellbook) -> String? {
+        SpellbooksSection.formatter.string(from: spellbook.spells.map { $0.name })
+    }
+}
+
+
+struct StoryAwardsSection: Component {
+    let storyAwards: [StoryAward]
+    let type: Adventure.StoryAwardType
+
+    init(_ storyAwards: [StoryAward], type: Adventure.StoryAwardType = .default) {
+        self.storyAwards = storyAwards
+        self.type = type
+    }
+
+    @ComponentBuilder
+    var body: Component {
+        H2(type == .default ? "Story Awards" : "Legacy Events") // TODO: Localize story awards header
+        for award in storyAwards {
+            Disclosure(summary: awardName(award), details: Markdowned(award.description))
+                .class("story-award")
+        }
+    }
+
+    @ComponentBuilder
+    func awardName(_ award: StoryAward) -> Component {
+        Text(award.name)
+        if let type = award.type {
+            Text(" \(type.name)")
+                .italic()
+                .class("entry-label")
+        }
+    }
+}
+
+
+
+// MARK: - Building Steps
+
 extension PublishingStep where Site == AdventureItemsSite {
     static func addAdventures(
         _ adventures: [Adventure], removeIncomplete: Bool = false, removeDated: Bool = false
     ) -> Self {
-        step(named: "Add adventures") { context in
+        step(named: "Add Adventures") { context in
             for adventure in adventures {
                 guard !removeDated || adventure.released == nil else { continue }
                 guard !removeIncomplete || !adventure.incomplete else { continue }
@@ -26,15 +214,6 @@ extension PublishingStep where Site == AdventureItemsSite {
 
 extension Publish.Item where Site == AdventureItemsSite {
     fileprivate typealias ASite = AdventureItemsSite
-
-    private static let parser = MarkdownParser()
-    private static var dateFormatter: DateFormatter {
-        let f = DateFormatter()
-        f.dateStyle = .long
-        f.timeStyle = .none
-        f.locale = Locale(identifier: "en_US")
-        return f
-    }
 
     static func item(for adventure: Adventure) -> Self {
         var magicItemNames: [String] = []
@@ -80,7 +259,7 @@ extension Publish.Item where Site == AdventureItemsSite {
         }
         if !adventure.storyAwards.isEmpty {
             tags.insert("story awards")
-            let string = NSLocalizedString("\(adventure.storyAwardType)-numbered", bundle: Bundle.module, comment: "")
+            let string = NSLocalizedString("\(adventure.storyAwardType.rawValue)-numbered", bundle: Bundle.module, comment: "")
             magicItemNames.append(String.localizedStringWithFormat(string, adventure.storyAwards.count))
             for award in adventure.storyAwards {
                 guard let type = award.type else { continue }
@@ -112,158 +291,11 @@ extension Publish.Item where Site == AdventureItemsSite {
             content: Content(
                 title: "\(adventure.code) - \(adventure.name)",
                 description: description,
-                body: Self.body(adventure),
+                body: .init(indentation: AdventureItemsSite.indentationMode) {
+                    AdventurePage(adventure: adventure)
+                },
                 date: adventure.released ?? Date.distantPast
             )
         )
-    }
-
-    private static func body(_ adventure: Adventure) -> Content.Body {
-        .init(node:
-            .section(
-                .h1(.text(adventure.name)),
-                Self.subheading(adventure),
-                .unwrap(adventure.adventureSeed) { seed in
-                    .p(.em("Adventure Seed: "), .text(seed))
-                },
-                .if(!adventure.description.isEmpty, .raw("\(parser.html(from: adventure.description))")),
-                .if(!adventure.items.isEmpty, .group([
-                    .h2("Items"),
-                    .p(Self.itemList(adventure.items))
-                ])),
-                .if(!adventure.spellbooks.isEmpty, .group([
-                    .h2("Spellbooks"),
-                    .p(Self.spellbookList(adventure.spellbooks))
-                ])),
-                .if(!adventure.storyAwards.isEmpty, .group([
-                    .h2(.text(adventure.storyAwardName), .text("s")),
-                    Self.storyAwardList(adventure.storyAwards)
-                ]))
-            ),
-              indentation: AdventureItemsSite.indentationMode
-        )
-    }
-    
-    private static func subheading(_ adventure: Adventure) -> Node<HTML.BodyContext> {
-        .group(
-            .h3(
-                .text(adventure.source.localizedStringValue),
-                " ",
-                .if(adventure.source != .conventionCreatedContent,
-                    .if(!adventure.isEpic, .text("Adventure"), else: .text("Epic"))
-                ),
-                .unwrap(adventure.tier) { tiers in
-                    Self.subheadingTiers(tiers)
-                },
-                .if(adventure.released != nil || adventure.creator != nil,
-                    .em(
-                        .class("release"),
-                        Self.subheadingRelease(adventure)
-                    )
-                )
-            )
-        )
-    }
-
-    private static func subheadingTiers(_ tiers: [Adventure.Tier]) -> Node<HTML.BodyContext> {
-        .if(tiers.count == 4,
-            .text(" for All Tiers"),
-            else: .unwrap(ListFormatter().string(from: tiers.map(\.rawValue))) {
-                .group(
-                    " for Tier",
-                    .if(tiers.count > 1, "s"),
-                    " ",
-                    .text($0)
-                )
-            }
-        )
-    }
-
-    private static func subheadingRelease(_ adventure: Adventure) -> Node<HTML.BodyContext> {
-        .group(
-            " Released ",
-            .unwrap(adventure.creator) { creator in
-                .text(" by \(creator)")
-            },
-            .unwrap(adventure.released) { date in
-                .text(" on \(Self.dateFormatter.string(from: date))")
-            }
-        )
-    }
-
-    private static func itemList(_ items: [Item]) -> Node<HTML.BodyContext> {
-        .ul(
-            .forEach(items) { item in
-                .li(
-                    .unwrap(item.count) { count in
-                        .text("\(count) x ")
-                    },
-                    .span(
-                        .if(item.illegal, .class("illegal")),
-                        .text(item.name)
-                    ),
-                    .em(
-                        .class("entry-label"),
-                        " ",
-                        .if(!item.illegal,
-                            .text(item.rarity.name),
-                            else: .text("Not AL Legal")
-                        )
-                    )
-                )
-            }
-        )
-    }
-
-    private static func spellbookList(_ spellbooks: [Spellbook]) -> Node<HTML.BodyContext> {
-        .ul(
-            .forEach(spellbooks) { spellbook in
-                if let spells = ListFormatter().string(from: spellbook.spells.map { $0.name }) {
-                    return .li(
-                        .strong("\(spellbook.name): "),
-                        "\(spells)",
-                        .if(spellbook.note != "",
-                            .em(
-                                .class("entry-label"),
-                                .raw("\(Self.parser.html(from: spellbook.note))")
-                            )
-                        )
-                    )
-                } else {
-                    return .li(.strong("\(spellbook.name)"))
-                }
-
-            }
-        )
-    }
-
-    private static func storyAwardList(_ storyAwards: [StoryAward]) -> Node<HTML.BodyContext> {
-        .forEach(storyAwards) { award in
-            .details(
-                .class("story-award"),
-                .summary(
-                    .text(award.name),
-                    .unwrap(award.type) { awardType in
-                        .em(
-                            .class("entry-label"),
-                            " ",
-                            .text(awardType.name)
-                        )
-                    }
-                ),
-                .raw("\(Self.parser.html(from: award.description))")
-            )
-        }
-    }
-}
-
-struct AdventureInformation: Component {
-    let adventure: Adventure
-
-    var body: Component {
-        Text("APL: \(adventure.apl?.first ?? 0)")
-//        if let apl = adventure.apl {
-//            Text("\(apl)")
-//        }
     }
 }

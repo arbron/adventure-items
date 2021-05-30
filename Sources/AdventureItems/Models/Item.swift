@@ -23,7 +23,7 @@ struct Item: Codable, Hashable {
         case common, uncommon, rare, veryRare, legendary, unique
 
         var name: String {
-            return NSLocalizedString("rarity-\(rawValue)", bundle: Bundle.module, comment: "Item rarity \(rawValue)")
+            return "rarity.\(rawValue)".localized()
         }
     }
 }

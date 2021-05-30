@@ -131,7 +131,7 @@ struct ItemsSection: Component {
 
     @ComponentBuilder
     var body: Component {
-        H2("Items") // TODO: Localize items header
+        H2("adventurePage.itemHeader".localized())
         List(items) { item in
             ListItem {
                 if let count = item.count {
@@ -141,9 +141,9 @@ struct ItemsSection: Component {
                     Text(item.name)
                 }.class(item.illegal ? "illegal" : "")
                 Text(" ")
-                Text(
-                    !item.illegal ? item.rarity.name : "Not AL Legal" // TODO: Localize not al legal
-                ).italic().class("entry-label")
+                Text(!item.illegal ? item.rarity.name : "item.notAlLegal".localized())
+                    .italic()
+                    .class("entry-label")
             }
         }
     }
@@ -161,7 +161,7 @@ struct SpellbooksSection: Component {
 
     @ComponentBuilder
     var body: Component {
-        H2("Spellbooks") // TODO: Localize spellbooks header
+        H2("adventurePage.spellbookHeader".localized())
         List(spellbooks) { spellbook in
             ListItem {
                 if let spells = formattedSpells(spellbook) {
@@ -196,7 +196,7 @@ struct StoryAwardsSection: Component {
 
     @ComponentBuilder
     var body: Component {
-        H2(type == .default ? "Story Awards" : "Legacy Events") // TODO: Localize story awards header
+        H2("adventurePage.\(type.rawValue)Header".localized())
         for award in storyAwards {
             Disclosure(summary: awardName(award), details: Markdowned(award.description))
                 .class("story-award")

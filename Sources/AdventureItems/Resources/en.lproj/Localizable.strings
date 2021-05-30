@@ -18,6 +18,13 @@
 "Released on <Date>" = "Released on %@";
 "Released by <Creator> on <Date>" = "Released by %@ on %@";
 
+"adventurePage.itemHeader" = "Items";
+"adventurePage.spellbookHeader" = "Spellbooks";
+"adventurePage.story-awardHeader" = "Story Awards";
+"adventurePage.legacy-eventHeader" = "Legacy Events";
+
+"item.notAlLegal" = "Not AL Legal";
+
 
 /* Adventure Sources */
 "source-authorOnly" = "Author Only";
@@ -32,9 +39,9 @@
 "source-season(#)" = "Season %d";
 
 /* Item Rarities */
-"rarity-common" = "Common";
-"rarity-uncommon" = "Uncommon";
-"rarity-rare" = "Rare";
-"rarity-veryRare" = "Very Rare";
-"rarity-legendary" = "Legendary";
-"rarity-unique" = "Unique";
+"rarity.common" = "Common";
+"rarity.uncommon" = "Uncommon";
+"rarity.rare" = "Rare";
+"rarity.veryRare" = "Very Rare";
+"rarity.legendary" = "Legendary";
+"rarity.unique" = "Unique";

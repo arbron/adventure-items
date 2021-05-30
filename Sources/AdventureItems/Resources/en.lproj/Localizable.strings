@@ -2,6 +2,22 @@
 "welcome-header" = "Welcome to Adventure Items!";
 "site-description" = "Find a D&D adventure to give your character the perfect piece of swag.";
 
+"Adventure" = "Adventure";
+"Epic" = "Epic";
+
+"<Source>" = "%@";
+"<Source> <Type>" = "%@ %@";
+"<Source> for <Tier>" = "%@ for %@";
+"<Source> <Type> for <Tier>" = "%@ %@ for %@";
+
+"All Tiers" = "All Tiers";
+"Tier <Tier List>" = "Tier %@";
+"Tiers <Tier List>" = "Tiers %@";
+
+"Released by <Creator>" = "Released by %@";
+"Released on <Date>" = "Released on %@";
+"Released by <Creator> on <Date>" = "Released by %@ on %@";
+
 
 /* Adventure Sources */
 "source-authorOnly" = "Author Only";

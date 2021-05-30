@@ -50,13 +50,7 @@ struct AdventurePage: Component {
     @ComponentBuilder
     var subHeading: Component {
         H3 {
-            Text("\(adventure.source.localizedStringValue) ")
-            if adventure.source != .conventionCreatedContent {
-                Text(!adventure.isEpic ? "Adventure" : "Epic") // TODO: Localize adventure & epic subheadings
-            }
-            if let tiers = tiersString {
-                Text(tiers)
-            }
+            Text(subheadingDescription)
             if let released = releaseString {
                 Text(released)
                     .italic()
@@ -65,31 +59,57 @@ struct AdventurePage: Component {
         }
     }
 
+    var subheadingDescription: String {
+        var key = "<Source>"
+        var args: [CVarArg] = [adventure.source.localizedStringValue]
+
+        if adventure.source != .conventionCreatedContent {
+            key += " <Type>"
+            args.append((!adventure.isEpic ? "Adventure" : "Epic").localized())
+        }
+        if let tiers = tiersString {
+            key += " for <Tier>"
+            args.append(tiers)
+        }
+
+        return key.localizedAndFormatted(args)
+    }
+
     var tiersString: String? {
         guard let tiers = adventure.tier else { return nil }
 
         if tiers.count == 4 {
-            return " for All Tiers" // TODO: Localize for all tiers
+            return "All Tiers".localized()
         }
-        if let formattedTiers = ListFormatter().string(from: tiers.map(\.rawValue)) {
-            var string = " for Tier" // TODO: Localize for tier
-            if tiers.count > 1 { string = "\(string)s" }
-            return "\(string) \(formattedTiers)"
+
+        let numberFormatter = NumberFormatter()
+        numberFormatter.formattingContext = .listItem
+        numberFormatter.numberStyle = .none // TODO: Maybe switch to ordinal format?
+        let listFormatter = ListFormatter()
+        listFormatter.itemFormatter = numberFormatter
+
+        if let formattedTiers = listFormatter.string(from: tiers.map(\.rawValue)) {
+            let key = "\(tiers.count == 1 ? "Tier" : "Tiers") <Tier List>" // TODO: Figure out how to do this localization properly
+            return key.localizedAndFormatted(formattedTiers)
         }
+
         return nil
     }
 
     var releaseString: String? {
-        guard adventure.released != nil || adventure.creator != nil else { return nil }
+        guard adventure.creator != nil || adventure.released != nil else { return nil }
 
-        var string = "Released" // TODO: Localize adventure released
+        var key = "Released"
+        var args: [CVarArg] = []
         if let creator = adventure.creator {
-            string = "\(string) by \(creator)" // TODO: Localize adventure creator
+            key += " by <Creator>"
+            args.append(creator)
         }
         if let date = adventure.released {
-            string = "\(string) on \(Self.dateFormatter.string(from: date))" // TODO: Localize adventure release date
+            key += " on <Date>"
+            args.append(Self.dateFormatter.string(from: date))
         }
-        return string
+        return key.localizedAndFormatted(args)
     }
 
     static var dateFormatter: DateFormatter {

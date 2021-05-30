@@ -51,3 +51,26 @@ extension String {
         return dup
     }
 }
+
+// MARK: Localization
+extension String {
+    static func localizedString(key: String, comment: String = "") -> String {
+        return NSLocalizedString(key, bundle: Bundle.module, comment: comment)
+    }
+
+    static func localizedStringWithFormat(key: String, comment: String = "", _ arguments: [CVarArg]) -> String {
+        return .init(format: String.localizedString(key: key, comment: comment), arguments: arguments)
+    }
+
+    func localized(comment: String = "") -> String {
+        return .localizedString(key: self, comment: comment)
+    }
+    
+    func localizedAndFormatted(comment: String = "", _ arguments: CVarArg...) -> String {
+        return localizedAndFormatted(comment: comment, arguments)
+    }
+
+    func localizedAndFormatted(comment: String = "", _ arguments: [CVarArg]) -> String {
+        return String.localizedStringWithFormat(key: self, comment: comment, arguments)
+    }
+}

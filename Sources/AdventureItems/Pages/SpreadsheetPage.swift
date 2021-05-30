@@ -25,7 +25,7 @@ struct Spreadsheet: Component {
             for adventure in adventures {
                 TableRow {
                     Text(adventure.code)
-                    Link(adventure.name, url: "/adventures/\(adventure.path)/")
+                    Link(adventure.name, url: adventure.path)
                     Text("\(adventure.length?.localizedStringValue ?? "—")")
                     if let tier = adventure.tier {
                         if (tier.count == 4) {

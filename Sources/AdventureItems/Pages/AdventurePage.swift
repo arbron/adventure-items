@@ -32,9 +32,9 @@ struct AdventurePage: Component {
         if !adventure.description.isEmpty {
             Markdowned(adventure.description)
         }
-//        if let series = adventure.series {
-//            Paragraph(series.name)
-//        }
+        if let series = seriesString {
+            Markdowned(series)
+        }
 
         if !adventure.items.isEmpty {
             ItemsSection(adventure.items)
@@ -112,11 +112,37 @@ struct AdventurePage: Component {
         return key.localizedAndFormatted(args)
     }
 
+    var seriesString: String? {
+        guard let series = adventure.series,
+              let seriesInfo = series.adventures.first(where: { $0.code == adventure.code }) else { return nil }
+
+        let key: String
+        var args: [CVarArg] = []
+        if let position = seriesInfo.position,
+           let formattedPosition = Self.seriesNumberFormatter.string(from: NSNumber(value: position)) {
+            key = "adventurePage.orderedSeriesMember"
+            args.append(formattedPosition)
+        } else {
+            key = "adventurePage.unorderedSeriesMember"
+        }
+        args.append("*\(series.name)*")
+//        args.append("*[\(series.name)](\(series.path))*")
+
+        return key.localizedAndFormatted(args)
+    }
+
     static var dateFormatter: DateFormatter {
         let f = DateFormatter()
         f.dateStyle = .long
         f.timeStyle = .none
         f.locale = Locale(identifier: "en_US")
+        return f
+    }
+
+    static var seriesNumberFormatter: NumberFormatter {
+        let f = NumberFormatter()
+        f.numberStyle = .spellOut
+        f.formattingContext = .standalone
         return f
     }
 }
@@ -262,10 +288,10 @@ extension Publish.Item where Site == AdventureItemsSite {
                 otherConsumableCount += item.count ?? 1
             }
         }
-        if let potionText = "potion".counted(potionCount) {
+        if let potionText = "potion".counted(potionCount) { // TODO: potion spellbook list entry
             magicItemNames.append(potionText)
         }
-        if let scrollText = "scroll".counted(scrollCount) {
+        if let scrollText = "scroll".counted(scrollCount) { // TODO: Localize scroll list entry
             magicItemNames.append(scrollText)
         }
         for spellbook in adventure.spellbooks {
@@ -274,7 +300,7 @@ extension Publish.Item where Site == AdventureItemsSite {
                 tags.insert("spell: \(spell.name.lowercased())")
             }
         }
-        if let spellbookText = "spellbook".counted(adventure.spellbooks.count) {
+        if let spellbookText = "spellbook".counted(adventure.spellbooks.count) { // TODO: Localize spellbook list entry
             magicItemNames.append(spellbookText)
         }
         if !adventure.storyAwards.isEmpty {
@@ -286,7 +312,7 @@ extension Publish.Item where Site == AdventureItemsSite {
                 tags.insert("\(type.plural)")
             }
         }
-        if let otherText = "other item".counted(otherConsumableCount, singularArticle: "one") {
+        if let otherText = "other item".counted(otherConsumableCount, singularArticle: "one") { // TODO: Localize other items list entry
             magicItemNames.append(otherText)
         }
 
@@ -302,7 +328,7 @@ extension Publish.Item where Site == AdventureItemsSite {
         let description = adventure.incomplete ? "*(incomplete)*" : ListFormatter().string(from: magicItemNames) ?? ""
 
         return Self(
-            path: Path(adventure.path),
+            path: Path(adventure.slug),
             sectionID: ASite.SectionID.adventures,
             metadata: ASite.ItemMetadata(
                 adventure: adventure

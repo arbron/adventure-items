@@ -18,6 +18,9 @@
 "Released on <Date>" = "Released on %@";
 "Released by <Creator> on <Date>" = "Released by %@ on %@";
 
+"adventurePage.orderedSeriesMember" = "Part %@ of the %@ series.";
+"adventurePage.unorderedSeriesMember" = "A part of the %@ series.";
+
 "adventurePage.itemHeader" = "Items";
 "adventurePage.spellbookHeader" = "Spellbooks";
 "adventurePage.story-awardHeader" = "Story Awards";

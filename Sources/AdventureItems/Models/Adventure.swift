@@ -56,8 +56,12 @@ extension Adventure {
         }
     }
 
-    var path: String {
+    var slug: String {
         code.lowercased().replacingOccurrences(of: " ", with: "-")
+    }
+
+    var path: String {
+        "/adventure/\(slug)"
     }
 
     enum StoryAwardType: String {

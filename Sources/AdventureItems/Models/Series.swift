@@ -25,4 +25,8 @@ struct Series: Codable, Hashable {
         // MARK: Not Included in Data Files
         @DecodableDefault.EmptyString var name: String
     }
+
+    var path: String {
+        "/series/\(slug)/"
+    }
 }

@@ -1,0 +1,216 @@
+- code: CCC-GAD-01-01
+  name: Broken Blade
+  description: >-
+    On the eve of the Red War, the High Blade of Mulmaster has become
+    incapacitated by a mental assault. To give the city a fighting chance, you
+    must help Selfaril Uoumdolphin confront the shadows of his past and free him
+    from a century-long hatred. Part Two of the *Reborn Flame* trilogy.
+  released: '2019-03-28'
+  url: 'https://www.dmsguild.com/product/270401/CCCGAD0101-Broken-Blade'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Sea Hag's Cloak (Cloak of the Manta Ray)
+      rarity: uncommon
+    - name: Selfaril's Soul Gem (Ruby of the War Mage)
+      rarity: common
+    - name: Oil of Etherealness
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Revivify
+      rarity: uncommon
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Brotherhood Spellbook
+      spells:
+        - name: absorb elements
+          level: 1
+        - name: silent image
+          level: 1
+        - name: unseen servant
+          level: 1
+        - name: mirror image
+          level: 2
+        - name: shadow blade
+          level: 2
+        - name: catnap
+          level: 3
+        - name: major image
+          level: 3
+        - name: sickening radiance
+          level: 4
+        - name: summon greater demon
+          level: 4
+        - name: dream
+          level: 5
+        - name: steel wind strike
+          level: 5
+        - name: mental prison
+          level: 6
+        - name: crown of stars
+          level: 7
+  storyAwards:
+    - name: A Lich’s Secret
+      description: >-
+        When going through Selfaril’s memories of the past, you discovered
+        Rastol Shan’s secret. He is a lich who was formerly Thurndan Tallwand,
+        the Senior Cloak who betrayed Selfaril Uoumdolphin on behalf of his
+        brother Rassendyll. What you do with this secret is up to you.
+  missing:
+    - credits
+
+
+- code: CCC-GAD-01-02
+  name: 'Red War: Black Phoenix'
+  description: >-
+    The Cult of Reborn Flame initiates its most devastating plot against
+    Mulmaster even as Thayans are invading the city. You must navigate the
+    planar tunnels beneath Mulmaster and stop the Black Phoenix before a sea of
+    fire engulfs the entire city, killing Thayans and Mulmasterites alike. Part
+    Three of the *Reborn Flame* trilogy.
+  released: '2019-04-18'
+  url: 'https://www.dmsguild.com/product/270904/CCCGAD0102-Red-War-Black-Phoenix'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Dragonhide Saddle (Saddle of the Cavalier)
+      rarity: uncommon
+    - name: Dread Helm
+      rarity: common
+    - name: Potion of Growth
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Mind Reading
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: High Blade in Your Debt
+      description: |-
+        You prevented an alliance between an efreeti pasha and the Cult of
+        Reborn Flame, you rescued Selfaril Uoumdolphin from a mental prison
+        woven by a hag coven, and you prevented the people and city of Mulmaster
+        from being engulfed in lava by the Black Phoenix. For these deeds and
+        more, the High Blade of Mulmaster is in your debt. With his city overrun
+        by Thayans, Selfaril cannot repay that debt now, but perhaps that may
+        change one day.
+  
+        This story award doesn’t take effect until you successfully complete
+        the Reborn Flame Trilogy:
+  
+        - [**CCC-ODFC-02-02** *Palace of the Efreeti*](/adventures/ccc-odfc-01-01/)
+        - [**CCC-GAD-01-01** *Broken Blade*](/adventures/ccc-gad01-01/)
+        - [**CCC-GAD-01-02** *Red War: Black Phoenix*](/adventures/ccc-gad01-02/)
+
+         If you have not yet completed the entire trilogy, you gain the full use of this story award after you successfully complete the missing adventures.
+  missing:
+    - credits
+
+
+- code: CCC-GAD-01-03
+  name: Caught in Time
+  description: >-
+    The island-penal colony of Kulaica houses some of the most dangerous
+    creatures in all the Moonsea. You must infiltrate this penal colony and
+    investigate the bizarre murders of wardens before the entire colony erupts
+    in chaos.
+  released: '2019-08-12'
+  url: 'https://www.dmsguild.com/product/284754/CCCGAD0103-Caught-in-Time'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Chronostat of Precision (Clockwork Amulet)
+      rarity: common
+    - name: Prospector’s Chronoglass (Periapt of Proof Against Poison)
+      rarity: rare
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 2
+    - name: Potion of Supreme Healing
+      rarity: veryRare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-GAD-02-01
+  name: The Monster Within
+  description: >-
+    A mind flayer has called for a massive conference of monsters in the
+    Underdark beneath Hillsfar. Trolls, umber hulks, demons, and more have
+    answered the illithid's call. To infiltrate this gruesome menagerie, you
+    must embrace the monster within yourself.
+  released: '2020-07-01'
+  url: 'https://www.dmsguild.com/product/315751/CCCGAD0201-The-Monster-Within'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Moon-Touched Rapier
+      rarity: common
+    - name: Goggles of Night
+      rarity: uncommon
+    - name: Potion of Giant Strength (Hill)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-GAD-02-02
+  name: Voyage of the Kraken's Wake
+  description: >-
+    There are many legends of the Vengeful Tempest and its supernatural crew.
+    Few have seen that pirate ship and lived to tell the tale, and fewer still
+    dare to seek it out. To hunt down that fabled vessel, you must lead a group
+    of makeshift mariners and set sail upon the Kraken's Wake.
+  released: '2020-07-01'
+  url: 'https://www.dmsguild.com/product/315755/CCCGAD0202-Voyage-of-the-Krakens-Wake'
+  tier: 2
+  length: 4-6
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-GAD-02-03
+  name: Arena of Champions
+  description: >-
+    In honor of Tempus, Hillsfar will host the Celebration of Swords–the
+    largest battle tournament that the Moonsea has ever seen. Warriors from
+    across the multiverse will descend upon the arena for a chance at eternal
+    glory. Does your team have what it takes to become champions?
+  released: '2020-07-01'
+  url: 'https://www.dmsguild.com/product/315764/CCCGAD0203-Arena-of-Champions'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Horn of Valhalla (Brass)
+      rarity: rare
+    - name: Potion of Giant Strength (Fire)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Illusory Dragon
+      rarity: veryRare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf

@@ -532,7 +532,7 @@
   items:
     - name: 'Miltiades’s Shield (Shield, +3)'
       rarity: veryRare
-    - name: Explorer's Pack
+    - name: Explorer’s Pack
       rarity: common
       count: 1
     - name: Holy Symbol of Kelemvor
@@ -590,7 +590,7 @@
           level: 3
         - name: banishment
           level: 4
-        - name: Evard's black tentacles
+        - name: Evard’s black tentacles
           level: 4
         - name: fire shield
           level: 4
@@ -753,7 +753,7 @@
       consumable: true
       count: 1
   spellbooks:
-    - name: Mage's Spellbook
+    - name: Mage’s Spellbook
       spells:
         - name: fire bolt
           level: 0
@@ -787,7 +787,7 @@
           level: 4
         - name: cone of cold
           level: 5
-    - name: Julnar's Spellbook
+    - name: Julnar’s Spellbook
       spells:
         - name: fire bolt
           level: 0
@@ -872,7 +872,7 @@
   items:
     - name: Staff of the Woodlands
       rarity: rare
-    - name: Alchemist's fire (flask)
+    - name: Alchemist’s fire (flask)
       rarity: common
       consumable: true
       count: 2
@@ -911,7 +911,7 @@
 
 
 - code: CCC-BMG-19 HULB2-1
-  name: Winter's Frosty Kiss
+  name: Winter’s Frosty Kiss
   description: >-
     When winter breathes down the mountains, temperature drops and fear rises.
     Canvas walls offer little protection against the Frost Maiden’s embrace.
@@ -936,7 +936,7 @@
 
 
 - code: CCC-BMG-20 HULB2-2
-  name: Winter's Frigid Wrath
+  name: Winter’s Frigid Wrath
   description: >-
     In the wake of Winter’s Frosty Kiss, vicious predators come down from
     Thar—hunters searching for prey. If Hulburg does not deliver, the citizens
@@ -957,7 +957,7 @@
 
 
 - code: CCC-BMG-21 HULB2-3
-  name: Winter's Sharp Bite
+  name: Winter’s Sharp Bite
   description: >-
     No hunter is more dangerous than a bored one. They have set their sights on
     you. Are you going down with a whimper or will you face the challenge head
@@ -978,7 +978,7 @@
 
 
 - code: CCC-BMG-HULB2-S
-  name: Winter's Feast
+  name: Winter’s Feast
   creator: Baldman Games
   missing:
     - credits
@@ -1031,7 +1031,7 @@
   creator: Baldman Games
   tier: 3
   items:
-    - name: Tyr's Blessing of Command
+    - name: Tyr’s Blessing of Command
       rarity: veryRare
   storyAwards:
     - name: The Guardian Medal
@@ -1065,7 +1065,7 @@
   creator: Baldman Games
   tier: 3
   items:
-    - name: Tyr's Blessing of Luck
+    - name: Tyr’s Blessing of Luck
       rarity: uncommon
   storyAwards:
     - name: The Guardian Medal
@@ -1209,7 +1209,7 @@
         spend a month at no expense to you (no cost for living expenses when
         using downtime days for a lavish lifestyle). Once this is used, remove
         the Story Award.
-    - name: You've Got a Friend in Me
+    - name: You’ve Got a Friend in Me
       description: >-
         The Zulkir remembers his debts and debtors and spreads word through the
         Red Wizard channels that you are a friend of Thay. You receive advantage
@@ -1421,7 +1421,7 @@
   items:
     - name: 'Bone-pommeled Glaive (Polearm, +1)'
       rarity: uncommon
-    - name: Alchemist's fire (flask)
+    - name: Alchemist’s fire (flask)
       rarity: common
       consumable: true
       count: 2
@@ -1669,7 +1669,7 @@
         decision in the future has yet to be determined…
     - name: Planar Studies
       description: |-
-        With the alhoon's unique plane available for study, those interested in
+        With the alhoon’s unique plane available for study, those interested in
         its creation can spend time studying it and learn its secrets. By
         spending 50 downtime days, a character can do one of the following to a
         demiplane they have created. Each effect can be given used multiple
@@ -1735,7 +1735,7 @@
   items:
     - name: Folding Boat
       rarity: rare
-    - name: Alchemist's fire (flask)
+    - name: Alchemist’s fire (flask)
       rarity: common
       consumable: true
       count: 8
@@ -2199,7 +2199,7 @@
   creator: Baldman Games
   tier: 1
   items:
-    - name: 'The Wolves'' Claw (Dagger, +1)'
+    - name: The Wolves’ Claw (Dagger, +1)
       rarity: uncommon
   storyAwards:
     - name: Defenders of Caer Moray
@@ -2571,7 +2571,7 @@
           level: 1
         - name: alter self
           level: 2
-        - name: dragon's breath
+        - name: dragon’s breath
           level: 2
         - name: knock
           level: 2
@@ -2579,7 +2579,7 @@
           level: 2
         - name: mind spike
           level: 2
-        - name: Nystul's magic aura
+        - name: Nystul’s magic aura
           level: 2
         - name: tongues
           level: 2
@@ -2587,13 +2587,13 @@
           level: 3
         - name: counterspell
           level: 3
-        - name: Leomund's tiny hut
+        - name: Leomund’s tiny hut
           level: 3
         - name: summon lesser demons
           level: 3
         - name: charm monster
           level: 4
-        - name: Mordenkainen's faithful hound
+        - name: Mordenkainen’s faithful hound
           level: 4
         - name: enervation
           level: 5
@@ -2601,7 +2601,7 @@
           level: 5
         - name: infernal calling
           level: 5
-        - name: Rary's telepathic bond
+        - name: Rary’s telepathic bond
           level: 5
         - name: create homunculus
           level: 6
@@ -3081,7 +3081,7 @@
 - code: CCC-BMG-MOON10-1
   name: Whispers & Warnings
   description: >-
-    The reach of the Shadowfell has come to Alaron! The Great Gark's forces are
+    The reach of the Shadowfell has come to Alaron! The Great Gark’s forces are
     intent on spreading the Howling Disease throughout the island, and the fey
     are in dire peril. Will you ride to their aid or will the shadow spread
     across the land? Part One of *The Dark Tidings* trilogy.

@@ -7,7 +7,7 @@
         "tier": [1],
         "items": [
             {
-                "name": "Alchemist's fire (flask)",
+                "name": "Alchemist’s fire (flask)",
                 "rarity": "common",
                 "consumable": true,
                 "count": 1
@@ -205,7 +205,7 @@
     },
     {
         "code": "DDAL05-07",
-        "name": "Chelimber's Descent",
+        "name": "Chelimber’s Descent",
         "description": "Deep in the Marsh of Chelimber lie the ruins of a great wizard’s tower. SEER has received intelligence, which she imparts via her emissary Hsing, that deep beneath the marsh in the remains of an old tower is knowledge of older magics. This could be just what Parnast needs to resist the onslaught of Bad Fruul and his armies!\n\n A Two-Hour Adventure for 1st–4th Level Characters.",
         "released": "2016-12-06",
         "tier": [1],
@@ -238,7 +238,7 @@
     },
     {
         "code": "DDAL05-08",
-        "name": "Durlag's Tower",
+        "name": "Durlag’s Tower",
         "description": "East of Beregost, nestled in the outskirts of the Wood of Sharp Teeth, Durlag’s Tower has intrigued and yet stymied adventurers for decades. Stuffed full of mechanical traps and arcane wards, and rumored to be inhabited by fiends, very few have managed to extract any REAL treasure from the former home of Durlag Trollkiller. However, a powerful item in the ancient fight against the giants is said to be housed there, and the cloud giant Baron Rajiram has committed significant resources toward recovering it. After a pleasant tea in her garden, SEER calls upon you to beat him there and put a stop to his efforts!",
         "released": "2017-01-03",
         "tier": [3],
@@ -249,7 +249,7 @@
                 "consumable": false
             },
             {
-                "name": "Quasit's Essence",
+                "name": "Quasit’s Essence",
                 "rarity": "unique",
                 "consumable": false
             },
@@ -301,7 +301,7 @@
     },
     {
         "code": "DDAL05-09",
-        "name": "Durlag's Tomb",
+        "name": "Durlag’s Tomb",
         "description": "East of Beregost, nestled in the outskirts of the Wood of Sharp Teeth, Durlag’s Tower has intrigued and yet stymied adventurers for decades. Stuffed full of mechanical traps and arcane wards, and rumored to be inhabited by fiends, very few have managed to extract any REAL treasure from the former home of Durlag Trollkiller. However, a powerful item in the ancient fight against the giants is said to be housed there, and the cloud giant Baron Rajiram has committed significant resources toward recovering it. After a pleasant tea in her garden, SEER calls upon you to beat him there and put a stop to his efforts! Part of 2 of 2.",
         "released": "2017-01-03",
         "tier": [3],
@@ -556,8 +556,8 @@
                 "description": "If the characters scavenged toe nails from Bad Fruul, SEER brews a *potion of hill giant strength*. A few ingredients are needed and require the adventures to spend 10 downtime days (and associated living expense costs)."
             },
             {
-                "name": "Rue's Harvest",
-                "description": "If characters interacted with Sylas during the adventure he offers them the opportunity to purchase the last harvest of herb garden.\n\n Each character can gain supplies to create a maximum of five of any of the following items listed below in any combination—even if they don’t have the necessary tools and proficiencies. The crafting rules found in the Player's Handbook (downtime and lifestyle cost still apply).\n\n - Antitoxin\n\n - Perfume\n\n - Alchemist’s fire\n\n - Potion of healing\n\n - Ink\n\n - Poison (basic)\n\n - Dye (lavender)\n\n - Bath oil"
+                "name": "Rue’s Harvest",
+                "description": "If characters interacted with Sylas during the adventure he offers them the opportunity to purchase the last harvest of herb garden.\n\n Each character can gain supplies to create a maximum of five of any of the following items listed below in any combination—even if they don’t have the necessary tools and proficiencies. The crafting rules found in the Player’s Handbook (downtime and lifestyle cost still apply).\n\n - Antitoxin\n\n - Perfume\n\n - Alchemist’s fire\n\n - Potion of healing\n\n - Ink\n\n - Poison (basic)\n\n - Dye (lavender)\n\n - Bath oil"
             },
             {
                 "name": "Savior of Parnast",
@@ -567,8 +567,8 @@
     },
     {
         "code": "DDAL05-17",
-        "name": "Hartkiller's Horn",
-        "description": "Claiming to possess Hartkiller's Horn, Ryndölg makes his move to take control of the Hartsvale. The non-giant residents have been pressed to declare their allegiance or be destroyed. Do they swear fealty to Jarl Ryndölg, or is there another option? Is there another contender to the throne? Sometimes the best choices can be the most dangerous.",
+        "name": "Hartkiller’s Horn",
+        "description": "Claiming to possess Hartkiller’s Horn, Ryndölg makes his move to take control of the Hartsvale. The non-giant residents have been pressed to declare their allegiance or be destroyed. Do they swear fealty to Jarl Ryndölg, or is there another option? Is there another contender to the throne? Sometimes the best choices can be the most dangerous.",
         "released": "2017-04-04",
         "tier": [2],
         "items": [
@@ -592,7 +592,7 @@
         "storyAwards": [
             {
                 "name": "Gratitude of Hartkiller",
-                "description": "You have claimed the divine spark of the Beast of Talos for Hartkiller and outfitted him for his battle with Jarl Ryndölg. In doing so you have writ your name into his legend. You may choose to spend 50 downtime days spreading word of your and Hartkiller's inspired deeds in Hartsvale. Upon doing so, you gain the benefit of the **Gratitude of Hartkiller** story award. This downtime activity may only be performed once.",
+                "description": "You have claimed the divine spark of the Beast of Talos for Hartkiller and outfitted him for his battle with Jarl Ryndölg. In doing so you have writ your name into his legend. You may choose to spend 50 downtime days spreading word of your and Hartkiller’s inspired deeds in Hartsvale. Upon doing so, you gain the benefit of the **Gratitude of Hartkiller** story award. This downtime activity may only be performed once.",
                 "type": "downtime"
             },
             {

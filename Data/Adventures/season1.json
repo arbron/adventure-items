@@ -51,7 +51,7 @@
         "tier": [1],
         "items": [
             {
-                "name": "Enchanted Blue Dragon's Tooth",
+                "name": "Enchanted Blue Dragon’s Tooth",
                 "rarity": "common"
             },
             {
@@ -148,7 +148,7 @@
         "storyAwards": [
             {
                 "name": "Enmity of Doomguide Yovir Glandon",
-                "description": "Despite his requests, you were caught stealing from the resting dead or allowed others to do so. Because of this, all members of Kelemvor's clergy in Phlan are highly distrustful of you. So long as you have this enmity, all future Charisma (Deception, Intimidation, or Persuasion) checks made against members of Kelemvor's faithful in Phlan are made with disadvantage. Additionally, the cost for any spellcasting services provided by the clergy is increased by 10%."
+                "description": "Despite his requests, you were caught stealing from the resting dead or allowed others to do so. Because of this, all members of Kelemvor’s clergy in Phlan are highly distrustful of you. So long as you have this enmity, all future Charisma (Deception, Intimidation, or Persuasion) checks made against members of Kelemvor’s faithful in Phlan are made with disadvantage. Additionally, the cost for any spellcasting services provided by the clergy is increased by 10%."
             },
             {
                 "name": "Enmity of the Welcomers",
@@ -163,7 +163,7 @@
     {
         "code": "DDEX01-05",
         "name": "The Courting of Fire",
-        "description": "An exiled cultist and his kobold minions are spotted searching long-forgotten ruins in the Dragonspire Mountains. Rumors say he looks for a precious gift to give to a fearsome dragon that dwells there. What he hopes to attain with his gift is unknown, but can't be good for the citizens of Phlan.",
+        "description": "An exiled cultist and his kobold minions are spotted searching long-forgotten ruins in the Dragonspire Mountains. Rumors say he looks for a precious gift to give to a fearsome dragon that dwells there. What he hopes to attain with his gift is unknown, but can’t be good for the citizens of Phlan.",
         "released": "2014-10-01",
         "tier": [1],
         "items": [
@@ -232,7 +232,7 @@
         "tier": [1],
         "items": [
             {
-                "name": "Keoghtom's Ointment",
+                "name": "Keoghtom’s Ointment",
                 "rarity": "uncommon",
                 "consumable": true,
                 "count": 1
@@ -329,7 +329,7 @@
     },
     {
         "code": "DDEX01-11",
-        "name": "Dark Pyramid of Sorcerer's Isle",
+        "name": "Dark Pyramid of Sorcerer’s Isle",
         "description": "Long unoccupied, the pyramid on Sorcerer’s Isle now flows with strange magical energy, warping creatures and the landscape around it. The Cult of the Dragon and Red Wizards of Thay have taken notice, and it’s up to you to keep whatever power dwells there out of their hands.",
         "released": "2015-03-01",
         "tier": [2],
@@ -365,7 +365,7 @@
         ],
         "spellbooks": [
             {
-                "name": "Dragonborn Mage's Spellbook",
+                "name": "Dragonborn Mage’s Spellbook",
                 "spells": [
                     { "name": "detect magic", "level": 1 },
                     { "name": "mage armor", "level": 1 },
@@ -376,14 +376,14 @@
                     { "name": "haste", "level": 3 },
                     { "name": "fireball", "level": 3 },
                     { "name": "fly", "level": 3 },
-                    { "name": "Evard's black tentacles", "level": 4 },
+                    { "name": "Evard’s black tentacles", "level": 4 },
                     { "name": "polymorph", "level": 4 },
                     { "name": "cone of cold", "level": 5 },
-                    { "name": "Bigby's hand", "level": 5 }
+                    { "name": "Bigby’s hand", "level": 5 }
                 ]
             },
             {
-                "name": "Rorreth's Spellbook",
+                "name": "Rorreth’s Spellbook",
                 "spells": [
                     { "name": "false life", "level": 1 },
                     { "name": "mage armor", "level": 1 },
@@ -415,7 +415,7 @@
                 "rarity": "rare"
             },
             {
-                "name": "Alchemist's fire (flask)",
+                "name": "Alchemist’s fire (flask)",
                 "rarity": "common",
                 "consumable": true,
                 "count": 2
@@ -471,7 +471,7 @@
         ],
         "spellbooks": [
             {
-                "name": "Uliset Faelgren's Dragonhide Spellbook",
+                "name": "Uliset Faelgren’s Dragonhide Spellbook",
                 "spells": [
                     { "name": "comprehend languages", "level": 1 },
                     { "name": "detect magic", "level": 1 },
@@ -529,7 +529,7 @@
         ],
         "spellbooks": [
             {
-                "name": "Ixusaxa's Spellbook",
+                "name": "Ixusaxa’s Spellbook",
                 "spells": [
                     { "name": "detect magic", "level": 1 },
                     { "name": "mage armor", "level": 1 },
@@ -561,7 +561,7 @@
         ],
         "spellbooks": [
             {
-                "name": "Thayan Red Wizard Ambassador's Spellbook",
+                "name": "Thayan Red Wizard Ambassador’s Spellbook",
                 "spells": [
                     { "name": "fire bolt", "level": 0 },
                     { "name": "light", "level": 0 },
@@ -577,7 +577,7 @@
                     { "name": "fireball", "level": 3 },
                     { "name": "fly", "level": 3 },
                     { "name": "ice storm", "level": 4 },
-                    { "name": "Evard's black tentacles", "level": 4 },
+                    { "name": "Evard’s black tentacles", "level": 4 },
                     { "name": "cone of cold", "level": 5 }
                 ]
             }

@@ -318,7 +318,7 @@
     A magical mishap at an arcane faire releases a surge of Wild Lightning
     and dire spells into the region. These living spells act with purpose,
     but to what end? Will you learn what drives this dire arcana before
-    it's too late? Part One of Two.
+    it’s too late? Part One of Two.
   tier: 2
   length: 4
   credits:
@@ -556,7 +556,7 @@
         The howling winds of Icewind Dale keep many things secret and hidden
         from the prying eyes of the world. For instance, the Netherese temple
         dedicated to Jergal, the ancient god of death, has lain dormant and
-        alone for many hundreds of years. But you're an adventurer and when an
+        alone for many hundreds of years. But you’re an adventurer and when an
         opportunity arises to investigate (and loot!) the temples of old, you
         rise to the occasion. And this time was no exception—your deeds inspired
         the echoes of a lost god and you now find yourself in the (somewhat
@@ -645,7 +645,7 @@
 
 
 - code: DDAO-EP01g
-  name: Caves of Chaos - Baphomet's Blood
+  name: Caves of Chaos - Baphomet’s Blood
   description: >-
     Part Seven of Eight.
   tier: 1
@@ -656,7 +656,7 @@
 
 
 - code: DDAO-EP01h
-  name: Caves of Chaos - Yeenonghu's Brood
+  name: Caves of Chaos - Yeenonghu’s Brood
   description: >-
     Part Eight of Eight.
   tier: 1

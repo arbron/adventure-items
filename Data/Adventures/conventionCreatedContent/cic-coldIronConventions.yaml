@@ -24,7 +24,7 @@
       consumable: true
       count: 1
   spellbooks:
-    - name: Conjurer's Spellbook
+    - name: Conjurer’s Spellbook
       spells:
         - name: absorb elements
           level: 1
@@ -63,7 +63,7 @@
       rarity: common
       consumable: true
       count: 2
-    - name: Healer's kit
+    - name: Healer’s kit
       rarity: common
       consumable: true
       count: 4
@@ -94,7 +94,7 @@
           level: 1
         - name: grease
           level: 1
-        - name: Tenser's floating disk
+        - name: Tenser’s floating disk
           level: 1
         - name: unseen servant
           level: 1
@@ -138,7 +138,7 @@
 - code: CCC-CIC-03
   name: The Desolate Undercroft
   description: >-
-    The deepest depths of the ruins of the Tempest Mage's tower have not seen a
+    The deepest depths of the ruins of the Tempest Mage’s tower have not seen a
     living soul for centuries. In the silent dark, death waits for you. Will you
     rush to meet him? Part Three of the *Ruined Tower of the Tempest Mage*.
   released: '2017-03-22'
@@ -210,10 +210,10 @@
       description: >-
         You have made an ally of the von Finklestein Family. You may use this
         favor one of two ways. You may either cash in this favor to gain a spell
-        scroll with a *Player's Handbook* wizard spell of 3rd-level or lower, or
+        scroll with a *Player’s Handbook* wizard spell of 3rd-level or lower, or
         you gain access to a new downtime activity. At the end of any adventure,
         you may spend 10 downtime to visit the family and their secret arcane
-        library. While at the library you may scribe a *Player's Handbook*
+        library. While at the library you may scribe a *Player’s Handbook*
         wizard spell of 3rd-level or lower into your spell book or book of
         shadows for no additional gold cost beyond the cost to scribe a spell.
       type: downtime
@@ -267,12 +267,12 @@
       description: |-
         You have made an ally of the von Finklestein Family. You may use this
         favor one of two ways. You may either cash in this favor to gain a spell
-        scroll with a *Player's Handbook* wizard spell of 3rd-level or lower at
+        scroll with a *Player’s Handbook* wizard spell of 3rd-level or lower at
         no cost (you must still pay for expensive material components) while you
         are in Mulmaster or you may gain access to a new downtime activity. At
         the end of any adventure, you may spend 10 downtime to visit the family
         and their secret arcane library. While at the library you may scribe a
-        *Player's Handbook* wizard spell of 3rd-level or lower into your spell
+        *Player’s Handbook* wizard spell of 3rd-level or lower into your spell
         book or book of shadows. You are still responsible for the cost to
         scribe this spell. Once you have used this favor, you may not use it
         again.
@@ -296,7 +296,7 @@
   length: 4
   apl: 3
   items:
-    - name: Miner's Pick
+    - name: Miner’s Pick
       rarity: common
     - name: 'Shortsword, +1'
       rarity: uncommon
@@ -363,7 +363,7 @@
         - **Charity**: You work hard for all you have, why should you share with
         others? You are the personification of selfishness. Everything you have
         is yours, and you plan to keep it.
-        - **Diligence**: If you wanted to work hard you'd be a farmer not an
+        - **Diligence**: If you wanted to work hard you’d be a farmer not an
         adventurer. You always take short cuts and seek the quickest path to
         your goals perferring others to do the work for you.
   missing:
@@ -428,7 +428,7 @@
       description: |-
         You have learned how to introduce yourself in a formal and impressive
         way. During your future encounters with members of tribal cultures of
-        Big Folk Island or the village of Jarko'tu'ta you may gain advantage on
+        Big Folk Island or the village of Jarko’tu’ta you may gain advantage on
         social checks if you recite your Greeting during introductions.
 
         The greeting of the forefathers is simple and consists of 7 parts:
@@ -547,12 +547,12 @@
       description: |-
         You have made an ally of the Von Finklestein Family. You may use this
         favor in one of two ways. You may either cash in this favor once to gain
-        the casting of a spell of a *Player's Handbook* wizard spell of
+        the casting of a spell of a *Player’s Handbook* wizard spell of
         3rd-level or lower at no cost (you must still pay for expensive material
         components) while you are in Mulmaster or you may gain access to a new
         downtime activity. At the end of any adventure, you may spend 10
         downtime to visit the family and their secret arcane library. While at
-        the library you may scribe a *Player's Handbook* wizard spell of
+        the library you may scribe a *Player’s Handbook* wizard spell of
         3rd-level or lower into your spell book or book of shadows. You are
         still responsible for the cost to scribe this spell. Once you have used
         this favor, you may not use it again.
@@ -584,7 +584,7 @@
       rarity: common
       consumable: true
       count: 2
-    - name: Spell Scroll of Tasha's Hideous Laughter
+    - name: Spell Scroll of Tasha’s Hideous Laughter
       rarity: common
       consumable: true
       count: 1

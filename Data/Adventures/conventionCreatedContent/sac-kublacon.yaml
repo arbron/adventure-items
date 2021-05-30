@@ -5,7 +5,7 @@
     of the lich Acererak. Adventurers are no longer afraid to go out into the
     night in search of Fame and fortune. A wily antiquarian has gleaned the
     location of an item of particular value And unsurpassed rarity. The problem
-    is, she is certain she isn't the first…or the last to learn of it. A races
+    is, she is certain she isn’t the first…or the last to learn of it. A races
     for riches and renown, who will be the ones to get there first and claim
     their prize?
   released: '2018-11-14'
@@ -64,7 +64,7 @@
       rarity: uncommon
       consumable: true
       count: 1
-    - name: Spell Scroll of Melf's Minute Meteors
+    - name: Spell Scroll of Melf’s Minute Meteors
       rarity: uncommon
       consumable: true
       count: 1
@@ -87,7 +87,7 @@
     Dragonspire Mountains to the Citadel of the Raven. While there must have
     been some concern great enough to warrant sending adventurers of your
     caliber, the journey has been uneventful and borderline boring. When nearing
-    the end of your journey, you stumble upon the most sacred of Faerûn's
+    the end of your journey, you stumble upon the most sacred of Faerûn’s
     beasts…a dog! She seems lost and needs your assistance—a task fit for the
     good adventurers that you are.
   released: '2020-04-20'

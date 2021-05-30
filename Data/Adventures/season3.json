@@ -96,7 +96,7 @@
         "storyAwards": [
             {
                 "name": "What a Horse!",
-                "description": "You have earned the respect and thanks of a pegasus, a celestial denizen of the Upper Planes. For as long as you treat the creature with respect and stay true to the ideals that it embodies, it remains faithful to you and happily serves you as a mount.\n\n While he is willing to wear barding, U'dehl refuses to wear heavy armor for fear that people won't be able to properly behold his magnificence. He is also adamant in being provided nothing but the best food and care. For so long as you retain U'dehl's services, you must maintain a lifestyle of no less than Wealthy.\n\n If, at any time, you perform an evil act in its presence, you must immediately succeed at a DC 16 Charisma (Persuasion) check. If you fail, the pegasus leaves your service at its next available opportunity. The DM has discretion as to what constitutes an evil act and may assign advantage or disadvantage on the check based on the circumstances surrounding the act. The DC of this check increases by 1 each time you are forced to make it.",
+                "description": "You have earned the respect and thanks of a pegasus, a celestial denizen of the Upper Planes. For as long as you treat the creature with respect and stay true to the ideals that it embodies, it remains faithful to you and happily serves you as a mount.\n\n While he is willing to wear barding, U’dehl refuses to wear heavy armor for fear that people won’t be able to properly behold his magnificence. He is also adamant in being provided nothing but the best food and care. For so long as you retain U’dehl’s services, you must maintain a lifestyle of no less than Wealthy.\n\n If, at any time, you perform an evil act in its presence, you must immediately succeed at a DC 16 Charisma (Persuasion) check. If you fail, the pegasus leaves your service at its next available opportunity. The DM has discretion as to what constitutes an evil act and may assign advantage or disadvantage on the check based on the circumstances surrounding the act. The DC of this check increases by 1 each time you are forced to make it.",
                 "type": "pet"
             }
         ]
@@ -115,7 +115,7 @@
                 "count": 2
             },
             {
-                "name": "Alchemist's fire (flask)",
+                "name": "Alchemist’s fire (flask)",
                 "rarity": "common",
                 "consumable": true,
                 "count": 1
@@ -204,7 +204,7 @@
     },
     {
         "code": "DDEX03-04",
-        "name": "It's All in the Blood",
+        "name": "It’s All in the Blood",
         "description": "Rumors of faceless demonic creatures have been steadily rising in the Hillsfar region, and it is said that far below the surface of Faerûn, nestled in the bowels of the underdark, ancient terrors are stirring. The imperiled drow of Szith Morcaine have extended an intriguing offer, but can the drow be trusted, and for how long?",
         "released": "2015-07-30",
         "tier": [3],
@@ -300,14 +300,14 @@
         ],
         "spellbooks": [
             {
-                "name": "Gabber Forth's Spellbook",
+                "name": "Gabber Forth’s Spellbook",
                 "spells": [
                     { "name": "detect magic", "level": 1 },
                     { "name": "mage armor", "level": 1 },
                     { "name": "magic missile", "level": 1 },
                     { "name": "shield", "level": 1 },
                     { "name": "mirror image", "level": 2 },
-                    { "name": "Maximilian's earthen grasp", "level": 2 },
+                    { "name": "Maximilian’s earthen grasp", "level": 2 },
                     { "name": "see invisibility", "level": 2 },
                     { "name": "counterspell", "level": 3 },
                     { "name": "slow", "level": 3 },
@@ -329,7 +329,7 @@
         "storyAwards": [
             {
                 "name": "A Deal with a Devil",
-                "description": "You have rescued the imp Pipyap in the giant-controlled city of Maerimydra. Somehow the pudgy fiend finds a way of knowing things that are happening in places he shouldn't be near. Maybe it's his unusual affection for the Material Plane? In exchange for your bravery, he made an offer that you just might be able to refuse."
+                "description": "You have rescued the imp Pipyap in the giant-controlled city of Maerimydra. Somehow the pudgy fiend finds a way of knowing things that are happening in places he shouldn’t be near. Maybe it’s his unusual affection for the Material Plane? In exchange for your bravery, he made an offer that you just might be able to refuse."
             }
         ]
     },
@@ -363,7 +363,7 @@
                 "description": "You have aided the farmers of the Hillsfar region by revealing and putting an end to a slave trade network operated by some corrupt Red Plume soldiers. Anytime you enter a tavern in the Moonsea region, excluding Hillsfar proper, roll a d20. On a roll of 15 or higher you are recognized by someone as a champion of the Hillfarian farmers. You are treated to a drink, Dragon’s Breath Brandy if available, and your heroics are loudly proclaimed."
             },
             {
-                "name": "Oh, What a Slaver You'll Make",
+                "name": "Oh, What a Slaver You’ll Make",
                 "description": "Word has spread about your involvement in the sale of captive Hillfarians to a group of duergar slavers. For so long as you possess this story reward, any Charisma (Persuasion) checks you make involving the commonfolk of the Hillsfar area are made with disadvantage. Conversely, any Charisma (Intimidation) checks you make with the same are made with advantage."
             }
         ]
@@ -426,7 +426,7 @@
         ],
         "spellbooks": [
             {
-                "name": "Ilztoj's Spellbook",
+                "name": "Ilztoj’s Spellbook",
                 "spells": [
                     { "name": "mage armor", "level": 1 },
                     { "name": "magic missile", "level": 1 },
@@ -437,7 +437,7 @@
                     { "name": "web", "level": 2 },
                     { "name": "fly", "level": 3 },
                     { "name": "lightning bolt", "level": 3 },
-                    { "name": "Evard's black tentacles", "level": 4 },
+                    { "name": "Evard’s black tentacles", "level": 4 },
                     { "name": "greater invisibility", "level": 4 },
                     { "name": "cloudkill", "level": 1 }
                 ]
@@ -512,7 +512,7 @@
                 "rarity": "uncommon"
             },
             {
-                "name": "Alchemist's fire (flask)",
+                "name": "Alchemist’s fire (flask)",
                 "rarity": "common",
                 "consumable": true,
                 "count": 2
@@ -556,7 +556,7 @@
             },
             {
                 "name": "Mmm… Tastes Like Sanity",
-                "description": "You are given one small, untreated *braincap mushroom*. When consumed or administered to someone else as an action, the mushroom acts as a *greater restoration*, but only as it pertains to reducing the recipient's madness level to 0. The *braincap mushrooms* are potent, however, and if you consume more than one per adventure, you immediately gain 1d4 levels of madness (no saving throw). Cross this story reward off of your adventure log when used."
+                "description": "You are given one small, untreated *braincap mushroom*. When consumed or administered to someone else as an action, the mushroom acts as a *greater restoration*, but only as it pertains to reducing the recipient’s madness level to 0. The *braincap mushrooms* are potent, however, and if you consume more than one per adventure, you immediately gain 1d4 levels of madness (no saving throw). Cross this story reward off of your adventure log when used."
             }
         ]
     },
@@ -621,7 +621,7 @@
                 "rarity": "uncommon"
             },
             {
-                "name": "Assassin's Blood (vial)",
+                "name": "Assassin’s Blood (vial)",
                 "rarity": "common",
                 "consumable": true,
                 "count": 1
@@ -678,7 +678,7 @@
                     { "name": "levitate", "level": 2 },
                     { "name": "darkness", "level": 2 },
                     { "name": "gaseous form", "level": 3 },
-                    { "name": "Evard's black tentacles", "level": 4 },
+                    { "name": "Evard’s black tentacles", "level": 4 },
                     { "name": "arcane eye", "level": 4 },
                     { "name": "passwall", "level": 5 }
                 ]

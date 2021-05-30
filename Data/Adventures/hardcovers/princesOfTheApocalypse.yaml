@@ -58,7 +58,7 @@
       rarity: uncommon
     - name: Lost Crown of Besilmer
       rarity: legendary
-    - name: Mariner's Scale Mail
+    - name: Mariner’s Scale Mail
       rarity: uncommon
     - name: Necklace of Prayer Beads
       rarity: rare
@@ -238,11 +238,11 @@
       rarity: uncommon
       consumable: true
       count: 1
-    - name: Spell Scroll of Maximilian's Earthen Grasp
+    - name: Spell Scroll of Maximilian’s Earthen Grasp
       rarity: uncommon
       consumable: true
       count: 1
-    - name: Spell Scroll of Melf's Minute Meteors
+    - name: Spell Scroll of Melf’s Minute Meteors
       rarity: uncommon
       consumable: true
       count: 1
@@ -254,7 +254,7 @@
       rarity: uncommon
       consumable: true
       count: 2
-    - name: Spell Scroll of Snilloc's Snowball Swarm
+    - name: Spell Scroll of Snilloc’s Snowball Swarm
       rarity: uncommon
       consumable: true
       count: 1
@@ -283,7 +283,7 @@
       consumable: true
       count: 1
   spellbooks:
-    - name: Aerisi's Spellbook
+    - name: Aerisi’s Spellbook
       spells:
         - name: gust
           level: 0

@@ -109,7 +109,7 @@
                 "count": 1
             },
             {
-                "name": "Alchemist's fire (flask)",
+                "name": "Alchemist’s fire (flask)",
                 "rarity": "common",
                 "consumable": true,
                 "count": 2
@@ -167,7 +167,7 @@
         "storyAwards": [
             {
                 "name": "Cunning Insight",
-                "description": "The Vistani are quite good at reading people. If you spend 10 downtime days learning from the Vistani, you may invoke it at any point in the future, granting advantage to all attack rolls made during your turn. Remove this story award from your logsheet once it's been used.",
+                "description": "The Vistani are quite good at reading people. If you spend 10 downtime days learning from the Vistani, you may invoke it at any point in the future, granting advantage to all attack rolls made during your turn. Remove this story award from your logsheet once it’s been used.",
                 "type": "downtime"
             },
             {
@@ -176,7 +176,7 @@
             },
             {
                 "name": "Trackless Travel",
-                "description": "Some Vistani know secrets to conceal their passage through the wilderness. If you spend 10 downtime days learning these secrets, you can apply them during future travel. For one day you choose in the future, each creature you choose within 30 feet of you (including you) can't be tracked except by magical means and leaves behind no tracks nor other traces of its passage. Remove this story award from your logsheet once it's been used.",
+                "description": "Some Vistani know secrets to conceal their passage through the wilderness. If you spend 10 downtime days learning these secrets, you can apply them during future travel. For one day you choose in the future, each creature you choose within 30 feet of you (including you) can’t be tracked except by magical means and leaves behind no tracks nor other traces of its passage. Remove this story award from your logsheet once it’s been used.",
                 "type": "downtime"
             }
         ]
@@ -276,7 +276,7 @@
                     { "name": "fear", "level": 3 },
                     { "name": "hypnotic pattern", "level": 3 },
                     { "name": "greater invisibility", "level": 4 },
-                    { "name": "Bigby's hand", "level": 5 },
+                    { "name": "Bigby’s hand", "level": 5 },
                     { "name": "mislead", "level": 5 }
                 ]
             }
@@ -291,7 +291,7 @@
     {
         "code": "DDAL04-08",
         "name": "The Broken One",
-        "description": "The village of Orașnou is buried in winter's snows and facing starvation. An unseen beast has ravaged the livestock culled to pay Lord Strahd's tax and the village is thrown into panic and chaos. Can you find the monster and save the village from starvation, or worse? Part eight of *Misty Fortunes and Absent Hearts*.",
+        "description": "The village of Orașnou is buried in winter’s snows and facing starvation. An unseen beast has ravaged the livestock culled to pay Lord Strahd’s tax and the village is thrown into panic and chaos. Can you find the monster and save the village from starvation, or worse? Part eight of *Misty Fortunes and Absent Hearts*.",
         "released": "2016-05-03",
         "tier": [2],
         "items": [
@@ -372,7 +372,7 @@
             {
                 "name": "Handmade Spellbook",
                 "spells": [],
-                "note": "Spellbook will be constructed with up to ten spells from the same school from the wizard's spell list as requested by the player."
+                "note": "Spellbook will be constructed with up to ten spells from the same school from the wizard’s spell list as requested by the player."
             }
         ],
         "storyAwards": [
@@ -448,7 +448,7 @@
         "storyAwards": [
             {
                 "name": "Bird’s Eye View",
-                "description": "Time spent upon the heights of Rookscrag give you a new perspective on the surrounding countryside. If you spend 10 downtime days meditating upon the summit, you may later spend an action to gain the one-time effects of a *commune with nature* spell. Remove this story award from your logsheet once it's been used.",
+                "description": "Time spent upon the heights of Rookscrag give you a new perspective on the surrounding countryside. If you spend 10 downtime days meditating upon the summit, you may later spend an action to gain the one-time effects of a *commune with nature* spell. Remove this story award from your logsheet once it’s been used.",
                 "type": "downtime"
             },
             {
@@ -457,7 +457,7 @@
             },
             {
                 "name": "Friends in High Places",
-                "description": "The ravens of Rookscrag share many secrets with those able to tease out their meaning. If you spend 10 downtime days listening to the cackling of ravens, you may later spend an action to gain the one-time effects of a *legend lore* spell. Remove this story award from your logsheet once it's been used.",
+                "description": "The ravens of Rookscrag share many secrets with those able to tease out their meaning. If you spend 10 downtime days listening to the cackling of ravens, you may later spend an action to gain the one-time effects of a *legend lore* spell. Remove this story award from your logsheet once it’s been used.",
                 "type": "downtime"
             }
         ]
@@ -545,17 +545,17 @@
         ],
         "spellbooks": [
             {
-                "name": "Witch's Spellbook",
+                "name": "Witch’s Spellbook",
                 "spells": [
                     { "name": "ray of sickness", "level": 1 },
                     { "name": "sleep", "level": 1 },
-                    { "name": "Tasha's hideous laughter", "level": 1 },
+                    { "name": "Tasha’s hideous laughter", "level": 1 },
                     { "name": "alter self", "level": 2 },
                     { "name": "invisibility", "level": 2 }
                 ]
             },
             {
-                "name": "Esmae's Spellbook",
+                "name": "Esmae’s Spellbook",
                 "spells": [
                     { "name": "charm person", "level": 1 },
                     { "name": "magic missile", "level": 1 },
@@ -569,7 +569,7 @@
                     { "name": "hypnotic pattern", "level": 3 },
                     { "name": "lightning bolt", "level": 3 },
                     { "name": "blight", "level": 4 },
-                    { "name": "Evard's black tentacles", "level": 4 },
+                    { "name": "Evard’s black tentacles", "level": 4 },
                     { "name": "polymorph", "level": 4 },
                     { "name": "cloudkill", "level": 5 },
                     { "name": "disintegrate", "level": 6 },
@@ -669,12 +669,12 @@
         "storyAwards": [
             {
                 "name": "Friend of the Griffons",
-                "description": "You've earned the respect of a griffon of the Earthspur Mountains. These proud beasts nest high in the crags, tended by Emerald Enclave rangers. Your griffon mount travels with you as a trusted friend and ally.\n\n The griffon answers to any name you choose. To keep it fed, you must provide it with living horseflesh. Increase your lifestyle expenses by 5gp per downtime day. This covers the expense of buying a draft horse every tenday to feed to your griffon. If you can't afford to feed the griffon, it returns to the Eathspur Mountains and never returns.",
+                "description": "You’ve earned the respect of a griffon of the Earthspur Mountains. These proud beasts nest high in the crags, tended by Emerald Enclave rangers. Your griffon mount travels with you as a trusted friend and ally.\n\n The griffon answers to any name you choose. To keep it fed, you must provide it with living horseflesh. Increase your lifestyle expenses by 5gp per downtime day. This covers the expense of buying a draft horse every tenday to feed to your griffon. If you can’t afford to feed the griffon, it returns to the Eathspur Mountains and never returns.",
                 "type": "pet"
             },
             {
                 "name": "Hero of the Welcomers",
-                "description": "Working alongside the Welcomers—Phlan's thieves-turned-freedom fighters—you rid the town of its evil dragon overlord. The Welcomers are forever in your debt. Inside Phlan, you enjoy a Comfortable lifestyle without any expense."
+                "description": "Working alongside the Welcomers—Phlan’s thieves-turned-freedom fighters—you rid the town of its evil dragon overlord. The Welcomers are forever in your debt. Inside Phlan, you enjoy a Comfortable lifestyle without any expense."
             },
             {
                 "name": "Touched by the Mists",

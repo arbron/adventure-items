@@ -76,7 +76,7 @@
       role: Adventure Designer
       key: true
   items:
-    - name: Dryad's Cloak (Cloak of Protection)
+    - name: Dryad’s Cloak (Cloak of Protection)
       rarity: uncommon
     - name: Sprite Sleep Poison
       rarity: unique
@@ -119,7 +119,7 @@
       consumable: true
       count: 1
   spellbooks:
-    - name: Gorig's Silk Wraps
+    - name: Gorig’s Silk Wraps
       spells:
         - name: acid splash
           level: 0
@@ -338,11 +338,11 @@
     - name: Quaryl’s Codex (Tome of the Stilled Tongue)
       rarity: legendary
   spellbooks:
-    - name: Quaryl's Spellbook
+    - name: Quaryl’s Spellbook
       spells: []
       note: >-
-        Contains a single spell you don't currently know. Spellbook will be
-        returned to Quaryl's lair ten days after being removed, but the spell
+        Contains a single spell you don’t currently know. Spellbook will be
+        returned to Quaryl’s lair ten days after being removed, but the spell
         can be copied down like normal.
   storyAwards:
     - name: Larloch’s Unblinking Gaze
@@ -440,7 +440,7 @@
 
 
 - code: DDAL00-04
-  name: Winter's Flame
+  name: Winter’s Flame
   description: >-
     This year’s Midwinter holiday efforts have been met with unusual obstacles:
     small stockpiles rummaged through, foods spoiling, ale casks leaking,
@@ -468,7 +468,7 @@
 
 
 - code: DDAL00-05
-  name: Winter's Splendor
+  name: Winter’s Splendor
   description: >-
     You’re invited to the Midwinter Gala in the City of Splendors! Among the
     jovial festivities, a sinister mystery waits to be unwrapped.
@@ -520,7 +520,7 @@
     - name: Respect of the City Watch
       description: >-
         You have acted respectful and appropriate. You have Advantage on your
-        next check to avoid penalty when caught committing a crime that doesn't
+        next check to avoid penalty when caught committing a crime that doesn’t
         involve murder, theft, or assault. Discard this Story Award when you
         have taken that check.
     - name: Scorn of the City Watch
@@ -628,11 +628,11 @@
       rarity: unique
     - name: Folding Boat
       rarity: rare
-    - name: Galder's Bubble Pipe
+    - name: Galder’s Bubble Pipe
       rarity: rare
-    - name: Gambler's Blade
+    - name: Gambler’s Blade
       rarity: rare
-    - name: Heward's Hireling Armor
+    - name: Heward’s Hireling Armor
       rarity: veryRare
     - name: Ioun Stone of Historial Knowledge
       rarity: rare
@@ -656,7 +656,7 @@
       illegal: true
     - name: Wings of Flying
       rarity: rare
-    - name: Charm of Galder's Tower
+    - name: Charm of Galder’s Tower
       rarity: unique
       consumable: true
       count: 1
@@ -684,7 +684,7 @@
       rarity: uncommon
       consumable: true
       count: 1
-    - name: Spell Scroll of Galder's Speedy Courier
+    - name: Spell Scroll of Galder’s Speedy Courier
       rarity: rare
       consumable: true
       count: 1
@@ -906,7 +906,6 @@
 
 - code: DDAL00-11a
   name: Reunited and It Feels So Good
-  description: ''
   released: '2019-10-24'
   url: 'https://www.dmsguild.com/product/288447/DDAL0011-Pipyaps-Guide-to-All-of-the-Nine-Hells'
   tier: 1
@@ -933,7 +932,6 @@
 
 - code: DDAL00-11b
   name: When the Debt Comes Due
-  description: ''
   released: '2019-10-24'
   url: 'https://www.dmsguild.com/product/288447/DDAL0011-Pipyaps-Guide-to-All-of-the-Nine-Hells'
   tier: 1
@@ -966,8 +964,7 @@
 
 
 - code: DDAL00-11c
-  name: I've Seen Fire and I've Seen Pain
-  description: ''
+  name: I’ve Seen Fire and I’ve Seen Pain
   released: '2019-10-24'
   url: 'https://www.dmsguild.com/product/288447/DDAL0011-Pipyaps-Guide-to-All-of-the-Nine-Hells'
   tier: 2
@@ -1004,7 +1001,6 @@
 
 - code: DDAL00-11d
   name: The Love Triangle Contract
-  description: ''
   released: '2019-10-24'
   url: 'https://www.dmsguild.com/product/288447/DDAL0011-Pipyaps-Guide-to-All-of-the-Nine-Hells'
   tier: 2
@@ -1040,7 +1036,7 @@
           level: 1
         - name: witch bolt
           level: 1
-        - name: Aganazzar's scorcher
+        - name: Aganazzar’s scorcher
           level: 2
         - name: mind spike
           level: 2
@@ -1069,7 +1065,6 @@
 
 - code: DDAL00-11e
   name: A Fire Grows in Cania
-  description: ''
   released: '2019-10-24'
   url: 'https://www.dmsguild.com/product/288447/DDAL0011-Pipyaps-Guide-to-All-of-the-Nine-Hells'
   tier: 3
@@ -1117,7 +1112,6 @@
 
 - code: DDAL00-11f
   name: Twice as Nice for Half the Price
-  description: ''
   released: '2019-10-24'
   url: 'https://www.dmsguild.com/product/288447/DDAL0011-Pipyaps-Guide-to-All-of-the-Nine-Hells'
   tier: 4
@@ -1159,7 +1153,6 @@
 
 - code: DDAL00-12a
   name: Bad Seed
-  description: ''
   released: '2020-02-20'
   url: 'https://www.dmsguild.com/product/304029/DDAL0012-Infernal-Encounters'
   tier: 1
@@ -1182,7 +1175,6 @@
 
 - code: DDAL00-12b
   name: A Helpful Distraction
-  description: ''
   released: '2020-02-20'
   url: 'https://www.dmsguild.com/product/304029/DDAL0012-Infernal-Encounters'
   tier: 2
@@ -1211,7 +1203,6 @@
 
 - code: DDAL00-12c
   name: The Soft Touch
-  description: ''
   released: '2020-02-20'
   url: 'https://www.dmsguild.com/product/304029/DDAL0012-Infernal-Encounters'
   tier: 3
@@ -1237,8 +1228,7 @@
 
 
 - code: DDAL00-12d
-  name: The Devil's Song
-  description: ''
+  name: The Devil’s Song
   released: '2020-02-20'
   url: 'https://www.dmsguild.com/product/304029/DDAL0012-Infernal-Encounters'
   tier: 4
@@ -1293,7 +1283,7 @@
 
 
 - code: DDAL-CGB
-  name: Cloud Giant's Bargain
+  name: Cloud Giant’s Bargain
   description: >-
     The renowned adventuring company Acquisitions Inc. hires you to infiltrate a
     castle—but not just any castle. This is a flying fortress built by the cloud
@@ -1361,7 +1351,7 @@
       rarity: rare
       consumable: true
       count: 1
-    - name: Spell Scroll of Otiluke's Resilient Sphere
+    - name: Spell Scroll of Otiluke’s Resilient Sphere
       rarity: rare
       consumable: true
       count: 1
@@ -1407,9 +1397,9 @@
       rarity: uncommon
     - name: Ring of Telekenesis
       rarity: veryRare
-    - name: Szass Tam's Arcane Essence (Boon of High Magic)
+    - name: Szass Tam’s Arcane Essence (Boon of High Magic)
       rarity: unique
-    - name: Szass Tam's Planar Essence (Boon of Planar Travel)
+    - name: Szass Tam’s Planar Essence (Boon of Planar Travel)
       rarity: unique
     - name: Winged Boots
       rarity: uncommon
@@ -1482,7 +1472,7 @@
           level: 4
         - name: stoneskin
           level: 4
-        - name: Bigby's hand
+        - name: Bigby’s hand
           level: 5
         - name: cloudkill
           level: 5

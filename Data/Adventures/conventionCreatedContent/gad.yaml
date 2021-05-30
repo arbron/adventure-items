@@ -11,9 +11,9 @@
   length: 2-4
   apl: 8
   items:
-    - name: Sea Hag's Cloak (Cloak of the Manta Ray)
+    - name: Sea Hag’s Cloak (Cloak of the Manta Ray)
       rarity: uncommon
-    - name: Selfaril's Soul Gem (Ruby of the War Mage)
+    - name: Selfaril’s Soul Gem (Ruby of the War Mage)
       rarity: common
     - name: Oil of Etherealness
       rarity: rare
@@ -146,7 +146,7 @@
   description: >-
     A mind flayer has called for a massive conference of monsters in the
     Underdark beneath Hillsfar. Trolls, umber hulks, demons, and more have
-    answered the illithid's call. To infiltrate this gruesome menagerie, you
+    answered the illithid’s call. To infiltrate this gruesome menagerie, you
     must embrace the monster within yourself.
   released: '2020-07-01'
   url: 'https://www.dmsguild.com/product/315751/CCCGAD0201-The-Monster-Within'
@@ -167,12 +167,12 @@
 
 
 - code: CCC-GAD-02-02
-  name: Voyage of the Kraken's Wake
+  name: Voyage of the Kraken’s Wake
   description: >-
     There are many legends of the Vengeful Tempest and its supernatural crew.
     Few have seen that pirate ship and lived to tell the tale, and fewer still
     dare to seek it out. To hunt down that fabled vessel, you must lead a group
-    of makeshift mariners and set sail upon the Kraken's Wake.
+    of makeshift mariners and set sail upon the Kraken’s Wake.
   released: '2020-07-01'
   url: 'https://www.dmsguild.com/product/315755/CCCGAD0202-Voyage-of-the-Krakens-Wake'
   tier: 2

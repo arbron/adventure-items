@@ -1,6 +1,5 @@
 - code: DDAL-OPEN-2016
   name: Soulbound Tomb
-  description: ''
   released: '2016-06-18'
   tier: [1, 2]
   length: 8
@@ -93,7 +92,7 @@
       rarity: rare
       properties:
         - Temperate
-    - name: Alchemist's fire (flask)
+    - name: Alchemist’s fire (flask)
       rarity: common
       consumable: true
       count: 4
@@ -149,7 +148,6 @@
 
 - code: DDAL-OPEN-2017
   name: The Lost Temples of Lake Luo
-  description: ''
   released: '2017-06-17'
   tier: [1, 2]
   length: 8
@@ -212,7 +210,7 @@
       rarity: uncommon
     - name: Necklace of Fireballs
       rarity: rare
-    - name: Nolzur's Marvelous Pigments
+    - name: Nolzur’s Marvelous Pigments
       rarity: veryRare
     - name: Pearl of Power
       rarity: uncommon
@@ -302,7 +300,7 @@
       consumable: true
       count: 4
   storyAwards:
-    - name: Acererak's First Victim
+    - name: Acererak’s First Victim
       description: >-
         You were the first character at the D&D Open to die after the lich
         Acererak triggered the Soulmonger. This first exposure to the Soulmonger
@@ -321,7 +319,7 @@
         cryptic rhyme, or an omen.
     - name: Alive in Death
       description: >-
-        One of your companions slew a creature and dedicated it to Nanny Pu'Pu.
+        One of your companions slew a creature and dedicated it to Nanny Pu’Pu.
         In return, her enchanted green gem brought you back to life. Well…sort
         of. Your skin and features resemble those of a dead person. You gain the
         undead creature type, while still retaining your previous creature type.
@@ -339,11 +337,11 @@
         Your team struck the killing blow against the Giant Tyrannosaurus Rex of
         Doom! Tales of your prowess reach the merchant princes in Port Nyanzaru
         in Chult, who seek to curry your favor through favorable trade offers,
-        including with other merchants. The next time you visit Fai Chen's
+        including with other merchants. The next time you visit Fai Chen’s
         market, you may purchase an item for half of the stated gold piece cost.
     - name: Blood for the Trickster Gods
       description: >-
-        Your party was defeated at least five times by the dangers of Lake Luo's
+        Your party was defeated at least five times by the dangers of Lake Luo’s
         lost temples. Strangely, this pleased the Trickster Gods of Chult. They
         watch over you. The next time you are brought to 0 hit points, you are
         left with 1 hit point instead and you cannot be reduced below 0 hit
@@ -369,14 +367,14 @@
       description: >-
         Your adventures in Chult, for good or woe, are spoken of by the
         residents of Port Nyanzaru. The bards of Chult sing of our exploits, and
-        those songs may someday reach Baldur's Gate and beyond. Your fame in
+        those songs may someday reach Baldur’s Gate and beyond. Your fame in
         Port Nyanzaru makes you a local celebrity. You have advantage on
         Charisma (Perception) checks with residents and visitors to that port
         city.
     - name: Favor of Ubtao
       description: >-
         You have acted with honor, granting the relics of Ubtao to that lost
-        god's worshippers. When you performed this act of kindness, you received
+        god’s worshippers. When you performed this act of kindness, you received
         a tattoo in the form of a labyrinth. When you touch the tattoo (no
         action), you (and only you) gain the benefit of a bless spell for 1
         minute. The power of the tattoo dissipates until you take a long rest.
@@ -442,14 +440,14 @@
         longer blinded and cannot be blinded for the next 2 minutes.
     - name: Maze Runner
       description: >-
-        You skillfully navigated Ubtao's maze, completing all of the encounter
+        You skillfully navigated Ubtao’s maze, completing all of the encounter
         bonus conditions. Ubtao grants you a boon. When spending Hit Dice, you
         may expend this certificate to receive the maximum value of any dice
         rolled during a short rest. Mark through this certificate when used.
-    - name: Nanny Pu'Pu's Charm
+    - name: Nanny Pu’Pu’s Charm
       description: >-
-        This character activated Nanny Pu'Pu's rag doll charm during the
-        adventure. Nanny Pu'Pu has claimed a bit of your soul. The first Wisdom
+        This character activated Nanny Pu’Pu’s rag doll charm during the
+        adventure. Nanny Pu’Pu has claimed a bit of your soul. The first Wisdom
         saving throw you make after each long rest is made with disadvantage, as
         your sleep is wracked with the most horrible nightmares. Your screams
         and whimpering during sleep make it hard for others around you to rest.
@@ -470,24 +468,23 @@
         Factions. You may expend this certificate to fulfil the secret mission
         requirements for Faction Advancement, so long as you meet the other
         requirements. You may instead expand this certificate to grant this
-        benefit to another character, either your own or another player's
+        benefit to another character, either your own or another player’s
         character.
-    - name: Ubtao's Chosen
+    - name: Ubtao’s Chosen
       description: >-
         Your team was one of the first three to complete the cube puzzle,
-        granting access to Ubtao's sunken temple! Ubtao watches you, and at two
+        granting access to Ubtao’s sunken temple! Ubtao watches you, and at two
         times of your choosing, grants you Inspiration. Mark through this
         certificate once expended.
     - name: A Worthy of Ubtao
       description: >-
-        You were one of the fastest parties to complete Ubtao's challenge. For
+        You were one of the fastest parties to complete Ubtao’s challenge. For
         your wisdom and cunning, you start with inspiration in the next five
         adventures or story chapters you play.
 
 
 - code: DDAL-OPEN-2018
   name: Gangs of Waterdeep
-  description: ''
   released: '2018-06-16'
   tier: 1
   length: 8
@@ -643,7 +640,6 @@
 
 - code: DDAL-OPEN-2019
   name: Forged in Fire
-  description: ''
   released: '2019-06-01'
   tier: 2
   length: 8

@@ -255,13 +255,13 @@
         "storyAwards": [
             {
                 "name": "Roughed Up by the Xanathar’s Guild",
-                "description": "For bungling their escape, the characters have been rescued by The Zhentarim and Bregan D'aerthe. They’re given little time to recover at The Tawdry Nymph and begin their next adventure with a level of exhaustion and half their hit dice (rounded down)."
+                "description": "For bungling their escape, the characters have been rescued by The Zhentarim and Bregan D’aerthe. They’re given little time to recover at The Tawdry Nymph and begin their next adventure with a level of exhaustion and half their hit dice (rounded down)."
             }
         ]
     },
     {
         "code": "DDAL08-12",
-        "name": "Xanathar's Wrath",
+        "name": "Xanathar’s Wrath",
         "description": "This couldn’t get worse. The key you are searching for has fallen into the hands of the eye tyrant of Skullport himself. Now you just need to rob Xanathar without getting disintegrated. Part Three of the *Skullport Shakedown* trilogy.",
         "released": "2019-02-05",
         "tier": [2],

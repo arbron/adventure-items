@@ -256,7 +256,7 @@
         "tier": [2],
         "items": [
             {
-                "name": "Heward's Handy Haversack",
+                "name": "Heward’s Handy Haversack",
                 "rarity": "rare"
             },
             {
@@ -623,7 +623,7 @@
         ],
         "storyAwards": [
             {
-                "name": "Torm's Chosen",
+                "name": "Torm’s Chosen",
                 "description": "For nobly giving yourself so that High Priest of Torm Horst Atheraice could be freed, Torm blessed a piece of your soul. The expedition is in peril as the opposition has gained key intelligence from you before killing you.\n\n After suffering torture at the hands of General Everbleed’s devils, you died and are reborn in any location of your choice in Faerûn that has a temple to Torm, and the next time you die, you gain this benefit as well (as if a greater resurrection)."
             }
         ]
@@ -839,7 +839,7 @@
         "tier": [1, 2],
         "items": [
             {
-                "name": "Hellrider's Badge",
+                "name": "Hellrider’s Badge",
                 "rarity": "rare"
             },
             {
@@ -855,7 +855,7 @@
                 "count": 2
             },
             {
-                "name": "Healer's kit",
+                "name": "Healer’s kit",
                 "rarity": "common",
                 "consumable": true,
                 "count": 2
@@ -918,13 +918,13 @@
         "storyAwards": [
             {
                 "name": "Marked by Bel",
-                "description": "You agreed to make a deal with Bel or one of his minions. Your soul is now forfeit; if you die, you can only be restored to life via a *wish* or *true resurrection* spell, after which you can remove this award. Similarly, you regain hit dice at half the normal rate. However, Bel has granted you some special powers in exchange for this self-sacrifice:\n\n **Bel's Blessings**\n\n | Cost | Benefit |\n|-----------|-----------|\n| 1 Hit Die  | Reroll a failed saving throw or an attack roll that missed its target. |\n| 2 Hit Dice | You grow leathery wings and a flight speed of 20 ft. for 1 minute. |\n| 3 Hit Dice | You may spend a bonus action to turn devils that are faithful to Zariel as if they were undead and you were using the Channel Divinity: Turn Undead cleric class feature. This has no effect on other creatures, or on devils that are devoted to an archdevil other than Zariel. You do not need to be a cleric to use this ability, nor do you need to wield a holy symbol—when you perform this profane rite, Bel’s sigil materializes above your head and glows with purple light. |\n| 5 Hit Dice | Bel delivers one common or uncommon permanent magic item to you. This item does not count against your magic item limit, and you may use this item for one hour at which time it crumbles to dust as it is reclaimed by the archdevil. |\n| 8 Hit Dice | Bel delivers one rare magic permanent magic item to you, or one uncommon consumable magic item. This item does not count against your magic item limit, and you may use this item for one hour at which time it crumbles to dust as it is reclaimed by the archdevil. |"
+                "description": "You agreed to make a deal with Bel or one of his minions. Your soul is now forfeit; if you die, you can only be restored to life via a *wish* or *true resurrection* spell, after which you can remove this award. Similarly, you regain hit dice at half the normal rate. However, Bel has granted you some special powers in exchange for this self-sacrifice:\n\n **Bel’s Blessings**\n\n | Cost | Benefit |\n|-----------|-----------|\n| 1 Hit Die  | Reroll a failed saving throw or an attack roll that missed its target. |\n| 2 Hit Dice | You grow leathery wings and a flight speed of 20 ft. for 1 minute. |\n| 3 Hit Dice | You may spend a bonus action to turn devils that are faithful to Zariel as if they were undead and you were using the Channel Divinity: Turn Undead cleric class feature. This has no effect on other creatures, or on devils that are devoted to an archdevil other than Zariel. You do not need to be a cleric to use this ability, nor do you need to wield a holy symbol—when you perform this profane rite, Bel’s sigil materializes above your head and glows with purple light. |\n| 5 Hit Dice | Bel delivers one common or uncommon permanent magic item to you. This item does not count against your magic item limit, and you may use this item for one hour at which time it crumbles to dust as it is reclaimed by the archdevil. |\n| 8 Hit Dice | Bel delivers one rare magic permanent magic item to you, or one uncommon consumable magic item. This item does not count against your magic item limit, and you may use this item for one hour at which time it crumbles to dust as it is reclaimed by the archdevil. |"
             }
         ]
     },
     {
         "code": "DDEP09-03",
-        "name": "Liar's Night",
+        "name": "Liar’s Night",
         "description": "On this holy day (tribute to Leira and Mask), folk of all walks of life don masks and costumes to disguise themselves and play at being other than what they are. Festivities begin in the evening, when candles are placed in hollowed-out pumpkins carved with faces. Tricks and pranks of all kinds are common on this night, and pickpockets are rife on this day, so few carry much coin with them, having secreted it away somewhere the previous evening. Instead, people fill their pockets and belt pouches with candies. Come celebrate with us on the darkened streets of Baldur’s Gate.",
         "released": "2019-11-01",
         "tier": [1, 2],

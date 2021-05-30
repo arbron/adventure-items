@@ -92,7 +92,7 @@
       rarity: uncommon
       consumable: true
       count: 1
-    - name: Spell Scroll of Mordenkainen's Faithful Hound
+    - name: Spell Scroll of Mordenkainen’s Faithful Hound
       rarity: rare
       consumable: true
       count: 1
@@ -110,10 +110,10 @@
 
 
 - code: CCC-SVH-03-01
-  name: Finder's Fiend
+  name: Finder’s Fiend
   description: >-
     Souls bound to a deadly fiend have escaped the Nine Hells and taken over
-    denizens of Thentia. The devil wants the souls back and if they're not
+    denizens of Thentia. The devil wants the souls back and if they’re not
     delivered quickly, she intends to come for them herself, endangering more
     innocents. To save the lives of the unsuspecting hosts, adventurers must
     track them down and send the stray souls back to Hell.  A *Sisterhood of

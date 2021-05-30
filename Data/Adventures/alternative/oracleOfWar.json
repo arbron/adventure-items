@@ -29,7 +29,7 @@
         ],
         "items": [
             {
-                "name": "Alchemist's fire (flask)",
+                "name": "Alchemist’s fire (flask)",
                 "rarity": "common",
                 "consumable": true,
                 "count": 1
@@ -60,11 +60,11 @@
             },
             {
                 "name": "Powerful Enemy",
-                "description": "You have made an enemy of the powerful and wealthy salvage broker Irullan Karnach. You find that life has gotten harder and items more expensive. At the end of this adventure, roll a d20 and consult the chart below. You may add your Charisma modified to the result:\n\n| Roll | Result |\n| ------ | ------ |\n| Less than 5 | Remove 10 gp from your gold total, as Irullan tells her network of vendors to charge more for your necessities. |\n| 6–13 | Remove 5 gp from your gold total, as Irullan tells her network of vendors to charge more for your necessities. |\n| 14–18 | No change to your gold total. |\n| 19+ | You find vendors in town who don't like Irullan, and they sympathize with you and give you discounts. Add 10 gp to your gold total. |"
+                "description": "You have made an enemy of the powerful and wealthy salvage broker Irullan Karnach. You find that life has gotten harder and items more expensive. At the end of this adventure, roll a d20 and consult the chart below. You may add your Charisma modified to the result:\n\n| Roll | Result |\n| ------ | ------ |\n| Less than 5 | Remove 10 gp from your gold total, as Irullan tells her network of vendors to charge more for your necessities. |\n| 6–13 | Remove 5 gp from your gold total, as Irullan tells her network of vendors to charge more for your necessities. |\n| 14–18 | No change to your gold total. |\n| 19+ | You find vendors in town who don’t like Irullan, and they sympathize with you and give you discounts. Add 10 gp to your gold total. |"
             },
             {
                 "name": "Stay of Execution",
-                "description": "You freed the changeling thief Whist, allowing her to escape justice for her crimes.\n\n- You can call on Whist once in a future adventure to disguise you with her disguise kit. If so, she scores a 22 on her disguise kit check. You must have at least 8 hours free to call on Whist's aid."
+                "description": "You freed the changeling thief Whist, allowing her to escape justice for her crimes.\n\n- You can call on Whist once in a future adventure to disguise you with her disguise kit. If so, she scores a 22 on her disguise kit check. You must have at least 8 hours free to call on Whist’s aid."
             }
         ]
     },
@@ -173,7 +173,7 @@
                 "count": 2
             },
             {
-                "name": "Alchemist's fire (flask)",
+                "name": "Alchemist’s fire (flask)",
                 "rarity": "common",
                 "consumable": true,
                 "count": 1
@@ -333,7 +333,7 @@
             },
             {
                 "name": "Still Alive",
-                "description": "Despite all the horrors you've seen, your friend Kalli (or the replacement you made for this character during **DDAL-EB-01** *The Night Land*) remains alive and on your side. What does she do next?\n\n- Kalli heads to Morgrave University in Sharn to investigate the *Oracle of War*.\n- Kalli remains in Salvation and tries to set herself up as a salvage broker."
+                "description": "Despite all the horrors you’ve seen, your friend Kalli (or the replacement you made for this character during **DDAL-EB-01** *The Night Land*) remains alive and on your side. What does she do next?\n\n- Kalli heads to Morgrave University in Sharn to investigate the *Oracle of War*.\n- Kalli remains in Salvation and tries to set herself up as a salvage broker."
             }
         ]
     },
@@ -427,12 +427,12 @@
                 "description": "You learned from the surviving members of Graystrife that Irullan Karnach stole a crystal skull from them that has the power to bring the dead back to life."
             },
             {
-                "name": "Flamewind's Favored",
+                "name": "Flamewind’s Favored",
                 "description": "You impressed the sphinx Flamewind with your performance during the duel."
             },
             {
-                "name": "Maker's Mark",
-                "description": "Zell Mar identified the missing dwarf Sulring Mroranon as the creator of the *Oracle of War*.\n\n- At the end of this adventure, your group can choose to spend 150 gp to trace Sulring's family and learn of his whereabouts on teh Day of Mourning. This information becomes important in **DDAL-EB-08** *Parliament of Gears*."
+                "name": "Maker’s Mark",
+                "description": "Zell Mar identified the missing dwarf Sulring Mroranon as the creator of the *Oracle of War*.\n\n- At the end of this adventure, your group can choose to spend 150 gp to trace Sulring’s family and learn of his whereabouts on teh Day of Mourning. This information becomes important in **DDAL-EB-08** *Parliament of Gears*."
             },
             {
                 "name": "Love Cats",
@@ -440,7 +440,7 @@
             },
             {
                 "name": "Stakeout",
-                "description": "The Inquisitive you hired to locate Irullan Karnach after **DDAL-EBEP-01** *The Iron Titan* has tailed her to an apartment in Sharn and is monitoring her movements. He'll keep you appraised of any developments."
+                "description": "The Inquisitive you hired to locate Irullan Karnach after **DDAL-EBEP-01** *The Iron Titan* has tailed her to an apartment in Sharn and is monitoring her movements. He’ll keep you appraised of any developments."
             }
         ]
     },
@@ -543,7 +543,7 @@
             },
             {
                 "name": "Runaway Lovers",
-                "description": "You helped Orsino and Cesaria escape to build new lives for themselves. They are forever grateful for your assistance.\n\n- Once only, during any adventure in the *Oracle of War* campaign, you can call on Orsino for assistance. You must have at least 8 hours free to contact him. Orsino's spy network can answer three questions for you, as per the *commune* spell. When you use this legacy event, all players in your group must remove it from their Adventure Records."
+                "description": "You helped Orsino and Cesaria escape to build new lives for themselves. They are forever grateful for your assistance.\n\n- Once only, during any adventure in the *Oracle of War* campaign, you can call on Orsino for assistance. You must have at least 8 hours free to contact him. Orsino’s spy network can answer three questions for you, as per the *commune* spell. When you use this legacy event, all players in your group must remove it from their Adventure Records."
             },
             {
                 "name": "Silver Torch Extinguished",
@@ -637,7 +637,7 @@
                 "rarity": "uncommon"
             },
             {
-                "name": "Alchemist's Fire",
+                "name": "Alchemist’s Fire",
                 "rarity": "common",
                 "consumable": true,
                 "count": 5
@@ -654,12 +654,12 @@
                 "description": "You captured Emerald Claw agent Irullan Karnach alive. At the end of this adventure, you must decide what to do with her:\n\n- Hand her over to the Brelish authorities and claim a reward of 100 gp.\n- Keep her as a captive. While she remains alive, you must pay 10 gp at the end of each adventure to cover the expenses of her incarceration. If you have access to your own prison cell, you can keep her imprisoned for free.\n- Execute her."
             },
             {
-                "name": "Flamewing's Favored",
+                "name": "Flamewing’s Favored",
                 "description": "You impressed the sphinx Flamewind with your performance during the steeplechase."
             },
             {
                 "name": "Mark of the Sphinx",
-                "description": "You took Sky Blue to the sphinx Flamewind, who gave her a protective amulet to wear. Flamewind has asked you to look after the girl, and promised she'll be in touch."
+                "description": "You took Sky Blue to the sphinx Flamewind, who gave her a protective amulet to wear. Flamewind has asked you to look after the girl, and promised she’ll be in touch."
             },
             {
                 "name": "The Show Must Go On",
@@ -667,7 +667,7 @@
             },
             {
                 "name": "Wing and a Prayer",
-                "description": "You left the city with Sky Blue to go in search of her father, who supposedly died during the Last War. Flamewind is unhappy that you defied her and sends spies to locate you.\n\n- At the end of each adventure in this campaign (including this one), your party must succeed on a group DC 10 Wisdom (Insight) check to stay ahead of the sphinx's agents. If your group fails, tick this box and stop making checks. You are now being watched!"
+                "description": "You left the city with Sky Blue to go in search of her father, who supposedly died during the Last War. Flamewind is unhappy that you defied her and sends spies to locate you.\n\n- At the end of each adventure in this campaign (including this one), your party must succeed on a group DC 10 Wisdom (Insight) check to stay ahead of the sphinx’s agents. If your group fails, tick this box and stop making checks. You are now being watched!"
             }
         ]
     },
@@ -776,7 +776,7 @@
         "storyAwards": [
             {
                 "name": "Beard Braid",
-                "description": "Tellarak Natharon, nephew of the *Oracle of War*'s creator Sulring Mroranon, gave you a beard braid to identify yourself to his uncle."
+                "description": "Tellarak Natharon, nephew of the *Oracle of War*’s creator Sulring Mroranon, gave you a beard braid to identify yourself to his uncle."
             },
             {
                 "name": "Bested Captain Reeve",
@@ -784,7 +784,7 @@
             },
             {
                 "name": "Eternal Gratitude",
-                "description": "You rescued one or more captives from the Blades' *Conclave*. They won't forget your bravery and go out of their way to repay you. If you rescued any of the captives listed below, you gain their benefit:\n\n- Breyten Bokk d'Orien grants you a single spell component of up to 500 gp value.\n- Bunty Griswold leaves your group a legacy in her will. At the start of each Core Storyline adventure in the *Oracle of War* campaign, roll a d20. On a 1, Bunty dies and each character with this legacy event gains 250 gp. All players in your group must remove this legacy event from their Adventure Records.\n- Dabren Ty can silver one of your weapons or up to 20 pieces of ammunition.\n- Jurian Saal gifts you a *potion of healing*.\n- Kronce offers to help you out on a mission. You may call on the **veteran** to accompany you on any adventure in the *Oracle of War* campaign. When you use this legacy event, all players in your group must remove it from their Adventure Records.\n- Larten gives you a map of Cyre which grants you advantage to all Wisdom (Survival) checks made to navigate the Mournland."
+                "description": "You rescued one or more captives from the Blades' *Conclave*. They won’t forget your bravery and go out of their way to repay you. If you rescued any of the captives listed below, you gain their benefit:\n\n- Breyten Bokk d'Orien grants you a single spell component of up to 500 gp value.\n- Bunty Griswold leaves your group a legacy in her will. At the start of each Core Storyline adventure in the *Oracle of War* campaign, roll a d20. On a 1, Bunty dies and each character with this legacy event gains 250 gp. All players in your group must remove this legacy event from their Adventure Records.\n- Dabren Ty can silver one of your weapons or up to 20 pieces of ammunition.\n- Jurian Saal gifts you a *potion of healing*.\n- Kronce offers to help you out on a mission. You may call on the **veteran** to accompany you on any adventure in the *Oracle of War* campaign. When you use this legacy event, all players in your group must remove it from their Adventure Records.\n- Larten gives you a map of Cyre which grants you advantage to all Wisdom (Survival) checks made to navigate the Mournland."
             }
         ]
     },
@@ -853,15 +853,15 @@
         "storyAwards": [
             {
                 "name": "Captured!",
-                "description": "You've been captured by the Lord of Blades and taken into the Mournland! You being the next adventure confined in one of the Lord of Blades' enclaves."
+                "description": "You’ve been captured by the Lord of Blades and taken into the Mournland! You being the next adventure confined in one of the Lord of Blades' enclaves."
             },
             {
                 "name": "Not This Time, Death",
-                "description": "You saved General Tyresh from an apparent assassination attempt, perpetrated by someone loyal to Breland. While he's unlikely to publicly acknowledge your bravery, he repays you for it in private. General Tyresh provides you with 100 gp from his personal coffers in honor of saving his life."
+                "description": "You saved General Tyresh from an apparent assassination attempt, perpetrated by someone loyal to Breland. While he’s unlikely to publicly acknowledge your bravery, he repays you for it in private. General Tyresh provides you with 100 gp from his personal coffers in honor of saving his life."
             },
             {
                 "name": "Sky Fall",
-                "description": "Sky Blue's been captured by the Lord of Blades! Will you seek her out and free her?"
+                "description": "Sky Blue’s been captured by the Lord of Blades! Will you seek her out and free her?"
             },
             {
                 "name": "Your Face Is Known",
@@ -941,7 +941,7 @@
         ],
         "spellbooks": [
             {
-                "name": "Flechette's Brassbound Spellbook",
+                "name": "Flechette’s Brassbound Spellbook",
                 "spells": [
                     { "name": "fire bolt", "level": 0 },
                     { "name": "light", "level": 0 },
@@ -969,7 +969,7 @@
             },
             {
                 "name": "Argonth Survivor",
-                "description": "You were there when Argonth fell to the Lord of Blades. Your time on the floating fortress means you're familiar with its layout, attack capabilities, and defenses."
+                "description": "You were there when Argonth fell to the Lord of Blades. Your time on the floating fortress means you’re familiar with its layout, attack capabilities, and defenses."
             },
             {
                 "name": "Your Face Is Known",
@@ -1081,7 +1081,7 @@
     {
         "code": "DDAL-EB-12",
         "name": "The Waiting Game",
-        "description": "Narcy of Xandrar offers safe haven in the towers of Arcanix, but even she can't foresee the coming storm. Across the centuries, dead hands move their puppets in a grand conspiracy to control the Draconic Prophecy. They predicted the Oracle of War's creation, and now their agents lie in wait for the day they can seize it for themselves. That day is today. This is the second in a trilogy of adventures, the *Drums of War* storyline.",
+        "description": "Narcy of Xandrar offers safe haven in the towers of Arcanix, but even she can’t foresee the coming storm. Across the centuries, dead hands move their puppets in a grand conspiracy to control the Draconic Prophecy. They predicted the Oracle of War’s creation, and now their agents lie in wait for the day they can seize it for themselves. That day is today. This is the second in a trilogy of adventures, the *Drums of War* storyline.",
         "released": "2021-01-05",
         "url": "https://www.dmsguild.com/product/342451/EB12-The-Waiting-Game",
         "tier": [3],
@@ -1153,7 +1153,7 @@
         "storyAwards": [
             {
                 "name": "Heroic Failure",
-                "description": "You failed to stop Immeral's plan before at least one of the floating towers were crashed into Arcanix:\n\n- For each tower that fell (to the maximum of 3), you **MUST** refuse the next hero point earned during a future adventure. When you've refused hero points equal to the number of fortresses that crashed, remove this legacy event from your character."
+                "description": "You failed to stop Immeral’s plan before at least one of the floating towers were crashed into Arcanix:\n\n- For each tower that fell (to the maximum of 3), you **MUST** refuse the next hero point earned during a future adventure. When you’ve refused hero points equal to the number of fortresses that crashed, remove this legacy event from your character."
             }
         ]
     },
@@ -1258,18 +1258,18 @@
             },
             {
                 "name": "Traitor Sphinx",
-                "description": "Flamewind survived her failed ambush and fled into Sharn. You haven't seen the last of her, for sure."
+                "description": "Flamewind survived her failed ambush and fled into Sharn. You haven’t seen the last of her, for sure."
             },
             {
                 "name": "Trust No One",
-                "description": "You helped Lukas Varko escaped the Cathedral of the Flame. Perhaps you'll see him again in the future…"
+                "description": "You helped Lukas Varko escaped the Cathedral of the Flame. Perhaps you’ll see him again in the future…"
             }
         ]
     },
     {
         "code": "DDAL-EB-14",
         "name": "From Dust",
-        "description": "Deep beneath Metrol, the Order of the Emerald Claw is excavating the ruins of a haunted daelkyr sanctuary. Sulring Mroranon knows a sage who can provide vital information about the dig site, but there's a catch—they've not been seen for over a century. This is the first in a trilogy of adventures, the *Engines of War* storyline.",
+        "description": "Deep beneath Metrol, the Order of the Emerald Claw is excavating the ruins of a haunted daelkyr sanctuary. Sulring Mroranon knows a sage who can provide vital information about the dig site, but there’s a catch—they’ve not been seen for over a century. This is the first in a trilogy of adventures, the *Engines of War* storyline.",
         "released": "2021-03-09",
         "url": "https://www.dmsguild.com/product/349669/EB14-From-Dust",
         "tier": [3],
@@ -1336,7 +1336,7 @@
         ],
         "items": [
             {
-                "name": "Gisaul's Spellbook (Libram of Souls and Flesh)",
+                "name": "Gisaul’s Spellbook (Libram of Souls and Flesh)",
                 "rarity": "rare"
             },
             {
@@ -1358,7 +1358,7 @@
         ],
         "spellbooks": [
             {
-                "name": "Gisaul's Spellbook",
+                "name": "Gisaul’s Spellbook",
                 "spells": [
                     { "name": "mage armor", "level": 1 },
                     { "name": "ray of sickness", "level": 1 },
@@ -1370,7 +1370,7 @@
                     { "name": "blight", "level": 4 },
                     { "name": "dimension door", "level": 4 },
                     { "name": "stoneskin", "level": 4 },
-                    { "name": "Bigby's hand", "level": 5 },
+                    { "name": "Bigby’s hand", "level": 5 },
                     { "name": "cloudkill", "level": 5 }
                 ]
             }
@@ -1479,7 +1479,7 @@
     {
         "code": "DDAL-EB-16",
         "name": "The Dragon Below",
-        "description": "In the depths of Valaara's sanctuary, the Order of the Emerald Claw harnesses ancient engines of destruction to wage war on the surface world. Only the Oracle of War can stop them now—if the adventurers can get it to work! This is the third in a trilogy of adventures, the *Engines of War* storyline.",
+        "description": "In the depths of Valaara’s sanctuary, the Order of the Emerald Claw harnesses ancient engines of destruction to wage war on the surface world. Only the Oracle of War can stop them now—if the adventurers can get it to work! This is the third in a trilogy of adventures, the *Engines of War* storyline.",
         "released": "2021-05-03",
         "url": "https://www.dmsguild.com/product/356496/EB16-The-Dragon-Below",
         "tier": [3],
@@ -1542,7 +1542,7 @@
         ],
         "items": [
             {
-                "name": "Dryyn's Tentacle Whip",
+                "name": "Dryyn’s Tentacle Whip",
                 "rarity": "veryRare"
             },
             {
@@ -1563,7 +1563,7 @@
         "storyAwards": [
             {
                 "name": "Madness Unleashed",
-                "description": "You freed Valaara, “the Crawing Queen” from the Deepest Hive, her demiplane lair in the depths of Khyber. Spinweave told you Valaara would only briefly be freed, and Spinweave wouldn't lie to you. Besides, what's unleashing one of the daelkyr between friends, really?"
+                "description": "You freed Valaara, “the Crawing Queen” from the Deepest Hive, her demiplane lair in the depths of Khyber. Spinweave told you Valaara would only briefly be freed, and Spinweave wouldn’t lie to you. Besides, what’s unleashing one of the daelkyr between friends, really?"
             },
             {
                 "name": "Making Trouble",
@@ -1802,7 +1802,7 @@
         "storyAwards": [
             {
                 "name": "Death is a Door",
-                "description": "You died while trying to rob the royal lightning rail train *Excelsior*. Mysterious forces brought you back to life, but you don't know who or what they are."
+                "description": "You died while trying to rob the royal lightning rail train *Excelsior*. Mysterious forces brought you back to life, but you don’t know who or what they are."
             },
             {
                 "name": "Mournland Dossier",
@@ -1810,7 +1810,7 @@
             },
             {
                 "name": "Oracle Dossier",
-                "description": "You stole a file of top secret intelligence on the *Oracle of War*. The information held within is encoded and can't be decrypted until you play **DDAL-EB-11** *My Undying Heart*. While you have this legacy event marked, Sky Blue and Earl cannot appear in **DDAL-EB-08**, **DDAL-EB-09**, or **DDAL-EB-10**."
+                "description": "You stole a file of top secret intelligence on the *Oracle of War*. The information held within is encoded and can’t be decrypted until you play **DDAL-EB-11** *My Undying Heart*. While you have this legacy event marked, Sky Blue and Earl cannot appear in **DDAL-EB-08**, **DDAL-EB-09**, or **DDAL-EB-10**."
             },
             {
                 "name": "Regicide",

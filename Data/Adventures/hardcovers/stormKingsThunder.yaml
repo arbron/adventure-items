@@ -68,9 +68,9 @@
       rarity: rare
     - name: 'Greataxe, +1'
       rarity: uncommon
-    - name: Gurt's Greataxe
+    - name: Gurt’s Greataxe
       rarity: legendary
-    - name: Heward's Handy Haversack
+    - name: Heward’s Handy Haversack
       rarity: rare
     - name: Ingot of the Skold Rune
       rarity: veryRare
@@ -84,7 +84,7 @@
       storyItem: true
     - name: 'Longbow, +1'
       rarity: uncommon
-    - name: Master's Amulet
+    - name: Master’s Amulet
       rarity: rare
       illegal: true
     - name: Navigation Orb
@@ -126,11 +126,11 @@
       rarity: rare
     - name: 'Wand of the War Mage, +1'
       rarity: uncommon
-    - name: Alchemist's fire (flask)
+    - name: Alchemist’s fire (flask)
       rarity: common
       consumable: true
       count: 60
-    - name: Healer's kit
+    - name: Healer’s kit
       rarity: common
       consumable: true
       count: 1
@@ -282,13 +282,13 @@
           level: 4
         - name: ice storm
           level: 4
-        - name: Leomund's secret chest
+        - name: Leomund’s secret chest
           level: 4
-        - name: Mordenkainen's faithful hound
+        - name: Mordenkainen’s faithful hound
           level: 4
         - name: stoneskin
           level: 4
-        - name: Bigby's hand
+        - name: Bigby’s hand
           level: 5
         - name: cloudkill
           level: 5
@@ -302,13 +302,13 @@
           level: 6
         - name: true seeing
           level: 6
-        - name: Mordenkainen's sword
+        - name: Mordenkainen’s sword
           level: 7
         - name: reverse gravity
           level: 7
         - name: simulacrum
           level: 7
-    - name: Tholtz's Spellbook
+    - name: Tholtz’s Spellbook
       spells:
         - name: detect magic
           level: 1
@@ -432,7 +432,7 @@
           level: 4
         - name: greater invisibility
           level: 4
-        - name: Otiluke's resilient sphere
+        - name: Otiluke’s resilient sphere
           level: 4
         - name: cone of cold
           level: 5

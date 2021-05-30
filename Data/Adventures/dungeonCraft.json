@@ -113,7 +113,7 @@
                 "rarity": "uncommon"
             },
             {
-                "name": "Illuminator's Tattoo",
+                "name": "Illuminator’s Tattoo",
                 "rarity": "common"
             },
             {
@@ -126,7 +126,7 @@
     },
     {
         "code": "DC-PoA-GSP01-01",
-        "name": "A Wolf's Whisper",
+        "name": "A Wolf’s Whisper",
         "description": "Talking beasts have been wandering around Easthaven, whispering about a crimson star. The villagers, taking advantage of this situation, are killing these animals for food. One injured wolf managed to evade the hunters, but they are not willing to let their game escape. Part One of *The Crimson Star* series.",
         "adventureSeed": "Awake and Afraid",
         "released": "2020-12-06",
@@ -153,7 +153,7 @@
     {
         "code": "DC-PoA-GSP03-01",
         "name": "The Missing Link",
-        "description": "Someone's mysterious disappearance started a chain of kidnappings, the most recent of which is tied to someone dear to an old man. He is desperate to find out where they were taken. Can the adventurers unravel the mystery behind these missing individuals? Part One of The *Frozen Eye* series.",
+        "description": "Someone’s mysterious disappearance started a chain of kidnappings, the most recent of which is tied to someone dear to an old man. He is desperate to find out where they were taken. Can the adventurers unravel the mystery behind these missing individuals? Part One of The *Frozen Eye* series.",
         "adventureSeed": "Once Bitten, Twice Shy",
         "released": "2020-12-01",
         "creator": "Greasy Snitches",

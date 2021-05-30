@@ -35,7 +35,7 @@
                 "count": 4
             },
             {
-                "name": "Spell Scroll of Aganazzar's Scorcher",
+                "name": "Spell Scroll of Aganazzar’s Scorcher",
                 "rarity": "uncommon",
                 "consumable": true,
                 "count": 1
@@ -53,7 +53,7 @@
                 "count": 1
             },
             {
-                "name": "Spell Scroll of Maximilian's Earthen Grasp",
+                "name": "Spell Scroll of Maximilian’s Earthen Grasp",
                 "rarity": "uncommon",
                 "consumable": true,
                 "count": 1
@@ -71,7 +71,7 @@
                 "count": 1
             },
             {
-                "name": "Spell Scroll of Snilloc's Snowball Swarm",
+                "name": "Spell Scroll of Snilloc’s Snowball Swarm",
                 "rarity": "uncommon",
                 "consumable": true,
                 "count": 1
@@ -85,7 +85,7 @@
         ],
         "spellbooks": [
             {
-                "name": "Whitevane's Traveling Spellbook",
+                "name": "Whitevane’s Traveling Spellbook",
                 "spells": [
                     { "name": "blade ward", "level": 0 },
                     { "name": "gust", "level": 0 },
@@ -173,7 +173,7 @@
         "storyAwards": [
             {
                 "name": "To Wear the Cloak",
-                "description": "If your character is an arcane spellcaster, Zora Culkin has offered to sponsor your admittance into the Brotherhood of the Cloak. Though joining the Cloaks is mandatory for any arcanists seeking to stay in Mulmaster for an extended period of time, and sponsorship is not required, Zora Culkin's sponsorship will definitely have its perks."
+                "description": "If your character is an arcane spellcaster, Zora Culkin has offered to sponsor your admittance into the Brotherhood of the Cloak. Though joining the Cloaks is mandatory for any arcanists seeking to stay in Mulmaster for an extended period of time, and sponsorship is not required, Zora Culkin’s sponsorship will definitely have its perks."
             }
         ]
     },
@@ -204,7 +204,7 @@
         "storyAwards": [
             {
                 "name": "To Wear the Cloak",
-                "description": "If your character is an arcane spellcaster, Salvar Brix has offered to sponsor your admittance into the Brotherhood of the Cloak. Though joining the Cloaks is mandatory for any arcanists seeking to stay in Mulmaster for an extended period of time, and sponsorship is not required, Salvar's sponsorship might be a future boon."
+                "description": "If your character is an arcane spellcaster, Salvar Brix has offered to sponsor your admittance into the Brotherhood of the Cloak. Though joining the Cloaks is mandatory for any arcanists seeking to stay in Mulmaster for an extended period of time, and sponsorship is not required, Salvar’s sponsorship might be a future boon."
             }
         ]
     },
@@ -315,7 +315,7 @@
         ],
         "spellbooks": [
             {
-                "name": "Bandit Mage's Spellbook",
+                "name": "Bandit Mage’s Spellbook",
                 "spells": [
                     { "name": "charm person", "level": 1 },
                     { "name": "earth tremor", "level": 1 },
@@ -324,7 +324,7 @@
                     { "name": "earthbind", "level": 2 },
                     { "name": "hold person", "level": 2 },
                     { "name": "invisibility", "level": 2 },
-                    { "name": "Snilloc's snowball swarm", "level": 2 }
+                    { "name": "Snilloc’s snowball swarm", "level": 2 }
                 ]
             }
         ]
@@ -399,7 +399,7 @@
         ],
         "spellbooks": [
             {
-                "name": "Drakewell's Spellbook",
+                "name": "Drakewell’s Spellbook",
                 "spells": [
                     { "name": "mage hand", "level": 0 },
                     { "name": "light", "level": 0 },
@@ -552,11 +552,11 @@
                     { "name": "magic missile", "level": 1 },
                     { "name": "shield", "level": 1 },
                     { "name": "invisibility", "level": 2 },
-                    { "name": "Maximilian's earthen grasp", "level": 2 },
+                    { "name": "Maximilian’s earthen grasp", "level": 2 },
                     { "name": "misty step", "level": 2 },
                     { "name": "fireball", "level": 3 },
                     { "name": "haste", "level": 3 },
-                    { "name": "Melf's minute meteors", "level": 3 },
+                    { "name": "Melf’s minute meteors", "level": 3 },
                     { "name": "greater invisibility", "level": 4 },
                     { "name": "phantasmal killer", "level": 4 },
                     { "name": "dominate person", "level": 5 }
@@ -597,7 +597,7 @@
     },
     {
         "code": "DDEX02-16",
-        "name": "Boltsmelter's Book",
+        "name": "Boltsmelter’s Book",
         "description": "A dwarven expedition has stopped in Mulmaster for much-needed supplies. Furgis Boltsmelter, their founder and leader, is looking for some “no questions asked” protection for the duration of his stay in the city. Whatever he is trying to protect may not stay hidden for long. Can you keep his secret treasure out of the wrong hands?",
         "released": "2015-08-01",
         "tier": [1],
@@ -616,11 +616,11 @@
                     { "name": "earth tremor", "level": 1 },
                     { "name": "illusory script", "level": 1 },
                     { "name": "magic mouth", "level": 2 },
-                    { "name": "Maximilian's earthen grasp", "level": 2 },
+                    { "name": "Maximilian’s earthen grasp", "level": 2 },
                     { "name": "silence", "level": 2 },
                     { "name": "erupting earth", "level": 3 },
                     { "name": "meld into stone", "level": 3 },
-                    { "name": "Melf's minute meteors", "level": 3 },
+                    { "name": "Melf’s minute meteors", "level": 3 },
                     { "name": "transmute rock", "level": 4 }
                 ]
             }

@@ -2,7 +2,7 @@
   name: The Joy of Extradimensional Spaces
   description: >-
     A book leads characters on a quest to find a missing sage. This adventure,
-    inspired by the Mordenkainen's magnificent mansion spell, presents a
+    inspired by the Mordenkainen’s magnificent mansion spell, presents a
     memorable introductory mystery for new arrivals to Candlekeep.
   released: '2021-03-16'
   tier: 1
@@ -16,10 +16,10 @@
 
 
 - code: DDHC-CM-02
-  name: Mazfroth's Mighty Digressions
+  name: Mazfroth’s Mighty Digressions
   description: >-
-    A monstrous revelation sheds light on a book merchant's scam. This adventure
-    takes the characters from Candlekeep to Baldur's Gate and includes a new
+    A monstrous revelation sheds light on a book merchant’s scam. This adventure
+    takes the characters from Candlekeep to Baldur’s Gate and includes a new
     monster: the gingwatzim.
   released: '2021-03-16'
   tier: 1
@@ -71,10 +71,10 @@
 
 
 - code: DDHC-CM-05
-  name: Shemshime's Bedtime Rhyme
+  name: Shemshime’s Bedtime Rhyme
   description: >-
     A catchy and contagious rhyme traces back to a sinister clockwork book.
-    Trapped in one of Candlekeep's cellars, the characters must figure out the
+    Trapped in one of Candlekeep’s cellars, the characters must figure out the
     best way to stop the spread of this odd contagion.
   released: '2021-03-16'
   tier: 1
@@ -91,7 +91,7 @@
   name: The Price of Beauty
   description: >-
     A book about beauty shows the way to a secluded temple where beauty is only
-    skin deep. Characters who don't want to get embroiled in the temple's
+    skin deep. Characters who don’t want to get embroiled in the temple’s
     mysteries should, at the very least, enjoy the bath and pedicure.
   released: '2021-03-16'
   tier: 2
@@ -176,10 +176,10 @@
 
 
 - code: DDHC-CM-11
-  name: Zikran's Zephyrean Tome
+  name: Zikran’s Zephyrean Tome
   description: >-
     A djinni trapped in a book offers a wish spell to adventurers to find a way
-    to release him. The key to the djinni's freedom lies with his former master,
+    to release him. The key to the djinni’s freedom lies with his former master,
     a mad wizard on the cusp of mastering elemental magic.
   released: '2021-03-16'
   tier: 2
@@ -251,7 +251,7 @@
 
 
 - code: DDHC-CM-15
-  name: The Scrivener's Tale
+  name: The Scrivener’s Tale
   description: >-
     A tome leaves its magical mark as adventurers struggle to contain the evil
     archfey trapped inside it. In this adventure, heroes are taken to the ruins
@@ -270,7 +270,7 @@
 
 
 - code: DDHC-CM-16
-  name: Alkaaar's Appendix
+  name: Alkaaar’s Appendix
   description: >-
     A book chronicles an unsolved mystery about a wandering stone golem in the
     desert of Anauroch. The golem is part of a larger mystery that unfolds as
@@ -295,8 +295,8 @@
   name: Xanthoria
   description: >-
     A fell grimoire helps adventurers end a fungal plague. But Xanthoria is more
-    than just the name of the book; it's the last word spoken by those who
-    succumb to the plague, and adventurers who pursue the book's leads will soon
+    than just the name of the book; it’s the last word spoken by those who
+    succumb to the plague, and adventurers who pursue the book’s leads will soon
     find out why.
   released: '2021-03-16'
   tier: 4

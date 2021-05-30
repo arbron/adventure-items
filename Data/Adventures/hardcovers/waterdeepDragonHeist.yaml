@@ -40,7 +40,7 @@
       rarity: common
     - name: Wand of Secrets
       rarity: uncommon
-    - name: Amnish Wine (Alchemist's fire)
+    - name: Amnish Wine (Alchemist’s fire)
       rarity: common
       consumable: true
       count: 5
@@ -51,4 +51,4 @@
 
 
 - code: DDHC-WDH-04
-  name: Durnan's Guide to Tavernkeeping
+  name: Durnan’s Guide to Tavernkeeping

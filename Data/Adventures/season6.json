@@ -66,7 +66,7 @@
                 { "name": "darkvision", "level": 2 },
                 { "name": "dispel magic", "level": 3 },
                 { "name": "fear", "level": 3 },
-                { "name": "Evard's black tentacles", "level": 4 },
+                { "name": "Evard’s black tentacles", "level": 4 },
                 { "name": "find familiar", "level": 1 },
                 { "name": "witch bolt", "level": 1 }
             ]
@@ -256,7 +256,7 @@
         ],
         "spellbooks": [
             {
-                "name": "Mage's Spellbook",
+                "name": "Mage’s Spellbook",
                 "spells": [
                     { "name": "detect magic", "level": 1 },
                     { "name": "mage armor", "level": 1 },
@@ -281,7 +281,7 @@
                 ]
             },
             {
-                "name": "Necromancer's Spellbook",
+                "name": "Necromancer’s Spellbook",
                 "spells": [
                     { "name": "false life", "level": 1 },
                     { "name": "mage armor", "level": 1 },
@@ -294,7 +294,7 @@
                     { "name": "blight", "level": 4 },
                     { "name": "dimension door", "level": 4 },
                     { "name": "stoneskin", "level": 4 },
-                    { "name": "Bigby's hand", "level": 5 },
+                    { "name": "Bigby’s hand", "level": 5 },
                     { "name": "cloudkill", "level": 5 },
                     { "name": "circle of death", "level": 6 }
                 ]

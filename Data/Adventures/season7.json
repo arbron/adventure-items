@@ -7,7 +7,7 @@
         "tier": [1],
         "items": [
             {
-                "name": "Alchemist's fire (flask)",
+                "name": "Alchemist’s fire (flask)",
                 "rarity": "common",
                 "consumable": true,
                 "count": 2
@@ -133,7 +133,7 @@
         ],
         "spellbooks": [
             {
-                "name": "Naga's Spellbook",
+                "name": "Naga’s Spellbook",
                 "spells": [
                     { "name": "control water", "level": 4 },
                     { "name": "fire shield", "level": 4 },
@@ -360,7 +360,7 @@
         "tier": [3],
         "items": [
             {
-                "name": "Love's Bite (Nine Lives Stealer)",
+                "name": "Love’s Bite (Nine Lives Stealer)",
                 "rarity": "veryRare"
             },
             {
@@ -623,7 +623,7 @@
     {
         "code": "DDEP07-01",
         "name": "Peril at the Port",
-        "description": "Pirates! Dastardly ne'er‐do‐wells have been spotted just outside of the harbor! Not content with scratching a living off of the rich port city’s scraps, pirates are making for the city by land and sea. But Port Nyanzaru is far from defenseless; pick up a yklwah, climb aboard a dinosaur, or man the wall; but whatever you do, don’t let those rapscallions into the city!",
+        "description": "Pirates! Dastardly ne’er‐do‐wells have been spotted just outside of the harbor! Not content with scratching a living off of the rich port city’s scraps, pirates are making for the city by land and sea. But Port Nyanzaru is far from defenseless; pick up a yklwah, climb aboard a dinosaur, or man the wall; but whatever you do, don’t let those rapscallions into the city!",
         "released": "2017-09-01",
         "tier": [1, 2],
         "items": [
@@ -652,7 +652,7 @@
                 "rarity": "uncommon"
             },
             {
-                "name": "Alchemist's fire (flask)",
+                "name": "Alchemist’s fire (flask)",
                 "rarity": "common",
                 "consumable": true,
                 "count": 10
@@ -664,7 +664,7 @@
                 "count": 2
             },
             {
-                "name": "Healer's kit",
+                "name": "Healer’s kit",
                 "rarity": "common",
                 "consumable": true,
                 "count": 1

@@ -1,5 +1,5 @@
 - code: CCC-GSP01-01
-  name: A Dragon's Breath
+  name: A Dragon’s Breath
   description: >-
     Ragvala, also known as the “Coinmaker”, is an ancient gold dragon who wishes
     to mend his broken friendship with his old adventuring buddy. Recently, he
@@ -10,7 +10,7 @@
   creator: Greasy Snitches
   tier: 1
   items:
-    - name: Dragon's Lullaby (Instrument of the Bards - Mac-Fuirmidh cittern)
+    - name: Dragon’s Lullaby (Instrument of the Bards - Mac-Fuirmidh cittern)
       rarity: uncommon
     - name: Spell Scroll of Comprehend Languages
       rarity: common
@@ -222,7 +222,7 @@
     year. Those who accept the school’s invitation will be sent to Minauros, the
     third layer of the Nine Hells. Will the adventu—I mean students—survive the tests
     given to them by their devilish professors? Part One of *I Got Accepted as a
-    Student in the Nine Hells and Now I'm at the Top of the Class* series.
+    Student in the Nine Hells and Now I’m at the Top of the Class* series.
   released: '2020-11-17'
   creator: Greasy Snitches
   url: 'https://www.dmsguild.com/product/336048/CCCGSP0401-Devil-King-High-School-Year-One'

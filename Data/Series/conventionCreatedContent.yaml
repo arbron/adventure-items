@@ -1,0 +1,42 @@
+- slug: mischief-of-profiteering
+  name: Mischief of Profiteering
+  adventures:
+    - code: CCC-AWE-01-02
+      position: 1
+    - code: CCC-ODFC-04-01
+      position: 2
+    - code: CCC-PIPYAPS-DH-01
+      position: 3
+
+
+- slug: pumpkin-spiced-adventures
+  name: Pumpkin Spiced Adventures
+  adventures:
+    - code: CCC-PSA-01
+      position: 1
+
+
+- slug: reborn-flame
+  name: Reborn Flame
+  adventures:
+    - code: CCC-ODFC-02-02
+      position: 1
+    - code: CCC-GAD-01-01
+      position: 2
+    - code: CCC-GAD-01-02
+      position: 3
+
+
+- slug: return-of-revelry
+  name: Return of Revelry
+  adventures:
+    - code: CCC-ODFC-03-01
+      position: 1
+
+
+- slug: when-shadows-fall
+  name: When Shadows Fall
+  adventures:
+    - code: CCC-TCW-WSF-01
+      position: 1
+

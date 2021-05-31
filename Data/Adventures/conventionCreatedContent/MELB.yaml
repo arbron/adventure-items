@@ -1,0 +1,36 @@
+- code: CCC-MELB-01
+  name: A Single Tearfall
+  description: >-
+    An injured young fisherman stumbles into Elventree with a brightly
+    coloured egg in his arms. He claims it fell from the sky and broke
+    his rowboat. When he swam to the shore an elf with skin of ash
+    attacked him and tried to take the egg. Will you help him keep it
+    safe, Adventurers?
+  released: '2020-11-30'
+  url: 'https://www.dmsguild.com/product/337763/CCCMELB01-A-Single-Tearfall'
+  tier: 2
+  length: 2-4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-MELB-02
+  name: The Sunken Sepulcher
+  description: >-
+    A group of dwarves in the Hulburg region are in need of help. Strange
+    lights have been seen at night and a deadly terror has struck their
+    mining camp. Venture into the ancient ruins and discover the source
+    of this terror before it's too late.
+  released: '2020-08-07'
+  url: 'https://www.dmsguild.com/product/322502/CCCMELB02-The-Sunken-Sepulcher'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+

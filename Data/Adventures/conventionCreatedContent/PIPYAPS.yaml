@@ -1,0 +1,56 @@
+- code: CCC-PIPYAPS
+  name: Glasya’s Little Helpers
+  description: >-
+    A workshop in a ~~frozen wasteland~~ winter wonderland? Little people making
+    items to spread around the world and bring joy? Sounds sketchy. Mahadi
+    wants you to investigate before the economy of hell is forever disrupted!
+    Sometimes, the only thing more dangerous than the question is an answer.
+  released: '2020-12-02'
+  url: 'https://www.dmsguild.com/product/337864/Glasyas-Little-Helpers'
+  tier: 2
+  length: 2-4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-PIPYAPS-DH-01
+  name: Breaking Bes
+  description: >-
+    An illness affecting the Mulmaster refugees has reached epidemic levels.
+    Magical treatments are effective but limited. An antidote can be found in a
+    stronghold in Minauros. The imp Pipyap has agreed to help you gain entry…for
+    just a tiny favor…really.
+  released: '2020-07-20'
+  url: 'https://www.dmsguild.com/product/320481/CCCPIPYAPSDH1-Breaking-Bes'
+  tier: 1
+  length: 4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-PIPYAP-PHAL03-01
+  name: 'Lost Holy Man: Portal Chase through Maladomini'
+  description: >-
+    The devils of the Maladomini have extended their reach into the conflict
+    on Avernus. Baalzebul is scheming to steal the souls of Elturel for
+    himself. If the characters have already finished Avernus, then Baalzebul
+    wants to take the souls that Zariel failed to bring into the hells. If
+    not, he wants to steal the souls promised to Zariel in some way but
+    needs to better understand the contract that binds their souls to her
+    service.
+  released: '2020-11-02'
+  url: 'https://www.dmsguild.com/product/334210/CCCPipyapPhAL0301-Lost-Holy-Man-Portal-Chase-through-Maladomini'
+  tier: 3
+  length: 4
+  apl: 13
+  missing:
+    - credits
+    - items
+    - pdf
+

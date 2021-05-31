@@ -1,0 +1,16 @@
+- code: CCC-TCW-WSF-01
+  name: A Change of Heart
+  description: >-
+    There is continued unrest in the cities around the Moonsea. The Red Wizards
+    are rumored to be kidnapping visitors—but why? Ylraphon is one of those
+    cities and is in danger from a growing threat from Thayan extremists.
+  released: '2020-12-23'
+  url: 'https://www.dmsguild.com/product/340424/CCCTCWWSF1-A-Change-of-Heart'
+  tier: 1
+  length: 4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+

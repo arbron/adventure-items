@@ -116,7 +116,7 @@ struct AdventurePage: Component {
         guard let series = adventure.series,
               let seriesInfo = series.adventures.first(where: { $0.code == adventure.code }) else { return nil }
 
-        let key: String
+        var key: String
         var args: [CVarArg] = []
         if let position = seriesInfo.position,
            let formattedPosition = Self.seriesNumberFormatter.string(from: NSNumber(value: position)) {
@@ -125,6 +125,7 @@ struct AdventurePage: Component {
         } else {
             key = "adventurePage.unorderedSeriesMember"
         }
+        if !series.includesArticle { key = "\(key)WithArticle" }
         args.append("*\(series.name)*")
 //        args.append("*[\(series.name)](\(series.path))*")
 
@@ -231,7 +232,7 @@ struct StoryAwardsSection: Component {
 
     @ComponentBuilder
     func awardName(_ award: StoryAward) -> Component {
-        Text(award.name)
+        Text(award.name) // TODO: Fix extra space being added around story awards with labels
         if let type = award.type {
             Text(" \(type.name)")
                 .italic()

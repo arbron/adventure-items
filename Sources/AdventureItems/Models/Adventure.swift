@@ -61,7 +61,7 @@ extension Adventure {
     }
 
     var path: String {
-        "/adventure/\(slug)"
+        "/adventures/\(slug)"
     }
 
     enum StoryAwardType: String {

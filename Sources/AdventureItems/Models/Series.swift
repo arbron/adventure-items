@@ -12,7 +12,7 @@ import Foundation
 struct Series: Codable, Hashable {
     var slug: String
     var name: String
-    @DecodableDefault.False var usesArticle: Bool
+    @DecodableDefault.False var includesArticle: Bool
 
     @DecodableDefault.EmptyString var description: String
 

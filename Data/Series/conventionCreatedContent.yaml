@@ -10,6 +10,18 @@
       position: 3
 
 
+- slug: alliances
+  name: Alliances
+  type: trilogy
+  adventures:
+    - code: CCC-BMG-13 PHLAN1-1
+      position: 1
+    - code: CCC-BMG-14 PHLAN1-2
+      position: 2
+    - code: CCC-BMG-15 PHLAN1-3
+      position: 3
+
+
 - slug: avatar-of-shar
   name: Avatar of Shar
   adventures:
@@ -30,6 +42,31 @@
       position: 1
 
 
+- slug: the-chaos-in-melvaunt
+  name: The Chaos in Melvaunt
+  includesArticle: true
+  type: trilogy
+  adventures:
+    - code: CCC-BMG-01 CORE1-1
+      position: 1
+    - code: CCC-BMG-02 CORE1-2
+      position: 2
+    - code: CCC-BMG-03 CORE1-3
+      position: 3
+
+
+- slug: coin-spinner
+  name: Coin Spinner
+  type: trilogy
+  adventures:
+    - code: CCC-BMG-31 PHLAN3-1
+      position: 1
+    - code: CCC-BMG-32 PHLAN3-2
+      position: 2
+    - code: CCC-BMG-33 PHLAN3-3
+      position: 3
+
+
 - slug: daggers-of-lathander
   name: Daggers of Lathander
   adventures:
@@ -37,6 +74,54 @@
       position: 1
     - code: CCC-TRI-33 DAGGR1-2
       position: 2
+
+
+- slug: dark-intentions
+  name: Dark Intentions
+  type: trilogy
+  adventures:
+    - code: CCC-BMG-10 HILL1-1
+      position: 1
+    - code: CCC-BMG-11 HILL1-2
+      position: 2
+    - code: CCC-BMG-12 HILL1-3
+      position: 3
+
+
+- slug: dark-moon
+  name: Dark Moon
+  type: trilogy
+  adventures:
+    - code: CCC-BMG MOON9-1
+      position: 1
+    - code: CCC-BMG MOON9-2
+      position: 2
+    - code: CCC-BMG MOON9-3
+      position: 3
+
+
+- slug: dark-tidings
+  name: Dark Tidings
+  type: trilogy
+  adventures:
+    - code: CCC-BMG MOON10-1
+      position: 1
+    - code: CCC-BMG MOON10-2
+      position: 2
+    - code: CCC-BMG MOON10-3
+      position: 3
+
+
+- slug: dawn-of-the-darkening
+  name: Dawn of the Darkening
+  type: trilogy
+  adventures:
+    - code: CCC-BMG MOON8-1
+      position: 1
+    - code: CCC-BMG MOON8-2
+      position: 2
+    - code: CCC-BMG MOON8-3
+      position: 3
 
 
 - slug: dead-men
@@ -50,6 +135,30 @@
       position: 3
     - code: CCC-MWGF-01
       position: 4
+
+
+- slug: earthmothers-eye
+  name: Earthmother’s Eye
+  type: trilogy
+  adventures:
+    - code: CCC-BMG MOON6-1
+      position: 1
+    - code: CCC-BMG MOON6-2
+      position: 2
+    - code: CCC-BMG MOON6-3
+      position: 3
+
+
+- slug: fairheight
+  name: Fairheight
+  type: trilogy
+  adventures:
+    - code: CCC-BMG MOON3-1
+      position: 1
+    - code: CCC-BMG MOON3-2
+      position: 2
+    - code: CCC-BMG MOON3-3
+      position: 3
 
 
 - slug: fire-and-steel-resurgent
@@ -71,6 +180,30 @@
       position: 3
     - code: CCC-AETHER-02-01
       position: 4
+
+
+- slug: misaligned
+  name: Misaligned
+  type: trilogy
+  adventures:
+    - code: CCC-BMG-04 CORE2-1
+      position: 1
+    - code: CCC-BMG-05 CORE2-2
+      position: 2
+    - code: CCC-BMG-06 CORE2-3
+      position: 3
+
+
+- slug: misaligned-2
+  name: Misaligned
+  type: trilogy
+  adventures:
+    - code: CCC-BMG-16 ELMW1-1
+      position: 1
+    - code: CCC-BMG-17 ELMW1-2
+      position: 2
+    - code: CCC-BMG-18 ELMW1-3
+      position: 3
 
 
 - slug: mischief-of-profiteering
@@ -97,6 +230,18 @@
       position: 4
 
 
+- slug: obsidian-stone
+  name: Obsidian Stone
+  type: trilogy
+  adventures:
+    - code: CCC-BMG-37 HULB3-1
+      position: 1
+    - code: CCC-BMG-38 HULB3-2
+      position: 2
+    - code: CCC-BMG-39 HULB3-3
+      position: 3
+
+
 - slug: olma
   name: Olma
   adventures:
@@ -105,6 +250,18 @@
     - code: CCC-TRI-12 OLMA1-2
       position: 2
     - code: CCC-TRI-13 OLMA1-3
+      position: 3
+
+
+- slug: pawns-of-torment
+  name: Pawns of Torment
+  type: trilogy
+  adventures:
+    - code: CCC-BMG MOON12-1
+      position: 1
+    - code: CCC-BMG MOON12-2
+      position: 2
+    - code: CCC-BMG MOON12-3
       position: 3
 
 
@@ -142,6 +299,18 @@
       position: 1
 
 
+- slug: rising-shadows
+  name: Rising Shadows
+  type: trilogy
+  adventures:
+    - code: CCC-BMG MOON2-1
+      position: 1
+    - code: CCC-BMG MOON2-2
+      position: 2
+    - code: CCC-BMG MOON2-3
+      position: 3
+
+
 - slug: rocslide
   name: RocSlide
   adventures:
@@ -162,6 +331,30 @@
       position: 3
 
 
+- slug: somber-remnant
+  name: Somber Remnant
+  type: trilogy
+  adventures:
+    - code: CCC-BMG MOON11-1
+      position: 1
+    - code: CCC-BMG MOON11-2
+      position: 2
+    - code: CCC-BMG MOON11-3
+      position: 3
+
+
+- slug: sovereignty
+  name: Sovereignty
+  type: trilogy
+  adventures:
+    - code: CCC-BMG-22 PHLAN2-1
+      position: 1
+    - code: CCC-BMG-23 PHLAN2-2
+      position: 2
+    - code: CCC-BMG-24 PHLAN2-3
+      position: 3
+
+
 - slug: storm-herald-trilogy
   name: Storm Herald
   type: trilogy
@@ -171,6 +364,42 @@
     - code: CCC-TRI-23 STORM1-2
       position: 2
     - code: CCC-TRI-24 STORM1-3
+      position: 3
+
+
+- slug: temples-of-the-earthmother
+  name: Temples of the Earthmother
+  type: trilogy
+  adventures:
+    - code: CCC-BMG MOON7-1
+      position: 1
+    - code: CCC-BMG MOON7-2
+      position: 2
+    - code: CCC-BMG MOON7-3
+      position: 3
+
+
+- slug: terror-from-the-deep
+  name: Terror from the Deep
+  type: trilogy
+  adventures:
+    - code: CCC-BMG-40 HULB4-1
+      position: 1
+    - code: CCC-BMG-41 HULB4-2
+      position: 2
+    - code: CCC-BMG-42 HULB4-3
+      position: 3
+
+
+- slug: tides-of-blood
+  name: Tides of Blood
+  type: trilogy
+  adventures:
+    - code: CCC-BMG MOON5-1
+      position: 1
+    - code: CCC-BMG MOON5-2
+      position: 2
+    - code: CCC-BMG MOON5-3
       position: 3
 
 

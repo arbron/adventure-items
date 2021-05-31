@@ -9,6 +9,8 @@
   released: '2016-06-11'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Potion of Greater Healing
       rarity: uncommon
@@ -56,10 +58,12 @@
     northern coast of the Moonsea is an inhospitable place, and its people have
     a reputation for being rough and unfriendly. But they don’t go around
     murdering one another in the streets. At least, not usually. Was that a
-    scream you just heard? Part One of *The Chaos in Melvaunt*.
+    scream you just heard?
   released: '2016-09-16'
   creator: Baldman Games
   tier: 1
+  length: 4
+  apl: 1
   items:
     - name: Potion of Greater Healing
       rarity: uncommon
@@ -107,10 +111,12 @@
   description: >-
     With the identity of a murderer confirmed, heroes are needed to track it
     down to its home. As it turns out, it might be a longer journey than first
-    imagined. Part Two of *The Chaos in Melvaunt*.
+    imagined.
   released: '2016-09-16'
   creator: Baldman Games
   tier: 1
+  length: 4
+  apl: 2
   items:
     - name: Potion of Healing
       rarity: common
@@ -131,10 +137,12 @@
   description: >-
     Threats from outside Melvaunt and within push heroes to the brink as a
     terrified populace counts on the bravery of a few heroes to avert total
-    disaster. Part Three of *The Chaos in Melvaunt*.
+    disaster.
   released: '2016-09-16'
   creator: Baldman Games
   tier: 1
+  length: 4
+  apl: 3
   items:
     - name: Potion of Greater Healing
       rarity: uncommon
@@ -174,6 +182,8 @@
   released: '2016-07-24'
   creator: Baldman Games
   tier: 1
+  length: 4
+  apl: 3
   items:
     - name: Potion of Healing
       rarity: common
@@ -221,6 +231,8 @@
   released: '2016-07-24'
   creator: Baldman Games
   tier: 1
+  length: 4
+  apl: 3
   items:
     - name: Emerald Kidgloves (Gloves of Thievery)
       rarity: uncommon
@@ -263,6 +275,8 @@
   released: '2016-07-24'
   creator: Baldman Games
   tier: 1
+  length: 4
+  apl: 4
   storyAwards:
     - name: Favor of the Gods
       description: >-
@@ -285,6 +299,8 @@
   released: '2016-07-28'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Vicious Mace
       rarity: rare
@@ -316,6 +332,8 @@
   released: '2016-07-28'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Lantern of Revealing
       rarity: uncommon
@@ -342,6 +360,8 @@
   released: '2016-07-28'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Silvered Longsword
       rarity: common
@@ -381,6 +401,8 @@
   released: '2016-06-07'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 6
   items:
     - name: Emerald Kidgloves (Gloves of Thievery)
       rarity: uncommon
@@ -427,6 +449,8 @@
   released: '2016-06-07'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 7
   items:
     - name: Periapt of Wound Closure
       rarity: uncommon
@@ -491,6 +515,8 @@
   released: '2016-06-11'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Audience Stones (Sending Stones)
       rarity: uncommon
@@ -529,6 +555,8 @@
   released: '2016-07-31'
   creator: Baldman Games
   tier: 3
+  length: 4
+  apl: 11
   items:
     - name: 'Miltiades’s Shield (Shield, +3)'
       rarity: veryRare
@@ -647,6 +675,8 @@
   released: '2016-07-31'
   creator: Baldman Games
   tier: 3
+  length: 4
+  apl: 12
   items:
     - name: Spell Scroll of Polymorph
       rarity: rare
@@ -654,12 +684,14 @@
       count: 3
   storyAwards:
     - name: Master of the Thieves’ Guild
-      description: >-
+      description: |-
         You have saved Glevith of the Welcomers from certain death. In return,
         he makes you an honorary master of the Welcomers. All purchases you make
         within Phlan are 25% cheaper, including spell services.
-  
-         In addition, up to five future characters that you create in the Adventurers League gain a free tool proficiency in Thieves’ Tools, and begin play with a set of Thieves’ Tools.
+
+        In addition, up to five future characters that you create in the
+        Adventurers League gain a free tool proficiency in Thieves’ Tools, and
+        begin play with a set of Thieves’ Tools.
   missing:
     - credits
 
@@ -675,6 +707,8 @@
   released: '2016-07-31'
   creator: Baldman Games
   tier: 3
+  length: 4
+  apl: 12
   items:
     - name: Frost Brand Greatsword
       rarity: veryRare
@@ -693,7 +727,7 @@
     - credits
 
 
-- code: CCC-BMG-PHLAN1-S
+- code: CCC-BMG PHLAN1-S
   name: Uprising
   creator: Baldman Games
   missing:
@@ -712,6 +746,8 @@
   released: '2017-01-20'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Figurine of Wondrous Power (Ivory Goat)
       rarity: rare
@@ -737,6 +773,8 @@
   released: '2017-02-10'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 3
   items:
     - name: Bracers of Defense
       rarity: rare
@@ -869,6 +907,8 @@
   released: '2017-02-10'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Staff of the Woodlands
       rarity: rare
@@ -920,6 +960,8 @@
   released: '2017-10-30'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Boots of the Winterlands
       rarity: uncommon
@@ -945,6 +987,8 @@
   released: '2017-10-30'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Flame Tongue Longsword
       rarity: rare
@@ -966,6 +1010,8 @@
   released: '2017-10-30'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: 'Studded Leather, +1'
       rarity: rare
@@ -977,7 +1023,7 @@
     - credits
 
 
-- code: CCC-BMG-HULB2-S
+- code: CCC-BMG HULB2-S
   name: Winter’s Feast
   creator: Baldman Games
   missing:
@@ -992,10 +1038,12 @@
     With the Banite coup recently foiled, election day in Phlan has finally
     arrived. But the Lord of Darkness needs a new representative. Barrett Sokol,
     his hand squarely on the pulse of today’s Phlan, requires additional vetting
-    and may need your assistance. Part One of the *Sovereignty* trilogy.
+    and may need your assistance.
   released: '2018-01-06'
   creator: Baldman Games
   tier: 3
+  length: 4
+  apl: 15
   items:
     - name: Tyr’s Blessing of the Mind
       rarity: veryRare
@@ -1025,11 +1073,12 @@
     With the Banite coup recently foiled, election day in Phlan has finally
     arrived. But the Lord of Darkness needs a new representative. Colvin
     Doverson, his qualifications rooted in Phlan’s brutal past, requires
-    additional vetting and may need your assistance. Part Two of the
-    *Sovereignty* trilogy.
+    additional vetting and may need your assistance.
   released: '2018-01-06'
   creator: Baldman Games
   tier: 3
+  length: 4
+  apl: 15
   items:
     - name: Tyr’s Blessing of Command
       rarity: veryRare
@@ -1059,11 +1108,12 @@
     With the Banite coup recently foiled, election day in Phlan has finally
     arrived. But the Lord of Darkness needs a new representative. Jhessail
     Greycastle, with her grand plans for the future of Phlan, requires
-    additional vetting and may need your assistance. Part Three of the
-    *Sovereignty* trilogy.
+    additional vetting and may need your assistance.
   released: '2018-01-06'
   creator: Baldman Games
   tier: 3
+  length: 4
+  apl: 15
   items:
     - name: Tyr’s Blessing of Luck
       rarity: uncommon
@@ -1087,7 +1137,7 @@
     - credits
 
 
-- code: CCC-BMG-PHLAN2-S
+- code: CCC-BMG PHLAN2-S
   name: Damnation
   creator: Baldman Games
   missing:
@@ -1107,6 +1157,8 @@
   released: '2018-04-12'
   creator: Baldman Games
   tier: 1
+  length: 4
+  apl: 1
   items:
     - name: Potion of Giant Strength (Hill)
       rarity: uncommon
@@ -1132,6 +1184,8 @@
   released: '2018-04-12'
   creator: Baldman Games
   tier: 1
+  length: 4
+  apl: 2
   items:
     - name: Ring of Mind Shielding
       rarity: uncommon
@@ -1157,6 +1211,8 @@
   released: '2018-04-12'
   creator: Baldman Games
   tier: 1
+  length: 4
+  apl: 3
   items:
     - name: Amulet of Shielding (Broach of Shielding)
       rarity: uncommon
@@ -1195,6 +1251,8 @@
   released: '2018-04-18'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Portable Hole
       rarity: rare
@@ -1233,6 +1291,8 @@
   released: '2018-04-23'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: 'Widowmaker (Crossbow, +1)'
       rarity: uncommon
@@ -1282,6 +1342,8 @@
   released: '2018-04-23'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Achis Atracta (Periapt of Proof against Poison)
       rarity: rare
@@ -1347,6 +1409,8 @@
   released: '2018-07-16'
   creator: Baldman Games
   tier: 1
+  length: 4
+  apl: 3
   items:
     - name: Stone of Good Luck
       rarity: uncommon
@@ -1372,6 +1436,8 @@
   released: '2018-07-16'
   creator: Baldman Games
   tier: 1
+  length: 4
+  apl: 3
   items:
     - name: Lantern of Revealing
       rarity: uncommon
@@ -1418,6 +1484,8 @@
   released: '2018-07-16'
   creator: Baldman Games
   tier: 1
+  length: 4
+  apl: 3
   items:
     - name: 'Bone-pommeled Glaive (Polearm, +1)'
       rarity: uncommon
@@ -1438,9 +1506,14 @@
         information available to the lower ranks and may have picked up more
         during your assignment.
 
-         You have advantage when making Intelligence (History) checks to recall all but the most secret information regarding the organization’s known rank structure, members, past operations and discovered or rumored locations.
+        You have advantage when making Intelligence (History) checks to recall
+        all but the most secret information regarding the organization’s known
+        rank structure, members, past operations and discovered or rumored locations.
 
-         Further, you can’t be at disadvantage when making a Charisma skill check to Intimidate, Persuade, or Deceive a Coin Spinner that you have spent at least 10 minutes studying to determine how they fit into the organization.
+        Further, you can’t be at disadvantage when making a Charisma skill
+        check to Intimidate, Persuade, or Deceive a Coin Spinner that you have
+        spent at least 10 minutes studying to determine how they fit into the
+        organization.
   missing:
     - credits
 
@@ -1456,6 +1529,8 @@
   released: '2018-10-03'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Portable Hole
       rarity: rare
@@ -1493,6 +1568,8 @@
   released: '2018-10-03'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Necklace of Prayer Beads
       rarity: rare
@@ -1527,6 +1604,8 @@
   released: '2018-10-03'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Elven Chain
       rarity: rare
@@ -1561,10 +1640,12 @@
     Something stirs in the Hulburg mines. It would be nice to know what, but it
     would be nicer if it would stop collapsing parts of the mines and leaving
     catatonic miners. This could be the end of Hulburg’s windfall unless someone
-    finds a way to stop it. Part 1 of the *Obsidian Stone* trilogy.
+    finds a way to stop it.
   released: '2018-12-07'
   creator: Baldman Games
   tier: 3
+  length: 4
+  apl: 14
   items:
     - name: Manual of Quickness of Action
       rarity: veryRare
@@ -1593,10 +1674,12 @@
   description: >-
     Wait! Is that an upside-down staircase? Am I floating? Why are my hands
     triangles? Why do I have four of them? No, wait, those are not mine! Where
-    am I? How did I get here? Part 2 of the *Obsidian Stone* trilogy.
+    am I? How did I get here?
   released: '2018-12-07'
   creator: Baldman Games
   tier: 3
+  length: 4
+  apl: 13
   items:
     - name: Potion of Mind Reading
       rarity: rare
@@ -1634,6 +1717,8 @@
   released: '2018-12-07'
   creator: Baldman Games
   tier: 3
+  length: 4
+  apl: 14
   items:
     - name: 'Dream Whirl (Lance, +3)'
       rarity: veryRare
@@ -1692,11 +1777,12 @@
   description: >-
     Usually monsters disappearing is a good thing, but what if soon after
     whispers can be heard in one’s dreams and people disappear? What horrors did
-    those things stir in the ruins below? Better safe than sorry. Part One of
-    the *Terror from the Deep* trilogy.
+    those things stir in the ruins below? Better safe than sorry.
   released: '2019-01-21'
   creator: Baldman Games
   tier: 3
+  length: 4
+  apl: 14
   items:
     - name: Instrument of the Bards (Anstruth Harp)
       rarity: veryRare
@@ -1728,10 +1814,12 @@
   description: >-
     “Give us what we want or more ships will be sunk and crews taken,” say
     monsters from the deep. The authorities might give in. Somebody needs to
-    stop them. Part Two of the *Terror from the Deep* trilogy.
+    stop them.
   released: '2019-01-21'
   creator: Baldman Games
   tier: 3
+  length: 4
+  apl: 14
   items:
     - name: Folding Boat
       rarity: rare
@@ -1757,6 +1845,8 @@
   released: '2019-01-21'
   creator: Baldman Games
   tier: 3
+  length: 4
+  apl: 14
   items:
     - name: Robe of Eyes
       rarity: rare
@@ -1794,6 +1884,8 @@
   released: '2019-01-25'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Helm of Teleportation
       rarity: rare
@@ -1814,6 +1906,8 @@
   released: '2019-01-25'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Cloak of the Bat
       rarity: rare
@@ -1833,6 +1927,8 @@
   released: '2019-01-25'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Wand of Fear
       rarity: rare
@@ -1894,6 +1990,8 @@
   released: '2019-02-13'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Ring of Animal Influence
       rarity: rare
@@ -1930,6 +2028,8 @@
   released: '2019-02-13'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Wand of Wonder
       rarity: rare
@@ -1976,6 +2076,8 @@
   released: '2019-02-13'
   creator: Baldman Games
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Ioun Stone of Reserve
       rarity: rare
@@ -2029,7 +2131,7 @@
     - credits
 
 
-- code: CCC-BMG-MOON1-1
+- code: CCC-BMG MOON1-1
   name: Moonshae Treasure Hunt
   description: >-
     The Moonshae Isles, beautiful and dangerous, provide adventurers the
@@ -2038,7 +2140,10 @@
     Isles-spanning adventure full of intrigue, fun, and danger!
   released: '2018-12-20'
   creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/262080/CCCBMG-MOON-11-Moonshae-Treasure-Hunt'
   tier: 1
+  length: 4x1
+  apl: 1
   storyAwards:
     - name: Capt. Bluto’s Blunderbuss
       description: |-
@@ -2088,7 +2193,7 @@
         You have assisted Winnow Rustfire on her mission to attain a red pearl.
         She now considers you a trusted friend. This story award may come into
         play in future Moonshae adventures from Baldman Games, particularly
-        **CCC-BMG-MOON3-1**, **3-2**, and **3-3**.
+        **CCC-BMG MOON3-1**, **3-2**, and **3-3**.
     - name: Happi the Unhappy Oyster
       description: >-
         You have found a sentient talking oyster named Happi. He was once an
@@ -2128,7 +2233,7 @@
     - credits
 
 
-- code: CCC-BMG-MOON1-2
+- code: CCC-BMG MOON1-2
   name: Mind the Missive
   released: '2020-08-12'
   creator: Baldman Games
@@ -2142,9 +2247,10 @@
       count: 1
   missing:
     - credits
+    - pdf
 
 
-- code: CCC-BMG-MOON1-3
+- code: CCC-BMG MOON1-3
   name: Heritage vs Kinship
   released: '2020-08-12'
   creator: Baldman Games
@@ -2158,9 +2264,10 @@
       count: 1
   missing:
     - credits
+    - pdf
 
 
-- code: CCC-BMG-MOON1-4
+- code: CCC-BMG MOON1-4
   name: The Brave of West Breasal
   released: '2020-08-12'
   creator: Baldman Games
@@ -2174,9 +2281,10 @@
       count: 1
   missing:
     - credits
+    - pdf
 
 
-- code: CCC-BMG-MOON1-5
+- code: CCC-BMG MOON1-5
   name: The Wilderness Calls
   released: '2020-08-12'
   creator: Baldman Games
@@ -2186,9 +2294,10 @@
       rarity: uncommon
   missing:
     - credits
+    - pdf
 
 
-- code: CCC-BMG-MOON2-1
+- code: CCC-BMG MOON2-1
   name: Defenders of Caer Moray
   description: >-
     The most untamed of the Moonshaes, residents on Moray are accustomed to
@@ -2197,7 +2306,10 @@
     sword allocated to the homelands, who will answer their call for aid?
   released: '2019-02-16'
   creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/266890/CCCBMG-MOON-21-Defenders-of-Caer-Moray'
   tier: 1
+  length: 4
+  apl: 3
   items:
     - name: The Wolves’ Claw (Dagger, +1)
       rarity: uncommon
@@ -2219,7 +2331,7 @@
     - credits
 
 
-- code: CCC-BMG-MOON2-2
+- code: CCC-BMG MOON2-2
   name: Army of the Unseen
   description: >-
     Little more than an outpost, Dynnegall is the life-blood of resources that
@@ -2229,7 +2341,10 @@
     dares to venture outside the walls?
   released: '2019-02-28'
   creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/267912/CCCBMG-MOON-22-Army-of-the-Unseen'
   tier: 1
+  length: 4
+  apl: 3
   items:
     - name: 'Longbow, +1'
       rarity: uncommon
@@ -2266,7 +2381,7 @@
     - credits
 
 
-- code: CCC-BMG-MOON2-3
+- code: CCC-BMG MOON2-3
   name: The Eye in the Mist
   description: >-
     The events at Dynnegall revealed evidence that a new threat to fey and Ffolk
@@ -2276,7 +2391,10 @@
     eastern coast.
   released: '2019-03-11'
   creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/269351/CCCBMG-MOON-23-The-Eye-in-the-Mist'
   tier: 1
+  length: 4
+  apl: 3
   items:
     - name: Llyneth’s Cloak of Mists (Cloak of Elvenkind)
       rarity: uncommon
@@ -2307,17 +2425,20 @@
     - credits
 
 
-- code: CCC-BMG-MOON3-1
+- code: CCC-BMG MOON3-1
   name: Atop the Fairheights
   description: >-
     Just as it looked like the combined forces of Clan Rookoath and Clan
     Rustfire might drive a long-time threat from their ancestral homes, the
     dwarven forces suffer a terrible defeat. The proud and slightly xenophobic
     dwarves reach out for assistance. But is it too late, or can a group of
-    heroes turn the tide? The first adventure in the *Fairheight* trilogy.
+    heroes turn the tide?
   released: '2019-06-24'
   creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/280969/CCCBMG-MOON-31-Atop-the-Fairheights'
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Belt of Dwarvenkind
       rarity: rare
@@ -2340,17 +2461,19 @@
     - credits
 
 
-- code: CCC-BMG-MOON3-2
+- code: CCC-BMG MOON3-2
   name: Within the Tunnels of Dwarvenholm
   description: >-
     With the immediate threat to Clans Rookoath and Rustfire quelled, the next
     step is to clear the tunnels of Dwarvenholm, allowing the clans to again
     move freely between their homes. However, the enemy will not give up their
-    gains so easily, as a new player enters the battlefield. Part two of the
-    *Fairheight* trilogy.
+    gains so easily, as a new player enters the battlefield.
   released: '2019-06-24'
   creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/281623/CCCBMG-MOON-32-Within-the-Tunnels-of-Dwarvenholm'
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Adamantine Chain Shirt
       rarity: uncommon
@@ -2374,16 +2497,19 @@
     - credits
 
 
-- code: CCC-BMG-MOON3-3
+- code: CCC-BMG MOON3-3
   name: Beneath the Cairnwell
   description: >-
     The lost moonwell, known as the Cairnwell, plays a significant role in the
     battle for the Fairheight Range. Can it be saved and turned into a source of
     weal for the dwarves, or will the enemy take its power and turn it into a
-    fountain of woe? Part Three of the *Fairheight* trilogy.
+    fountain of woe?
   released: '2019-07-26'
   creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/283991/CCCBMG-MOON-33-Beneath-the-Cairnwell'
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Ever Vigilant (Silvered Greatsword of Warning)
       rarity: uncommon
@@ -2412,23 +2538,26 @@
     - credits
 
 
-- code: CCC-BMG-MOON4-1
+- code: CCC-BMG MOON4-1
   name: Precious Cargo
   description: >-
     Caravan masters need to protect their cargo going to Caer Callidyrr. It is a
     long trek from Kythyss to the capital of Alaron wrought with danger from
     mercenaries loyal to Amn. Adventurers are needed to eliminate these threats,
     so the caravans don’t need to contend with these formidable foes.
-  creator: Baldman Games
   released: '2019-11-21'
+  creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/295547/CCCBMG-MOON-41-Precious-Cargo'
   tier: 1
+  length: 4
+  apl: 3
   missing:
     - credits
     - items
     - pdf
 
 
-- code: CCC-BMG-MOON4-2
+- code: CCC-BMG MOON4-2
   name: Dangerous Dernall
   description: >-
     The Great Druid Antola Pilark and the High King’s rangers are having trouble
@@ -2436,16 +2565,19 @@
     to continue their aggressive front, Caer Callidyrr will be threatened. Are
     there a band of brave souls that will reinforce the King’s line to the
     capital?
-  creator: Baldman Games
   released: '2019-11-21'
+  creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/295548/CCCBMG-MOON-42-Dangerous-Dernall'
   tier: 1
+  length: 4
+  apl: 3
   missing:
     - credits
     - items
     - pdf
 
 
-- code: CCC-BMG-MOON4-3
+- code: CCC-BMG MOON4-3
   name: Gate to the Unknown
   description: >-
     The deep gnomes of the Fairheight Mountains have come to Caer Callidyrr in
@@ -2454,24 +2586,29 @@
     of these mysterious attacks?
   released: '2019-11-21'
   creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/295549/CCCBMG-MOON-43-Gate-to-the-Unknown'
   tier: 1
+  length: 4
+  apl: 3
   missing:
     - credits
     - items
     - pdf
 
 
-- code: CCC-BMG-MOON5-1
+- code: CCC-BMG MOON5-1
   name: Bloodlust Rising
   description: >-
     When it was just livestock, few took note. When people disappeared, things
     changed. Now farmsteads are burning and bloodthirsty cackling echo through
     the hills of old Gnarhelm in northern Alaron. The farmers are defenseless
-    against such bloodlust; can heroes help? Part One of the *Tides of Blood*
-    trilogy, set in the Moonshae Isles.
+    against such bloodlust; can heroes help?
   released: '2020-04-14'
   creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/309965/CCCBMG-MOON-51-Bloodlust-Rising'
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Admantine Chain Mail
       rarity: uncommon
@@ -2487,16 +2624,19 @@
     - credits
 
 
-- code: CCC-BMG-MOON5-2
+- code: CCC-BMG MOON5-2
   name: Bloodlust Contained
   description: >-
     An unexpected enemy has appeared, attacking with ferocious bloodlust and
     unknown purpose. The locals can’t defend against this threat forever; heroes
     are needed to discover who is responsible for the attacks and stop them for
-    good. Part Two of the *Tides of Blood* trilogy, set in the Moonshae Isles.
+    good.
   released: '2020-04-14'
   creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/309966/CCCBMG-MOON-52-Bloodlust-Contained'
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Brooch of Shielding
       rarity: uncommon
@@ -2512,17 +2652,19 @@
     - credits
 
 
-- code: CCC-BMG-MOON5-3
+- code: CCC-BMG MOON5-3
   name: Bloodlust Tempered
   description: >-
     With the marauders gone, peace returns to northern Alaron, but somebody
     brought the reavers across the straits of Moonshae to Alaron. They need to
     be stopped before the recent troubles become nothing more than the vanguard
-    of something worse. Part Three of the *Tides of Blood* trilogy, set in the
-    Moonshae Isles.
+    of something worse.
   released: '2020-04-14'
   creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/309967/CCCBMG-MOON-53-Bloodlust-Tempered'
   tier: 2
+  length: 4
+  apl: 8
   items:
     - name: Ring of Mind-Shielding
       rarity: uncommon
@@ -2534,17 +2676,19 @@
     - credits
 
 
-- code: CCC-BMG-MOON6-1
+- code: CCC-BMG MOON6-1
   name: A Reopened Eye
   description: >-
     Conflicts arising in both the Feywild and the Prime have caused some in both
     planes to call for a return of the Balance, and for new alliances between
     the fey and mortals. A seer new to the Moonshaes has prophesied your help in
-    opening a new portal between these worlds. Part One of the *Earthmother’s Eye*
-    trilogy.
+    opening a new portal between these worlds.
   released: '2020-05-04'
   creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/312454/CCCBMG-MOON-61-A-Reopened-Eye'
   tier: 2
+  length: 2-4
+  apl: 8
   items:
     - name: Enduring Spellbook
       rarity: common
@@ -2620,17 +2764,19 @@
     - credits
 
 
-- code: CCC-BMG-MOON6-2
+- code: CCC-BMG MOON6-2
   name: Troubled Visions
   description: >-
     A newly opened moonwell proves unstable. An eladrin community in the Feywild
     calls for aid, as their home has been torn asunder and transformed by planar
     rifts. You must enter the moonwell to seal the rifts threatening the region
-    before this instability pours over to the Prime Material. Part Two of the
-    *Earthmother’s Eye* trilogy.
+    before this instability pours over to the Prime Material.
   released: '2020-05-04'
   creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/312456/CCCBMG-MOON-63-Planar-Convergence'
   tier: 2
+  length: 2-4
+  apl: 8
   items:
     - name: Eladrin Boots of Elvenkind
       rarity: uncommon
@@ -2653,18 +2799,20 @@
     - credits
 
 
-- code: CCC-BMG-MOON6-3
+- code: CCC-BMG MOON6-3
   name: Planar Convergence
   description: >-
     After a moonwell portal is permanently opened to the Feywild, fey and humans
     have begun to live together in harmony. But when a new threat forms on the
     horizon, darkness threatens to overwhelm the moonwell and consume the
     Moonshae Isles. As the fey and human denizens rush to mount defenses, will
-    their alliance be enough to defeat the coming army? Part Three of the
-    *Earthmother’s Eye* trilogy.
+    their alliance be enough to defeat the coming army?
   released: '2020-05-04'
   creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/312457/CCCBMG-MOON-62-Troubled-Visions'
   tier: 2
+  length: 2-4
+  apl: 8
   items:
     - name: Horn of Silent Alarm
       rarity: common
@@ -2690,17 +2838,15 @@
     - credits
 
 
-- code: CCC-BMG-MOON7-1
+- code: CCC-BMG MOON7-1
   name: The Temple of the Beast
   description: >-
     The Temple of the Beast was one of the most dangerous temples kept by the
     old druids of the Earthmother. Revering wild and unpredictable beasts came
-    with much risk. Surviving its trials may be your undoing! Part One of the
-    *Temples of the Earthmother* trilogy.
+    with much risk. Surviving its trials may be your undoing!
   released: '2020-10-27'
   creator: Baldman Games
-  url: >-
-    https://www.dmsguild.com/product/333534/CCCBMG-MOON-71-The-Temple-of-the-Beast
+  url: 'https://www.dmsguild.com/product/333534/CCCBMG-MOON-71-The-Temple-of-the-Beast'
   tier: 2
   length: 2-4
   apl: 8
@@ -2731,14 +2877,13 @@
     - credits
 
 
-- code: CCC-BMG-MOON7-2
+- code: CCC-BMG MOON7-2
   name: The Temple of the Sun
   description: >-
     The Temple of the Sun provided hope to the servants of the Earthmother when
     events in their lives looked the most dire. Now that the temple has
     returned, it has become a beacon for those who love the light. But it is
-    also a target for those who dwell in the shadows. Part Two of the *Temples
-    of the Earthmother* trilogy.
+    also a target for those who dwell in the shadows.
   released: '2020-10-27'
   creator: Baldman Games
   url: 'https://www.dmsguild.com/product/333535/CCCBMG-MOON-72-The-Temple-of-the-Sun'
@@ -2772,13 +2917,12 @@
       count: 1
 
 
-- code: CCC-BMG-MOON7-3
+- code: CCC-BMG MOON7-3
   name: The Temple of Death
   description: >-
     When the ancient Temple of Death reappears on Oman Island, those devoted to
     the Earthmother are determined to reconsecrate it to the goddess. However, a
     necromancer feels that it is his birthright to claim it as his lair as well.
-    Part Three of the *Temples of the Earthmother* trilogy.
   released: '2020-10-27'
   creator: Baldman Games
   url: 'https://www.dmsguild.com/product/333537/CCCBMG-MOON-73-The-Temple-of-Death'
@@ -2812,13 +2956,13 @@
     - pdf
 
 
-- code: CCC-BMG-MOON8-1
+- code: CCC-BMG MOON8-1
   name: Blood on the Moors
   description: >-
     The rumored death of a unicorn protector has everyone concerned as all eyes
     in the Moonshaes turn to Moray. When the expedition sent to investigate
     doesn’t return, the fires of panic begin to roar. What evil awaits you on
-    the moors? Part One of *The Dawn of the Darkening* trilogy.
+    the moors?
   released: '2020-12-11'
   creator: Baldman Games
   url: 'https://www.dmsguild.com/product/339685/CCCBMG-MOON-81-Blood-on-the-Moors'
@@ -2858,13 +3002,12 @@
     - pdf
 
 
-- code: CCC-BMG-MOON8-2
+- code: CCC-BMG MOON8-2
   name: Breasal Strife
   description: >-
     The Naïlo Expedition stumbled their way into the dreaded Breasal Marsh. It’s
     deadly enough in its own right without the added threat of sinister shadows.
-    Is there anyone with the courage to follow and rescue them? Part Two of *The
-    Dawn of the Darkening* trilogy.
+    Is there anyone with the courage to follow and rescue them?
   released: '2020-12-11'
   creator: Baldman Games
   url: 'https://www.dmsguild.com/product/339686/CCCBMG-MOON-82-Breasal-Strife'
@@ -2900,17 +3043,16 @@
     - pdf
 
 
-- code: CCC-BMG-MOON8-3
+- code: CCC-BMG MOON8-3
   name: A Grim View of Farview
   description: >-
     Following the trail of a lost expedition, all signs point to the small
     Northlander town of Farview. Day blends into night and the townsfolk are
     acting strangely. Hopefully some answers cna be foudn here, along with
-    warmth and rest. Part Three of *The Dawn of the Darkening* trilogy.
+    warmth and rest.
   released: '2020-12-11'
   creator: Baldman Games
-  url: >-
-    https://www.dmsguild.com/product/339687/CCCBMG-MOON-83-A-Grim-View-of-Farview
+  url: 'https://www.dmsguild.com/product/339687/CCCBMG-MOON-83-A-Grim-View-of-Farview'
   tier: 2
   length: 4
   apl: 8
@@ -2949,15 +3091,14 @@
     - pdf
 
 
-- code: CCC-BMG-MOON9-1
+- code: CCC-BMG MOON9-1
   name: Dark Moon Rising
   description: >-
     A vitally important diplomat has gone missing, and a village seems to be
     troubled by an unseen force that threatens to spread all across the
     Moonshaes. All the while, a massive volcano rumbles in its slumber,
     threatening to awake, bringing forth chaos and destruction. A Dark Moon
-    Rises over the island of Norland. Can you come to its aid? Part One of the
-    *Dark Moon* trilogy.
+    Rises over the island of Norland. Can you come to its aid?
   released: '2021-02-23'
   creator: Baldman Games
   url: 'https://www.dmsguild.com/product/348022/CCCBMG-MOON-91-Dark-Moon-Rising'
@@ -2993,13 +3134,12 @@
     - pdf
 
 
-- code: CCC-BMG-MOON9-2
+- code: CCC-BMG MOON9-2
   name: Dark Moon Marching
   description: >-
     Fighting factions in Rogarsheim increase the peril of the duergar and the
     threat from the Shadowfell. Can the characters uncover the darkness in
-    Rogarsheim and unite the people against the threat from the Shadowfell? Part
-    Two of the *Dark Moon* trilogy.
+    Rogarsheim and unite the people against the threat from the Shadowfell?
   released: '2021-02-23'
   creator: Baldman Games
   url: 'https://www.dmsguild.com/product/348024/CCCBMG-MOON-92-Dark-Moon-Marching'
@@ -3035,14 +3175,14 @@
     - pdf
 
 
-- code: CCC-BMG-MOON9-3
+- code: CCC-BMG MOON9-3
   name: Dark Moon Bound
   description: >-
     The characters need to recruit a cleric of Valkur to help them defeat the
     shadow army before the firbolg shaman and his minions rout the army of
     Norland with their spells of fear and terror. Will the characters persuade
     the cleric to assist them and return to the battlefield in time for Valkur
-    to aid them all? Part Three of the *Dark Moon* trilogy.
+    to aid them all?
   released: '2021-02-23'
   creator: Baldman Games
   url: 'https://www.dmsguild.com/product/348025/CCCBMG-MOON-93-Dark-Moon-Bound'
@@ -3078,13 +3218,13 @@
     - pdf
 
 
-- code: CCC-BMG-MOON10-1
+- code: CCC-BMG MOON10-1
   name: Whispers & Warnings
   description: >-
     The reach of the Shadowfell has come to Alaron! The Great Gark’s forces are
     intent on spreading the Howling Disease throughout the island, and the fey
     are in dire peril. Will you ride to their aid or will the shadow spread
-    across the land? Part One of *The Dark Tidings* trilogy.
+    across the land?
   released: '2021-05-10'
   creator: Baldman Games
   url: 'https://www.dmsguild.com/product/357308/CCCBMG-MOON-1001-Whispers--Warnings'
@@ -3120,12 +3260,12 @@
     - pdf
 
 
-- code: CCC-BMG-MOON10-2
+- code: CCC-BMG MOON10-2
   name: Shadows & Shrouds
   description: >-
     A new threat is gaining power over the moonwells of Alaron, and the druids
     of the Earthmother believe the best way to uncover the sinister plot is to
-    venture into the Shadowfell itself. Part Two of *The Dark Tidings* trilogy.
+    venture into the Shadowfell itself.
   released: '2021-05-10'
   creator: Baldman Games
   url: 'https://www.dmsguild.com/product/357309/CCCBMG-MOON-1002-Shadows--Shrouds'
@@ -3159,14 +3299,14 @@
     - pdf
 
 
-- code: CCC-BMG-MOON10-3
+- code: CCC-BMG MOON10-3
   name: Fortresses & Fortunes
   description: >-
     A mysterious force from the Shadowfell threatens the high seat of power in
     Alaron! With an army marching to the capital and enemies within Caer
     Callidyrr, the royal family places their trust in outsiders to root out the
     evil within before the enemies overwhelm the last free human kingdom of the
-    Moonshaes! Part Three of *The Dark Tidings* trilogy.
+    Moonshaes!
   released: '2021-05-10'
   creator: Baldman Games
   url: >-
@@ -3206,7 +3346,7 @@
     - pdf
 
 
-- code: CCC-BMG-MOON11-1
+- code: CCC-BMG MOON11-1
   name: A Darkened City
   description: >-
     Once brilliant Caer Callidyrr has darkened, and the Slain sits on the High
@@ -3247,7 +3387,7 @@
     - pdf
 
 
-- code: CCC-BMG-MOON11-2
+- code: CCC-BMG MOON11-2
   name: A Darkened Court
   description: >-
     The Court of the Slain at Caer Callidyrr holds many intrigues and even more
@@ -3289,7 +3429,7 @@
     - pdf
 
 
-- code: CCC-BMG-MOON11-3
+- code: CCC-BMG MOON11-3
   name: A Darkened Heart
   description: >-
     You have worked your way to the heart of the Darkened Court at Caer
@@ -3331,7 +3471,7 @@
     - pdf
 
 
-- code: CCC-BMG-MOON12-1
+- code: CCC-BMG MOON12-1
   name: Nothing Is Sacred
   description: >-
     The Moonshaes are plunged into shadow and with permission of High Lady
@@ -3350,7 +3490,7 @@
     - pdf
 
 
-- code: CCC-BMG-MOON12-2
+- code: CCC-BMG MOON12-2
   name: A Gift from the Queen
   description: >-
     With the fate of the Moonshaes held in the balance, the adventurer’s path
@@ -3390,7 +3530,7 @@
     - pdf
 
 
-- code: CCC-BMG-MOON12-3
+- code: CCC-BMG MOON12-3
   name: Tempest of Malice
   description: >-
     The key to severing the chains of the Slain is located at Tempest Keep, and

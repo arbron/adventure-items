@@ -26,32 +26,37 @@ struct Spreadsheet: Component {
                 TableRow {
                     Text(adventure.code)
                     Link(adventure.name, url: adventure.path)
-                    Text("\(adventure.length?.localizedStringValue ?? "—")")
-                    if let tier = adventure.tier {
-                        if (tier.count == 4) {
-                            Text(NSLocalizedString("All", bundle: Bundle.module, comment: "All Tiers"))
-                        } else {
-                            Text(tier.map(\.rawValue).joined(seperator: ", "))
-                        }
-                    } else {
-                        TableCell("—").class("missing")
-                    }
-                    NumberList(value: adventure.apl)
+                    MissingCell(adventure.length?.localizedStringValue)
+                    MissingCell(tierString(for: adventure))
+                    MissingCell(adventure.apl.map { $0.joined(seperator: ", ") })
                 }
             }
+        }
+    }
+
+    func tierString(for adventure: Adventure) -> String? {
+        guard let tier = adventure.tier else { return nil }
+
+        if (tier.count == 4) {
+            return NSLocalizedString("All", bundle: Bundle.module, comment: "All Tiers")
+        } else {
+            return tier.map(\.rawValue).joined(seperator: ", ")
         }
     }
 }
 
 
-struct NumberList<T>: Component {
-    let value: [T]?
-    var formatter: (T) -> String = { "\($0)" }
+struct MissingCell: Component {
+    var value: String?
+
+    init(_ value: String?) {
+        self.value = value
+    }
 
     @ComponentBuilder
     var body: Component {
         if let value = value {
-            Text(value.map(formatter).joined(seperator: ", "))
+            TableCell(value)
         } else {
             TableCell("—").class("missing")
         }

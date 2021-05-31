@@ -1,0 +1,1229 @@
+- code: CCC-TRI-01 YUL1-1
+  name: Into the Darkness
+  description: >-
+    As Faerûn recovers from the demon threat, a prominent leader goes missing.
+    Is this a simple rescue mission, or is there more at stake?
+  released: '2017-09-16'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/221775/CCCTRI01-Into-the-Darkness-Part-One-of-the-Yulash-Series'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Robe of Scintillating Colors
+      rarity: veryRare
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Flame Strike
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Heal
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Mass Suggestion
+      rarity: veryRare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Elanil’s Rage
+      description: |-
+        You were able to locate Elanil, but were unable to save the inhabitants
+        of Hilltop. The aberrants escaped with their treasure hoard and their
+        prisoners before you were able to encounter them. Elanil is upset with
+        you that you were not organized enough with your time or resources to
+        stop them in time.
+
+        Until you play in an adventure with Elanil and successfully complete a
+        faction mission, you have disadvantage on all charisma based ability
+        checks with all the factions. Once the extra renown is earned, remove
+        this story award.
+    - name: On the Right Track
+      description: >-
+        Your investigation into the disappearances at Hilltop have led you to
+        interesting discoveries, but there is more to this situation than you
+        had anticipated. What did Elanil stumble upon? This story award may have
+        an effect in **CCC-TRI-02** and other future adventures.
+    - name: Worse than the Slavers
+      description: >-
+        In your rush to defeat the slavers, you have killed some of the
+        prisoners. As a result, you are distrusted (and likely even hated) by
+        the residents of Hilltop. For as long as you possess this story award,
+        all of your Charisma (Deception or Persuasion) checks against a local of
+        Hilltop are made with disadvantage. Additionally, all prices for any
+        purchases or services in the shantytown are doubled.
+  missing:
+    - credits
+
+
+- code: CCC-TRI-02 YUL1-2
+  name: Impression Left Behind
+  description: >-
+    Elanil Elassidil’s successful recovery brings dire news, and only enough to
+    raise the fears of all. On the urgent request of the factions, a covert raid
+    party must be sent in to secure as much knowledge as possible, and destroy
+    whatever schemes lie below.
+  released: '2017-11-29'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/227696/CCCTRI02-Impression-Left-Behind-Part-Two-of-the-Yulash-Series'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Rod of Absorption
+      rarity: veryRare
+    - name: Potion of Vitality
+      rarity: veryRare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Harbinger of the Vast Gate
+      description: |-
+        The factions understand the difficulty of the task they asked, but
+        emotions are hard to quell. The Far Realm flesh-magic around the
+        illithid hive terrifies all, as nothing can currently penetrate it. You
+        have been nicknamed a “Harbinger of the Vast Gate” by those who know of
+        your failure, which is spreading by the day.
+  
+        As an aftereffect of almost being caught within, your body has been
+        twisted. Far Realm creatures target you first and foremost, wishing to
+        complete your transformation by killing you. Second, if you move to
+        another plane of existence besides the material plane, subtle physical
+        differences are seen. For example, a finger might become a tentacle, or
+        your shadow moves erratically behind you. These changes cannot confer
+        any mechanical bonuses. Those with *truesight* or other magical means
+        of seeing true forms will see your altered body regardless of your
+        current plane.
+    - name: Honorary Corps Member
+      description: >-
+        Xorack the beholder is in your debt, and the fight against the elder
+        brain Kszanzeth has made him respect you. He offers you a permanent
+        (secondary) position in the Mulmaster Beholder Corps! You will aid them
+        in battle, help them be treated with respect, and many other thing that
+        a lower ranking officer might do. In turn, they will come to your aid
+        when it is most convenient, and allow you to pick a slightly less
+        pompous title than their own. This might come into use in the future…
+  missing:
+    - credits
+
+
+- code: CCC-TRI-03 ROC1-1
+  name: Fences and Swords
+  description: >-
+    The Northern Moonsea region has recently been plagued by a mysterious pirate
+    ship, which is seemingly able to appear without warning and then simply
+    vanish. Instilling fear, and beginning to impact trade, those with vested
+    interests in the area need this thorn removed from their sides. First,
+    however, they must first discover where the mysterious ship calls home.
+  released: '2018-04-13'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/239621/CCCTRI03-Fences-and-Swords-Part-One-of-the-RocSlide-Series'
+  tier: 2
+  length: 2
+  apl: 7
+  items:
+    - name: Rod of Rulership
+      rarity: rare
+    - name: Potion of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 2
+  storyAwards:
+    - name: Capture!
+      description: |-
+        Characters captured or arrested during this adventure must spend 60
+        downtime days to free themselves from captivity, in addition to one of
+        the effects listed below:
+
+        | d6 | Effect | Notes |
+        | ------ | ------ | ------ |
+        | 1 | Greasing Palms | The character can bribe their way to freedom for 500 gold. If the character cannot afford this, roll another d6 and take that result. |
+        | 2 | Sold into Slavery | The character is sold into slavery, and branded with a small triangular face tattoo to mark this. Gains a trait of a strong dislike for slavery and empathy for those enslaved. |
+        | 3 | Impressment | The character is forced into naval service in Melvaunt as part of their sentence. The character picks up the coarse language and behavior of a sailor. |
+        | 4 | Hard Time | Prison almost psychologically breaks the character, but they emerge harder and more cynical, and is prone to sharing stories of his time behind bars. |
+        | 5 | Prison Break | Although it takes a long time, the character manages to orchestrate an elaborate prison break, gaining notoriety for their brazen escape. |
+        | 6 | Better Lucky than Good | Through a fortunate paperwork mishap, you are instead released from custody instead of placed into it. Some unfortunate soul suffers the opposite bad luck, and now hates you for life. |
+    - name: Friends in High Places
+      description: >-
+        Due to your savvy completion of Derlen’s task, you have begun to make a
+        name for yourself in the Moonsea region, and have gained a small bit of
+        favor with a member of the Lords’ Alliance. When playing adventures
+        published by The Role Initiative (TRI), you may gain advantage on a
+        Charisma-based skill check for an interaction involving a member of the
+        Lords’ Alliance, or a city, town, or other type of government official
+        in the Moonsea Region. This story award can be used once.
+  missing:
+    - credits
+
+
+- code: CCC-TRI-04 ROC1-2
+  name: Birds of a Feather
+  description: >-
+    The ship plaguing the Northern Moonsea region, Merchant Lords’ Folly, is
+    unable to hide anymore. Through coercion of their best fence, its current
+    port and owners have been located. Now is the chance to strike out, and
+    possibly acquire both the boat and its captains: The Teshwave Siblings.
+  released: '2018-04-14'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/239652/CCCTRI04-Birds-of-a-Feather-Part-Two-of-the-RocSlide-Series'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Wings of Flying
+      rarity: rare
+    - name: Spell Scroll of Dimension Door
+      rarity: rare
+      consumable: true
+      count: 2
+  storyAwards:
+    - name: Clipped Wings
+      description: >-
+        In the face of the Teshwave Sibling’s pleading, you have stayed the
+        course, either killing them or allowing the government of Melvaunt to
+        exact the same due. The funny thing with warlocks is that their patrons
+        tend to not allow them to lie dead for long…
+    - name: Let Caged Birds Free
+      description: >-
+        Taking pity or accepting their offer to repent, you have let the
+        Teshwave Siblings go free. Their boat taken from them, their future is
+        currently unknown. But make no mistake, they will make waves again.
+    - name: A Mermaid’s Request
+      description: >-
+        By chance and skill, you have saved the mermaid Almeta from merrow
+        attackers. She is forever grateful for this, and has extended an open
+        invitation to her underwater village for the foreseeable future.
+    - name: Mermaider
+      description: >-
+        Either by ill luck, or a lack of command, the mermaid Almeta has been
+        slain in front of you. Unknown to you, she was a leader of her village,
+        and the repercussions for her death at the hands of the ship will echo
+        through this area for some time.
+  missing:
+    - credits
+
+
+- code: CCC-TRI-05 NIGHT1-1
+  name: Hunt of Malar
+  description: >-
+    Mulmaster has seen better days, though it is slowly rebuilding with the help
+    of the Thayans, and anyone willing. Rumors have begun to spread of
+    farmsteads being ransacked, their owners being murdered for rituals of an
+    unknown source. Our heroes have been tasked with finding the source, but
+    what they uncover shows something far more sinister, and far more deadly.
+  released: '2018-11-06'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/258089/TRI-Nightmare-Series-Bundle'
+  tier: 2
+  length: 4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-TRI-06 NIGHT1-2
+  name: Haggard Heroes
+  description: >-
+    The Glacier of the White Worm’s innermost mysteries have always been
+    elusive, but with hag plans unfolding the glacier has taken a turn for the
+    worse. Adventurers must brave the ice and learn of experiments that bring an
+    ever-growing danger to Mulmaster, and the Moonsea at large.
+  released: '2018-11-06'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/258089/TRI-Nightmare-Series-Bundle'
+  tier: 2
+  length: 4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-TRI-07 NIGHT1-3
+  name: Beneath the Moonsea
+  description: >-
+    Trade to the city of Mulmaster has all been severed due to the destruction
+    of the Bay. Reconstruction has been hampered by the wrath of Umberlee. To
+    assuage her anger, a new shrine will need to be consecrated. This will
+    require the reclamation of the Kraken’s Tear, which was lost centuries ago
+    when Northkeep sank below the waves.
+  released: '2018-11-06'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/258089/TRI-Nightmare-Series-Bundle'
+  tier: 2
+  length: 4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-TRI-08 NIGHT1-4
+  name: Dreaful Wail
+  description: >-
+    Mulmaster scrambles to defend itself, as news spreads up the River Lys of a
+    fog‑like leviathan barreling towards them! The heroes must pull together any
+    available resources, and then repel this beast before it breaks the town and
+    any chance for a future.
+  released: '2018-11-06'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/258089/TRI-Nightmare-Series-Bundle'
+  tier: 2
+  length: 4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-TRI-09 BHC1-0
+  name: Tinhammer Falls
+  description: >-
+    A sleepy little mining town in the Dragonspine Mountains has enjoyed the
+    peace and quiet of their simple lives for decades. But despite his best
+    intentions, the arrival of a scholar seeking ancient treasures has disrupted
+    this community. A travelling band of adventurers is just what is needed to
+    set things right.
+  released: '2018-09-05'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/251688/CCCTRI09-Tinhammer-Falls-Prelude-to-the-Beholder-Corps-series'
+  tier: 1
+  length: 4
+  apl: 2
+  items:
+    - name: 'War Pick, +1'
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-TRI-10 BHC1-1
+  name: Contact
+  description: >-
+    A beholder tyrant ship crashed into the Dragonspine Mountains many years
+    ago. Three beholders survived and found a home in Mulmaster. A recent
+    archaeological dig may have discovered the crash site. The Mulmaster
+    Beholder Corps doesn’t want the ship’s secrets to fall into the hands of
+    someone who could use it for evil. Do you have what it takes to help the
+    Corps?
+  released: '2018-12-28'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/262639/CCCTRI10-Contact-Part-One-of-the-Beholder-Corps-Series'
+  tier: 3
+  length: 4
+  apl: 14
+  items:
+    - name: Dwarven Plate
+      rarity: veryRare
+    - name: Spell Scroll of Animate Dead
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Comprehend Languages
+      rarity: common
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Necromancer’s Spellbook
+      spells:
+        - name: false life
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: ray of sickness
+          level: 1
+        - name: blindness/deafness
+          level: 2
+        - name: ray of enfeeblement
+          level: 2
+        - name: web
+          level: 2
+        - name: animate dead
+          level: 3
+        - name: counterspell
+          level: 3
+        - name: vampiric touch
+          level: 3
+        - name: blight
+          level: 4
+        - name: dimension door
+          level: 4
+        - name: stoneskin
+          level: 4
+        - name: Bigby’s hand
+          level: 5
+        - name: cloudkill
+          level: 5
+        - name: circle of death
+          level: 6
+  storyAwards:
+    - name: Beholder Corps Cadet
+      description: >-
+        If you are already an honorary Corps member, the Beholder Corps promote
+        you to Cadet status. You are allowed to attend formal meetings as guard
+        and protector of the Beholder Corps. The Beholder Corps will treat you
+        as a sworn brother and will fight with you until the bitter end.
+    - name: Beholder Corps Ensign
+      description: >-
+        If you are already a Beholder Corps Cadet, you are promoted to the rank
+        of ensign within the Mulmaster Beholder Corps. In addition to your Cadet
+        bonus, you swear to follow the commands of Xorack, Xamott, and Xanshin
+        when battle breaks out. The Beholder Corps will grant you inspiration
+        whenever you do a mission for them.
+    - name: Beholder Corps Lieutenant
+      description: >-
+        If you are already a Beholder Corps Ensign, you are promoted to the rank
+        of Lieutenant within the Mulmaster Beholder Corps. In addition to your
+        Ensign bonus, if you are the highest-ranking Beholder Corps member in
+        the party, all other Beholder Corps members will follow your reasonable
+        commands when on a mission for The Beholder Corps.
+    - name: Honorary Corps Member
+      description: >-
+        The Beholder Corps is in your debt and offer you a permanent (secondary)
+        position in the Mulmaster Beholder Corps. You will aid the Corps in
+        battle, help them earn respect, and many other things a low-ranking
+        officer might do. In turn, the Beholder Corps will come to your aid when
+        it is most convenient, and allow you to pick a slightly less pompous
+        title than their own. This may come into use in the future…
+  missing:
+    - credits
+
+
+- code: CCC-TRI-11 OLMA1-1
+  name: Flooded Dreams
+  description: >-
+    With a hag coven bringing destruction and ruin to the city of Mulmaster, its
+    leaders send an expedition into the Flooded Forest to learn of its secrets.
+    Old notes speak of the coven’s original lair, but nothing can prepare the
+    expeditionary group for what they find.
+  released: '2018-12-31'
+  creator: The Role Initiative
+  url: >-
+    https://www.dmsguild.com/product/262922/CCCTRI11-Flooded-Dreams-Part-One-of-the-Olma-Series
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: 'Quarterstaff, +1'
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Inflict Wounds
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Under My Thumb
+      description: >-
+        The green hag Morgan Blightsower made a deal with you, to give you a
+        small amount of aid and information in exchange for her life. Having a
+        hag owing you a debt, even a minor one, is nothing to ignore, and she
+        will be certain to pay that debt as quickly as possible.
+  missing:
+    - credits
+
+
+- code: CCC-TRI-12 OLMA1-2
+  name: Ill Met in Ylraphon
+  description: >-
+    A behemoth threatens Mulmaster at the direction of a bheur hag named Auntie
+    Olma, but intelligence reveals that she has another sinister plot unfolding
+    at the same time. One of her agents has infiltrated nearby Ylraphon on a
+    mission to destabilize the town and weaken it in advance of a large attack.
+    The Lords of Mulmaster cannot defend both settlements at once. Can the
+    heroes reach Ylraphon and find the agent before she succeeds at her mission,
+    so that the forces of the town may rally to defend their homes?
+  released: '2018-12-31'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/262924/CCCTRI12-Ill-Met-in-Ylraphon-Part-Two-of-the-Olma-Series'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Quiver of Ehlonna
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Sending
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: See Me Again When You Are Worthy
+      description: >-
+        You encountered Lord Vor and successfully thwarted the attack of his
+        lieutenant on The Moonwater, thus earning a bit of a reputation among
+        villains in the region (intelligent undead, servants of the hags, etc.).
+        What this reputation will bring is so far unknown.
+  missing:
+    - credits
+
+
+- code: CCC-TRI-13 OLMA1-3
+  name: What Lies Beneath Ylraphon
+  description: >-
+    Chasing the mysteries of Auntie Olma has disturbed more powerful forces, and
+    the city of Ylraphon pays the price. Zombies, ghasts, and creatures even
+    more sinister tear up the streets. With Ylraphon in danger, adventurers must
+    push back the undead horde threatening it all!
+  released: '2018-12-31'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/262926/CCCTRI13-What-Lies-beneath-Ylraphon-Part-Three-of-the-Olma-Series'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Broom of Flying
+      rarity: uncommon
+    - name: Spell Scroll of Enlarge/Reduce
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Red Versus Blue
+      description: >-
+        Through the trust of Totha the Fierce, you now have a two-headed dragon
+        wyrmling pet, who is half red and half blue. It is the size of a small
+        house cat (use **cat** statistics from the Monster Manual) and cannot
+        participate in combat. It sometimes sneezes out little tufts of smoke or
+        a tiny bit of cold air, and the two heads are constantly looking for and
+        fighting over snacks. All things are snacks.
+      type: pet
+    - name: This Hangover’s Gonna Haunt You
+      description: |-
+        You drank from the mystery punch bowl, and a ghost possessed you. You
+        have a feeling you won’t experience a party this wild for a while, and
+        it’s a good thing because something’s…different. Roll 1d6 and use the
+        Possession Side Effects table to determine your character’s side effect.
+        This side effect can be removed through greater restoration.
+
+        | d6     | Side Effect                                                                |
+        | ------ | ------                                                                     |
+        | 1      | You talk to yourself in made up tongues.                                   |
+        | 2      | You are deathly afraid of the dark.                                        |
+        | 3      | Sudden loud sounds make you drop things.                                   |
+        | 4      | Your hair has turned shock white.                                          |
+        | 5      | You nervously wink at inappropriate times.                                 |
+        | 6      | You find yourself unable to shake the flaw of the ghost who possessed you. |
+  missing:
+    - credits
+
+
+- code: CCC-TRI-14 YUL1-3
+  name: The Voice in the Night
+  description: >-
+    A bizarre sea monster has been spotted near Hillsfar. Strange voices visit
+    people in their dreams. Zealots preach about the Great Old Ones’ return. Can
+    you find out the truth before the voice consumes everyone’s sanity?
+  released: '2018-06-29'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/245910/CCCTRI14-The-Voice-in-the-Night-Part-Three-of-the-Yulash-Series'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Staff of Striking
+      rarity: veryRare
+    - name: Potion of Supreme Healing
+      rarity: veryRare
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Armor of Agathys
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Blight
+      rarity: rare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-TRI-15 YUL1-4
+  name: The Dark of the Hive
+  description: >-
+    Strange events are occurring near the town of Yûlash—ground tremors
+    originating from an old mind flayer hive. Our heroes are asked to
+    investigate the old hive and determine the cause of the seismic activity,
+    but another pressing matter is revealed to them, too.
+  released: '2018-06-29'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/245914/CCCTRI15-The-Dark-of-the-Hive-Part-Four-of-the-Yulash-Series'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Tome of Leadership and Influence
+      rarity: veryRare
+    - name: Alchemist’s fire (flask)
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Potion of Climbing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Sunbeam
+      rarity: veryRare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-TRI-16 ALLY1-1
+  name: 'Ph’theev, the Despondent'
+  description: >-
+    A new trend is sweeping through the upper crust of Hillsfar nobility.
+    Private menageries—the more exotic the better—have begun popping up in
+    mansions and gardens around the city. However, recent reports of dangerous
+    monsters escaping captivity and attacking citizens have the Red Plumes
+    concerned. Where are these monsters coming from, how are they being
+    procured, and what threat might this pose?
+  released: '2018-09-17'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/252563/CCCTRI16-Phtheev-the-Despondent-Part-One-of-the-Psionic-Menace-Series'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Immovable Rod
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-TRI-17 ALLY1-2
+  name: 'Ph’theev, Unbound!'
+  description: >-
+    The flumph cloister is overjoyed to see its member returned, but warns of a
+    psionic menace that resides nearby, causing most other creatures to flee.
+    This menace is still in its infancy, and must be taken care of before it
+    poses a threat to the area-at-large. Your flumph friend must come with you
+    to sniff out the signs, so keep it safe!
+  released: '2018-09-17'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/252565/CCCTRI17-Phtheev-Unbound-Part-Two-of-the-Psionic-Menace-Series'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: 'Glaive, +1'
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-TRI-18 PAXE1-1
+  name: Pros & Cons
+  description: >-
+    Every 200 years, the famous Eastern Moonsea Adventuring Convention takes
+    place in the woods south of Elmwood. A who’s who of powerful adventurers,
+    wizards, and vendors gather at a magical convention hall to exchange
+    stories, goods, and wisdom. New adventurers often find themselves drawn to
+    this event, in search of fame, fortune, and most importantly, swag. Mischief
+    and intrigue, however, are afoot and new adventurers must answer the call.
+  released: '2018-09-17'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/252566/CCCTRI18-Pros--Cons-An-Original-Adventure-by-The-Role-Initiative'
+  tier: 1
+  length: 2
+  apl: 1
+  items:
+    - name: Wand of Conducting
+      rarity: common
+    - name: Potion of Climbing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Magic Stone
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Mark of Attendance
+      description: >-
+        This small, brightly colored metal pin marks the bearer as having
+        attended the famous Eastern Moonsea Adventuring Convention. While not
+        useful in a practical sense, it is highly coveted, and affords the
+        bearer bragging rights over peers without it.
+  missing:
+    - credits
+
+
+- code: CCC-TRI-19 DEAD1-1
+  name: Dead Men’s Tales
+  description: >-
+    A call for help is received from Abigail’s Cove: a fishing village located
+    just south of Hulburg. Recently, two moss-covered skeletons walked out of
+    the Moonsea and attacked the village. The villagers were able to defend
+    themselves, but they fear something worse may be coming as a thick and
+    ominous fog slowly rolls in from the Moonsea.
+  released: '2018-07-16'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/247439/CCCTRI19-Dead-Mens-Tales-Part-One-of-the-Dead-Men-Series'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: 'Shield of the Salty Griffon (Shield, +1)'
+      rarity: uncommon
+    - name: 'Coral Crossbow Bolts, +1'
+      rarity: uncommon
+      consumable: true
+      count: 3
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-TRI-20 YUL1-5
+  name: Breaking Yûlash
+  description: >-
+    The city of Yûlash is under siege. Can you and a small allied force break
+    the siege, save your allies, and discover who or what is behind the assault?
+  released: '2020-01-16'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/299817/CCCTRI20-Breaking-Yulash-Part-Five-of-the-Yulash-Series'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Wand of Polymorph
+      rarity: veryRare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Blight
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Fabricate
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Shots Fired
+      description: >-
+        You have committed an act of war against the Zhentarim by killing a spy
+        while working for First Lord Yestral. This story reward may come into
+        play in the future.
+  missing:
+    - credits
+
+
+- code: CCC-TRI-21 YUL1-6
+  name: The Rifts of Madness
+  description: >-
+    The vast power released by the destruction of a powerful gate connected to
+    the Far Realm created rifts in the fabric of the planes. Even worse, a foul
+    taint has begun permeating into the planes. Are you brave enough to face
+    what is lurking beyond the Rifts of Madness?
+  released: '2020-01-16'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/299821/CCCTRI21-The-Rifts-of-Madness-Part-Six-of-the-Yulash-Series'
+  tier: 3
+  length: 4
+  apl: 15
+  items:
+    - name: Kaorti Resin Armor (Scale Armor of Psychic Resistance)
+      rarity: rare
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Immolation
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Mass Healing Word
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Plane Shift
+      rarity: veryRare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-TRI-22 STORM1-1
+  name: On the Baron’s Trail
+  description: >-
+    Following the destruction of the Thunderbound and the Ark of the Mountains,
+    the cloud giant known as Baron Rajiram, remains at-large. A lead from the
+    Harpers has brought the party to the city of Hulburg in pursuit of one of
+    the Baron’s known accomplices. If they can locate his partner-in-crime, the
+    party will be a step closer to finally apprehending the Baron and bringing
+    him to justice.
+  released: '2019-05-31'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/277951/CCCTRI22-On-the-Barons-Trail-Part-One-of-the-Storm-Series'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Bag of Devouring
+      rarity: veryRare
+    - name: Potion of Longevity
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Sickening Radiance
+      rarity: rare
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Ozlo’s Spellbook
+      spells:
+        - name: dancing lights
+          level: 0
+        - name: mage hand
+          level: 0
+        - name: minor illusion
+          level: 0
+        - name: poison spray
+          level: 0
+        - name: alarm
+          level: 1
+        - name: color spray
+          level: 1
+        - name: disguise self
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: unseen servant
+          level: 1
+        - name: invisibility
+          level: 2
+        - name: mirror image
+          level: 2
+        - name: phantasmal force
+          level: 2
+        - name: glyph of warding
+          level: 3
+        - name: major image
+          level: 3
+        - name: phantom steed
+          level: 3
+        - name: phantasmal killer
+          level: 4
+  missing:
+    - credits
+
+
+- code: CCC-TRI-23 STORM1-2
+  name: Sub Rosa
+  description: >-
+    Hot on the trail of Selise Teshwave and Baron Rajiram, the adventurers must
+    enter newly exposed mountain excavations in the Galena mountains. Swift
+    action must be taken to prevent the Baron from obtaining a powerful weapon
+    from this ruin. Meanwhile, the mysterious Teshwave siblings, Abigail and
+    Char, are hot on the trail of their older sister.
+  released: '2019-05-27'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/277955/CCCTRI23-Sub-Rosa-Part-Two-of-the-Storm-Series'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: 'Studded Leather Armor, +2'
+      rarity: veryRare
+    - name: Potion of Invisibility
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Skill Empowerment
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Just Rewards
+      description: >-
+        You have handled the exploration of the ruins and the pursuit of the
+        baron and Selise with delicacy, ingenuity, and care. This may have a
+        benefit in a future adventure.
+    - name: Relentless
+      description: >-
+        Nothing could stand in your way from staying on the trail of The Baron
+        and Selise, and everything that tried to surely regrets it. This may
+        have a benefit in a future adventure.
+  missing:
+    - credits
+
+
+- code: CCC-TRI-24 STORM1-3
+  name: Knight Errand
+  description: >-
+    The fortress moves, slow yet inevitable in its trek across the land of Thar
+    towards the Sword Coast. On board are Baron Rajiram and his servant, Selise
+    of Teshwave, and the awoken defenses ready to keep the fortress afloat.
+    Prepare for the assault.
+  released: '2019-05-31'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/277957/CCCTRI24-Knight-Errand-Part-Three-of-the-Storm-Series'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Manual of Gainful Exercise
+      rarity: veryRare
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell scroll of Geas
+      rarity: rare
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Giant Spellbook
+      spells:
+        - name: thunder step
+          level: 3
+        - name: investiture of stone
+          level: 6
+        - name: whirlwind
+          level: 7
+  missing:
+    - credits
+
+
+- code: CCC-TRI-25 DEAD1-2
+  name: Dead Men’s Treasure
+  description: >-
+    A map with an “X marking the spot” has been found in a recently uncovered
+    tomb located in the small fishing village of Abigail’s Cove. The village’s
+    mayor has sent out a secret call to trusted adventurers; offering a split of
+    whatever treasure they can recover. Success means fortune for Abigail’s
+    Cove, its villagers, and the adventurers.
+  released: '2018-11-07'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/258129/CCCTRI25-Dead-Mens-Treasure-Part-Two-of-the-Dead-Men-Series'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Instrument of the Bards (Cli Lyre)
+      rarity: rare
+    - name: Potion of Climbing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Stinking Cloud
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-TRI-26 ROSE1-1
+  name: Touch the Stars
+  description: >-
+    A battle rages in the sky above the Monastery of the Yellow Rose between
+    illithid and githyanki, as a novice of the Yellow Rose carrying crucial
+    knowledge has disappeared. As the Monastery of the Yellow Rose braces itself
+    for the onslaught, you must use your wits and resources to find the missing
+    novice. Will you succeed in time to save the Order of the Yellow Rose?
+  released: '2020-03-23'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/305254/CCCTRI26-Touch-the-Stars-Part-One-of-the-Siege-of-the-Yellow-Rose'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Shadowneedle (Unbreakable Arrow)
+      rarity: common
+    - name: Shoes of the Glacier Walker (Boots of Striding and Springing)
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Cause Fear
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-TRI-27 ROSE1-2
+  name: In the Vault of Stars
+  description: >-
+    A battle rages in the sky above the Monastery of the Yellow Rose between
+    illithid and githyanki ships as shadowy shapes amass on the Glacier of the
+    White Worm. As the Monastery of the Yellow Rose braces itself for the
+    onslaught, you are sent onto the glacier in search of a secret githyanki
+    base and to discover if the appearance of dragons brings ominous portents.
+  released: '2020-03-23'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/305272/CCCTRI27-In-the-Vault-of-Stars-Part-Two-of-the-Siege-of-the-Yellow-Rose'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: 'Githyanki Greater Silver Sword (Silvered Greatsword, +2)'
+      rarity: rare
+  missing:
+    - credits
+
+
+- code: CCC-TRI-28 ROSE1-3
+  name: Siege of the Yellow Rose
+  description: >-
+    Beyond the Glacier of the White Worm lies the Monastery of the Yellow Rose.
+    High in the skies above the monastery, a battle rages between illithid and
+    githyanki. While others search the monastery and the glacier for clues, you
+    are asked to defend the monastery from those in the skies and on the ground.
+    Can you defend the monastery long enough for the clues to be uncovered?
+  released: '2020-03-23'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/305273/CCCTRI28-Siege-of-the-Yellow-Rose-Part-Three-of-the-Siege-of-the-Yellow-Rose-Series'
+  tier: 3
+  length: 4
+  apl: 14
+  items:
+    - name: Cosmic Chasuble (Robe of Stars)
+      rarity: veryRare
+  missing:
+    - credits
+
+
+- code: CCC-TRI-29 TIDE1-1
+  name: Tidefall
+  description: >-
+    Though the Elemental Cults failed in the Dessarin Valley and in Mulmaster,
+    fragments of their primordial cults still seek to destroy civilization. An
+    unlikely contact alerts the heroes to impending ruin in the city of Phlan.
+    Will the heroes be able to follow the ravings of a mad man to stop this
+    scheme, or will even more catastrophe be visited upon the City of Phlan?
+  released: '2019-05-28'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/278015/CCCTRI29-Tidefall'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: 'Dagger, +3'
+      rarity: veryRare
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-TRI-30 STEEL1-1
+  name: Remnants of a Dream
+  description: >-
+    Heroes of the Realms have risen to stand against several recent events. The
+    schemes of foul villains would have caused catastrophe across the lands of
+    Faerûn, had they not been thwarted. And although they were indeed
+    thwarted…there were those who escaped justice. Some of these remnants still
+    scheme, still desire to make their dreams of destruction reality. It is time
+    for new heroes to rise…
+  released: '2019-05-28'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/278016/CCCTRI30-Remnants-of-a-Dream'
+  tier: 1
+  length: 5x1
+  apl: 1
+  items:
+    - name: Cloak of Many Fashions
+      rarity: common
+  spellbooks:
+    - name: Traveling Spellbook
+      spells:
+        - name: absorb elements
+          level: 1
+        - name: burning hands
+          level: 1
+        - name: ice knife
+          level: 1
+        - name: continual flame
+          level: 2
+  storyAwards:
+    - name: Busted!
+      description: |-
+        A member of your party swiped something from the warehouse you were
+        supposed to guard. The magistrate found that you were all culpable for
+        the theft. Any payment for services rendered were reclaimed and the
+        group of you were thrown in jail.
+
+        Additionally, you now have a criminal record in Hillsfar. This may work
+        to your disadvantage in the future.
+    - name: “My Hewo! Have a cookie!”
+      description: >-
+        Katia, the young girl you rescued from the cultists now considers you
+        her hero and her “bestest friend.” Whenever you enter the docks of
+        Hillsfar, there is a 50% chance that the 5-year old will bound up to
+        you, and exclaim that “You! You my hewo! Have cookie?” and offer you one
+        of her gingerbread cookies.
+  missing:
+    - credits
+
+
+- code: CCC-TRI-31 TIME1-1
+  name: Out of Time
+  description: >-
+    Years ago, a young wizard looked out over the walls of his city and saw a
+    vision in the winds—a vision of fire, conquest and glory. Now, his hour of
+    destiny is at hand, and it may well spell disaster for the world. Can he be
+    stopped before it’s too late?
+  released: '2019-05-28'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/278017/CCCTRI31-Out-of-Time'
+  tier: 2
+  length: 4
+  apl: 7
+  items:
+    - name: Dimensional Shackles
+      rarity: rare
+    - name: Spell Scroll of Stone Shape
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Emnity of the Stouthammers
+      description: >-
+        There may have been extenuating circumstances, but your part in the
+        death of the Stouthammer garrison has earned you the enmity of their
+        clan. You are not welcome at the Everforge, and any Stouthammer dwarf
+        you meet will consider you a foe.
+    - name: Friends in Hot Places
+      description: >-
+        Your actions today have earned you the gratitude of a very powerful
+        creature. Should you ever find yourself back on the Elemental Plane of
+        Fire and visiting the City of Brass, you will be welcomed as a friend.
+  missing:
+    - credits
+
+
+- code: CCC-TRI-32 DAGGR1-1
+  name: Casks and Caskets
+  description: >-
+    The refugees of the Zhentarim Ghetto of Mulmaster have been abandoned by the
+    city and its Thayan supporters. Work is hard to find, and even harder to
+    accomplish as the everburning fires in the Ghetto continue unabated. It was
+    inevitable that unrest in the Ghetto would grow, finally drawing the
+    attention of the powers that be.
+  released: '2019-05-28'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/278018/CCCTRI32-Casks-and-Caskets-Part-One-of-the-DAGGR-Series'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Amulet of Proof Against Detection and Location
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 3
+  storyAwards:
+    - name: Known to the Daggers
+      description: >-
+        A member of the Daggers has seen your face and lived to report it to the
+        rest of his band. They will be on the lookout for you in the future.
+  missing:
+    - credits
+
+
+- code: CCC-TRI-33 DAGGR1-2
+  name: Matters of Life and Death
+  description: >-
+    A known gang from the refugee ghetto of Mulmaster wishes to make a statement
+    at an important function at the Thayan Embassy. A murder mystery
+    investigation is needed to catch this culprit, or the delicate peace between
+    the city and its Thayan supporters could be shattered!
+  released: '2019-05-28'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/278019/CCCTRI33-Matters-of-Life-and-Death-Part-Two-of-the-DAGGR-Series'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Ring of Mind Shielding
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-TRI-34 DEAD1-3
+  name: Rise of the Sea Dragon
+  description: |-
+    Old pirates tell an aged tale of a black dragon attacking merchant ships
+    sailing the Moonsea. The beast was slain, or so they thought. Recently,
+    merchant ships have been attacked, and they say the culprit was a black
+    dragon. The beast may fly away with a few victims, but it leaves the rest to
+    fend for themselves in the Moonsea.
+
+    Could this be the same creature from before? Can the adventurers slay the
+    dragon and bring peace to the waters of the Moonsea?
+  released: '2019-07-29'
+  creator: The Role Initiative
+  url: 'https://www.dmsguild.com/product/284078/CCCTRI34-Rise-of-the-Sea-Dragon-Part-Three-of-the-Dead-Men-Series'
+  tier: 2
+  length: 2-4
+  apl: 5
+  items:
+    - name: Candle of the Deep
+      rarity: common
+    - name: Trident of Warning
+      rarity: uncommon
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Mark of the Dead
+      description: |-
+        Either Abigail or Peaches explains that Captain Dread Red offers to
+        tattoo each party member with the mark of his crew (the symbol for this
+        adventure saga). If they agree, a jittering zombie with long, white
+        hair, a bulging and blind right eye, and a wooden peg leg staggers up to
+        them carrying a tattoo kit: a small hammer, a needle that resembles an
+        icepick, and a bottle of black ink.
+
+        The tattoo process isn’t painful, the design is clean, and it can be
+        placed anywhere on the body.
+
+        The Mark of the Dead may grant a character special conditions in future
+        Dead Men’s Tales adventures.
+  missing:
+    - credits

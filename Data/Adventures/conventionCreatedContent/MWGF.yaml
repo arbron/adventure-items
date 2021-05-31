@@ -1,0 +1,31 @@
+- code: CCC-MWGF-01
+  name: The Constellation
+  description: >-
+    Recently, residents of the Moonsea have been accosted by undead rising from
+    the depths of the waters. Not only lost pirates, but sea creatures, too. An
+    old fisherman’s recurring dream could lead to an ancient oracle and an
+    explanation. This is, if the party survives the journey.
+  released: '2019-12-20'
+  url: 'https://www.dmsguild.com/product/298336/CCCMWGF01-The-Constellation-Part-Four-of-the-Dead-Men-Series'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Necklace of Adaptation
+      rarity: uncommon
+    - name: Pole of Angling
+      rarity: common
+    - name: Potion of Resistance (Necrotic)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Star of the Deep
+      description: |-
+        The Constellation offers to brand each adventurer with a special sigil—a
+        large star.
+
+        To anyone else, the sigil looks like a normal tattoo. However, when you
+        look at it, you see the writhing and twisting tentacles of The Constellation.
+  missing:
+    - credits

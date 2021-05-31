@@ -14,6 +14,8 @@ struct Series: Codable, Hashable {
     var name: String
     @DecodableDefault.False var includesArticle: Bool
 
+    @DecodableDefault.EmptyString var type: String
+
     @DecodableDefault.EmptyString var description: String
 
     var adventures: [Entry]

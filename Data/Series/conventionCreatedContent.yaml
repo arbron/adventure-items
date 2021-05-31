@@ -1,5 +1,6 @@
 - slug: albatross-trilogy
   name: Albatross
+  type: trilogy
   adventures:
     - code: CCC-SEA-01-01
       position: 1
@@ -18,6 +19,44 @@
       position: 2
     - code: CCC-BFG-01-03
       position: 3
+
+
+- slug: beholder-corps
+  name: Beholder Corps
+  adventures:
+    - code: CCC-TRI-09 BHC1-0
+    # Prelude
+    - code: CCC-TRI-10 BHC1-1
+      position: 1
+
+
+- slug: daggers-of-lathander
+  name: Daggers of Lathander
+  adventures:
+    - code: CCC-TRI-32 DAGGR1-1
+      position: 1
+    - code: CCC-TRI-33 DAGGR1-2
+      position: 2
+
+
+- slug: dead-men
+  name: Dead Men
+  adventures:
+    - code: CCC-TRI-19 DEAD1-1
+      position: 1
+    - code: CCC-TRI-25 DEAD1-2
+      position: 2
+    - code: CCC-TRI-34 DEAD1-3
+      position: 3
+    - code: CCC-MWGF-01
+      position: 4
+
+
+- slug: fire-and-steel-resurgent
+  name: Fire and Steel Resurgent
+  adventures:
+    - code: CCC-TRI-30 STEEL1-1
+      position: 1
 
 
 - slug: the-heir-of-orcus
@@ -45,6 +84,39 @@
       position: 3
 
 
+- slug: nightmare
+  name: Nightmare
+  adventures:
+    - code: CCC-TRI-05 NIGHT1-1
+      position: 1
+    - code: CCC-TRI-06 NIGHT1-2
+      position: 2
+    - code: CCC-TRI-07 NIGHT1-3
+      position: 3
+    - code: CCC-TRI-08 NIGHT1-4
+      position: 4
+
+
+- slug: olma
+  name: Olma
+  adventures:
+    - code: CCC-TRI-11 OLMA1-1
+      position: 1
+    - code: CCC-TRI-12 OLMA1-2
+      position: 2
+    - code: CCC-TRI-13 OLMA1-3
+      position: 3
+
+
+- slug: psionic-menace
+  name: Psionic Menace
+  adventures:
+    - code: CCC-TRI-16 ALLY1-1
+      position: 1
+    - code: CCC-TRI-17 ALLY1-2
+      position: 2
+
+
 - slug: pumpkin-spiced-adventures
   name: Pumpkin Spiced Adventures
   adventures:
@@ -70,9 +142,58 @@
       position: 1
 
 
+- slug: rocslide
+  name: RocSlide
+  adventures:
+    - code: CCC-TRI-03 ROC1-1
+      position: 1
+    - code: CCC-TRI-04 ROC1-2
+      position: 2
+
+
+- slug: siege-of-the-yellow-rose
+  name: Siege of the Yellow Rose
+  adventures:
+    - code: CCC-TRI-26 ROSE1-1
+      position: 1
+    - code: CCC-TRI-27 ROSE1-2
+      position: 2
+    - code: CCC-TRI-28 ROSE1-3
+      position: 3
+
+
+- slug: storm-herald-trilogy
+  name: Storm Herald
+  type: trilogy
+  adventures:
+    - code: CCC-TRI-22 STORM1-1
+      position: 1
+    - code: CCC-TRI-23 STORM1-2
+      position: 2
+    - code: CCC-TRI-24 STORM1-3
+      position: 3
+
+
 - slug: when-shadows-fall
   name: When Shadows Fall
   adventures:
     - code: CCC-TCW-WSF-01
       position: 1
+
+
+- slug: yulash
+  name: Yûlash
+  adventures:
+    - code: CCC-TRI-01 YUL1-1
+      position: 1
+    - code: CCC-TRI-02 YUL1-2
+      position: 2
+    - code: CCC-TRI-14 YUL1-3
+      position: 3
+    - code: CCC-TRI-15 YUL1-4
+      position: 4
+    - code: CCC-TRI-20 YUL1-5
+      position: 5
+    - code: CCC-TRI-21 YUL1-6
+      position: 6
 

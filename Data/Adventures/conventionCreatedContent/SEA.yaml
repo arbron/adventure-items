@@ -1,0 +1,55 @@
+- code: CCC-SEA-01-01
+  name: All Good Dead Men
+  description: >-
+    Something treacherous has boarded the illustrious gambling ship the Albatross!
+    The fate of the ship and its passengers is at risk with only a handful of brave
+    adventurers to stand in the way. Will the adventurers stop this high-seas
+    skullduggery? Or will greed and treachery rule the tides?
+  released: '2020-08-03'
+  url: 'https://www.dmsguild.com/product/321022/CCCSEA0101-All-Good-Dead-Men'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-SEA-01-02
+  name: Oh, Not the Bees!
+  description: >-
+    The Albatross has an exciting and mysterious new attraction that’s sure to amaze
+    crowds of all ages! However, before the attraction can premiere, terrible sea
+    creatures board the ship and threaten the lives of the passengers and the crew.
+    Can a brave group of adventurers get this ship back on course? Or will the
+    Albatross be lost forever at the bottom of the sea?
+  released: '2020-08-03'
+  url: 'https://www.dmsguild.com/product/321024/CCCSEA0102-Oh-Not-the-Bees'
+  tier: 2
+  length: 2
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-SEA-01-03
+  name: Stargazing on the Albatross
+  description: >-
+    The Albatross has seen a few setbacks in its previous voyages, but that won’t
+    stop Dr. Jubal’s party boat! Captain Prince Glip Glop, the captain of the
+    Albatross, is paying adventurers handsomely to provide extra security for the
+    high-profile guests. What will you do when extraplanar party crashers show up
+    to ruin the fun?
+  released: '2020-08-03'
+  url: 'https://www.dmsguild.com/product/321025/CCCSEA0103-Stargazing-on-the-Albatross'
+  tier: 3
+  length: 4
+  apl: 13
+  missing:
+    - credits
+    - items
+    - pdf
+

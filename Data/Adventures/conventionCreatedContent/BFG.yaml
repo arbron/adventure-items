@@ -1,0 +1,84 @@
+- code: CCC-BFG-01-01
+  name: A House Divided
+  description: >-
+    A retired paladin’s disappearance and rumors of his manor being haunted
+    cause the local Temple of Selûne to hire adventurers to investigate. What
+    secrets does the manor hold?
+  released: '2020-08-07'
+  url: 'https://www.dmsguild.com/product/322127/CCCBFG0101-A-House-Divided'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Longsword of Warning
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-BFG-01-02
+  name: Secrets of the Moon
+  description: >-
+    A mysterious map hints at the gathering of sinister forces near Thentia. The
+    temple of Selûne fears that the cryptic map, and the strange artifact
+    discovered along with it, may signal involvement of the cult of Shar, and
+    hires adventurers to investigate.
+  released: '2020-08-07'
+  url: 'https://www.dmsguild.com/product/322163/CCCBFG0102-Secrets-of-the-Moon'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Deck of Illusions
+      rarity: uncommon
+    - name: Mystery Key
+      rarity: common
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-BFG-01-03
+  name: Dark Moon Return
+  description: >-
+    Cassius Valen has returned to Thentia as an agent of Shar and has taken a
+    powerful artifact that will power a vast teleportation network around the
+    Moonsea. Will the heroes answer the call and stop Cassius before he sets
+    Armageddon in motion?
+  released: '2020-07-22'
+  url: 'https://www.dmsguild.com/product/321328/CCCBFG0103-Dark-Moon-Return'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Javelin of Lighting
+      rarity: uncommon
+    - name: Potion of Gaseous Form
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Growth
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Defender of the Moon
+      description: >-
+        You aided the Temple of Selûne in Thentia by defeating agents of Shar
+        that threatened the entire Moonsea. The priests of the temple remember
+        your aide and honor your efforts. The temple will always be a safe
+        shelter for you.
+  missing:
+    - credits
+

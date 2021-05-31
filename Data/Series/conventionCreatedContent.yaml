@@ -1,3 +1,39 @@
+- slug: albatross-trilogy
+  name: Albatross
+  adventures:
+    - code: CCC-SEA-01-01
+      position: 1
+    - code: CCC-SEA-01-02
+      position: 2
+    - code: CCC-SEA-01-03
+      position: 3
+
+
+- slug: avatar-of-shar
+  name: Avatar of Shar
+  adventures:
+    - code: CCC-BFG-01-01
+      position: 1
+    - code: CCC-BFG-01-02
+      position: 2
+    - code: CCC-BFG-01-03
+      position: 3
+
+
+- slug: the-heir-of-orcus
+  name: The Heir of Orcus
+  includesArticle: true
+  adventures:
+    - code: CCC-AETHER-01-01
+      position: 1
+    - code: CCC-AETHER-01-02
+      position: 2
+    - code: CCC-ROLL20-02
+      position: 3
+    - code: CCC-AETHER-02-01
+      position: 4
+
+
 - slug: mischief-of-profiteering
   name: Mischief of Profiteering
   adventures:

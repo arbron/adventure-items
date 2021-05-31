@@ -1,0 +1,126 @@
+- code: CCC-MAG-01-01
+  name: Mischief at the Festival
+  description: >-
+    The annual Magic and Gold Festival in Thentia has begun! Come watch some
+    shows, eat some food, play some games, and solve a murder.
+  released: '2020-08-03'
+  url: 'https://www.dmsguild.com/product/318581/CCCMAG0101-Mischief-at-the-Festival'
+  tier: 1
+  length: 4x1
+  apl: 3
+  items:
+    - name: Potion of Growth
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Major Image
+      rarity: uncommon
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Dr. Dalathon’s Spellbook
+      spells:
+        - name: catapult
+          level: 1
+        - name: longstrider
+          level: 1
+        - name: alter self
+          level: 2
+        - name: darkvision
+          level: 2
+        - name: Maximilian’s earthen grasp
+          level: 2
+        - name: skywrite
+          level: 2
+        - name: tiny servant
+          level: 3
+        - name: water breathing
+          level: 3
+        - name: stone shape
+          level: 4
+  storyAwards:
+    - name: A Dapper Familiar
+      description: |-
+        Only a character with at least one level in warlock can gain this story
+        award.
+
+        You have made friends with Dapper the imp. If you have Pact of the Chain,
+        you can summon Dapper as your imp familiar (no mechanical changes from a
+        normal Pact of the Chain imp familiar). Dapper is a cheerful, three-eyed
+        imp who loves to eat, and she tries to lick everything at least once just
+        to see how it tastes. She is egotistical and self-aggrandizing, and once
+        summoned by a warlock, she insists that she is the master and the warlock
+        is her familiar.
+      type: familiar
+    - name: Moonsea Liberator
+      description: >-
+        You helped lead the Welbers, a family of escaped slaves from Melvaunt,
+        to safety out of Thentia. Because of your good deed, Edea Valkrana has
+        welcomed you into the Moonsea Liberation Society and given you a small
+        clay tile carved with the symbol of a pair of crossed feathers. Any
+        slave or abolitionist who sees this symbol recognizes you as an ally.
+  missing:
+    - credits
+
+
+- code: CCC-MAG-01-02
+  name: Murder at the Festival!
+  description: >-
+    A series of grisly murders threatens the festivities at the annual Magic and
+    Gold Festival in Thentia! Can your group of adventurers uncover the source
+    of the attacks and stop the murderer before they strike again?
+  released: '2020-08-03'
+  url: 'https://www.dmsguild.com/product/320871/CCCMAG0102-Murder-at-the-Festival'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Bag of Tricks (Tan)
+      rarity: uncommon
+    - name: Wand of Smiles
+      rarity: common
+    - name: 'Arrow, +2'
+      rarity: rare
+      consumable: true
+      count: 3
+  storyAwards:
+    - name: Enmity of Etana
+      description: >-
+        You have caught the attention of Etana, a powerful wizard from the
+        future that becomes a Lich. Making enemies you haven’t met yet is never
+        a good idea.
+  missing:
+    - credits
+
+
+- code: CCC-MAG-01-03
+  name: The Clock that Didn’t Tick
+  description: >-
+    Disappearing shipments, missing alchemists—and proven musical acts whose
+    rehearsals sound terrible! Instead of showing off Thentia to potential
+    trading partners and giving the locals something to celebrate, the pall over
+    this year’s Magic and Gold Festival threatens to drive business to Melvaunt
+    and give the locals a reason to riot.
+  released: '2020-07-20'
+  url: 'https://www.dmsguild.com/product/320986/CCCMAG0103-The-Clock-that-Didnt-Tick'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Cape of the Mountebank
+      rarity: rare
+    - name: Elixir of Health
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Vitality
+      rarity: veryRare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+

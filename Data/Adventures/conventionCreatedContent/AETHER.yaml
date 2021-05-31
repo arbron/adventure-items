@@ -1,0 +1,125 @@
+- code: CCC-AETHER-01-01
+  name: 'The Heir of Orcus: Verse I'
+  description: >-
+    The Mafisto Twins are seeking brave adventurers to “rescue” a lost Angel of
+    Tyr from the Temple of Orcus, are you brave enough to answer the call? Think
+    quick and act fast or you might just find yourself dead in a ditch down by
+    the river as the rest of your party feasts in Mafisto Manor.
+  released: '2018-11-13'
+  url: 'https://www.dmsguild.com/product/258606/CCCAETHER0101-The-Heir-of-Orcus-Verse-I'
+  tier: 1
+  items:
+    - name: Helm of Comprehend Languages
+      rarity: uncommon
+    - name: Spell Scroll of Absorb Elements
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Comprehend Languages
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Cultist of Zariel
+      description: >-
+        Sacrificing Ser Gertz has earned you the favor of the Archdevil Zariel.
+        Go forth and recruit more souls in the name of Zariel!
+    - name: Knight of Holy Judgment
+      description: >-
+        You are now a member of the Knights of Holy Judgment! As a Knight of
+        Holy Judgment you swore a solemn oath to uphold justice, hunt down the
+        wicked, and serve as a stalwart guardian against devils and demons. May
+        Tyr guide you as you devote yourself to the cause of justice, to the
+        righting of wrongs, and to the deliverance of vengeance!
+  missing:
+    - credits
+
+
+- code: CCC-AETHER-01-02
+  name: 'The Heir of Orcus: Verse II'
+  description: >-
+    Join the Mafisto Twins or Knights of Holy Judgement as you attempt to rescue
+    Ser Vindictus, the legendary Angel of Tyr from the Temple of Orcus.
+  released: '2018-11-13'
+  url: 'https://www.dmsguild.com/product/258619/CCCAETHER0102-The-Heir-of-Orcus-Verse-II'
+  tier: 1
+  items:
+    - name: Dread Helm
+      rarity: common
+    - name: Mariner’s Armor (Breastplate)
+      rarity: uncommon
+  storyAwards:
+    - name: Chosen One
+      description: |-
+        Characters who sided with Chaos receive this story award when the
+        complete this adventure.
+
+        Something beckons you…you never feel alone even when you physically are…something or someone is watching, forever waiting. You have become a chosen one!
+    - name: Rising Through the Ranks
+      description: >-
+        Characters gain this story award if they sided with the Knights of Holy
+        Judgement or the Cult of Zariel: Your service has not gone unnoticed;
+        your “side” offers you a permanent room and free food at their
+        headquarters featured in throughout *The Heir of Orcus* storyline.
+  missing:
+    - credits
+
+
+- code: CCC-AETHER-02-01
+  name: 'The Heir of Orcus: Verse IV'
+  description: >-
+    Agents have uncovered several cells of the Cult of the Heir in the Moonsea
+    region. Plan and lead an elite operation to eliminate the cells, but
+    beware…one wrong choice might lead to certain death.
+  released: '2020-02-18'
+  url: 'https://www.dmsguild.com/product/301681/The-Heir-of-Orcus-Verse-IV-CCCAETHER0201'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Candle of the Deep
+      rarity: common
+    - name: Hat of Disguise
+      rarity: uncommon
+    - name: Potion of Giant Strength (Hill)
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Death to the Heir!
+      description: >-
+        Your planning and mission were flawlessly executed! You dealt a
+        significant blow to the Cult of the Heir this day . With the information
+        you collected you can immediately begin seeking out hidden cells to
+        destroy whatever remains of the Cult of the Heir.
+    - name: 'Game Over Man, Game Over!'
+      description: >-
+        Your mission is a failure. The forces of good sustained high levels of
+        casualties and the Cult of the Heir successfully thwarted your goals.
+  missing:
+    - credits
+
+
+- code: CCC-AETHER-02-03
+  name: One Step Ahead
+  description: >-
+    Have you been on an adventure? Gained a single level in a character class?
+    Congratulations, that means you are fully qualified to be a teacher at
+    Quickstep Academy, the Sword Coast's best, ~~newest~~, ~~shiniest~~, uhh…
+    **most welcoming** school for new adventurers. Seriously, we take everyone!
+    The only problem is someone took our headmaster Nora Quickstep! Can you find
+    her before most of the students and other teachers notice?
+  released: '2020-11-03'
+  url: 'https://www.dmsguild.com/product/334544/CCCAETHER0203-One-Step-Ahead'
+  tier: 1
+  length: 2-4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+

@@ -5,7 +5,7 @@
         "description": "The brokers of Salvation pay good coin for artifacts scavenged from the haunted battlefields of the Mournland. In this nest of cutthroats, daring explorers gather to carve their destinies from the ruins of Cyre. They’ll need all the help they can get: it’s no secret that most scavengers don’t survive their first expedition in the Gray. The first adventure in the four-part *Spoils of War* storyline.",
         "released": "2019-12-02",
         "url": "https://www.dmsguild.com/product/296403/EB01-The-Night-Land",
-        "tier": [1],
+        "tier": 1,
         "length": 4,
         "apl": 1,
         "credits": [
@@ -74,7 +74,7 @@
         "description": "The brokers of Salvation pay good coin for artifacts scavenged from the haunted battlefields of the Mournland. In this nest of cutthroats, daring explorers gather to carve their destinies from the ruins of Cyre. The adventurers head deep into the Mournland to rescue a missing salvage team. In the heat of battle, they unearth a strange device from the ruins: the Oracle of War. This machine knows all the secrets they need to overcome their enemies—if only the adventurers can figure out how to operate it! The second adventure in the four-part *Spoils of War* storyline.",
         "released": "2020-01-07",
         "url": "https://www.dmsguild.com/product/299680/EB01-Voice-in-the-Machine",
-        "tier": [1],
+        "tier": 1,
         "length": 4,
         "apl": 2,
         "credits": [
@@ -139,7 +139,7 @@
         "description": "On their way back to Salvation, the adventurers are ambushed by a large force of undead and forced to seek shelter in a ruined cottage. As the dead close in from all sides, the survivors turn to the Oracle of War for a lifeline. Only this time, things don’t play out as expected… The third adventure in the four-part *Spoils of War* storyline.",
         "released": "2020-02-04",
         "url": "https://www.dmsguild.com/product/302373/EB03-Where-the-Dead-Wait",
-        "tier": [1],
+        "tier": 1,
         "length": 4,
         "apl": 3,
         "credits": [
@@ -226,7 +226,7 @@
         "description": "The Oracle of War has been recovered from the Mournland. Its creators respond by activating the third protocol, an instruction to recover the device and eliminate all who know of its existence. As night falls, a posse of assassins step off the lightning rail with orders to raze Salvation to the ground and retrieve the Oracle.\n\n The final adventure in the four-part *Spoils of War* storyline.",
         "released": "2020-03-01",
         "url": "https://www.dmsguild.com/product/305024/EB04-The-Third-Protocol",
-        "tier": [1],
+        "tier": 1,
         "length": 4,
         "apl": 4,
         "credits": [
@@ -343,7 +343,7 @@
         "description": "The adventurers seek out a trusted sage of Morgrave University to help them unlock the mysteries of the Oracle of War, but their studies risk upsetting powerful forces. Morgrave is said to be a beacon of knowledge shining from the city’s tallest towers, yet the adventurers soon learn that it can also be a deep pit of corruption.",
         "released": "2020-05-04",
         "url": "https://www.dmsguild.com/product/312336/EB05-A-Century-of-Ashes",
-        "tier": [2],
+        "tier": 2,
         "length": 4,
         "apl": 5,
         "credits": [
@@ -450,7 +450,7 @@
         "description": "Guided by prophecy, the adventurers seek out a spy operating in the heart of Wroat’s Royal Court. The Oracle of War has linked him to a great turning point in Khorvaire’s future, but he’s embedded in deep cover and difficult to reach. Thankfully, every agent has a weak link, and love is blind.",
         "released": "2020-06-03",
         "url": "https://www.dmsguild.com/product/316059/EB06-The-Last-Word",
-        "tier": [2],
+        "tier": 2,
         "length": 4,
         "apl": 6,
         "credits": [
@@ -557,7 +557,7 @@
         "description": "The orphan Sky Blue lives with her awakened seagull companion in the eaves of Sharn’s highest buildings and survives by stealing scraps from the tables of the city’s nobility. According to the Draconic Prophecy, this humble thief is destined to guide Breland’s future. The adventurers must get to her before her rivals—if they can catch her!",
         "released": "2020-07-06",
         "url": "https://www.dmsguild.com/product/319657/EB07-Song-of-the-Sky",
-        "tier": [2],
+        "tier": 2,
         "length": 4,
         "apl": 7,
         "credits": [
@@ -677,7 +677,7 @@
         "description": "On the edge of the Mournland, tensions are rising between the frontier folk and renegade warforged loyal to the Lord of Blades. When salvage workers start to go missing, the Brelish army sends the adventurers into the Mournland to mount a rescue. The first in a trilogy of adventures, the *Dogs of War* storyline.",
         "released": "2020-08-03",
         "url": "https://www.dmsguild.com/product/322749/EB08-Parliament-of-Gears",
-        "tier": [2],
+        "tier": 2,
         "length": 4,
         "apl": 8,
         "credits": [
@@ -794,7 +794,7 @@
         "description": "When word reaches Breland that the Lord of Blades is plotting an attack, the outpost of Salvation becomes the first line of defense. In preparation for war, the Brelish army enlists the adventurers to secure the outpost, serving under the vainglorious General Karol Tyresh; a buffoon known to his troops as “Lord Bucket.” The second in a trilogy of adventures, the *Dogs of War* storyline.",
         "released": "2020-09-01",
         "url": "https://www.dmsguild.com/product/326339/EB09-Lord-Bucket",
-        "tier": [2],
+        "tier": 2,
         "length": 4,
         "apl": 9,
         "credits": [
@@ -875,7 +875,7 @@
         "description": "The Brelish army advances into the Mournland in a doomed assault on the enclave of the Lord of Blades. A massacre is almost guaranteed—but the adventurers have other goals in mind. Amid the horror of war, they attempt to spring the artificer Sulring Mroranon from his prison. The third in a trilogy of adventures, the *Dogs of War* storyline.",
         "released": "2020-10-07",
         "url": "https://www.dmsguild.com/product/331083/EB10-Judgment-of-Iron",
-        "tier": [2],
+        "tier": 2,
         "length": 4,
         "apl": 10,
         "credits": [
@@ -983,7 +983,7 @@
         "description": "High above Karrnath, the adventurers present the Oracle of War to the Institute of the Twelve. The dragonmarked houses promise security, but dead eyes are watching from the dark. In this nation of storms, the drums of war are beating again. The first in a trilogy of adventures, the *Drums of War* storyline.",
         "released": "2020-12-01",
         "url": "https://www.dmsguild.com/product/337947/EB11-My-Undying-Heart",
-        "tier": [3],
+        "tier": 3,
         "length": 4,
         "apl": 11,
         "credits": [
@@ -1084,7 +1084,7 @@
         "description": "Narcy of Xandrar offers safe haven in the towers of Arcanix, but even she can’t foresee the coming storm. Across the centuries, dead hands move their puppets in a grand conspiracy to control the Draconic Prophecy. They predicted the Oracle of War’s creation, and now their agents lie in wait for the day they can seize it for themselves. That day is today. This is the second in a trilogy of adventures, the *Drums of War* storyline.",
         "released": "2021-01-05",
         "url": "https://www.dmsguild.com/product/342451/EB12-The-Waiting-Game",
-        "tier": [3],
+        "tier": 3,
         "length": 4,
         "apl": 12,
         "credits": [
@@ -1163,7 +1163,7 @@
         "description": "The light of the Silver Flame shields all who bathe in its glory, but also casts deep shadows. When heretics in the fortress city of Flamekeep emerge from the dark, the Cathedral of the Silver Flame becomes the last bastion in a citywide conflict. This is the third in a trilogy of adventures, the *Drums of War* storyline.",
         "released": "2021-01-25",
         "url": "https://www.dmsguild.com/product/344584/EB13-Stonefire",
-        "tier": [3],
+        "tier": 3,
         "length": 4,
         "apl": 13,
         "credits": [
@@ -1272,7 +1272,7 @@
         "description": "Deep beneath Metrol, the Order of the Emerald Claw is excavating the ruins of a haunted daelkyr sanctuary. Sulring Mroranon knows a sage who can provide vital information about the dig site, but there’s a catch—they’ve not been seen for over a century. This is the first in a trilogy of adventures, the *Engines of War* storyline.",
         "released": "2021-03-09",
         "url": "https://www.dmsguild.com/product/349669/EB14-From-Dust",
-        "tier": [3],
+        "tier": 3,
         "length": 4,
         "apl": 14,
         "credits": [
@@ -1396,7 +1396,7 @@
         "description": "Across Eberron, the spirits of the dead stir as the Order of the Emerald Claw draws back the veil to Dolurrh. To avert calamity, the adventurers must cut a deal with an infamous bonecaster of the Talenta Plains—the Dream Eater—and her pack of loyal tyrannosaurs. This is the second in a trilogy of adventures, the *Engines of War* storyline.",
         "released": "2021-04-06",
         "url": "https://www.dmsguild.com/product/352879/EB15-Dream-Eater",
-        "tier": [3],
+        "tier": 3,
         "length": 4,
         "apl": 15,
         "credits": [
@@ -1482,7 +1482,7 @@
         "description": "In the depths of Valaara’s sanctuary, the Order of the Emerald Claw harnesses ancient engines of destruction to wage war on the surface world. Only the Oracle of War can stop them now—if the adventurers can get it to work! This is the third in a trilogy of adventures, the *Engines of War* storyline.",
         "released": "2021-05-03",
         "url": "https://www.dmsguild.com/product/356496/EB16-The-Dragon-Below",
-        "tier": [3],
+        "tier": 3,
         "length": 4,
         "apl": 16,
         "credits": [
@@ -1581,7 +1581,7 @@
         "description": "In this epic event, Cultists of the Emerald Claw reanimate a warforged colossus from the battlefields outside Salvation and turn it against the outpost. The scavengers in town must work together to disable the titan limb-by-limb and save the outpost from annihilation. They are aided throughout by the Oracle of War, which provides vital tactical advice alongside cryptic verses from the Draconic Prophecy.",
         "released": "2020-04-07",
         "url": "https://www.dmsguild.com/product/308553/EBEP01-The-Iron-Titan",
-        "tier": [1],
+        "tier": 1,
         "length": 3,
         "apl": 4,
         "credits": [
@@ -1710,7 +1710,7 @@
         "description": "In this Epic event, the adventurers infiltrate the royal lightning rail train to steal a ledger belonging to the king’s brother, Kor ir’Wynarn. With war brewing between Breland and Thrane, Lord Kor rides north to Sword Keep to defend the border—but scheming forces intend to strike him down before he gets there.",
         "released": "2020-11-10",
         "url": "https://www.dmsguild.com/product/335587/EBEP02-Rolling-Thunder",
-        "tier": [2],
+        "tier": 2,
         "length": 4,
         "apl": 8,
         "credits": [

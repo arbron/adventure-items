@@ -118,7 +118,7 @@
         "name": "City of Danger",
         "description": "On the southern shores of the Moonsea, the residents of Mulmaster have eked out a living where others would likely have given up long ago—in a bleak city where corruption is rampant and the Church of Bane holds sway. In these five short, introductory adventures, you will travel the breadth of the City of Danger, meet its people, see its sights, and witness firsthand how the city truly has earned its ominous moniker.",
         "released": "2015-04-01",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Potion of Healing",
@@ -157,7 +157,7 @@
         "name": "Embers of Elmwood",
         "description": "A derelict raft drifts into Mulmaster’s harbor carrying a young woman. Delirious with hunger, the only words she seems able to speak so far have been “ash and fire.” The only other clue to her identity is an ornate tattoo. Is the woman insane, or is something nefarious at play?",
         "released": "2015-04-01",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Staff of Charming",
@@ -182,7 +182,7 @@
         "name": "The Drowned Tower",
         "description": "You are approached by someone claiming to be a member of the Brotherhood of the Cloak investigating unusual incidents involving some of his brethren. Discretion is vital, as there is rumored to be a link between the denizens of the Tower of Arcane Might and one of the elemental cults. Can you uncover the truth?",
         "released": "2015-04-01",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Trident of Warning",
@@ -213,7 +213,7 @@
         "name": "Mayhem in the Earthspur Mines",
         "description": "Riddled with veins of precious ore and gem, the Earthspur Mountains to the west have long been a valuable resource for anyone able to mine them. One such mine has gone silent and the only thing more concerning than its long overdue shipment is the fate of the members of the Soldiery sent to discover what has happened to the mine’s workers. Though the mine lay in a region of the Mountains once claimed by a clan of reclusive dwarves, the Ludwakazar clan wouldn’t be so bold as to violate their long-standing peace with Mulmaster. Or would they?",
         "released": "2015-04-01",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Belt of Dwarvenkind",
@@ -244,7 +244,7 @@
         "name": "Flames of Kythorn",
         "description": "During a summer drought, Mulmaster is threatened by a series of arson attacks. As the populace riots, accusations fly blaming Thayans, residents of the ghettos, rowdy sailors, the refugees from Phlan and dozens of others. Can you solve the mystery before the city burns?",
         "released": "2015-05-01",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Brooch of Shielding",
@@ -257,7 +257,7 @@
         "name": "Breath of the Yellow Rose",
         "description": "The monks of the Monastery of the Yellow Rose have long cloistered themselves in their home atop the Earthspur Mountains, practicing their strange lifestyle which is rumored to give them longevity. Now, their dietary restrictions and practices of breath control have become the fashion amongst the well-to-do of Mulmaster. But when a few of these lay practitioners start dropping dead from suffocation and starvation, others start to question the validity of the monks’ claims. Is this simply a deadly ignorance, or is there a fell wind blowing through the rich and powerful of Mulmaster?",
         "released": "2015-05-01",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Ring of Mind Shielding",
@@ -282,7 +282,7 @@
         "name": "Bounty in the Bog",
         "description": "The Soldiery has grown weary of dealing with a particularly nettlesome band of miscreants who have holed up in the Flooded Forest to the south. And so, you have been called upon to quell their activities so that trade along the North Road can resume unmolested. However, in so doing, the truth behind their activities reveal that much more than simple banditry is at hand. Will you be able to stop it?",
         "released": "2015-05-01",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Ring of Water Walking",
@@ -334,7 +334,7 @@
         "name": "Foulness Beneath Mulmaster",
         "description": "The sewers beneath Mulmaster have always been dangerous, with countless stories of brigands, murderers, and worse that lurk beneath the streets of the City of Danger. But those stories pale in comparison to a new threat under Mulmaster, one brought to light by a strange and disturbing corpse recently found. It is up to you to learn the terrifying truth of what lurks below.",
         "released": "2015-06-01",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Rod of the Pact Keeper, +1",
@@ -353,7 +353,7 @@
         "name": "Eye of the Tempest",
         "description": "A storm of unparalleled fury has been ravaging the peaks of the Earthspur Mountains for a tenday, and the Monastery of the Yellow Rose sits in its eye for now. Some monks have fled the monastery to the safety of Mulmaster and beseech you to convince their more obstinate brothers to retreat to the city before the eye of the storm shifts, and the monestary is in terrible danger. Can you brave the elements and convince the monks to escape?",
         "released": "2016-01-11",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Figurine of Wondrous Power (Serpentine Owl)",
@@ -384,7 +384,7 @@
         "name": "Cloaks and Shadows",
         "description": "The Cloaks of Mulmaster have taken an interest in your progress, and may be looking to sponsor adventurers for future work. You’ve been offered an interview with one of their ranking members at the Theater of the Stars, but you never know what to expect in the City of Danger.",
         "released": "2015-07-01",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Winged Boots",
@@ -423,7 +423,7 @@
         "name": "Oubliette of Fort Iron",
         "description": "When Fort Iron was taken from the duergar who inhabited it, much of their subterranean quarters were never fully explored. An ancient oubliette has been discovered and its contents have disturbed the miners. Can the mine and the miners be saved from the dangers of the Oubliette of Fort Iron?",
         "released": "2015-07-01",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Battle Axe, +1",
@@ -454,7 +454,7 @@
         "name": "Dark Rites at Fort Dalton",
         "description": "Fort Dalton along the River Lis was long ago destroyed. Now rumors tell of foul cults practicing their dark rites within the fort’s ruins. Are the rumors of elemental cults true or are the rumors a cover for some other sinister plot?",
         "released": "2015-07-01",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Sentinel Shield",
@@ -497,7 +497,7 @@
         "name": "The Howling Void",
         "description": "A storm of unparalleled fury has been ravaging the peaks of the Earthspur Mountains for a tenday, and the Monastery of the Yellow Rose sits in its eye for now. Some monks have fled the monastery to the safety of Mulmaster and beseech you to convince their more obstinate brothers to retreat to the city before the eye of the storm shifts, and the monestary is in terrible danger. Can you brave the elements and convince the monks to escape?",
         "released": "2015-06-01",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Balloon Pack",
@@ -526,7 +526,7 @@
         "name": "The Sword of Selfaril",
         "description": "The fabled sword of Selfaril is told to bestow wisdom and power upon whomever wields it, so naturally its discovery has caused quite a stir in Mulmaster. All of this is complicated when a masked benefactor claims to not only know the truth about the blade, but also how it can be used to benefit the oppressed people of Mulmaster. Can it truly change Mulmaster for the better?",
         "released": "2015-08-01",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "The Wall of Teeth (Shield, +2)",
@@ -575,7 +575,7 @@
         "name": "Black Heart of Vengeance",
         "description": "Aleyd Burral, the Risen Hero of Phlan has sounded the call to battle! Intent on retaking her home of Phlan, Aleyd has amassed a surprising amount of support from the citizenry of Phlan, including that of the High Blade himself. But as lofty as her goals might be, the honor-bound warrior seems willing to sacrifice much in her quest—including everything she once stood for.",
         "released": "2015-08-01",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Sword of Wounding (Greatsword)",
@@ -600,7 +600,7 @@
         "name": "Boltsmelter’s Book",
         "description": "A dwarven expedition has stopped in Mulmaster for much-needed supplies. Furgis Boltsmelter, their founder and leader, is looking for some “no questions asked” protection for the duration of his stay in the city. Whatever he is trying to protect may not stay hidden for long. Can you keep his secret treasure out of the wrong hands?",
         "released": "2015-08-01",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Medallion of Thoughts",

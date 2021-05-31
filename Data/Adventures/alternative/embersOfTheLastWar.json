@@ -5,7 +5,7 @@
         "description": "Sharn, City of Towers. They reach into the sky like the stone fingers of civilization that they are. They hold secrets and promises, and break the same just as quickly as they make new ones. You’ve got an opportunity to make a little coin by assisting with an expedition for Morgrave University; this should be easy money and not a lot of trouble… right?",
         "released": "2018-09-21",
         "url": "https://www.dmsguild.com/product/248589/DDALELW00-Whats-Past-is-Prologue",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -14,7 +14,7 @@
         "description": "On a dark and stormy night, the characters discover a dead body in Sharn’s wealthiest district… just as the Sharn Watch arrives! To clear their names, the characters must hunt the real killer through the mean streets of the City of Towers.",
         "released": "2018-09-21",
         "url": "https://www.dmsguild.com/product/252925/DDALELW01-Murder-in-Skyway",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -23,7 +23,7 @@
         "description": "The trail of a stolen letter leads the characters to an extravagant party thrown by Sharn’s most powerful criminal family. At this ball, the wrong dance step means death!",
         "released": "2018-10-01",
         "url": "https://www.dmsguild.com/product/253783/DDALELW02-Boromar-Ball",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -32,7 +32,7 @@
         "description": "To crack a secret code, the characters trace the gnome who formulated the cipher. When they learn he’s been imprisoned in a high-security compound, they launch the jailbreak of the century to bust him out.",
         "released": "2018-10-12",
         "url": "https://www.dmsguild.com/product/254691/DDALELW03-The-Cannith-Code",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -41,7 +41,7 @@
         "description": "Caught between House Phiarlan and a criminal syndicate, the characters delve into the city’s underworld to discover who’s hiring killers for their dirty work. Things get out of control fast–and what could be faster than a high-speed lightning rail?",
         "released": "2018-10-18",
         "url": "https://www.dmsguild.com/product/256437/DDALELW04-Jack-of-Daggers",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -50,7 +50,7 @@
         "description": "An assassin’s trail lures the characters into a lethal deathtrap. But who wants them dead… and why? In the City of Towers, the person holding all the answers is usually the one holding the dagger to your back.",
         "released": "2018-10-26",
         "url": "https://www.dmsguild.com/product/257230/DDALELW05-Against-the-Lightning",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -59,7 +59,7 @@
         "description": "When the Church of the Silver Flame visits Sharn’s finest inn, it’s a chance for the characters to infiltrate and ask hard questions. But they’re not the only ones looking for answers.",
         "released": "2018-11-02",
         "url": "https://www.dmsguild.com/product/257741/DDALELW06-A-Holy-Visit",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -68,7 +68,7 @@
         "description": "What secret cargo is House Cannith hiding in an airship bound for Wroat? A simple heist at 30,000 feet turns deadly when a new threat rises out of the Mournland!",
         "released": "2018-11-16",
         "url": "https://www.dmsguild.com/product/258975/DDALELW07-Blades-of-Terror",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -77,7 +77,7 @@
         "description": "One of Sharn’s most influential figures is hiding something… inside a House Kundarak vault. To acquire the answers they need, the characters must break into one of Sharn’s most secure locations AND get out alive.",
         "released": "2018-11-16",
         "url": "https://www.dmsguild.com/product/258976/DDALELW08-The-Kundarak-Job",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -86,7 +86,7 @@
         "description": "Sharn’s undercity, the Cogs, hides a devastating secret that could reignite the Last War. As agents of the Lord of Blades tighten the noose around the characters’ necks, the characters search for the entrance to a hidden forge.",
         "released": "2018-11-30",
         "url": "https://www.dmsguild.com/product/260064/DDALELW09-Searching-for-Secrets",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -95,7 +95,7 @@
         "description": "As the embers of the Last War ignite across the City of Towers, House Deneith enlists the characters to uncover a terrorist base of operations and storm the compound before it’s too late.",
         "released": "2018-12-07",
         "url": "https://www.dmsguild.com/product/260858/DDALELW10-The-Killing-Blade",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -104,7 +104,7 @@
         "description": "In a secret lab beneath the city, the characters face mechanical horrors and an even more dangerous truth. To survive, they must make a choice that impacts all of Khorvaire!",
         "released": "2018-12-14",
         "url": "https://www.dmsguild.com/product/261301/DDALELW11-Secrets-Below",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -113,7 +113,7 @@
         "description": "Life in Callestan is not all fun and games—except for those who make their own fun with their own games. Mischievous, hardy street dwellers known as the Callestan Clash live and lurk in the shadows of the district’s looming towers, reaching their fingers into the satchels of unsuspecting tourists or balling them into fists, readying a swing. While members of the Clash are scrappy and abrasive, they enjoy opportunities to compete against strangers—and earn some much-needed coin in the process.",
         "released": "2018-07-23",
         "url": "https://www.dmsguild.com/product/247986/Encounters-in-Sharn",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -122,7 +122,7 @@
         "description": "One of the characters wins a skycoach, but before they can take possession, it is stolen leading to a high-speed chase through the skies of Sharn!",
         "released": "2018-07-23",
         "url": "https://www.dmsguild.com/product/247986/Encounters-in-Sharn",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -131,7 +131,7 @@
         "description": "Having just robbed a Boromar Clan gambling den, Balloch is a changeling on the run. Now they need the right suckers to protect them.",
         "released": "2018-07-23",
         "url": "https://www.dmsguild.com/product/247986/Encounters-in-Sharn",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -140,7 +140,7 @@
         "description": "Councilor Potellas has arranged for her cheating husband to have an “accident” while touring a potion laboratory in the city’s depths. When her plans fall into the group’s hands, it’s down to the characters to make a rescue.",
         "released": "2018-07-23",
         "url": "https://www.dmsguild.com/product/247986/Encounters-in-Sharn",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -149,7 +149,7 @@
         "description": "The characters travel to the area of Sharn known as Fallen to recover the body of Faela of the Silver Flame, a priestess who served the needy of that area selflessly for years.",
         "released": "2018-07-23",
         "url": "https://www.dmsguild.com/product/247986/Encounters-in-Sharn",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -158,7 +158,7 @@
         "description": "The characters travel through a trapped and haunted passageway leading to Faela’s resting place.",
         "released": "2018-07-23",
         "url": "https://www.dmsguild.com/product/247986/Encounters-in-Sharn",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -167,7 +167,7 @@
         "description": "The characters travel to the area of Sharn known as Fallen to recover the body of Faela of the Silver Flame, a priestess who served the needy of that area selflessly for years.",
         "released": "2018-07-23",
         "url": "https://www.dmsguild.com/product/247986/Encounters-in-Sharn",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -176,7 +176,7 @@
         "description": "The characters stumble into a raid of a House Sivis message station committed by agents of the Lord of Blades that leads to an assassination attempt on a lightning rail.",
         "released": "2018-07-23",
         "url": "https://www.dmsguild.com/product/247986/Encounters-in-Sharn",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -194,7 +194,7 @@
         "description": "In a junkyard in the bowels of the city, a broken war machine exploits an orphan gang to gather the components it needs to rebuild itself. If it succeeds, nobody in the city is safe.",
         "released": "2018-07-23",
         "url": "https://www.dmsguild.com/product/247986/Encounters-in-Sharn",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -203,7 +203,7 @@
         "description": "During the War of the Mark, an aberrant lord known as the Dreambreaker created a powerful dragonshard focus known as the *Delirium Stone* designed to channel his powers over others’ minds. Two years ago, his ancestor Achion Hayttear charged The Diggers’ Union to recover it, which they did. Before handing over the stone, the union discovered and thwarted Achion’s plot to use his aberrant mark and the *Delirium Stone* to take control of the Sharn Sixty. At the direction of Morgrave University, the Diggers shattered the focus and sealed the fragments away in a vault in Wroat.\n\n Since then Achion’s nephew Tragrim has schemed for a way reclaim his birthright and his chance has come. Morgrave University recalled the fragments for study and the pieces are back on the University grounds in Sharn.",
         "released": "2018-07-23",
         "url": "https://www.dmsguild.com/product/247986/Encounters-in-Sharn",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -212,7 +212,7 @@
         "description": "The characters stumble into a murder scene and get caught up in pursuing a mysterious package.",
         "released": "2018-07-23",
         "url": "https://www.dmsguild.com/product/247986/Encounters-in-Sharn",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
 ]

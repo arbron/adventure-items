@@ -6,7 +6,7 @@
         "adventureSeed": "My, What Big Feet You Have",
         "released": "2021-03-25",
         "url": "https://www.dmsguild.com/product/350824/DCPoAGaryXIII01-Little-Feet-Cold-Nights",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "All-Purpose Tool, +1",
@@ -31,7 +31,7 @@
         "adventureSeed": "Ageless Hunger",
         "released": "2021-03-25",
         "url": "https://www.dmsguild.com/product/351363/DCPoAGaryXIII02-A-New-Place-to-Call-Home",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Mirror of the Past",
@@ -56,7 +56,7 @@
         "adventureSeed": "Goat-ball!",
         "released": "2021-03-25",
         "url": "https://www.dmsguild.com/product/351364/DCPoAGaryXIII03-Personal-Fouls-and-Penalties",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Cloak of the Manta Ray",
@@ -81,7 +81,7 @@
         "adventureSeed": "Holy Auril, Mother of Cod",
         "released": "2021-03-26",
         "url": "https://www.dmsguild.com/product/351365/DCPoAGaryXIII04-As-Above-So-Below",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Cast-Off Armor (Breastplate)",
@@ -106,7 +106,7 @@
         "adventureSeed": "This Seems Familiar",
         "released": "2021-03-26",
         "url": "https://www.dmsguild.com/product/351366/DCPoAGaryXIII05-Shard-of-Hope",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Arcane Grimoire, +1",
@@ -132,7 +132,7 @@
         "released": "2020-12-06",
         "creator": "Greasy Snitches",
         "url": "https://www.dmsguild.com/product/338570/A-Wolfs-Whisper-DCPoAGSP0101",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Boots of the Winterlands",
@@ -158,7 +158,7 @@
         "released": "2020-12-01",
         "creator": "Greasy Snitches",
         "url": "https://www.dmsguild.com/product/337908/The-Missing-Link-DCPoAGSP0301",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Boots of False Tracks",
@@ -184,7 +184,7 @@
         "released": "2020-11-29",
         "creator": "The Legitimate Business",
         "url": "https://www.dmsguild.com/product/337701/DCPOALEGITSV01-The-Coldlight-Star",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Mix #5 (Eversmoking Bottle)",

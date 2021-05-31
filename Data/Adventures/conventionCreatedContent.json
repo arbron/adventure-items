@@ -5,7 +5,7 @@
         "description": "The legendary brewer, Vormestrand, has disappeared in pursuit of creating the finest beer Faerûn has ever tasted. While some believe that his rival, Zythos, may have had a role in his disappearance, the only clue is the recipe itself—something that Zythos really wants to get his hands on. It’s up to you to safeguard the recipe and finish the brewer’s work! Part One of the *Cascadian Legacy* series of adventures.",
         "released": "2018-12-02",
         "url": "https://www.dmsguild.com/product/260364/CCC3MAGSONE-Vormestrands-Scroll",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Pipe of Smoke Monsters",
@@ -48,7 +48,7 @@
         "released": "2018-11-13",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/257958/CCCALMOG01-TALES0101-What-Lies-Beneath",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Bands of the Tharkul (Bracers of Archery)",
@@ -69,7 +69,7 @@
         "released": "2018-08-17",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/250115/CCCALMOG03-TALES0301-Claws-of-Fury",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Belt of Fire Giant Strength",
@@ -114,7 +114,7 @@
         "released": "2019-11-23",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/284810/Jaunt-to-the-Center-of-Faerun",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -123,7 +123,7 @@
         "description": "A visit to a dwarven forge village built into a volcano happens at the worst possible time. Can you save the dwarves and themselves?",
         "released": "2019-11-22",
         "url": "https://www.dmsguild.com/product/284788/A-Glow-in-the-Galenas",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -132,7 +132,7 @@
         "description": "Ironfang Keep resides as one of the most mysterious and dangerous locations in all Faerûn. Recently, a local wizard has gone missing. His daughter calls for local adventurers to decipher his transcripts, brave entry, and expose the truth behind the ancient basalt walls.",
         "released": "2019-08-14",
         "url": "https://www.dmsguild.com/product/284732/Beneath-Ironfang-Keep",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Cloak of the Manta Ray",
@@ -165,7 +165,7 @@
         "released": "2019-09-05",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/284813/How-the-Prison-was-Fed",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Ear Horn of Hearing",
@@ -196,7 +196,7 @@
         "released": "2019-08-14",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/284824/Shadowed-Bellview",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Bag of Holding",
@@ -233,7 +233,7 @@
         "released": "2019-08-04",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/284815/Cove-of-Fallen-Souls",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Dark Shard Amulet",
@@ -252,7 +252,7 @@
         "released": "2019-08-04",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/284826/The-Drowning-Woods",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -261,7 +261,7 @@
         "description": "Since the end of the red war in Mulmaster, the factions have been nursing their wounds. They no longer have the resources and pull to send large groups of adventures to retake a city or overthrow a government. Reduced to posting handbills the factions have located a secret dungeon that may hold the secret to regaining a measure of their status and power in the Moonsea. You have all arrived at the call of these handbills that promise powerful magics and rewards if you can succeed.",
         "released": "2019-12-03",
         "url": "https://www.dmsguild.com/product/295799/CCCALMOG-ESC0301-Thoughts-Lost",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -270,7 +270,7 @@
         "description": "Since the end of the red war in Mulmaster, the factions have been nursing their wounds. They no longer have the resources and pull to send large groups of adventures to retake a city or overthrow a government. Reduced to posting handbills the factions have located a secret dungeon that may hold the secret to regaining a measure of their status and power in the Moonsea.   You have all arrived at the call of these handbills that promise powerful magics and rewards if you can succeed.",
         "released": "2019-12-03",
         "url": "https://www.dmsguild.com/product/295801/CCCALMOG-ESC0302-Mind-Blank",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -279,7 +279,7 @@
         "description": "Since the end of the red war in Mulmaster, the factions have been nursing their wounds. They no longer have the resources and pull to send large groups of adventures to retake a city or overthrow a government. Reduced to posting handbills the factions have located a secret dungeon that may hold the secret to regaining a measure of their status and power in the Moonsea. You have all arrived at the call of these handbills that promise powerful magics and rewards if you can succeed.",
         "released": "2019-12-03",
         "url": "https://www.dmsguild.com/product/295803/CCCALMOG-ESC0303-Memory-Leak",
-        "tier": [3],
+        "tier": 3,
         "incomplete": true
     },
     {
@@ -288,7 +288,7 @@
         "description": "Refugees in Mulmaster have had a fairly tough time, and that was before the disappearances. The few that return have been changed, refusing to believe that they were even missing. You have been asked by Mulmaster’s nobility to find the source of the disappearances and put an end to them.",
         "released": "2018-07-11",
         "url": "https://www.dmsguild.com/product/247005/CCCAMER01-Asleep-and-Awake",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Eyes of Charming",
@@ -320,7 +320,7 @@
         "description": "An elusive school of monks and misfits traveling westward has smuggled itself into Melvaunt at a time of celebration, only to be cruelly ensnared by shadows from its fraught past. Will you help them hold back the darkness?",
         "released": "2019-01-02",
         "url": "https://www.dmsguild.com/product/263173/CCCAN01-Secrets-of-Golden-Fire",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Clockwork Amulet",
@@ -371,7 +371,7 @@
         "description": "While traveling to Hillsfar, the adventuring party is approached by goblins who are convinced the god Khurgorbaeyag is angered and trying to kill them. Exploring the goblin village, the heroes find evidence that suggests divine smiting, but the truth is more bizarre than they can possibly imagine.",
         "released": "2018-08-16",
         "url": "https://www.dmsguild.com/product/250006/CCCAN02-The-Wrathful-Deity-of-Khurovogo",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Periapt of Health",
@@ -391,7 +391,7 @@
         "description": "Someone’s stolen the gifts from Santa’s workshop on the eve of the winter solstice. If they’re not recovered before nightfall, the winter solstice celebration will be ruined and children across the realms won’t get any presents.",
         "released": "2018-10-23",
         "url": "https://www.dmsguild.com/product/256915/CCCAN03-Winter-Wonderland",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Heward’s Handy Haversack",
@@ -417,7 +417,7 @@
         "description": "The Applebottom Brothers may have just arrived in the bustling city of Thentia, but novelty draws rumor, lighting imaginations with whispers of miraculous creations in development. Now comes an open invitation to capable adventurers willing to assist them in securing information, rare components, and political favors—before rivals can snatch them up. Part One of *The Shattered Planes*.",
         "released": "2018-12-23",
         "url": "https://www.dmsguild.com/product/262265/CCCAPL0101-Its-Not-Easy-Being-Gene",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Broken Duergar Drill Bit (Lance, +1)",
@@ -459,7 +459,7 @@
         "description": "A priest of Ilmater seeks to right an old wrong to please his god. Will you trust the whims of hags and journey through time to find out what when wrong during the Festival of Stars?",
         "released": "2018-03-13",
         "creator": "Mount Ogden Gaming Company",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Shortbow, +1",
@@ -485,7 +485,7 @@
         "description": "After learning that Daern’s Blade, a relic that had protected the town of Hawksroost, vanished centuries ago, Sorrim requires assistance in locating it. An old halfling adventurer has learned rumors of the blade hidden within the Vanishing Hills. These same rumors also say that it may be guarded by something ancient. With the Festival of the Stars only a few days out, can the blade be found and returned in time?",
         "released": "2018-03-13",
         "creator": "Mount Ogden Gaming Company",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Yata Mirror (Shield, +2)",
@@ -517,7 +517,7 @@
         "description": "With less than two days until the Festival of Stars in Hawksroost, Daern’s Blade is still missing, but the adventurers are en route to its resting place. Are they truly prepared for what they find?",
         "released": "2018-03-13",
         "creator": "Mount Ogden Gaming Company",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Orb of the Stein Rune",
@@ -543,7 +543,7 @@
         "description": "Stories of Muckflash Marsh have been told for decades—deep whispered voices and floating lights. Recently the lights have brightened, and the voices turned higher pitched. A young woman has brought tales of evil doings at the march and a plea for aid.",
         "released": "2020-07-20",
         "url": "https://www.dmsguild.com/product/320477/CCCAWE0102-The-Chi-Directive",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Lantern of Revealing",
@@ -557,7 +557,7 @@
         "description": "Hired as security escorts for a group of noble children on a pilgrimage to the underground town of Emudomier, the party meet a strange tiefling being hunted by the father of her unborn child and Peacesmith master negotiators who’s vows of peace do not prevent them from experiencing tragedy. Can adventurers discover the cause of Peacesmith and wildlife disappearances? Can they put a stop to the chaos that plagues Emmudomier and threatens all of Toril?",
         "released": "2017-08-02",
         "url": "https://www.dmsguild.com/product/218024/CCCBLD-11-Bleeding-Gate-Pandemonium",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Periapt of Wound Closure",
@@ -585,7 +585,7 @@
         "description": "When the party is hired to assist a covert organization, investigating the disappearances of Peacesmith, they are sent deep into the bowels of the town. It’s dirty work and the party certainly smells the stench of conspiracy (among other things). But after charging into a colossal mess in the Border Forest, they come face-to-face with the culprit.",
         "released": "2017-08-03",
         "url": "https://www.dmsguild.com/product/218099/CCCBLD-12-Bleeding-Gate-Amalgamation",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Winged Boots",
@@ -599,7 +599,7 @@
         "description": "A towering aberration threatens Emudomier. The mastermind behind its creation and the Peacesmith killings remain unknown. Can the adventurers end the chaos or will Emudomier, the Moonsea, and all of Toril be overwhelmed?",
         "released": "2018-01-18",
         "url": "https://www.dmsguild.com/product/231700/CCCBLD-0103-Bleeding-Gate-Lineage",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Stone of Controlling Earth Elementals",
@@ -627,7 +627,7 @@
         "description": "Aristocrats and nobles from all around the Moonsea come to vacation upon the pleasure barge that sets sail from the floating Sokol Sea Palace. However, recent late-night howling and frightening shapes in the dark have discouraged the usual number of customers from boarding the Sokol Sea Palace. Rumors of Zhentarim cargo ships being attacked by unseen monsters in Moonsea have also added to the fear of sailing to the once thriving vacation destination. Now, the Sokol family and their ferryman Karsk are turning to the recent job fair in Phlan to find a group of adventurers to investigate these alarming sounds and sights hoping to return their business to prosperity once more.",
         "released": "2018-09-29",
         "url": "https://www.dmsguild.com/product/253539/CCCBWM001-Howling-on-the-Moonsea",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Horn of Blasting",
@@ -641,7 +641,7 @@
         "description": "An old man, a powerful artifact, and an entire ancient city wait for you in the cold depths of the Moonsea. Nothing is certain about what lies ahead, except that someone will get wet. Bring your bathing suits, it is time to take a dip.",
         "released": "2018-10-02",
         "url": "https://www.dmsguild.com/product/253855/CCC--BWM--002-The-City-in-the-Depths",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Elven Blade of the Third Age (+2 Longsword)",
@@ -671,7 +671,7 @@
         "description": "The annual celebration of the abolishment of the Great Law of Humanity is happening in Hillsfar. As the leader of the factions in the region, Elanil Elassidil must attend the event, however, she has a guest with her. Elanil is looking after a young girl, who the adventurers may have met before, and has summoned adventurers to Elventree to watch over the girl while she is tending to the celebration. A simple babysitting task shouldn’t be too difficult for mighty adventurers, right?",
         "released": "2018-09-29",
         "url": "https://www.dmsguild.com/product/253558/CCC--BWM--003-A-Tale-of-Two-Towers",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Aegis of the Raven Queen (Shield, +3)",
@@ -708,7 +708,7 @@
         "description": "Under the Flooded Forest grows a toxic maze of magical fungi called the Nidus. From this horrid realm a cult has struck a terrible blow against the wood elves struggling to regrow the trees in the forsaken swamp of the Flooded Forest. The elves, on the brink of extinction, need the adventurers to navigate this deadly labyrinth and recover a precious object. But the tunnels here crawl with spore-laden beasts and demons, and the very air itself is poisonous.",
         "released": "2019-07-11",
         "url": "https://www.dmsguild.com/product/281686/CCCBWM0401-Thralls-of-Zuggtmoy-The-Myconic-Nidus",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Miir (Scimitar of Warning)",
@@ -734,7 +734,7 @@
         "description": "Beyond the Nidus waits the inner sanctum where the heroes must confront Zuggtmoy’s zealot priest and his dark followers. The cult is preparing to use the Noctic Urn to lure a horrific entity to the Material Plane. The adventurers must stop them, or woe to all should they fail.",
         "released": "2019-07-11",
         "url": "https://www.dmsguild.com/product/281685/CCCBWM0402-Thralls-of-Zuggtmoy-Sanctum-of-Rot",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Cloak of Protection",
@@ -760,7 +760,7 @@
         "description": "Four demon lord cults are competing for the possession and control of a crate full of mined minerals that radiate an intense amount of faerzress power. Local Emerald Enclave leader, Captain Rairdon Tanheel, hires a group of adventurers to retake the crate and get it back into safe hands and investigate why the crate has been stolen.",
         "released": "2019-06-24",
         "url": "https://www.dmsguild.com/product/279463/CCCBWM005-Chasing-Madness",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Dark Shard Amulet",
@@ -784,7 +784,7 @@
         "description": "Recent events in the Moonsea have caused Hillsfar to become a booming economy. This has attracted many new adventurers to the area and unfortunately brought an increase in deaths of overconfident adventurers too. Bert the Goblin has decided to sponsor an “Introduction to Adventuring” workshop! Explore Hillsfar and the five factions by participating in any one of five different missions and pick up basic skills while learning about the factions!",
         "released": "2019-06-11",
         "url": "https://www.dmsguild.com/product/278603/CCCBWM06-Introduction-to-Adventuring",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Potion of Healing",
@@ -825,7 +825,7 @@
         "released": "2020-08-03",
         "creator": "Concentric Games",
         "url": "https://www.dmsguild.com/product/321273/CCCCENTRIC-0102-Road-to-Reconciliation",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Boots of False Tracks",
@@ -866,7 +866,7 @@
         "released": "2020-08-07",
         "creator": "Concentric Games",
         "url": "https://www.dmsguild.com/product/322508/CCCCENTRIC0103----The-Patchwork-Tower",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Clockwork Amulet",
@@ -896,7 +896,7 @@
         "description": "A mysterious location has been uncovered and a group of adventurers are tasked with charting a ship onto the Moonsea. There they begin their underwater quest to find the treasures of the Lost City of Northkeep, facing an assortment of deep-sea challenges and enemies and eventually meeting with an ancient clan of Orcs guarding the isolated ruins of Northkeep. Part One of the *Shadow of Northkeep* trilogy.",
         "released": "2018-10-04",
         "url": "https://www.dmsguild.com/product/254041/CCCCNE01-The-Treasure-Beneath",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -905,7 +905,7 @@
         "description": "The Ancient sunken city of Northkeep is filled with wild magic and and unknown dangers. Within this desolate place, a warlock experiments on wildlife to create the ultimate living weapon capable of destroying the entire Moonsea region. In order to save the world, adventurers must stop the experiments from completing. Part Two of the *Shadow of Northkeep* trilogy.",
         "released": "2018-10-04",
         "url": "https://www.dmsguild.com/product/254019/CCCCNE02-Before-The-Hatch",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -914,7 +914,7 @@
         "description": "A Shadow of the long-destroyed city of Northkeep has been found deep below the Moonsea. Filled with wild magic and inhabited by strange creatures and people, a group of Warlocks work to bring a great evil into the world. In order to protect the Moonsea, the Warlocks must be stopped. Part Three of the *Shadow of Northkeep* trilogy.",
         "released": "2018-10-04",
         "url": "https://www.dmsguild.com/product/254018/CCCCNE03-Into-The-Depths",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -923,7 +923,7 @@
         "description": "A stolen artifact and a missing adventuring party sends a group of heroes on a hunt across the Moonsea Region. Unfortunately, the heroes will wind up being the prey. Part One of the *Vhaeraun-Touched* series.",
         "released": "2020-08-03",
         "url": "https://www.dmsguild.com/product/320942/CCCCNE006-Burst",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Dagger of Venom",
@@ -955,7 +955,7 @@
         "description": "A small mining village near the edge of Thar goes silent. You are sent to investigate… And discover that the truth is much worse than expected.",
         "released": "2019-08-10",
         "url": "https://www.dmsguild.com/product/285292/CCCCOS01-The-Only-Way-To-Be-Sure",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Portable Hole",
@@ -987,7 +987,7 @@
         "description": "The death of a mysterious philanthropist has left a few simple tasks unfinished. This may either be the easiest adventure of your life, or your last. Part One of the *Hammer of the Gods* sequence.",
         "released": "2020-06-05",
         "url": "https://www.dmsguild.com/product/315756/CCCCOS0201-38-Souls",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Wand of Secrets",
@@ -1034,7 +1034,7 @@
         "description": "Chaotic magic torments the village of Stonedock, presenting opportunity to a devious grifter. Unknown to the scoundrel, a stolen trinket brings with it the wrath of Thay! Who will weather the storm of deception?",
         "released": "2019-03-01",
         "url": "https://www.dmsguild.com/product/267847/CCCCOTN0101By-The-Seashore-A-Red-War-Tale",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Chauncey’s Codbone Cosherer (Immovable Rod)",
@@ -1068,7 +1068,7 @@
         "description": "With the repeal of the Law of Humanity, things have changed in the Hillsfar surrounds, and not necessarily for the better. The farming village of The Stop is no exception. The Red Plume Soldiers have withdrawn their presence and no one is left to maintain order. When things get out of hand, a noble representative of the people and the law is required.",
         "released": "2017-07-20",
         "url": "https://www.dmsguild.com/product/216992/CCCDDSC01-Murder-at-The-Stop",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Pearl of Power",
@@ -1111,7 +1111,7 @@
         "description": "Dr. Jubal and his Carnival of Curiosities left The Stop almost a tenday ago. When one of the circus wagons is found abandoned, folks fear the worst. Brave heroes are needed to find out what has become of the good Doctor and his troupe. Are you up for the challenge?",
         "released": "2017-07-20",
         "url": "https://www.dmsguild.com/product/217046/CCCDDSC02-A-Fool-and-His-Gold",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Ring of Jumping",
@@ -1135,7 +1135,7 @@
         "description": "The forest haven of Elventree is in peril! Children have been abducted, monsters have breached the town perimeter, and one of the village’s druids has gone missing. The local spring seems to be a source of these problems, and you must to descend into it to explore the caverns below. Are you a match for the threats beneath Elventree’s feet?",
         "released": "2018-09-12",
         "url": "https://www.dmsguild.com/product/252111/CCCDRUID01-The-Scourge-Unseen",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Asharam’s Orb of Ensnaring (Iron Bands of Bilarro)",
@@ -1171,7 +1171,7 @@
         "description": "The Moonsea Army is all that stands between Phlan and the undead of the Necromancer Marzellus. You wait in tents, summoned for your loyalty, your bravery, your heroism, and perhaps even your gullibility. Can you remain unflappable, no matter the stakes!",
         "released": "2019-12-10",
         "url": "https://www.dmsguild.com/product/297088/DDALCCCDRUIDS03-In-Tents",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Lantern of Revealing",
@@ -1207,7 +1207,7 @@
         "description": "It’s a time of celebration in Hillsfar. Bert, a local potion merchant and member of the Hillsfar Senate, is hosting a party. It has been one year since the Great Law of Humanity has been abolished. Many non-humans like Bert have helped forge a new future for Hillsfar, but what is the current reality?",
         "released": "2018-12-21",
         "url": "https://www.dmsguild.com/product/262096/CCC--ELF--001-Lifes-a-Party",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Ring of Warmth",
@@ -1233,7 +1233,7 @@
         "description": "There have been strange accounts from several of the heavier drinkers in Hillsfar; all are reports of monsters plaguing the woods near the city. Are these simply the ravings of those who have overindulged…or is there a more sinister plot to uncover? Your party is hired to go on a pub crawl and uncover any mischievous mixologists or spiteful servers in order to get to the bottom of these claims.\n\n There is no better drink than that of justice served!\n\n But adventurers should probably try them all, just to be sure…this is a pub crawl after all.",
         "released": "2019-01-05",
         "url": "https://www.dmsguild.com/product/263415/CCCELF02-An-Adventuring-Party-Walks-Into-A-Bar",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Tankard of Sobriety",
@@ -1253,7 +1253,7 @@
         "description": "After a gruesome murder goes unsolved, characters are hired to investigate. When the murders continue, characters must race against time to stop a serial killer before it’s too late.",
         "released": "2020-04-29",
         "url": "https://www.dmsguild.com/product/299496/CCCELF0301-Deaths-Claw",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Net of Warning",
@@ -1273,7 +1273,7 @@
         "description": "As murders of non-humans continue in Hillsfar, the populace calls for drastic action against the city’s most xenophobic Senator. Can you find a way to stop the violence? ",
         "released": "2020-04-29",
         "url": "https://www.dmsguild.com/product/299501/CCCELF-0302-Echoes-of-Rage",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Vines of Avarice (Gloves of Thievery)",
@@ -1307,7 +1307,7 @@
         "description": "Deaths of non-humans in the City of Hillsfar has taken attention of the Red Plumes away from several attacks by werewolves in the docks. Kriv sent out a request for adventurers to assist on this matter.",
         "released": "2020-04-29",
         "url": "https://www.dmsguild.com/product/309290/CCCELF04-Blood-of-the-Covenent",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Enduring Spellbook",
@@ -1382,7 +1382,7 @@
         "description": "A mysterious illness cripples the children of the realm. No one has found the cure. Will you pass the tests and save the children of Faerûn?",
         "released": "2018-11-17",
         "url": "https://www.dmsguild.com/product/259022/CCCELO01-For-the-Kids",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "The Aloe of Ch (Keoghtom’s Ointment)",
@@ -1396,7 +1396,7 @@
         "description": "A plea for help calls heroes into the deep of The Underdark, where a kind-hearted matron seeks help to vanquish childish soul-buried sorrows. How far will our heroes go for the kids?",
         "released": "2020-01-14",
         "url": "https://www.dmsguild.com/product/299859/CCCELO02-The-Four-Kids",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Breegla’s Nightlamp (Candle of the Deep)",
@@ -1427,7 +1427,7 @@
         "released": "2019-11-26",
         "creator": "Adventurers Anonymous Manila",
         "url": "https://www.dmsguild.com/product/295621/CCCEPI0101-Hordes-of-Thar--The-White-Hand-of-Death",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Aier (Pearl of Power)",
@@ -1452,7 +1452,7 @@
         "released": "2020-08-03",
         "creator": "Adventurers Anonymous Manila",
         "url": "https://www.dmsguild.com/product/319994/CCCEPI0102-Hordes-of-Thar-The-Bloody-Crescent",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "The Harbinger (Glaive of Warning)",
@@ -1476,7 +1476,7 @@
         "description": "The town of Phlan has had a lot of trouble, but at least today there aren’t any dragons in the sky.  You’ve received a mysterious summons from a citizen of Phlan asking for your help, with the promise of a chance to do some good, what are you waiting for?!",
         "released": "2020-06-03",
         "url": "https://www.dmsguild.com/product/312977/CCCFAD01-Out-The-Back",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Boots of False Tracks",
@@ -1500,7 +1500,7 @@
         "description": "The City of Hillsfar has endured continuous chaos since the Rage of Demons. First Lord Vuhm Yestral dreamed of stability the day he took office. Five years later, the only real change is the number of grey hairs on his head. While xenophobia has reduced greatly, stability in the region is nowhere in sight. It has been a couple of months after the mighty beast was slain and Hillsfar is barely recovering of the major assault by multiple factions. Now rumors of Red wizards kidnapping farmers have spread across the city. What could the Thayans be up to this time? Part One of the *Mystery of the Isles*.",
         "released": "2020-03-30",
         "url": "https://www.dmsguild.com/product/307811/CCC--FCC--001-Isle-of-Moss",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Boots of False Tracks",
@@ -1518,7 +1518,7 @@
         "description": "All the priests in Melvaunt tell Lady Elsa Tillingwood that she needs a miracle to heal her. In the wake of Moander’s rampage through Elmwood, a child is born with miraculous healing powers. Lady Elsa has tasked you with investigating this divine coincidence…are you up for the challenge?",
         "released": "2018-08-21",
         "url": "https://www.dmsguild.com/product/250362/CCCFXC01--Nothing-Happens-in-Elmwood",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Flaming Sigil (Charm of Vitality)",
@@ -1547,7 +1547,7 @@
         "released": "2018-03-16",
         "creator": "Monkey Mind Tales",
         "url": "https://www.dmsguild.com/product/237193/CCCGEL01-Bedlam-at-the-Benefit",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Dark Shard Amulet",
@@ -1579,7 +1579,7 @@
         "description": "The Kroth Magg hobgoblins run the trade city of Glip Dak in the Troll Hills of Thar. From there they have taken control of the trade routes along the northern Moonsea. A young noble has been captured for refusing to pay their tariffs and his house looks to hire adventurers to rescue him.",
         "released": "2018-08-11",
         "url": "https://www.dmsguild.com/product/249542/CCCGLIP0101-Glip-Dak",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Arrk’s Greatsword (Greatsword, +1)",
@@ -1613,7 +1613,7 @@
         "description": "A series of unusual heists has both the thieves’ guild and city guard scrambling to uncover the culprits before the burglaries destabilize the thriving trade within the city, threatening the budding kingdom the Kroth Magg have fought and died to forge.",
         "released": "2018-08-11",
         "url": "https://www.dmsguild.com/product/249541/CCCGLIP0102-Beneath-Glip-Dak",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Bag of Holding",
@@ -1659,7 +1659,7 @@
         "description": "The adventurers are tasked with rescuing a group of heroes who vanished in the pearlescent fortress that manifested on the border between the Kroth Magg kingdom and the Varkonin empire in the Steppes of Thar.",
         "released": "2018-11-03",
         "url": "https://www.dmsguild.com/product/257864/CCCGLIP0103-Citadel-of-Vlaakith",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Dread Helm",
@@ -1693,7 +1693,7 @@
         "description": "A behir has been hired to destroy the herds of aurochs necessary to feed the hobgoblin city of Glip Dak. Patrols and scouts continue to go missing, forcing the hobgoblins to hire mercenaries to track this behir as they recall their troops to the capital to maintain order as food riots break out.",
         "released": "2018-11-03",
         "url": "https://www.dmsguild.com/product/257866/CCCGLIP0201-Blue-Scales",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Arrow-Catching Shield",
@@ -1747,7 +1747,7 @@
         "description": "A corrupting sickness has infected the Quivering Forest, and the wood elf tribe of Thand’Arethen. Part of *The Gifts of Corruption* trilogy.",
         "released": "2018-09-25",
         "url": "https://www.dmsguild.com/product/253211/CCCGOC0101-Tree-Rot",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Bracers of Archery",
@@ -1783,7 +1783,7 @@
         "description": "The woodelf village of Thand'Arethen in the Quivering Forest discovered a dark and arcane corruption destroying the forest, threatening the village’s survival. The Corruption mutates anything living in the Quivering forest, changing the flora and fauna into dark corrupted echoes of what they were in life. Part of *The Gifts of Corruption* trilogy.",
         "released": "2018-09-25",
         "url": "https://www.dmsguild.com/product/253210/CCCGOC0102-Cairns-of-Rot",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Heward’s Handy Haversack",
@@ -1817,7 +1817,7 @@
         "description": "High above the Quivering Forest hovers Athal’deras, an earth mote that is home to a tribe of aarakocra. But a shadow has fallen over the floating rock, and the bird people have succumbed to the darkness, which they now strive to spread upon the winds. Part of *The Gifts of Corruption* trilogy.",
         "released": "2018-09-25",
         "url": "https://www.dmsguild.com/product/253212/CCCGOC0103-Winds-of-Rot",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Carpet of Flying",
@@ -1842,7 +1842,7 @@
         "released": "2019-07-17",
         "creator": "Monkey Mind Tales",
         "url": "https://www.dmsguild.com/product/282281/CCCGREY0101-A-Rats-Tale",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Spell Scroll of Heroism",
@@ -1876,7 +1876,7 @@
         "description": "On the eve of Shieldmeet, the sunken Isle of Maos rises from the depths of the Moonsea, only to return to the water with the rising of the sun. But this year, the island does not sink beneath the waves, and destruction follows in its wake. A drunkard named Will Brightsong is somehow connected, and the adventurers must keep him alive long enough to find out why! Part One of *The Song of Maos*.",
         "released": "2018-04-18",
         "url": "https://www.dmsguild.com/product/239986/CCCHATMS0101-Threatening-Tides",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Quiver of Ehlonna",
@@ -1914,7 +1914,7 @@
         "description": "Will Brightsong has been kidnapped, and the Moonsea is spilling into the cities of the region. The adventurers must travel into the heart of Thar to rescue the Brightsong heir, and return him to the Isle of Maos before catastrophe strikes! Part Two of *The Song of Maos*.",
         "released": "2018-04-18",
         "url": "https://www.dmsguild.com/product/239987/CCCHATMS0102-Prophecys-Promise",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Sword of Vengeance (Longsword)",
@@ -1946,7 +1946,7 @@
         "description": "The Brightsong heir has been rescued from the clutches of the Kur-Tharsu, but the Moonsea is still rising. The adventurers must travel to the Isle of Maos, and there fulfill their most difficult challenge yet; convincing Will Brightsong to fulfill his destiny! Part Three of *The Song of Maos*.",
         "released": "2018-04-18",
         "url": "https://www.dmsguild.com/product/239988/CCCHATMS0103-Destiny-Defied",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Ioun Stone of Protection",
@@ -1972,7 +1972,7 @@
         "description": "Reports of an Illithid in the area south of Hillsfar have the Emerald Enclave and the Harpers on the trail of a mind flayer that has been presumed dead. Or is he?",
         "released": "2019-04-08",
         "url": "https://www.dmsguild.com/product/269519/CCCHATMS-0201-Illithid-Activities",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Vicious Longsword",
@@ -2010,7 +2010,7 @@
         "description": "A hunt for a mad illithid has brought startling and dire news to the Emerald Enclave and the Harpers. The call has gone out for heroes to follow on the trail of Klondros Imdree as he seeks a book of terrible power, and to stop him once and for all.",
         "released": "2019-03-05",
         "url": "https://www.dmsguild.com/product/267822/CCCHATMS0202-Something-Vile-This-Way-Comes",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Rod of Absorption",
@@ -2036,7 +2036,7 @@
         "description": "Klondras Imdree’s necromancer master has been stopped, but the undead illithid is still at large, and is one step closer to claiming the Book of Vile Darkness as his own. Heroes are called on to go after the mad mindflayer and to stop him at all costs.",
         "released": "2019-03-05",
         "url": "https://www.dmsguild.com/product/267823/CCCHATMS0203-A-Vile-Wake",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Stone of Good Luck",
@@ -2080,7 +2080,7 @@
         "description": "With Red Wizards and fouler things about, a power struggle among forgotten foes draws adventurers into peril.",
         "released": "2018-12-29",
         "url": "https://www.dmsguild.com/product/262311/Left-Black-and-Blue-A-Red-War-Story",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Stone Plate, +2",
@@ -2127,7 +2127,7 @@
         "description": "Rumors say that a mysterious monster appeared in Honeybrew town. The monster wanders around the town and spreads terror, and finally, two young dwarves got hurt by the beast. Can adventurers protect the village from this monster?",
         "released": "2020-08-27",
         "url": "https://www.dmsguild.com/product/325998/CCCKKALGO0201-HONEYBEE-MAYHEM",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Lantern of Revealing",
@@ -2141,7 +2141,7 @@
         "description": "Cargo ships are being dashed against the rocks west of Hulburg, lured off course by a mysterious light. Is this the work of ordinary thieves, or are more nefarious forces at work?",
         "released": "2017-11-20",
         "url": "https://www.dmsguild.com/product/226912/CCCKUMORI0101--Wreckers",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Gem of Brightness",
@@ -2167,7 +2167,7 @@
         "description": "Accused of impersonation and kidnapping, a pair of old sisters have found refuge in Abermoor. In their wake, they have left a trail of blood, and are pursued by a bounty hunter. Hired for their expertise, the adventurers have joined the pursuit.",
         "released": "2017-11-20",
         "url": "https://www.dmsguild.com/product/226911/CCCKUMORI0102-Wretches",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Robe of Useful Items",
@@ -2199,7 +2199,7 @@
         "description": "Torrential rains and blustering winds drive the party into a cursed hamlet, resting in the eye of the storm. A mesmerizing void, mutated creatures, and the very ground could swallow the party, forever trapping them—unless they can escape.",
         "released": "2019-01-22",
         "url": "https://www.dmsguild.com/product/264732/CCCKUMORI0201-Vacant",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Heward’s Handy Spice Pouch",
@@ -2219,7 +2219,7 @@
         "description": "In the Border Forest, north of the Teshwave, the Vorisch family of Phlan has built the Moonsea School for Homeless Children. A haven and home for the displaced and orphaned of the Moonsea. However, strange events threaten to close the school. Can you find the cause, and aid the school?",
         "released": "2018-12-18",
         "url": "https://www.dmsguild.com/product/261266/CCCKUMORI0202-School-Magic",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Red’s Slippers (Boots of Elvenkind)",
@@ -2245,7 +2245,7 @@
         "description": "Festival bells cut loud through the air! Adventurers are gathering to celebrate the Wild Monster Capture Festival. Tame wild monsters, team up with them in honorable combat, and you could win not only gold, but fame and renown! The spirit of the festival is about to get disrupted, however, and you must prepare for trouble…",
         "released": "2018-11-26",
         "url": "https://www.dmsguild.com/product/259775/CCCKUMORI0204-To-Be-the-Very-Best",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Unbreakable Arrow",
@@ -2291,7 +2291,7 @@
         "description": "Rather than the adventurers traveling through a forest, an entire forest thunders toward them, running on its roots, trampling everything in its path. They receive transformative help, but it’s up to the party to get past frightened forest creatures and frightening constructs, to the heart of the problem. Can they stop the protégé of the trampling forest?",
         "released": "2020-04-05",
         "url": "https://www.dmsguild.com/product/308848/CCCKUMORI0301-Protege-of-the-Trampling-Forest",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -2300,7 +2300,7 @@
         "description": "Seburil, rock gnome priestess of Gond, has ordered his followers to harvest trees in the Quivering Forest. This has caused conflict with Avumat, verdant lord of the Circle of the Forest. The adventurers must intercede and negotiate a peace between the two factions.",
         "released": "2020-01-15",
         "url": "https://www.dmsguild.com/product/299370/CCCKUMORI0302-The-Millwright-of-Gond-A-Quivering-Forest-Adventure",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Dust of Disappearance",
@@ -2326,7 +2326,7 @@
         "description": "Lyrezix the Gleaming has watched over the village of Volla for thirteen generations. When she fails to show up for a festival in her honor, the townspeople grow worried. It’s up to a hearty band of adventurers to discover what happened to their beloved dragon.",
         "released": "2020-01-14",
         "url": "https://www.dmsguild.com/product/299369/CCCKUMORI0303-Scales-of-Justice-A-Moonsea-Adventure",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Helm of Comprehending Languages",
@@ -2356,7 +2356,7 @@
         "description": "A persistent ghost has been spotted in Phlan, flitting from building to building. The residents say that it stands in front of the Laughing Goblin every night, eyes wide and full of terror. If approached, it screams and disappears. In the wake of the town’s re-opening and the retreat of the thick winter fogs, peace must be returned before people leave for good.",
         "released": "2017-08-10",
         "url": "https://www.dmsguild.com/product/218722/CCCLINKS01-Champion-of-the-People",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "“Fat” Markoth’s Cummerbund (Belt of Hill Giant Strength)",
@@ -2390,7 +2390,7 @@
         "description": "As winter releases its grip on the region surrounding the town of Phlan, secrets are revealed within Glumpen Swamp. Strange landscapes and sigils have been found beneath the mud, and the wildlife around the swamp has become greatly agitated. At times a spectral figure can be seen in the distance, only to disappear upon approach. Can you discover what is happening in the muck and gloom?",
         "released": "2017-08-13",
         "url": "https://www.dmsguild.com/product/218925/CCCLINKS02-The-Secrets-We-Keep",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Raptor (Dancing Sword, Rapier)",
@@ -2427,7 +2427,7 @@
         "released": "2018-04-04",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/238812/CCCMACE0101-The-Blight-of-Geoffrey",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Pipes of Haunting",
@@ -2442,7 +2442,7 @@
         "released": "2018-04-04",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/238814/CCCMACE0102-A-Panthers-Peril",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Javelin of Lightning",
@@ -2469,7 +2469,7 @@
         "released": "2018-06-18",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/244858/CCCMACE0103-Haunted-Memories",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Longsword of Vengeance",
@@ -2513,7 +2513,7 @@
         "description": "The town of Elmwood is being ravaged by a devastating plague. The town’s Constable pleads for help in finding the cause and a cure from any adventurers brave enough, or reckless enough to risk infection. Part One of *A Twisted Harvest*.",
         "released": "2019-12-16",
         "url": "https://www.dmsguild.com/product/297167/Selunes-Tear",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Lantern of Revealing",
@@ -2539,7 +2539,7 @@
         "description": "The town of Elmwood has seen its share of tragedy, and somehow, things keep getting worse. While the town recovers from a devastating plague, the constable informs adventurers that the bodies of the dead have been disappearing. She believes the disappearances may be tied to a young woman known as the Jackal. If the Jackal is behind the disappearances, what does she want with Elmwood’s dead? The constable tasks adventurers with finding an answer to this question, and if necessary, with stopping the Jackal. Part Two of *A Twisted Harvest*.",
         "released": "2019-12-16",
         "url": "https://www.dmsguild.com/product/297173/The-Jackals-Justice",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Instrument of the Bards (Doss Lute)",
@@ -2559,7 +2559,7 @@
         "description": "The Cult of the Eternal Flame is planning to detonate another devastation orb in the town of Elmwood. Can a party of adventurers find their stronghold in the Flooded Forest and stop them before Elmwood becomes a town populated solely by the dead? Part Three of *A Twisted Harvest*.",
         "released": "2019-12-16",
         "url": "https://www.dmsguild.com/product/297176/Fires-Demise",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Necklace of Fireballs",
@@ -2579,7 +2579,7 @@
         "description": "The Mordell family has been on the decline for years. The family has reached out to their contacts one last time for help ridding the family of a generational curse. This is an adventure with four story arcs through a single dungeon.",
         "released": "2018-10-28",
         "url": "https://www.dmsguild.com/product/257386/CCCMCX01-All-in-a-Days-Work",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Circlet of Blasting",
@@ -2599,7 +2599,7 @@
         "description": "There are times when someone is called to the adventuring life and then there are times when someone tries to force the adventuring life. This is a case of the former helping the latter.",
         "released": "2018-11-20",
         "url": "https://www.dmsguild.com/product/259240/MCX0102-The-Rescue",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Cloak of Billowing",
@@ -2614,7 +2614,7 @@
         "released": "2018-07-04",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/246253/CCCMIND0101-Lost-in-Thought",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Crystal Ball",
@@ -2641,7 +2641,7 @@
         "released": "2018-07-06",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/246478/CCCMIND0102-Mind-Trip",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Ring of Regeneration",
@@ -2668,7 +2668,7 @@
         "released": "2018-07-06",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/246480/CCCMIND0103-Dream-Walkers",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Wand of the War Mage, +3",
@@ -2701,7 +2701,7 @@
         "released": "2019-06-07",
         "creator": "Monkey Mind Tales",
         "url": "https://www.dmsguild.com/product/279110/CCCMMT-0101-Secrets-of-Imaginary-Friends",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Helm of Comprehending Languages",
@@ -2738,7 +2738,7 @@
         "released": "2019-11-22",
         "creator": "Monkey Mind Tales",
         "url": "https://www.dmsguild.com/product/294627/CCCMMT-0102-A-Little-Competition-Never-Hurt-Anyone",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -2748,7 +2748,7 @@
         "released": "2020-01-03",
         "creator": "Monkey Mind Tales",
         "url": "https://www.dmsguild.com/product/295871/CCCMMT-0103-Honorable-Dissent--A-Price-of-the-Red-War-Adventure",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Wand of Secrets",
@@ -2769,7 +2769,7 @@
         "released": "2020-04-20",
         "creator": "Monkey Mind Tales",
         "url": "https://www.dmsguild.com/product/309003/CCCMMT-0105-Secrets-of-the-Cure",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Decanter of Endless Water",
@@ -2796,7 +2796,7 @@
         "released": "2019-06-07",
         "creator": "Monkey Mind Tales",
         "url": "https://www.dmsguild.com/product/279118/CCCMMT-0201-The-Stuff-of-Memories",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Amulet of Proof Against Detection and Location",
@@ -2816,7 +2816,7 @@
         "description": "Faction agents have braved the Glacier of the White Worm and arrived at the Monastery of the Yellow Rose, only to be denied entry. It’s up to you and your companions to secure their entry, but it’s sure to be a wild ride.",
         "released": "2018-09-09",
         "url": "https://www.dmsguild.com/product/251969/CCCMYR01-Friends-in-Need",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "War Pick, +2",
@@ -2845,7 +2845,7 @@
         "name": "Clever",
         "description": "A strange new crime family has been growing and tightening its grips on local businesses. Any who refuse their offers are found dead shortly after, torn apart by claws and teeth. Who is behind this wave of organized crime?",
         "released": "2019-05-16",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Portable Hole",
@@ -2887,7 +2887,7 @@
         "name": "Where Can She Be?",
         "description": "A master criminal has been making her way across the Moonsea, stealing priceless treasures at every stop. It’s up to you to trace her steps, find her allies, and stop her before she can claim her final prize.",
         "released": "2020-04-29",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Clockwork Amulet",
@@ -2911,7 +2911,7 @@
         "description": "The dawn of the final day arrives: The Red War looms on the horizon, and nothing can stop what is to come. But in those early hours before carnage begins, a group of adventurers are tasked with a covert operation to remove sensitive information left behind by the factions and sow subterfuge. Will internal and external influences keep them from completing their missions?",
         "released": "2018-10-12",
         "url": "https://www.dmsguild.com/product/254694/CCCOCC01-Red-War-Housekeeping",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Syranna’s Folly (Oathbow)",
@@ -2949,7 +2949,7 @@
         "description": "Festivals galore line the streets, parks, and courtyards of Thentia. It is the Feast of the Moon, and all are gathered to remember loved ones and friends that have departed this world, and to pay homage to their ancestors. At a celebration in the Brambles, followers of Kelemvor host a stage where revelers tell tales of heroic deeds of their lineage. When one tall tale gets out of hand, the city itself may pay the price.",
         "released": "2019-02-05",
         "url": "https://www.dmsguild.com/product/265961/CCCOCC02-Feast-of-the-Moon",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Dread Helm",
@@ -2963,7 +2963,7 @@
         "description": "The Gommurg Clan rarely deal with outsiders. These hill dwarves have isolated themselves for centuries to work on their craft and guard an ancient and sinister structure. Unfortunately, the world around them does not rest easy. An exile of the clan has inadvertently brought terrible woes to his ancestral home, and now he frantically seeks help to save his people.",
         "released": "2017-06-17",
         "url": "https://www.dmsguild.com/product/214453/CCCPDXAGE0101-The-White-Well",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -2972,7 +2972,7 @@
         "description": "The village near Oreclasp Keep has been reporting brutal owlbear attacks that have left people missing or dismembered. Lord Oreclasp has placed a bounty for every owlbear beak brought to Oreclasp Keep. The villagers don’t suspect the deeper problems brewing in the hunting preserve.",
         "released": "2017-06-17",
         "url": "https://www.dmsguild.com/product/214451/CCCPDXAGE0201-The-Dark-Hunt",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -2981,7 +2981,7 @@
         "description": "A chance encounter on an unassuming road leads to a dangerous and lucrative opportunity. But what seems simple on the surface turns out to be much more below. Thrust into a world where every enemy has an enemy and everyone has their own dark motive, the only chance to survive is to ally with the right foe. Sometimes “doing the right thing” comes only in shades of black. This is the first adventure of the *Swords Below the Moonsea* saga.",
         "released": "2018-05-25",
         "url": "https://www.dmsguild.com/product/242915/ZETH01-Six-Summoned-Swords-CCCPHA01",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Weave (Helm of Teleportation)",
@@ -3007,7 +3007,7 @@
         "description": "An earthquake has felled the windmill of Winton into a sinkhole. Were that not bad enough, humanoids have been seen skulking around its ruins at night, and an odd ruby glow can be seen from within. Can you discover the secret under Winton? Part One of *The Danger Downunder* series.",
         "released": "2018-10-18",
         "url": "https://www.dmsguild.com/product/256228/CCCPPTDD0101-Trouble-Under-Winton",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Lantern of Revealing",
@@ -3033,7 +3033,7 @@
         "description": "A mysterious plague has struck the town of Glister and now bodies have gone missing from the local cemetery! The grave keeper has noticed strange lights at the abandoned manor on the hill. Can the adventurers stop the plague and solve The Mystery at Coppertop Manor? Part One of the *Plaguestone* trilogy.",
         "released": "2019-05-22",
         "url": "https://www.dmsguild.com/product/277524/CCCPRETZPLA01-The-Mystery-at-Coppertop-Manor",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Gloves of Swimming and Climbing",
@@ -3063,7 +3063,7 @@
         "description": "The Yellow Tooth goblin tribe living in the old copper mine have starting showing signs of a sickness. Some terrible corruption has welled up from the depths. Can the source of corruption be found so that the peaceful goblins may stay in a Mine of Their Own? Part Two of the *Plaguestone* trilogy.",
         "released": "2019-05-22",
         "url": "https://www.dmsguild.com/product/277526/CCCPRETZPLA02-A-Mine-of-Their-Own",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "The Boots of Chakalakhan (Boots of False Tracks)",
@@ -3093,7 +3093,7 @@
         "description": "The Seer of Glister has discovered the location of an ancient temple with the only means to destroy the accursed Plaguestone. Can the adventurers stay one step ahead of the mysterious Thang’ard, avoid hordes of angry goblinoids, and destroy the Plaguestone in time at The Necroforge? Part Three of the *Plaguestone* trilogy.",
         "released": "2020-08-03",
         "url": "https://www.dmsguild.com/product/315649/CCCPRETZPLA03-The-Necroforge",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -3102,7 +3102,7 @@
         "description": "An evil menace once thought dead has resurfaced in Faerûn. This menace is a member of the Dark Priory, a doomsayer cult. You have the important mission to bring him to Phlan for prosecution.",
         "released": "2018-04-29",
         "url": "https://www.dmsguild.com/product/240922/CCCPRIORY01-Maritime-Mayhem",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Tankard of Sobriety",
@@ -3134,7 +3134,7 @@
         "description": "You find yourselves shipwrecked on a mysterious island in the Moonsea. Will you escape the island to hunt Yami, or will you die in the belly of its master? ",
         "released": "2018-04-29",
         "url": "https://www.dmsguild.com/product/240924/CCCPRIORY02-Prison-Pitfalls",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Scimitar, +1",
@@ -3166,7 +3166,7 @@
         "description": "The adventurers arrive on the docks of Phlan. A magical darkness hides the town. Their mission: wade in and recapture Yami, the Betrayer of the Realm. Be wary. He wields great power in his grudge against Faerûn.",
         "released": "2018-04-29",
         "url": "https://www.dmsguild.com/product/240925/CCCPRIORY03-Truths-in-Time",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Enduring Spellbook",
@@ -3196,7 +3196,7 @@
         "description": "The factions have heard murmurings of a new cult rising from the ashes of the obsessed dragon and elemental evil factions that they have dealt with in the past. This time, though, they seem to have an even more apocalyptic goal. A deep gnome informant claims the cult is dabbling with dangerous magic, but he, too, may have his own agenda",
         "released": "2017-09-12",
         "url": "https://www.dmsguild.com/product/221415/CCCQCC2017-Delusions-of-Grandeur-Dreams-of-Revenge",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Manual of Bodily Health",
@@ -3254,7 +3254,7 @@
         "description": "Rumors abound that the travelling faire known as Doctor Jubal’s Carnival of Curiosities have somehow acquired an actual, live tarrasque that they are displaying as part of their travelling show. An ancient eladrin who claims to be part of a secret order dedicated to protecting society from the creature is honor-bound to investigate the matter and wants the party to track down the travelling faire and see what they can discover.",
         "released": "2018-09-12",
         "url": "https://www.dmsguild.com/product/252176/CCCQCC201801-Of-Gods-and-Monsters",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Nine Lives Stealer Scimitar",
@@ -3298,7 +3298,7 @@
         "description": "A young girl offers to hire the party to retrieve a family heirloom stolen from her by an evil archmage. The first catch: the archmage is a Red Wizard of Thay. The second catch: your potential employer insists on NO KILLING!",
         "released": "2018-09-12",
         "url": "https://www.dmsguild.com/product/252178/CCCQCC201802-Heart-and-Soul",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Figurine of Wondrous Power (Brass Griffon)",
@@ -3339,7 +3339,7 @@
         "description": "A suspicious murder leads the heroes into an old section of Hillsfar’s sewers, where the local fey are stirring up trouble for the surface dwellers.",
         "released": "2019-07-14",
         "url": "https://www.dmsguild.com/product/282851/CCCQCC201901-Hillsfars-Rancid-Webs",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -3348,7 +3348,7 @@
         "description": "Evil fey are trying to conquer Hillsfar by infiltrating the city and controlling key government positions. Adventurers try to sneak into the Red Plumes Compound to prove hags control the Director’s office.",
         "released": "2019-07-15",
         "url": "https://www.dmsguild.com/product/282984/CCCQCC201902-Hag-of-Tricks",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -3357,7 +3357,7 @@
         "description": "A contingent of Red Wizards has arrived in Hillsfar and is planning something. Rumors abound of a massive ritual being prepared to affect the entire city. Is their intent to help the city or harm it? And how is the First Lord involved?",
         "released": "2019-07-16",
         "url": "https://www.dmsguild.com/product/282991/CCCQCC201903-The-Scarlet-Divide",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Horn of Silent Alarm",
@@ -3404,7 +3404,7 @@
         "released": "2019-12-12",
         "creator": "Monkey Mind Tales",
         "url": "https://www.dmsguild.com/product/295873/CCCQUAKE01-Red-War-Thayan-Peace-Keeper",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -3413,7 +3413,7 @@
         "description": "Thorin Ironcap has journeyed from his home in Mithral Hall to the Moonsea in search of his missing brother, Thoradin, who was exiled from Mithral Hall for blacksmithing experiments deemed “too risky”. Rumors exist that he is in Melvaunt, and that he had been using the forges in the city before disappearing recently. Thorin needs adventurers to find Thoradin before his experiments cost his brother his life…or worse!",
         "released": "2020-01-09",
         "url": "https://www.dmsguild.com/product/299975/CCCRCC0101-Flight-of-the-Forgemage",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Helm of Comprehending Languages",
@@ -3445,7 +3445,7 @@
         "description": "Rumors have surfaced of the return of Vorbyx, legendary King of Thar. The characters are hired to travel from Melvaunt deep into the humanoid-infested wastelands of Thar to ascertain the validity of the rumors and deal with the threat.",
         "released": "2020-01-09",
         "url": "https://www.dmsguild.com/product/299976/CCCRCC0102-The-King-of-Thar",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Immovable Rod",
@@ -3471,7 +3471,7 @@
         "description": "An injured scout comes to you after her companions are captured near the Moonsea’s eastern coast. Can you save her friends before they disappear forever, or will you find yourself captives instead?",
         "released": "2020-01-09",
         "url": "https://www.dmsguild.com/product/299977/CCCRCC0103-Chains-of-Desperation",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Boots of False Tracks",
@@ -3501,7 +3501,7 @@
         "description": "On the streets of Mulmaster, a highly addictive elixir called Black Bliss offers hours of relaxation and euphoria for those seeking respite from the dreary, difficult life many struggle to maintain. If left unchecked, it is only a matter of time before its widespread use starts to affect the economic and social structure within the City of Danger. But what exactly is the substance, and where did it come from?",
         "released": "2020-01-09",
         "url": "https://www.dmsguild.com/product/299978/CCCRCC0104-Black-Bliss",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Night Cutter (Scimitar of Life Stealing)",
@@ -3539,7 +3539,7 @@
         "description": "Throughout your adventuring career, you’ve collected scraps of information about the lost city of Tharn from scholars, sages, songs, stories, and legends. Many of the accounts are different, but they each have one thing in common: None who have sought Tharn in earnest have ever returned. Will you be the first to find the fabled city and uncover its past?",
         "released": "2020-04-24",
         "url": "https://www.dmsguild.com/product/311055/The-Lost-City-of-Tharn-An-Adventure-for-Tier-3-Characters",
-        "tier": [3],
+        "tier": 3,
         "length": 2,
         "apl": 13,
         "credits": [
@@ -3578,7 +3578,7 @@
         "description": "Enjoy a day at the faire and a chance to earn some easy coin in the process! A wealthy merchant wants to hire security for his daughter’s extravagant handfasting ceremony. It sounds like simple work, but why would a merchant hire seasoned adventures as wedding security? Perhaps the groom has some skeletons in his closet?",
         "released": "2020-01-09",
         "url": "https://www.dmsguild.com/product/299979/CCCRCC0106-The-Handfasting",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Periapt of Proof against Poison",
@@ -3611,7 +3611,7 @@
         "released": "2018-09-11",
         "creator": "Monkey Mind Tales",
         "url": "https://www.dmsguild.com/product/252159/CCCREAP01-Red-War-Lost-Ashes-of-a-Wayward-Gnome",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "The Choralier’s Companion (Saddle of the Cavalier)",
@@ -3651,7 +3651,7 @@
         "description": "While attending the first annual Reclamation Day Festival in Phlan, a mysterious book is given to the adventurers, leading them to what appears to be an abandoned print shop west of the city. There they meet a would-be benefactor, who seeks their help in ridding the southern ruins of Zhentil Keep of a growing threat, the Ebon Tide, a group of mercenaries and bandits that are quickly becoming the scourge of the Moonsea. Part One of the *Necromancer of Zhentil Keep* trilogy.",
         "released": "2017-09-18",
         "url": "https://www.dmsguild.com/product/221932/CCCROZK0101-Binders-Torment",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Wand of the War Mage, +2",
@@ -3729,7 +3729,7 @@
         "description": "A dark force is rising from the ruins of Zhentil Keep. The Zhentarim themselves are on the move to stop it from spreading, and you have been pulled into the struggle. Will you find the objects of power that your adversary searches for before it is too late? Part Two of the *Necromancer of Zhentil Keep* trilogy.",
         "released": "2017-09-18",
         "url": "https://www.dmsguild.com/product/221933/CCCROZK0102-Zhentarims-Lament",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Tome of Leadership and Influence",
@@ -3779,7 +3779,7 @@
         "description": "The necromancer has been revealed, and his tower of black rock now dominates the ruins of Zhentil Keep. You must race against his machinations, or a cloud of undeath will overwhelm the Moonsea and beyond. Part Three of the *Necromancer of Zhentil Keep* trilogy.",
         "released": "2017-09-18",
         "url": "https://www.dmsguild.com/product/221934/CCCROZK0103-Necromancers-Ascent",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Spellguard Shield",
@@ -3829,7 +3829,7 @@
         "description": "Recent goblin attacks near the outskirts of Hulburg prompted Lord Eorl Hulmaster to send a band of mercenaries into the foothills of the Galena Mountains to thin out their numbers. It was supposed to be an easy task, but it ended in disaster. The band’s leader remains trapped in goblin territory with their chieftan as his prisoner.  Lord Hulmaster now needs skilled adventurers to retrieve the mercenary and his captive before it’s too late.",
         "released": "2018-04-23",
         "url": "https://www.dmsguild.com/product/240487/CCCRPR01-Eyes-of-Blood",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Rebel’s Yell (Battleaxe, +1)",
@@ -3850,7 +3850,7 @@
         "released": "2017-04-25",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/210440/CCCSALT0101-Rumors-of-Riches",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Adamantine Chain Shirt or Mail",
@@ -3865,7 +3865,7 @@
         "released": "2017-04-25",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/210443/CCCSALT0102-Moor-Trouble",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Mace of the Silent Oasis (+1 Mace)",
@@ -3881,7 +3881,7 @@
         "creator": "Mount Ogden Gaming Company",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/210444/CCCSALT0103-Broken-Halls-of-Goldahroud",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Quiver of Elhonna",
@@ -3923,7 +3923,7 @@
         "released": "2018-06-09",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/244117/CCCSALT-0201-Mulmasters-Meddlings",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Periapt of Wound Closure",
@@ -3944,7 +3944,7 @@
         "released": "2018-06-09",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/244116/CCCSALT-0202-Tower-in-the-Valley",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Brazier of Commanding Fire Elemental",
@@ -4000,7 +4000,7 @@
         "released": "2018-10-02",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/253907/CCCSALT0205-The-Darkness-Never-Forgets",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Cape of the Mountebank",
@@ -4026,7 +4026,7 @@
         "description": "The mining town of Glister has had a prosperous year, and people have been coming in search of work and wealth. A call has gone out for help in some local matters, but getting there is no easy task. Catch the caravan and travel through treacherous Thar! Part One of *Kossuth’s Kiss*.",
         "released": "2018-03-19",
         "url": "https://www.dmsguild.com/product/237410/CCCSCAR0101-Corrupted-Artery",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Ornate Dagger, +1",
@@ -4052,7 +4052,7 @@
         "description": "The mining town of Glister has a problem. The latest caravan only arrived with a part of its supplies. Orcs waylaid them, took much needed goods, and are now making demands that the town return an artifact that is theirs, but the town is unfamiliar with. Help track down information about this artifact and possibly defend the city from an orc invasion! Part Two of *Kossuth’s Kiss*.",
         "released": "2018-05-15",
         "url": "https://www.dmsguild.com/product/242220/CCCSCAR0102-Glister-By-Light",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Stone of Good Luck",
@@ -4082,7 +4082,7 @@
         "description": "The mining town of Glister is under siege. Unprepared and short of supplies, the siege threatens to starve out the town. The mine has provided the only path that may provide some help; a collapsed tunnel has revealed an unknown cave that runs deep into the mountain. Part Three of *Kossuth’s Kiss*.",
         "released": "2019-03-18",
         "url": "https://www.dmsguild.com/product/267891/CCCSCAR0201-Glister-By-Dark",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Clockwork Amulet",
@@ -4124,7 +4124,7 @@
         "description": "A recent earthquake has revealed an unexplored cave system in the forests around Zhentil Keep, and rumors of old pirate treasure are drawing treasure hunters. Yet something is warping nature and causing attacks on the unwary. You’ve been asked to find the source and to set things right. Are you ready?",
         "released": "2019-08-21",
         "url": "https://www.dmsguild.com/product/286424/CCCSCAR0202-Natures-Defense",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Potion of Healing",
@@ -4156,7 +4156,7 @@
         "description": "The orcs of the Burning Daggers clan have been pacified with the return of their religious artifact. But just as Glister begins to breathe again, an old “friend” returns with troubling news: a shaman has stirred up the clan to want war again. Can the adventurers stop this new leader and bring about peace again?",
         "released": "2020-07-01",
         "url": "https://www.dmsguild.com/product/317737/CCCSCAR0301-Devotees-of-the-Dagger",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -4165,7 +4165,7 @@
         "description": "With the discovery of Min Thelbur, a lost dwarven city, dwarven explorers descended to locate the royal warhammer of King Filburt Mithrilshield. However, the vermin had already moved in and the dwarves were unable to make their way into the palace, where ancient records indicate the warhammer was stored. They are hiring adventurers for an expedition to retrieve King Mithrilshield’s warhammer.",
         "released": "2020-07-01",
         "url": "https://www.dmsguild.com/product/317738/CCCSCAR0302-Secrets-Underneath-Glister",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -4174,7 +4174,7 @@
         "description": "In the midst of a ferocious storm, a band of mercenaries raids a lighthouse. Is this just a plot against trade with Mulmaster, or something more sinister? Journey down the River Lis and explore a forgotten keep in search of answers.",
         "released": "2017-03-02",
         "url": "https://www.dmsguild.com/product/206459/CCCSFBAY0101-Plots-in-Motion",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Smoke (Shortsword, +2)",
@@ -4220,7 +4220,7 @@
         "description": "The alliance between Thay and Mulmaster is stronger than ever, and this does not sit well with some of the neighboring countries; in fact, it appears that one of them is attacking caravans leaving Mulmaster and heading towards Thay. You have been asked by the Cloaks to investigate the attacks, discover who is behind them, and stop them if you can. Part One of *Agents of the Cloaks*.",
         "released": "2017-12-29",
         "url": "https://www.dmsguild.com/product/230005/CCCSFBay0201-Old-Enemies-Arise",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Cloak of Displacement",
@@ -4292,7 +4292,7 @@
         "description": "You have been hired by the Brotherhood of the Cloaks to journey into the heart of desolate Thar. Once there you are to negotiate with the oni lord of Fangjaws Hold for the rights to excavate an ancient minotaur lord’s tomb within his territory. Part Two of *Agents of the Cloaks*.",
         "released": "2018-08-21",
         "url": "https://www.dmsguild.com/product/250384/CCCSFBay0202-Rise-of-the-Ogre-King",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Amulet of Health",
@@ -4355,7 +4355,7 @@
         "description": "An excavation team was sent to unearth the tomb of an ancient minotaur lord in Thar under the protection of the Tharkul of Fangjaws Hold. But something went wrong, and an undead army poured out of the burial site and laid siege to Fangjaws Hold. You have been hired by the Brotherhood of the Cloaks to help deal with the undead threat. Part Three of *Agents of the Cloaks*.",
         "released": "2018-08-21",
         "url": "https://www.dmsguild.com/product/250386/CCCSFBay0203-The-Risen-Minotaur-Lord",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Belt of Hill Giant Strength",
@@ -4399,7 +4399,7 @@
         "description": "What links an infamous Zhentarim mercenary with a brilliant but tormented artificer? To find out, the adventurers must break the goblinoid siege of the village of Westfir. After the bizarre goblins are defeated, the Cornflower Hive must be destroyed. Ultimately, what secrets are held in the grain mill by the Westfork river?",
         "released": "2018-01-26",
         "url": "https://www.dmsguild.com/product/232430/CCCSFBAY0401-The-Cornflower-Hive",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Javelin of Lightning",
@@ -4443,7 +4443,7 @@
         "description": "A Mulmaster refugee named Ani Kuleimatt discovered references to a forgotten mine near the Moonsea, a mine rumored to produce an unexpected export. The adventurers are hired to locate the complex and secure its resources for the Mulmaster Diaspora.",
         "released": "2018-01-26",
         "url": "https://www.dmsguild.com/product/232428/CCCSFBAY0402-Under-Earth--Stone",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Traveler’s Heart (Stone of Controlling Earth Elementals)",
@@ -4476,7 +4476,7 @@
         "description": "The fey hold sway over the forests of Cormanthor. Their presence has kept the goblinoids disorganized and warring amongst themselves. Now, a deadly enemy of the woods has laid claim to a Feywild glade. This foe is slaughtering the forest defenders and rallying goblinoid tribes in the name of vengeance. Can you stop them in time?",
         "released": "2018-06-28",
         "url": "https://www.dmsguild.com/product/245751/CCCSFBAY0403-The-Ashen-Scar",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Boots of Elvenkind",
@@ -4512,7 +4512,7 @@
         "description": "In a smoky tavern in the frontier town of Ylraphon, a drunken sailor cries in her beer. Befriending a group of adventurers, she confesses that she saw her spouse with someone else, and she worries what may come of it. Beseeching the adventurers to help her, the sailor asks them to investigate to find if her fears have come true, or if it is all a simple misunderstanding.",
         "released": "2018-08-13",
         "url": "https://www.dmsguild.com/product/249748/CCCSHINY02-An-Open-Secret",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Eyes of the Eagle",
@@ -4526,7 +4526,7 @@
         "description": "A svirfneblin clan elder and arcanist of Lumindearth has gone missing. Courageous adventurers have been called upon to bring him home, but they’ll need their wits about them if they are to survive this rescue mission in the enigmatic Underdark.",
         "released": "2019-02-22",
         "url": "https://www.dmsguild.com/product/267114/CCCSHINY04-Elusion-of-Grand-Yore",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Gem of Seeing",
@@ -4591,7 +4591,7 @@
         "released": "2019-04-08",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/262840/CCCSKULL0101-A-Murder-Most-Foul",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Heward’s Handy Haversack",
@@ -4618,7 +4618,7 @@
         "released": "2019-04-08",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/262841/CCCSKULL0102-Not-All-Who-Are-Lost-Should-Be-Found",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Wand of Magic Missiles",
@@ -4651,7 +4651,7 @@
         "released": "2019-04-08",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/262844/CCCSKULL0103-Who-Pulls-the-Strings",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Dimensional Shackles",
@@ -4677,7 +4677,7 @@
         "description": "The last descendent of an ancient order would like to vanquish that evil before it spreads, but, betrayed by his age, he’ll need the help of noble adventurers to fulfill his ancient thirst for vengeance.",
         "released": "2019-08-20",
         "url": "https://www.dmsguild.com/product/286221/CCCSLMH0101-Codex-Venator--The-Last-Hunter",
-        "tier": [2],
+        "tier": 2,
         "storyAwards": [
             {
                 "name": "Newblood Hunters",
@@ -4691,7 +4691,7 @@
         "description": "A popular noble just outside the city of Hillsfar is in trouble. He has been poisoned and his niece has been kidnapped by a group of outlaw druids who call themselves, the Blackleaf Clan. Adventurers are sought to go on a quest to find a mysterious woodland sage through a hidden cavern that hides a temple that has been concealed for countless years. Only this sage holds the key to saving the nobleman’s life and helping the adventurers find the lair of the Blackleaf Clan so they can save the well-loved nobleman and rescue his niece. Prequel to the *Devil in Hillsfar*.",
         "released": "2018-09-29",
         "url": "https://www.dmsguild.com/product/253547/CCCSQC001-The-Woodland-Sage",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -4700,7 +4700,7 @@
         "description": "A lot has changed in Hillsfar since the assault of the Dark Feys from the Cormanthor Forest. Due to limited options, First Lord Vuhm Yestral accepted an offer for aid from the Red Wizards of Thay, who now work to rebuild the city. A Senate has been elected to ensure fair rule in Hillsfar, and a new Guard Captain has also been selected to replace the traitor, Jandra Gragdowel. Adventurers receive a job offer from the new Guard Captain. What could he need? Part One of the *Devil in Hillsfar*.",
         "released": "2018-09-29",
         "url": "https://www.dmsguild.com/product/253561/CCC--SQC--02--01-None-the-Wiser",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Bracers of Defense",
@@ -4735,7 +4735,7 @@
         "description": "Thay is turning over a new leaf! Their new ambassador to Hillsfar is a specialist in good magic, so the PCs are recruited to assist her in acquiring good sources of power for her spells. What could go wrong? Part Two of the *Devil in Hillsfar*.",
         "released": "2018-10-01",
         "url": "https://www.dmsguild.com/product/253726/CCC--SQC--02--02-Last-Gasp",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Elven Chain",
@@ -4771,7 +4771,7 @@
         "description": "After the death of a local historian, adventurers discover that no one is safe within the walls of Hillsfar. Will you they able to stop the culprits before the city is consumed from within?",
         "released": "2019-12-13",
         "url": "https://www.dmsguild.com/product/295761/CCCSQC00301-Consumption",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Pipe of Smoke Monsters",
@@ -4800,7 +4800,7 @@
         "description": "As news of gruesome murders begin to die down within the walls of Hillsfar, reports of deaths in the farmland reach the Senate. Coincidences or is there a bigger evil behind all this?",
         "released": "2019-12-13",
         "url": "https://www.dmsguild.com/product/295790/CCC--SQC--0302-Shiitake",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Heward’s Handy Spice Pouch",
@@ -4853,7 +4853,7 @@
         "description": "Humans and nonhumans are dying of poison across Hillsfar. As old tensions flare up in the Senate, can you bring the mysterious mastermind to justice before civil war erupts in the streets?",
         "released": "2019-12-13",
         "url": "https://www.dmsguild.com/product/295878/CCCSQC-0303-Toxicity",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Bag of Tricks (Rust)",
@@ -4889,7 +4889,7 @@
         "released": "2017-10-03",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/223038/CCCSRCC0101-Trouble-in-the-Old-City",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Corrupted Flamesoul Stone",
@@ -4947,7 +4947,7 @@
         "released": "2017-10-03",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/223039/CCCSRCC0102-Down-the-River-of-Snakes",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Foxblade (Shortsword, +1)",
@@ -5001,7 +5001,7 @@
         "released": "2017-10-03",
         "creator": "Mount Ogden Gaming Company",
         "url": "https://www.dmsguild.com/product/223041/CCCSRCC0103-Altar-of-the-Smoldering-Eye",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Staff of the Adder",
@@ -5052,7 +5052,7 @@
         "description": "That which must remain lost has been discovered.\n\n As magic rains down upon Mulmaster and the city falls to ruin, deep within the inner sanctum of the Thayvian Embassy, Szass Tam’s agents work tirelessly to decipher the Lost Journal of Karsus. Can the heroes stop Szass Tam before he learns the secrets of history’s most notorious Wizard?",
         "released": "2018-09-12",
         "url": "https://www.dmsguild.com/product/252239/CCCST21-Red-War-Embassy-of-Evil",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Thayvian Mantle of Spell Resistance",
@@ -5135,7 +5135,7 @@
         "description": "Zhentarim traders. Shadowy figures roaming the fields near Hillsfar. How do these all relate? Everything traces back to the recently unearthed grave-barrows. Rescuing a caravan from undead attackers, the adventurers learn of an ancient danger.",
         "released": "2018-05-01",
         "url": "https://www.dmsguild.com/product/241068/CCCSTORM01-The-Barrows-of-Solina",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Dawnfire (Sun Blade)",
@@ -5173,7 +5173,7 @@
         "description": "Bloodpurge, a bayou village in the Flooded Forest, has come under siege by malevolent powers. Many hunters in this shanty-town have gone missing. Desperate folk murmur rumors of evil lurking in the willow groves.",
         "released": "2019-04-04",
         "url": "https://www.dmsguild.com/product/271604/CCCSTORM02-Swamp-of-Sorrow-Bloodpurge-Village",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Bag of Tricks (Tan)",
@@ -5193,7 +5193,7 @@
         "description": "The food shortages in Thentia have gotten worse. The crops aren’t producing as much, and with the Harvest Festival approaching, the government of Thentia is seeking people to investigate the farmlands to find the cause. Popular belief says that there are monstrous beings rampaging the farms, but other powers are afoot… Part One of *Song of Fates*.",
         "released": "2018-07-10",
         "url": "https://www.dmsguild.com/product/246844/CCCTAROT0101-Awakening-of-Fates",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Ordine Sage Robe (Robe of Useful Items)",
@@ -5227,7 +5227,7 @@
         "description": "Storms batter Thentia and the rains are threatening to wash away what little farm land is available. But these are not the only storms to threaten the peace as various powers wage a quiet struggle around the city. Are you brave enough to become an Agent of the Fates? Part Two of *Song of Fates*.",
         "released": "2018-07-05",
         "url": "https://www.dmsguild.com/product/246352/CCCTAROT0102-By-the-Light-of-the-Moon",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Shield of the Moon (Shield, +1)",
@@ -5271,7 +5271,7 @@
         "description": "As Thentia’s lighthouse grows dim so too does faith within the city. In the midst of this a priest of Ilmater has been accused of a heinous crime. But is this really the truth of the matter, or are we all just Agents of Fate? Part Three of *Song of Fates*.",
         "released": "2018-07-07",
         "url": "https://www.dmsguild.com/product/246073/CCCTAROT0103-A-Martyred-Heart",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Ward of the Martyr (Periapt of Health)",
@@ -5299,7 +5299,7 @@
         "description": "The normally joyous festival of Highharvestide fast approaches the Moonsea but denizens of Thentia are not celebrating. Thanks to recent bad harvests along the River Thent and an increasingly impassible harbor, famine looms. Survival may depend on the arrival of every single larder-laden wagon. Could more trouble than bandits stand between the farmers and the walls of Thentia this season? Part Four of *Song of Fates*.",
         "released": "2018-08-20",
         "url": "https://www.dmsguild.com/product/250268/CCCTAROT0104-Tangled-Woods",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Torag’s Hammer (Warhammer, +1)",
@@ -5337,7 +5337,7 @@
         "description": "The Council of Mages has recently sent a young apprentice out to investigate the strange disturbances that have beset Thentia. It has been several weeks and he has not yet reported back. Is he simply late or is there something more sinister afoot? Part Five of *Song of Fates*.",
         "released": "2018-09-07",
         "url": "https://www.dmsguild.com/product/251826/CCCTarot0105-The-Lost-Apprentice",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Auntie Sue’s Broom (Broom of Flying)",
@@ -5369,7 +5369,7 @@
         "description": "Love, loss, and lies intertwine as the election of a new WatchLord approaches in Thentia. Political intrigue runs rampant and the lives of several young women are in danger as the Fates draw you in once again. Part Six of *Song of Fates*.",
         "released": "2018-08-19",
         "url": "https://www.dmsguild.com/product/251831/CCCTAROT0106-Lies-in-the-Moonlight",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Instrument of Illusions",
@@ -5407,7 +5407,7 @@
         "description": "Election time in Thentia is here! With the recent, strange events surrounding Thentia, there is a tense contest for the seat of Watchlord of Thentia. The town has divided itself into factions supporting their candidates, and with that, the people ahve been very hostile to each other. On election day, certain key figureheads in the town need to vote, but might need some help getting there… Part Seven of *Song of Fates*.",
         "released": "2018-09-07",
         "url": "https://www.dmsguild.com/product/251835/CCCTAROT0107-The-Seat-of-the-Ruler",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Amarantha’s Heart (Dark Shard Amulet)",
@@ -5451,7 +5451,7 @@
         "description": "With the election of a new Watchlord, Thentia’s will has been made clear: the infected must be kept from the healthy. Great walls now cut off the Harbor District from the rest of Thentia where the Watchlord promises the ill are being taken care of, but how do they really live? Part Eight of *Song of Fates*.",
         "released": "2019-04-18",
         "url": "https://www.dmsguild.com/product/273101/CCCTAROT0201-A-Sunk-Cost",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "The Plague Fly (Figurine of Wondrous Power, Ebony Fly)",
@@ -5488,7 +5488,7 @@
         "description": "A strange visitor has arrived in Thentia. Both the Council of Mages and Merchants are interested in speaking with him as things in Thentia have been a bit gloom. Once his business is concluded in town he’ll need an escort back home to the…Feywild.  Part Ten of *Song of Fates*.",
         "released": "2019-03-01",
         "url": "https://www.dmsguild.com/product/267942/CCCTarot0203-To-Boldly-Go",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Auntie Helena’s Wand (Wand of Paralysis)",
@@ -5522,7 +5522,7 @@
         "description": "The havoc caused by the emergence of the Tarot Cards is not limited just to the lands of Thentia. Many trading vessels lie at the bottom of the harbor, sunk by unknown causes. Today, another attempt is made to raise one of those sunken ships. Part Eleven of *Song of Fates*.",
         "released": "2019-07-11",
         "url": "https://www.dmsguild.com/product/281792/CCCTAROT0204-Moonlit-Waves-Part-1",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Folding Boat",
@@ -5556,7 +5556,7 @@
         "description": "The number of infected have grown. The quarantine is filling with people. One of the former Watchlord candidates, Edea Valkrana, has contacted you asking for help. Discreetly. Rumors of a cure are rampant—saying there is a mysterious figure hiding somewhere in Thentia near the wall. Is it real? Only one way to find out… Part Twelve of *Song of Fates*.",
         "released": "2019-07-05",
         "url": "https://www.dmsguild.com/product/281715/CCCTAROT0205-Hollow-Hopes",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "The Auftrag’s Buskins (Winged Boots)",
@@ -5580,7 +5580,7 @@
         "description": "The Council of Mages is under attack! Karasht Silverflame blames his murdered apprentices on the revival of a strange, almost forgotten local cult. He wants you to capture their leader and end the killing spree. But can his stories about a flying sword that slays on its own possibly be true? Part Thirteen of *Song of Fates*.",
         "released": "2018-08-19",
         "url": "https://www.dmsguild.com/product/246698/CCCTAROT0206-The-Hand-That-Wields",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -5597,7 +5597,7 @@
         "description": "A small community has arisen among the asymptomatic inhabitants of the Forbidden Zone which has brought much needed stability to the area. However, that peace is being threatened by a raving religious zealot. Can the two sides find common ground, or is the Forbidden Zone destined to erupt in barbarity once more? Part Fifteen of *Song of Fates*.",
         "released": "2020-04-20",
         "url": "https://www.dmsguild.com/product/308590/CCCTAROT0208-Winding-Road-to-Freedom",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Mantle of Freedom (Cloak of Billowing)",
@@ -5631,7 +5631,7 @@
         "description": "Deep in Karasht Silverflame’s vault is an item that can control the infected Thentia citizens. Is he storing it for safekeeping or does he have sinister plans? The Selunites have tasked you with retrieving the item and finding out Karasht’s plans. Part Sixteen of *Song of Fates*.",
         "released": "2020-04-20",
         "url": "https://www.dmsguild.com/product/301715/CCCTarot0209-The-Thentia-Job",
-        "tier": [2],
+        "tier": 2,
         "spellbooks": [
             {
                 "name": "Karasht’s Spellbook",
@@ -5672,7 +5672,7 @@
         "description": "In Thentia, the illness seems to have subsided, and there is rioting demand for the walls to come down. However, something lurks in the wall that is a threat to the citizens. See where allegiances lie and find the hidden machinations for those interested in the power of Fate. Part Seventeen of *Song of Fates*.",
         "released": "2020-08-03",
         "url": "https://www.dmsguild.com/product/321118/CCCTAROT0210-Facades-Undone",
-        "tier": [2],
+        "tier": 2,
         "incomplete": true
     },
     {
@@ -5681,7 +5681,7 @@
         "description": "This is a simple caravan job—deliver the mysterious box to Thentia. Just one thing—don’t open the box. And protect it from all attacks. A Side Story to the *Song of Fates*.",
         "released": "2020-05-04",
         "url": "https://www.dmsguild.com/product/308752/CCCTAROTS101-A-Long-Night",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Immovable Rod",
@@ -5707,7 +5707,7 @@
         "description": "Steam has been rising from ruins east of the city of Thentia for almost two tendays. Scouts and adventurers have gone to investigate, but have not returned. What might be lurking in the depths of those dark places, and will it remain there? Part One of *Squamous Writhings*.",
         "released": "2017-10-10",
         "url": "https://www.dmsguild.com/product/223663/CCCTHENT0101-Beneath-the-Surface",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Pearl of Power",
@@ -5727,7 +5727,7 @@
         "description": "In ruins near the city of Thentia, grungs have been trying to build a portal where they could move slaves in secret from the city of Melvaunt. But something sinister took hold of them, trapping them in the darkness. A map of the ancient city, which once stood on the surface of the land, leads the adventurers deeper into the catacombs. But will they find glory and riches? Or horror and death? Part Two of *Squamous Writhings*.",
         "released": "2017-10-10",
         "url": "https://www.dmsguild.com/product/223665/CCCTHENT0102-Those-That-Dwell-Beneath",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Periapt of Wound Closure",
@@ -5757,7 +5757,7 @@
         "description": "The call of fame and fortune has led the adventurers into the deep dark beneath the ruins near the city of Thentia. Facing off against unknown horrors, they have found both enemies and allies. Now, something from the beginning of the world stirs in the black…and it hungers. Part Three of *Squamous Writhings*.",
         "released": "2017-10-10",
         "url": "https://www.dmsguild.com/product/223667/CCCTHENT0103-The-Dreaming-Relic",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Instrument of the Bards (Mac-Fuirmidh Cittern)",
@@ -5807,7 +5807,7 @@
         "description": "An ancient kindness repaid, a disaster waiting to happen. Can a timely intervention save a befuddled old man and the forgotten cove he loves so dearly.",
         "released": "2019-12-30",
         "url": "https://www.dmsguild.com/product/299061/CCCTTS1-Three-Moles-for-Father-Octavius",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Lead Mining Goggles (Goggles of the Night)",
@@ -5827,7 +5827,7 @@
         "description": "The city state of Thentia is plagued with relentless storms, with no sunlight in sight. The local wizards believe that the weather may be linked to a sunken ruin and the previous expedition has gone missing. Will the party be able to rescue the adventurers and clear the skies once and for all?",
         "released": "2019-12-14",
         "url": "https://www.dmsguild.com/product/297746/CCCTTS3-Heart-of-the-Storm",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Decanter of Endless Water",
@@ -5847,7 +5847,7 @@
         "description": "Folk tales warn of strange noises from the Cormanthor Forest when winter fogs are thickest and the black of night has no shadows to cast. When such noises are heard on a late summer’s afternoon, perhaps it’s time to turn once again to the old stories?",
         "released": "2018-10-01",
         "url": "https://www.dmsguild.com/product/253816/CCCUK1-Call-of-the-Elvenflow",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Dust of Dryness",
@@ -5875,7 +5875,7 @@
         "description": "Ill winds blow over Wayward. The men drink apart from their wives, while a mysterious traveler sows discontent between married couples. The Wayward wives have had enough and are plotting revenge.",
         "released": "2018-10-01",
         "url": "https://www.dmsguild.com/product/253817/CCCUK2-The-Wayward-Wives",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Broom of Flying",
@@ -5895,7 +5895,7 @@
         "description": "Everyone in Moonfern Ford knows to avoid the Tainted Grove, a place of darkness and evil amidst the sylvan beauty of Cormanthor. When a young hunter goes missing in the forest, things in the village take a dark turn.",
         "released": "2019-07-22",
         "url": "https://www.dmsguild.com/product/283656/CCCUK3-The-Tainted-Grove",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Dust of Disappearance",
@@ -5915,7 +5915,7 @@
         "description": "An ancient legend, a missing wife, and a broken heart that time won’t mend.",
         "released": "2019-07-22",
         "url": "https://www.dmsguild.com/product/283657/CCCUK4-Bourne-of-Candles",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Cloak of the Manta Ray",
@@ -5939,7 +5939,7 @@
         "description": "Jeny Greenteeth again needs the help of adventurers, and this time, she is willing to pay a large price for their help—restoring the pact between Phlan and the fey of the Quivering Forest. All she needs is a coin from a dragon hoard. Easy enough, right? You may change your mind when you hear the name of the dragon…",
         "released": "2020-05-08",
         "url": "https://www.dmsguild.com/product/312580/CCCVOTE0101-A-Small-Trifle",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Emerald Eye (Ersatz Eye)",
@@ -5998,7 +5998,7 @@
         "description": "A devout priestess of Torm seeks one of three platinum discs once carried by a trio of Banite fanatics. To retrieve the item, the characters must travel into the rocky, broken lands of Thar and unravel the protective magic left behind by the archmage who originally hid the disc. Part One of the *Tenets of Bane* series.",
         "released": "2018-04-26",
         "url": "https://www.dmsguild.com/product/240678/CCCWWC01-In-the-Face-of-Fear",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Wand of Magic Missiles",
@@ -6029,7 +6029,7 @@
         "description": "A devout priestess of Torm seeks one of three platinum discs once carried by a trio of Banite fanatics. To retrieve the item, the characters must sail the Moonsea, journey to its depths, and unravel the protective magic left behind by the archmage who originally hid the disc. Part Two of the *Tenets of Bane* series.",
         "released": "2018-04-26",
         "url": "https://www.dmsguild.com/product/240679/CCCWWC02-Dark-Waters-of-Hate",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Trident of Fish Command",
@@ -6066,7 +6066,7 @@
         "description": "A devout priestess of Torm seeks one of three platinum discs once carried by a trio of Banite fanatics. To retrieve the item, the characters must delve an abandoned dwarven mine and unravel the protective magic left behind by the archmage who originally hid the disc. Part Three of the *Tenets of Bane* series.",
         "released": "2018-04-26",
         "url": "https://www.dmsguild.com/product/240680/CCCWWC03-Tyrant-of-the-Forgotten-Forge",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Bag of Holding",
@@ -6091,7 +6091,7 @@
         "description": "A priestess of Torm needs adventurers to travel to Thentia with three platinum discs that once belonged to a trio of Banite fanatics. From there, the items are bound for Elturgard, where they can finally be destroyed. It seems like a simple task, but followers of Bane also seek the discs. Can you see your cargo safely to its destination and rid the Moonsea of its ill influence, or will Bane’s followers successfully reclaim what they believe is their rightful property? Part Four of the *Tenets of Bane* series.",
         "released": "2018-04-26",
         "url": "https://www.dmsguild.com/product/240681/CCCWWC04-The-Black-Hand",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Cloak of Protection",
@@ -6117,7 +6117,7 @@
         "description": "The attempted destruction of three platinum discs called the Tenets of Bane has gone awry, releasing the souls of their former owners back into the world of the living. Priestess Malana Homwell once again calls for aid from the Moonsea’s factions to track down and eliminate these vile Banites, who call themselves the Servants of Strife. Can you locate the blackguard Mace Dred and stop him before he causes even more death and destruction? Part Five of the *Tenets of Bane* series.",
         "released": "2019-12-17",
         "url": "https://www.dmsguild.com/product/298149/CCCWWC05-Tyrant-of-Orcs",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Ring of Warmth",
@@ -6153,7 +6153,7 @@
         "description": "The attempted destruction of three platinum discs, called the Tenets of Bane, has gone awry, releasing the souls of their former owners back into the world of the living. Priestess Malana Homwell once again calls for aid from the Moonsea’s factions to track down and eliminate these vile Banites, who call themselves the Servants of Strife. Can you get to Sax Magnus and stop her before she summons a ravening horde? Part Six of the *Tenets of Bane* series.",
         "released": "2019-12-17",
         "url": "https://www.dmsguild.com/product/298151/CCCWWC06-The-Fear-of-Fiends",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Brooch of Shielding",
@@ -6195,7 +6195,7 @@
         "description": "The attempted destruction of three platinum discs, called the Tenets of Bane, has gone awry, releasing the souls of their former owners back into the world of the living. Priestess Malana Homwell once again calls for aid from the Moonsea’s factions to track down and eliminate these vile Banites, who call themselves the Servants of Strife. Can you travel to Glister and unravel the mystery of who is trying to turn the town against itself? Part Seven of the *Tenets of Bane* series.",
         "released": "2019-12-17",
         "url": "https://www.dmsguild.com/product/298152/CCCWWC07-The-Icy-Hand-of-Hate",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Sentinel Shield",
@@ -6231,7 +6231,7 @@
         "description": "The platinum discs known as the Tenets of Bane have been reclaimed, and their owners, the Servants of Strife, no longer threaten the Moonsea. As the last days of summer rapidly approach, your faction asks you to meet Priestess Malana Homwell in the city of Thentia, where the lore wizard Rylan Elentaur believes he may have found a way to destroy the discs once and for all. Part Eight of the *Tenets of Bane* series.",
         "released": "2019-12-17",
         "url": "https://www.dmsguild.com/product/298153/CCCWWC08-Pool-of-Annihilation",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Gloves of Missile Snaring",
@@ -6271,7 +6271,7 @@
         "description": "Humanoid refugees have struggled to make Est’ellma a haven for all races. Sudden disappearances have disturbed their sanctuary. Will you go to their aid?",
         "released": "2020-04-29",
         "url": "https://www.dmsguild.com/product/309301/CCCWWC09-Defenders-of-EstEllma",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Decanter of Endless Water",
@@ -6297,7 +6297,7 @@
         "description": "Brental’s Caravan Company offers a training course for adventurers seeking the vaunted title Brental’s Roads Scholar. Will you prove yourselves worthy?",
         "released": "2020-05-04",
         "url": "https://www.dmsguild.com/product/309308/CCCWWC10-Brentals-Roads-Scholars",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Immovable Rod",
@@ -6323,7 +6323,7 @@
         "description": "You’ve come to the wild frontier outpost of Ylraphon, a town rebuilt from destruction and now ruled by adventurers, to pass on a proud noblewoman’s final wish to her dungeon-raiding heirs. Yet the young heroes of House Marsh have delved too deep. Can you rescue them from a trap-filled ruin, vengeful assassins, and a mysterious entity that turns its attackers into its defenders? Part One of the *Whispers Over Ylraphon* series.",
         "released": "2017-07-02",
         "url": "https://www.dmsguild.com/product/215448/CCCYLRA0101-Her-Dying-Wish",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Ioun Stone of Reserve",
@@ -6419,7 +6419,7 @@
         "description": "Refugees from Mulmaster have flooded the rough-and-tumble town of Ylraphon. Poverty, shortages, overcrowding, and an unnatural heatwave have tempers running high. When a series of mysterious crimes erupt, the people are desperate for someone to blame. Can you find the connection and the culprit, or will the angry mob deal its own form of justice? Part Two of the *Whispers Over Ylraphon* series.",
         "released": "2017-07-02",
         "url": "https://www.dmsguild.com/product/215484/CCCYLRA0102-Uneasy-Lies-the-Head",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Flame Tongue",
@@ -6495,7 +6495,7 @@
         "description": "Civil disorder threatens to throw the leaderless town of Ylraphon into chaos. You find respite from this political strife when the Chiang Emporium hires you for an escort mission. The task: sail south to accompany a Chiang Emporium envoy on a return voyage to Ylraphon, where her wedding is to take place upon her arrival. The voyage is perilous, but not nearly as complicated as what awaits when you finally make it back to town. Part Three of the *Whispers Over Ylraphon* series.",
         "released": "2017-07-02",
         "url": "https://www.dmsguild.com/product/215508/CCCYLRA0103-Bound-By-Duty",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Oath Basin of Alyolvoy (Bowl of Commanding Water Elementals)",
@@ -6564,7 +6564,7 @@
         "description": "Anticipation is running high for the Ylraphon Convocation of Delvers, Seekers, and Sages, and every adventurer worth their salt is flocking to Ylraphon to take part. The festival promises tests of skill, renowned guest lecturers, an extensive Mercantile Exhibition, and many more attractions. But within this celebration of the exploratory arts lurks an uninvited guest of honor—danger!",
         "released": "2020-05-04",
         "url": "https://www.dmsguild.com/product/312289/CCCYLRASDCC011-Exploratory-Arts",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -6573,7 +6573,7 @@
         "description": "The Ylraphon Convocation of Delvers, Seekers, and Sages is in full swing, and its Mercantile Exhibition is packed with festival-goers. But not all of them are here for bargains, as the characters soon discover, and good deeds may not be enough to bring peace to Ylraphon.",
         "released": "2020-05-04",
         "url": "https://www.dmsguild.com/product/312294/CCCYLRASDCC012-No-Good-Deed",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -6582,7 +6582,7 @@
         "description": "The many disasters plaguing the first-ever Ylraphon Convocation of Delvers, Seekers, and Sages seem to be the work of someone or something in the Flooded Forest. To put a stop to the festival’s troubles, the characters will brave the vast swamp and consult with the Wise Woman who lives there—and find themselves caught up in a sinister plot centuries in the making.",
         "released": "2020-05-04",
         "url": "https://www.dmsguild.com/product/312295/CCCYLRASDCC013-Cast-In-Shadow",
-        "tier": [1],
+        "tier": 1,
         "incomplete": true
     },
     {
@@ -6591,7 +6591,7 @@
         "description": "A dark shadow creeps over the small village of Redcraft, leaving deep red trails of blood in its wake. Missing villagers and livestock plague the town and it is up to the adventurers to discover the root of the problem…was that a wolves howl that just broke the silence of the night? Part One of the *Blood Moon Chronicles*.",
         "released": "2018-10-31",
         "url": "https://www.dmsguild.com/product/257622/CCCZiege01-Shadows-of-Blood-Moon",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Figurine of Wondrous Power (Ivory Goat)",
@@ -6615,7 +6615,7 @@
         "description": "Lycanthropes have infested the Cormanther Woods surrounding the village of Redcraft, barely kept at bay by our brave adventurers. A kidnapping has spurred the village into action, but deep in the woods what one expects to find isn’t always what one finds… Part One of the *Blood Moon Chronicles*.",
         "released": "2018-10-31",
         "url": "https://www.dmsguild.com/product/257623/CCCZiege02-Storm-of-the-Blood-Moon",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Ring of the Ram",
@@ -6647,7 +6647,7 @@
         "description": "Waterdeep’s master griffon rider has been murdered and no one knows why. Who would dare such a crime in a city where even the smallest transgressions face harsh penalties? The party is brought in to answer this question, which sends them on a trail that will take them through the most dangerous areas of the City of Splendors. Can they discover the truth before the villains escape, or will they instead accuse an innocent of the crime?",
         "released": "2018-10-31",
         "url": "https://www.dmsguild.com/product/257607/CCCZiege03-Dead-Men-Feel-No-Cold",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Ring of Spell Storing",
@@ -6659,7 +6659,7 @@
         "code": "CCC-ZIEGE-04-01",
         "name": "The Miser’s Glory",
         "description": "Three decades ago, a terrible disease swept through the town of Shadeharbor. Nearly half the population of the village died before it ended. The cause of the disease was never discovered. Now, the town leaders from that time are turning up dead. Can you unearth the secrets that have lain buried in Shadehabor all this time?",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Lantern of Revealing",
@@ -6671,7 +6671,7 @@
         "code": "CCC-ZIEGE-04-02",
         "name": "The Widow’s Fang",
         "description": "More than three decades ago, a young child became ill with a horrible disease and died. Instead of departing, her spirit lingered on as a ghost, haunting the hospital where she spent the last days of her life. Now, a new owner hopes to reopen the hospital, but first the ghost must be exorcised. Can you help the child find peace at last?",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "The Adventures of Cherise and Antonia (Bag of Tricks, Tan)",

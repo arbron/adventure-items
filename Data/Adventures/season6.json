@@ -4,7 +4,7 @@
         "name": "A Thousand Tiny Deaths",
         "description": "The promises of glory and the chance of riches draws you to Blasingdell, a small village near the infamous Stone Tooth. Within the rocky mountain lay the dwarven stronghold Khundrukar and the fabled Forge of Fury, to which a chance encounter provides you with the location of a hither-to unknown entrance. Are you brave enough to explore this mystery? Will it lead you to wealth or to your doom?",
         "released": "2017-05-02",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Cloak of Protection",
@@ -35,7 +35,7 @@
         "name": "The Redemption of Kelvan",
         "description": "A strange, foreign wizard calling himself Kelvan has appeared at the same time a mountain materializes out of thin air. He asks you to recover the Gloomblade from a Netherese ruin in order to help him with his research into this strange new mountain.",
         "released": "2017-06-06",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Boots of Speed",
@@ -78,7 +78,7 @@
         "name": "Crypt of the Death Giants",
         "description": "A magical storm builds over the Anauroch desert bringing portents of death and destruction to Faerûn. Giants imbued with the power of death itself threaten to permanently destroy the giant Ordning and small folk in their wake. Can you stop these unnatural giants and those that seek to control them?",
         "released": "2017-07-04",
-        "tier": [4],
+        "tier": 4,
         "items": [
             {
                 "name": "Bealt of Giant Strength (Storm)",

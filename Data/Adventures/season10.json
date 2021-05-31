@@ -5,7 +5,7 @@
         "description": "A trek toward Icewind Dale turns deadly when an avalanche blocks the heroes’ passage through the Spine of the World. Rescued by a menagerie of  strange creatures, the heroes are asked to return the favor in exchange for answers about what’s happening in the cold and frozen North.",
         "released": "2020-09-15",
         "url": "https://www.dmsguild.com/product/328476/DDAL1000-Ice-Road-Trackers",
-        "tier": [1],
+        "tier": 1,
         "length": "4x1",
         "apl": 1,
         "credits": [
@@ -102,7 +102,7 @@
         "description": "An avalanche has stranded you and your allies in the treacherous Spine of the World, and a relentless blizzard is quickly blowing away all hope of survival. Gather the surviving members of your caravan and strike out for shelter. Strike out for life!",
         "released": "2020-10-17",
         "url": "https://www.dmsguild.com/product/332516/DDAL1001-The-Frozen-North",
-        "tier": [1],
+        "tier": 1,
         "length": 4,
         "apl": 1,
         "credits": [
@@ -217,7 +217,7 @@
         "description": "The goliaths of Wyrmdoom Crag are a proud, but thankfully, generous people. Having provided you with shelter from the deadly wilds of Icewind Dale, they’ve asked you to look into the strange things that have been happening in and around their home.",
         "released": "2020-11-15",
         "url": "https://www.dmsguild.com/product/343148/DDAL1002-Gnashing-Teeth",
-        "tier": [1],
+        "tier": 1,
         "length": 4,
         "apl": 3,
         "credits": [
@@ -298,7 +298,7 @@
         "description": "A gruesome discovery sets you off into the frozen wastes in search of answers. Will you find the answers you seek, or will your journey leave you with only more questions?",
         "released": "2020-11-15",
         "url": "https://www.dmsguild.com/product/343150/DDAL1003-Divining-Evil",
-        "tier": [1],
+        "tier": 1,
         "length": 4,
         "apl": 3,
         "credits": [
@@ -371,7 +371,7 @@
         "description": "Feral-Tongue must be stopped! But without aid, it’s likely that your efforts will be in vain. Among rising tensions, Old Goat suggests an unlikely ally: Chwingas! Her plan, however, isn’t popular among other members of the clan. Can you sway their opinion? Better still, can you find the elusive elemental spirits?",
         "released": "2021-01-26",
         "url": "https://www.dmsguild.com/product/344672/DDAL1004-Cold-Benevolence",
-        "tier": [1],
+        "tier": 1,
         "length": 4,
         "apl": 3,
         "credits": [
@@ -442,7 +442,7 @@
         "description": "The wicked owlbear Frostclaw was nearly defeated. Now it’s time to finish the deed and destroy her and her master once and for all. But first, you must find them. Track them down and save Ten-Towns!",
         "released": "2021-03-03",
         "url": "https://www.dmsguild.com/product/348960/DDAL1005-A-Blight-in-the-Darkness",
-        "tier": [2],
+        "tier": 2,
         "length": 4,
         "apl": 6,
         "credits": [
@@ -535,7 +535,7 @@
         "description": "As the last vestiges of Feral-Tongue’s legacy echo across Icewind Dale, an ominous sign makes itself known. A falling star far to the west heralds a new unknown. A goliath hunting party returns to Wyrmdoom Crag, speaking of a strange creature. Perhaps it may be the key to discovering the source of the mysterious light.",
         "released": "2021-02-12",
         "url": "https://www.dmsguild.com/product/351522/DDAL1006-The-Fallen-Star",
-        "tier": [2],
+        "tier": 2,
         "length": 4,
         "apl": 7,
         "credits": [
@@ -630,7 +630,7 @@
         "description": "Times have been especially hard on the goliaths of Wyrmdoom Crag, and losing the few hunters they have left to neogi slavers will certainly spell their doom. You must delve into the ruins of an ancient city buried beneath the Spine of the World. What secrets lay in the deep dark? Do they promise salvation or doom?",
         "released": "2021-03-12",
         "url": "https://www.dmsguild.com/product/353209/DDAL1007-Into-Darkness",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Dark Shard Amulet",
@@ -648,7 +648,7 @@
         "name": "Volatile Thoughts",
         "description": "Just when you thought Realmspace-faring slavers were the worst thing that could cross your path, it quickly became apparent you were wrong—terrible things lurk in the depths of the longdead Abeiran city of Xorvintroth. And when faced with countless, unfathomable horrors infesting an ancient city of a long-dead civilization from another world there’s only one solution…explosives.",
         "released": "2021-04-16",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Boots of Levitation",
@@ -663,7 +663,7 @@
         "description": "To fight the despair brought on by the Everlasting Rime, an eccentric dwarf sponsors a fishing tournament she calls the “Great Knucklehead Rally.” The event draws the curious, the hopeful, and the cynical alike. And it also draws unexpected guests that test the mettle of the attendees.",
         "released": "2020-09-19",
         "url": "https://www.dmsguild.com/product/340333/DDEP1000-The-Great-Knucklehead-Rally",
-        "tier": [1],
+        "tier": 1,
         "length": 3,
         "apl": 2,
         "credits": [
@@ -721,7 +721,7 @@
         "description": "As a beastly army approaches Ten-Towns from the south, heroes take the lead in fortifications and defense. But can the heroes’ optimistic hard work overcome the worst enemy—the towns’ distrust of one another?",
         "released": "2021-03-05",
         "url": "https://www.dmsguild.com/product/349163/DDEP1001-Terror-in-the-Ten-Towns",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Bracers of Archery",

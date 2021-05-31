@@ -106,7 +106,7 @@
         "name": "Harried in Hillsfar",
         "description": "In the village of Elventree, near the oppressive city of Hillsfar, a recent string of strange occurrences has the locals on edge. The factions have gathered here on the borders of the forest of Cormanthor to determine what’s happening. Is this the machinations of Hillsfar, or something more?",
         "released": "2015-07-30",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Acid (vial)",
@@ -157,7 +157,7 @@
         "name": "Shackles of Blood",
         "description": "The Red Plumes have increased patrols in the region surrounding Hillsfar, and a string of disappearances has followed in their wake. Naturally, this has roused the suspicion of the factions. Join your factions and find out the truth behind the missing farmers.",
         "released": "2015-07-30",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Rapier, +1",
@@ -182,7 +182,7 @@
         "name": "The Occupation of Szith Morcane",
         "description": "Agents of the fire giants of Maerimydra, a city in the Underdark, have overtaken the drow outpost of Szith Morcane. The factions seek out adventurers to free the outpost’s leaders for questioning on the giants’ activities. Can you extricate them before it’s too late?",
         "released": "2015-07-30",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Staff of Swarming Insects",
@@ -207,7 +207,7 @@
         "name": "It’s All in the Blood",
         "description": "Rumors of faceless demonic creatures have been steadily rising in the Hillsfar region, and it is said that far below the surface of Faerûn, nestled in the bowels of the underdark, ancient terrors are stirring. The imperiled drow of Szith Morcaine have extended an intriguing offer, but can the drow be trusted, and for how long?",
         "released": "2015-07-30",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Ioun Stone of Regeneration",
@@ -338,7 +338,7 @@
         "name": "Bane of the Tradeways",
         "description": "Times are hard in the Hillsfar countryside, especially for those of non-human ancestry. Unscrupulous merchants in league with the hated Red Plumes bleed local farmers and artisans dry. Perhaps some of those loot-laden caravans coming and going from Hillsfar could use a bit of liberation?",
         "released": "2015-09-01",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Shield, +1",
@@ -373,7 +373,7 @@
         "name": "No Foolish Matter",
         "description": "Some of the hamlets outlying Hillsfar have been struck by an odd malady. Rumor has it a traveling carnival visited those hamlets before the disease struck. Does coincidence not equal causation or is something sinister afoot?",
         "released": "2015-10-01",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Pipes of the Sewers",
@@ -392,7 +392,7 @@
         "name": "Herald of the Moon",
         "description": "Elanil Elassidil, an elf bard of no small legacy, has put out a call for trustworthy agents. It is time, it seems, for a quietly hidden piece of elven history to become known to the world. Meira Faerenduil, lost knight of Myth Drannor, has been discovered, and must be brought back to civilization.",
         "released": "2015-10-01",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Shadowsong (Oathbow)",
@@ -449,7 +449,7 @@
         "name": "The Malady of Elventree",
         "description": "An escaped duergar slave stumbles into the village of Elventree. With her she brings a malady that grips the small settlement in a bout of madness that seems unshakable. Can you find the source of the madness and save yourself and the village’s inhabitants?",
         "released": "2015-11-01",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Alchemy Jug",
@@ -480,7 +480,7 @@
         "name": "The Waydown",
         "description": "The recent discovery of an entrance to the Underdark has set local leaders on edge. In a display of initiative, the First Lord of Hillsfar has ordered the construction of defensive structures surrounding what locals have begun to call “The Waydown.” You have been charged with escorting an emissary back to his home in the Underdark without alerting the Red Plumes.",
         "released": "2015-11-01",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Canaith Mandolin",
@@ -505,7 +505,7 @@
         "name": "Quelling the Horde",
         "description": "The Red Plumes have increased patrols in the region surrounding Hillsfar, and a string of disappearances has followed in their wake. Naturally, this has roused the suspicion of the factions. Join your factions and find out the truth behind the missing farmers.",
         "released": "2015-12-01",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Wand of the War Mage, +1",
@@ -530,7 +530,7 @@
         "name": "The Quest for Sporedome",
         "description": "In the search for allies in the Underdark, you are called upon to travel through the recently opened Waydown sinkhole to find the lost myconid colony of Sporedome. It is said that they once cultivated a strain of mushrooms that could protect one from falling into madness. Can this be the cure for the rapidly spreading onslaught of insanity?",
         "released": "2015-12-01",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Half-Plate of Poison Resistance",
@@ -565,7 +565,7 @@
         "name": "Hillsfar Reclaimed",
         "description": "The time has come to fight back against Hillsfar. Elanil Elassidil tasks you with uncovering valuable information to be used in a strike against the leader of Hillsfar, First Lord Torin Nomerthal himself. The only problem is that what you need is protected within the walls of the city. Part One of *Six Knives for Torin Nomerthal*.",
         "released": "2016-02-01",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Eyes of Minute Seeing",
@@ -584,7 +584,7 @@
         "name": "Writhing in the Dark",
         "description": "An unexpected envoy arrives in Sporedome and offers to give aid against the fire giants of Maerimydra, if you are willing to help his people with a small problem.",
         "released": "2016-02-01",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Rod of the Pact Keeper, +2",
@@ -614,7 +614,7 @@
         "name": "Death on the Wall",
         "description": "First Lord Torin Nomerthal and several his advisors will be leaving Hillsfar to inspect the Wall with only a small contingent of Red Plumes. The chance to strike is now! Part Two of *Six Knives for Torin Nomerthal*.",
         "released": "2016-03-01",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Bracers of Archery",
@@ -651,7 +651,7 @@
         "name": "Szith Morcane Unbound",
         "description": "With allies gained from denizens of the Underdark, the former drown enclave of Szith Morcane is on the precipice of being retaken. During the battle for Szith Morcane, secrets of the drow community are revealed. What will you do with this knowledge, and how will it affect the outcome of the conflict?",
         "released": "2016-03-01",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Ring of Protection",
@@ -690,7 +690,7 @@
         "name": "Assault on Maerimydra",
         "description": "With allies gained from denizens of the Underdark, the former drown enclave of Szith Morcane is on the precipice of being retaken. During the battle for Szith Morcane, secrets of the drow community are revealed. What will you do with this knowledge, and how will it affect the outcome of the conflict?",
         "released": "2016-03-01",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Demon Armor",

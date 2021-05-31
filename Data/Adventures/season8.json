@@ -4,7 +4,7 @@
         "name": "Once in Waterdeep",
         "description": "Who knows why adventurers are drawn together? The lust for gold, a common foe, or the whimsy of fate? Pull up a stool, stoke the hearth, and let YOUR story begin!.",
         "released": "2018-09-04",
-        "tier": [1],
+        "tier": 1,
         "storyAwards": [
             {
                 "name": "Faction Favor",
@@ -22,7 +22,7 @@
         "name": "The Map with No Names",
         "description": "Rumors abound of a map that leads to a treasure of unimaginable value. When chance drops the map into your hands, you have the chance to become wealthy beyond your wildest dreams. But you’re not the only ones with that dream. The chase is on. Part One of the *Umbral Aristocracy* trilogy.",
         "released": "2018-10-02",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Wand of Secrets",
@@ -56,7 +56,7 @@
         "name": "Beneath the City of the Dead",
         "description": "The treasure hunt has led to the City of the Dead. Beneath that well-manicured park is an ancient crypt where the treasure awaits you! Part Two of the *Umbral Aristocracy* trilogy.",
         "released": "2018-10-02",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Goggles of Night",
@@ -69,7 +69,7 @@
         "name": "Dock Ward Double-Cross",
         "description": "You’ve been set up. However, the man you were set against is more than willing to forgive and forget, if you are willing join forces to seek a terrible vengeance. Part Three of the *Umbral Aristocracy* trilogy.",
         "released": "2018-10-02",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Hat of Disguise",
@@ -88,7 +88,7 @@
         "name": "A Wrinkle in the Weave",
         "description": "The Blackstaff has discovered an oddity in the Weave that surrounds Waterdeep. The enigma may have been there all along or it might be new and the Blackstaff intends to figure it out using an ancient artifact from the reign of Emperor Shoon III. Part One of the *Folded Time* trilogy.",
         "released": "2018-11-06",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Ring of Mind Shielding",
@@ -113,7 +113,7 @@
         "name": "The Hero of the Troll Wars",
         "description": "Hurtling through time, you find yourself embroiled in a struggle to keep the fledgling town of Waterdeep from succumbing to a vicious Troll invasion. But sometimes the true threat lies within the city walls… Part Two of the *Folded Time* trilogy.",
         "released": "2018-11-06",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Javelin of Lightning",
@@ -126,7 +126,7 @@
         "name": "Purging the Blood",
         "description": "Still falling through time, Waterdeep has grown into a small city with a problem, a vampire problem, but an old friend offers a solution. Part Three of the *Folded Time* trilogy.",
         "released": "2018-11-06",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Cloak of Protection",
@@ -139,7 +139,7 @@
         "name": "Into the Dark",
         "description": "When one of the Lords of Waterdeep asks you to root out a threat to the city, you respond to the call. Prepare for a foray into Undermountain. Part One of the *Vampire Hunt* trilogy.",
         "released": "2018-12-04",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Mace of Smiting",
@@ -158,7 +158,7 @@
         "name": "Crypt of the Dark Kiss",
         "description": "Are there actually vampires in Undermountain? The Baron of Blood demands that you find out! Part Two of the *Vampire Hunt* trilogy.",
         "released": "2018-12-04",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Ring of Fire Resistance",
@@ -171,7 +171,7 @@
         "name": "Fangs and Frogs",
         "description": "Your chase to wipe out the vampires of Undermountain leads to the Slitherswamp. The master vampire is close at hand! Part Three of the *Vampire Hunt* trilogy.",
         "released": "2018-12-04",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Wand of Lightning Bolts",
@@ -202,7 +202,7 @@
         "name": "The Skull Square Murders",
         "description": "When Volothamp Geddarm hires you to recover a missing key, you find yourself wrapped up in a series of murders in Lower Skullport. Can you find the killer before they find you? Part One of the *Skullport Shakedown* trilogy.",
         "released": "2019-02-05",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Amulet of Health",
@@ -227,7 +227,7 @@
         "name": "Poisoned Words",
         "description": "Your search for Volo’s key in Skullport has you playing a dangerous game between The Xanathar Guild, Bregan D’aerthe, and the Zhentarim. In the Port of Shadow, how do you know who you can trust when lives are on the line? Part Two of the *Skullport Shakedown* trilogy.",
         "released": "2019-02-05",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Glamoured Studded Leather",
@@ -264,7 +264,7 @@
         "name": "Xanathar’s Wrath",
         "description": "This couldn’t get worse. The key you are searching for has fallen into the hands of the eye tyrant of Skullport himself. Now you just need to rob Xanathar without getting disintegrated. Part Three of the *Skullport Shakedown* trilogy.",
         "released": "2019-02-05",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Gem of Seeing",
@@ -289,7 +289,7 @@
         "name": "The Vampire of Skullport",
         "description": "Something is wrong in the endless gloom of Skullport, and the Baron of Blood has tasked you with setting things right. Part One of the *Undying Threat* trilogy.",
         "released": "2019-03-05",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Oil of Slipperiness",
@@ -312,7 +312,7 @@
         "name": "Rescue from Vanrakdoom",
         "description": "Vampires in service to Shar, the Mistress of Night, are somewhere in Vanrakdoom. You must locate them without drawing the attention of the other residents of this dangerous place. Part Two of the *Undying Threat* trilogy.",
         "released": "2019-03-05",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Desolation (Greatsword of Sharpness)",
@@ -325,7 +325,7 @@
         "name": "Forge of Fangs",
         "description": "The Forge of Fangs has been located in Vanrakdoom. While many innocents have been saved from an undying fate, the forge remains. Artor Morlin would like to see it torn to the ground and the threat ended forever. Part Three of the *Undying Threat* trilogy.",
         "released": "2019-03-05",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Ring of Shooting Stars",
@@ -348,7 +348,7 @@
         "name": "Change of Address",
         "description": "The hand behind the Baron of Blood’s troubles is revealed, and he vows to make himself the worst kind of neighbor. Part One of the *Home Sweet Home* trilogy.",
         "released": "2019-04-23",
-        "tier": [4],
+        "tier": 4,
         "items": [
             {
                 "name": "Plate Armor of Etherealness",
@@ -379,7 +379,7 @@
         "name": "The Tower of Ahghairon",
         "description": "The Tower of Ahghairon has been sealed for years, but when the door opens at last, it’s an invitation to even more mystery within. Part Two of the *Home Sweet Home* trilogy.",
         "released": "2019-04-23",
-        "tier": [4],
+        "tier": 4,
         "items": [
             {
                 "name": "Cubic Gate",
@@ -407,7 +407,7 @@
         "name": "Moving Day",
         "description": "You must transport the Baron of Blood (sealed within his coffin) to his new home. Unfortunately, his new neighbors are not happy to see him move in, and the Mad Mage himself wants to throw him a housewarming party. Part Three of the *Home Sweet Home* trilogy.",
         "released": "2019-04-23",
-        "tier": [4],
+        "tier": 4,
         "items": [
             {
                 "name": "Rod of Resurrection",
@@ -426,7 +426,7 @@
         "name": "Chaos in the City of Splendors",
         "description": "The hunt for the cache of dragons has attracted ne’er-do-wells and fortune seekers to Waterdeep from far and wide, and the local gangs are not about to let such a bounty of talent go to waste. Chaos and shenanigans await the brave and the bold in the City of Splendors!",
         "released": "2015-11-09",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Bag of Tricks (Rust)",

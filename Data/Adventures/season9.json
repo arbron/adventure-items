@@ -5,7 +5,7 @@
         "description": "Damnation! The entire city of Elturel—along with its denizens—have been drawn into Avernus, the first layer of the Nine Hells! While those fortunate enough to have been outside of the city’s walls have been spared that fate, they’re not yet out of danger! The refugees formed a caravan bound for the nearby city of Baldur’s Gate. Can you keep them safe from devils, bandits, and one another until they reach safety?",
         "released": "2019-10-29",
         "url": "https://www.dmsguild.com/product/287932/DDAL0901-Escape-From-Elturgard",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Amulet of Proof Against Detection and Location",
@@ -25,7 +25,7 @@
         "description": "It’s been a long, arduous trip, but you’re finally here—Baldur’s Gate. You’re not out of peril yet, however, even if you’re leaving the lawless wilds behind you, the streets of the Gate still run red with blood. But you quickly find that arriving at the city wasn’t the biggest challenge at all, now you must convince the city’s rulers to grant asylum to you and those in your charge. Part One of the *Betrayal is in the Blood* series of adventures.",
         "released": "2019-10-29",
         "url": "https://www.dmsguild.com/product/289152/DDAL0902-Stopped-at-the-Gate",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Eyes of the Eagle",
@@ -51,7 +51,7 @@
         "description": "Bodies continue pile up, and the Flaming Fist still has nothing but a name. Thankfully, the perpetrator of the murders has slipped up and the Flaming Fist has captured one of their underlings, in turn, has revealed the presence of a cult hideout in the sewers beneath the city. The Flaming Fist has asked that you investigate. Are you up for the task? Part Two of the *Betrayal is in the Blood* series of adventures.",
         "released": "2019-10-29",
         "url": "https://www.dmsguild.com/product/289153/DDAL0903-Hungry-Shadows",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Gloves of Thievery",
@@ -71,7 +71,7 @@
         "description": "The streets of Baldur’s Gate run red with blood. Old blood. The blood of Hellriders. Someone or something is punishing the children for the sins of the father and it’s time to put it to an end. Who and where is Gharizol? Part Three of the *Betrayal is in the Blood* series of adventures.",
         "released": "2019-10-29",
         "url": "https://www.dmsguild.com/product/289154/DDAL0904-The-Day-of-the-Devil",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Periapt of Health",
@@ -103,7 +103,7 @@
         "description": "Deep in hostile territory with the innocent girl Dara to protect, you will have to trust to the weapons of the enemy if you are to survive. Even with deceit as your shield and sabotage as your sword, luck is required to complete Dara’s holy mission. Thankfully Fai Chen knows to start your quest with the help of an old acquaintance… Mahadi, master of Mahadi’s Traveling Emporium. Part One of the *Behind Infernal Lines* series of adventures.",
         "released": "2019-12-10",
         "url": "https://www.dmsguild.com/product/290246/DDAL0905-Faces-of-Fortune-the-Story-of-Fai-Chen",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Gem of Seeing",
@@ -135,7 +135,7 @@
         "description": "Fai Chen reveals that a draft of the Hellriders’ original attack plan might still exist, and it won’t be easy to get it. If you can recover these, it would be extremely helpful in your quest to locate their remains and free their spirits. It might very well be a suicide mission, though when you’re in Avernus, what isn’t? Fortunately, the wily merchant has just the plan for a group of heroes unconcerned with the odds. Part Two of the *Behind Infernal Lines* series of adventures.",
         "released": "2019-12-10",
         "url": "https://www.dmsguild.com/product/290898/DDAL0906-Infernal-Insurgency",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Arrow of Slaying (Tiefling)",
@@ -175,7 +175,7 @@
         "description": "You have located the plans and drawn the infernal forces away from them. All that remains now is to dive below the river Styx and infiltrate Plagueshield Point without getting wet, setting off any alarms, or being followed. Piece of devil’s food cake. Part Three of the *Behind Infernal Lines* series of adventures.",
         "released": "2019-12-10",
         "url": "https://www.dmsguild.com/product/291677/DDAL0907-The-Diabolical-Dive",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Bowl of Commanding Water Elementals",
@@ -211,7 +211,7 @@
         "description": "Long before it was a war-ravaged battlefield, Avernus was a den of temptation; a place to which ambitious, greedy, and covetous mortals were lured by the promise of power, wealth, and love. While the plane no longer serves this purpose, small pockets of terrible beauty remain. You have been sent in search of one such oasis to locate a fallen celestial. Will you be able to find it? More importantly, will the creature still be capable of service as an agent of good?",
         "released": "2020-01-07",
         "url": "https://www.dmsguild.com/product/295211/DDAL0908-In-the-Garden-of-Evil",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Arrow-Catching Shield",
@@ -253,7 +253,7 @@
         "description": "Elturel isn’t the only city to have been claimed by Avernus; scores of towns and villages, long forgotten, litter the eternal battlefields. In one such place, a fallen Hellrider remains in stasis, waiting for the right time to rise and battle evil once more. Has that time come at long last?",
         "released": "2020-01-07",
         "url": "https://www.dmsguild.com/product/295212/DDAL0909-Ruined-Prospects",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Heward’s Handy Haversack",
@@ -285,7 +285,7 @@
         "description": "Wisdom is knowing when a battle fought is a battle lost. A dragon has engaged in a pitched battle for the soul of his consort for nearly a millennium, and it’s time for him to throw in the towel. Dara has asked that you venture into the Diremire Pit and convince him of this, as there are greater wars to be won!",
         "released": "2020-01-07",
         "url": "https://www.dmsguild.com/product/295328/DDAL0910-Tipping-the-Scales",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Ring of Free Action",
@@ -323,7 +323,7 @@
         "description": "Fai Chen has gone missing from Mahadi’s Traveling Emporium, and Fai Chen asks you to rescue him. You’ll have to do it without angering the master of the Emporium whose protection is crucial to your sacred mission. But in the Nine Hells, how much can you really trust someone you call friend?",
         "released": "2020-02-04",
         "url": "https://www.dmsguild.com/product/296738/DDAL0911-Losing-Fai",
-        "tier": [2],
+        "tier": 2,
         "items": [
             {
                 "name": "Staff of Charming",
@@ -375,7 +375,7 @@
         "description": "An archdevil has invited you to a ball, and though it’s likely a trap, it’d be rude to decline. Dara, however, is keen on attending, since this fiend’s most treasured possession is the bejeweled skull of a dead angel. Dara believes that the artifact holds the secret to accessing a long-dormant reliquary. Ready to crash a party? Part One of the *Call for Aid* series of adventures.",
         "released": "2020-03-10",
         "url": "https://www.dmsguild.com/product/301019/DDAL0912-The-Breath-of-Life",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Cloak of Arachnida",
@@ -417,7 +417,7 @@
         "description": "Covered in bees! The peace of Mahadi’s emporium is shattered as a swarm of hellwasps has descended upon it! Since this is odd behavior for hellwasps, Dara senses a higher power at work and asks you to discover the truth about the creatures’ attacks. Are you up to the task, or will you just end up getting stung? Part Two of the *Call for Aid* series of adventures.",
         "released": "2020-03-10",
         "url": "https://www.dmsguild.com/product/301020/DDAL0913-The-Swarmed-Heart",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Broom of Flying",
@@ -463,7 +463,7 @@
         "description": "The divine spark has been returned to Verwyyr and Raskamedies and the time has come to return to the Material plane in search of an ancient artifact once belonging to Ilmater himself. Beneath the holy city of Elturel lay a reliquary—the Dolorous Adytum. What secrets lie in the dark parts of the world? It’s time to find out. Part Three of the *Call for Aid* series of adventures.",
         "released": "2020-03-10",
         "url": "https://www.dmsguild.com/product/301021/DDAL0914-The-Vast-Emptiness-of-Grace",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Belt of Stone Giant Strength",
@@ -526,7 +526,7 @@
         "description": "The final resting place of the Hellrider company known as the Bloody Hooves has been found. Unfortunately, the Canyon of Screams is well beyond the reach of safe haven, so you must protect Dara behind enemy lines with no one to count on but yourselves. Her holy mission, and your very souls, are at stake. Part One of the *Doors and Corners* series of adventures.",
         "released": "2020-04-28",
         "url": "https://www.dmsguild.com/product/306935/DDAL0915-Maddening-Screams",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Helm of Telepathy",
@@ -550,7 +550,7 @@
         "description": "Accompanying the Chosen of Ilmater and baring the newly discovered Ward of Faithfulness, you proceed further into the tomb of the Bloody Hooves. Time is running short. Zariel’s forces hunt for you even now. Part Two of the *Doors and Corners* series of adventures.",
         "released": "2020-04-28",
         "url": "https://www.dmsguild.com/product/306937/DDAL0916-Honors-Unforseen",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Fochlucan Bandore (Instrument of the Bards)",
@@ -586,7 +586,7 @@
         "description": "Your quest to return the Bloody Hooves is nearly at an end. Only the company’s commander remains and then you’ll be ready to ride to the rescue of fallen Elturel! Part Three of the *Doors and Corners* series of adventures.",
         "released": "2020-04-28",
         "url": "https://www.dmsguild.com/product/306938/DDAL0917-In-the-Hand",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Bag of Holding",
@@ -634,7 +634,7 @@
         "description": "The soul of the commander of the Bloody Hooves has been spirited away by Zariel’s lieutenant, General Everbleed. The Bloody Hooves are in disarray and will not be the fighting force Dara had hoped without the iron will of their commander to direct them. To find them amidst the battlefields of Avernus, you are going to need help. Hopefully you have made some friends in the Nine Hells…",
         "released": "2020-07-21",
         "url": "https://www.dmsguild.com/product/318834/DDAL0918-Consequences-of-Choice",
-        "tier": [3],
+        "tier": 3,
         "items": [
             {
                 "name": "Oathbow",
@@ -686,7 +686,7 @@
         "description": "Zariel’s Lieutenant General Everbleed has fled with Commander De La Reue’s soul, only to be captured by Yeenoghu’s brood preparing to rampage! Dara implores you to recover the commander, though his soul has been taken to a most unusual place. Part One of the *Red Hunt* series of adventures.",
         "released": "2020-07-21",
         "url": "https://www.dmsguild.com/product/321063/DDAL0919-Fang-and-Claw",
-        "tier": [4],
+        "tier": 4,
         "items": [
             {
                 "name": "Scarab of Protection",
@@ -740,7 +740,7 @@
         "description": "The Commander’s soul has been cast through the portal into the Death Dells. You must follow into the lair of Yeenoghu and rescue the Commander before the Beast of Butchery devours him! Part Two of the *Red Hunt* series of adventures.",
         "released": "2020-07-21",
         "url": "https://www.dmsguild.com/product/321069/DDAL0920-Where-Devils-Fear-to-Tread",
-        "tier": [4],
+        "tier": 4,
         "items": [
             {
                 "name": "Deathshield (Defender, Greatsword)",
@@ -799,7 +799,7 @@
         "name": "Infernal Pursuits",
         "description": "A horse race in Baldur’s Gate becomes a hellish battle on infernal war machines in Avernus when the characters get caught between two evil merchants…and must hang on for dear life.",
         "released": "2019-05-18",
-        "tier": [1],
+        "tier": 1,
         "items": [
             {
                 "name": "Helm of Telepathy",

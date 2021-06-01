@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Mon, 31 May 2021 13:45:38 -0700</lastBuildDate><pubDate>Mon, 31 May 2021 13:45:38 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon12-1</guid><title>CCC-BMG MOON12-1 - Nothing Is Sacred</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon12-1</link><pubDate>Wed, 19 May 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>Nothing Is Sacred</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Tue, 1 Jun 2021 15:13:16 -0700</lastBuildDate><pubDate>Tue, 1 Jun 2021 15:13:16 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon12-1</guid><title>CCC-BMG MOON12-1 - Nothing Is Sacred</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon12-1</link><pubDate>Wed, 19 May 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>Nothing Is Sacred</h1>
 <h3>
 Convention Created Content for Tier 3
   <em class="release">Released by Baldman Games on May 19, 2021</em></h3>
@@ -163,14 +163,34 @@ Allosaurus Mount
 <details class="story-award">
   <summary>Dream Walker
 </summary><p>You helped the Dream Eater lay the restless spirit of hte dragon Carnelian to rest. At the end of the adventure, choose one of the following rewards:</p><ul><li>The Dream Eater performs a ritual that grants you resistance to necrotic damage for the duration of your next adventure.</li><li>If you chose the allosaurus mount as a reward, the halfling Norrin teaches it the “Talenta Dodge”. If the allosaurus is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. (Norrin must survive the adventure to offer this training.)</li><li>If you chose the <em>bracers of archery</em> reward, the halfling Davric enchants your quiver with a luck charm. When you roll a 1 on a d20 for an attack roll with an arrow drawn from this quiver, you can reroll the die and must use the new roll. (Davric must survive the adventure to offer this reward.)</li></ul>
-</details>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-garyxiii-04</guid><title>DC-PoA-GaryXIII-04 - As Above, So Below</title><description>Cast-Off Armor (Breastplate), Guardian Emblem, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-garyxiii-04</link><pubDate>Thu, 25 Mar 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>As Above, So Below</h1>
+</details>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-pm05</guid><title>DC-PoA-PM05 - Can You Tell Me How to Get to the East Haven Way</title><description>Moon-Touched Shortsword and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-pm05</link><pubDate>Tue, 30 Mar 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>Can You Tell Me How to Get to the East Haven Way</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on March 30, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+Do You Know the way to Lonelywood?</p>
+<p>While entering Good Mead, the party gets involved with a caravan merchant and a local brewer involving a missing shipment of Mead to Easthaven. Will the party be able to find out what happened to this shipment or will the people of Easthaven become angry due to the missing shipment?!</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Moon-Touched Shortsword</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Potion of Healing</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-garyxiii-04</guid><title>DC-PoA-GaryXIII-04 - As Above, So Below</title><description>Cast-Off Armor (Breastplate), Guardian Emblem, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-garyxiii-04</link><pubDate>Thu, 25 Mar 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>As Above, So Below</h1>
 <h3>
 Dungeoncraft Adventure for Tier 2
   <em class="release">Released on March 25, 2021</em></h3>
 <p>  <em>Adventure Seed: </em>
 Holy Auril, Mother of Cod</p>
-<p>A lottery held under suspicous circumstances. A Paladin trying to do the right thing. Can the adventurers find the truth in time? Part Four of the <em>To Survive the Night</em> series.</p>
-
+<p>A lottery held under suspicous circumstances. A Paladin trying to do the right thing. Can the adventurers find the truth in time?</p>
+<p>Part Four of the <em>To Survive the Night</em> series.</p>
 <h2>Items</h2>
 <ul>
   <li>
@@ -193,8 +213,8 @@ Dungeoncraft Adventure for Tier 2
   <em class="release">Released on March 25, 2021</em></h3>
 <p>  <em>Adventure Seed: </em>
 This Seems Familiar</p>
-<p>When arcane experimentation creates artifacts that ensnare the mind and beguile the senses, only the bravest adventurers can resist the toxic temptation of desecration and darkness, to travel to where this evil lies and defeat it. Lies are brought to bear and secrets are revealed. Part Five of the <em>To Survive the Night</em> series.</p>
-
+<p>When arcane experimentation creates artifacts that ensnare the mind and beguile the senses, only the bravest adventurers can resist the toxic temptation of desecration and darkness, to travel to where this evil lies and defeat it. Lies are brought to bear and secrets are revealed.</p>
+<p>Part Five of the <em>To Survive the Night</em> series.</p>
 <h2>Items</h2>
 <ul>
   <li>
@@ -217,8 +237,8 @@ Dungeoncraft Adventure for Tier 2
   <em class="release">Released on March 24, 2021</em></h3>
 <p>  <em>Adventure Seed: </em>
 My, What Big Feet You Have</p>
-<p>Strange lights in the forest, claw marks on the doors of regular citizens, and worst of all; their beloved pets are being attacked and killed. The town of West Easthaven is under attack by unknown forces for nefarious reasons. Can our adventurers put together the clues to make sense of these strange events or will the citizens continue to be terrorized by these odd disturbances? Part One of the <em>To Survive the Night</em> series.</p>
-
+<p>Strange lights in the forest, claw marks on the doors of regular citizens, and worst of all; their beloved pets are being attacked and killed. The town of West Easthaven is under attack by unknown forces for nefarious reasons. Can our adventurers put together the clues to make sense of these strange events or will the citizens continue to be terrorized by these odd disturbances?</p>
+<p>Part One of the <em>To Survive the Night</em> series.</p>
 <h2>Items</h2>
 <ul>
   <li>
@@ -241,8 +261,8 @@ Dungeoncraft Adventure for Tier 2
   <em class="release">Released on March 24, 2021</em></h3>
 <p>  <em>Adventure Seed: </em>
 Ageless Hunger</p>
-<p>Undead pour from an abandon keep in The Frozen North, threatening the already tenuous balance of life in the Ten-Towns, as an unlikely benefactor seeks heroes in hopes of turning this keep into a future stronghold. Secrets and dangers await the heroes as they venture out into the unforgiving cold. Part Two of the <em>To Survive the Night</em> series.</p>
-
+<p>Undead pour from an abandon keep in The Frozen North, threatening the already tenuous balance of life in the Ten-Towns, as an unlikely benefactor seeks heroes in hopes of turning this keep into a future stronghold. Secrets and dangers await the heroes as they venture out into the unforgiving cold.</p>
+<p>Part Two of the <em>To Survive the Night</em> series.</p>
 <h2>Items</h2>
 <ul>
   <li>
@@ -265,8 +285,8 @@ Dungeoncraft Adventure for Tier 2
   <em class="release">Released on March 24, 2021</em></h3>
 <p>  <em>Adventure Seed: </em>
 Goat-ball!</p>
-<p>Morale in the small village of Goodenow has fallen to an all-time low with the suspicious death of the star goat-ball player on the eve of a big match. When a shadowy enemy begins to target a local team of bonesetters, the mystery deepens. Is it game over in Goodenow? Part Three of the <em>To Survive the Night</em> series.</p>
-
+<p>Morale in the small village of Goodenow has fallen to an all-time low with the suspicious death of the star goat-ball player on the eve of a big match. When a shadowy enemy begins to target a local team of bonesetters, the mystery deepens. Is it game over in Goodenow?</p>
+<p>Part Three of the <em>To Survive the Night</em> series.</p>
 <h2>Items</h2>
 <ul>
   <li>
@@ -280,6 +300,30 @@ Goat-ball!</p>
   <li>
 1 x 
     <span>Potion of Watchful Rest</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-dcaf09</guid><title>DC-PoA-DCAF09 - An Ascent to Recall</title><description>Arcane Grimoire, +1, Illuminator’s Tattoo, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-dcaf09</link><pubDate>Tue, 23 Mar 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>An Ascent to Recall</h1>
+<h3>
+Dungeoncraft Adventure for Tier 2
+  <em class="release">Released on March 23, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+This Seems Familiar</p>
+<p>A hiking trip to a romantic spot goes awry. The mountain’s yetis are just one obstacle to worry about. Will love prevail once more?</p>
+<p>Part One of the <em>Targos Targeted</em> series.</p>
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Arcane Grimoire, +1</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Illuminator’s Tattoo</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Potion of Healing</span>
  
     <em class="entry-label">Common</em></li></ul>
 
@@ -454,6 +498,26 @@ Season 10 Adventure for Tier 2
  
     <em class="entry-label">Rare</em></li></ul>
 
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-pm04</guid><title>DC-PoA-PM04 - Losing Your Mind</title><description>Smoldering Armor (Studded Leather) and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-pm04</link><pubDate>Wed, 10 Mar 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Losing Your Mind</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on March 10, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+The Muttering Gnome</p>
+<p>A mind is a terrible thing to waste. But when you lose your mind it can be even worse. The party investigates a gnome who entered into the party's camp repeating the same thing over and over again. What can do this to a person?</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Smoldering Armor (Studded Leather)</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Bless</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
 ]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-drw-08</guid><title>DDAL-DRW-08 - The Harrowing of Hell</title><description>Chime of Opening, Oathbow, Scarab of Protection, 4 potions, and 3 legacy events</description><link>https://arbron.github.io/adventure-items/adventures/ddal-drw-08</link><pubDate>Wed, 10 Mar 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Harrowing of Hell</h1>
 <h3>
 Dreams of Red Wizards Adventure for Tier 4
@@ -626,7 +690,64 @@ Season 10 Adventure for Tier 2
 <details class="story-award">
   <summary>The Song Falls Silent
 </summary><p>The characters earn this story award if Kaskur dies during the adventure and isn’t returned to life.</p>
-</details>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon9-1</guid><title>CCC-BMG MOON9-1 - Dark Moon Rising</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon9-1</link><pubDate>Mon, 22 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Dark Moon Rising</h1>
+</details>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-dcaf08</guid><title>DC-PoA-DCAF08 - The Big Ticket</title><description>Cloak of the Manta Ray, Wand of Pyrotechnics, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-dcaf08</link><pubDate>Mon, 1 Mar 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Big Ticket</h1>
+<h3>
+Dungeoncraft Adventure for Tier 2
+  <em class="release">Released on March 1, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+Goat‑ball!</p>
+<p>Targos mourns as the city’s star goat-ball player turns up dead. The Zhentarim need answers: was it incidental? Or is something even more nefarious than them pulling the strings?</p>
+<p>Part Three of the <em>Targos Ascending</em> series.</p>
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Cloak of the Manta Ray</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Wand of Pyrotechnics</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Potion of Watchful Rest</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-codex-01</guid><title>DC-PoA-CODEX-01 - Bear the Lode</title><description>Boots of the Winterlands, Pole of Angling, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-codex-01</link><pubDate>Sat, 27 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Bear the Lode</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on February 27, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+Awake and Afraid</p>
+<p>Putting an end to strange disturbances plaguing a mining operation is all in a day’s work for an adventurer, but is the job as straightforward as it seems, or is there more than meets the eye?</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Boots of the Winterlands</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Pole of Angling</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Potion of Healing</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-pm03</guid><title>DC-PoA-PM03 - Mindless Digging</title><description></description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-pm03</link><pubDate>Sat, 27 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Mindless Digging</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on February 27, 2021</em></h3>
+
+<p>Shortly after the party steps foot into Termalaine they meet a Kobold who is frantically trying to find some help. They spot the party and ask the party to help his workers who uncovered something in a mine that is affecting the mind of the other kobolds.</p>
+
+
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon9-1</guid><title>CCC-BMG MOON9-1 - Dark Moon Rising</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon9-1</link><pubDate>Mon, 22 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Dark Moon Rising</h1>
 <h3>
 Convention Created Content for Tier 2
   <em class="release">Released by Baldman Games on February 22, 2021</em></h3>
@@ -652,6 +773,223 @@ Convention Created Content for Tier 2
 <p>The characters need to recruit a cleric of Valkur to help them defeat the shadow army before the firbolg shaman and his minions rout the army of Norland with their spells of fear and terror. Will the characters persuade the cleric to assist them and return to the battlefield in time for Valkur to aid them all?</p>
 <p>Part Three of the <em>Dark Moon</em> series.</p>
 
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-lexi-01</guid><title>DC-PoA-LEXI-01 - Don’t Wake Yeti</title><description>Illuminator’s Tattoo and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-lexi-01</link><pubDate>Mon, 22 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Don’t Wake Yeti</h1>
+<h3>
+Dungeoncraft Adventure for Tier 2
+  <em class="release">Released on February 22, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+This Seems Familiar</p>
+<p>You've seen better days for sure. First an avalanche. Then a whole lot of nothing. Then waking up hanging from the ceiling inside a cold, dark cavern. This is what happens when you find a stranger in the alps. Well, keep your wits about you, and you just might get out alive.</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Illuminator’s Tattoo</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Potion of Healing</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-conmar-03</guid><title>DC-PoA-CONMAR-03 - Unfrozen</title><description>Eversmoking Bottle, Smoldering Armor - Breastplate, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-conmar-03</link><pubDate>Sun, 21 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Unfrozen</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on February 21, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+The Warmest Day</p>
+<p>As Termalaine is getting warmer the agents of the Frostmaiden are looking for the reason, attacking anything in their path. The local Ten-Towners do not seem concerned, but maybe a Reghed tribe can help? It is time for adventurers to save the day. Again.</p>
+<p>A part of the <em>Oar’s Rest</em> series.</p>
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Eversmoking Bottle</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Smoldering Armor - Breastplate</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Potion of Healing</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-gsp01-02</guid><title>DC-PoA-GSP01-02 - Crypt of the Mind Flayers</title><description>Lantern of Tracking (Aberrations), Psi Crystal, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-gsp01-02</link><pubDate>Sun, 21 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Crypt of the Mind Flayers</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released by Greasy Snitches on February 21, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+In Too Deep</p>
+<p>The crimson star has been found! A miner from Termalaine brought back a glowing red crystal that he discovered after a section of a nearby mine collapsed. A few days later, some townsfolk have gone mad and sightings of weird monsters have been reported. What is going on?!</p>
+<p>Part Two of the <em>Crimson Star</em> series.</p>
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Lantern of Tracking (Aberrations)</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+    <span>Psi Crystal</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+1 x 
+    <span>Potion of Climbing</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-kcb-02</guid><title>DC-PoA-KCB-02 - Big</title><description>Boots of the Winterlands, Pole of Angling, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-kcb-02</link><pubDate>Sun, 21 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Big</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on February 21, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+Awake and Afraid</p>
+<p>A shrunken goliath who needs an escort. Religious zealots on the run. A wizard in need of potion ingredients. A frost giant with a love of art and order. And an entrepreneurial druid. What happens to the party standing where all their interest intersect? A BIG adventure.</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Boots of the Winterlands</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Pole of Angling</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Potion of Healing</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-harm-01-02</guid><title>DC-PoA-HARM-01-02 - Time Flies When You’re Delving Dungeons</title><description></description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-harm-01-02</link><pubDate>Sat, 20 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Time Flies When You’re Delving Dungeons</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on February 20, 2021</em></h3>
+
+<p>Tactics are tested as timelines shift and continuums converge in a dungeon where death is temporary and time itself is the enemy. Only the adventurers can capture the hands of time and steer the future away from certain doom.</p>
+<p>Part Two of the <em>Kobolds Through Time</em> series.</p>
+
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-rb01</guid><title>DC-PoA-RB01 - The Chronographers Curse</title><description>Candle of the Deep, Circlet of Blasting, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-rb01</link><pubDate>Thu, 18 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Chronographers Curse</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on February 18, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+Breaking Ice-olation</p>
+<p>In the town of Easthaven, a group of adventurers is tasked on a routine mission to resupply an expedition to the Reghed Glacier. But everything is not quite as it seems, and it's not long before the chronographer's misfortunes become apparent.</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Candle of the Deep</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+    <span>Circlet of Blasting</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Frost Fingers</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-gsp03-02</guid><title>DC-PoA-GSP03-02 - Lost in the Woods</title><description>Figurine of Wondrous Power (Silver Raven), Moon-Touched Shortsword, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-gsp03-02</link><pubDate>Mon, 15 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Lost in the Woods</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released by Greasy Snitches on February 15, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+Do You Know the Way to Lonelywood?</p>
+<p>The Frozen Eye has struck again, Their influence has grown from their cult at Easthaven, starting with a caravan from the town of Good Mead. What diabolical plan is up their sleeves? Will the adventurers be able to stop them?</p>
+<p>Part Two of <em>The Frozen Eye</em> series.</p>
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Figurine of Wondrous Power (Silver Raven)</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Moon-Touched Shortsword</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Potion of Healing</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-cth01</guid><title>DC-PoA-CTH01 - Roused by Raiders</title><description>Orb of Time and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-cth01</link><pubDate>Fri, 12 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Roused by Raiders</h1>
+<h3>
+Dungeoncraft Adventure for Tier 2
+  <em class="release">Released on February 12, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+Out of the Woods</p>
+<p>A novice group of adventurers foolishly leads a remorhaz threat to the town of Lonelywood. The characters must protect the settlement from these monstrosities and discover why the adventurers were attacked in the first place.</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Orb of Time</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Pass Without a Trace</span>
+ 
+    <em class="entry-label">Uncommon</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-nn01-01</guid><title>DC-PoA-NN01-01 - Where Are Yew</title><description>Boots of False Tracks, Dust of Disappearance, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-nn01-01</link><pubDate>Fri, 12 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Where Are Yew</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on February 12, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+Once Bitten, Ice Shy</p>
+<p>Dougan's Hole is known to be the smallest and most insular member of the Ten Towns, a perfect target for petty thieves. However, recently crimes have been getting worse. Citizens have gone missing overnight. The townsfolk of Dougan's Hole are on high alert, travelers being their main suspect for the recent tragedies.</p>
+<p>Part One of the <em>Rise of Silverclaw</em> series.</p>
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Boots of False Tracks</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+    <span>Dust of Disappearance</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+1 x 
+    <span>Potion of Climbing</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-cbb-02</guid><title>DC-PoA-CBB-02 - Avarice Everlasting</title><description>Eversmoking Bottle, Smoldering Armor - Breastplate, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-cbb-02</link><pubDate>Thu, 11 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Avarice Everlasting</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on February 11, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+The Warmest Day</p>
+<p>A bright sphere of fire has appeared over the town of Termalaine. It showers the town in warmth and light as if it were the sun. The townsfolk celebrate what appears to a blessing from the gods. The truth is the false sun is a beacon conjured by an evil cursed artifact that has been awakened. Now hordes of undead pirates and bandits have seen this beacon and seek to claim the artifact for themselves.</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Eversmoking Bottle</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Smoldering Armor - Breastplate</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Potion of Healing</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
 
 ]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal10-06</guid><title>DDAL10-06 - The Fallen Star</title><description>Chime of Opening, Prosthetic Limb, 2 potions, a story award, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/ddal10-06</link><pubDate>Thu, 11 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Fallen Star</h1>
 <h3>
@@ -690,7 +1028,236 @@ Season 10 Adventure for Tier 2
 <details class="story-award">
   <summary>Captured Goliaths
 </summary><p>Nararhak Tree-Eye and some of the goliath hunters you encountered were captured by spiderlike creatures Lieutenant Prook calls “neogi.”</p>
-</details>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ghc-bk3-01</guid><title>CCC-GHC-BK3-01 - Assassination in Oeble</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-ghc-bk3-01</link><pubDate>Mon, 25 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Assassination in Oeble</h1>
+</details>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-legit-ciph-01</guid><title>DC-PoA-LEGIT-CIPH-01 - A Bump in the Night</title><description>Bracers of Archery, Dread Help, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-legit-ciph-01</link><pubDate>Sun, 7 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>A Bump in the Night</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on February 7, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+Burrowing Borrowers</p>
+<p>The townsfolk of Easthaven are plagued by strange sounds coming from their basements in the middle of the night, only to wake up to find their items missing in the morning. What dark forces lie at the heart of this disturbance?</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Bracers of Archery</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Dread Help</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Potion of Healing</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-pm01</guid><title>DC-PoA-PM01 - Adventures in Babysitting Squids</title><description>Chest of Preserving and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-pm01</link><pubDate>Sat, 6 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Adventures in Babysitting Squids</h1>
+<h3>
+Dungeoncraft Adventure for Tier 2
+  <em class="release">Released on February 6, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+The Littlest Squidling</p>
+<p>While traveling in the cold lands of Icewind Dale, the adventurers see a strange flying ship being chased by dragons that damage part of the ship. When the party goes to investigate the parts of the ship that droped they are presented with an unexpected new friend A Squidling.</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Chest of Preserving</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Mind Spike</span>
+ 
+    <em class="entry-label">Uncommon</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-zf-01</guid><title>DC-PoA-ZF-01 - Undisclosed Ordeals</title><description>Alchemy Jug, Cloak of Many Fashions, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-zf-01</link><pubDate>Wed, 3 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Undisclosed Ordeals</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on February 3, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+A Dark Horse</p>
+<p>With the Frostmaiden’s grasp over Icewind Dale crushing spirits and snuffing out hope, the frozen north is a dismal place. No one has answers, and no one can say for sure when Auril’s curse will be lifted, so it’s only to be expected that political devilment seems to have thrived in these times. When a wealthy merchant in Bryn Shander requests help on behalf of a friend, who knows what long hidden secrets they’ll uncover along the way.</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Alchemy Jug</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Cloak of Many Fashions</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Alter Self</span>
+ 
+    <em class="entry-label">Uncommon</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-dcaf07</guid><title>DC-PoA-DCAF07 - I’m In Your Arms</title><description>Cast-Off Armor (Breastplate), Guardian Emblem, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-dcaf07</link><pubDate>Tue, 2 Feb 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>I’m In Your Arms</h1>
+<h3>
+Dungeoncraft Adventure for Tier 2
+  <em class="release">Released on February 2, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+Holy Auril, Mother of Cod</p>
+<p>The barkeep at The Luskan Arms runs into a lost love–but the authorities have selected her as the sacrifice! Will the adventurers find a way to spare her? Will love endure the frost or fall victim to the rime?</p>
+<p>Part Two of the <em>Targos Ascending</em> series.</p>
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Cast-Off Armor (Breastplate)</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+    <span>Guardian Emblem</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Detect Evil and Good</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-nbdd-01</guid><title>DC-PoA-NBDD-01 - Ice, Ice, Birdie</title><description>Charlatan’s Die, Brooch of Shielding, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-nbdd-01</link><pubDate>Sun, 31 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Ice, Ice, Birdie</h1>
+<h3>
+Dungeoncraft Adventure for Tier 2
+  <em class="release">Released on January 31, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+Winter Over</p>
+<p>In Bryn Shander, the city prepares for a day of celebration and festivities, as a well-known couple finally ties the knot. Adventurers are needed to help ensure all goes well, especially with the appearance of a famed troupe of kenku bards. Can you protect the troupe, save the wedding, and help the happy couple survive the cruel, cold world that is Icewind Dale under Auril's eternal winter?</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Charlatan’s Die</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+    <span>Brooch of Shielding</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Ceremony</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-gsp02-01h</guid><title>DC-PoA-GSP02-01H - The Arrival of Mr. Sorrow</title><description>Cloak of Many Fashions and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-gsp02-01h</link><pubDate>Fri, 29 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Arrival of Mr. Sorrow</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released by Greasy Snitches on January 29, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+A Dark Horse</p>
+<p>The town of Good Mead is about to select its new town speaker after the last one was killed by a giant. However, an eladrin has joined the election at the last minute, promising that he and his men know how to stop the Everlasting Rime.</p>
+<p>Part One of the <em>Factions Reawakened (Harpers)</em> series.</p>
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Cloak of Many Fashions</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Alter Self</span>
+ 
+    <em class="entry-label">Uncommon</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-gsp02-02h</guid><title>DC-PoA-GSP02-02H - The Priest of Caer-Dineval</title><description>Smoldering Armor (Studded Leather) and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-gsp02-02h</link><pubDate>Fri, 29 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Priest of Caer-Dineval</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released by Greasy Snitches on January 29, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+The Muttering Gnome</p>
+<p>A gnome priest of Lathander wearing tattered vestment and broken manacles has been found in Caer-Dineval. The priest, who is a member of the Order of the Gauntlet, seems unaffected by the cold. What’s more fascinating is that it looks like it has seen something it shouldn’t. Now, what would that be?</p>
+<p>Part Two of the <em>Factions Reawakened (Harpers)</em> series.</p>
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Smoldering Armor (Studded Leather)</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Bless</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-gsp02-03h</guid><title>DC-PoA-GSP02-03H - That Ain’t Mead</title><description>Moon-Touched Shortsword and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-gsp02-03h</link><pubDate>Fri, 29 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>That Ain’t Mead</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released by Greasy Snitches on January 29, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+Do You Know the Way to Lonelywood?</p>
+<p>A caravan transporting mead to Easthaven has gone missing. The Zhentarim merchants who have placed the order were very demanding in retrieving their mead and willing to pay more just to get it all back. Sounds pretty suspicious.</p>
+<p>Part Three of the <em>Factions Reawakened (Harpers)</em> series.</p>
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Moon-Touched Shortsword</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Potion of Healing</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-gsp02-04h</guid><title>DC-PoA-GSP02-04H - The Horror Sphere</title><description>Masquerade Tattoo and one other item</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-gsp02-04h</link><pubDate>Fri, 29 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Horror Sphere</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released by Greasy Snitches on January 29, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+I’d Like to Make a Return, Please</p>
+<p>A black pearl the size of a human head has been discovered by adventurers and has been brought to Lonelywood. However, whoever has the pearl immediately dies as soon as they see a goat. Somebody needs to put it back where it was found! But what does the Lords' Alliance have to do with all of this?</p>
+<p>Part Four of the <em>Factions Reawakened (Harpers)</em> series.</p>
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Masquerade Tattoo</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Walloping Ammunition (Arrow)</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-legit-sv-02</guid><title>DC-PoA-LEGIT-SV-02 - The Shape of Silence</title><description>Ring of Jumping, Smoldering Armor (Studded Leather), and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-legit-sv-02</link><pubDate>Fri, 29 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Shape of Silence</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on January 29, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+The Muttering Gnome</p>
+<p>The fortress prison of Revel's End is a panopticon where guards watch the every movement of every prisoner. So how did one of their prisoners end up all the way in Targos? …and what <em>else</em> has slipped from their gaze?</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Ring of Jumping</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Smoldering Armor (Studded Leather)</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Bless</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-kcb-01</guid><title>DC-PoA-KCB-01 - The Lady of the Maer</title><description></description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-kcb-01</link><pubDate>Thu, 28 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Lady of the Maer</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on January 28, 2021</em></h3>
+
+<p>A luxury steamship lake cruiser disappeared when Auril’s Rime began. Its fate remains a total mystery. Now an artifact from the ship has been found on an iceberg in the middle of Maer Dualdon. The party is tasked with researching this new finding in hopes of discovering the fate of the ship.</p>
+
+
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ghc-bk3-01</guid><title>CCC-GHC-BK3-01 - Assassination in Oeble</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-ghc-bk3-01</link><pubDate>Mon, 25 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Assassination in Oeble</h1>
 <h3>
 Convention Created Content for Tier 1
   <em class="release">Released by Gamehole Publishing on January 25, 2021</em></h3>
@@ -901,7 +1468,113 @@ Oracle of War Adventure for Tier 3
 <details class="story-award">
   <summary>Trust No One
 </summary><p>You helped Lukas Varko escaped the Cathedral of the Flame. Perhaps you’ll see him again in the future…</p>
-</details>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-eb-12</guid><title>DDAL-EB-12 - The Waiting Game</title><description>Ring of Regeneration, a potion, and a legacy event</description><link>https://arbron.github.io/adventure-items/adventures/ddal-eb-12</link><pubDate>Mon, 4 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Waiting Game</h1>
+</details>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-dcaf04</guid><title>DC-PoA-DCAF04 - A Macabre Nightal</title><description>Figurine of Wondrous Power (Silver Raven), Moon-Touched Shortsword, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-dcaf04</link><pubDate>Mon, 18 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>A Macabre Nightal</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on January 18, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+Do You Know the Way to Lonelywood?</p>
+<p>A young elf woman returns to Lonelywood, the scene of her family’s murder. But necromancy is in the air as the undead walk the roads. Can the adventurers rescue her and help her find closure?</p>
+<p>A part of the <em>Diversions of Comedy and Frost</em> series.</p>
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Figurine of Wondrous Power (Silver Raven)</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Moon-Touched Shortsword</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Potion of Healing</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-rog-01</guid><title>DC-PoA-ROG-01 - The Frozen Path to Easthaven</title><description>Mithral Armor (Scale), a scroll, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-rog-01</link><pubDate>Sun, 17 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Frozen Path to Easthaven</h1>
+<h3>
+Dungeoncraft Adventure for Tier 2
+  <em class="release">Released on January 17, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+Caravanning!</p>
+<p><strong>Brave The Frozen Path!</strong></p><p>The party is hired as bodyguards to guard a caravan from The Spine of The World to Easthaven. Besides the frigid elements, what other horrors await the adventurers?</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Mithral Armor (Scale)</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Magic Missile</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Walloping Ammunition (Sling Bullet)</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-dcaf06</guid><title>DC-PoA-DCAF06 - A Front On Frost</title><description>Efficient Quiver, Orb of Time, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-dcaf06</link><pubDate>Sun, 10 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>A Front On Frost</h1>
+<h3>
+Dungeoncraft Adventure for Tier 2
+  <em class="release">Released on January 10, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+Out of the Woods</p>
+<p>Leaders of the Ten-Towns have lost their patience with the antics of the Zhentarim in Targos. But giants have begun interfering in their leader’s plans. Can the adventurers find a solution?</p>
+<p>Part One of the <em>Targos Ascending</em> series.</p>
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Efficient Quiver</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Orb of Time</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Pass Without a Trace</span>
+ 
+    <em class="entry-label">Uncommon</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-ingh-01</guid><title>DC-PoA-INGH-01 - A Hot Time in the Cold Town Tonight</title><description>Eversmoking Bottle, Smoldering Armor - Breastplate, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-ingh-01</link><pubDate>Sat, 9 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>A Hot Time in the Cold Town Tonight</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on January 9, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+The Warmest Day</p>
+<p>The town of Termalaine is experiencing a strangely warm day, with the temperature almost up to freezing, and its rivals want to know why. What secrets are behind this spell of mild weather?</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Eversmoking Bottle</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Smoldering Armor - Breastplate</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Potion of Healing</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-conmar-01</guid><title>DC-PoA-CONMAR-01 - Something Sinister</title><description></description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-conmar-01</link><pubDate>Thu, 7 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Something Sinister</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on January 7, 2021</em></h3>
+
+<p>A group of kobold miners have uncovered something very unusual at the bottom of their mine. They need a band of brave adventurers to make sure that what they have found is not a risk to their health. Are you brave enough to heed the call?</p>
+<p>A part of the <em>Oar’s Rest</em> series.</p>
+
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-eb-12</guid><title>DDAL-EB-12 - The Waiting Game</title><description>Ring of Regeneration, a potion, and a legacy event</description><link>https://arbron.github.io/adventure-items/adventures/ddal-eb-12</link><pubDate>Mon, 4 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Waiting Game</h1>
 <h3>
 Oracle of War Adventure for Tier 3
   <em class="release">Released on January 4, 2021</em></h3>
@@ -932,6 +1605,83 @@ Convention Created Content for Tier 1
 <p>Lily asks for help to bring her mother to her final resting place, but the fey have other interests. Is believing in memories enough?</p>
 
 
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-cbb-01</guid><title>DC-PoA-CBB-01 - Twirling Towards Oblivion</title><description>Alchemy Jug, Cloak of Many Fashions, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-cbb-01</link><pubDate>Sun, 3 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Twirling Towards Oblivion</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on January 3, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+A Dark Horse</p>
+<p>The town of Good Mead is going to elect a new town speaker. The two candidates are both well respected merchants and each other's business rivals. Chaos ensues when Mr. Simplesun, an eccentric old man known for telling tall tales, throws his hat into the race. He is claiming to know the horrible and disturbing truth about the two front-runners!</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Alchemy Jug</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Cloak of Many Fashions</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Alter Self</span>
+ 
+    <em class="entry-label">Uncommon</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-harm-01-01</guid><title>DC-PoA-HARM-01-01 - First Time for Everything</title><description></description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-harm-01-01</link><pubDate>Fri, 1 Jan 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>First Time for Everything</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on January 1, 2021</em></h3>
+
+<p>Amidst Auril’s eternal darkness and growing unrest in the Ten Towns, adventurers delve into the frozen earth in pursuit of small-time thieves. But what started as a simple retrieval mission quickly escalates, as unexpected magic thwarts their pursuit. As shadows of the past coalesce and present threats leap into the looming future, adventurers fight against the ravages of time itself to catch yesterday’s culprits and thwart tomorrow’s villains.</p>
+<p>Part One of the <em>Kobolds Through Time</em> series.</p>
+
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-ducks-os-02</guid><title>DC-PoA-DUCKS-OS-02 - Are You Open-Minded?</title><description>Dread Help and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-ducks-os-02</link><pubDate>Thu, 31 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Are You Open-Minded?</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on December 31, 2020</em></h3>
+<p>  <em>Adventure Seed: </em>
+Burrowing Borrowers</p>
+<p>Crime has increased in the town of Easthaven, a group of kobolds who are normally docile are now stealing from the defenseless civilians.</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Dread Help</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Potion of Healing</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-sfg01</guid><title>DC-PoA-SFG01 - Tomb of the Banished Thane</title><description>Candle of the Deep, Circlet of Blasting, and a scroll</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-sfg01</link><pubDate>Thu, 31 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Tomb of the Banished Thane</h1>
+<h3>
+Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on December 31, 2020</em></h3>
+<p>  <em>Adventure Seed: </em>
+Breaking Ice-olation</p>
+<p>A recent avalanche in the Spine of the World has revealed a mountainside entrance of worked stone. Halena Ironstone believes it could be the tomb of her ancestor, Daglund the Banished, and she needs brave adventurers to investigate.</p>
+
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Candle of the Deep</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+    <span>Circlet of Blasting</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Frost Fingers</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
 
 ]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-maydays-02-01</guid><title>CCC-MAYDAYS-02-01 - King Obould’s Fist</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-maydays-02-01</link><pubDate>Tue, 29 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>King Obould’s Fist</h1>
 <h3>
@@ -984,406 +1734,6 @@ Convention Created Content for Tier 1
   <em class="release">Released on December 29, 2020</em></h3>
 
 <p>You are certain you went to sleep somewhere quite different, but find yourself awakened in a dismal swamp, on the porch of an empty shack. What forces have drawn you here, and what challenges will you need to survive to get back home?</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-saf-02-01</guid><title>CCC-SAF-02-01 - Stygia: A Refuge In the Cold</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-saf-02-01</link><pubDate>Tue, 29 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Stygia: A Refuge In the Cold</h1>
-<h3>
-Convention Created Content for Tier 2
-  <em class="release">Released on December 29, 2020</em></h3>
-
-<p>Who would seek safety in the domain of a devil? A desperate eladrin is willing to trade his freedom for a guarantee of safety, even if it’s the bitterly cold ice‐covered oceans of Stygia. But, really, what choice did he have? And what choice will you make?</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ucon-03</guid><title>CCC-UCON-03 - The Straw Bears</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-ucon-03</link><pubDate>Tue, 29 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Straw Bears</h1>
-<h3>
-Convention Created Content for Tier 1
-  <em class="release">Released on December 29, 2020</em></h3>
-
-<p>You return to the peculiar village of Basht for one of their unusual festivals: the procession of the Straw Bears. While there, you meet some old friends and are asked to escort the brave villagers into the woods to continue the party into the night. It should be perfectly safe, shouldn’t it?</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-dwb-acm-01</guid><title>CCC-DWB-ACM-01 - A Colossal Mess</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-dwb-acm-01</link><pubDate>Mon, 28 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>A Colossal Mess</h1>
-<h3>
-Convention Created Content for Tier 2
-  <em class="release">Released on December 28, 2020</em></h3>
-
-<p>A massive ice statue is rampaging through the city of Tantlin in Stygia. Can it be stopped, and who set it loose?</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-dwb-af-01</guid><title>CCC-DWB-AF-01 - Adventuring Fates</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-dwb-af-01</link><pubDate>Mon, 28 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Adventuring Fates</h1>
-<h3>
-Convention Created Content for Tier 1
-  <em class="release">Released on December 28, 2020</em></h3>
-
-<p>A rescue attempt of kidnapped villagers in a nearby cave system went awry. Sister Claire is trying to gather a band of adventurers for another attempt. Can they free the captured and stop the menace to the village?</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-dwb-anh-01</guid><title>CCC-DWB-ANH-01 - A Negotiated Heist</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-dwb-anh-01</link><pubDate>Mon, 28 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>A Negotiated Heist</h1>
-<h3>
-Convention Created Content for Tier 3
-  <em class="release">Released on December 28, 2020</em></h3>
-
-<p>An object for locating a threat to Maladomini has been discovered and must be acquired.</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-dwb-dft-01</guid><title>CCC-DWB-DFT-01 - Digging For Trouble</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-dwb-dft-01</link><pubDate>Mon, 28 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Digging For Trouble</h1>
-<h3>
-Convention Created Content for Tier 2
-  <em class="release">Released on December 28, 2020</em></h3>
-
-<p>Mahadi wants his money back, and the only thing to do is to go Digging for Trouble.</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-dwb-eog-01</guid><title>CCC-DWB-EOG-01 - The Enemy of Greed</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-dwb-eog-01</link><pubDate>Mon, 28 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Enemy of Greed</h1>
-<h3>
-Convention Created Content for Tier 1
-  <em class="release">Released on December 28, 2020</em></h3>
-
-<p>A group of bandits hides in the Quivering Forest and ambushes travelers to Phlan. The Emerald Enclave wants them dealt with. Will you assist?</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-dwb-gat-01</guid><title>CCC-DWB-GAT-01 - To Give and to Take</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-dwb-gat-01</link><pubDate>Mon, 28 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>To Give and to Take</h1>
-<h3>
-Convention Created Content for Tier 1
-  <em class="release">Released on December 28, 2020</em></h3>
-
-<p>The children of Elmswood’s favorites bard has gone missing, and with them a sense of charitable behavior. He’s got to be around somewhere, hasn’t he? Goblins wouldn’t have anything to do with it. No?</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-dwb-tla-01</guid><title>CCC-DWB-TLA-01 - The Lakebed Archive</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-dwb-tla-01</link><pubDate>Mon, 28 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Lakebed Archive</h1>
-<h3>
-Convention Created Content for Tier 1
-  <em class="release">Released on December 28, 2020</em></h3>
-
-<p>Deep within the Moonsea, a vault of ancient knowledge exists beneath the murky waters. However, the knowledge must now be reclaimed…</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-dwb-tmg-01</guid><title>CCC-DWB-TMG-01 - The Mournful Golem</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-dwb-tmg-01</link><pubDate>Mon, 28 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Mournful Golem</h1>
-<h3>
-Convention Created Content for Tier 1
-  <em class="release">Released on December 28, 2020</em></h3>
-
-<p>Strange lights and harsh whispers in the graveyards near Scyulla’s Watch have come along with a series of grave robberies which mirror those committed years ago. The party is hired to investigate and finds that they aren’t grave robberies, but something much stranger.</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-gary-17</guid><title>CCC-GARY-17 - A Simple Plan</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-gary-17</link><pubDate>Sun, 27 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>A Simple Plan</h1>
-<h3>
-Convention Created Content for Tier 1
-  <em class="release">Released on December 27, 2020</em></h3>
-
-<p>Following leads from their previous adventures, the characters explore the Salazane mansion and confront the source of the ancient family curse. Part Three of the <em>Immortals</em> series.</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ucon-02-01</guid><title>CCC-UCON-02-01 - The Goat Mayor</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-ucon-02-01</link><pubDate>Sun, 27 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Goat Mayor</h1>
-<h3>
-Convention Created Content for Tier 1
-  <em class="release">Released on December 27, 2020</em></h3>
-
-<p>You visit the peculiar village of Basht expecting a pleasant evening filled with good food and drink, and a chance to learn their strange customs and superstitions. Your evening is interrupted when you are asked to rescue their mayor. Their mayor? A goat that lives in the center of town. Why is he so vital, and why is this a job for adventurers?</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ucon-02-02</guid><title>CCC-UCON-02-02 - Rescue Down Under</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-ucon-02-02</link><pubDate>Sun, 27 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Rescue Down Under</h1>
-<h3>
-Convention Created Content for Tier 2
-  <em class="release">Released on December 27, 2020</em></h3>
-
-<p>While in the peculiar village of Basht, a town full of strange customs and superstitions, an elderly woman asks you to check in on her grandson, a Gondite tinkerer testing out his latest invention in a nearby cavern. Sounds easy enough, right?</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-tcw-wsf-01</guid><title>CCC-TCW-WSF-01 - A Change of Heart</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-tcw-wsf-01</link><pubDate>Tue, 22 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>A Change of Heart</h1>
-<h3>
-Convention Created Content for Tier 1
-  <em class="release">Released on December 22, 2020</em></h3>
-
-<p>There is continued unrest in the cities around the Moonsea. The Red Wizards are rumored to be kidnapping visitors—but why? Ylraphon is one of those cities and is in danger from a growing threat from Thayan extremists.</p>
-<p>Part One of the <em>When Shadows Fall</em> series.</p>
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-psa-01</guid><title>CCC-PSA-01 - In the Darkest of Times</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-psa-01</link><pubDate>Mon, 21 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>In the Darkest of Times</h1>
-<h3>
-Convention Created Content for Tier 1
-  <em class="release">Released on December 21, 2020</em></h3>
-
-<p>A string of disappearing children? A mysterious green glow coming from the mountains? Phlan can’t seem to catch a break. Will you answer the call and help put a stop to the bad luck?</p>
-<p>Part One of the <em>Pumpkin Spiced Adventures</em> series.</p>
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-unite-07</guid><title>CCC-UNITE-07 - The Second Exodus of Syln Nahail</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-unite-07</link><pubDate>Sun, 20 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Second Exodus of Syln Nahail</h1>
-<h3>
-Convention Created Content for Tier 2
-  <em class="release">Released on December 20, 2020</em></h3>
-
-<p>Let the characters show the stuff they are made of!</p><p>A hostile army closes in on the town of Syln Nahail. Aid must be secured. A line of retreat must be held open.</p><p>Sacrifices will have to be made.</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-ghc-bk2-10</guid><title>CCC-GHC-BK2-10 - Into the Dark, Black Forest</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-ghc-bk2-10</link><pubDate>Sat, 19 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Into the Dark, Black Forest</h1>
-<h3>
-Convention Created Content for Tier 2
-  <em class="release">Released by Gamehole Publishing on December 19, 2020</em></h3>
-
-<p>Adventurers are contacted to seek out and rescue a fellow adventurer who traveled alone into the Jundarwood on a reconnaissance mission—and hasn’t returned.</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-hero-bk-03-01</guid><title>CCC-HERO-BK-03-01 - A Walk Along the Borders</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-hero-bk-03-01</link><pubDate>Sat, 19 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>A Walk Along the Borders</h1>
-<h3>
-Convention Created Content for Tier 1
-  <em class="release">Released by Gamehole Publishing on December 19, 2020</em></h3>
-
-<p>Mage Rymdyl’s ominous dreams have foretold a coming storm that will threaten all of the Border Kingdoms. She realizes that in order to protect the Kingdoms from this still murky threat, she must secure allies and identify those who will oppose her. She turns to a brave party of adventures to help in this a game of chess whose board is the Border Kingdoms and the prize could be the fate of Faerûn itself…</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-hero-bk-03-02</guid><title>CCC-HERO-BK-03-02 - The Fire Rekindled</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-hero-bk-03-02</link><pubDate>Sat, 19 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Fire Rekindled</h1>
-<h3>
-Convention Created Content for Tier 2
-  <em class="release">Released by Gamehole Publishing on December 19, 2020</em></h3>
-
-<p>Whispers have arrived of an assassination attempt on the Mage Rymdyl. While the mage has made her presence known by bringing about peace across the Border Kingdoms, as of late she remains unseen, isolated inside her tower. Plagued by ghosts of the past and twisted visions of a land in conflict, Rymdyl will need help to discover the true enemy and protect her newly resurrected life.</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-hero-bk-03-03</guid><title>CCC-HERO-BK-03-03 - A Lute Strung Double</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-hero-bk-03-03</link><pubDate>Sat, 19 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>A Lute Strung Double</h1>
-<h3>
-Convention Created Content for Tier 2
-  <em class="release">Released by Gamehole Publishing on December 19, 2020</em></h3>
-
-<p>Word is out that Quint Degallard, the famous Waterdhavian Bard, is planning to retire and auction off her prized lute to fund her retirement. She has returned to her hometown of Gallard for her final performance in the venue where she first began playing. But the auction of such a rare artifact has attracted all sorts of nefarious clientele. Can the adventurers make sure the auction goes off without a hitch? Or will Quint lose her prized possession, her retirement, and maybe even her life?</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-hero-bk-03-04</guid><title>CCC-HERO-BK-03-04 - Lilium Inter Spinas</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-hero-bk-03-04</link><pubDate>Sat, 19 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Lilium Inter Spinas</h1>
-<h3>
-Convention Created Content for Tier 2
-  <em class="release">Released by Gamehole Publishing on December 19, 2020</em></h3>
-
-<p>With the Border Kingdoms thrown into chaos from recent events, Mage Rymdyl has kept an eye towards the visions she has been receiving. Images of lost tomes, dark phrases and a shadowed meeting direct you towards the Black Markets in the alleys of Blackalblade’s art district. What surprises wait for you in the shadows of the theater?</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-sac-04</guid><title>CCC-SAC-04 - One With the Storm</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-sac-04</link><pubDate>Thu, 17 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>One With the Storm</h1>
-<h3>
-Convention Created Content for Tier 2
-  <em class="release">Released on December 17, 2020</em></h3>
-
-<p>The citizens of <strong>Hulburg</strong> have angered the god Umberlee. Feeling slighted by the meager offerings at the last festival of the sea goddess, she has sent her forces to decimate the town.</p><p>The battle will be lost unless someone can find reinforcements for the city. There are rumors of powerful giants living on a nearby island who may be able to help.</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-sac-05</guid><title>CCC-SAC-05 - Fey in Hell</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-sac-05</link><pubDate>Thu, 17 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Fey in Hell</h1>
-<h3>
-Convention Created Content for Tier 3
-  <em class="release">Released on December 17, 2020</em></h3>
-
-<p>The corrupted archdruid Kelandrakix is rumored to be running amok in Maladomini, the 7th layer of hell. Baalzebul wants to put a stop to her pit fighting business and needs and outside party who is not bound by their rules to take care of the problem. Can the party navigate the bureaucracy of Maladomini and put an end to Kelandrakix’s shenanigans?</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon8-1</guid><title>CCC-BMG MOON8-1 - Blood on the Moors</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon8-1</link><pubDate>Thu, 10 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Blood on the Moors</h1>
-<h3>
-Convention Created Content for Tier 2
-  <em class="release">Released by Baldman Games on December 10, 2020</em></h3>
-
-<p>The rumored death of a unicorn protector has everyone concerned as all eyes in the Moonshaes turn to Moray. When the expedition sent to investigate doesn’t return, the fires of panic begin to roar. What evil awaits you on the moors?</p>
-<p>Part One of the <em>Dawn of the Darkening</em> series.</p>
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon8-2</guid><title>CCC-BMG MOON8-2 - Breasal Strife</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon8-2</link><pubDate>Thu, 10 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Breasal Strife</h1>
-<h3>
-Convention Created Content for Tier 2
-  <em class="release">Released by Baldman Games on December 10, 2020</em></h3>
-
-<p>The Naïlo Expedition stumbled their way into the dreaded Breasal Marsh. It’s deadly enough in its own right without the added threat of sinister shadows. Is there anyone with the courage to follow and rescue them?</p>
-<p>Part Two of the <em>Dawn of the Darkening</em> series.</p>
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon8-3</guid><title>CCC-BMG MOON8-3 - A Grim View of Farview</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-bmg-moon8-3</link><pubDate>Thu, 10 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>A Grim View of Farview</h1>
-<h3>
-Convention Created Content for Tier 2
-  <em class="release">Released by Baldman Games on December 10, 2020</em></h3>
-
-<p>Following the trail of a lost expedition, all signs point to the small Northlander town of Farview. Day blends into night and the townsfolk are acting strangely. Hopefully some answers cna be foudn here, along with warmth and rest.</p>
-<p>Part Three of the <em>Dawn of the Darkening</em> series.</p>
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-gsp01-01</guid><title>DC-PoA-GSP01-01 - A Wolf’s Whisper</title><description>Boots of the Winterlands, Pole of Angling, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-gsp01-01</link><pubDate>Sat, 5 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>A Wolf’s Whisper</h1>
-<h3>
-Dungeoncraft Adventure for Tier 1
-  <em class="release">Released by Greasy Snitches on December 5, 2020</em></h3>
-<p>  <em>Adventure Seed: </em>
-Awake and Afraid</p>
-<p>Talking beasts have been wandering around Easthaven, whispering about a crimson star. The villagers, taking advantage of this situation, are killing these animals for food. One injured wolf managed to evade the hunters, but they are not willing to let their game escape. Part One of <em>The Crimson Star</em> series.</p>
-
-<h2>Items</h2>
-<ul>
-  <li>
-    <span>Boots of the Winterlands</span>
- 
-    <em class="entry-label">Uncommon</em></li>
-  <li>
-    <span>Pole of Angling</span>
- 
-    <em class="entry-label">Common</em></li>
-  <li>
-1 x 
-    <span>Potion of Healing</span>
- 
-    <em class="entry-label">Common</em></li></ul>
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-gary-16</guid><title>CCC-GARY-16 - My Immortal Loneliness</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-gary-16</link><pubDate>Thu, 3 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>My Immortal Loneliness</h1>
-<h3>
-Convention Created Content for Tier 1
-  <em class="release">Released on December 3, 2020</em></h3>
-
-<p>Characters investigate a decrepit mansion in order to cleanse it of necrotic energy and discover the occupant has unanticipated tastes. Part Two of the <em>Immortals</em> series.</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-pipyaps</guid><title>CCC-PIPYAPS - Glasya’s Little Helpers</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-pipyaps</link><pubDate>Tue, 1 Dec 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Glasya’s Little Helpers</h1>
-<h3>
-Convention Created Content for Tier 2
-  <em class="release">Released on December 1, 2020</em></h3>
-
-<p>A workshop in a <s>frozen wasteland</s> winter wonderland? Little people making items to spread around the world and bring joy? Sounds sketchy. Mahadi wants you to investigate before the economy of hell is forever disrupted! Sometimes, the only thing more dangerous than the question is an answer.</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-gsp03-01</guid><title>DC-PoA-GSP03-01 - The Missing Link</title><description>Boots of False Tracks, Dust of Disappearance, and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-gsp03-01</link><pubDate>Mon, 30 Nov 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Missing Link</h1>
-<h3>
-Dungeoncraft Adventure for Tier 1
-  <em class="release">Released by Greasy Snitches on November 30, 2020</em></h3>
-<p>  <em>Adventure Seed: </em>
-Once Bitten, Twice Shy</p>
-<p>Someone’s mysterious disappearance started a chain of kidnappings, the most recent of which is tied to someone dear to an old man. He is desperate to find out where they were taken. Can the adventurers unravel the mystery behind these missing individuals? Part One of The <em>Frozen Eye</em> series.</p>
-
-<h2>Items</h2>
-<ul>
-  <li>
-    <span>Boots of False Tracks</span>
- 
-    <em class="entry-label">Common</em></li>
-  <li>
-    <span>Dust of Disappearance</span>
- 
-    <em class="entry-label">Uncommon</em></li>
-  <li>
-1 x 
-    <span>Potion of Climbing</span>
- 
-    <em class="entry-label">Common</em></li></ul>
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-eb-11</guid><title>DDAL-EB-11 - My Undying Heart</title><description>Armor, +1, Barding, +1, Crystal Skull, a potion, a scroll, and 2 legacy events</description><link>https://arbron.github.io/adventure-items/adventures/ddal-eb-11</link><pubDate>Mon, 30 Nov 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>My Undying Heart</h1>
-<h3>
-Oracle of War Adventure for Tier 3
-  <em class="release">Released on November 30, 2020</em></h3>
-
-<p>High above Karrnath, the adventurers present the Oracle of War to the Institute of the Twelve. The dragonmarked houses promise security, but dead eyes are watching from the dark. In this nation of storms, the drums of war are beating again. The first in a trilogy of adventures, the <em>Drums of War</em> storyline.</p>
-
-<h2>Items</h2>
-<ul>
-  <li>
-    <span>Armor, +1</span>
- 
-    <em class="entry-label">Rare</em></li>
-  <li>
-    <span>Barding, +1</span>
- 
-    <em class="entry-label">Rare</em></li>
-  <li>
-    <span>Crystal Skull</span>
- 
-    <em class="entry-label">Unique</em></li>
-  <li>
-1 x 
-    <span>Potion of Resistance (Fire)</span>
- 
-    <em class="entry-label">Uncommon</em></li>
-  <li>
-1 x 
-    <span>Scroll of Protection (Undead)</span>
- 
-    <em class="entry-label">Rare</em></li></ul>
-
-<h2>Legacy Events</h2>
-<details class="story-award">
-  <summary>Crystal Skull
-</summary><p>Irullan Karnach confessed that she delivered a crystal skull with the power to bring the dead back to life to the Order of the Emerald Claw.</p>
-</details>
-<details class="story-award">
-  <summary>Rescued Agent
-</summary><p>You freed Leele d'Jorasco from captivity in the Emerald Claw enclave. She promises to aid you again in the future.</p>
-</details>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-gary-15</guid><title>CCC-GARY-15 - Friendship Never Dies</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-gary-15</link><pubDate>Sun, 29 Nov 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Friendship Never Dies</h1>
-<h3>
-Convention Created Content for Tier 1
-  <em class="release">Released on November 29, 2020</em></h3>
-
-<p>After a strange necrotic energy washes over the village of Greenspar, characters must investigate the source of this (un)deadly affliction. Will they be able to exterminate the source of this blight, or fall prey to it themselves? Part One of the <em>Immortals</em> series.</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-melb-01</guid><title>CCC-MELB-01 - A Single Tearfall</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-melb-01</link><pubDate>Sun, 29 Nov 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>A Single Tearfall</h1>
-<h3>
-Convention Created Content for Tier 2
-  <em class="release">Released on November 29, 2020</em></h3>
-
-<p>An injured young fisherman stumbles into Elventree with a brightly coloured egg in his arms. He claims it fell from the sky and broke his rowboat. When he swam to the shore an elf with skin of ash attacked him and tried to take the egg. Will you help him keep it safe, Adventurers?</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-legit-sv-01</guid><title>DC-PoA-LEGIT-SV-01 - The Coldlight Star</title><description>Mix #5 (Eversmoking Bottle), Wintergreen Guard (Smoldering Armor - Breastplate), and a potion</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-legit-sv-01</link><pubDate>Sat, 28 Nov 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Coldlight Star</h1>
-<h3>
-Dungeoncraft Adventure for Tier 1
-  <em class="release">Released by The Legitimate Business on November 28, 2020</em></h3>
-<p>  <em>Adventure Seed: </em>
-The Warmest Day</p>
-<p>A day of unusual warmth slices through the everlasting rime, giving the town of Termalaine a ray of hope. But only a fool would think breaking Auril’s hold would be easy. Can you weather what mortal hubris has wrought? Or will Termalaine be undone by…The Coldlight Star.</p>
-
-<h2>Items</h2>
-<ul>
-  <li>
-    <span>Mix #5 (Eversmoking Bottle)</span>
- 
-    <em class="entry-label">Uncommon</em></li>
-  <li>
-    <span>Wintergreen Guard (Smoldering Armor - Breastplate)</span>
- 
-    <em class="entry-label">Common</em></li>
-  <li>
-1 x 
-    <span>Potion of Healing</span>
- 
-    <em class="entry-label">Common</em></li></ul>
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-gsp02-03</guid><title>CCC-GSP02-03 - Maladomini Unleashed</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-gsp02-03</link><pubDate>Sun, 22 Nov 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Maladomini Unleashed</h1>
-<h3>
-Convention Created Content for Tier 3
-  <em class="release">Released by Greasy Snitches on November 22, 2020</em></h3>
-
-<p>The valkyrie Sigrdri is tasked to free heroic souls bound for Ysgard, but are instead stuck somewhere in different layers of the Nine Hells. Now, she is looking for adventurers to go with her on her final mission: save the Biguri Siblings, a family of valiant earth genasi warriors trapped in Maladomini, the Seventh Layer of Hell. Part Three of <em>Heroes in Nine Hells</em>.</p>
-
-
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ccc-arcana-01</guid><title>CCC-ARCANA-01 - The Phantom Pursuit</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ccc-arcana-01</link><pubDate>Mon, 16 Nov 2020 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Phantom Pursuit</h1>
-<h3>
-Convention Created Content for Tier 1
-  <em class="release">Released on November 16, 2020</em></h3>
-
-<p>Caravan duty in the Cormanthor forest can be dangerous, but normally you only have to deal with bandits and the odd goblin. No-one said anything about the undead, but now you’re being chased by a malevolent spirit!</p><p>Can you escape—or will you die trying?</p>
 
 
 

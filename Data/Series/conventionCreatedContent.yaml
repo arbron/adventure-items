@@ -230,6 +230,16 @@
       position: 4
 
 
+- slug: oars-rest
+  name: Oar’s Rest
+  adventures:
+    - code: CCC-CONMAR01-01
+    - code: CCC-CONMAR01-02
+    - code: DC-PoA-CONMAR-01
+    - code: DC-PoA-CONMAR-03
+    - code: DC-PoA-CONMAR-04
+
+
 - slug: obsidian-stone
   name: Obsidian Stone
   type: trilogy

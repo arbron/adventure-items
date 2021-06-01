@@ -1,0 +1,101 @@
+- slug: crimson-star
+  name: Crimson Star
+  adventures:
+    - code: DC-PoA-GSP01-01
+      position: 1
+    - code: DC-PoA-GSP01-02
+      position: 2
+
+
+- slug: diversions-of-comedy-and-frost
+  name: Diversions of Comedy and Frost
+  adventures:
+    - code: DC-PoA-DCAF01
+    - code: DC-PoA-DCAF03
+    - code: DC-PoA-DCAF04
+    - code: DC-PoA-DCAF05
+
+
+- slug: factions-reawakened-harpers
+  name: Factions Reawakened (Harpers)
+  adventures:
+    - code: DC-PoA-GSP02-01H
+      position: 1
+    - code: DC-PoA-GSP02-02H
+      position: 2
+    - code: DC-PoA-GSP02-03H
+      position: 3
+    - code: DC-PoA-GSP02-04H
+      position: 4
+
+
+- slug: the-frozen-eye
+  name: The Frozen Eye
+  includesArticle: true
+  adventures:
+    - code: DC-PoA-GSP03-01
+      position: 1
+    - code: DC-PoA-GSP03-02
+      position: 2
+
+
+- slug: kobolds-through-time
+  name: Kobolds Through Time
+  adventures:
+    - code: DC-PoA-HARM-01-01
+      position: 1
+    - code: DC-PoA-HARM-01-02
+      position: 2
+    - code: DC-PoA-HARM-01-03
+      position: 3
+
+
+- slug: rise-of-silverclaw
+  name: Rise of Silverclaw
+  adventures:
+    - code: DC-PoA-NN01-01
+      position: 1
+
+
+- slug: targos-ascending
+  name: Targos Ascending
+  adventures: 
+    - code: DC-PoA-DCAF06
+      position: 1
+    - code: DC-PoA-DCAF07
+      position: 2
+    - code: DC-PoA-DCAF08
+      position: 3
+
+
+- slug: targos-targeted
+  name: Targos Targeted
+  adventures:
+    - code: DC-PoA-DCAF09
+      position: 1
+
+
+- slug: to-survive-the-night
+  name: To Survive the Night
+  adventures:
+    - code: DC-PoA-GaryXIII-01
+      position: 1
+    - code: DC-PoA-GaryXIII-02
+      position: 2
+    - code: DC-PoA-GaryXIII-03
+      position: 3
+    - code: DC-PoA-GaryXIII-04
+      position: 4
+    - code: DC-PoA-GaryXIII-05
+      position: 5
+
+
+- slug: ursa-major
+  name: Ursa Major
+  type: trilogy
+  adventures:
+    - code: DC-POA-CODEX-01
+      position: 1
+    - code: DC-POA-CODEX-02
+      position: 2
+

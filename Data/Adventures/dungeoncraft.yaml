@@ -1,0 +1,1422 @@
+##  A  ##
+
+- code: DC-PoA-AOT01-01
+  name: Counteroffer
+  description: >-
+    The plot to take over a powerful mead making and merchanting company
+    unravels when a man is found dead with an arrow in his back. As accusations
+    fly, the animosity between two brothers turns to violence, and adventurers
+    are brought in to mediate. Soon it becomes clear that a more sinister threat
+    looms over the town of Good Mead and a deeper mystery begins to emerge.
+  released: '2020-12-30'
+  url: 'https://www.dmsguild.com/product/341720/DCPOA-AOT0101-Counteroffer'
+  tier: 1
+  length: 4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+##  B  ##
+
+
+##  C  ##
+
+- code: DC-PoA-CBB-01
+  name: Twirling Towards Oblivion
+  description: >-
+    The town of Good Mead is going to elect a new town speaker. The two
+    candidates are both well respected merchants and each other's business
+    rivals. Chaos ensues when Mr. Simplesun, an eccentric old man known for
+    telling tall tales, throws his hat into the race. He is claiming to know
+    the horrible and disturbing truth about the two front-runners!
+  adventureSeed: A Dark Horse
+  released: '2021-01-04'
+  url: 'https://www.dmsguild.com/product/342209/DCPOACBB01--Twirling-Towards-Oblivion'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Alchemy Jug
+      rarity: uncommon
+    - name: Cloak of Many Fashions
+      rarity: common
+    - name: Spell Scroll of Alter Self
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-CBB-02
+  name: Avarice Everlasting
+  description: >-
+    A bright sphere of fire has appeared over the town of Termalaine. It showers
+    the town in warmth and light as if it were the sun. The townsfolk celebrate
+    what appears to a blessing from the gods. The truth is the false sun is a
+    beacon conjured by an evil cursed artifact that has been awakened.  Now
+    hordes of undead pirates and bandits have seen this beacon and seek to
+    claim the artifact for themselves.
+  adventureSeed: The Warmest Day
+  released: '2021-02-12'
+  url: 'https://www.dmsguild.com/product/346672/DCPoACBB02--Avarice-Everlasting'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Eversmoking Bottle
+      rarity: uncommon
+    - name: Smoldering Armor - Breastplate
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-CG-1-1
+  name: Punishment for Pride
+  description: >-
+    Your travels take you to a brief stopover at Lonelywood. You quickly find
+    that the nights have begun to grow more dangerous with relentless raiders
+    ransacking the village. Piece together the reason for these attacks and
+    solve this crisis a millennia in the making.
+  adventureSeed: I’d Like to Make a Return, Please
+  released: '2020-12-25'
+  url: 'https://www.dmsguild.com/product/341177/Punishment-for-Pride-DCPOACG11'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Grey Bag of Tricks
+      rarity: uncommon
+    - name: Masquerade Tattoo
+      rarity: common
+    - name: Walloping Ammunition (Arrow)
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-CODEX-01
+  name: Bear the Lode
+  description: >-
+    Putting an end to strange disturbances plaguing a mining operation is
+    all in a day’s work for an adventurer, but is the job as straightforward
+    as it seems, or is there more than meets the eye? 
+  adventureSeed: Awake and Afraid
+  released: '2021-02-28'
+  url: 'https://www.dmsguild.com/product/348521/DCPOACODEX01-Bear-the-Lode'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Boots of the Winterlands
+      rarity: uncommon
+    - name: Pole of Angling
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-CONMAR-01
+  name: Something Sinister
+  description: >-
+    A group of kobold miners have uncovered something very unusual at the
+    bottom of their mine. They need a band of brave adventurers to make sure
+    that what they have found is not a risk to their health.
+
+    Are you brave enough to heed the call? 
+  released: '2021-01-08'
+  url: 'https://www.dmsguild.com/product/342706/DCPoACONMAR01-Something-Sinister'
+  tier: 1
+  length: 2-4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: DC-PoA-CONMAR-03
+  name: Unfrozen
+  description: >-
+    As Termalaine is getting warmer the agents of the Frostmaiden are looking
+    for the reason, attacking anything in their path. The local Ten-Towners do
+    not seem concerned, but maybe a Reghed tribe can help? It is time for
+    adventurers to save the day. Again.
+  adventureSeed: The Warmest Day
+  released: '2021-02-22'
+  url: 'https://www.dmsguild.com/product/347798/DCPoACONMAR03--Unfrozen'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Eversmoking Bottle
+      rarity: uncommon
+    - name: Smoldering Armor - Breastplate
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-CONMAR-04
+  name: Midwinter Celebrations
+  description: >-
+    While preparing for Midwinter Celebrations, something does not feel
+    completely right. Welcome to the mythical world of Icewind Dale’s folklore.
+  adventureSeed: Caravanning!
+  released: '2020-12-13'
+  url: 'https://www.dmsguild.com/product/339808/DCPoACONMAR04--Midwinter-Celebrations'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Mithral Armor (Scale)
+      rarity: uncommon
+    - name: Spell Scroll of Magic Missile
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Walloping Ammunition (Sling Bullet)
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-CTH01
+  name: Roused by Raiders
+  description: >-
+    A novice group of adventurers foolishly leads a remorhaz threat to the
+    town of Lonelywood. The characters must protect the settlement from these
+    monstrosities and discover why the adventurers were attacked in the first place.
+  adventureSeed: Out of the Woods
+  released: '2021-02-13'
+  url: 'https://www.dmsguild.com/product/346787/DCPoACTH1-Roused-by-Raiders'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Orb of Time
+      rarity: common
+    - name: Spell Scroll of Pass Without a Trace
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+##  D  ##
+
+- code: DC-PoA-DCAF01
+  name: Let It Goat
+  description: >-
+    The town of Good Mead awakens to the shrill singing of a talking goat. Bothered
+    with the incessant occurrences of awakened animals, the townsfolk turn to their
+    guests to climb the mountain and find the culprit who woke this beast up. But
+    were the intentions as nefarious as they seemed?
+  adventureSeed: Awake and Afraid
+  released: '2020-11-17'
+  url: 'https://www.dmsguild.com/product/336410/DCPoADCAF01-Let-It-Goat'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Boots of the Winterlands
+      rarity: uncommon
+    - name: Pole of Angling
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-DCAF03
+  name: Sputtering Out
+  description: >-
+    Dannika Graysteel is dismayed that one of her chwinga subjects has turned
+    purple and cannot perform magic! She thinks only their kind can help the poor
+    elemental. Will you help find the chwinga’s home?
+  adventureSeed: Chwinga-chwinga. CHWINGA!
+  released: '2020-11-27'
+  url: 'https://www.dmsguild.com/product/337518/DCPoADCAF03-Sputtering-Out'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Enduring Spellbook
+      rarity: common
+    - name: Spell Scroll of Snilloc’s Snowball Swarm
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-DCAF04
+  name: A Macabre Nightal
+  description: >-
+    A young elf woman returns to Lonelywood, the scene of her family’s murder.
+    But necromancy is in the air as the undead walk the roads. Can the adventurers
+    rescue her and help her find closure?
+  adventureSeed: Do You Know the Way to Lonelywood?
+  released: '2021-01-19'
+  url: 'https://www.dmsguild.com/product/343197/DCPoADCAF04-A-Macabre-Nightal'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Figurine of Wondrous Power (Silver Raven)
+      rarity: uncommon
+    - name: Moon-Touched Shortsword
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-DCAF05
+  name: Head In The Clouds
+  description: >-
+    An icewind kobold ran away from his friends in Caer-Dineval, stealing a pair
+    of boots and a map leading to a dragon culsts’ den. Will a group of adventurers
+    save him, or will he find that he is in over his head?
+  adventureSeed: Once Bitten, Ice Shy
+  released: '2020-12-08'
+  url: 'https://www.dmsguild.com/product/338801/DCPoADCAF05-Head-In-The-Clouds'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Boots of False Tracks
+      rarity: common
+    - name: Potion of Climbing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-DCAF06
+  name: A Front On Frost
+  description: >-
+    Leaders of the Ten-Towns have lost their patience with the antics of the
+    Zhentarim in Targos. But giants have begun interfering in their leader’s
+    plans. Can the adventurers find a solution?
+  adventureSeed: Out of the Woods
+  released: '2021-01-11'
+  url: 'https://www.dmsguild.com/product/342961/DcPoADCAF06-A-Front-On-Frost'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Efficient Quiver
+      rarity: uncommon
+    - name: Orb of Time
+      rarity: common
+    - name: Spell Scroll of Pass Without a Trace
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-DCAF07
+  name: I’m In Your Arms
+  description: >-
+    The barkeep at The Luskan Arms runs into a lost love–but the authorities
+    have selected her as the sacrifice! Will the adventurers find a way to spare
+    her? Will love endure the frost or fall victim to the rime?
+  adventureSeed: Holy Auril, Mother of Cod
+  released: '2021-02-03'
+  url: 'https://www.dmsguild.com/product/345460/DCPoADCAF07-Im-In-Your-Arms'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Cast-Off Armor (Breastplate)
+      rarity: common
+    - name: Guardian Emblem
+      rarity: uncommon
+    - name: Spell Scroll of Detect Evil and Good
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-DCAF08
+  name: The Big Ticket
+  description: >-
+    Targos mourns as the city’s star goat-ball player turns up dead. The
+    Zhentarim need answers: was it incidental? Or is something even more
+    nefarious than them pulling the strings?
+  adventureSeed: Goat‑ball!
+  released: '2021-03-02'
+  url: 'https://www.dmsguild.com/product/348723/DCPoADCAF08-The-Big-Ticket'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Cloak of the Manta Ray
+      rarity: uncommon
+    - name: Wand of Pyrotechnics
+      rarity: common
+    - name: Potion of Watchful Rest
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-DCAF09
+  name: An Ascent to Recall
+  description: >-
+    A hiking trip to a romantic spot goes awry. The mountain’s yetis are just
+    one obstacle to worry about. Will love prevail once more?
+  adventureSeed: This Seems Familiar
+  released: '2021-03-24'
+  url: 'https://www.dmsguild.com/product/351374/DCPoADCAF09-An-Ascent-to-Recall'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Arcane Grimoire, +1
+      rarity: uncommon
+    - name: Illuminator’s Tattoo
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-DUCKS-OS-02
+  name: Are You Open-Minded?
+  description: >-
+    Crime has increased in the town of Easthaven, a group of kobolds who are
+    normally docile are now stealing from the defenseless civilians.
+  adventureSeed: Burrowing Borrowers
+  released: '2021-01-01'
+  url: 'https://www.dmsguild.com/product/341912/DCPoADUCKSOS02Are-you-openminded'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Dread Help
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+##  E  ##
+
+
+##  F  ##
+
+
+##  G  ##
+
+- code: DC-PoA-GaryXIII-01
+  name: Little Feet, Cold Nights
+  description: >-
+    Strange lights in the forest, claw marks on the doors of regular citizens,
+    and worst of all; their beloved pets are being attacked and killed. The town
+    of West Easthaven is under attack by unknown forces for nefarious reasons.
+    Can our adventurers put together the clues to make sense of these strange
+    events or will the citizens continue to be terrorized by these odd
+    disturbances?
+  adventureSeed: My, What Big Feet You Have
+  released: '2021-03-25'
+  url: 'https://www.dmsguild.com/product/350824/DCPoAGaryXIII01-Little-Feet-Cold-Nights'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: All-Purpose Tool, +1
+      rarity: uncommon
+    - name: Boots of False Tracks
+      rarity: common
+    - name: Scroll of Protection from Evil and Good
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-GaryXIII-02
+  name: A New Place to Call Home
+  description: >-
+    Undead pour from an abandon keep in The Frozen North, threatening the
+    already tenuous balance of life in the Ten-Towns, as an unlikely benefactor
+    seeks heroes in hopes of turning this keep into a future stronghold. Secrets
+    and dangers await the heroes as they venture out into the unforgiving cold.
+  adventureSeed: Ageless Hunger
+  released: '2021-03-25'
+  url: 'https://www.dmsguild.com/product/351363/DCPoAGaryXIII02-A-New-Place-to-Call-Home'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Mirror of the Past
+      rarity: rare
+    - name: Mithral Armor (scale, barding only)
+      rarity: uncommon
+    - name: Bone-Tipped Arrow, +1
+      rarity: uncommon
+      consumable: true
+      count: 6
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-GaryXIII-03
+  name: Personal Fouls and Penalties
+  description: >-
+    Morale in the small village of Goodenow has fallen to an all-time low with
+    the suspicious death of the star goat-ball player on the eve of a big match.
+    When a shadowy enemy begins to target a local team of bonesetters, the
+    mystery deepens. Is it game over in Goodenow?
+  adventureSeed: Goat-ball!
+  released: '2021-03-25'
+  url: 'https://www.dmsguild.com/product/351364/DCPoAGaryXIII03-Personal-Fouls-and-Penalties'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Cloak of the Manta Ray
+      rarity: uncommon
+    - name: Wand of Pyrotechnics
+      rarity: common
+    - name: Potion of Watchful Rest
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-GaryXIII-04
+  name: 'As Above, So Below'
+  description: >-
+    A lottery held under suspicous circumstances. A Paladin trying to do the
+    right thing. Can the adventurers find the truth in time?
+  adventureSeed: Holy Auril, Mother of Cod
+  released: '2021-03-26'
+  url: 'https://www.dmsguild.com/product/351365/DCPoAGaryXIII04-As-Above-So-Below'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Cast-Off Armor (Breastplate)
+      rarity: common
+    - name: Guardian Emblem
+      rarity: uncommon
+    - name: Spell Scroll of Detect Evil and Good
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-GaryXIII-05
+  name: Shard of Hope
+  description: >-
+    When arcane experimentation creates artifacts that ensnare the mind and
+    beguile the senses, only the bravest adventurers can resist the toxic
+    temptation of desecration and darkness, to travel to where this evil lies
+    and defeat it. Lies are brought to bear and secrets are revealed.
+  adventureSeed: This Seems Familiar
+  released: '2021-03-26'
+  url: 'https://www.dmsguild.com/product/351366/DCPoAGaryXIII05-Shard-of-Hope'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Arcane Grimoire, +1
+      rarity: uncommon
+    - name: Illuminator’s Tattoo
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-GSP01-01
+  name: A Wolf’s Whisper
+  description: >-
+    Talking beasts have been wandering around Easthaven, whispering about a
+    crimson star. The villagers, taking advantage of this situation, are killing
+    these animals for food. One injured wolf managed to evade the hunters, but
+    they are not willing to let their game escape.
+  adventureSeed: Awake and Afraid
+  released: '2020-12-06'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/338570/A-Wolfs-Whisper-DCPoAGSP0101'
+  tier: 1
+  length: 4
+  apl: 1
+  items:
+    - name: Boots of the Winterlands
+      rarity: uncommon
+    - name: Pole of Angling
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: DC-PoA-GSP01-02
+  name: Crypt of the Mind Flayers
+  description: >-
+    The crimson star has been found! A miner from Termalaine brought back a
+    glowing red crystal that he discovered after a section of a nearby mine
+    collapsed. A few days later, some townsfolk have gone mad and sightings
+    of weird monsters have been reported. What is going on?!
+  adventureSeed: In Too Deep
+  released: '2021-02-22'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/347893/Crypt-of-the-Mind-Flayers-DCPoAGSP0102'
+  tier: 1
+  length: 4
+  apl: 2
+  items:
+    - name: Lantern of Tracking (Aberrations)
+      rarity: common
+    - name: Psi Crystal
+      rarity: uncommon
+    - name: Potion of Climbing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-GSP02-01H
+  name: The Arrival of Mr. Sorrow
+  description: >-
+    The town of Good Mead is about to select its new town speaker after the
+    last one was killed by a giant. However, an eladrin has joined the election
+    at the last minute, promising that he and his men know how to stop the
+    Everlasting Rime.
+  adventureSeed: A Dark Horse
+  released: '2021-01-30'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/345129/The-Arrival-of-Mr-Sorrow-DCPoAGSP0201H'
+  tier: 1
+  length: 2
+  apl: 1
+  items:
+    - name: Cloak of Many Fashions
+      rarity: common
+    - name: Spell Scroll of Alter Self
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-GSP02-02H
+  name: The Priest of Caer-Dineval
+  description: >-
+    A gnome priest of Lathander wearing tattered vestment and broken manacles has
+    been found in Caer-Dineval. The priest, who is a member of the Order of the
+    Gauntlet, seems unaffected by the cold. What’s more fascinating is that it
+    looks like it has seen something it shouldn’t. Now, what would that be?
+  adventureSeed: The Muttering Gnome
+  released: '2021-01-30'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/345131/The-Priest-of-CaerDineval-DCPoAGSP0202H'
+  tier: 1
+  length: 2
+  apl: 2
+  items:
+    - name: Smoldering Armor (Studded Leather)
+      rarity: common
+    - name: Spell Scroll of Bless
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-GSP02-03H
+  name: That Ain’t Mead
+  description: >-
+    A caravan transporting mead to Easthaven has gone missing. The Zhentarim
+    merchants who have placed the order were very demanding in retrieving their
+    mead and willing to pay more just to get it all back. Sounds pretty suspicious.
+  adventureSeed: Do You Know the Way to Lonelywood?
+  released: '2021-01-30'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/345133/That-Aint-Mead-DCPoAGSP0203H'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Moon-Touched Shortsword
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-GSP02-04H
+  name: The Horror Sphere
+  description: >-
+    A black pearl the size of a human head has been discovered by adventurers
+    and has been brought to Lonelywood. However, whoever has the pearl
+    immediately dies as soon as they see a goat. Somebody needs to put it back
+    where it was found! But what does the Lords' Alliance have to do with all
+    of this?
+  adventureSeed: I’d Like to Make a Return, Please
+  released: '2021-01-30'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/345134/The-Horror-Sphere-DCPoAGSP0204H'
+  tier: 1
+  length: 2
+  apl: 4
+  items:
+    - name: Masquerade Tattoo
+      rarity: common
+    - name: Walloping Ammunition (Arrow)
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-GSP03-01
+  name: The Missing Link
+  description: >-
+    Someone’s mysterious disappearance started a chain of kidnappings, the most
+    recent of which is tied to someone dear to an old man. He is desperate to
+    find out where they were taken. Can the adventurers unravel the mystery
+    behind these missing individuals?
+  adventureSeed: Once Bitten, Ice Shy
+  released: '2020-12-01'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/337908/The-Missing-Link-DCPoAGSP0301'
+  tier: 1
+  length: 4
+  apl: 2
+  items:
+    - name: Boots of False Tracks
+      rarity: common
+    - name: Dust of Disappearance
+      rarity: uncommon
+    - name: Potion of Climbing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: DC-PoA-GSP03-02
+  name: Lost in the Woods
+  description: >-
+    The Frozen Eye has struck again, Their influence has grown from their cult
+    at Easthaven, starting with a caravan from the town of Good Mead. What
+    diabolical plan is up their sleeves? Will the adventurers be able to stop
+    them?
+  adventureSeed: Do You Know the Way to Lonelywood?
+  released: '2021-02-16'
+  creator: Greasy Snitches
+  url: 'https://www.dmsguild.com/product/347211/Lost-in-the-Woods-DCPoAGSP0302'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Figurine of Wondrous Power (Silver Raven)
+      rarity: uncommon
+    - name: Moon-Touched Shortsword
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+##  H  ##
+
+- code: DC-PoA-HARM-01-01
+  name: First Time for Everything
+  description: >-
+    Amidst Auril’s eternal darkness and growing unrest in the Ten Towns,
+    adventurers delve into the frozen earth in pursuit of small-time thieves.
+    But what started as a simple retrieval mission quickly escalates, as
+    unexpected magic thwarts their pursuit. As shadows of the past coalesce
+    and present threats leap into the looming future, adventurers fight
+    against the ravages of time itself to catch yesterday’s culprits and
+    thwart tomorrow’s villains.
+  released: '2021-01-02'
+  url: 'https://www.dmsguild.com/product/338669/DCPoAHARM0101-First-Time-for-Everything'
+  tier: 1
+  length: 4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: DC-PoA-HARM-01-02
+  name: Time Flies When You’re Delving Dungeons
+  description: >-
+    Tactics are tested as timelines shift and continuums converge in a dungeon
+    where death is temporary and time itself is the enemy. Only the adventurers
+    can capture the hands of time and steer the future away from certain doom.
+  released: '2021-02-21'
+  url: 'https://www.dmsguild.com/product/338670/DCPoAHARM0102-Time-Flies-When-Youre-Delving-Dungeons'
+  tier: 1
+  length: 4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+##  I  ##
+
+- code: DC-PoA-INGH-01
+  name: A Hot Time in the Cold Town Tonight
+  description: >-
+    The town of Termalaine is experiencing a strangely warm day, with the
+    temperature almost up to freezing, and its rivals want to know why. What
+    secrets are behind this spell of mild weather?
+  adventureSeed: The Warmest Day
+  released: '2021-01-10'
+  url: 'https://www.dmsguild.com/product/342909/DCPOAINGH01-A-Hot-Time-in-the-Cold-Town-Tonight'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Eversmoking Bottle
+      rarity: uncommon
+    - name: Smoldering Armor - Breastplate
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+##  J  ##
+
+
+##  K  ##
+
+- code: DC-PoA-KCB-01
+  name: The Lady of the Maer
+  description: >-
+    A luxury steamship lake cruiser disappeared when Auril’s Rime began. Its
+    fate remains a total mystery. Now an artifact from the ship has been found
+    on an iceberg in the middle of Maer Dualdon. The party is tasked with
+    researching this new finding in hopes of discovering the fate of the ship.
+  released: '2021-01-29'
+  url: 'https://www.dmsguild.com/product/344979/DCPoAKCB01-The-Lady-of-the-Maer'
+  tier: 1
+  length: 4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: DC-PoA-KCB-02
+  name: Big
+  description: >-
+    A shrunken goliath who needs an escort. Religious zealots on the run. A wizard
+    in need of potion ingredients. A frost giant with a love of art and order. And
+    an entrepreneurial druid. What happens to the party standing where all their
+    interest intersect? A BIG adventure.
+  adventureSeed: Awake and Afraid
+  released: '2021-02-22'
+  url: 'https://www.dmsguild.com/product/347771/DCPoAKCB02--Big'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Boots of the Winterlands
+      rarity: uncommon
+    - name: Pole of Angling
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-KCB-MBL
+  name: The Stolen Curse
+  description: >-
+    A fledgling adventurer’s first bit of loot has placed Caer-Konig in a
+    perilous situation. But she’s unwilling to part with it easily. And what
+    can be done with it once it’s in your hands?
+  released: '2020-12-06'
+  url: 'https://www.dmsguild.com/product/338645/DCPoAKCBMBL--The-Stolen-Curse'
+  tier: 1
+  length: 4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+##  L  ##
+
+- code: DC-PoA-LEGIT-CIPH-01
+  name: A Bump in the Night
+  description: >-
+    The townsfolk of Easthaven are plagued by strange sounds coming from
+    their basements in the middle of the night, only to wake up to find
+    their items missing in the morning. What dark forces lie at the heart
+    of this disturbance?
+  adventureSeed: Burrowing Borrowers
+  released: '2021-02-08'
+  url: 'https://www.dmsguild.com/product/346271/DCPoALEGITCIPH01-A-Bump-in-the-Night'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Bracers of Archery
+      rarity: uncommon
+    - name: Dread Help
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-LEGIT-SV-01
+  name: The Coldlight Star
+  description: >-
+    A day of unusual warmth slices through the everlasting rime, giving the town
+    of Termalaine a ray of hope. But only a fool would think breaking Auril’s
+    hold would be easy. Can you weather what mortal hubris has wrought? Or will
+    Termalaine be undone by…The Coldlight Star.
+  adventureSeed: The Warmest Day
+  released: '2020-11-29'
+  creator: The Legitimate Business
+  url: 'https://www.dmsguild.com/product/337701/DCPOALEGITSV01-The-Coldlight-Star'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: 'Mix #5 (Eversmoking Bottle)'
+      rarity: uncommon
+    - name: Wintergreen Guard (Smoldering Armor - Breastplate)
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: DC-PoA-LEGIT-SV-02
+  name: The Shape of Silence
+  description: >-
+    The fortress prison of Revel's End is a panopticon where guards watch the
+    every movement of every prisoner. So how did one of their prisoners end up
+    all the way in Targos? …and what *else* has slipped from their gaze?
+  adventureSeed: The Muttering Gnome
+  released: '2021-01-30'
+  url: 'https://www.dmsguild.com/product/345146/DCPOALEGITSV02-The-Shape-of-Silence'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Ring of Jumping
+      rarity: uncommon
+    - name: Smoldering Armor (Studded Leather)
+      rarity: common
+    - name: Spell Scroll of Bless
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-LEXI-01
+  name: Don’t Wake Yeti
+  description: >-
+    You've seen better days for sure. First an avalanche. Then a whole lot
+    of nothing. Then waking up hanging from the ceiling inside a cold, dark
+    cavern. This is what happens when you find a stranger in the alps. Well,
+    keep your wits about you, and you just might get out alive.
+  adventureSeed: This Seems Familiar
+  released: '2021-02-23'
+  url: 'https://www.dmsguild.com/product/348001/Dont-Wake-Yeti-DCPoALEXI01'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Illuminator’s Tattoo
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+##  M  ##
+
+- code: DC-PoA-MCIW-01
+  name: Icewind Whale
+  description: >-
+    A sudden break in the sea ice has freed the remains of a sperm whale that
+    perished while trapped in the ice. For those that earn their living on the
+    Sea of Moving Ice this is a welcomed sight and they'll need all the help
+    they can get to harvest it before the polar bears find it. 
+  adventureSeed: Breaking Ice-olation
+  released: '2020-12-09'
+  url: 'https://www.dmsguild.com/product/339064/DCPoAMCIW01-Icewind-Whale'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Candle of the Deep
+      rarity: common
+    - name: Spell Scroll of Frost Fingers
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+##  N  ##
+
+- code: DC-PoA-NB-01
+  name: Iruladoon Awakens
+  description: >-
+    Mysterious sounds are coming from the forest of Iruladoon off the shores
+    of Lac Dinneshere.  Can your group of adventurers travel through the
+    darkness and make it to this forest to solve the mystery of the noise
+    for the people of Easthaven.
+  released: '2020-12-26'
+  url: 'https://www.dmsguild.com/product/341245/DCPoANB01-Iruladoon-Awakens'
+  tier: 1
+  length: 4
+  apl: 1
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: DC-PoA-NBDD-01
+  name: Ice, Ice, Birdie
+  description: >-
+    In Bryn Shander, the city prepares for a day of celebration and festivities,
+    as a well-known couple finally ties the knot. Adventurers are needed to help
+    ensure all goes well, especially with the appearance of a famed troupe of
+    kenku bards.
+
+    Can you protect the troupe, save the wedding, and help the happy couple
+    survive the cruel, cold world that is Icewind Dale under Auril's eternal
+    winter?
+  adventureSeed: Winter Over
+  released: '2021-02-01'
+  url: 'https://www.dmsguild.com/product/345306/DCPoANBDD01-Ice-Ice-Birdie'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Charlatan’s Die
+      rarity: common
+    - name: Brooch of Shielding
+      rarity: uncommon
+    - name: Spell Scroll of Ceremony
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-NN01-01
+  name: Where Are Yew
+  description: >-
+    Dougan's Hole is known to be the smallest and most insular member of the
+    Ten Towns, a perfect target for petty thieves. However, recently crimes
+    have been getting worse. Citizens have gone missing overnight. The
+    townsfolk of Dougan's Hole are on high alert, travelers being their main
+    suspect for the recent tragedies.
+  adventureSeed: Once Bitten, Ice Shy
+  released: '2021-02-13'
+  url: 'https://www.dmsguild.com/product/346821/DCPoANN0101-Where-Are-Yew'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Boots of False Tracks
+      rarity: common
+    - name: Dust of Disappearance
+      rarity: uncommon
+    - name: Potion of Climbing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+##  O  ##
+
+
+##  P  ##
+
+- code: DC-PoA-PM01
+  name: Adventures in Babysitting Squids
+  description: >-
+    While traveling in the cold lands of Icewind Dale, the adventurers see a
+    strange flying ship being chased by dragons that damage part of the ship.
+    When the party goes to investigate the parts of the ship that droped they
+    are presented with an unexpected new friend A Squidling.
+  adventureSeed: The Littlest Squidling
+  released: '2021-02-07'
+  url: 'https://www.dmsguild.com/product/346128/DCPoAPM01-Adventures-in-babysitting-squids'
+  tier: 2
+  length: 2
+  apl: 5
+  items:
+    - name: Chest of Preserving
+      rarity: common
+    - name: Spell Scroll of Mind Spike
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-PM03
+  name: Mindless Digging
+  description: >-
+    Shortly after the party steps foot into Termalaine they meet a Kobold who
+    is frantically trying to find some help. They spot the party and ask the
+    party to help his workers who uncovered something in a mine that is
+    affecting the mind of the other kobolds.
+  released: '2021-02-28'
+  url: 'https://www.dmsguild.com/product/348523/DCPoAPM03-Mindless-Digging'
+  tier: 1
+  length: 2
+  apl: 1
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: DC-PoA-PM04
+  name: Losing Your Mind
+  description: >-
+    A mind is a terrible thing to waste. But when you lose your mind it can
+    be even worse. The party investigates a gnome who entered into the party's
+    camp repeating the same thing over and over again. What can do this to a
+    person? 
+  adventureSeed: The Muttering Gnome
+  released: '2021-03-11'
+  url: 'https://www.dmsguild.com/product/349832/DCPoAPM04-Losing-your-Mind'
+  tier: 1
+  length: 2
+  apl: 2
+  items:
+    - name: Smoldering Armor (Studded Leather)
+      rarity: common
+    - name: Spell Scroll of Bless
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-PM05
+  name: Can You Tell Me How to Get to the East Haven Way
+  description: >-
+    While entering Good Mead, the party gets involved with a caravan merchant
+    and a local brewer involving a missing shipment of Mead to Easthaven. Will
+    the party be able to find out what happened to this shipment or will the
+    people of Easthaven become angry due to the missing shipment?!
+  adventureSeed: Do You Know the way to Lonelywood?
+  released: '2021-03-31'
+  url: 'https://www.dmsguild.com/product/352245/DCPoAPM05-Can-you-tell-me-how-to-get-to-the-east-haven-way'
+  tier: 1
+  length: 2
+  apl: 2
+  items:
+    - name: Moon-Touched Shortsword
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+##  Q  ##
+
+##  R  ##
+
+- code: DC-PoA-RB01
+  name: The Chronographers Curse
+  description: >-
+    In the town of Easthaven, a group of adventurers is tasked on a routine
+    mission to resupply an expedition to the Reghed Glacier. But everything
+    is not quite as it seems, and it's not long before the chronographer's
+    misfortunes become apparent.
+  adventureSeed: Breaking Ice-olation
+  released: '2021-02-19'
+  url: 'https://www.dmsguild.com/product/347585/DCPoARH01-The-Chronographers-Curse'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Candle of the Deep
+      rarity: common
+    - name: Circlet of Blasting
+      rarity: uncommon
+    - name: Spell Scroll of Frost Fingers
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-ROG-01
+  name: The Frozen Path to Easthaven
+  description: |-
+    **Brave The Frozen Path!**
+
+    The party is hired as bodyguards to guard a caravan from The Spine
+    of The World to Easthaven. Besides the frigid elements, what other
+    horrors await the adventurers?
+  adventureSeed: Caravanning!
+  released: '2021-01-18'
+  url: 'https://www.dmsguild.com/product/343753/DCPOAROG1-The-Frozen-Path-To-Easthaven'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Mithral Armor (Scale)
+      rarity: uncommon
+    - name: Spell Scroll of Magic Missile
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Walloping Ammunition (Sling Bullet)
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+##  S  ##
+
+- code: DC-PoA-SFG01
+  name: Tomb of the Banished Thane
+  description: >-
+    A recent avalanche in the Spine of the World has revealed a mountainside
+    entrance of worked stone. Halena Ironstone believes it could be the tomb
+    of her ancestor, Daglund the Banished, and she needs brave adventurers
+    to investigate.
+  adventureSeed: Breaking Ice-olation
+  released: '2021-01-01'
+  url: 'https://www.dmsguild.com/product/341937/DCPoASFG01-Tomb-of-the-Banished-Thane'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Candle of the Deep
+      rarity: common
+    - name: Circlet of Blasting
+      rarity: uncommon
+    - name: Spell Scroll of Frost Fingers
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+##  T  ##
+
+##  U  ##
+
+##  V  ##
+
+##  W  ##
+
+##  X  ##
+
+##  Y  ##
+
+##  Z  ##
+
+- code: DC-PoA-ZF-01
+  name: Undisclosed Ordeals
+  description: >-
+    With the Frostmaiden’s grasp over Icewind Dale crushing spirits and
+    snuffing out hope, the frozen north is a dismal place. No one has answers,
+    and no one can say for sure when Auril’s curse will be lifted, so it’s
+    only to be expected that political devilment seems to have thrived in
+    these times. When a wealthy merchant in Bryn Shander requests help on
+    behalf of a friend, who knows what long hidden secrets they’ll uncover
+    along the way.
+  adventureSeed: A Dark Horse
+  released: '2021-02-04'
+  url: 'https://www.dmsguild.com/product/345714/DCPoAZF01-Undisclosed-Ordeals'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Alchemy Jug
+      rarity: uncommon
+    - name: Cloak of Many Fashions
+      rarity: common
+    - name: Spell Scroll of Alter Self
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
+- code: DC-PoA-ZL-01
+  name: Ogre Krush
+  description: >-
+    Crush ogres, see them fall before you, and hear the lamentations of their leaders.
+  adventureSeed: Out of the Woods
+  released: '2020-11-18'
+  url: 'https://www.dmsguild.com/product/336427/OGRE-KRUSH-DCPOAZL01'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Efficient Quiver
+      rarity: uncommon
+    - name: Orb of Time
+      rarity: common
+    - name: Spell Scroll of Pass Without a Trace
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+

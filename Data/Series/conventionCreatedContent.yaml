@@ -42,6 +42,13 @@
       position: 1
 
 
+- slug: cascadian-legacy
+  name: Cascadian Legacy
+  adventures:
+    - code: CCC-3MAGS-01
+      position: 1
+
+
 - slug: the-chaos-in-melvaunt
   name: The Chaos in Melvaunt
   includesArticle: true
@@ -180,6 +187,24 @@
       position: 3
     - code: CCC-AETHER-02-01
       position: 4
+
+
+- slug: the-jade-curse
+  name: The Jade Curse
+  includeArticle: true
+  adventures:
+    - code: CCC-ALMOG-26 DAGON01-01
+      position: 1
+    - code: CCC-ALMOG-27 DAGON01-02
+      position: 2
+    - code: CCC-ALMOG-28 DAGON01-03
+      position: 3
+    - code: CCC-ALMOG-20 TALES01-04
+      position: 4
+    - code: CCC-ALMOG-24 DAGON02-04
+      position: 5
+    - code: CCC-ALMOG-24 DAGON02-02
+      position: 6
 
 
 - slug: misaligned
@@ -377,6 +402,13 @@
       position: 3
 
 
+- slug: tales-of-the-moonsea
+  name: Tales of the Moonsea
+  adventures:
+    - code: CCC-ALMOG-01 TALES01-01
+    - code: CCC-ALMOG-03 TALES03-01
+
+
 - slug: temples-of-the-earthmother
   name: Temples of the Earthmother
   type: trilogy
@@ -410,6 +442,17 @@
     - code: CCC-BMG MOON5-2
       position: 2
     - code: CCC-BMG MOON5-3
+      position: 3
+
+
+- slug: an-unlikely-ally
+  name: An Unlikely Ally
+  adventures:
+    - code: CCC-ALMOG ESC03-01
+      position: 1
+    - code: CCC-ALMOG ESC03-02
+      position: 2
+    - code: CCC-ALMOG ESC03-03
       position: 3
 
 

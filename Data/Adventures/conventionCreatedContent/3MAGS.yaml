@@ -1,0 +1,47 @@
+- code: CCC-3MAGS-01
+  name: Vormestrand’s Scroll
+  description: >-
+    The legendary brewer, Vormestrand, has disappeared in pursuit of creating
+    the finest beer Faerûn has ever tasted. While some believe that his rival,
+    Zythos, may have had a role in his disappearance, the only clue is the
+    recipe itself—something that Zythos really wants to get his hands on. It’s
+    up to you to safeguard the recipe and finish the brewer’s work!
+  released: '2018-12-02'
+  url: 'https://www.dmsguild.com/product/260364/CCC3MAGSONE-Vormestrands-Scroll'
+  tier: 1
+  length: 7
+  apl: 1
+  items:
+    - name: Pipe of Smoke Monsters
+      rarity: common
+    - name: Staff of Adornment
+      rarity: common
+    - name: Tankard of Sobriety
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 5
+  storyAwards:
+    - name: Dismal Hooch!
+      description: >-
+        The beer is little more than bitter water that barkeeps across the
+        Moonsea ply their most drunken customers with in order to save the good
+        stuff and make a little extra coin. While the tale of the brewing was no
+        doubt exciting, linking your name to it won’t get you much respect from
+        even the amateur beer enthusiasts.
+    - name: Great Hooch!
+      description: >-
+        The beer is a rousing success, and many say that it has no equal in all
+        of the Moonsea. You can expect to be treated quite well by connoisseurs
+        and enthusiasts everywhere—if you can convince them you actually played
+        a part in the brewing.
+    - name: Mediocre Hooch!
+      description: >-
+        The beer is palatable and still better than your average swill. While it
+        carries some distinctive flavors to set it apart from the rest, most
+        people find the tale of its brewing to be more enjoyable than the beer
+        itself.
+  missing:
+    - credits
+

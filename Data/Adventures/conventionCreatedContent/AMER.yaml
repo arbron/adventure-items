@@ -1,0 +1,31 @@
+- code: CCC-AMER-01
+  name: Asleep and Awake
+  description: >-
+    Refugees in Mulmaster have had a fairly tough time, and that was before the
+    disappearances. The few that return have been changed, refusing to believe
+    that they were even missing. You have been asked by Mulmaster’s nobility to
+    find the source of the disappearances and put an end to them.
+  released: '2018-07-11'
+  url: 'https://www.dmsguild.com/product/247005/CCCAMER01-Asleep-and-Awake'
+  tier: 1
+  length: 4
+  apl: 4
+  items:
+    - name: Eyes of Charming
+      rarity: uncommon
+    - name: Potion of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Sanctuary
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Enslaved by Neogi
+      description: >-
+        You have formerly been enslaved by Neogi and have developed a phobia of
+        not being in control of your actions.
+  missing:
+    - credits
+

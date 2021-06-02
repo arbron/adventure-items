@@ -1,0 +1,87 @@
+- code: CCC-ANIME-01-01
+  name: Legend of the Sword Bandit Surprise
+  description: >-
+    A priest of Ilmater seeks to right an old wrong to please his god. Will you
+    trust the whims of hags and journey through time to find out what when wrong
+    during the Festival of Stars?
+  released: '2018-03-13'
+  creator: Mount Ogden Gaming Company
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Shortbow, +1
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Burning Hands
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-ANIME-01-02
+  name: Let’s Find the Sword, GO!
+  description: >-
+    After learning that Daern’s Blade, a relic that had protected the town of
+    Hawksroost, vanished centuries ago, Sorrim requires assistance in locating
+    it. An old halfling adventurer has learned rumors of the blade hidden within
+    the Vanishing Hills. These same rumors also say that it may be guarded by
+    something ancient. With the Festival of the Stars only a few days out, can
+    the blade be found and returned in time?
+  released: '2018-03-13'
+  creator: Mount Ogden Gaming Company
+  tier: 2
+  length: 2
+  apl: 7
+  items:
+    - name: Yata Mirror (Shield, +2)
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 3
+    - name: Spell Scroll of Protection from Evil and Good
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: To Suffer as Ilmater
+      description: >-
+        Your character has shown willingness to sacrifice just as Ilmater
+        himself. As a reward, the grace of Sorrim’s deity has been bestowed upon
+        you. While in the town of Hawksroost you have advantage on all checks
+        that require Charisma.
+  missing:
+    - credits
+
+
+- code: CCC-ANIME-01-03
+  name: Star Sword, Return!
+  description: >-
+    With less than two days until the Festival of Stars in Hawksroost, Daern’s
+    Blade is still missing, but the adventurers are en route to its resting
+    place. Are they truly prepared for what they find?
+  released: '2018-03-13'
+  creator: Mount Ogden Gaming Company
+  tier: 2
+  length: 2
+  apl: 7
+  items:
+    - name: Orb of the Stein Rune
+      rarity: rare
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Resistance (Poison)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+

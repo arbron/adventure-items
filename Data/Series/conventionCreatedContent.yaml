@@ -355,6 +355,14 @@
       position: 2
 
 
+- slug: the-shattered-planes
+  name: The Shattered Planes
+  includesArticle: true
+  adventures:
+    - code: CCC-APL-01-01
+      position: 1
+
+
 - slug: siege-of-the-yellow-rose
   name: Siege of the Yellow Rose
   adventures:

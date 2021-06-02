@@ -8,6 +8,8 @@
   released: '2018-11-13'
   url: 'https://www.dmsguild.com/product/258606/CCCAETHER0101-The-Heir-of-Orcus-Verse-I'
   tier: 1
+  length: 2-4
+  apl: 3
   items:
     - name: Helm of Comprehend Languages
       rarity: uncommon
@@ -43,6 +45,8 @@
   released: '2018-11-13'
   url: 'https://www.dmsguild.com/product/258619/CCCAETHER0102-The-Heir-of-Orcus-Verse-II'
   tier: 1
+  length: 4
+  apl: 3
   items:
     - name: Dread Helm
       rarity: common
@@ -54,7 +58,9 @@
         Characters who sided with Chaos receive this story award when the
         complete this adventure.
 
-        Something beckons you…you never feel alone even when you physically are…something or someone is watching, forever waiting. You have become a chosen one!
+        Something beckons you…you never feel alone even when you physically
+        are…something or someone is watching, forever waiting. You have
+        become a chosen one!
     - name: Rising Through the Ranks
       description: >-
         Characters gain this story award if they sided with the Knights of Holy
@@ -74,8 +80,8 @@
   released: '2020-02-18'
   url: 'https://www.dmsguild.com/product/301681/The-Heir-of-Orcus-Verse-IV-CCCAETHER0201'
   tier: 2
-  length: 
-  apl: 
+  length: 2-4
+  apl: 8
   items:
     - name: Candle of the Deep
       rarity: common

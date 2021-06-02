@@ -1,0 +1,18 @@
+- code: CCC-AWE-01-02
+  name: The Chi Directive
+  description: >-
+    Stories of Muckflash Marsh have been told for decades—deep whispered voices
+    and floating lights. Recently the lights have brightened, and the voices
+    turned higher pitched. A young woman has brought tales of evil doings at the
+    march and a plea for aid.
+  released: '2020-07-20'
+  url: 'https://www.dmsguild.com/product/320477/CCCAWE0102-The-Chi-Directive'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Lantern of Revealing
+      rarity: uncommon
+  missing:
+    - credits
+

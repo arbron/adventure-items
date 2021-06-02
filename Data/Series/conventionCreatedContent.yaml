@@ -42,6 +42,15 @@
       position: 1
 
 
+- slug: blood-moon-chronicles
+  name: Blood Moon Chronicles
+  adventures:
+    - code: CCC-ZIEGE-01
+      position: 1
+    - code: CCC-ZIEGE-02
+      position: 2
+
+
 - slug: cascadian-legacy
   name: Cascadian Legacy
   adventures:
@@ -469,6 +478,18 @@
   adventures:
     - code: CCC-TCW-WSF-01
       position: 1
+
+
+- slug: ylracon-trilogy
+  name: Ylracon
+  type: trilogy
+  adventures:
+    - code: CCC-YLRA-SDCC-01-01
+      position: 1
+    - code: CCC-YLRA-SDCC-01-02
+      position: 2
+    - code: CCC-YLRA-SDCC-01-03
+      position: 3
 
 
 - slug: yulash

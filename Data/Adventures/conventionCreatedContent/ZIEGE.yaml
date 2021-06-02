@@ -1,0 +1,124 @@
+- code: CCC-ZIEGE-01
+  name: Shadows of Blood Moon
+  description: >-
+    A dark shadow creeps over the small village of Redcraft, leaving deep red
+    trails of blood in its wake. Missing villagers and livestock plague the town
+    and it is up to the adventurers to discover the root of the problem…was that
+    a wolves howl that just broke the silence of the night?
+  released: '2018-10-31'
+  url: 'https://www.dmsguild.com/product/257622/CCCZiege01-Shadows-of-Blood-Moon'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Figurine of Wondrous Power (Ivory Goat)
+      rarity: rare
+    - name: Silvered Longsword
+      rarity: common
+  storyAwards:
+    - name: Malar’s Bane
+      description: >-
+        Werefolk everywhere hear of your exploits against Malar and come to
+        despise you for it. You have disadvantage on all Charisma checks against
+        lycanthropes, whether or not you know they are cursed.
+  missing:
+    - credits
+
+
+- code: CCC-ZIEGE-02
+  name: Storm of the Blood Moon
+  description: >-
+    Lycanthropes have infested the Cormanther Woods surrounding the village of
+    Redcraft, barely kept at bay by our brave adventurers. A kidnapping has
+    spurred the village into action, but deep in the woods what one expects to
+    find isn’t always what one finds…
+  released: '2018-10-31'
+  url: 'https://www.dmsguild.com/product/257623/CCCZiege02-Storm-of-the-Blood-Moon'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Ring of the Ram
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Silvered Ammunition
+      rarity: common
+      consumable: true
+      count: 10
+  storyAwards:
+    - name: Redcraftian Heroes
+      description: >-
+        The city of Redcraft will be ever thankful for your services. You may
+        spend 10 downtime days to travel here and have Oris Oakburst silver any
+        of your weapons free of charge.
+  missing:
+    - credits
+
+
+- code: CCC-ZIEGE-03
+  name: Dead Men Feel No Cold
+  description: >-
+    Waterdeep’s master griffon rider has been murdered and no one knows why. Who
+    would dare such a crime in a city where even the smallest transgressions
+    face harsh penalties? The party is brought in to answer this question, which
+    sends them on a trail that will take them through the most dangerous areas
+    of the City of Splendors. Can they discover the truth before the villains
+    escape, or will they instead accuse an innocent of the crime?
+  released: '2018-10-31'
+  url: 'https://www.dmsguild.com/product/257607/CCCZiege03-Dead-Men-Feel-No-Cold'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Ring of Spell Storing
+      rarity: rare
+  missing:
+    - credits
+
+
+- code: CCC-ZIEGE-04-01
+  name: The Miser’s Glory
+  description: >-
+    Three decades ago, a terrible disease swept through the town of Shadeharbor.
+    Nearly half the population of the village died before it ended. The cause of
+    the disease was never discovered. Now, the town leaders from that time are
+    turning up dead. Can you unearth the secrets that have lain buried in
+    Shadehabor all this time?
+  tier: 1
+  length: 2-4
+  apl: 4
+  items:
+    - name: Lantern of Revealing
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-ZIEGE-04-02
+  name: The Widow’s Fang
+  description: >-
+    More than three decades ago, a young child became ill with a horrible
+    disease and died. Instead of departing, her spirit lingered on as a ghost,
+    haunting the hospital where she spent the last days of her life. Now, a new
+    owner hopes to reopen the hospital, but first the ghost must be exorcised.
+    Can you help the child find peace at last?
+  tier: 1
+  length: 2-4
+  apl: 4
+  items:
+    - name: The Adventures of Cherise and Antonia (Bag of Tricks, Tan)
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Revivify
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+

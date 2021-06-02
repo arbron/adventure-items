@@ -57,7 +57,7 @@ extension Adventure {
     }
 
     var slug: String {
-        code.lowercased().replacingOccurrences(of: " ", with: "-")
+        code.lowercased().replacingOccurrences(of: " ", with: "-").replacingOccurrences(of: #"""#, with: "")
     }
 
     var path: String {

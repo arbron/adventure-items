@@ -1,3 +1,10 @@
+- slug: a-cold-war
+  name: A Cold War
+  adventures:
+    - code: DC-PoA-TCW-ACW-01
+      position: 1
+
+
 - slug: crimson-star
   name: Crimson Star
   adventures:
@@ -57,6 +64,34 @@
       position: 1
 
 
+- slug: the-savage-north
+  name: The Savage North
+  includesArticle: true
+  adventures:
+    - code: DC-PoA-SN-01
+      position: 1
+    - code: DC-PoA-SN-02
+      position: 2
+
+
+- slug: sunlit-hands
+  name: Sunlit Hands
+  adventures:
+    - code: DC-PoA-SUNLIT-01
+      position: 1
+    - code: DC-PoA-SUNLIT-02
+      position: 2
+    - code: DC-PoA-SUNLIT-03
+      position: 3
+
+
+- slug: supernatural
+  name: Supernatural
+  adventures:
+    - code: DC-PoA-TDG01-01
+      position: 1
+
+
 - slug: targos-ascending
   name: Targos Ascending
   adventures: 
@@ -97,5 +132,14 @@
     - code: DC-POA-CODEX-01
       position: 1
     - code: DC-POA-CODEX-02
+      position: 2
+
+
+- slug: waiting-ice
+  name: Wailing Ice
+  adventures:
+    - code: DC-PoA-WI-TTT-01
+      position: 1
+    - code: DC-PoA-WI-DD-02
       position: 2
 

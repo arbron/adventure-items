@@ -1,0 +1,107 @@
+- code: CCC-BLD-01-01
+  name: Pandemonium
+  description: >-
+    Hired as security escorts for a group of noble children on a pilgrimage to
+    the underground town of Emudomier, the party meet a strange tiefling being
+    hunted by the father of her unborn child and Peacesmith master negotiators
+    who’s vows of peace do not prevent them from experiencing tragedy. Can
+    adventurers discover the cause of Peacesmith and wildlife disappearances?
+    Can they put a stop to the chaos that plagues Emmudomier and threatens all
+    of Toril?
+  released: '2017-08-02'
+  url: 'https://www.dmsguild.com/product/218024/CCCBLD-11-Bleeding-Gate-Pandemonium'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Periapt of Wound Closure
+      rarity: uncommon
+  storyAwards:
+    - name: Chosen by the Peacestone
+      description: >-
+        The Peacestone glowed, acknowledging this player character’s exceptional
+        potential to broaden peace. Those chosen have extraordinary long
+        lifespans and are granted free lodging for life at Emudomier’s
+        Peacesmith Guild. They may reject or accept the calling to become a
+        **Peacesmith Negotiator** (below).
+    - name: Peacesmith Negotiator
+      description: >-
+        Peacesmith training takes years, but after a few tendays study,
+        meditation, and mentoring from the Paragon himself, you begin to
+        understand the art of broadening peace. You may choose to spend 15
+        downtime days and make a donation of 50 gold to the Peacesmith Guild to
+        gain a **+2 bonus to one Charisma (Persuasion) check** to attempt to
+        persuade a creature to stop fighting, or to otherwise help cause a
+        peaceful resolution in a conflict. This ability recharges after a long
+        rest.
+    - name: Siblings in Peace
+      description: >-
+        At this player character’s touch the Peacestone did not glow. Any future
+        attempts to touch the Peacestone yield the same results. The
+        Peacestone’s behavior is mysterious, but does not prevent a person from
+        broadening peace regardless of its illumination.
+  missing:
+    - credits
+
+
+- code: CCC-BLD-01-02
+  name: Amalgamation
+  description: >-
+    When the party is hired to assist a covert organization, investigating the
+    disappearances of Peacesmith, they are sent deep into the bowels of the
+    town. It’s dirty work and the party certainly smells the stench of
+    conspiracy (among other things). But after charging into a colossal mess in
+    the Border Forest, they come face-to-face with the culprit.
+  released: '2017-08-03'
+  url: 'https://www.dmsguild.com/product/218099/CCCBLD-12-Bleeding-Gate-Amalgamation'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Winged Boots
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-BLD-01-03
+  name: Lineage
+  description: >-
+    A towering aberration threatens Emudomier. The mastermind behind its
+    creation and the Peacesmith killings remain unknown. Can the adventurers end
+    the chaos or will Emudomier, the Moonsea, and all of Toril be overwhelmed?
+  released: '2018-01-18'
+  url: 'https://www.dmsguild.com/product/231700/CCCBLD-0103-Bleeding-Gate-Lineage'
+  tier: 2
+  length: 4
+  apl: 7
+  items:
+    - name: Stone of Controlling Earth Elementals
+      rarity: rare
+  storyAwards:
+    - name: Chosen by the Peacestone
+      description: >-
+        The Peacestone glowed, acknowledging this player character’s exceptional
+        potential to broaden peace. Those chosen have extraordinary long
+        lifespans and are granted free lodging for life at Emudomier’s
+        Peacesmith Guild. They may reject or accept the calling to become a
+        **Peacesmith Negotiator** (below).
+    - name: Peacesmith Negotiator
+      description: >-
+        Peacesmith training takes years, but after a few tendays study,
+        meditation, and mentoring from the Paragon himself, you begin to
+        understand the art of broadening peace. You may choose to spend 15
+        downtime days and make a donation of 50 gold to the Peacesmith Guild to
+        gain a **+2 bonus to one Charisma (Persuasion) check** to attempt to
+        persuade a creature to stop fighting, or to otherwise help cause a
+        peaceful resolution in a conflict. This ability recharges after a long
+        rest.
+    - name: Siblings in Peace
+      description: >-
+        At this player character’s touch the Peacestone did not glow. Any future
+        attempts to touch the Peacestone yield the same results. The
+        Peacestone’s behavior is mysterious, but does not prevent a person from
+        broadening peace regardless of its illumination.
+  missing:
+    - credits
+

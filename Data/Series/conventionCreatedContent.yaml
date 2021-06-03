@@ -42,6 +42,17 @@
       position: 1
 
 
+- slug: bleeding-gate
+  name: Bleeding Gate
+  adventures:
+    - code: CCC-BLD-01-01
+      position: 1
+    - code: CCC-BLD-01-02
+      position: 2
+    - code: CCC-BLD-01-03
+      position: 3
+
+
 - slug: blood-moon-chronicles
   name: Blood Moon Chronicles
   adventures:
@@ -196,6 +207,17 @@
       position: 3
     - code: CCC-AETHER-02-01
       position: 4
+
+
+- slug: hillsfars-kaiju-chronicles
+  name: Hillsfar’s Kaiju Chronicles
+  adventures:
+    - code: CCC-BWM-07-01
+      position: 1
+    - code: CCC-BWM-07-02
+      position: 2
+    - code: CCC-BWM-07-03
+      position: 3
 
 
 - slug: the-jade-curse
@@ -448,6 +470,15 @@
       position: 2
     - code: CCC-BMG-42 HULB4-3
       position: 3
+
+
+- slug: thralls-of-zuggtmoy
+  name: Thralls of Zuggtmoy
+  adventures:
+    - code: CCC-BWM-04-01
+      position: 1
+    - code: CCC-BWM-04-02
+      position: 2
 
 
 - slug: tides-of-blood

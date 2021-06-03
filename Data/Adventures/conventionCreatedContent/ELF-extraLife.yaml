@@ -1,0 +1,227 @@
+- code: CCC-ELF-01
+  name: Life’s A Party
+  description: >-
+    It’s a time of celebration in Hillsfar. Bert, a local potion merchant and
+    member of the Hillsfar Senate, is hosting a party. It has been one year
+    since the Great Law of Humanity has been abolished. Many non-humans like
+    Bert have helped forge a new future for Hillsfar, but what is the current
+    reality?
+  released: '2018-12-21'
+  url: 'https://www.dmsguild.com/product/262096/CCC--ELF--001-Lifes-a-Party'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Ring of Warmth
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Matchmaker
+      description: >-
+        Though nothing came out of the matchmaking efforts, Bert is none the
+        less entertained by the characters assistances. It is likely their deeds
+        today will pay dividend in the future.
+  missing:
+    - credits
+
+
+- code: CCC-ELF-02
+  name: An Adventuring Party Walks Into A Bar
+  description: |-
+    There have been strange accounts from several of the heavier drinkers in
+    Hillsfar; all are reports of monsters plaguing the woods near the city. Are
+    these simply the ravings of those who have overindulged…or is there a more
+    sinister plot to uncover? Your party is hired to go on a pub crawl and
+    uncover any mischievous mixologists or spiteful servers in order to get to
+    the bottom of these claims.
+  
+    There is no better drink than that of justice served!
+  
+    But adventurers should probably try them all, just to be sure…this is a pub
+    crawl after all.
+  released: '2019-01-05'
+  url: 'https://www.dmsguild.com/product/263415/CCCELF02-An-Adventuring-Party-Walks-Into-A-Bar'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Tankard of Sobriety
+      rarity: common
+  storyAwards:
+    - name: Friend to the Afflicted
+      description: >-
+        Your kindness and generosity towards the residents of the Hillsfar
+        ghetto has not gone unnoticed. Though throwing money at the problem may
+        not produce lasting changes for the slums, your desire to help is
+        appreciated.
+  missing:
+    - credits
+
+
+- code: CCC-ELF-03-01
+  name: Death’s Claw
+  description: >-
+    After a gruesome murder goes unsolved, characters are hired to investigate.
+    When the murders continue, characters must race against time to stop a
+    serial killer before it’s too late.
+  released: '2020-04-29'
+  url: 'https://www.dmsguild.com/product/299496/CCCELF0301-Deaths-Claw'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Net of Warning
+      rarity: uncommon
+  storyAwards:
+    - name: Sir Ardem’s Abhorrence
+      description: >-
+        Characters who participate in this adventure and accuse Sir Ardem of
+        misbehavior get on his bad side. Ardem’s memory is long, especially
+        against those who sleight him, and he is not likely to forget their
+        accusations.
+  missing:
+    - credits
+
+
+- code: CCC-ELF-03-02
+  name: Echoes of Rage
+  description: >-
+    As murders of non-humans continue in Hillsfar, the populace calls for
+    drastic action against the city’s most xenophobic Senator. Can you find a
+    way to stop the violence? 
+  released: '2020-04-29'
+  url: 'https://www.dmsguild.com/product/299501/CCCELF-0302-Echoes-of-Rage'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Vines of Avarice (Gloves of Thievery)
+      rarity: uncommon
+    - name: Ilmater’s Respite (Wand of Smiles)
+      rarity: common
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Hillsfar’s Cycle
+      description: |-
+        One way or another, you resolved the dilemma with Sir Ardem Rohan and
+        the boneclaw.
+  
+        - If Sir Ardem recanted his racist past and begged forgiveness, he may
+        just be trying to save his own life. Nonetheless, you feel assured that
+        others will follow his example.
+        - If Sir Ardem was killed, despite Bert and Ranlynn’s pleas, you feel a
+        bony, clawed fingertip brush against your cheek during your dreams every
+        time you take a long rest. (This is not intended to have a mechanical
+        effect, but characters earning this story award may face tangible
+        consequences in future adventures.)
+    - name: Why So Serious?
+      description: >-
+        You used (or attempted to use) Ilmater’s Respite on another member of
+        your adventuring party. On your return to Hillsfar, Bert and Kenna
+        welcome you to their merry band of pranksters. Watch out for the blood
+        pie!
+  missing:
+    - credits
+
+
+- code: CCC-ELF-04
+  name: Blood of the Covenent
+  description: >-
+    Deaths of non-humans in the City of Hillsfar has taken attention of the Red
+    Plumes away from several attacks by werewolves in the docks. Kriv sent out a
+    request for adventurers to assist on this matter.
+  released: '2020-04-29'
+  url: 'https://www.dmsguild.com/product/309290/CCCELF04-Blood-of-the-Covenent'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Enduring Spellbook
+      rarity: common
+    - name: Rod of Rulership
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 2
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 2
+  spellbooks:
+    - name: Enduring Spellbook
+      spells:
+        - name: fire bolt
+          level: 0
+        - name: light
+          level: 0
+        - name: mage hand
+          level: 0
+        - name: prestidigitation
+          level: 0
+        - name: shocking grasp
+          level: 0
+        - name: detect magic
+          level: 1
+        - name: identify
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: shield
+          level: 1
+        - name: detect thoughts
+          level: 2
+        - name: mirror image
+          level: 2
+        - name: misty step
+          level: 2
+        - name: counterpsell
+          level: 3
+        - name: fly
+          level: 3
+        - name: lightning bolt
+          level: 3
+        - name: banishment
+          level: 4
+        - name: stoneskin
+          level: 4
+        - name: cone of cold
+          level: 5
+        - name: scrying
+          level: 5
+        - name: wall of force
+          level: 5
+        - name: globe of invulnerability
+          level: 6
+        - name: teleport
+          level: 7
+        - name: mind blank
+          level: 8
+        - name: time stop
+          level: 9
+  storyAwards:
+    - name: Crazy Squirrel (Wizard)
+      description: |-
+        Wearing a purple robe and pointy hat, this adorable squirrel also wields
+        a wooden staff with a glowing symbol of House Garaf (A werewolf face
+        with the star of Selûne over it). If Speak with Animal is used to
+        communicate with it, it says it is a wizard to the House of Garaf and
+        its here to fight Sharr!
+  
+        This Crazy Squirrel functions as a pet, does not contribute to combat,
+        or provide any benefit beyond its adorableness!
+      type: pet
+  missing:
+    - credits

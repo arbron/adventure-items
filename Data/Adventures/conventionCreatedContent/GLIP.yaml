@@ -1,0 +1,226 @@
+- code: CCC-GLIP-01-01
+  name: Glip Dak
+  description: >-
+    The Kroth Magg hobgoblins run the trade city of Glip Dak in the Troll Hills
+    of Thar. From there they have taken control of the trade routes along the
+    northern Moonsea. A young noble has been captured for refusing to pay their
+    tariffs and his house looks to hire adventurers to rescue him.
+  released: '2018-08-11'
+  url: 'https://www.dmsguild.com/product/249542/CCCGLIP0101-Glip-Dak'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Arrk’s Greatsword (Greatsword, +1)
+      rarity: uncommon
+    - name: Manke’s Die (Charlatan’s Die)
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Glip Dak Lawbreaker
+      description: |-
+        You broke the laws of the black market. Because of this, you were
+        captured by the Kroth Magg hobgoblins and punished.
+
+        While most punishment involves serving backbreaking labor until
+        one faints from exhaustion, the Kroth Magg are known to be inventive
+        with their punishments, which includes events such as being stuffed
+        into a burlap sack filled with rats and thrown in a pond, or forced
+        to fight wyvern hatchlings barehanded to a jeering crowd.
+
+        Somehow you survived and were released by the Glip Dak hobgoblins.
+        The guards have more important things to deal with.
+
+        Unless playing another Glip Dak adventure immediately after this one,
+        **the next 5 downtime days you earn are automatically expended
+        surviving your punishment**.
+    - name: Vandover Obligation
+      description: |-
+        Guard Captain Hrogar invites you to a private ceremony within the
+        central hall of Glip Dak, a massive Netherese building of exotic stone.
+        There he and other officers thank you for your service and discretion,
+        awarding you Vadd Narkoz, “Strong Warrior,” in this private
+        proclamation. The hobgoblins of Glip Dak acknowledge you as a worthy and
+        trusted ally.
+
+        For future Glip Dak modules, the adventurer has advantage on Charisma
+        checks when interacting with Kroth Magg soldiers and guards.
+  missing:
+    - credits
+
+
+- code: CCC-GLIP-01-02
+  name: Beneath Glip Dak
+  description: >-
+    A series of unusual heists has both the thieves’ guild and city guard
+    scrambling to uncover the culprits before the burglaries destabilize the
+    thriving trade within the city, threatening the budding kingdom the Kroth
+    Magg have fought and died to forge.
+  released: '2018-08-11'
+  url: 'https://www.dmsguild.com/product/249541/CCCGLIP0102-Beneath-Glip-Dak'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Bag of Holding
+      rarity: uncommon
+    - name: Shield of Expression
+      rarity: common
+    - name: Oil (flask)
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Fireball
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Bronze
+      description: |-
+        Hrogar, a captain in The Bronze, is pleased with the work you did for
+        him. Your timely intervention has allowed him to put an end to the rash
+        or burglaries in Glip Dak and allowed Hrogar to save face at the same
+        time.
+
+        In future adventures in Glip Dak, characters with The Bronze story award
+        will make any Charisma checks with members of the Bronze in Glip Dak at
+        advantage.
+    - name: Grat Nying
+      description: |-
+        You have done Grat Nying a favor, and you can expect one in return.
+        Strenkl, one of the elders of Grat Nying has given you the location of a
+        safe house in Glip Dak that you can use sometime in the future.
+
+        In future Glip Dak adventures, characters with this story award can
+        receive free healing and care at a Grat Nying safehouse (as per the
+        acolyte background), though the character must provide any material
+        components needed for spells.
+  missing:
+    - credits
+
+
+- code: CCC-GLIP-01-03
+  name: Citadel of Vlaakith
+  description: >-
+    The adventurers are tasked with rescuing a group of heroes who vanished in
+    the pearlescent fortress that manifested on the border between the Kroth
+    Magg kingdom and the Varkonin empire in the Steppes of Thar.
+  released: '2018-11-03'
+  url: 'https://www.dmsguild.com/product/257864/CCCGLIP0103-Citadel-of-Vlaakith'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Dread Helm
+      rarity: common
+    - name: Mithral Half-Plate
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+  storyAwards:
+    - name: In Your Debt
+      description: |-
+        You have successfully rescued the bodies of four unfortunate
+        adventurers:
+
+        - Yowen Kar of Clan Vallahir is a hill dwarf warpriest who acts
+        suspicious of elves. He hides his care for others behind a hard
+        demeanor. His current companions complain of his surliness.
+        - Darius Dawnguard is a squire of the reborn Order of Dawnfire, a sect
+        of Lathandar. He has made an oath to search for dangerous artifacts and
+        dispose of them.
+        - Vellona the Orphan made a pact with a mysterious entity after she fled
+        into a forest after the destruction of her village. She seeks to unlock
+        the magic in her blood to sunder this bargain.
+        - Lalitha Dae’Danin is an elf noble and druid who dresses as a man to
+        hide from an arranged marriage with a tyrannical and powerful high elf
+        aristocrat.
+
+        They express their enduring gratitude to you, some with tears and hugs,
+        others (the grumpy dwarf) with a practical, gruff thank you of a job well
+        done.
+
+        Should you die during any Glip Dak adventure, these heroes will tirelessly
+        search for you and have *raise dead* cast upon your body. You pay only the
+        material component cost (as per the acolyte background). Once you are
+        rescued once, the debt is paid, but the friendship remains.
+    - name: Lost in Space
+      description: |-
+        You were inside when the Citadel of Vlaakith shifted into the Astral
+        Plane. The Astral Plane is a bizarre realm, timeless and devoid of
+        gravity and direction.
+
+        You wander randomly throughout this surreal place, experiencing life
+        beyond the Material Plane. Finally, you’re able to find a way back to
+        Faerûn—but you’re required to spend 50 downtime days in the process.
+  missing:
+    - credits
+
+
+- code: CCC-GLIP-02-01
+  name: Blue Scales
+  description: >-
+    A behir has been hired to destroy the herds of aurochs necessary to feed the
+    hobgoblin city of Glip Dak. Patrols and scouts continue to go missing,
+    forcing the hobgoblins to hire mercenaries to track this behir as they
+    recall their troops to the capital to maintain order as food riots break
+    out.
+  released: '2018-11-03'
+  url: 'https://www.dmsguild.com/product/257866/CCCGLIP0201-Blue-Scales'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Arrow-Catching Shield
+      rarity: rare
+    - name: Arrow, +1
+      rarity: uncommon
+      consumable: true
+      count: 10
+    - name: Potion of Climbing
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Potion of Diminution
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Giant Strength (Fire)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: He Knows Your Face
+      description: |-
+        Yauch remains alive and active, plotting and preparing as he always has,
+        but now he knows your face and has sworn vengeance against you.
+  
+        Because of Yauch’s thoroughness and foresight, adventurers have
+        disadvantage on the first saving throw against a spell Yauch casts the
+        next time they battle the duergar. This only occurs once.
+    - name: Honor of the Kroth Magg
+      description: |-
+        While most of the civilized world views hobgoblins as no better than
+        orcs or goblins, you have learned otherwise. While they can be cruel and
+        tyrannical, there is also a deep honor and profound discipline to them.
+        They seek to pay back all debts and they find lying to be beneath them.
+  
+        In future Glip Dak adventures, the heroes have advantage on Charisma
+        (Persuasion) checks with the Kroth Magg, and goods 25 gp and under can
+        be bought at half price in Glip Dak.
+  missing:
+    - credits
+

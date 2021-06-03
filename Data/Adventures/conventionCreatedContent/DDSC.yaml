@@ -1,0 +1,80 @@
+- code: CCC-DDSC-01
+  name: Murder at the Stop
+  description: >-
+    With the repeal of the Law of Humanity, things have changed in the Hillsfar
+    surrounds, and not necessarily for the better. The farming village of The
+    Stop is no exception. The Red Plume Soldiers have withdrawn their presence
+    and no one is left to maintain order. When things get out of hand, a noble
+    representative of the people and the law is required.
+  released: '2017-07-20'
+  url: 'https://www.dmsguild.com/product/216992/CCCDDSC01-Murder-at-The-Stop'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Pearl of Power
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Greater Restoration
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Raise Dead
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Carnie Crony
+      description: >-
+        If the characters can capture Priscilla the gorilla without harming her,
+        Dr, Jubal and the other carnies are grateful. Any charisma based ability
+        checks involving members of the Dr, Jubal’s Carnival are made with
+        advantage and the admission fee to the carnival is waived.
+    - name: Officer of the Militia
+      description: >-
+        You have spent a significant amount of time in the town of The Stop
+        aiding the locals. With tensions high in the town, the new militia may
+        not be accepted by everyone. If you spend five downtime days advocating,
+        recruiting and training for the new militia, you become a member of
+        their ranks and may always stay at the militia barracks free of charge.
+        Any character that holds the *Boon of Bitterwood*, (from **DDEX03-05**
+        *Bane of the Tradeways*), story award, need only spend **3 downtime
+        days**.
+      type: downtime
+  missing:
+    - credits
+
+
+- code: CCC-DDSC-02
+  name: A Fool and His Gold
+  description: >-
+    Dr. Jubal and his Carnival of Curiosities left The Stop almost a tenday ago.
+    When one of the circus wagons is found abandoned, folks fear the worst.
+    Brave heroes are needed to find out what has become of the good Doctor and
+    his troupe. Are you up for the challenge?
+  released: '2017-07-20'
+  url: 'https://www.dmsguild.com/product/217046/CCCDDSC02-A-Fool-and-His-Gold'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Ring of Jumping
+      rarity: uncommon
+  storyAwards:
+    - name: Family Reunion
+      description: >-
+        You helped reunite the halflings Pickles and Jam while also rescuing
+        them from the Ringmaster’s sadistic carnival. The twins are forever in
+        your debt and helps you in any way they can during future adventures.
+    - name: I Got My Eye On You
+      description: >-
+        The gazer, Iris has taken a liking to you and wishes to be your
+        familiar. She enjoys mocking your enemies in a nasally voice while
+        floating just out of their reach. A description of her can be found in
+        the *Volo’s Guide to Monsters*.
+  missing:
+    - credits
+

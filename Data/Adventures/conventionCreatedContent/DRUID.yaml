@@ -1,0 +1,79 @@
+- code: CCC-DRUID-01
+  name: The Scourge Unseen
+  description: >-
+    The forest haven of Elventree is in peril! Children have been abducted,
+    monsters have breached the town perimeter, and one of the village’s druids
+    has gone missing. The local spring seems to be a source of these problems,
+    and you must to descend into it to explore the caverns below. Are you a
+    match for the threats beneath Elventree’s feet?
+  released: '2018-09-12'
+  url: 'https://www.dmsguild.com/product/252111/CCCDRUID01-The-Scourge-Unseen'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Asharam’s Orb of Ensnaring (Iron Bands of Bilarro)
+      rarity: rare
+    - name: Shadowneedle (Unbreakable Arrow)
+      rarity: common
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Life Transference
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Token of the Withered Mother
+      description: |-
+        At the risk of your safety and sanity, you have acquired an iron token
+        from an annis hag. The iron token is magically bound to you and all
+        attempts to get rid of it prove futile—howsoever you try, the token
+        reappears in your hand at the end of each long rest.
+  
+        So long as the iron token is bound to you, whenever the moon is at its
+        fullest, you dream about receiving a visit from the Withered Mother who
+        gave you the token. In the dream, the hag takes your head in her hands
+        and plants a kiss on your cheek. When you awaken, your cheek smells of
+        rancid spittle.
+  
+        Whenever you play one of the **DRUID** series adventures, you make all
+        Charisma and Charisma-based skill checks at Disadvantage.
+  missing:
+    - credits
+
+
+- code: CCC-DRUID-03
+  name: In Tents
+  description: >-
+    The Moonsea Army is all that stands between Phlan and the undead of the
+    Necromancer Marzellus. You wait in tents, summoned for your loyalty, your
+    bravery, your heroism, and perhaps even your gullibility. Can you remain
+    unflappable, no matter the stakes!
+  released: '2019-12-10'
+  url: 'https://www.dmsguild.com/product/297088/DDALCCCDRUIDS03-In-Tents'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Lantern of Revealing
+      rarity: uncommon
+    - name: Veteran’s Cane
+      rarity: common
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Walloping Ammuniton
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Rising Hero
+      description: >-
+        Your name travels ahead of you, resulting in favorable treatment in your
+        FIRST reactions with strangers in the Moonsea region.
+  missing:
+    - credits
+

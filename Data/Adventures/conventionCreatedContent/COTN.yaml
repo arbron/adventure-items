@@ -1,0 +1,40 @@
+- code: CCC-COTN-01-01
+  name: 'By The Seashore: A Red War Tale'
+  description: >-
+    Chaotic magic torments the village of Stonedock, presenting opportunity to a
+    devious grifter. Unknown to the scoundrel, a stolen trinket brings with it
+    the wrath of Thay! Who will weather the storm of deception?
+  released: '2019-03-01'
+  url: 'https://www.dmsguild.com/product/267847/CCCCOTN0101By-The-Seashore-A-Red-War-Tale'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Chauncey’s Codbone Cosherer (Immovable Rod)
+      rarity: uncommon
+    - name: Corsair’s Star (Orb of Direction)
+      rarity: common
+    - name: Potion of Resistance (Cold)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Faro’s Song
+      description: >-
+        You have spent time in the company of the constable of Stonedock, moreso
+        that you can mimic the song Faro is known for humming. This song may
+        sooth the fear-filled hearts and instill hope to those in despair. This
+        innocent homage to this well-loved man may move the displaced and
+        hopeless to action, possibly effecting the Red War or future Con of the
+        North Convention-Created Content.
+    - name: Stink of Thanks
+      description: >-
+        As a token of gratitude, the fishermen of Stonedock gift you a bucket of
+        their special stinkbait. Each batch of this offal-smelling muck is a
+        local mixture of rotten food staples, dead beast viscera, bubbling, vile
+        fluids and a special ingredient that its maker adds to it! The bait’s
+        stench is so putrid that many may avoid you while you have it, you might
+        lure beings that enjoy this gut-churning grub to it, or it could serve
+        you in other ways in future Con of the North Convention-Created Content.
+  missing:
+    - credits

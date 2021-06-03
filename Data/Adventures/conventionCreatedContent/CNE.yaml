@@ -1,0 +1,103 @@
+- code: CCC-CNE-01
+  name: The Treasure Beneath
+  description: >-
+    A mysterious location has been uncovered and a group of adventurers are
+    tasked with charting a ship onto the Moonsea. There they begin their
+    underwater quest to find the treasures of the Lost City of Northkeep, facing
+    an assortment of deep-sea challenges and enemies and eventually meeting with
+    an ancient clan of Orcs guarding the isolated ruins of Northkeep.
+  released: '2018-10-04'
+  url: 'https://www.dmsguild.com/product/254041/CCCCNE01-The-Treasure-Beneath'
+  tier: 2
+  length: 4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-CNE-02
+  name: Before The Hatch
+  description: >-
+    The Ancient sunken city of Northkeep is filled with wild magic and and
+    unknown dangers. Within this desolate place, a warlock experiments on
+    wildlife to create the ultimate living weapon capable of destroying the
+    entire Moonsea region. In order to save the world, adventurers must stop the
+    experiments from completing.
+  released: '2018-10-04'
+  url: 'https://www.dmsguild.com/product/254019/CCCCNE02-Before-The-Hatch'
+  tier: 2
+  length: 4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-CNE-03
+  name: Into The Depths
+  description: >-
+    A Shadow of the long-destroyed city of Northkeep has been found deep below
+    the Moonsea. Filled with wild magic and inhabited by strange creatures and
+    people, a group of Warlocks work to bring a great evil into the world. In
+    order to protect the Moonsea, the Warlocks must be stopped.
+  released: '2018-10-04'
+  url: 'https://www.dmsguild.com/product/254018/CCCCNE03-Into-The-Depths'
+  tier: 2
+  length: 4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-CNE-06
+  name: Burst!
+  description: >-
+    A stolen artifact and a missing adventuring party sends a group of heroes on
+    a hunt across the Moonsea Region. Unfortunately, the heroes will wind up
+    being the prey.
+  released: '2020-08-03'
+  url: 'https://www.dmsguild.com/product/320942/CCCCNE006-Burst'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Dagger of Venom
+      rarity: rare
+    - name: Wand of Web
+      rarity: uncommon
+  storyAwards:
+    - name: Eye of Lolth
+      description: |-
+        A golden bracelet with a ruby magically suspended in the center is on
+        the ground next to the him. No part of the ruby touches the bracelet. It
+        seems to float in the gap between the gold. There’s writing in
+        Undercommon on the bracelet, the *Eye of Lolth*. It reads: From the
+        Demon Webs, Lolth sees all who scheme against Her.”
+  
+        This isn’t a magic item, but an item sacred to Lolth and her followers.
+        It only exists in this adventure and cannot be attained for any future games.
+  
+        Characters will not be able to acquire the item and keep it. Lolth arranges
+        for her minions of spiders to take the *Eye of Lolth* at the end of the
+        adventure.
+    - name: “Kill Me.”
+      description: >-
+        If an adventurer puts a humanoid about to die giving birth to a
+        Vhaeraun-touched drider out of his misery in this adventure, her sanity
+        teeters. Whenever faced with a similar situation in the *Vhaeraun
+        Touched* series, the DM is advised to describe the character’s struggle
+        with her sanity.
+    - name: Web Weary
+      description: >-
+        Adventurers who survive this adventure know how to tread cautiously
+        through Vhaeraun-touched drider lairs and rescue allies trapped in
+        Vhaeraun-touched drider webs. This may have great benefit in future
+        *Vhaeraun Touched* adventures.
+  missing:
+    - credits
+

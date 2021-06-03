@@ -1,0 +1,24 @@
+- code: CCC-FAD-01
+  name: Out The Back
+  description: >-
+    The town of Phlan has had a lot of trouble, but at least today there aren’t
+    any dragons in the sky.  You’ve received a mysterious summons from a citizen
+    of Phlan asking for your help, with the promise of a chance to do some good,
+    what are you waiting for?!
+  released: '2020-06-03'
+  url: 'https://www.dmsguild.com/product/312977/CCCFAD01-Out-The-Back'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Boots of False Tracks
+      rarity: uncommon
+    - name: Welcomers Gloves (Gloves of Thievery)
+      rarity: uncommon
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+

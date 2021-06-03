@@ -1,0 +1,116 @@
+- code: CCC-GOC01-01
+  name: Tree Rot
+  description: >-
+    A corrupting sickness has infected the Quivering Forest, and the wood elf
+    tribe of Thand’Arethen.
+  released: '2018-09-25'
+  url: 'https://www.dmsguild.com/product/253211/CCCGOC0101-Tree-Rot'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Bracers of Archery
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Lesser Restoration
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Forewarning
+      description: >-
+        You learned that a dryad and a satyr were helping to corrupt the forest,
+        though these creatures typically work to protect it. When one of your
+        other characters plays **CCC-GOC01-02**, *Cairns of Rot*, they gain
+        advantage on Wisdom (Insight) checks to determine if other protectors of
+        the forest have been corrupted.
+    - name: Putting the Dead to Rest
+      description: >-
+        You put the undead aarakocra to rest in **CCC-GOC01-01**, *Tree Rot*.
+        When one of your other characters plays **CCC-GOC01-03**, *Winds of
+        Rot*, characters may find an ally waiting for them on the earthmote.
+  missing:
+    - credits
+
+
+- code: CCC-GOC01-02
+  name: Cairns of Rot
+  description: >-
+    The woodelf village of Thand'Arethen in the Quivering Forest discovered a
+    dark and arcane corruption destroying the forest, threatening the village’s
+    survival. The Corruption mutates anything living in the Quivering forest,
+    changing the flora and fauna into dark corrupted echoes of what they were in
+    life.
+  released: '2018-09-25'
+  url: 'https://www.dmsguild.com/product/253210/CCCGOC0102-Cairns-of-Rot'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Heward’s Handy Haversack
+      rarity: rare
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 3
+  storyAwards:
+    - name: Corruption Unchained
+      description: >-
+        You were unsuccessful at stopping the ritual and the corruption has
+        spread. This will place a burden upon you in the other adventures in
+        this series. When you play either **CCC-GOC01-01** or **CCC-GOC-01-03**
+        tell your DM that you have this story award. The DM will indicate the
+        in-game effect of this award.
+    - name: Enemies Afoot
+      description: >-
+        You gain this award if you have not played **CCC-GOC01-01** Tree Rot.
+        You know the cairns are the focal point of spreading the corruption in
+        the area and that the satyr is using them to spread the corruption to
+        the medicinal plants in the region. When you play **CCC-GOC-01-01**,
+        tell the DM that you have this story award. The DM will indicate the
+        in-game effect of this award.
+    - name: Secrets Revealed
+      description: >-
+        You have saved the aarakocra slaves. They tell you they heard the druid
+        telling powerful allies to hunt down a sorceress and indicate the
+        direction that they went. When you play **CCC-GOC01-03**, tell the DM
+        that you have this story award. The DM will indicate the in-game effect
+        of this award.
+  missing:
+    - credits
+
+
+- code: CCC-GOC01-03
+  name: Winds of Rot
+  description: >-
+    High above the Quivering Forest hovers Athal’deras, an earth mote that is
+    home to a tribe of aarakocra. But a shadow has fallen over the floating
+    rock, and the bird people have succumbed to the darkness, which they now
+    strive to spread upon the winds.
+  released: '2018-09-25'
+  url: 'https://www.dmsguild.com/product/253212/CCCGOC0103-Winds-of-Rot'
+  tier: 3
+  length: 3-4
+  apl: 14
+  items:
+    - name: Carpet of Flying
+      rarity: veryRare
+  storyAwards:
+    - name: Lessening Influence
+      description: >-
+        By breaking the gemstone and freeing the fiend within, you have stemmed
+        the tide of the corruption. When one of your characters plays
+        **CCC-GOC01-01**, *Tree Rot*, you have the opportunity to convince a
+        would-be enemy to not fight, and to help heal the forest instead.
+    - name: No Mote In the Sky
+      description: >-
+        You have defeated the dracolich and Velvet’s emissary, and the Cloud
+        Glider tribe survived to find a new place to call home. When one of your
+        characters plays **CCC-GOC01-02**, *Cairns of Rot*, the earthmote will
+        not be seen in the sky.
+  missing:
+    - credits
+

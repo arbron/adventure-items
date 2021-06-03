@@ -9,6 +9,8 @@
   released: '2018-10-13'
   creator: Greasy Snitches
   tier: 1
+  length: 4
+  apl: 2
   items:
     - name: Dragon’s Lullaby (Instrument of the Bards - Mac-Fuirmidh cittern)
       rarity: uncommon
@@ -35,11 +37,12 @@
     dead. A funeral ceremony will be held in 3 days before he becomes one with
     the earth. Rokstasha, his friend and a djinni has asked the help of the
     adventurers to find the other members of the Five-Leaf Clover if they are
-    still alive and have them attend the ceremony. Don’t be late! Part 2 of the
-    *Clover Group Series*.
+    still alive and have them attend the ceremony. Don’t be late!
   released: '2019-08-14'
   creator: Greasy Snitches
   tier: 1
+  length: 2-4
+  apl: 3
   items:
     - name: Pipe of Smoke Monsters
       rarity: common
@@ -70,11 +73,12 @@
     the Quivering Forest near the burial site of her friend is slowly being
     consumed by dark magic. The adventurers have been asked to find the source
     and eliminate it as soon as possible. Failing on this task could turn her
-    dead friend into a dracolich. Nobody wants that! Right?! Part 3 of the
-    *Clover Group Series*.
+    dead friend into a dracolich. Nobody wants that! Right?!
   released: '2020-02-04'
   creator: Greasy Snitches
   tier: 1
+  length: 2-4
+  apl: 3
   items:
     - name: Cloak of Many Fashions
       rarity: common
@@ -100,6 +104,7 @@
   missing:
     - credits
 
+
 - code: CCC-GSP02-01
   name: Minauros Unchained
   description: >-
@@ -107,11 +112,13 @@
     Hells. Tasked to free heroic souls that are supposed to go to Ysgard but
     instead are stuck somewhere in different layers of Hell. Her first mission
     is to save a loyal and fearless minotaur druid that’s currently trapped in
-    Minauros, the 3rd layer of Hell. Part One of *Heroes in Nine Hells*.
+    Minauros, the 3rd layer of Hell.
   released: '2020-03-03'
   creator: Greasy Snitches
   url: 'https://www.dmsguild.com/product/303699/CCCGSP0201-Minauros-Unchained'
   tier: 1
+  length: 2-4
+  apl: 3
   items:
     - name: Bulaga Wizard Hat (Hat of Vermin)
       rarity: common
@@ -145,11 +152,13 @@
     Nine Hells. She is tasked to free heroic souls that are supposed to go to
     Ysgard but instead are stuck somewhere in different layers of hell. Her
     second mission is to save a kind and gentle snake guardian’s soul that is
-    currently trapped in Stygia, the Fifth. Part Two of *Heroes in Nine Hells*.
+    currently trapped in Stygia, the Fifth.
   released: '2020-04-20'
   creator: Greasy Snitches
   url: 'https://www.dmsguild.com/product/307480/CCCGSP0202-Stygia-Untamed'
   tier: 2
+  length: 2-4
+  apl: 9
   items:
     - name: Stygian Scale Mail (Smoldering Armor)
       rarity: common
@@ -185,7 +194,7 @@
     are instead stuck somewhere in different layers of the Nine Hells. Now, she
     is looking for adventurers to go with her on her final mission: save the
     Biguri Siblings, a family of valiant earth genasi warriors trapped in
-    Maladomini, the Seventh Layer of Hell. Part Three of *Heroes in Nine Hells*.
+    Maladomini, the Seventh Layer of Hell.
   released: '2020-11-23'
   creator: Greasy Snitches
   url: 'https://www.dmsguild.com/product/336854/CCCGSP0203-Maladomini-Unleashed'
@@ -221,8 +230,7 @@
     The Devil King School of Higher Learning is looking for new students this school
     year. Those who accept the school’s invitation will be sent to Minauros, the
     third layer of the Nine Hells. Will the adventu—I mean students—survive the tests
-    given to them by their devilish professors? Part One of *I Got Accepted as a
-    Student in the Nine Hells and Now I’m at the Top of the Class* series.
+    given to them by their devilish professors?
   released: '2020-11-17'
   creator: Greasy Snitches
   url: 'https://www.dmsguild.com/product/336048/CCCGSP0401-Devil-King-High-School-Year-One'
@@ -244,9 +252,10 @@
     to identify these creatures of the dark.
   released: '2019-08-21'
   creator: Greasy Snitches
-  url: >-
-    https://www.dmsguild.com/product/285712/CCCGSPFEAR0101-Beneath-the-Bleeding-Tree
+  url: 'https://www.dmsguild.com/product/285712/CCCGSPFEAR0101-Beneath-the-Bleeding-Tree'
   tier: 1
+  length: 2-4
+  apl: 3
   items:
     - name: Hag’s Breath (Eversmoking Bottle)
       rarity: uncommon
@@ -281,6 +290,8 @@
   creator: Greasy Snitches
   url: 'https://www.dmsguild.com/product/302031/CCCGSPMON0101-Shadows-of-Despair'
   tier: 2
+  length: 4
+  apl: 7
   missing:
     - items
     - pdf
@@ -299,6 +310,8 @@
   creator: Greasy Snitches
   url: 'https://www.dmsguild.com/product/285722/CCCGSPNTHR0101-A-Night-of-Sorrows'
   tier: 3
+  length: 2
+  apl: 14
   items:
     - name: Amulet of Health
       rarity: rare
@@ -329,6 +342,8 @@
   creator: Greasy Snitches
   url: 'https://www.dmsguild.com/product/285730/CCCGSPOOZE0101OozingHunger'
   tier: 2
+  length: 2
+  apl: 8
   items:
     - name: Armor of Insults (Mithral Splint Armor)
       rarity: uncommon
@@ -362,12 +377,13 @@
     causing troubled hearts inYlraphon. Greater threats may be much closer to
     home, however. The Dragul Orcs of the Flooded Forestare being slaughtered.
     In their desperation, they are turning to Ylraphon for salvation. What dark
-    threatsawait you in the Murmuring Hollow of the Flooded Forest? Part Two of
-    the *Dead Gods Collide* series.
+    threatsawait you in the Murmuring Hollow of the Flooded Forest?
   released: '2019-08-21'
   creator: Greasy Snitches
   url: 'https://www.dmsguild.com/product/285850/CCCGSPPHIL0102-The-Murmuring-Hollow-O-f-The-Flooded-Forest'
   tier: 1
+  length: 2
+  apl: 3
   items:
     - name: Eyes of Minute Seeing
       rarity: uncommon
@@ -382,12 +398,13 @@
     directly on Ylraphon’s door. As violence erupts all around, you must delve
     into the Eldest Ruins, the most ancient remnants of Outer Ylraphon. There, a
     ruined drow manor house is said to contain an artifact strong enough to stop
-    the forces rampaging through the Old City. Part Three of the *Dead Gods
-    Collide* series.
+    the forces rampaging through the Old City.
   released: '2019-08-21'
   creator: Greasy Snitches
   url: 'https://www.dmsguild.com/product/285849/CCCGSPPHIL0103-The-Whispering-Shadows-of-the-Eldest-Ruin'
   tier: 1
+  length: 2
+  apl: 3
   items:
     - name: Robe of Useful Items
       rarity: uncommon

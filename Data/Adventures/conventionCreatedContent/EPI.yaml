@@ -1,0 +1,66 @@
+- code: CCC-EPI-01-01
+  name: The White Hand of Death
+  description: >-
+    A disease is spreading around the town of Melvaunt, causing boils and
+    festering marks to form on townsfolk and travelers alike. The local guard
+    believes that this disease is of unnatural origin, and has issued a call for
+    brave adventurers to investigate the matter. Can you find the source of the
+    plague, or will you simply fall as another victim?
+  released: '2019-11-26'
+  creator: Adventurers Anonymous Manila
+  url: 'https://www.dmsguild.com/product/295621/CCCEPI0101-Hordes-of-Thar--The-White-Hand-of-Death'
+  tier: 2
+  length: 4
+  apl: 7
+  items:
+    - name: Aier (Pearl of Power)
+      rarity: uncommon
+  storyAwards:
+    - name: Child of Melvaunt
+      description: >-
+        Defeating Halgash within the 5 hour time limit or (using Divine
+        Intervention) to save Alyssa will get you the friendship of Melvaunt’s
+        City Watch. This may come in handy later on.
+    - name: Gratitude of the Spared
+      description: >-
+        If the players manage to spare Halgash and her tribemates, they earn
+        this story award. Sparing Halgash has left her indebted to you. Only
+        time will tell if she will return to aid you in a future adventure.
+  missing:
+    - credits
+
+
+- code: CCC-EPI-01-02
+  name: The Bloody Crescent
+  description: >-
+    Melvaunt’s guards are found dead in the barracks, the mark of an orcish
+    murder god splattered on their walls. While the assassins are elusive, the
+    Emerald Enclave has found a way to track them to their shadowy hold in the
+    form of a strange hermit. Will the adventurers bring light to the situation
+    or be lost in the dark?
+  released: '2020-08-03'
+  creator: Adventurers Anonymous Manila
+  url: 'https://www.dmsguild.com/product/319994/CCCEPI0102-Hordes-of-Thar-The-Bloody-Crescent'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: The Harbinger (Glaive of Warning)
+      rarity: uncommon
+  storyAwards:
+    - name: The Mark of Seasons
+      description: >-
+        As thanks for killing Gnott, Tita Malas offers adventurers a tattoo that
+        can tell the seasons. Adventurers who choose to accept gain a tattoo
+        (characters can decide where on their body) of a balete tree that
+        changes its appearance to match the current season (spring, summer,
+        autumn, or winter) of the area they are in. Bearing this mark may have
+        some bearing on future adventures.
+    - name: Silencing the Shadows
+      description: >-
+        Defeating Gnott stops the servants of Shaargas from joining the main orc
+        horde. No doubt this would have some effect on future adventures
+        involving the battle to come.
+  missing:
+    - credits
+

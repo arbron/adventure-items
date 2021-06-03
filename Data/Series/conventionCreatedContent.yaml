@@ -82,6 +82,17 @@
       position: 3
 
 
+- slug: clover-group
+  name: Clover Group
+  adventures:
+    - code: CCC-GSP01-01
+      position: 1
+    - code: CCC-GSP01-02
+      position: 2
+    - code: CCC-GSP01-03
+      position: 3
+
+
 - slug: coin-spinner
   name: Coin Spinner
   type: trilogy
@@ -151,6 +162,15 @@
       position: 3
 
 
+- slug: dead-gods-collide
+  name: Dead Gods Collide
+  adventures:
+    - code: CCC-GSP-PHIL01-02
+      position: 2
+    - code: CCC-GSP-PHIL01-03
+      position: 3
+
+
 - slug: dead-men
   name: Dead Men
   adventures:
@@ -176,6 +196,13 @@
       position: 3
 
 
+- slug: eluas-lighthouse
+  name: Elua’s Lighthouse
+  adventures:
+    - code: CCC-GEL-01
+      position: 2
+
+
 - slug: fairheight
   name: Fairheight
   type: trilogy
@@ -195,6 +222,18 @@
       position: 1
 
 
+- slug: the-gifts-of-corruption
+  name: The Gifts of Corruption
+  includesArticle: true
+  adventures:
+    - code: CCC-GOC01-01
+      position: 1
+    - code: CCC-GOC01-02
+      position: 2
+    - code: CCC-GOC01-03
+      position: 3
+
+
 - slug: the-heir-of-orcus
   name: The Heir of Orcus
   includesArticle: true
@@ -209,6 +248,17 @@
       position: 4
 
 
+- slug: heroes-in-nine-hells
+  name: Heroes in Nine Hells
+  adventures:
+    - code: CCC-GSP02-01
+      position: 1
+    - code: CCC-GSP02-02
+      position: 2
+    - code: CCC-GSP02-03
+      position: 3
+
+
 - slug: hillsfars-kaiju-chronicles
   name: Hillsfar’s Kaiju Chronicles
   adventures:
@@ -218,6 +268,23 @@
       position: 2
     - code: CCC-BWM-07-03
       position: 3
+
+
+- slug: hordes-of-thar
+  name: Hordes of Thar
+  type: saga
+  adventures:
+    - code: CCC-EPI-01-01
+      position: 1
+    - code: CCC-EPI-01-02
+      position: 2
+
+
+- slug: student-in-the-nine-hells
+  name: I Got Accepted as a Student in the Nine Hells and Now I’m at the Top of the Class
+  adventures:
+    - code: CCC-GSP04-01
+      position: 1
 
 
 - slug: the-jade-curse
@@ -271,6 +338,13 @@
       position: 2
     - code: CCC-PIPYAPS-DH-01
       position: 3
+
+
+- slug: mystery-of-the-isles
+  name: Mystery of the Isles
+  adventures:
+    - code: CCC-FCC-01
+      position: 1
 
 
 - slug: nightmare
@@ -331,6 +405,18 @@
       position: 3
 
 
+- slug: pilgrims-progress
+  name: Pilgrim’s Progress
+  type: trilogy
+  adventures:
+    - code: CCC-CIC-10
+      position: 1
+    - code: CCC-CIC-11
+      position: 2
+    - code: CCC-CIC-12
+      position: 3
+
+
 - slug: psionic-menace
   name: Psionic Menace
   adventures:
@@ -384,6 +470,29 @@
       position: 1
     - code: CCC-TRI-04 ROC1-2
       position: 2
+
+
+- slug: ruined-tower-of-the-tempest-mage
+  name: Ruined Tower of the Tempest Mage
+  adventures:
+    - code: CCC-CIC-01
+      position: 1
+    - code: CCC-CIC-02
+      position: 2
+    - code: CCC-CIC-03
+      position: 3
+
+
+- slug: shadow-of-northkeep
+  name: Shadow of Northkeep
+  type: trilogy
+  adventures:
+    - code: CCC-CNE-01
+      position: 1
+    - code: CCC-CNE-02
+      position: 2
+    - code: CCC-CNE-03
+      position: 3
 
 
 - slug: the-shattered-planes
@@ -502,6 +611,13 @@
       position: 2
     - code: CCC-ALMOG ESC03-03
       position: 3
+
+
+- slug: vhaeraun-touched
+  name: Vhaeraun-Touched
+  adventures:
+    - code: CCC-CNE-06
+      position: 1
 
 
 - slug: when-shadows-fall

@@ -1,0 +1,48 @@
+- code: CCC-ELO-01
+  name: For the Kids!
+  description: >-
+    A mysterious illness cripples the children of the realm. No one has found
+    the cure. Will you pass the tests and save the children of Faerûn?
+  released: '2018-11-17'
+  url: 'https://www.dmsguild.com/product/259022/CCCELO01-For-the-Kids'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: The Aloe of Ch (Keoghtom’s Ointment)
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-ELO-02
+  name: The Four Kids
+  description: >-
+    A plea for help calls heroes into the deep of The Underdark, where a
+    kind-hearted matron seeks help to vanquish childish soul-buried sorrows. How
+    far will our heroes go for the kids?
+  released: '2020-01-14'
+  url: 'https://www.dmsguild.com/product/299859/CCCELO02-The-Four-Kids'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Breegla’s Nightlamp (Candle of the Deep)
+      rarity: common
+    - name: Mother Pqwirli’s Pod Pouch (Bag of Holding)
+      rarity: uncommon
+    - name: Cha’Raega’s Porridge (Potion of Fire Breath)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Always Home
+      description: >-
+        The children of Qaahrez Sanctuary have been cured of their ailments!
+        Your play with them has showed that kindness, courage, and hope can
+        defeat sickness and mean spirits like the Dark Priory. Mother Pqwirli’s
+        sanctuary will always welcome you during journeys in the Underdark or in
+        future **CCC-ELO** adventures.
+  missing:
+    - credits
+

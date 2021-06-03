@@ -1,0 +1,67 @@
+- code: CCC-CENTRIC-01-02
+  name: Road to Reconciliation
+  description: >-
+    The Eraka clan vowed to raid any caravan leaving Phlan until the high
+    chieftain’s daughter is returned from captivity. Can you prevent war between
+    the Eraka and Algreth’s aggressive merchant company?
+  released: '2020-08-03'
+  creator: Concentric Games
+  url: 'https://www.dmsguild.com/product/321273/CCCCENTRIC-0102-Road-to-Reconciliation'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Boots of False Tracks
+      rarity: common
+    - name: Saddle of the Cavalier
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Locate Animals or Plants
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Benevolent Takeover
+      description: >-
+        Jereth’s successful leadership of Kolwyn’s Caravan has earned you favour
+        among the merchants of Phlan. They may offer further opportunities in
+        the future.
+    - name: Eraka Peacemaker
+      description: >-
+        After negotiating a successful treaty, you are respected by the Eraka as
+        an agent for peace. You may call upon them for assistance in the future.
+  missing:
+    - credits
+
+
+- code: CCC-CENTRIC-01-03
+  name: The Patchwork Tower
+  description: >-
+    Modrons have gathered in the Moonwatch Hills to build a strange tower.
+    Ranging far and wide, they pilfer items both valuable and worthless to grow
+    the swaying, shaking mass of the Patchwork Tower. What strange impulse
+    guides them? What exactly are they building?
+  released: '2020-08-07'
+  creator: Concentric Games
+  url: 'https://www.dmsguild.com/product/322508/CCCCENTRIC0103----The-Patchwork-Tower'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Clockwork Amulet
+      rarity: common
+    - name: Immovable Rod
+      rarity: uncommon
+    - name: Oil of Slipperiness
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Darkvision
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits

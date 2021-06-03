@@ -1,0 +1,85 @@
+- code: CCC-COS-01
+  name: The Only Way To Be Sure
+  description: >-
+    A small mining village near the edge of Thar goes silent. You are sent to
+    investigate… And discover that the truth is much worse than expected.
+  released: '2019-08-10'
+  url: 'https://www.dmsguild.com/product/285292/CCCCOS01-The-Only-Way-To-Be-Sure'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Portable Hole
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-COS-02-01
+  name: 38 Souls
+  description: >-
+    The death of a mysterious philanthropist has left a few simple tasks
+    unfinished. This may either be the easiest adventure of your life, or your
+    last. Part One of the *Hammer of the Gods* sequence.
+  released: '2020-06-05'
+  url: 'https://www.dmsguild.com/product/315756/CCCCOS0201-38-Souls'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Wand of Secrets
+      rarity: uncommon
+    - name: Oil of Slipperiness
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+  spellbooks:
+    - name: Illusionist’s Spellbook
+      spells:
+        - name: dancing lights
+          level: 0
+        - name: mage hand
+          level: 0
+        - name: minor illusion
+          level: 0
+        - name: poison spray
+          level: 0
+        - name: color spray
+          level: 1
+        - name: disguise self
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: invisibility
+          level: 2
+        - name: mirror image
+          level: 2
+        - name: phantasmal force
+          level: 2
+        - name: major image
+          level: 3
+        - name: phantom steed
+          level: 3
+        - name: phantasmal killer
+          level: 4
+  missing:
+    - credits
+

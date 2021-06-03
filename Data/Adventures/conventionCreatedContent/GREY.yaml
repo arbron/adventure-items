@@ -1,0 +1,36 @@
+- code: CCC-GREY-01-01
+  name: A Rat’s Tale
+  description: >-
+    When a collection of rare books disappears from a wealthy landlord’s vault,
+    adventurers are dispatched to sleuth out the thief and bring the tomes back
+    home. But perhaps some knowledge is better buried than claimed…
+  released: '2019-07-17'
+  creator: Monkey Mind Tales
+  url: 'https://www.dmsguild.com/product/282281/CCCGREY0101-A-Rats-Tale'
+  tier: 1
+  length: 4x1
+  apl: 3
+  items:
+    - name: Spell Scroll of Heroism
+      rarity: common
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Ruminations on the Accomplishments of Humanity
+      spells:
+        - name: charm person
+          level: 1
+        - name: comprehend languages
+          level: 1
+        - name: snare
+          level: 1
+        - name: hold person
+          level: 2
+        - name: suggestion
+          level: 2
+  storyAwards:
+    - name: Fate of the Rat
+      description: The Grey Rat didn’t survive his encounter with you. His story ends here.
+  missing:
+    - credits
+

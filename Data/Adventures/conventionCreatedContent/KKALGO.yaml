@@ -1,0 +1,18 @@
+- code: CCC-KKALGO-02-01
+  name: Honeybee Mayhem
+  description: >-
+    Rumors say that a mysterious monster appeared in Honeybrew town. The monster
+    wanders around the town and spreads terror, and finally, two young dwarves
+    got hurt by the beast. Can adventurers protect the village from this
+    monster?
+  released: '2020-08-27'
+  url: 'https://www.dmsguild.com/product/325998/CCCKKALGO0201-HONEYBEE-MAYHEM'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Lantern of Revealing
+      rarity: uncommon
+  missing:
+    - credits
+

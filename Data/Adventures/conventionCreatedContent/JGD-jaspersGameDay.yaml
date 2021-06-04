@@ -1,0 +1,71 @@
+- code: CCC-JGD-01
+  name: Left Black & Blue
+  description: >-
+    With Red Wizards and fouler things about, a power struggle among forgotten
+    foes draws adventurers into peril.
+  released: '2018-12-29'
+  url: 'https://www.dmsguild.com/product/262311/Left-Black-and-Blue-A-Red-War-Story'
+  tier: 3
+  length: 2
+  apl: 13
+  items:
+    - name: Stone Plate, +2
+      rarity: veryRare
+  spellbooks:
+    - name: Kyros’s Spellbook
+      spells:
+        - name: fire bolt
+          level: 0
+        - name: light
+          level: 0
+        - name: mage hand
+          level: 0
+        - name: prestidigitation
+          level: 0
+        - name: shocking grasp
+          level: 0
+        - name: detect magic
+          level: 1
+        - name: identify
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: detect thoughts
+          level: 2
+        - name: mirror image
+          level: 2
+        - name: misty step
+          level: 2
+        - name: counterspell
+          level: 3
+        - name: fly
+          level: 3
+        - name: lightning bolt
+          level: 3
+        - name: banishment
+          level: 4
+        - name: fire shield
+          level: 4
+        - name: stoneskin
+          level: 4
+        - name: cone of cold
+          level: 5
+        - name: scrying
+          level: 5
+        - name: wall of force
+          level: 5
+        - name: globe of invulnerability
+          level: 6
+        - name: teleport
+          level: 7
+        - name: mind blank
+          level: 8
+        - name: gate
+          level: 9
+        - name: time stop
+          level: 9
+  missing:
+    - credits
+

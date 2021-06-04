@@ -1,0 +1,224 @@
+- code: CCC-HATMS-01-01
+  name: Threatening Tides
+  description: >-
+    On the eve of Shieldmeet, the sunken Isle of Maos rises from the depths of
+    the Moonsea, only to return to the water with the rising of the sun. But
+    this year, the island does not sink beneath the waves, and destruction
+    follows in its wake. A drunkard named Will Brightsong is somehow connected,
+    and the adventurers must keep him alive long enough to find out why!
+  released: '2018-04-18'
+  url: 'https://www.dmsguild.com/product/239986/CCCHATMS0101-Threatening-Tides'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Quiver of Ehlonna
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Poison
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Typhis Lives to Fight Another Day
+      description: >-
+        You saved Typhis Limu, a water genasi and guardian to Will Brightsong.
+        Preventing his death may prove to be useful in the days to come.
+  missing:
+    - credits
+
+
+- code: CCC-HATMS-01-02
+  name: Prophecy’s Promise
+  description: >-
+    Will Brightsong has been kidnapped, and the Moonsea is spilling into the
+    cities of the region. The adventurers must travel into the heart of Thar to
+    rescue the Brightsong heir, and return him to the Isle of Maos before
+    catastrophe strikes!
+  released: '2018-04-18'
+  url: 'https://www.dmsguild.com/product/239987/CCCHATMS0102-Prophecys-Promise'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Sword of Vengeance (Longsword)
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Mind Reading
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Mark of the Brightsong
+      description: >-
+        The last scion of the Brightsong family has died, their purpose now lost
+        to the world, which will suffer greatly for it.
+
+        Or has it? You now bear the mark of the Brightsong family, a sigil that
+        appeared on your inner left forearm. From the direction of the Moonsea,
+        you faintly hear a tune, a song that you know from deep in your heart;
+        one that will reveal its words when the time is right.
+
+        You must travel now to the Moonsea, and sail to the Isle of Maos. There
+        you will find your answers. There you will face the legacy the Brightsongs
+        have left you.
+  missing:
+    - credits
+
+
+- code: CCC-HATMS-01-03
+  name: Destiny Defied
+  description: >-
+    The Brightsong heir has been rescued from the clutches of the Kur-Tharsu,
+    but the Moonsea is still rising. The adventurers must travel to the Isle of
+    Maos, and there fulfill their most difficult challenge yet; convincing Will
+    Brightsong to fulfill his destiny!
+  released: '2018-04-18'
+  url: 'https://www.dmsguild.com/product/239988/CCCHATMS0103-Destiny-Defied'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Ioun Stone of Protection
+      rarity: rare
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 3
+  storyAwards:
+    - name: Brightsong Legacy
+      description: |-
+        You now bear the title and mark of the Brightsong, a guardian of Faerun,
+        and you have stopped the awakening of Streixxird.
+
+        Every Shieldmeet, you must journey to the Moonsea and the Isle of Maos to
+        perform the song that bolsters the prison of Streixxird, locking her away
+        and protecting the Moonsea.
+
+        In addition, you must continue your lineage, passing the legacy on to your
+        offspring, or to those you consider family.
+
+        Remove the **Mark of the Brightsong** story award from this character.
+  missing:
+    - credits
+
+
+- code: CCC-HATMS-02-01
+  name: Illithid Activities
+  description: >-
+    Reports of an Illithid in the area south of Hillsfar have the Emerald
+    Enclave and the Harpers on the trail of a mind flayer that has been presumed
+    dead. Or is he?
+  released: '2019-04-08'
+  url: 'https://www.dmsguild.com/product/269519/CCCHATMS-0201-Illithid-Activities'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Vicious Longsword
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Erupting Earth
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Entertainer of the Gnomes
+      description: >-
+        Tales of your performance for Gimble has been shared throughout the
+        region. Should you encounter Gimble the gnome in a future adventure he
+        will treat you as a friend and act favorably during your interactions
+        with him.
+  missing:
+    - credits
+
+
+- code: CCC-HATMS-02-02
+  name: Something Vile This Way Comes
+  description: >-
+    A hunt for a mad illithid has brought startling and dire news to the Emerald
+    Enclave and the Harpers. The call has gone out for heroes to follow on the
+    trail of Klondros Imdree as he seeks a book of terrible power, and to stop
+    him once and for all.
+  released: '2019-03-05'
+  url: 'https://www.dmsguild.com/product/267822/CCCHATMS0202-Something-Vile-This-Way-Comes'
+  tier: 3
+  length: 4
+  apl: 14
+  items:
+    - name: Rod of Absorption
+      rarity: veryRare
+    - name: Spell Scroll of Animate Dead
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Nystul’s Magic Aura
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-HATMS-02-03
+  name: A Vile Wake
+  description: >-
+    Klondras Imdree’s necromancer master has been stopped, but the undead
+    illithid is still at large, and is one step closer to claiming the Book of
+    Vile Darkness as his own. Heroes are called on to go after the mad
+    mindflayer and to stop him at all costs.
+  released: '2019-03-05'
+  url: 'https://www.dmsguild.com/product/267823/CCCHATMS0203-A-Vile-Wake'
+  tier: 3
+  length: 4
+  apl: 14
+  items:
+    - name: Stone of Good Luck
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: A Vile Taint
+      description: |-
+        You have done the unthinkable and read from the Al Azif. Though you have
+        cast off the terrible tome, it has left its mark on you forever.
+
+        You gain one of the following physical features:
+
+        | d6     | Feature                                                                        |
+        | ------ | ------                                                                         |
+        | 1      | Your eyes are completely black.                                                |
+        | 2      | You always smell faintly of rot.                                               |
+        | 3      | When you speak, another voice seems to say the same words along with you.      |
+        | 4      | A symbol has been branded somewhere on your body. It reads “VECNA” in Abyssal. |
+        | 5      | Your orifices are always crusted with scabs and pus.                           |
+        | 6      | Your skin appears as that of an aged corpse, grayed and flaking.               |
+
+        Only powerful magic such as *wish* can remove the taint of the *Al Azif*
+        from your body. Should you perish, and be brought back to life from magic
+        such as *true resurrection* or *reincarnate*, the mark remains on your new
+        body.
+
+        This has no mechanical effect on the game.
+  missing:
+    - credits
+

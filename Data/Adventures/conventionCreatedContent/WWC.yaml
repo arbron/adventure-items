@@ -1,0 +1,415 @@
+- code: CCC-WWC-01
+  name: In the Face of Fear
+  description: >-
+    A devout priestess of Torm seeks one of three platinum discs once carried by
+    a trio of Banite fanatics. To retrieve the item, the characters must travel
+    into the rocky, broken lands of Thar and unravel the protective magic left
+    behind by the archmage who originally hid the disc.
+  released: '2018-04-26'
+  url: 'https://www.dmsguild.com/product/240678/CCCWWC01-In-the-Face-of-Fear'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Wand of Magic Missiles
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Courage in the Face of Fear
+      description: >-
+        You displayed tremendous courage while retrieving the Tenet of Fear from
+        its hiding place deep within the wilds of Thar. Malana Homwell has noted
+        your bravery and is impressed by your actions.
+    - name: Inspired by Torm
+      description: |-
+        Priestess Malana Homwell is always on the lookout for those who exhibit
+        the qualities of Torm. Your extraordinary virtuousness has caught her
+        eye, and she offers to teach you the beliefs of Torm. You may spend **5
+        downtime days** to study at the Helping Hand temple. When your
+        instruction ends, you earn the Inspired by Torm story award.
+
+        The teachings of Torm have shown you a better way to live your life.
+        While you may not worship the deity directly, you have come to appreciate
+        Torm’s commitment to duty, loyalty, and courage, and you do your best to
+        incorporate these qualities into you own life. While this story award may
+        have benefits in future adventures involving the Tenets of Bane, it is
+        intended primarily for roleplaying purposes.
+      type: downtime
+  missing:
+    - credits
+
+
+- code: CCC-WWC-02
+  name: Dark Waters of Hate
+  description: >-
+    A devout priestess of Torm seeks one of three platinum discs once carried by
+    a trio of Banite fanatics. To retrieve the item, the characters must sail
+    the Moonsea, journey to its depths, and unravel the protective magic left
+    behind by the archmage who originally hid the disc.
+  released: '2018-04-26'
+  url: 'https://www.dmsguild.com/product/240679/CCCWWC02-Dark-Waters-of-Hate'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Trident of Fish Command
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Potion of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Inspired by Torm
+      description: |-
+        Priestess Malana Homwell is always on the lookout for those who exhibit
+        the qualities of Torm. Your extraordinary virtuousness has caught her
+        eye, and she offers to teach you the beliefs of Torm. You may spend **5
+        downtime days** to study at the Helping Hand temple. When your
+        instruction ends, you earn the Inspired by Torm story award.
+
+        The teachings of Torm have shown you a better way to live your life.
+        While you may not worship the deity directly, you have come to appreciate
+        Torm’s commitment to duty, loyalty, and courage, and you do your best to
+        incorporate these qualities into you own life. While this story award may
+        have benefits in future adventures involving the Tenets of Bane, it is
+        intended primarily for roleplaying purposes.
+      type: downtime
+    - name: Mercy for the Merfolk King
+      description: >-
+        You displayed kindness by helping King Garnon’s spirit find eternal
+        rest. Malana Homwell has noted your compassion and is impressed by your
+        actions.
+  missing:
+    - credits
+
+
+- code: CCC-WWC-03
+  name: Tyrant of the Forgotten Forge
+  description: >-
+    A devout priestess of Torm seeks one of three platinum discs once carried by
+    a trio of Banite fanatics. To retrieve the item, the characters must delve
+    an abandoned dwarven mine and unravel the protective magic left behind by
+    the archmage who originally hid the disc.
+  released: '2018-04-26'
+  url: 'https://www.dmsguild.com/product/240680/CCCWWC03-Tyrant-of-the-Forgotten-Forge'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Bag of Holding
+      rarity: uncommon
+  storyAwards:
+    - name: Inspired by Torm
+      description: |-
+        Priestess Malana Homwell is always on the lookout for those who exhibit
+        the qualities of Torm. Your extraordinary virtuousness has caught her
+        eye, and she offers to teach you the beliefs of Torm. You may spend **5
+        downtime days** to study at the Helping Hand temple. When your
+        instruction ends, you earn the Inspired by Torm story award.
+  
+        The teachings of Torm have shown you a better way to live your life.
+        While you may not worship the deity directly, you have come to appreciate
+        Torm’s commitment to duty, loyalty, and courage, and you do your best to
+        incorporate these qualities into you own life. While this story award may
+        have benefits in future adventures involving the Tenets of Bane, it is
+        intended primarily for roleplaying purposes.
+      type: downtime
+    - name: Worthy Sacrifice
+      description: >-
+        You willingly sacrificed yourself to achieve your goal and protect your
+        companions. Malana Homwell has learned of your deed and is impressed by
+        your actions.
+  missing:
+    - credits
+
+
+- code: CCC-WWC-04
+  name: The Black Hand
+  description: >-
+    A priestess of Torm needs adventurers to travel to Thentia with three
+    platinum discs that once belonged to a trio of Banite fanatics. From there,
+    the items are bound for Elturgard, where they can finally be destroyed. It
+    seems like a simple task, but followers of Bane also seek the discs. Can you
+    see your cargo safely to its destination and rid the Moonsea of its ill
+    influence, or will Bane’s followers successfully reclaim what they believe
+    is their rightful property?
+  released: '2018-04-26'
+  url: 'https://www.dmsguild.com/product/240681/CCCWWC04-The-Black-Hand'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Cloak of Protection
+      rarity: uncommon
+    - name: Potion of Giant Strength (Hill)
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+  missing:
+    - credits
+
+
+- code: CCC-WWC-05
+  name: Tyrant of Orcs
+  description: >-
+    The attempted destruction of three platinum discs called the Tenets of Bane
+    has gone awry, releasing the souls of their former owners back into the
+    world of the living. Priestess Malana Homwell once again calls for aid from
+    the Moonsea’s factions to track down and eliminate these vile Banites, who
+    call themselves the Servants of Strife. Can you locate the blackguard Mace
+    Dred and stop him before he causes even more death and destruction?
+  released: '2019-12-17'
+  url: 'https://www.dmsguild.com/product/298149/CCCWWC05-Tyrant-of-Orcs'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Ring of Warmth
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Torm’s Honor
+      description: >-
+        You fought with honor and defeated the orc leader, Mace the Dreadful,
+        sparing his life. In addition, you managed to retrieve the Tenet of
+        Tyranny and deliver it to Malana Homwell. The priestess is impressed by
+        your dedication to Torm’s ways.
+    - name: Touched by Torm
+      description: |-
+        Your dedication to Torm’s ways has impressed Malana Homwell and others
+        in the church of Torm. As a result, you are invited for an intense
+        period of study, prayer, and reflection at the Temple of Torm’s Coming
+        in Tantras. If you choose to attend, you emerged with a deep connection
+        to Torm and his beliefs. You feel as though the deity has touched your
+        very being, but what this means for your future is still unclear.
+
+        **Important:** This story award is only available to characters with
+        the *Torm’s Honor*, *Torm’s Compassion*, *Torm’s Duty*, and *Inspired
+        by Torm* story awards. While it may have benefits in future adventures
+        involving the Tenets of Bane, it is intended primarily for roleplaying
+        purposes.
+  missing:
+    - credits
+
+
+- code: CCC-WWC-06
+  name: The Fear of Fiends
+  description: >-
+    The attempted destruction of three platinum discs, called the Tenets of
+    Bane, has gone awry, releasing the souls of their former owners back into
+    the world of the living. Priestess Malana Homwell once again calls for aid
+    from the Moonsea’s factions to track down and eliminate these vile Banites,
+    who call themselves the Servants of Strife. Can you get to Sax Magnus and
+    stop her before she summons a ravening horde?
+  released: '2019-12-17'
+  url: 'https://www.dmsguild.com/product/298151/CCCWWC06-The-Fear-of-Fiends'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Brooch of Shielding
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Feather Fall
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Silence
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Torm’s Compassion
+      description: >-
+        You showed compassion by not sacrificing any humanoids when closing the
+        portal to the Abyss. In addition, you managed to retrieve the Tenet of
+        Fear and deliver it to Malana Homwell. The priestess is impressed by
+        your dedication to Torm’s ways.
+    - name: Touched by Torm
+      description: |-
+        Your dedication to Torm’s ways has impressed Malana Homwell and others
+        in the church of Torm. As a result, you are invited for an intense
+        period of study, prayer, and reflection at the Temple of Torm’s Coming
+        in Tantras. If you choose to attend, you emerged with a deep connection
+        to Torm and his beliefs. You feel as though the deity has touched your
+        very being, but what this means for your future is still unclear.
+
+        **Important:** This story award is only available to characters with
+        the *Torm’s Honor*, *Torm’s Compassion*, *Torm’s Duty*, and *Inspired
+        by Torm* story awards. While it may have benefits in future adventures
+        involving the Tenets of Bane, it is intended primarily for roleplaying
+        purposes.
+  missing:
+    - credits
+
+
+- code: CCC-WWC-07
+  name: The Icy Hand of Hate
+  description: >-
+    The attempted destruction of three platinum discs, called the Tenets of
+    Bane, has gone awry, releasing the souls of their former owners back into
+    the world of the living. Priestess Malana Homwell once again calls for aid
+    from the Moonsea’s factions to track down and eliminate these vile Banites,
+    who call themselves the Servants of Strife. Can you travel to Glister and
+    unravel the mystery of who is trying to turn the town against itself?
+  released: '2019-12-17'
+  url: 'https://www.dmsguild.com/product/298152/CCCWWC07-The-Icy-Hand-of-Hate'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Sentinel Shield
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 3
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Torm’s Duty
+      description: >-
+        You dutifully returned High Cleric Gregon Ord and the Tenet of Hate to
+        Malana Homwell. The priestess is impressed by your dedication to Torm’s
+        ways.
+    - name: Touched by Torm
+      description: |-
+        Your dedication to Torm’s ways has impressed Malana Homwell and others
+        in the church of Torm. As a result, you are invited for an intense
+        period of study, prayer, and reflection at the Temple of Torm’s Coming
+        in Tantras. If you choose to attend, you emerged with a deep connection
+        to Torm and his beliefs. You feel as though the deity has touched your
+        very being, but what this means for your future is still unclear.
+
+        **Important:** This story award is only available to characters with
+        the *Torm’s Honor*, *Torm’s Compassion*, *Torm’s Duty*, and *Inspired
+        by Torm* story awards. While it may have benefits in future adventures
+        involving the Tenets of Bane, it is intended primarily for roleplaying
+        purposes.
+  missing:
+    - credits
+
+
+- code: CCC-WWC-08
+  name: Pool of Annihilation
+  description: >-
+    The platinum discs known as the Tenets of Bane have been reclaimed, and
+    their owners, the Servants of Strife, no longer threaten the Moonsea. As the
+    last days of summer rapidly approach, your faction asks you to meet
+    Priestess Malana Homwell in the city of Thentia, where the lore wizard Rylan
+    Elentaur believes he may have found a way to destroy the discs once and for
+    all.
+  released: '2019-12-17'
+  url: 'https://www.dmsguild.com/product/298153/CCCWWC08-Pool-of-Annihilation'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Gloves of Missile Snaring
+      rarity: uncommon
+    - name: Mystery Key
+      rarity: common
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Raise Dead
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Divine Spark
+      description: >-
+        You slew a manifestation of Bane’s power in a demi-plane created by the
+        deity. When your spirit returned to your physical form, a miniscule
+        portion of deific power went with it. In times of great anger or duress,
+        your eyes now glow with divine radiance. The color of the luminance is
+        up to you.
+    - name: Mark of Bane
+      description: >-
+        You fell in battle while fighting a manifestation of Bane’s power in a
+        demi-plane created by the deity. While your spirit was returned to your
+        physical form unharmed, you now bear the mark of Bane somewhere on your
+        body. The mark is a small black handprint roughly three inches by two
+        inches in size. Whenever you are presented with an opportunity to act in
+        a manner that aligns with Bane’s tenets of fear, hatred, or tyranny, the
+        mark itches and burns. Whether you view this as a sign to fight against
+        Bane’s beliefs or treat it as a call to honor his teachings is up to
+        you.
+  missing:
+    - credits
+
+
+- code: CCC-WWC-09
+  name: Defenders of Est’Ellma
+  description: >-
+    Humanoid refugees have struggled to make Est’ellma a haven for all races.
+    Sudden disappearances have disturbed their sanctuary. Will you go to their
+    aid?
+  released: '2020-04-29'
+  url: 'https://www.dmsguild.com/product/309301/CCCWWC09-Defenders-of-EstEllma'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Decanter of Endless Water
+      rarity: uncommon
+    - name: Potion of Animal Friendship
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Protection from Evil and Good
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-WWC-10
+  name: Brental’s Roads Scholars
+  description: >-
+    Brental’s Caravan Company offers a training course for adventurers seeking
+    the vaunted title Brental’s Roads Scholar. Will you prove yourselves worthy?
+  released: '2020-05-04'
+  url: 'https://www.dmsguild.com/product/309308/CCCWWC10-Brentals-Roads-Scholars'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Immovable Rod
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Alarm
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+

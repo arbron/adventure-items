@@ -1,0 +1,29 @@
+- code: CCC-IFK-01
+  name: Shadow of Greed
+  tier: 2
+  length: 2
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-IFK-02
+  name: Shadow of the Weave
+  tier: 2
+  length: 2
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-IFK-03
+  name: Shadow of the Dusk Queen
+  tier: 2
+  length: 4
+  missing:
+    - credits
+    - items
+    - pdf
+

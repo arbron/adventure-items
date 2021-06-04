@@ -1,0 +1,96 @@
+- code: CCC-LINKS-01
+  name: Champion of the People
+  description: >-
+    A persistent ghost has been spotted in Phlan, flitting from building to
+    building. The residents say that it stands in front of the Laughing Goblin
+    every night, eyes wide and full of terror. If approached, it screams and
+    disappears. In the wake of the town’s re-opening and the retreat of the
+    thick winter fogs, peace must be returned before people leave for good.
+  released: '2017-08-10'
+  url: 'https://www.dmsguild.com/product/218722/CCCLINKS01-Champion-of-the-People'
+  tier: 2
+  length: 4
+  apl: 9
+  items:
+    - name: “Fat” Markoth’s Cummerbund (Belt of Hill Giant Strength)
+      rarity: rare
+    - name: Scroll of Protection (Undead)
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Enmity
+      description: |-
+        You have earned the enmity of an influential person in Phlan. Select
+        from the following list:
+
+        - Calypso
+        - Marigold Butterleaf
+        - Bitter-Blossom
+        - Rooster Cinderelm
+        - Regis Brightgem
+
+        You have disadvantage on social checks with the noted person until you
+        find a way to remove this story award.
+    - name: Friend of Phlan
+      description: >-
+        You have performed a significant service for Phlan—and for Calypso, the
+        new regent. She has marked you as an ally of the guard so long as you
+        openly wear the pendant. This grants you advantage on social and
+        investigation checks made in the presence of the town guard.
+    - name: Reviled in Phlan
+      description: >-
+        If a character is unable or unwilling to pay the fine, Calypso makes it
+        well known that they are not welcome in the city any longer. They must
+        serve 30 days of hard time (downtime days; the character does not have
+        to pay living expenses but can perform no other downtime activities
+        during this time) before they are allowed to enter Phlan again.
+        Furthermore, all social checks with Calypso, residents of Phlan, and
+        city guards in any city in the Moonsea region are made at disadvantage
+        until this story award is removed. Paying the 30 days of hard time does
+        not remove this story award, but it does allow the character to re-enter
+        the town.
+  missing:
+    - credits
+
+
+- code: CCC-LINKS-02
+  name: The Secrets We Keep
+  description: >-
+    As winter releases its grip on the region surrounding the town of Phlan,
+    secrets are revealed within Glumpen Swamp. Strange landscapes and sigils
+    have been found beneath the mud, and the wildlife around the swamp has
+    become greatly agitated. At times a spectral figure can be seen in the
+    distance, only to disappear upon approach. Can you discover what is
+    happening in the muck and gloom?
+  released: '2017-08-13'
+  url: 'https://www.dmsguild.com/product/218925/CCCLINKS02-The-Secrets-We-Keep'
+  tier: 3
+  length: 4
+  apl: 12
+  items:
+    - name: Raptor (Dancing Sword, Rapier)
+      rarity: veryRare
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Dream
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Arcane Aid in Phlan
+      description: >-
+        You have freed Fulton Stormweather, an elf wizard that now resides in
+        Phlan. You can spend two downtime days to travel to him and convince him
+        to cast *legend lore* for you on an object. He can also provide the
+        *identify* spell for free, but only once as his time in the feywild is
+        preventing him from accessing the Weave as he once did.
+    - name: Ire of Bootblack
+      description: >-
+        Bootblack is a powerful fey creature, and has taken notice of your
+        abilities—and your inability to adhere to an agreement.
+  missing:
+    - credits
+

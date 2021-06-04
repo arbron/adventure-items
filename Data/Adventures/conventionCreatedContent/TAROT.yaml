@@ -1,0 +1,635 @@
+- code: CCC-TAROT-01-01
+  name: Awakening of Fates
+  description: >-
+    The food shortages in Thentia have gotten worse. The crops aren’t producing
+    as much, and with the Harvest Festival approaching, the government of
+    Thentia is seeking people to investigate the farmlands to find the cause.
+    Popular belief says that there are monstrous beings rampaging the farms, but
+    other powers are afoot…
+  released: '2018-07-10'
+  url: 'https://www.dmsguild.com/product/246844/CCCTAROT0101-Awakening-of-Fates'
+  tier: 1
+  length: 2
+  apl: 1
+  items:
+    - name: Ordine Sage Robe (Robe of Useful Items)
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+  storyAwards:
+    - name: 'Tarot of Fate (Devil): Inverted'
+      description: >-
+        You have proven to some higher power that you, unlike other mortals, are
+        able to resist temptation. You have earned the blessing of the
+        Ordinances.
+    - name: 'Tarot of Fate (Devil): Upright'
+      description: >-
+        You have proven to some higher power that you, like other mortals, are
+        weak to material temptation. You have earned the unending ire of the
+        Ordinances.
+    - name: Touched by the Fates
+      description: >-
+        Many Powers circle around Thentia, and the Moonsea, searching for lost
+        magical artifacts. For whatever reason, the Fates have chosen you to be
+        involved.
+  missing:
+    - credits
+
+
+- code: CCC-TAROT-01-02
+  name: By the Light of the Moon
+  description: >-
+    Storms batter Thentia and the rains are threatening to wash away what little
+    farm land is available. But these are not the only storms to threaten the
+    peace as various powers wage a quiet struggle around the city. Are you brave
+    enough to become an Agent of the Fates?
+  released: '2018-07-05'
+  url: 'https://www.dmsguild.com/product/246352/CCCTAROT0102-By-the-Light-of-the-Moon'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: 'Shield of the Moon (Shield, +1)'
+      rarity: uncommon
+    - name: Scroll of Protection (Lycanthropes)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Remove Curse
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Cursed by Selune
+      description: >-
+        You’ve taken holy relics from a shrine to Selune and have caught The
+        Lady of Silver’s eye. For the next five (5) days you have the Blinded
+        condition when exposed to sunlight. You can see normally underground or
+        at night. This curse can be removed normally or by spending 5 downtime
+        days to remove it.
+    - name: 'Tarot of Fate (The Moon): Inverted'
+      description: >-
+        You’ve helped Vasyli Berislav reclaim his family honor and gained his
+        favor, but the death of High Priestess Seireri Moongleam has thrown the
+        city of Thentia into a political tailspin.
+    - name: 'Tarot of Fate (The Moon): Upright'
+      description: >-
+        This dark night has seen treachery, deceit, and deception. With the
+        death of High Priestess Seireri Moongleam no one is sure what the city
+        of Thentia will see without it’s Moonlight soul to guide it.
+    - name: Touched by the Fates
+      description: >-
+        Many Powers circle around Thentia, and the Moonsea, searching for lost
+        magical artifacts. For whatever reason, the Fates have chosen you to be
+        involved.
+  missing:
+    - credits
+
+
+- code: CCC-TAROT-01-03
+  name: A Martyred Heart
+  description: >-
+    As Thentia’s lighthouse grows dim so too does faith within the city. In the
+    midst of this a priest of Ilmater has been accused of a heinous crime. But
+    is this really the truth of the matter, or are we all just Agents of Fate?
+  released: '2018-07-07'
+  url: 'https://www.dmsguild.com/product/246073/CCCTAROT0103-A-Martyred-Heart'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Ward of the Martyr (Periapt of Health)
+      rarity: uncommon
+  storyAwards:
+    - name: 'Tarot of Fate (The Lovers): Inverted'
+      description: >-
+        You have saved Nestor from execution, but in doing so have ruined his
+        plans. What suffering is Thentia now due?
+    - name: 'Tarot of Fate (The Lovers): Upright'
+      description: >-
+        Your values aligned with those of Nestor’s and allowed him to die in The
+        Bandit King’s place. Hopefully, this will help ensure the city’s future.
+    - name: Touched By Fate
+      description: >-
+        Many Powers circle around Thentia, and the Moonsea searching for lost
+        magical artifacts. For whatever reason, the Fates have chosen you to be
+        involved.
+  missing:
+    - credits
+
+
+- code: CCC-TAROT-01-04
+  name: Tangled Woods
+  description: >-
+    The normally joyous festival of Highharvestide fast approaches the Moonsea
+    but denizens of Thentia are not celebrating. Thanks to recent bad harvests
+    along the River Thent and an increasingly impassible harbor, famine looms.
+    Survival may depend on the arrival of every single larder-laden wagon. Could
+    more trouble than bandits stand between the farmers and the walls of Thentia
+    this season?
+  released: '2018-08-20'
+  url: 'https://www.dmsguild.com/product/250268/CCCTAROT0104-Tangled-Woods'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Torag’s Hammer (Warhammer, +1)
+      rarity: uncommon
+    - name: Elixir of Health
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Madness Grows
+      description: >-
+        You discovered an unusual fungal growth on the dryad Nettelia that drove
+        the fey mad. Because of your close interaction with the disease, you
+        have advantage on future Wisdom (Medicine) checks to identify the
+        disease in other Tarot series modules.
+    - name: 'Tarot of Fate (The Empress): Inverted'
+      description: >-
+        Stoked by a mad dryad, Danyel puts memories of love before duty. You are
+        unable to prevent the deaths of people critical to Summer’s Lily’s
+        success. The farmers and devotees of Chauntea abandon the farm. Kielo
+        returns with Arno to Goldenfields and vows never to return. With one
+        less Patja calling it home, can Thentia survive what is to come?
+    - name: 'Tarot of Fate (The Empress): Upright'
+      description: >-
+        You helped Danyel see the truth about Kielo’s feelings for him and Arno
+        before he could inflict a tragedy. The priests of Chauntea remain to
+        attempt an agricultural miracle in Thar. A Goldenfields on the Moonsea
+        isn’t assured but, with the Great Mother’s help (and a little from you),
+        new fields will be cleared, soil will be tilled, and seeds will be
+        planted in hopes of future abundance for Thentia.
+    - name: Touched by the Fates
+      description: >-
+        Many Powers circle around Thentia and the Moonsea, searching for lost
+        magical artifacts. For whatever reason, the Fates have chosen you to be
+        involved.
+  missing:
+    - credits
+
+
+- code: CCC-TAROT-01-05
+  name: The Lost Apprentice
+  description: >-
+    The Council of Mages has recently sent a young apprentice out to investigate
+    the strange disturbances that have beset Thentia. It has been several weeks
+    and he has not yet reported back. Is he simply late or is there something
+    more sinister afoot?
+  released: '2018-09-07'
+  url: 'https://www.dmsguild.com/product/251826/CCCTarot0105-The-Lost-Apprentice'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Auntie Sue’s Broom (Broom of Flying)
+      rarity: uncommon
+    - name: Hat of Vermin
+      rarity: common
+  storyAwards:
+    - name: 'Tarot of Fate (The Chariot): Inverted'
+      description: >-
+        You completed your mis- sion to return Ash to the Council of Mages. Fate
+        may decree that the delay in dealing with his Aunt may have future
+        consequences. Whether those consequences are good or bad, only Fate
+        truly knows.
+    - name: 'Tarot of Fate (The Chariot): Upright'
+      description: >-
+        You were confident in your decision to go straight to deal with the hag
+        threat, despite being hired to return Ash to Thentia immediately. Fate
+        may disagree, and only time will tell.
+    - name: Touched by Fate
+      description: >-
+        Many Powers circle around Thentia, and the Moonsea, searching for lost
+        magical artifacts. For whatever reason, the Fates have chosen you to be
+        involved.
+  missing:
+    - credits
+
+
+- code: CCC-TAROT-01-06
+  name: Lies in the Moonlight
+  description: >-
+    Love, loss, and lies intertwine as the election of a new WatchLord
+    approaches in Thentia. Political intrigue runs rampant and the lives of
+    several young women are in danger as the Fates draw you in once again.
+  released: '2018-08-19'
+  url: 'https://www.dmsguild.com/product/251831/CCCTAROT0106-Lies-in-the-Moonlight'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Instrument of Illusions
+      rarity: common
+    - name: Moon Strike (Shortbow, +1)
+      rarity: uncommon
+    - name: Silvered Scimitar
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: 'Tarot of Fate (Death): Inverted'
+      description: >-
+        Against her wishes, you have intervened in Kaireri Moongleam’s life.
+        Whether this will help or hinder Thentia in the troubles that the Fates
+        have placed against the city, only time will tell.
+    - name: 'Tarot of Fate (Death): Upright'
+      description: >-
+        Life has changed in many ways for Kaireri Moongleam. How these changes
+        will Thentia in the troubled times ahead is unknown.
+  missing:
+    - credits
+
+
+- code: CCC-TAROT-01-07
+  name: The Seat of the Ruler
+  description: >-
+    Election time in Thentia is here! With the recent, strange events
+    surrounding Thentia, there is a tense contest for the seat of Watchlord of
+    Thentia. The town has divided itself into factions supporting their
+    candidates, and with that, the people ahve been very hostile to each other.
+    On election day, certain key figureheads in the town need to vote, but might
+    need some help getting there…
+  released: '2018-09-07'
+  url: 'https://www.dmsguild.com/product/251835/CCCTAROT0107-The-Seat-of-the-Ruler'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Amarantha’s Heart (Dark Shard Amulet)
+      rarity: common
+    - name: Thenturian Circlet (Circlet of Blasting)
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Mirror Image
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: 'Tarot of Fate (The Emperor): Inverted'
+      description: >-
+        You have unfortunately let some people in Thentia die during the course
+        of the voting day preparations due to your action, inadvertent or not,
+        and failed to keep the law of the land. Although you tried your best,
+        the agents of chaos have spread their fingers a little further…
+    - name: 'Tarot of Fate (The Emperor): Upright'
+      description: >-
+        You have followed the expectations and order of things - by protecting
+        all of the voters, candidates, and people of Thentia, you have proven
+        that you are able to maintain the law of the land. Law and Order
+        prevail…
+    - name: Touched by the Fates
+      description: >-
+        Many Powers circle around Thentia, and the Moonsea, searching for the
+        lost magical artifacts. For whatever reason, the Fates have chosen you
+        to be involved.
+  missing:
+    - credits
+
+
+- code: CCC-TAROT-02-01
+  name: A Sunk Cost
+  description: >-
+    With the election of a new Watchlord, Thentia’s will has been made clear:
+    the infected must be kept from the healthy. Great walls now cut off the
+    Harbor District from the rest of Thentia where the Watchlord promises the
+    ill are being taken care of, but how do they really live?
+  released: '2019-04-18'
+  url: 'https://www.dmsguild.com/product/273101/CCCTAROT0201-A-Sunk-Cost'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: The Plague Fly (Figurine of Wondrous Power, Ebony Fly)
+      rarity: rare
+  storyAwards:
+    - name: Sweet and Stupid
+      description: >-
+        This foxhound has taken a liking to you and follows you around. She has
+        a few obvious signs of her time on the streets, but otherwise looks to
+        be of good breeding.
+      type: pet
+    - name: 'Tarot of Fate (The Tower): Inverted'
+      description: >-
+        You either failed to deliver the wagon of coin to Widar Patja or took
+        shortcuts along the way. Widar’s dreams will not be fulfilled, for good
+        or ill.
+    - name: 'Tarot of Fate (The Tower): Upright'
+      description: >-
+        You delivered the wagon of coin to Widar Patja in the proscribed manner.
+        In the coming months the city will see significant changes at his hand.
+  missing:
+    - credits
+  
+  
+- code: CCC-TAROT-02-02
+  name: Guardian’s Scourge
+  description: >-
+    Nearly 700 years old, it has outlasted Zhentil Keep and withstood Thar’s
+    hordes. Now a new invader threatens to destroy Thentia. The Watchlord
+    struggles to contain the infected while the city’s mages race to unravel the
+    enigmas of this disease. Will the Moonsea soon add another ruin to its vast
+    collection?
+  released: '2020-03-01'
+  url: 'https://www.dmsguild.com/product/293956/CCCTAROT0202-Guardians-Scourge'
+  tier: 2
+  length: 2
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-TAROT-02-03
+  name: To Boldly Go
+  description: >-
+    A strange visitor has arrived in Thentia. Both the Council of Mages and
+    Merchants are interested in speaking with him as things in Thentia have been
+    a bit gloom. Once his business is concluded in town he’ll need an escort
+    back home to the…Feywild.
+  released: '2019-03-01'
+  url: 'https://www.dmsguild.com/product/267942/CCCTarot0203-To-Boldly-Go'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Auntie Helena’s Wand (Wand of Paralysis)
+      rarity: rare
+    - name: Spell Scroll of Blight
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: 'Tarot of Fate (The Magician): Inverted'
+      description: >-
+        You thought it best to listen to Karasht and head to where the spores
+        were most concentrated. Believing that you can overcome anything, you
+        made a decision without hesitation.
+    - name: 'Tarot of Fate (The Magician): Upright'
+      description: >-
+        You listened to Widar’s plea and decided to investigate Summer’s Lilly.
+        No doubt your skills will be needed in the future to help with what you
+        saw.
+    - name: Touched by Fate
+      description: >-
+        Many Powers circle around Thentia, and the Moonsea searching for lost
+        magical artifacts. For whatever reason, the Fates have chosen you to be
+        involved.
+  missing:
+    - credits
+
+
+- code: CCC-TAROT-02-04
+  name: Moonlit Waves, Part 1
+  description: >-
+    The havoc caused by the emergence of the Tarot Cards is not limited just to
+    the lands of Thentia. Many trading vessels lie at the bottom of the harbor,
+    sunk by unknown causes. Today, another attempt is made to raise one of those
+    sunken ships.
+  released: '2019-07-11'
+  url: 'https://www.dmsguild.com/product/281792/CCCTAROT0204-Moonlit-Waves-Part-1'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Folding Boat
+      rarity: rare
+    - name: Potion of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Saved by Muma
+      description: >-
+        You contested with the Ghost of Seireri Moongleam in an attempt to free
+        her soul but were found wanting. If it were not for Muma’s freshly baked
+        cookies you may still be locked in that Lantern.
+    - name: 'Tarot of Fate (The Star): Inverted'
+      description: >-
+        You’ve retrieved the ghost of Seireri Moongleam from its banishment.
+        Muma is working to release her soul so Seireri can once again protect
+        her city.
+    - name: 'Tarot of Fate (The Star): Upright'
+      description: >-
+        The ghost of Seireri Moongleam has been lost once again and the Fate of
+        Thentia has become a bit more clouded.
+  missing:
+    - credits
+
+
+- code: CCC-TAROT-02-05
+  name: Hollow Hopes
+  description: >-
+    The number of infected have grown. The quarantine is filling with people.
+    One of the former Watchlord candidates, Edea Valkrana, has contacted you
+    asking for help. Discreetly. Rumors of a cure are rampant—saying there is a
+    mysterious figure hiding somewhere in Thentia near the wall. Is it real?
+    Only one way to find out…
+  released: '2019-07-05'
+  url: 'https://www.dmsguild.com/product/281715/CCCTAROT0205-Hollow-Hopes'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: The Auftrag’s Buskins (Winged Boots)
+      rarity: uncommon
+  storyAwards:
+    - name: 'Tarot of Fate (Justice): Inverted'
+      description: >-
+        By letting Amy stay in the city while infected, whether you protected
+        her or let her escape, it ended up leading to multiple others being
+        infected as well by the Wood Woad Plague, thus furthering the plots of
+        the Cult of Ordinances. Because of this, you may gain their blessing in
+        a future adventure.
+    - name: 'Tarot of Fate (Justice): Upright'
+      description: >-
+        By helping the quarantine officers move the infected into the quarantine
+        zone, you have foiled the plot of the Cult of the Ordinances. Because of
+        this, you may suffer their ire in a future adventure.
+  missing:
+    - credits
+
+
+- code: CCC-TAROT-02-06
+  name: The Hand That Wields
+  description: >-
+    The Council of Mages is under attack! Karasht Silverflame blames his
+    murdered apprentices on the revival of a strange, almost forgotten local
+    cult. He wants you to capture their leader and end the killing spree. But
+    can his stories about a flying sword that slays on its own possibly be true?
+  released: '2018-08-19'
+  url: 'https://www.dmsguild.com/product/246698/CCCTAROT0206-The-Hand-That-Wields'
+  tier: 2
+  length: 2-4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-TAROT-02-07
+  name: Moonlit Waves, Part 2
+  description: >-
+    Seireri has been saved! Well, sort of. Her body is still missing and is
+    required to return her from the dead. Where is it and who guards it? Only
+    the Fates know!
+  released: '2020-04-20'
+  url: 'https://www.dmsguild.com/product/308588/CCCTAROT0207-Moonlit-Waves-Part-2-v1'
+  tier: 2
+  length: 2
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-TAROT-02-08
+  name: Winding Road to Freedom
+  description: >-
+    A small community has arisen among the asymptomatic inhabitants of the
+    Forbidden Zone which has brought much needed stability to the area. However,
+    that peace is being threatened by a raving religious zealot. Can the two
+    sides find common ground, or is the Forbidden Zone destined to erupt in
+    barbarity once more?
+  released: '2020-04-20'
+  url: 'https://www.dmsguild.com/product/308590/CCCTAROT0208-Winding-Road-to-Freedom'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Mantle of Freedom (Cloak of Billowing)
+      rarity: common
+    - name: Trident of Fish Command
+      rarity: uncommon
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: 'Tarot of Fate (The Hierophant): Inverted'
+      description: >-
+        You freed the Collective from their empathic bond. There will be
+        increasing strife among the community in the near future, but it will be
+        freely chosen strife.
+    - name: 'Tarot of Fate (The Hierophant): Upright'
+      description: >-
+        You did not remove the empathic link binding the Collective together.
+        They will continue to a harmonious unit, even during the dark days to
+        come.
+  missing:
+    - credits
+
+
+- code: CCC-TAROT-02-09
+  name: The Thentia Job
+  description: >-
+    Deep in Karasht Silverflame’s vault is an item that can control the infected
+    Thentia citizens. Is he storing it for safekeeping or does he have sinister
+    plans? The Selunites have tasked you with retrieving the item and finding
+    out Karasht’s plans.
+  released: '2020-04-20'
+  url: 'https://www.dmsguild.com/product/301715/CCCTarot0209-The-Thentia-Job'
+  tier: 2
+  length: 2-4
+  apl: 8
+  spellbooks:
+    - name: Karasht’s Spellbook
+      spells:
+        - name: expeditious retreat
+          level: 1
+        - name: feather fall
+          level: 1
+        - name: jump
+          level: 1
+        - name: longstrider
+          level: 1
+        - name: alter self
+          level: 2
+        - name: rope trick
+          level: 2
+        - name: spider climb
+          level: 2
+        - name: blink
+          level: 3
+        - name: fly
+          level: 3
+        - name: haste
+          level: 3
+        - name: fabricate
+          level: 4
+        - name: polymorph
+          level: 4
+        - name: stoneshape
+          level: 4
+        - name: animate object
+          level: 5
+        - name: passwall
+          level: 5
+        - name: telekinesis
+          level: 5
+  storyAwards:
+    - name: 'Tarot of Fate (Strength): Inverted'
+      description: >-
+        You retrieved the Woad heart from the Vault but did not hand it over to
+        Kialila. Who knows what will become of the infected populace.
+    - name: 'Tarot of Fate (Strength): Upright'
+      description: >-
+        You retrieved the Woad heart from the Vault and handed it over to
+        Kialila. No doubt that the infected of Thentia are that much closer to a
+        cure.
+  missing:
+    - credits
+
+
+- code: CCC-TAROT-02-10
+  name: Facades Undone
+  description: >-
+    In Thentia, the illness seems to have subsided, and there is rioting demand
+    for the walls to come down. However, something lurks in the wall that is a
+    threat to the citizens. See where allegiances lie and find the hidden
+    machinations for those interested in the power of Fate.
+  released: '2020-08-03'
+  url: 'https://www.dmsguild.com/product/321118/CCCTAROT0210-Facades-Undone'
+  tier: 2
+  length: 4-6
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-TAROT-S1-01
+  name: A Long Night
+  description: >-
+    This is a simple caravan job—deliver the mysterious box to Thentia. Just one
+    thing—don’t open the box. And protect it from all attacks.
+  released: '2020-05-04'
+  url: 'https://www.dmsguild.com/product/308752/CCCTAROTS101-A-Long-Night'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Immovable Rod
+      rarity: uncommon
+    - name: Potion of Fire Breath
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Scorching Ray
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits

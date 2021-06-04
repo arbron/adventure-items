@@ -526,6 +526,58 @@
       position: 3
 
 
+- slug: song-of-fates
+  name: Song of Fates
+  adventures:
+    - code: CCC-TAROT-01-01
+      position: 1
+    - code: CCC-TAROT-01-02
+      position: 2
+    - code: CCC-TAROT-01-03
+      position: 3
+    - code: CCC-TAROT-01-04
+      position: 4
+    - code: CCC-TAROT-01-05
+      position: 5
+    - code: CCC-TAROT-01-06
+      position: 6
+    - code: CCC-TAROT-01-07
+      position: 7
+    - code: CCC-TAROT-S1-01
+    - code: CCC-TAROT-02-01
+      position: 8
+    - code: CCC-TAROT-02-02
+      position: 9
+    - code: CCC-TAROT-02-03
+      position: 10
+    - code: CCC-TAROT-02-04
+      position: 11
+    - code: CCC-TAROT-02-05
+      position: 12
+    - code: CCC-TAROT-02-06
+      position: 13
+    - code: CCC-TAROT-02-07
+      position: 14
+    - code: CCC-TAROT-02-08
+      position: 15
+    - code: CCC-TAROT-02-09
+      position: 16
+    - code: CCC-TAROT-02-10
+      position: 17
+
+
+- slug: song-of-maos
+  name: Song of Maos
+  type: trilogy
+  adventures:
+    - code: CCC-HATMS-01-01
+      position: 1
+    - code: CCC-HATMS-01-02
+      position: 2
+    - code: CCC-HATMS-01-03
+      position: 3
+
+
 - slug: sovereignty
   name: Sovereignty
   type: trilogy
@@ -567,6 +619,27 @@
       position: 2
     - code: CCC-BMG MOON7-3
       position: 3
+
+
+- slug: tenets-of-bane
+  name: Tenets of Bane
+  adventures:
+    - code: CCC-WWC-01
+      position: 1
+    - code: CCC-WWC-02
+      position: 2
+    - code: CCC-WWC-03
+      position: 3
+    - code: CCC-WWC-04
+      position: 4
+    - code: CCC-WWC-05
+      position: 5
+    - code: CCC-WWC-06
+      position: 6
+    - code: CCC-WWC-07
+      position: 7
+    - code: CCC-WWC-08
+      position: 8
 
 
 - slug: terror-from-the-deep

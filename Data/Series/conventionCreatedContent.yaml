@@ -184,6 +184,18 @@
       position: 4
 
 
+- slug: the-dreamers
+  name: The Dreamers
+  includesArticle: true
+  adventures:
+    - code: CCC-MIND-01
+      position: 1
+    - code: CCC-MIND-02
+      position: 2
+    - code: CCC-MIND-03
+      position: 3
+
+
 - slug: earthmothers-eye
   name: Earthmother’s Eye
   type: trilogy
@@ -672,6 +684,17 @@
     - code: CCC-BMG MOON5-2
       position: 2
     - code: CCC-BMG MOON5-3
+      position: 3
+
+
+- slug: a-twisted-harvest
+  name: A Twisted Harvest
+  adventures:
+    - code: CCC-MALTH-01
+      position: 1
+    - code: CCC-MALTH-02
+      position: 2
+    - code: CCC-MALTH-03
       position: 3
 
 

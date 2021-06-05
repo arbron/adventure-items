@@ -1,0 +1,83 @@
+- code: CCC-MALTH-01
+  name: Selûne’s Tear
+  description: >-
+    The town of Elmwood is being ravaged by a devastating plague. The town’s
+    Constable pleads for help in finding the cause and a cure from any
+    adventurers brave enough, or reckless enough to risk infection.
+  released: '2019-12-16'
+  url: 'https://www.dmsguild.com/product/297167/Selunes-Tear'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Lantern of Revealing
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: We are Indebted to You
+      description: >-
+        You discovered the cause of the plague and a cure. The Constable awards
+        each member of the party a scroll granting him or her free room and
+        board in any Elmwood establishment.
+  missing:
+    - credits
+
+
+- code: CCC-MALTH-02
+  name: The Jackal’s Justice
+  description: >-
+    The town of Elmwood has seen its share of tragedy, and somehow, things keep
+    getting worse. While the town recovers from a devastating plague, the
+    constable informs adventurers that the bodies of the dead have been
+    disappearing. She believes the disappearances may be tied to a young woman
+    known as the Jackal. If the Jackal is behind the disappearances, what does
+    she want with Elmwood’s dead? The constable tasks adventurers with finding
+    an answer to this question, and if necessary, with stopping the Jackal.
+  released: '2019-12-16'
+  url: 'https://www.dmsguild.com/product/297173/The-Jackals-Justice'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Instrument of the Bards (Doss Lute)
+      rarity: uncommon
+  storyAwards:
+    - name: The Jackal’s Enmity
+      description: >-
+        You defeated The Jackal and her undead army, and forced her to abandon
+        her lair. She does not suffer the humiliation well, and considers the
+        adventurers enemies during all future meetings. Any character receiving
+        this story award has disadvantage on all Charisma checks against The
+        Jackal.
+  missing:
+    - credits
+
+
+- code: CCC-MALTH-03
+  name: Fire’s Demise
+  description: >-
+    The Cult of the Eternal Flame is planning to detonate another devastation
+    orb in the town of Elmwood. Can a party of adventurers find their stronghold
+    in the Flooded Forest and stop them before Elmwood becomes a town populated
+    solely by the dead?
+  released: '2019-12-16'
+  url: 'https://www.dmsguild.com/product/297176/Fires-Demise'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Necklace of Fireballs
+      rarity: rare
+  storyAwards:
+    - name: Protector of the People
+      description: >-
+        You stopped the Cult of the Eternal Flame from destroying Elmwood. The
+        citizens show their overwhelming gratitude by bestowing a silver medal
+        bearing Elmwood’s crest, a phoenix rising from the ashes, on each party
+        member. The medal proclaims the wearer is a **Protector of the People**.
+  missing:
+    - credits
+

@@ -1,0 +1,93 @@
+- code: CCC-MACE-01
+  name: The Blight of Geoffrey
+  description: >-
+    Lord Geoffrey of the Smiths’ holdings has been struck by misfortune. He
+    seeks adventurers to resolve issues at one of his farms, in his iron mine,
+    and at his beloved inn. Can the party help Geoffrey and prevent him from
+    losing his seat on the Merchant Council of Hulburg?
+  released: '2018-04-04'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/238812/CCCMACE0101-The-Blight-of-Geoffrey'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Pipes of Haunting
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-MACE-02
+  name: A Panther’s Peril
+  description: >-
+    Lord Geoffrey of the Smiths has learned that a former comrade and fellow
+    adventurer has taken his family heirloom and believes that this is the
+    reason for his recent string of misfortune. He seeks adventurers to track
+    down the Winged Panther and recover what was lost in order to break his
+    supposed curse. Can the party track down this elusive thief and convince her
+    return that which was taken?
+  released: '2018-04-04'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/238814/CCCMACE0102-A-Panthers-Peril'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Javelin of Lightning
+      rarity: uncommon
+    - name: Potion of Giant Strength (Hill)
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Poison
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-MACE-03
+  name: Haunted Memories
+  description: >-
+    The search for Geoffrey’s family mace leads you to a meeting with a famous
+    thief. In exchange for the information, she asks you to find a painting
+    called Dawnsight. An easy task if you can withstand the haunted memories
+    surrounding the painting.
+  released: '2018-06-18'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/244858/CCCMACE0103-Haunted-Memories'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Longsword of Vengeance
+      rarity: uncommon
+    - name: Antitoxin (vial)
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Cure Wounds
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Heroism
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Art Curator
+      description: >-
+        You have taken the Dawnsight as you did not return to the Winged Panther
+        on time. In several days you go to look at the painting and it is
+        missing. A note remains where the painting was. It reads: *“Thank you so
+        much for helping my family. Sadly I really need this painting more than
+        you. Safe travels dear friend. -P”*
+  missing:
+    - credits
+

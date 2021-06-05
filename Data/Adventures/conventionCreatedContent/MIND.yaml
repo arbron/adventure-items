@@ -1,0 +1,86 @@
+- code: CCC-MIND-01
+  name: Lost in Thought
+  description: >-
+    With the liberation of Phlan, refugees from the city have been invited back
+    to start their lives anew. But trouble strikes when one family of refugees
+    goes missing while on the road to Phlan. The new Chancellor seeks answers.
+    Will the adventurers find out what happened to the missing refugees or will
+    they be lost forever?
+  released: '2018-07-04'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/246253/CCCMIND0101-Lost-in-Thought'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Crystal Ball
+      rarity: veryRare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Resurrection
+      rarity: veryRare
+      consumable: true
+      count: 1
+
+
+- code: CCC-MIND-02
+  name: Mind Trip
+  description: >-
+    Phlan’s refugees are being assaulted on the road and taken into the
+    Underdark to become illithid thralls. Can the characters save some of the
+    travelers and uncover the mastermind of this evil operation? Only a delve
+    into the Underdark will tell.
+  released: '2018-07-06'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/246478/CCCMIND0102-Mind-Trip'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Ring of Regeneration
+      rarity: veryRare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 2
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-MIND-03
+  name: Dream Walkers
+  description: >-
+    The characters reach the lair of an elder brain and must make their way
+    through its minions to recover the refugees. May be able to get most the
+    refugees out without facing the elder brain. But leaving the menace alive
+    may have consequences too dire to ignore.
+  released: '2018-07-06'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/246480/CCCMIND0103-Dream-Walkers'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Wand of the War Mage, +3
+      rarity: veryRare
+    - name: Spell Scroll of Mass Suggestion
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Power Word Pain
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Symbol
+      rarity: veryRare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+

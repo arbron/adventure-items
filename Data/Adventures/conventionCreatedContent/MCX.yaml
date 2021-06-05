@@ -1,0 +1,40 @@
+- code: CCC-MCX-01
+  name: All in a Day’s Work
+  description: >-
+    The Mordell family has been on the decline for years. The family has reached
+    out to their contacts one last time for help ridding the family of a
+    generational curse. This is an adventure with four story arcs through a
+    single dungeon.
+  released: '2018-10-28'
+  url: 'https://www.dmsguild.com/product/257386/CCCMCX01-All-in-a-Days-Work'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Circlet of Blasting
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+  missing:
+    - credits
+
+
+- code: CCC-MCX-01-02
+  name: The Rescue
+  description: >-
+    There are times when someone is called to the adventuring life and then
+    there are times when someone tries to force the adventuring life. This is a
+    case of the former helping the latter.
+  released: '2018-11-20'
+  url: 'https://www.dmsguild.com/product/259240/MCX0102-The-Rescue'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Cloak of Billowing
+      rarity: common
+  missing:
+    - credits
+

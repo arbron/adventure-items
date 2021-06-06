@@ -1,0 +1,36 @@
+- code: CCC-PDXAGE-01-01
+  name: The White Well
+  description: >-
+    The Gommurg Clan rarely deal with outsiders. These hill dwarves have
+    isolated themselves for centuries to work on their craft and guard an
+    ancient and sinister structure. Unfortunately, the world around them does
+    not rest easy. An exile of the clan has inadvertently brought terrible woes
+    to his ancestral home, and now he frantically seeks help to save his people.
+  released: '2017-06-17'
+  url: 'https://www.dmsguild.com/product/214453/CCCPDXAGE0101-The-White-Well'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-PDXAGE-02-01
+  name: The Dark Hunt
+  description: >-
+    The village near Oreclasp Keep has been reporting brutal owlbear attacks
+    that have left people missing or dismembered. Lord Oreclasp has placed a
+    bounty for every owlbear beak brought to Oreclasp Keep. The villagers don’t
+    suspect the deeper problems brewing in the hunting preserve.
+  released: '2017-06-17'
+  url: 'https://www.dmsguild.com/product/214451/CCCPDXAGE0201-The-Dark-Hunt'
+  tier: 2
+  length: 2
+  apl: 6
+  missing:
+    - credits
+    - items
+    - pdf
+

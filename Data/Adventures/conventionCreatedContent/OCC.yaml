@@ -1,0 +1,62 @@
+- code: CCC-OCC-01
+  name: 'Red War: Housekeeping'
+  description: >-
+    The dawn of the final day arrives: The Red War looms on the horizon, and
+    nothing can stop what is to come. But in those early hours before carnage
+    begins, a group of adventurers are tasked with a covert operation to remove
+    sensitive information left behind by the factions and sow subterfuge. Will
+    internal and external influences keep them from completing their missions?
+  released: '2018-10-12'
+  url: 'https://www.dmsguild.com/product/254694/CCCOCC01-Red-War-Housekeeping'
+  tier: 3
+  length: 4-6
+  apl: 13
+  items:
+    - name: Syranna’s Folly (Oathbow)
+      rarity: veryRare
+    - name: Oil of Sharpness
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Contingency
+      rarity: veryRare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Our Strength is Absolute
+      description: |-
+        The Hightower family has recognized your deeds and your aid to one of
+        their own and have bestowed upon you a signet ring marking you as an
+        ally.
+
+        While this will have little bearing on most encounters, having such an
+        item on hand might prove useful in future encounters with Lords’
+        Alliance agent who know the family, and the Hightower’s themselves.
+  missing:
+    - credits
+
+
+- code: CCC-OCC-02
+  name: Feast of the Moon
+  description: >-
+    Festivals galore line the streets, parks, and courtyards of Thentia. It is
+    the Feast of the Moon, and all are gathered to remember loved ones and
+    friends that have departed this world, and to pay homage to their ancestors.
+    At a celebration in the Brambles, followers of Kelemvor host a stage where
+    revelers tell tales of heroic deeds of their lineage. When one tall tale
+    gets out of hand, the city itself may pay the price.
+  released: '2019-02-05'
+  url: 'https://www.dmsguild.com/product/265961/CCCOCC02-Feast-of-the-Moon'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Dread Helm
+      rarity: common
+  missing:
+    - credits
+

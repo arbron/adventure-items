@@ -1,0 +1,148 @@
+- code: CCC-MMT-01-01
+  name: Secrets of Imaginary Friends
+  description: >-
+    The Moonsea Children’s Hospital is now open, and a small town has sprung up
+    around Elua’s Lighthouse. The townsfolk share stories about strange
+    occurrences in the area that they attribute to the fiendish creatures that
+    escaped during the hospital’s benefit gala. Possibly it is all just rumors,
+    but a peculiar and lonely child at the hospital may hold the answers.
+  released: '2019-06-07'
+  creator: Monkey Mind Tales
+  url: 'https://www.dmsguild.com/product/279110/CCCMMT-0101-Secrets-of-Imaginary-Friends'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Helm of Comprehending Languages
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Absorb Elements
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Madness of Tharizdun
+      description: |-
+        The Chained God, Tharizdun, has briefly touched your mind. Seemingly at
+        random you have nightmares of a black Obex (an inverted, two-tiered
+        ziggurat) that shakes violently as though something is trapped inside
+        and wants to get out.
+
+        This award could come back to haunt you in further *Elua’s Lighthouse*
+        adventures.
+    - name: Not So Imaginary Friend
+      description: >-
+        You have saved the boy from a horrible fate. With his imaginary friend
+        defeated, the other children are now more accepting of him. The children
+        love to hear your tales of daring and bravery. You are always welcome to
+        stay at the Moonsea Children’s Hospital.
+  missing:
+    - credits
+
+
+- code: CCC-MMT-01-02
+  name: A Little Competition Never Hurt Anyone
+  description: >-
+    The festival of Greengrass is fast approaching, and a scavenger hunt has
+    been scheduled to take place that day in the town of Lighthouse, organized
+    by a noble in nearby Hillsfar. Something more seems to be going on here
+    though. Between a missing aide and overly competitive rival teams, this
+    doesn’t seem to be your standard entertainment. But it’s only a game. Or is
+    it?
+  released: '2019-11-22'
+  creator: Monkey Mind Tales
+  url: 'https://www.dmsguild.com/product/294627/CCCMMT-0102-A-Little-Competition-Never-Hurt-Anyone'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-MMT-01-03
+  name: Honorable Dissent
+  description: >-
+    The Red War rages after the fall of Mulmaster. Refugees from Mulmaster are
+    steadily spreading across the region, looking for a new beginning. In the
+    chaos of the evacuation, however, a boy is found along the road. As the dust
+    settles, it comes to light that the child’s father is a quartermaster with
+    the Thayan army. Fearing repercussion for the Mulmaster refugees, you have
+    been asked to return the child.
+  released: '2020-01-03'
+  creator: Monkey Mind Tales
+  url: 'https://www.dmsguild.com/product/295871/CCCMMT-0103-Honorable-Dissent--A-Price-of-the-Red-War-Adventure'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Wand of Secrets
+      rarity: uncommon
+    - name: Potion of Resistance
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-MMT-01-05
+  name: Secrets of the Cure
+  description: >-
+    Some of the children at the Moonsea Children’s Hospital have come down with
+    a rare illness. Director Salinop has not been able to determine what is
+    causing the affliction. She has pleaded with local adventurers to help
+    determine the cause and find a cure.
+  released: '2020-04-20'
+  creator: Monkey Mind Tales
+  url: 'https://www.dmsguild.com/product/309003/CCCMMT-0105-Secrets-of-the-Cure'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Decanter of Endless Water
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Snare
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-MMT-02-01
+  name: The Stuff of Memories
+  description: >-
+    Was it something you drank? Perhaps you were drugged. Whatever it was, it
+    caused you to forget why you just woke up in the Cormanthor Forest with some
+    fellow adventurers. Some entity is messing with you, and it’s your job to
+    figure out who and why!
+  released: '2019-06-07'
+  creator: Monkey Mind Tales
+  url: 'https://www.dmsguild.com/product/279118/CCCMMT-0201-The-Stuff-of-Memories'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Amulet of Proof Against Detection and Location
+      rarity: uncommon
+  storyAwards:
+    - name: The Madness of Tharizdun
+      description: |-
+        The Chained God, Tharizdun, has briefly touched your mind. Seemingly at
+        random you have nightmares of a black Obex (an inverted, two-tiered
+        ziggurat) that shakes violently as though something is trapped inside
+        and wants to get out.
+  
+        This award could come back to haunt you in further *Elua’s Lighthouse*
+        adventures!
+  missing:
+    - credits

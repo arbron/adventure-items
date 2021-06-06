@@ -114,6 +114,14 @@
       position: 2
 
 
+- slug: the-danger-downunder
+  name: The Danger Downunder
+  includesArticle: true
+  adventures:
+    - code: CCC-PP-TDD-01-01
+      position: 1
+
+
 - slug: dark-intentions
   name: Dark Intentions
   type: trilogy
@@ -212,7 +220,11 @@
   name: Elua’s Lighthouse
   adventures:
     - code: CCC-GEL-01
-      position: 2
+    - code: CCC-MMT-01-01
+    - code: CCC-MMT-01-02
+    - code: CCC-MMT-01-03
+    - code: CCC-MMT-01-05
+    - code: CCC-MMT-02-01
 
 
 - slug: fairheight
@@ -429,6 +441,29 @@
       position: 3
 
 
+- slug: plaguestone
+  name: Plaguestone
+  type: trilogy
+  adventures:
+    - code: CCC-PRETZ-PLA-01
+      position: 1
+    - code: CCC-PRETZ-PLA-02
+      position: 2
+    - code: CCC-PRETZ-PLA-03
+      position: 3
+
+
+- slug: priory
+  name: Priory
+  adventures:
+    - code: CCC-PRIORY-01
+      position: 1
+    - code: CCC-PRIORY-02
+      position: 2
+    - code: CCC-PRIORY-03
+      position: 3
+
+
 - slug: psionic-menace
   name: Psionic Menace
   adventures:
@@ -526,6 +561,12 @@
       position: 3
 
 
+- slug: sisterhood-of-the-blade
+  name: Sisterhood of the Blade
+  adventures:
+    - code: CCC-UNITE-AN-04
+
+
 - slug: somber-remnant
   name: Somber Remnant
   type: trilogy
@@ -602,6 +643,25 @@
       position: 3
 
 
+- slug: spies-below-the-moonsea
+  name: Spies Below the Moonsea
+  adventures:
+    - code: CCC-UNITE-05
+      position: 1
+    - code: CCC-MTL-02
+      position: 2
+    - code: CCC-MTL-03
+      position: 3
+    - code: CCC-HAL-05
+      position: 4
+    - code: CCC-HAL-06
+      position: 5
+    - code: CCC-TXLIFE-01
+      position: 6
+    - code: CCC-UNITE-GD-01
+      position: 7
+
+
 - slug: storm-herald-trilogy
   name: Storm Herald
   type: trilogy
@@ -611,6 +671,18 @@
     - code: CCC-TRI-23 STORM1-2
       position: 2
     - code: CCC-TRI-24 STORM1-3
+      position: 3
+
+
+- slug: swords-below-the-moonsea
+  name: Swords Below the Moonsea
+  type: saga
+  adventures:
+    - code: CCC-PHA-01 ZETH-01
+      position: 1
+    - code: CCC-HAL-02 ZETH-02
+      position: 2
+    - code: CCC-HAL-03 ZETH-03
       position: 3
 
 

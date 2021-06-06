@@ -1,0 +1,27 @@
+- code: CCC-PHA-01 ZETH-01
+  name: Six Summoned Swords
+  description: >-
+    A chance encounter on an unassuming road leads to a dangerous and lucrative
+    opportunity. But what seems simple on the surface turns out to be much more
+    below. Thrust into a world where every enemy has an enemy and everyone has
+    their own dark motive, the only chance to survive is to ally with the right
+    foe. Sometimes “doing the right thing” comes only in shades of black.
+  released: '2018-05-25'
+  url: 'https://www.dmsguild.com/product/242915/ZETH01-Six-Summoned-Swords-CCCPHA01'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Weave (Helm of Teleportation)
+      rarity: rare
+    - name: Poison, basic (vial)
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Potion of Speed
+      rarity: veryRare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+

@@ -1,0 +1,120 @@
+- code: CCC-PRIORY-01
+  name: Maritime Mayhem
+  description: >-
+    An evil menace once thought dead has resurfaced in Faerûn. This menace is a
+    member of the Dark Priory, a doomsayer cult. You have the important mission
+    to bring him to Phlan for prosecution.
+  released: '2018-04-29'
+  url: 'https://www.dmsguild.com/product/240922/CCCPRIORY01-Maritime-Mayhem'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Tankard of Sobriety
+      rarity: common
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 5
+  storyAwards:
+    - name: Initiate
+      description: |-
+        One of your eyes is now milky white but does not impact your vision.
+        Hostile creatures and NPCs familiar with Yami call you the “Initiate.”
+        You find you are very persuasive when meddling in Yami’s affairs.
+
+        While this award is active, you have advantage on Persuasion rolls
+        against hostile NPCs in the **CCC-PRIORY** story arc. Those same NPCs
+        have disadvantage on Deception checks against you.
+
+        Removal of this story award is possible in **CCC-PRIORY-03**.
+  missing:
+    - credits
+
+
+- code: CCC-PRIORY-02
+  name: Prison Pitfalls
+  description: >-
+    You find yourselves shipwrecked on a mysterious island in the Moonsea. Will
+    you escape the island to hunt Yami, or will you die in the belly of its
+    master? 
+  released: '2018-04-29'
+  url: 'https://www.dmsguild.com/product/240924/CCCPRIORY02-Prison-Pitfalls'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Scimitar, +1
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Resistance (Poison)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Initiate
+      description: |-
+        One of your eyes is now milky white but does not impact your vision.
+        Hostile creatures and NPCs familiar with the Dark Priory call you the
+        “Initiate.” You cannot be lied to by Yami or Dark Priory members.
+  
+        While this award is active, you have advantage on Persuasion rolls
+        against hostile NPCs in the **CCC-PRIORY** story arc. Those same NPCs
+        have disadvantage on Deception checks against you.
+
+        Removal of this story award is possible in **CCC-PRIORY-03**.
+  missing:
+    - credits
+
+
+- code: CCC-PRIORY-03
+  name: Truths in Time
+  description: >-
+    The adventurers arrive on the docks of Phlan. A magical darkness hides the
+    town. Their mission: wade in and recapture Yami, the Betrayer of the Realm.
+    Be wary. He wields great power in his grudge against Faerûn.
+  released: '2018-04-29'
+  url: 'https://www.dmsguild.com/product/240925/CCCPRIORY03-Truths-in-Time'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Enduring Spellbook
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+  storyAwards:
+    - name: Annabelle’s Gratitude
+      description: |-
+        Annabelle’s Gratitude is a one use only Story Award. An adventurer may
+        remove this Story Award and 125 downtime days from their log sheets. The
+        adventurer may add proficiency to Vehicles (water) to their character
+        sheets when complete.
+
+        You have taken Annabelle up on her offer to train them to be proper
+        sailors. The adventurer will have spent four months on the Moonsea with
+        sailors from all across the region. While training, the adventurer will
+        be a member of the crew for the Blackwater Mercantile Company.
+    - name: Initiate
+      description: |-
+        One of your eyes is now milky white, but does not impact your vision.
+        Hostile creatures and NPCs familiar with Yami call you the “Initiate.”
+        You find you are very persuasive when meddling in Yami’s affairs.
+
+        While this award is active, you have advantage on Persuasion rolls
+        against hostile NPCs in the **CCC-PRIORY** story arc. Those same NPCs
+        have disadvantage on Deception checks against you.
+
+        This story reward is removed at the Conclusion of **CCC-PRIORY-03**.
+  missing:
+    - credits
+

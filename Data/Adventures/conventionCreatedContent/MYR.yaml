@@ -1,0 +1,37 @@
+- code: CCC-MYR-01
+  name: Friends in Need
+  description: >-
+    Faction agents have braved the Glacier of the White Worm and arrived at the
+    Monastery of the Yellow Rose, only to be denied entry. It’s up to you and
+    your companions to secure their entry, but it’s sure to be a wild ride.
+  released: '2018-09-09'
+  url: 'https://www.dmsguild.com/product/251969/CCCMYR01-Friends-in-Need'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: War Pick, +2
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 2
+  storyAwards:
+    - name: Chapped
+      description: >-
+        Your scarred legs and odd gait, gained from being burned astride a
+        remorhaz, are easily recognized by monks at the Monastery of the Yellow
+        Rose as the mark of foolishness or lack of balance. You make Charisma
+        (Intimidate and Persuasion) checks against those monks with
+        disadvantage.
+    - name: Wormspur
+      description: >-
+        Your boots are scarred and pocked with melted iron from destroyed
+        wormspurs. Monks at the Monastery of the Yellow Rose recognize this as a
+        sign of your remorhaz-riding prowess. You are more likely to gain entry
+        to the monastery due to your prowess and you make Charisma (Intimidation
+        and Persuasion) checks with advantage against monks who recognize your
+        prowess.
+  missing:
+    - credits
+

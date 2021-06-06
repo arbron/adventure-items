@@ -1,0 +1,95 @@
+- code: CCC-PRETZ-PLA-01
+  name: The Mystery at Coppertop Manor
+  description: >-
+    A mysterious plague has struck the town of Glister and now bodies have gone
+    missing from the local cemetery! The grave keeper has noticed strange lights
+    at the abandoned manor on the hill. Can the adventurers stop the plague and
+    solve The Mystery at Coppertop Manor?
+  released: '2019-05-22'
+  url: 'https://www.dmsguild.com/product/277524/CCCPRETZPLA01-The-Mystery-at-Coppertop-Manor'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Gloves of Swimming and Climbing
+      rarity: uncommon
+    - name: Spell Scroll of Ceremony
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: B&E
+      description: |-
+        You have entered the Manor without securing permission from Constable
+        Hobb and have been arrested for breaking and entering. You spend a day
+        in lockup and do some minor community service before being released from
+        the constable’s charge. Glister law enforcement will be wary of your
+        activities in town until you can prove yourself. Hobb will require some
+        additional task in the future to clear your name completely.
+
+        Removed this story award upon completion of Part 2 of the *Plaguestone*
+        trilogy: A Mine of Their Own.
+    - name: Tinder Hearts
+      description: >-
+        You have put the ghost of Renny Tinderhobb to rest by reuniting him and
+        his kobold doll. For doing this kindness Constable Hobb has named you an
+        honorary deputy. Constable Hobb presents you with a deputy star and will
+        welcome your assistance in future endeavors.
+  missing:
+    - credits
+
+
+- code: CCC-PRETZ-PLA-02
+  name: A Mine of Their Own
+  description: >-
+    The Yellow Tooth goblin tribe living in the old copper mine have starting
+    showing signs of a sickness. Some terrible corruption has welled up from the
+    depths. Can the source of corruption be found so that the peaceful goblins
+    may stay in a Mine of Their Own?
+  released: '2019-05-22'
+  url: 'https://www.dmsguild.com/product/277526/CCCPRETZPLA02-A-Mine-of-Their-Own'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: The Boots of Chakalakhan (Boots of False Tracks)
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+  storyAwards:
+    - name: Goblin Slayer
+      description: |-
+        You have wiped out wave after wave of innocent corrupted goblins and
+        depleted the goblin workforce. Lord Giblets will never speak to you
+        again and other goblinoids in the region will be wary of you.
+
+        Removed this story reward upon completion of Part 3 of the *Plaguestone*
+        trilogy.
+    - name: A Piece in Time
+      description: >-
+        You managed to get the fragment of the Plaguestone to Moydior of the
+        Great Dispantion before any other creatures fell to its influence.
+        Moydior has taken note of your diligence in this matter.
+  missing:
+    - credits
+
+
+- code: CCC-PRETZ-PLA-03
+  name: The Necroforge
+  description: >-
+    The Seer of Glister has discovered the location of an ancient temple with
+    the only means to destroy the accursed Plaguestone. Can the adventurers stay
+    one step ahead of the mysterious Thang’ard, avoid hordes of angry
+    goblinoids, and destroy the Plaguestone in time at The Necroforge?
+  released: '2020-08-03'
+  url: 'https://www.dmsguild.com/product/315649/CCCPRETZPLA03-The-Necroforge'
+  tier: 2
+  length: 2-4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+

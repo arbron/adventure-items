@@ -1,0 +1,26 @@
+- code: CCC-PP-TDD-01-01
+  name: Troubled Under Winton
+  description: >-
+    An earthquake has felled the windmill of Winton into a sinkhole. Were that
+    not bad enough, humanoids have been seen skulking around its ruins at night,
+    and an odd ruby glow can be seen from within. Can you discover the secret
+    under Winton?
+  released: '2018-10-18'
+  url: 'https://www.dmsguild.com/product/256228/CCCPPTDD0101-Trouble-Under-Winton'
+  tier: 1
+  length: 2
+  apl: 2
+  items:
+    - name: Lantern of Revealing
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Resistance (Acid)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+

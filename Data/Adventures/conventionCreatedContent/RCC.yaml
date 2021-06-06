@@ -1,0 +1,221 @@
+- code: CCC-RCC-01-01
+  name: Flight of the Forgemage
+  description: >-
+    Thorin Ironcap has journeyed from his home in Mithral Hall to the Moonsea in
+    search of his missing brother, Thoradin, who was exiled from Mithral Hall
+    for blacksmithing experiments deemed “too risky”. Rumors exist that he is in
+    Melvaunt, and that he had been using the forges in the city before
+    disappearing recently. Thorin needs adventurers to find Thoradin before his
+    experiments cost his brother his life…or worse!
+  released: '2020-01-09'
+  url: 'https://www.dmsguild.com/product/299975/CCCRCC0101-Flight-of-the-Forgemage'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Helm of Comprehending Languages
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Protection from Evil and Good
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Cryptic Whispers
+      description: >-
+        Even though creatures transformed into stone cursed are long dead, a
+        vague whisper of their memories lives on in the fist-sized obsidian
+        skull embedded within the stone cursed’s body. Those who claim one of
+        these skulls from a slain stone cursed often hear its whispering in
+        their thoughts. While mostly the nonsensical ramblings of a tortured
+        soul, the whispers occasionally (at the DMs discretion) offer up
+        worthwhile information. However, these rare nuggets of guidance are not
+        without a price. Those who carry a stone cursed’s skull for an extended
+        period of time can begin to whisper to themselves on a regular basis and
+        often find it difficult to focus on complex tasks.
+
+        ***Note.*** While a DM may choose to provide information based on the
+        skull’s whisperings, this story award is primarily for roleplaying
+        purposes.
+  missing:
+    - credits
+
+
+- code: CCC-RCC-01-02
+  name: The King of Thar
+  description: >-
+    Rumors have surfaced of the return of Vorbyx, legendary King of Thar. The
+    characters are hired to travel from Melvaunt deep into the humanoid-infested
+    wastelands of Thar to ascertain the validity of the rumors and deal with the
+    threat.
+  released: '2020-01-09'
+  url: 'https://www.dmsguild.com/product/299976/CCCRCC0102-The-King-of-Thar'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Immovable Rod
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Comprehend Languages
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-RCC-01-03
+  name: Chains of Desperation
+  description: >-
+    An injured scout comes to you after her companions are captured near the
+    Moonsea’s eastern coast. Can you save her friends before they disappear
+    forever, or will you find yourself captives instead?
+  released: '2020-01-09'
+  url: 'https://www.dmsguild.com/product/299977/CCCRCC0103-Chains-of-Desperation'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Boots of False Tracks
+      rarity: common
+    - name: Folding Boat
+      rarity: rare
+    - name: Potion of Fire Breath
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-RCC-01-04
+  name: Black Bliss
+  description: >-
+    On the streets of Mulmaster, a highly addictive elixir called Black Bliss
+    offers hours of relaxation and euphoria for those seeking respite from the
+    dreary, difficult life many struggle to maintain. If left unchecked, it is
+    only a matter of time before its widespread use starts to affect the
+    economic and social structure within the City of Danger. But what exactly is
+    the substance, and where did it come from?
+  released: '2020-01-09'
+  url: 'https://www.dmsguild.com/product/299978/CCCRCC0104-Black-Bliss'
+  tier: 3
+  length: 2
+  apl: 13
+  items:
+    - name: Night Cutter (Scimitar of Life Stealing)
+      rarity: rare
+    - name: Potion of Giant Strength (Fire)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Teleport
+      rarity: veryRare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Night Cutter
+      description: |-
+        You openly carry the black-bladed scimitar called Night Cutter, which
+        once belonged to a respected drow captain of House Rakarn. Unless your
+        race is drow, you are considered unworthy by most drow to carry it, and
+        they take an instant dislike to you, treating you as a usurper.
+
+        If your race is drow, or if you do not openly carry the weapon, this
+        drawback does not apply to you.
+  missing:
+    - credits
+
+
+- code: CCC-RCC-01-05
+  name: The Lost City of Tharn
+  description: >-
+    Throughout your adventuring career, you’ve collected scraps of information
+    about the lost city of Tharn from scholars, sages, songs, stories, and
+    legends. Many of the accounts are different, but they each have one thing in
+    common: None who have sought Tharn in earnest have ever returned. Will you
+    be the first to find the fabled city and uncover its past?
+  released: '2020-04-24'
+  url: 'https://www.dmsguild.com/product/311055/The-Lost-City-of-Tharn-An-Adventure-for-Tier-3-Characters'
+  tier: 3
+  length: 2
+  apl: 13
+  credits:
+    - name: Dave Zajac
+      role: Adventure Designer
+      key: true
+  items:
+    - name: Pipe of Smoke Monsters
+      rarity: common
+    - name: Ring of Evasion
+      rarity: rare
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 3
+  storyAwards:
+    - name: The Lost City of Tharn
+      description: >-
+        You found the fabled city of Tharn and slew a great evil within. In your
+        spare time, you are eventually able to capture your tale in writing and
+        share it with several libraries throughout the Moonsea. While by no
+        means a masterpiece, your manuscript may (or may not) impress any sages,
+        scholars, or historians you encounter in your future travels.
+  missing:
+    - credits
+
+
+- code: CCC-RCC-01-06
+  name: The Handfasting
+  description: >-
+    Enjoy a day at the faire and a chance to earn some easy coin in the process!
+    A wealthy merchant wants to hire security for his daughter’s extravagant
+    handfasting ceremony. It sounds like simple work, but why would a merchant
+    hire seasoned adventures as wedding security? Perhaps the groom has some
+    skeletons in his closet?
+  released: '2020-01-09'
+  url: 'https://www.dmsguild.com/product/299979/CCCRCC0106-The-Handfasting'
+  tier: 3
+  length: 2-4
+  apl: 13
+  items:
+    - name: Periapt of Proof against Poison
+      rarity: rare
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Teleport
+      rarity: veryRare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Minor Noble
+      description: >-
+        Lord Casplardann has awarded you a Grant of Arms, allowing you to place
+        “Lord” or “Lady” before your name and legally display your heraldic
+        crest on a shield or banner. While in Thentia, people are inclined to
+        think the best of you. You are welcome in high society, and people
+        assume you have the right to be wherever you are. The common folk make
+        every effort to accommodate you and avoid your displeasure, and other
+        people of high birth treat you as a member of the same social sphere. In
+        addition, you can secure an audience with a Thentian noble if you need
+        to.
+  missing:
+    - credits
+

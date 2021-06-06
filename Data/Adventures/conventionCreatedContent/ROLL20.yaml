@@ -1,0 +1,17 @@
+- code: CCC-ROLL20-02
+  name: 'The Heir of Orcus: Verse III'
+  description: >-
+    Ios, the Overseer of Duerradin, a highly advanced duergar psionic research
+    outpost, invites you to discuss the recent activity of the Heir of Orcus and
+    her worshipers, the Cult of the Heir. Explore Duerradin for clues leading to
+    nefarious plots carried out by the Cult of the Heir, discover alien
+    technologies found nowhere else in the Forgotten Realms, and learn the dark
+    history surrounding the rise of Duerradin before the Heir of Orcus strikes!
+  released: '2019-10-24'
+  url: 'https://www.dmsguild.com/product/287714/The-Heir-of-Orcus-Verse-III--CCCROLL2002'
+  tier: 2
+  length: 2
+  missing:
+    - credits
+    - items
+

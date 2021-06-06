@@ -1,0 +1,226 @@
+- code: CCC-SALT-01-01
+  name: Rumors and Riches
+  description: >-
+    The Search and Locate Treasure Consortium funded an ill-fated mission into
+    the wastes of Thar. They are unsure if faction infighting or monsters got
+    the best of their expedition team as they followed a map to locate a
+    supposed lost tomb. What dangers and treasures await the party as they go
+    seeking rumors of riches?
+  released: '2017-04-25'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/210440/CCCSALT0101-Rumors-of-Riches'
+  tier: 1
+  length: 2
+  apl: 2
+  items:
+    - name: Adamantine Chain Shirt or Mail
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-SALT-01-02
+  name: Moor Trouble
+  description: >-
+    After the first expedition to locate an ancient tomb was prematurely ended
+    by monsters, the Search and Locate Treasure Consortium is doubling down.
+    Camp established, they are looking for adventurers to make their dreams come
+    true, but the leader of the Consortium is hiding something. Will the
+    characters be able to avoid the Man Slayer tribe that destroyed the first
+    expedition, help Larazmu settle his internal struggles, and locate the tomb
+    that they have been searching for without getting into Moor Trouble?
+  released: '2017-04-25'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/210443/CCCSALT0102-Moor-Trouble'
+  tier: 1
+  length: 2
+  apl: 2
+  items:
+    - name: Mace of the Silent Oasis (+1 Mace)
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-SALT-01-03
+  name: Broken Halls of Goldahroud
+  description: >-
+    Beneath the moorlands of Thar, hidden from all for centuries, lies the
+    Broken Halls of Goldahroud. It seems to have been inhabited until recently
+    as the blood marks on the walls are only a few weeks old. What mysteries lie
+    beyond the doorway from the Tomb of Kered? Fear of the markings have forced
+    the SALT Consortium to turn again to hiring adventurers to face what horrors
+    await them in the Broken Halls of Goldahroud.
+  released: '2017-04-25'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/210444/CCCSALT0103-Broken-Halls-of-Goldahroud'
+  tier: 1
+  length: 4
+  apl: 2
+  items:
+    - name: Quiver of Elhonna
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Protection from Evil and Good
+      rarity: common
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Spellbook
+      spells:
+        - name: disguise self
+          level: 1
+        - name: false life
+          level: 1
+        - name: feather fall
+          level: 1
+        - name: find familiar
+          level: 1
+        - name: identify
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: ray of sickness
+          level: 1
+        - name: Tenser’s floating disk
+          level: 1
+  missing:
+    - credits
+
+
+- code: CCC-SALT-02-01
+  name: Mulmaster’s Meddlings
+  description: >-
+    The SALT Consortium has been busy rebuilding the small town of Hawksroost
+    and the increase in riches has caught the eye of many within the city of
+    Mulmaster. While many are excited at the prospect of a partnership, Oriel
+    Phoenixfeather is skeptical of any alliance. She is in search of a party to
+    meet with one of the Zor’s that had reached out to the town and gather more
+    information on them. However, in order to gain an audience with this
+    mysterious person of power they will first need to win the Zor’s favor.
+  released: '2018-06-09'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/244117/CCCSALT-0201-Mulmasters-Meddlings'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Periapt of Wound Closure
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 3
+  missing:
+    - credits
+
+
+- code: CCC-SALT-02-02
+  name: The Tower in the Valley
+  description: |-
+    Prepare yourselves to enter a wizard’s wondrous tower! Within lies tricks
+    and traps all from the mind of the brilliant? Or the insane? One never truly
+    knows when it comes to wizards, but one thing is for certain; the rooms
+    within will throw you for a loop!
+
+    Prepare to deal with magical trickery and arcane mayhem as you embark to
+    explore the Tower in the Valley.
+  released: '2018-06-09'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/244116/CCCSALT-0202-Tower-in-the-Valley'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Brazier of Commanding Fire Elemental
+      rarity: rare
+    - name: Spell Scroll of Thunder Step
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Tidal Wave
+      rarity: uncommon
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: The Pages of the Lower Planes
+      spells:
+        - name: absorb elements
+          level: 1
+        - name: comprehend languages
+          level: 1
+        - name: find familiar
+          level: 1
+        - name: shield
+          level: 1
+        - name: arcane lock
+          level: 2
+        - name: continual flame
+          level: 2
+        - name: rope trick
+          level: 2
+        - name: see invisibility
+          level: 2
+        - name: summon lesser demons
+          level: 3
+        - name: conjure minor elementals
+          level: 4
+        - name: conjure elemental
+          level: 5
+        - name: infernal calling
+          level: 5
+        - name: planar binding
+          level: 5
+        - name: teleportation circle
+          level: 5
+        - name: create homunculus
+          level: 6
+        - name: Dwarmij’s instant summons
+          level: 6
+        - name: Mordenkainen’s magnificent mansion
+          level: 7
+        - name: plane shift
+          level: 7
+        - name: demiplane
+          level: 8
+        - name: maze
+          level: 8
+        - name: gate
+          level: 9
+        - name: meteor storm
+          level: 9
+  missing:
+    - credits
+
+
+- code: CCC-SALT-02-05
+  name: The Darkness Never Forgets
+  description: >-
+    Oriel Phoenixfeather, the old halfling shopkeep from Hawksroost, has gone
+    missing. Her granddaughter and the leaders of the SALT Consortium have sent
+    out a call for adventurers to investigate the disappearance. A danger
+    brewing to the north of Hawksroost, however, may make this search-and-rescue
+    more dangerous than the party had initially planned.
+  released: '2018-10-02'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/253907/CCCSALT0205-The-Darkness-Never-Forgets'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Cape of the Mountebank
+      rarity: rare
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Prayer of Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+

@@ -1,0 +1,33 @@
+- code: CCC-REAP-01
+  name: Lost Ashes of the Wayward Gnome
+  description: >-
+    A priestess has traveled far from home to find herself in the middle of the
+    RED WAR. Join her on a surreal, madcap journey through a dangerous warzone
+    to recover the ashes of the gnome responsible for this conflict. Can
+    anything good come out of this fool’s errand?
+  released: '2018-09-11'
+  creator: Monkey Mind Tales
+  url: 'https://www.dmsguild.com/product/252159/CCCREAP01-Red-War-Lost-Ashes-of-a-Wayward-Gnome'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: The Choralier’s Companion (Saddle of the Cavalier)
+      rarity: uncommon
+    - name: Scroll of Protection (Undead)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Tiny Servant
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Woodland Hospitality
+      description: >-
+        Shiallia, the Daughter of the High Forest, owes you for helping out
+        Soleil—regardless of the outcome. Small woodland animals of the High
+        Forest treat you like royalty.
+  missing:
+    - credits
+

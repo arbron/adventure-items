@@ -371,6 +371,18 @@
       position: 1
 
 
+- slug: necromancer-of-zhentil-keep
+  name: Necromancer of Zhentil Keep
+  type: trilogy
+  adventures:
+    - code: CCC-ROZK-01-01
+      position: 1
+    - code: CCC-ROZK-01-02
+      position: 2
+    - code: CCC-ROZK-01-03
+      position: 3
+
+
 - slug: nightmare
   name: Nightmare
   adventures:
@@ -489,6 +501,16 @@
       position: 2
     - code: CCC-GAD-01-02
       position: 3
+
+
+- slug: red-war
+  name: Red War
+  adventures:
+    - code: CCC-GAD-01-02
+    - code: CCC-OCC-01
+    - code: CCC-QUAKE-01
+    - code: CCC-REAP-01
+    - code: CCC-ST-02-01
 
 
 - slug: return-of-revelry
@@ -768,6 +790,13 @@
       position: 2
     - code: CCC-MALTH-03
       position: 3
+
+
+- slug: unholy-alliances
+  name: Unholy Alliances
+  adventures:
+    - code: CCC-SALT-02-05
+      position: 1
 
 
 - slug: an-unlikely-ally

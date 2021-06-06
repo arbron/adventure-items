@@ -1,0 +1,300 @@
+- code: CCC-QCC-2017
+  name: Delusions of Grandeur, Dreams of Revenge
+  description: >-
+    The factions have heard murmurings of a new cult rising from the ashes of
+    the obsessed dragon and elemental evil factions that they have dealt with in
+    the past. This time, though, they seem to have an even more apocalyptic
+    goal. A deep gnome informant claims the cult is dabbling with dangerous
+    magic, but he, too, may have his own agenda
+  released: '2017-09-12'
+  url: 'https://www.dmsguild.com/product/221415/CCCQCC2017-Delusions-of-Grandeur-Dreams-of-Revenge'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Manual of Bodily Health
+      rarity: veryRare
+  spellbooks:
+    - name: Mage’s Spellbook
+      spells:
+        - name: absorb elements
+          level: 1
+        - name: detect magic
+          level: 1
+        - name: earth tremor
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: shield
+          level: 1
+        - name: earthbind
+          level: 2
+        - name: pyrotechnics
+          level: 2
+        - name: misty step
+          level: 2
+        - name: skywrite
+          level: 2
+        - name: suggestion
+          level: 2
+        - name: counterspell
+          level: 3
+        - name: erupting earth
+          level: 3
+        - name: fireball
+          level: 3
+        - name: flame arrows
+          level: 3
+        - name: fly
+          level: 3
+        - name: elemental bane
+          level: 4
+        - name: greater invisibility
+          level: 4
+        - name: ice storm
+          level: 4
+        - name: watery sphere
+          level: 4
+        - name: cone of cold
+          level: 5
+        - name: control winds
+          level: 5
+  storyAwards:
+    - name: Favor of Boddynock Glitterstone
+      description: >-
+        Having spent time in the company of accomplished bounty hunter Boddynock
+        Glitterstone, you have learned a thing or two about the history and
+        efforts of the four major Elemental Evil cults that have been active in
+        the regions through which you adventure. Boddynock reveals to you the
+        location of a still functioning secret elemental node (air or water, PCs
+        choice) near the Moonsea which you may travel to between adventures
+        (spending 10 downtime days and the associated lifestyle costs).
+        Travelling to a water node will allow a character to recharge a weird
+        tank while traveling to an air node will allow them to recharge a
+        balloon pack, storm boomerang, and/or wingwear (1 per day). In addition,
+        you gain advantage on Intelligence (History) checks relating to any two
+        of the following Elemental Evil cults: the Black Earth, the Crushing
+        Wave, the Eternal Flame, and/or the Howling Hatred.
+    - name: Learn the Culture (Mulmaster)
+      description: >-
+        You may spend 5 downtime days (and the associated lifestyle cost) in
+        Mulmaster touring the city and learning the history of the region. You
+        gain advantage on any single ability check relating to Mulmaster, the
+        Brotherhood of the Cloaks, the cults of Elemental Evil, or the Red
+        Wizards of Thay or on any single attack against an elemental or undead
+        creature. Once the advantage benefit has been used, you may return to
+        Mulmaster every time you gain a level and perform this quest again by
+        spending the required downtime and lifestyle expenses.
+      type: downtime
+    - name: To Wear the Cloak
+      description: >-
+        If your character is a spellcaster, Zora Culkin has offered to sponsor
+        your admittance into the Brotherhood of the Cloak due to your service to
+        the city of Mulmaster. Though joining the Cloaks is mandatory for any
+        arcanists seeking to stay in Mulmaster for an extended period of time,
+        and sponsorship is not required, Zora Culkin’s sponsorship will
+        definitely have its perks.
+
+
+- code: CCC-QCC-2018-01
+  name: Of Gods and Monsters
+  description: >-
+    Rumors abound that the travelling faire known as Doctor Jubal’s Carnival of
+    Curiosities have somehow acquired an actual, live tarrasque that they are
+    displaying as part of their travelling show. An ancient eladrin who claims
+    to be part of a secret order dedicated to protecting society from the
+    creature is honor-bound to investigate the matter and wants the party to
+    track down the travelling faire and see what they can discover.
+  released: '2018-09-12'
+  url: 'https://www.dmsguild.com/product/252176/CCCQCC201801-Of-Gods-and-Monsters'
+  tier: 3
+  length: 2
+  apl: 13
+  items:
+    - name: Nine Lives Stealer Scimitar
+      rarity: veryRare
+    - name: Potion of Flying
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Ecology of the Tarrasque
+      description: >-
+        Your research on the tarrasque grants you an encyclopedic knowledge of
+        the history and lore of this creature. This award may have additional
+        repercussions in future **QCC** modules.
+    - name: Honorary Bullywug
+      description: >-
+        For helping to free their god from the bonds of oppression, a bullywug
+        tribe of Chult owes you a life-debt. Should you ever find yourself in
+        the presence of this bullywug tribe in Chult during a future **QCC**
+        adventure, you will be treated as an ally. Should you ever willingly
+        kill a froghemoth while in Chult or in the presence of a bullywug, this
+        story award is lost.
+    - name: Membership in the Royal Order of Tarrasque Herders
+      description: >-
+        Dryearth has offered you membership in the Order if you swear an oath to
+        come to need of any civilized people threatened upon the return of the
+        true tarrasque. This award may have additional repercussions in future
+        **QCC** modules.
+    - name: Run Away and Join the Circus
+      description: >-
+        You spend some time traveling with the circus as a performer until the
+        start of your next adventure. You learn quite a bit about the inner
+        workings of the circus during this time. This award may have additional
+        repercussions in future **QCC** modules.
+
+
+- code: CCC-QCC-2018-02
+  name: Heart and Soul
+  description: >-
+    A young girl offers to hire the party to retrieve a family heirloom stolen
+    from her by an evil archmage. The first catch: the archmage is a Red Wizard
+    of Thay. The second catch: your potential employer insists on NO KILLING!
+  released: '2018-09-12'
+  url: 'https://www.dmsguild.com/product/252178/CCCQCC201802-Heart-and-Soul'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Figurine of Wondrous Power (Brass Griffon)
+      rarity: rare
+    - name: Elixir of Health
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Philter of Love
+      rarity: uncommon
+      consumable: true
+      count: 1
+      illegal: true
+  storyAwards:
+    - name: Secret Identity
+      description: >-
+        You stole an item from a powerful mage while operating under a secret
+        identity. Tall tales spread far and wide about this mysterious burglar.
+        Should you ever admit it was you, no one will believe you. If, at the
+        start of a session, there are two or more characters with this story
+        award are present at the table, they exchange a wink, knowing glance, or
+        subtle nod. This award may have additional repercussions in future
+        **QCC** modules.
+    - name: We Got The Beet
+      description: >-
+        For returning the gem and its satchel to Constance Goodroot, she lets
+        the characters know they need never be hungry while they are in the
+        area. They are provided a free bushel of beets from the beet farm
+        whenever they finish an adventure in Hillsfar (any **HILL**, **DDEX03**,
+        or **CCC** adventure occurring in Hillsfar), along with numerous recipes
+        for preparing several beet-themed dishes from the Goodroot family
+        personal cookbook collection.
+    - name: You’ve Got a Friend in Red
+      description: >-
+        Word spreads through the Red Wizard channels that you are a friend of
+        Thay. This award may have additional repercussions in future **QCC**
+        modules.
+
+
+- code: CCC-QCC-2019-01
+  name: Hillsfar’s Rancid Web
+  description: >-
+    A suspicious murder leads the heroes into an old section of Hillsfar’s
+    sewers, where the local fey are stirring up trouble for the surface
+    dwellers.
+  released: '2019-07-14'
+  url: 'https://www.dmsguild.com/product/282851/CCCQCC201901-Hillsfars-Rancid-Webs'
+  tier: 1
+  length: 2-4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-QCC-2019-02
+  name: Hag of Tricks
+  description: >-
+    Evil fey are trying to conquer Hillsfar by infiltrating the city and
+    controlling key government positions. Adventurers try to sneak into the Red
+    Plumes Compound to prove hags control the Director’s office.
+  released: '2019-07-15'
+  url: 'https://www.dmsguild.com/product/282984/CCCQCC201902-Hag-of-Tricks'
+  tier: 2
+  length: 2
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-QCC-2019-03
+  name: The Scarlet Divide
+  description: >-
+    A contingent of Red Wizards has arrived in Hillsfar and is planning
+    something. Rumors abound of a massive ritual being prepared to affect the
+    entire city. Is their intent to help the city or harm it? And how is the
+    First Lord involved?
+  released: '2019-07-16'
+  url: 'https://www.dmsguild.com/product/282991/CCCQCC201903-The-Scarlet-Divide'
+  tier: 3
+  length: 2-4
+  apl: 13
+  items:
+    - name: Horn of Silent Alarm
+      rarity: common
+    - name: Staff of Healing
+      rarity: rare
+    - name: 'Crossbow Bolt, +2'
+      rarity: rare
+      consumable: true
+      count: 20
+    - name: Oil of Sharpness
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Hero of Hillsfar
+      description: >-
+        For assisting in ending the menace of the evil fey in Hillsfar once and
+        for all, you receive a medal declaring you a “Hero of Hillsfar”. Tales
+        of your exploits spread through the city from the commoners up through
+        the nobles. Unless disguised, you are greeted by smiles and knowing nods
+        anytime you wander the streets of Hillsfar. This Story Award may have
+        additional repercussions in future **CCC-QCC** adventures.
+    - name: Seeing Red
+      description: >-
+        You have intervened in the plans of Red Wizards one time too many. If
+        your party becomes engaged in conflict with any Red Wizards in a future
+        **CCC-QCC** adventure, the Red Wizards will always target you with their
+        first attack. This Story Award may have additional repercussions in
+        future **CCC-QCC** adventures. If you have the “*A Friend in Red*” Story
+        Award from **CCC-QCC-2018-02**, you may permanently remove this Story
+        Award from you character sheet by removing that one as well.
+
+
+- code: CCC-QCC-2020-03
+  name: Run For the Money
+  description: >-
+    Can a simple coin really contain information crucial enough to be worth
+    travelling to hell and back just to recover it?
+  released: '2020-10-28'
+  url: 'https://www.dmsguild.com/product/333653/CCCQCC202003-Run-For-The-Money'
+  tier: 3
+  length: 4
+  apl: 13
+  missing:
+    - credits
+    - items
+    - pdf
+

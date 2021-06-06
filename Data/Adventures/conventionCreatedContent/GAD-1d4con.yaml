@@ -64,13 +64,12 @@
 
 
 - code: CCC-GAD-01-02
-  name: 'Red War: Black Phoenix'
+  name: Black Phoenix
   description: >-
     The Cult of Reborn Flame initiates its most devastating plot against
     Mulmaster even as Thayans are invading the city. You must navigate the
     planar tunnels beneath Mulmaster and stop the Black Phoenix before a sea of
-    fire engulfs the entire city, killing Thayans and Mulmasterites alike. Part
-    Three of the *Reborn Flame* trilogy.
+    fire engulfs the entire city, killing Thayans and Mulmasterites alike.
   released: '2019-04-18'
   url: 'https://www.dmsguild.com/product/270904/CCCGAD0102-Red-War-Black-Phoenix'
   tier: 2
@@ -99,13 +98,13 @@
         more, the High Blade of Mulmaster is in your debt. With his city overrun
         by Thayans, Selfaril cannot repay that debt now, but perhaps that may
         change one day.
-  
+
         This story award doesn’t take effect until you successfully complete
         the Reborn Flame Trilogy:
-  
+
         - [**CCC-ODFC-02-02** *Palace of the Efreeti*](/adventures/ccc-odfc-01-01/)
         - [**CCC-GAD-01-01** *Broken Blade*](/adventures/ccc-gad01-01/)
-        - [**CCC-GAD-01-02** *Red War: Black Phoenix*](/adventures/ccc-gad01-02/)
+        - [**CCC-GAD-01-02** *Black Phoenix*](/adventures/ccc-gad01-02/)
 
          If you have not yet completed the entire trilogy, you gain the full use of this story award after you successfully complete the missing adventures.
   missing:

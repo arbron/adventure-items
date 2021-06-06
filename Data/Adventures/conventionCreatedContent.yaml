@@ -1,0 +1,1985 @@
+
+- code: CCC-SCAR-01-01
+  name: Corrupted Artery
+  description: >-
+    The mining town of Glister has had a prosperous year, and people have been
+    coming in search of work and wealth. A call has gone out for help in some
+    local matters, but getting there is no easy task. Catch the caravan and
+    travel through treacherous Thar! Part One of *Kossuth’s Kiss*.
+  released: '2018-03-19'
+  url: 'https://www.dmsguild.com/product/237410/CCCSCAR0101-Corrupted-Artery'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: 'Ornate Dagger, +1'
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Gos’ Roadies
+      description: >-
+        You can use your connections with Gos to get a discount on an item while
+        in Glister. You can spend 5 downtime days to earn a 10% discount on the
+        purchase of any one weapon or armor from a merchant in Glister. Once you
+        have used this Award, cross it off your list.
+  missing:
+    - credits
+
+
+- code: CCC-SCAR-01-02
+  name: Glister by Light
+  description: >-
+    The mining town of Glister has a problem. The latest caravan only arrived
+    with a part of its supplies. Orcs waylaid them, took much needed goods, and
+    are now making demands that the town return an artifact that is theirs, but
+    the town is unfamiliar with. Help track down information about this artifact
+    and possibly defend the city from an orc invasion! Part Two of *Kossuth’s
+    Kiss*.
+  released: '2018-05-15'
+  url: 'https://www.dmsguild.com/product/242220/CCCSCAR0102-Glister-By-Light'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Stone of Good Luck
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Over and Above
+      description: >-
+        You have saved the lives of many people in Glister by your recon mission
+        and the knowledge gained. Everyone in the town knows of your deeds and
+        shows you respect. You gain advantage on Charisma skill checks when
+        dealing with anyone in the town of Glister.
+    - name: Respect of The House of Swords
+      description: >-
+        The priests of Tempus respect those who show the ability to resolve
+        issues with a weapon. You have impressed them by carving off a piece of
+        the Striking Stone. You may call upon the House of Swords in Glister and
+        get the same services as provided by the Acolyte background.
+  missing:
+    - credits
+
+
+- code: CCC-SCAR-02-01
+  name: Gister by Dark
+  description: >-
+    The mining town of Glister is under siege. Unprepared and short of supplies,
+    the siege threatens to starve out the town. The mine has provided the only
+    path that may provide some help; a collapsed tunnel has revealed an unknown
+    cave that runs deep into the mountain. Part Three of *Kossuth’s Kiss*.
+  released: '2019-03-18'
+  url: 'https://www.dmsguild.com/product/267891/CCCSCAR0201-Glister-By-Dark'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Clockwork Amulet
+      rarity: common
+    - name: Rope of Climbing
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Invisibility
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Scroll of Protection (Poison)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Identify
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-SCAR-02-02
+  name: Nature’s Defense
+  description: >-
+    A recent earthquake has revealed an unexplored cave system in the forests
+    around Zhentil Keep, and rumors of old pirate treasure are drawing treasure
+    hunters. Yet something is warping nature and causing attacks on the unwary.
+    You’ve been asked to find the source and to set things right. Are you ready?
+  released: '2019-08-21'
+  url: 'https://www.dmsguild.com/product/286424/CCCSCAR0202-Natures-Defense'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Resistance (Poison)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: And My Horses Also!
+      description: >-
+        You are beloved of House Malatar for returning their wayward scion with
+        his retinue, and thus may be called on again in times of need.
+    - name: At Least I Survived
+      description: >-
+        You are appreciated by House Malatar for returning their wayward scion,
+        but they really, really wish you had also returned their valued
+        servants.
+  missing:
+    - credits
+
+
+- code: CCC-SCAR-03-01
+  name: Devotees of the Dagger
+  description: >-
+    The orcs of the Burning Daggers clan have been pacified with the return of
+    their religious artifact. But just as Glister begins to breathe again, an
+    old “friend” returns with troubling news: a shaman has stirred up the clan
+    to want war again. Can the adventurers stop this new leader and bring about
+    peace again?
+  released: '2020-07-01'
+  url: 'https://www.dmsguild.com/product/317737/CCCSCAR0301-Devotees-of-the-Dagger'
+  tier: 1
+  length: 
+  apl: 
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-SCAR-03-02
+  name: Secrets Underneath Glister
+  description: >-
+    With the discovery of Min Thelbur, a lost dwarven city, dwarven explorers
+    descended to locate the royal warhammer of King Filburt Mithrilshield.
+    However, the vermin had already moved in and the dwarves were unable to make
+    their way into the palace, where ancient records indicate the warhammer was
+    stored. They are hiring adventurers for an expedition to retrieve King
+    Mithrilshield’s warhammer.
+  released: '2020-07-01'
+  url: 'https://www.dmsguild.com/product/317738/CCCSCAR0302-Secrets-Underneath-Glister'
+  tier: 1
+  length: 
+  apl: 
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-SFBAY-01-01
+  name: Plots in Motion
+  description: >-
+    In the midst of a ferocious storm, a band of mercenaries raids a lighthouse.
+    Is this just a plot against trade with Mulmaster, or something more
+    sinister? Journey down the River Lis and explore a forgotten keep in search
+    of answers.
+  released: '2017-03-02'
+  url: 'https://www.dmsguild.com/product/206459/CCCSFBAY0101-Plots-in-Motion'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Smoke (Shortsword, +2)
+      rarity: rare
+    - name: Oil of Sharpness
+      rarity: veryRare
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Rider’s Spellbook
+      spells:
+        - name: disguise self
+          level: 1
+        - name: fog cloud
+          level: 1
+        - name: grease
+          level: 1
+        - name: identify
+          level: 1
+        - name: blindness/deafness
+          level: 2
+        - name: locate object
+          level: 2
+        - name: mirror image
+          level: 2
+        - name: nondetection
+          level: 3
+        - name: phantom steed
+          level: 3
+  storyAwards:
+    - name: Crown Jewels
+      description: >-
+        Talindra’s Brooch is an exquisite piece of artwork. A silver dragon
+        curls around a piece of amethyst. A fleck of ruby is set in the dragons
+        eye, a circle of gold enclosing the whole piece. It is a piece of
+        jewelry fit for Cormyrian royalty. They will be very glad to get it
+        back.
+
+        The jeweler to whom you sought to sell the piece to immediately closes
+        his shop and sends out his assistant while he appraises the piece. He
+        hems and haws over the value, checking ledgers and showing you drawings
+        of other pieces and what those pieces sold for in comparison. But he
+        does not have to stall long; the assistant returns with a full company
+        of the watch in short order. They even bring magical support.
+
+        You spend the next three days in jail, as you plead your innocence and
+        deny all knowledge that the brooch had been stolen from the Corymyrian
+        Royal Vaults. Apparently, it was quite the theft. The most powerful
+        divination magic of Cormyr’s famed wizard college failed to turn up any
+        clues. But eventually your story checks out. The staff at Hofstead’s
+        beacon confirm that a woman matching Talindra’s description was pulled
+        from the wreck and went with the other survivors to Mulmaster.
+
+        From Mulmaster the trail goes cold. No one there remembers seeing her,
+        even though you spend several days and no small amount of gold trying
+        to locate her. Even divination magic fails. She has slipped through
+        your grasp for now. But the Cormyrian authorities remain wary of you
+        and circulate your description.
+
+        *When you get this story award, immediately deduct five downtime days
+        and 25 gold pieces from your character. Until another story award
+        instructs otherwise, you have disadvantage on all Charisma checks with
+        Cormyrian officials.*
+
+        **This is a Cormyrian Heist story award.**
+    - name: Language Tutor Corbin Tusslefoot
+      description: >-
+        Corbin Tusslefoot, traveler and linguist owes you his life. In
+        gratitude, he will suspend his travels and waives his usual fees to help
+        you learn a new language. Corbin speaks and can tutor you in Dwarvish,
+        Elven, Giant, and Draconic.
+
+        Normally it costs 250 downtime days to learn a new language. With the
+        help of a language tutor you may learn a new language by spending only
+        200 downtime days. Alternatively, if you already have another means of
+        reducing the number of downtime days required to learn a language, such
+        as a faction benefit, you may reduce the cost by 25 days. You may use
+        multiple language tutors to reduce the cost of learning a language, but
+        each tutor may only help you learn a particular language once. If you
+        earn multiple copies of a particular language tutor award, that tutor
+        may help you learn one new language for each instance of the award you
+        have. Use of a language tutor story award may not reduce the cost to
+        learn a language to less than 100 downtime days.
+  missing:
+    - credits
+
+
+- code: CCC-SFBAY-02-01
+  name: Old Enemies Arise
+  description: >-
+    The alliance between Thay and Mulmaster is stronger than ever, and this does
+    not sit well with some of the neighboring countries; in fact, it appears
+    that one of them is attacking caravans leaving Mulmaster and heading towards
+    Thay. You have been asked by the Cloaks to investigate the attacks, discover
+    who is behind them, and stop them if you can. Part One of *Agents of the
+    Cloaks*.
+  released: '2017-12-29'
+  url: 'https://www.dmsguild.com/product/230005/CCCSFBay0201-Old-Enemies-Arise'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Cloak of Displacement
+      rarity: rare
+    - name: Potion of Animal Friendship
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Growth
+      rarity: uncommon
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Lasharra’s Traveling Spellbook
+      spells:
+        - name: absorb elements
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: Tenser’s floating disk
+          level: 1
+        - name: alarm
+          level: 1
+        - name: mirror image
+          level: 2
+        - name: misty step
+          level: 2
+        - name: shatter
+          level: 2
+        - name: counterspell
+          level: 3
+        - name: fireball
+          level: 3
+        - name: Leomund’s tiny hut
+          level: 3
+        - name: lightning bolt
+          level: 3
+        - name: water breathing
+          level: 3
+        - name: greater invisibility
+          level: 4
+        - name: ice storm
+          level: 4
+        - name: stoneskin
+          level: 4
+        - name: Bigby’s hand
+          level: 5
+        - name: cone of cold
+          level: 5
+        - name: Rary’s telepathic bond
+          level: 5
+        - name: chain lightning
+          level: 6
+        - name: guards and wards
+          level: 6
+  storyAwards:
+    - name: Ally of Thay
+      description: >-
+        You are known to be an ally of the Thayan Plateau, whether you want to
+        or not. You have advantage on Charisma-based checks with Red Wizards and
+        other non-slaves from Thay.
+    - name: Durthan’s Curse
+      description: >-
+        You have been marked by the evil Durthan. As long as either Lasharra,
+        Yuldra or Shevarra are alive, they will be able scry you and will do so
+        unless you take precautions to prevent it. If you are not able to
+        prevent the scrying, your party will have disadvantage on all initiative
+        checks in combats that involve any of the mentioned witches or any of
+        their minions. You are also at a disadvantage on stealth checks to
+        surprise the witches or their minions. This story award gets removed
+        when all three witches are dead.
+    - name: Enmity of the Wychlaran
+      description: >-
+        You have offended the secretive order of Rashemi witches by either
+        taking the Vremyonni back to Mulmaster or keeping the wychlaran mask or
+        both. You have disadvantage on all social checks with the people of
+        Rashemen if they know your name and what you did. If discovered within
+        the lands of Rashemen, you will be captured and put to death.
+    - name: Friend of Rashemen
+      description: >-
+        You have earned the respect and regard of the Rashemi people by rescuing
+        the Vremyonni and retuning the wychlaran mask. You have advantage on all
+        social checks with the people of Rashemen if they know your name and
+        what you did.
+  missing:
+    - credits
+
+
+- code: CCC-SFBAY-02-02
+  name: Rise of the Ogre King
+  description: >-
+    You have been hired by the Brotherhood of the Cloaks to journey into the
+    heart of desolate Thar. Once there you are to negotiate with the oni lord of
+    Fangjaws Hold for the rights to excavate an ancient minotaur lord’s tomb
+    within his territory. Part Two of *Agents of the Cloaks*.
+  released: '2018-08-21'
+  url: 'https://www.dmsguild.com/product/250384/CCCSFBay0202-Rise-of-the-Ogre-King'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Amulet of Health
+      rarity: rare
+  spellbooks:
+    - name: Traveling Spellbook
+      spells:
+        - name: absorb elements
+          level: 1
+        - name: charm person
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: shield
+          level: 1
+        - name: hold person
+          level: 2
+        - name: mind spike
+          level: 2
+        - name: shadow blade
+          level: 2
+        - name: suggestion
+          level: 2
+        - name: counterspell
+          level: 3
+        - name: fireball
+          level: 3
+        - name: haste
+          level: 3
+        - name: lightning bolt
+          level: 3
+        - name: greater invisibility
+          level: 4
+        - name: polymorph
+          level: 4
+        - name: hold monster
+          level: 5
+        - name: scrying
+          level: 5
+        - name: synaptic static
+          level: 5
+        - name: telekinesis
+          level: 5
+        - name: chain lightning
+          level: 6
+  storyAwards:
+    - name: Enemies of Justice
+      description: >-
+        You have offended the Talons of Justice and good dragons across the
+        lands. This may affect how good dragons treat you in the future.
+    - name: Fangjaws Citizen
+      description: >-
+        You have been branded a citizen of Fangjaws Hold. While you have no
+        featly to this monster town, you wear its brand; consequently, any enemy
+        of Fangjaws that sees the brand, such as the Burning Dagger orcs, will
+        start with a hostile attitude towards you.
+
+        On the good side, all orcs, goblinoids and ogres that are under
+        Fangjaw’s protection will give you and your traveling companions safe
+        passage.
+    - name: Knight of the Silver Dragon
+      description: |-
+        You have been anointed as a Knight of the Order of the Silver Dragon.
+        You have sworn to the following oath.
+
+        - To protect those that can’t protect themselves
+        - To oppose evil wherever you find it
+        - To seek a peaceful solution to all conflicts if possible.
+
+        Good dragons across the lands that see your emblem will look favorably
+        upon you.
+    - name: Pawn of Thay
+      description: >-
+        You have shown that you are willing to work for Thay and help them
+        achieve their goals. The people of the Thayan plateau may look upon you
+        as a resource.
+    - name: Rashemi Regard
+      description: >-
+        You have done a great server for the Rashemi people. The people of
+        Rashemen may look favorably upon you.
+  missing:
+    - credits
+
+
+- code: CCC-SFBAY-02-03
+  name: The Risen Minotaur Lord
+  description: >-
+    An excavation team was sent to unearth the tomb of an ancient minotaur lord
+    in Thar under the protection of the Tharkul of Fangjaws Hold. But something
+    went wrong, and an undead army poured out of the burial site and laid siege
+    to Fangjaws Hold. You have been hired by the Brotherhood of the Cloaks to
+    help deal with the undead threat. Part Three of *Agents of the Cloaks*.
+  released: '2018-08-21'
+  url: 'https://www.dmsguild.com/product/250386/CCCSFBay0203-The-Risen-Minotaur-Lord'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Belt of Hill Giant Strength
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Fangjaws Citizen
+      description: >-
+        You have been branded a citizen of Fangjaws Hold. While you have no
+        fealty to this monster town, you wear its brand, All orcs, goblinoids
+        and ogres that are under Fangjaw’s protection will give you and your
+        traveling companions safe passage.
+
+        Any enemy of Fangjaws that sees the brand, such as the Burning Dagger
+        orcs, may start with a hostile attitude towards you.
+    - name: Fangjaws Nobility
+      description: >-
+        Requires that you are already a **Fangjaws Citizen**. You have further
+        served Fangjaws Hold and have been rewarded with nobility. From this
+        point forward, you may purchase a house in the Little Moonsea district
+        for 2000 GP and 20 downtime days. This also increases your lifestyle
+        expenses by 1 GP. In addition, you may administer justice to the
+        citizens of Fangjaws Hold.
+    - name: Honorary Wychlaran
+      description: >-
+        Requires that you have been awarded **Rashemi Regard** or **Friend of
+        Rashemen** in each of two previous adventures. You have been accepted
+        into the ranks of secretive Rashemi Witches known as Hathrans. From this
+        point forward, you may enter the sacred Ashenwood, and other Rashemi
+        will look upon you with respect and look to you for leadership. You have
+        also been gifted with a spirit totem, and a mask of the wychlaran has
+        been made for you in the shape of that spirit.
+    - name: Rashemi Regard
+      description: >-
+        You have done a great service for the Rashemi people. The people of
+        Rashemen may look favorably upon you.
+
+        If you have the **Enmity of Rashemen** story award, both story awards
+        get removed from your log sheet. Your deeds have earned forgiveness,
+        but they did not earn both forgiveness and regard.
+  missing:
+    - credits
+
+
+- code: CCC-SFBAY-04-01
+  name: The Cornflower Hive
+  description: >-
+    What links an infamous Zhentarim mercenary with a brilliant but tormented
+    artificer? To find out, the adventurers must break the goblinoid siege of
+    the village of Westfir. After the bizarre goblins are defeated, the
+    Cornflower Hive must be destroyed. Ultimately, what secrets are held in the
+    grain mill by the Westfork river?
+  released: '2018-01-26'
+  url: 'https://www.dmsguild.com/product/232430/CCCSFBAY0401-The-Cornflower-Hive'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Javelin of Lightning
+      rarity: uncommon
+    - name: Alchemist’s fire (flask)
+      rarity: common
+      consumable: true
+      count: 3
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 3
+    - name: Potion of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Bless
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Goblinslayer
+      description: >-
+        You rescued the people of Westfir and stopped the goblin menace. You may
+        stay in the village of Westfir for up to 10 days at a wealthy lifestyle
+        with no cost. You may also purchase non-magical adventuring gear
+        (excluding mounts, weapons or armor) for 25% off the listed retail price
+        in the PHB during one of those downtime days.
+  missing:
+    - credits
+
+
+- code: CCC-SFBAY-04-02
+  name: Under Earth & Stone
+  description: >-
+    A Mulmaster refugee named Ani Kuleimatt discovered references to a forgotten
+    mine near the Moonsea, a mine rumored to produce an unexpected export. The
+    adventurers are hired to locate the complex and secure its resources for the
+    Mulmaster Diaspora.
+  released: '2018-01-26'
+  url: 'https://www.dmsguild.com/product/232428/CCCSFBAY0402-Under-Earth--Stone'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Traveler’s Heart (Stone of Controlling Earth Elementals)
+      rarity: rare
+    - name: 'Crossbow Bolt, +1'
+      rarity: uncommon
+      consumable: true
+      count: 10
+    - name: Spell Scroll of Speak with Animals
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Silk Trade
+      description: >-
+        For a cost of 5 downtime days and 25 gp, the adventurer may have either
+        fine silk clothing or a spider-silk rope made in Duindelve.
+
+        The silk clothing is dyed in bright colors and is the highest quality.
+
+        The non-magical spider-silk rope is 50 feet long, has the same tensile
+        strength as hemp rope, and weighs 2 pounds.
+      type: downtime
+  missing:
+    - credits
+
+
+- code: CCC-SFBAY-04-03
+  name: The Ashen Scar
+  description: >-
+    The fey hold sway over the forests of Cormanthor. Their presence has kept
+    the goblinoids disorganized and warring amongst themselves. Now, a deadly
+    enemy of the woods has laid claim to a Feywild glade. This foe is
+    slaughtering the forest defenders and rallying goblinoid tribes in the name
+    of vengeance. Can you stop them in time?
+  released: '2018-06-28'
+  url: 'https://www.dmsguild.com/product/245751/CCCSFBAY0403-The-Ashen-Scar'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Boots of Elvenkind
+      rarity: uncommon
+    - name: Arrow, +1
+      rarity: uncommon
+      consumable: true
+      count: 10
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Draught of the Feywild
+      description: >-
+        Dandelion the dryad gifted you with a sip from the magical spring within
+        her glade. This water increases your maximum expected lifespan by 20
+        years. This Story Award does not interfere with *potions of longevity*
+        or other effects that reduce your actual age.
+    - name: Mulmaster Cloaks
+      description: >-
+        *The Ashen Scar* is considered a Mulmaster adventure for purposes of
+        rank in the Cloaks.
+
+        Instead of worrying about the punishments for using magic, arcane casters
+        may choose to join the Brotherhood of the Cloaks. Characters that do so
+        must swear to defend the rule of the High Blade, protect Mulmaster from
+        the incursion of arcane magic and uphold the Edict of Arcane Banishment.
+        Being a Cloak costs the character 3 Downtime Days per Mulmaster adventure
+        played, and the character must maintain a wealthy lifestyle for that downtime.
+
+        Joining the Cloaks is not without its benefits. All Cloaks receive a
+        square medallion that denotes membership in the Brotherhood. This
+        medallion gives the character advantage on social skill checks made with
+        officials of Mulmaster (DM’s discretion). For each Mulmaster adventure
+        played, the character gains one rank in the Cloaks organization. For each
+        To Wear a Cloak favor the character has, he or she also gains an additional
+        rank.
+  missing:
+    - credits
+
+
+- code: CCC-SHINY-02
+  name: An Open Secret
+  description: >-
+    In a smoky tavern in the frontier town of Ylraphon, a drunken sailor cries
+    in her beer. Befriending a group of adventurers, she confesses that she saw
+    her spouse with someone else, and she worries what may come of it.
+    Beseeching the adventurers to help her, the sailor asks them to investigate
+    to find if her fears have come true, or if it is all a simple
+    misunderstanding.
+  released: '2018-08-13'
+  url: 'https://www.dmsguild.com/product/249748/CCCSHINY02-An-Open-Secret'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Eyes of the Eagle
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-SHINY-04
+  name: Elusion of Grand Yore
+  description: >-
+    A svirfneblin clan elder and arcanist of Lumindearth has gone missing.
+    Courageous adventurers have been called upon to bring him home, but they’ll
+    need their wits about them if they are to survive this rescue mission in the
+    enigmatic Underdark.
+  released: '2019-02-22'
+  url: 'https://www.dmsguild.com/product/267114/CCCSHINY04-Elusion-of-Grand-Yore'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Gem of Seeing
+      rarity: rare
+    - name: Pipe of Smoke Monsters
+      rarity: common
+    - name: Potion of Diminution
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Growth
+      rarity: uncommon
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Grimblr’s Spellbook
+      spells:
+        - name: color spray
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: silent image
+          level: 1
+        - name: shield
+          level: 1
+        - name: magic mouth
+          level: 2
+        - name: mirror image
+          level: 2
+        - name: phantasmal force
+          level: 2
+        - name: fear
+          level: 3
+        - name: dispel magic
+          level: 3
+        - name: major image
+          level: 3
+        - name: greater invisibility
+          level: 4
+        - name: hallucinatory terrain
+          level: 4
+        - name: phantasmal killer
+          level: 4
+        - name: mislead
+          level: 5
+        - name: wall of force
+          level: 5
+        - name: contingency
+          level: 6
+        - name: programmed illusion
+          level: 6
+        - name: mirage arcane
+          level: 7
+        - name: project image
+          level: 7
+        - name: illusory dragon
+          level: 8
+        - name: weird
+          level: 9
+  storyAwards:
+    - name: Delusional Misidentification
+      description: >-
+        As a result of being afflicted with *indefinite madness* during this
+        adventure, your character gains the following *flaw*:
+
+        *I am often suspicious that others are not who they say they are, and
+        I am not afraid to confront them about it.*
+
+        A *greater restoration* spell or more powerful magic is required to
+        rid a character of this *indefinite madness*.
+  missing:
+    - credits
+
+
+- code: CCC-SKULL-01-01
+  name: A Murder Most Foul
+  description: >-
+    In the sewers beneath the ruined streets of Mulmaster, a murdered corpse has
+    been found: the nephew of a prominent noble. Once great houses are at each
+    other’s throats with accusations as the desperate family seeks out the
+    truth. Part One of the *Silver Skulls Legacy*.
+  released: '2019-04-08'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/262840/CCCSKULL0101-A-Murder-Most-Foul'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Heward’s Handy Haversack
+      rarity: rare
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Friend of the Fallen
+      description: >-
+        You have earned favor among the sewer refugees, which act as a loosely
+        knit communications network and potential information source in later
+        modules.
+  missing:
+    - credits
+
+
+- code: CCC-SKULL-01-02
+  name: Not All Who Are Lost Should Be Found
+  description: >-
+    An elusive Master Thief claims to have information regarding the murder of a
+    prominent noble’s nephew. However, the adventurers must first prove
+    themselves by finding something the Master Thief lost. Part Two of the
+    *Silver Skulls Legacy*.
+  released: '2019-04-08'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/262841/CCCSKULL0102-Not-All-Who-Are-Lost-Should-Be-Found'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Wand of Magic Missiles
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Dispel Magic
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Protection from Energy
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-SKULL-01-03
+  name: Who Pulls the Strings
+  description: >-
+    Pursuing the murderers of the nephew of a prominent noble house has revealed
+    more than a simple random crime. A new group or faction has risen from the
+    ashes and dust from destruction of Mulmaster, and its nature and intent
+    still unknown. The leader of the Silver Skulls is a mystery, and perhaps a
+    threat to what little stability Mulmaster has found since disaster struck.
+    Part Three of the *Silver Skulls Legacy*.
+  released: '2019-04-08'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/262844/CCCSKULL0103-Who-Pulls-the-Strings'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Dimensional Shackles
+      rarity: rare
+    - name: Spell Scroll of Fear
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Fly
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-SLMH01-01
+  name: Codex Venator
+  description: >-
+    The last descendent of an ancient order would like to vanquish that evil
+    before it spreads, but, betrayed by his age, he’ll need the help of noble
+    adventurers to fulfill his ancient thirst for vengeance.
+  released: '2019-08-20'
+  url: >-
+    https://www.dmsguild.com/product/286221/CCCSLMH0101-Codex-Venator--The-Last-Hunter
+  tier: 2
+  length: 
+  apl: 
+  storyAwards:
+    - name: Newblood Hunters
+      description: >-
+        The characters have chosen to join the ancient **Order of the Noble
+        Hunters** signing a contract with their own blood.
+
+        They can now use the manor as a base of their operation and they will
+        certainly become entangled with other mysterious assignments from the
+        Order.
+
+        Naturally, this will draw the attention of old enemies of the order…
+  missing:
+    - credits
+
+
+- code: CCC-SQC-01
+  name: The Woodland Sage
+  description: >-
+    A popular noble just outside the city of Hillsfar is in trouble. He has been
+    poisoned and his niece has been kidnapped by a group of outlaw druids who
+    call themselves, the Blackleaf Clan. Adventurers are sought to go on a quest
+    to find a mysterious woodland sage through a hidden cavern that hides a
+    temple that has been concealed for countless years. Only this sage holds the
+    key to saving the nobleman’s life and helping the adventurers find the lair
+    of the Blackleaf Clan so they can save the well-loved nobleman and rescue
+    his niece. Prequel to the *Devil in Hillsfar*.
+  released: '2018-09-29'
+  url: 'https://www.dmsguild.com/product/253547/CCCSQC001-The-Woodland-Sage'
+  tier: 2
+  length: 
+  apl: 
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-SQC-02-01
+  name: None the Wiser
+  description: >-
+    A lot has changed in Hillsfar since the assault of the Dark Feys from the
+    Cormanthor Forest. Due to limited options, First Lord Vuhm Yestral accepted
+    an offer for aid from the Red Wizards of Thay, who now work to rebuild the
+    city. A Senate has been elected to ensure fair rule in Hillsfar, and a new
+    Guard Captain has also been selected to replace the traitor, Jandra
+    Gragdowel. Adventurers receive a job offer from the new Guard Captain. What
+    could he need? Part One of the *Devil in Hillsfar*.
+  released: '2018-09-29'
+  url: 'https://www.dmsguild.com/product/253561/CCC--SQC--02--01-None-the-Wiser'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Bracers of Defense
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Crazy Squirrel
+      description: >-
+        Clad in shinny plate armor, this adorable squirrel is often seen holding
+        what appears to be an acorn. However, upon closer inspection, one will
+        notice it is holding a 20-sided-die.
+
+        If killed or reduced to 0 hit points, The Crazy Squirrel can be recalled
+        via *find familiar*, and uses the statistics of a **cat** from the
+        *Monster Manual*. It has proficiency in all gaming sets. The shinny plate
+        armor has no effect on the Squirrel’s AC.
+      type: familiar
+    - name: Fallen for or Thwarted the Devil’s Plot
+      description: >-
+        This story award is used to record the outcome of this adventure.
+        “Fallen for” is recorded if the group accuses the wrong person and
+        allows the Red Wizard Norre to shame them in front of the Senate for
+        their mistake. “Thwarted” is recorded if the group accuses Norre. This
+        story award denotes the outcome of the module and affects certain
+        encounters in **CCC–SQC–02-02**: *Last Gasp*.
+    - name: Murderers
+      description: >-
+        This story award is earned if the group murders the innocent humans
+        outside Hillsfar. News of their deed spreads throughout Hillsfar. There
+        will be consequences for their actions in the future.
+  missing:
+    - credits
+
+
+- code: CCC-SQC-02-02
+  name: Last Gasp
+  description: >-
+    Thay is turning over a new leaf! Their new ambassador to Hillsfar is a
+    specialist in good magic, so the PCs are recruited to assist her in
+    acquiring good sources of power for her spells. What could go wrong? Part
+    Two of the *Devil in Hillsfar*.
+  released: '2018-10-01'
+  url: 'https://www.dmsguild.com/product/253726/CCC--SQC--02--02-Last-Gasp'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Elven Chain
+      rarity: rare
+    - name: Potion of Giant Strength (Fire)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Passwall
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Persona Non Grata (Thay)
+      description: >-
+        You have been caught committing a crime in Thay while under diplomatic
+        credentials. You have been expelled from Thay and declared a criminal if
+        you ever return.
+    - name: Meteor Wrangler
+      description: >-
+        You helped stop a meteor from hitting Hillsfar. The archlich Alanax
+        Bellicent has crafted a penannular cloak pin for you depicting your
+        actions during the meteor fight.
+  missing:
+    - credits
+
+
+- code: CCC-SQC-03-01
+  name: Consumption
+  description: >-
+    After the death of a local historian, adventurers discover that no one is
+    safe within the walls of Hillsfar. Will you they able to stop the culprits
+    before the city is consumed from within?
+  released: '2019-12-13'
+  url: 'https://www.dmsguild.com/product/295761/CCCSQC00301-Consumption'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Pipe of Smoke Monsters
+      rarity: common
+    - name: Wand of Secrets
+      rarity: uncommon
+  storyAwards:
+    - name: Celia the Squirrel
+      description: >-
+        This squirrel is native to the Feywild, evidenced by its bright blue fur
+        and penchant for wild magical effects. This loyal pet may accompany you
+        on adventures, but cannot participate in combat or provide any
+        mechanical benefit.
+      type: pet
+    - name: The Pursuit of Knowledge
+      description: >-
+        You chose to absorb knowledge rather than losing it to the Oozes. As a
+        result, you infrequently have the feeling of something slithering
+        underneath your skin and your blood appears midnight black.
+  missing:
+    - credits
+
+
+- code: CCC-SQC-03-02
+  name: Shiitake
+  description: >-
+    As news of gruesome murders begin to die down within the walls of Hillsfar,
+    reports of deaths in the farmland reach the Senate. Coincidences or is there
+    a bigger evil behind all this?
+  released: '2019-12-13'
+  url: 'https://www.dmsguild.com/product/295790/CCC--SQC--0302-Shiitake'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Heward’s Handy Spice Pouch
+      rarity: common
+    - name: Winged Boots
+      rarity: uncommon
+    - name: Potion of Climbing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Aid
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Crazy Squirrel (Paladin)
+      description: >-
+        Clad in shinny plate armor, this adorable squirrel also wields a sword
+        and a shadow shield with a red symbol of the Raven Queen glowing. If
+        *Speak with Animal* is used to communicate with it, it says it is a
+        Paladin of the Raven Queen and is here to smite undeads!
+
+        This Crazy Squirrel functions as a pet, does not contribute to combat,
+        or provide any benefit beyond its adorableness!
+      type: pet
+    - name: Time is of Your Essence
+      description: >-
+        You have assisted the Thoon Mind Flayers to acquire a strange substance
+        they call quintessence. Aiding the mysterious creatures may yield
+        dividend in the future. You would hope…
+  missing:
+    - credits
+
+
+- code: CCC-SQC-03-03
+  name: Toxicity
+  description: >-
+    Humans and nonhumans are dying of poison across Hillsfar. As old tensions
+    flare up in the Senate, can you bring the mysterious mastermind to justice
+    before civil war erupts in the streets?
+  released: '2019-12-13'
+  url: 'https://www.dmsguild.com/product/295878/CCCSQC-0303-Toxicity'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Bag of Tricks (Rust)
+      rarity: uncommon
+    - name: Horn of Silent Alarm
+      rarity: common
+    - name: Potion of Resistance (Acid)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Eldritch Squirrel
+      description: >-
+        You found an adorable squirrel playing in a vat of harmless ooze in
+        Gourmand’s lair. This squirrel likes to play pranks and stare in to
+        space, acting like it is seeing through your eyes. It uses the
+        statistics of a **cat** from the *Monster Manual*.
+
+        The character who earns the squirrel can name it, and becomes
+        convinced the squirrel can telepathically communicate its feelings
+        and desires.
+      type: pet
+    - name: My Dreams Taste Like Raspberries
+      description: >-
+        You bonded with Kenna one way or another, and now she always seems to
+        know when you are in town. Any time you rest in Hillsfar, you have
+        surreal dreams of tracking pie demons that always end in a scrumptious
+        dessert. Kenna also pledges more tangible aid, should you need it in a
+        future adventure.
+  missing:
+    - credits
+
+
+- code: CCC-SRCC-01-01
+  name: Trouble in the Old City
+  description: >-
+    The town of Ylraphon on the border of the Flooded Forest has been targeted
+    by the yuan-ti. One of them has uncovered an ancient ritual to change the
+    people of the area called the Old City into their servants. Can the
+    adventurers stop the yuan-ti in time? The whole of the Moonsea may be at
+    risk if they fail.
+  released: '2017-10-03'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/223038/CCCSRCC0101-Trouble-in-the-Old-City'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Corrupted Flamesoul Stone
+      rarity: unique
+    - name: Slippers of Spider Climbing
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Protection from Poison
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Guild Delving
+      description: "Immediately before or after an adventure set in Ylraphon, you may spend up to **30 downtime days** (minimum 10) to attempt to research, find, and explore some of the ruins of Outer Ylraphon in search of treasure. In the presence of the DM, roll percentile dice and add the number of days spent on this downtime activity, comparing the total to the Treasure Seeking Results Table on this page.\n\n| d100 + Downtime Spent | Result |\n| ------ | ------ |\n| 1–35 | A fatiguing and fruitless cavern exploration. You spend 10 gp on expenses and gain 4 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 36–50 | A difficult and taxing trudge through the Flooded Forest. You gain 2 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 51–65 | A strange and discouraging affair. You make only enough to recuperate half of your lifestyle expenses. |\n| 66–79 | A lengthy but unremarkable overland trip. You recuperate half your lifestyle expenses and gain 2d12 gp. |\n| 80–89 | A profitable expedition to the Underdark. You recuperate half your lifestyle expenses and gain 1d4 x 10 gp. |\n| 90–99 | An exciting delve into a lost dwarven tomb. You recuperate half your lifestyle expenses and gain 1d6 x 10 gp. |\n| 100–109 | An unexpected discovery of a long-lost merchant house compound. You recuperate all your lifestyle expenses and gain 1d8 x 10 gp, as well as a book on the history of a Sword Coast city or town. (Have your DM select a title for it.) |\n| 110–119 | A lost shrine. You recuperate all your lifestyle expenses and gain 1d10 x 10 gp as well as a holy symbol for a deity of your choice. |\n| 120\_or\_Higher | Altar of the Ghost Hound. You find a millennia-old shrine to a god you cannot identify, with treasures laid upon an altar deep beneath the ground. You recuperate all your lifestyle expenses and gain 1d12 x 10 gp as well as a *potion of healing*. ***If this is the first time you have rolled this result:*** You also gain a shining copper cloak-pin bearing the image of a flaming spirit hound. Write down “Copper Pin of the Spirit Hound” as a separate story award on your logsheet. |"
+      type: downtime
+    - name: Hold onto Your Butts!
+      description: >-
+        Your character has now seen the following beasts, and if they have the
+        Wild Shape ability and otherwise meet the requirements, they may change
+        into them: allosaurus, pteranodon, axe beak, crocodile, saber-toothed
+        tiger, tiger, and velociraptor.
+    - name: 'Local Pursuit: Healing the Sick'
+      description: >-
+        You have spent time working with the healers of Ylraphon to help people
+        recover from the Serpent’s Kiss. Record the story award Local Pursuit:
+        Healing the Sick. Immediately before or after an adventure set in
+        Ylraphon, you may spend 5 downtime days helping the city healers. Once
+        during your next game session after this activity, you may inform your
+        DM you are using this benefit to roll a Wisdom (Medicine) check to
+        stabilize or heal a target as a bonus action instead of an action.
+    - name: 'Local Pursuit: Metaphysical Studies'
+      description: >-
+        You have enrolled for tutoring with the mysterious spellcaster known as
+        the Crowngold, though such teaching is sporadic during the brief periods
+        she spends visiting the Old City. This does not affiliate you with the
+        Brixmarsh School of Magic, at which she is a teacher, but her tutoring
+        may be very helpful if you ever pursue related studies or research, and
+        makes your insights into certain subjects more valuable. Immediately
+        before or after an adventure set in Ylraphon, you may spend 3 downtime
+        days receiving the Crowngold’s tutelage. Once during your next game
+        session after this activity, when you grant another character advantage
+        on an Intelligence (Arcana or History) check by assisting them, you may
+        inform your DM you are also using this benefit to roll 1d4 and grant
+        that character a bonus on the Intelligence check equal to the number
+        rolled.
+    - name: 'Local Pursuit: Part-Time Taverner'
+      description: >-
+        Your experiences in the Old City brought you into contact with a group
+        of would-be tavern owners looking to found their own place outside the
+        Palisade, who offered to bring you in as a partner. Choose a name for
+        the tavern and record the name as part of this story award (*“Local
+        Pursuit: Business Owner (Name of Tavern)”*). If you wish, you can write
+        down the same tavern name as other characters who take this story award,
+        making them some of your partners. Immediately before or after an
+        adventure set in Ylraphon, you can spend up to 10 downtime days tending
+        to your business, making use of the “Running a Business” downtime
+        activity described on page 129 of the *Dungeon Master’s Guide*, with a
+        maintenance cost of 2 gp per day for your share of expenses. In
+        addition, if you purchase a meal or drink in Ylraphon during an
+        adventure, the price you pay is never higher than the normal price
+        listed in the *Player’s Handbook* (this does not affect lifestyle
+        expenses).
+    - name: Ylraphon Adventurers Guild
+      description: >-
+        The Adventurers Guild of Ylraphon is a loose-knit league of
+        “dungeoneers, tomb-robbers, errant crusaders, swashbuckling mercenaries,
+        and sundry formidable scalawags of all races and vocations” (according
+        to its charter). It represents adventurers’ interests in town and helps
+        regulate the profitable exploration of the surrounding ruins.
+
+         To initially join the Adventurers Guild of Ylraphon, a character must speak to Jotan Silverhammer, lieutenant guildmaster and volunteer sergeant of the Town Watch. There is no cost if you discovered the cause of the illness affecting the Old City, or if you obtain one of the **Local Pursuit** story awards, due to your substantial contribution to prosperity of the Old City. Otherwise, initial dues are 50 gp, with additional payments of 12 gp a month. These costs are waived, however, for volunteers either who work three shifts a month for the Town Watch. In game terms, this means a character must spend 50 gp to join, and to remain a member, whenever they spend downtime, they must spend an additional 4 gp for every 10 downtime days they spend (though you may be able to substitute downtime for this cost, see below).
+
+         If a character who owes these dues fails to pay them as soon as they spend downtime, they must pay them by the end of their next game session or they lose all benefits of guild membership, and must pay the 50 gp initial dues again to regain them.
+
+         Members of the Adventurers Guild may delve local ruins in search of treasure. They gain access to the **Guild Delving** downtime activity before or after any adventure set in Ylraphon.
+  missing:
+    - credits
+
+
+- code: CCC-SRCC-01-02
+  name: Down the River of Snakes
+  description: >-
+    The yuan-ti have a demented scheme to bring the most vulnerable denizens of
+    the small town of Ylraphon under their sway. Can the adventurers traverse
+    the Flooded Forest, one of the most dangerous areas of wilderness in all
+    Faerûn, in time to stop the machinations of the serpent god’s fanatical
+    priest?
+  released: '2017-10-03'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/223039/CCCSRCC0102-Down-the-River-of-Snakes'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: 'Foxblade (Shortsword, +1)'
+      rarity: uncommon
+    - name: 'Arrow, +1'
+      rarity: uncommon
+      consumable: true
+      count: 10
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Guild Delving
+      description: "Immediately before or after an adventure set in Ylraphon, you may spend up to **30 downtime days** (minimum 10) to attempt to research, find, and explore some of the ruins of Outer Ylraphon in search of treasure. In the presence of the DM, roll percentile dice and add the number of days spent on this downtime activity, comparing the total to the Treasure Seeking Results Table on this page.\n\n| d100 + Downtime Spent | Result |\n| ------ | ------ |\n| 1–35 | A fatiguing and fruitless cavern exploration. You spend 10 gp on expenses and gain 4 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 36–50 | A difficult and taxing trudge through the Flooded Forest. You gain 2 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 51–65 | A strange and discouraging affair. You make only enough to recuperate half of your lifestyle expenses. |\n| 66–79 | A lengthy but unremarkable overland trip. You recuperate half your lifestyle expenses and gain 2d12 gp. |\n| 80–89 | A profitable expedition to the Underdark. You recuperate half your lifestyle expenses and gain 1d4 x 10 gp. |\n| 90–99 | An exciting delve into a lost dwarven tomb. You recuperate half your lifestyle expenses and gain 1d6 x 10 gp. |\n| 100–109 | An unexpected discovery of a long-lost merchant house compound. You recuperate all your lifestyle expenses and gain 1d8 x 10 gp, as well as a book on the history of a Sword Coast city or town. (Have your DM select a title for it.) |\n| 110–119 | A lost shrine. You recuperate all your lifestyle expenses and gain 1d10 x 10 gp as well as a holy symbol for a deity of your choice. |\n| 120\_or\_Higher | Altar of the Ghost Hound. You find a millennia-old shrine to a god you cannot identify, with treasures laid upon an altar deep beneath the ground. You recuperate all your lifestyle expenses and gain 1d12 x 10 gp as well as a *potion of healing*. ***If this is the first time you have rolled this result:*** You also gain a shining copper cloak-pin bearing the image of a flaming spirit hound. Write down “Copper Pin of the Spirit Hound” as a separate story award on your logsheet. |"
+      type: downtime
+    - name: 'Local Pursuit: Healing the Sick'
+      description: >-
+        You have spent time working with the healers of Ylraphon to help people
+        recover from the Serpent’s Kiss. Record the story award *Local Pursuit:
+        Healing the Sick*. Immediately before or after an adventure set in
+        Ylraphon, you may spend 5 downtime days helping the city healers. Once
+        during your next game session after this activity, you may inform your
+        DM you are using this benefit to roll a Wisdom (Medicine) check to
+        stabilize a target within 5 feet as a bonus action instead of an action.
+    - name: 'Local Pursuit: Swamp Guide'
+      description: >-
+        Your experience navigating the shifting landscape of the Flooded Forest
+        can be put to good use guiding others who need to travel through that
+        deadly wilderness. Repeated return trips to the area give you an
+        instinctive for keeping your footing on treacherous terrain. Record the
+        story award *Local Pursuit: Swamp Guide*. Immediately before or after an
+        adventure set in Ylraphon, you may spend 5 downtime days guiding
+        hunters, scavengers, and others through the nearest parts of the Flooded
+        Forest. Once during your next game session after this activity, you may
+        inform your DM you are using this benefit to gain advantage on a
+        Strength (Athletics) or Dexterity (Acrobatics) check to jump over an
+        obstacle, climb natural terrain, keep your balance, or avoid falling.
+    - name: 'Took Too Long: Short Rest Only'
+      description: >-
+        You took too long to reach the tower, and do not have enough time to
+        complete it by activating the magical candle you were given at dawn
+        unless you do not take a long rest. Take the benefits of a short rest,
+        then record your current hit points, spell slots, uses of features and
+        traits, and other resources that might be restored to some degree by a
+        long rest. You begin your next adventure in this exact state (subject to
+        any expenditures of downtime or any benefits to gaining a level if you
+        gain one).
+    - name: 'Took Too Long: Unprotected by the Candle'
+      description: >-
+        You took too long to reach the tower, and do not have enough time to
+        complete it by activating the magical candle you were given at dawn
+        unless you do not take a long rest. You can take a long rest, but you do
+        not benefit from the magical candle’s protections against the defenses
+        of the temple. (If you play the adventure **SRCC-01-03** *The Altar of
+        the Smoldering Eye*, this will be a major disadvantage.)
+    - name: Ylraphon Adventurers Guild
+      description: >-
+        The Adventurers Guild of Ylraphon is a loose-knit league of
+        “dungeoneers, tomb-robbers, errant crusaders, swashbuckling mercenaries,
+        and sundry formidable scalawags of all races and vocations” (according
+        to its charter). It represents adventurers’ interests in town and helps
+        regulate the profitable exploration of the surrounding ruins.
+
+         To initially join the Adventurers Guild of Ylraphon, a character must speak to Jotan Silverhammer, lieutenant guildmaster and volunteer sergeant of the Town Watch. There is no cost if you discovered the cause of the illness affecting the Old City, or if you obtain one of the **Local Pursuit** story awards, due to your substantial contribution to prosperity of the Old City. Otherwise, initial dues are 50 gp, with additional payments of 12 gp a month. These costs are waived, however, for volunteers either who work three shifts a month for the Town Watch. In game terms, this means a character must spend 50 gp to join, and to remain a member, whenever they spend downtime, they must spend an additional 4 gp for every 10 downtime days they spend (though you may be able to substitute downtime for this cost, see below).
+
+         If a character who owes these dues fails to pay them as soon as they spend downtime, they must pay them by the end of their next game session or they lose all benefits of guild membership, and must pay the 50 gp initial dues again to regain them.
+
+         Members of the Adventurers Guild may delve local ruins in search of treasure. They gain access to the **Guild Delving** downtime activity before or after any adventure set in Ylraphon.
+  missing:
+    - credits
+
+
+- code: CCC-SRCC-01-03
+  name: Altar of the Smoldering Eye
+  description: >-
+    A fanatical priest nears completion of an ancient ritual that will transform
+    the residents of Ylraphon’s Old City into yuan-ti. It has been revealed that
+    he hides in a ruined temple in the Flooded Forest. The sands of time quickly
+    slip away as our adventurer’s approach.
+  released: '2017-10-03'
+  creator: Mount Ogden Gaming Company
+  url: >-
+    https://www.dmsguild.com/product/223041/CCCSRCC0103-Altar-of-the-Smoldering-Eye
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Staff of the Adder
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Captured!
+      description: >-
+        You have become a servant of the yuan-ti Sitalash and must escape.
+        Escaping costs 5 downtime days as you and your fellow captives create
+        and execute a daring escape. However, seeing yuan-ti causes you
+        flashbacks to the horrors you experienced. The next time you roll
+        Initiative when yuan-ti are present, you have disadvantage on that
+        Initiative roll.
+    - name: Guild Delving
+      description: "Immediately before or after an adventure set in Ylraphon, you may spend up to **30 downtime days** (minimum 10) to attempt to research, find, and explore some of the ruins of Outer Ylraphon in search of treasure. In the presence of the DM, roll percentile dice and add the number of days spent on this downtime activity, comparing the total to the Treasure Seeking Results Table on this page.\n\n| d100 + Downtime Spent | Result |\n| ------ | ------ |\n| 1–35 | A fatiguing and fruitless cavern exploration. You spend 10 gp on expenses and gain 4 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 36–50 | A difficult and taxing trudge through the Flooded Forest. You gain 2 levels of exhaustion. For each downtime day you spend recovering before your next adventure, you remove one of these exhaustion levels. |\n| 51–65 | A strange and discouraging affair. You make only enough to recuperate half of your lifestyle expenses. |\n| 66–79 | A lengthy but unremarkable overland trip. You recuperate half your lifestyle expenses and gain 2d12 gp. |\n| 80–89 | A profitable expedition to the Underdark. You recuperate half your lifestyle expenses and gain 1d4 x 10 gp. |\n| 90–99 | An exciting delve into a lost dwarven tomb. You recuperate half your lifestyle expenses and gain 1d6 x 10 gp. |\n| 100–109 | An unexpected discovery of a long-lost merchant house compound. You recuperate all your lifestyle expenses and gain 1d8 x 10 gp, as well as a book on the history of a Sword Coast city or town. (Have your DM select a title for it.) |\n| 110–119 | A lost shrine. You recuperate all your lifestyle expenses and gain 1d10 x 10 gp as well as a holy symbol for a deity of your choice. |\n| 120\_or\_Higher | Altar of the Ghost Hound. You find a millennia-old shrine to a god you cannot identify, with treasures laid upon an altar deep beneath the ground. You recuperate all your lifestyle expenses and gain 1d12 x 10 gp as well as a *potion of healing*. ***If this is the first time you have rolled this result:*** You also gain a shining copper cloak-pin bearing the image of a flaming spirit hound. Write down “Copper Pin of the Spirit Hound” as a separate story award on your logsheet. |"
+      type: downtime
+    - name: 'Local Pursuit: House Affapanov Militia'
+      description: >-
+        Your deeds City have impressed the leaders of House Affapanov, one of
+        the merchant houses that rule Ylraphon, and you have been offered a
+        commission as an officer in their house militia. Immediately before or
+        after an adventure set in Ylraphon, you may spend 5 downtime days on
+        duty training with Zor Serge Affapanov’s military advisor, a blue-
+        horned tiefling and Warlock Knight of Vaasa named Agate. Once during
+        your next game session after this activity, you may inform your DM you
+        are using this benefit to either gain advantage on a single attack roll
+        with a piercing weapon or a cantrip, or on a single Charisma check with
+        a professional soldier or a member of House Affapanov. When you use this
+        benefit on an attack roll, the attack blazes with a violet, starlight
+        glare.
+
+         ***Note:*** *You cannot claim this story award if you have another story award that makes you a member of a different house militia in Ylraphon (such as* Local Pursuit: House Marsh Militia*), and claiming this award prevents you from gaining other such house militia story awards in the future.*
+    - name: 'Local Pursuit: House Marsh Militia'
+      description: >-
+        Your deeds have impressed some of the leading members of House Marsh,
+        one of the merchant houses that rule Ylraphon, and you have been offered
+        a commission as an officer in their house militia. Immediately before or
+        after an adventure set in Ylraphon, you may spend 5 downtime days on
+        duty training with either the paladin Sir Bresden Marsh or his ally the
+        blood orc Krim Dragul. Once during your next game session after this
+        activity, you may inform your DM you are using this benefit to either
+        gain advantage on a single attack roll with a slashing or bludgeoning
+        weapon, or on a single Charisma check with a professional soldier, a
+        blood orc, or a member of House Marsh.
+
+         ***Note:*** *You cannot claim this story award if you have another story award that makes you a member of a different house militia in Ylraphon (such as* Local Pursuit: House Affapanov Militia*), and claiming this award prevents you from gaining other such house militia story awards in the future.*
+    - name: 'Local Pursuit: Old City Homesteader'
+      description: >-
+        You have chosen to make a new home in the mix of ruins and residences
+        outside Ylraphon’s Palisade known as the Old City. This story award
+        marks you as a resident of Ylraphon. One time, immediately before or
+        after an adventure set in Ylraphon, you can spend 1,000 gp and 30
+        downtime days to become the owner of a 10-foot by 10-foot room which you
+        can call entirely your own, which contains a bed, one chest, two chairs,
+        and a very small table. Because you live among them, during adventures
+        set in Ylraphon or the Flooded Forest, you gain advantage on Charisma
+        (Persuasion) checks made to influence refugees from Mulmaster and other
+        Moonsea ports.
+    - name: 'Local Pursuit: Part-Time Taverner'
+      description: >-
+        Your experiences in the Old City brought you into contact with a group
+        of would-be tavern owners looking to found their own place outside the
+        Palisade, who offered to bring you in as a partner. Choose a name for
+        the tavern and record the name as part of this story award (*“Local
+        Pursuit: Part-Time Taverner (Name of Tavern)”*). If you wish, you can
+        write down the same tavern name as other characters who take this story
+        award, making them some of your partners. Immediately before or after an
+        adventure set in Ylraphon, you can spend up to 10 downtime days tending
+        to your business, making use of the “Running a Business” downtime
+        activity described on page 129 of the *Dungeon Master’s Guide*, with a
+        maintenance cost of 2 gp per day for your share of expenses. In
+        addition, if you purchase a meal or drink in Ylraphon during an
+        adventure, the price you pay is never higher than the normal price
+        listed in the *Player’s Handbook* (this does not affect lifestyle
+        expenses).
+    - name: Ylraphon Adventurers Guild
+      description: >-
+        The Adventurers Guild of Ylraphon is a loose-knit league of
+        “dungeoneers, tomb-robbers, errant crusaders, swashbuckling mercenaries,
+        and sundry formidable scalawags of all races and vocations” (according
+        to its charter). It represents adventurers’ interests in town and helps
+        regulate the profitable exploration of the surrounding ruins.
+
+         To initially join the Adventurers Guild of Ylraphon, a character must speak to Jotan Silverhammer, lieutenant guildmaster and volunteer sergeant of the Town Watch. There is no cost if you discovered the cause of the illness affecting the Old City, or if you obtain one of the **Local Pursuit** story awards, due to your substantial contribution to prosperity of the Old City. Otherwise, initial dues are 50 gp, with additional payments of 12 gp a month. These costs are waived, however, for volunteers either who work three shifts a month for the Town Watch. In game terms, this means a character must spend 50 gp to join, and to remain a member, whenever they spend downtime, they must spend an additional 4 gp for every 10 downtime days they spend (though you may be able to substitute downtime for this cost, see below).
+
+         If a character who owes these dues fails to pay them as soon as they spend downtime, they must pay them by the end of their next game session or they lose all benefits of guild membership, and must pay the 50 gp initial dues again to regain them.
+
+         Members of the Adventurers Guild may delve local ruins in search of treasure. They gain access to the **Guild Delving** downtime activity before or after any adventure set in Ylraphon.
+  missing:
+    - credits
+
+
+- code: CCC-ST-02-01
+  name: Embassy of Evil
+  description: |-
+    That which must remain lost has been discovered.
+
+    As magic rains down upon Mulmaster and the city falls to ruin, deep
+    within the inner sanctum of the Thayvian Embassy, Szass Tam’s agents
+    work tirelessly to decipher the Lost Journal of Karsus. Can the heroes
+    stop Szass Tam before he learns the secrets of history’s most notorious
+    Wizard?
+  released: '2018-09-12'
+  url: 'https://www.dmsguild.com/product/252239/CCCST21-Red-War-Embassy-of-Evil'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Thayvian Mantle of Spell Resistance
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Animate Dead
+      rarity: uncommon
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: MuLen’s Travelling Spellbook
+      spells:
+        - name: burning hands
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: scorching ray
+          level: 2
+        - name: mirror image
+          level: 2
+        - name: shatter
+          level: 2
+        - name: counterspell
+          level: 3
+        - name: fireball
+          level: 3
+        - name: lightning bolt
+          level: 3
+        - name: greater invisibility
+          level: 4
+        - name: ice storm
+          level: 4
+        - name: Bigby’s hand
+          level: 5
+        - name: enervation
+          level: 5
+        - name: chain lightning
+          level: 6
+        - name: globe of invulnerability
+          level: 6
+    - name: Spellbook of Thessyl’k
+      spells:
+        - name: cause fear
+          level: 1
+        - name: charm person
+          level: 1
+        - name: detect magic
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: hold person
+          level: 2
+        - name: misty step
+          level: 2
+        - name: suggestion
+          level: 2
+        - name: counterspell
+          level: 3
+        - name: dispel magic
+          level: 3
+        - name: fireball
+          level: 3
+        - name: greater invisibility
+          level: 4
+        - name: sickening radiance
+          level: 4
+        - name: stoneskin
+          level: 4
+        - name: cone of cold
+          level: 5
+        - name: dominate person
+          level: 5
+        - name: wall of force
+          level: 5
+        - name: true seeing
+          level: 6
+        - name: finger of death
+          level: 7
+        - name: illusory dragon
+          level: 8
+        - name: foresight
+          level: 9
+  storyAwards:
+    - name: Favor of the Harpers
+      description: >-
+        You have earned the personal debt of a High Harper. The next time you
+        visit Phlan, Malkyn invites you to a banquet in your honor at his
+        estate.
+
+        In addition, Malkyn gifts you with a letter of introduction, marking
+        you as an honored ally of the Harpers, which may aid you in future
+        interactions with the Harper Faction.
+    - name: Prisoner of Thay
+      description: >-
+        Captured by the enemy, you were subjected to horrific magical
+        experiments that left you branded with arcane runes, and small throbbing
+        shards of crystal embedded in your flesh.
+
+        If you are hiding, these crystals alert NPC Red Wizards within 10 feet
+        of your location to detect you automatically (as if they had succeeded
+        on their Perception checks).
+
+        You can spend 10 downtime days to have the pulsating crystal shards
+        removed. Removing the crystals in this way removes the ability for Red
+        Wizards to detect your presence, but leaves you with small superficial
+        scars that cannot be healed, or disguised even by *disguise self* or
+        similar spells.
+  missing:
+    - credits
+
+
+- code: CCC-STORM-01
+  name: The Barrows of Solina
+  description: >-
+    Zhentarim traders. Shadowy figures roaming the fields near Hillsfar. How do
+    these all relate? Everything traces back to the recently unearthed
+    grave-barrows. Rescuing a caravan from undead attackers, the adventurers
+    learn of an ancient danger.
+  released: '2018-05-01'
+  url: 'https://www.dmsguild.com/product/241068/CCCSTORM01-The-Barrows-of-Solina'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Dawnfire (Sun Blade)
+      rarity: rare
+    - name: Holy water (flask)
+      rarity: common
+      consumable: true
+      count: 6
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Daylight
+      rarity: uncommon
+      consumable: true
+      count: 2
+  storyAwards:
+    - name: Solina’s Blessing
+      description: >-
+        In the event that you come across Vornjolnir’s machinations or the
+        Harrowed King’s relics, know that Solina’s blessing is upon you.
+  missing:
+    - credits
+
+
+- code: CCC-STORM-02
+  name: 'Swamp of Sorrow: Bloodpurge Village'
+  description: >-
+    Bloodpurge, a bayou village in the Flooded Forest, has come under siege by
+    malevolent powers. Many hunters in this shanty-town have gone missing.
+    Desperate folk murmur rumors of evil lurking in the willow groves.
+  released: '2019-04-04'
+  url: 'https://www.dmsguild.com/product/271604/CCCSTORM02-Swamp-of-Sorrow-Bloodpurge-Village'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Bag of Tricks (Tan)
+      rarity: uncommon
+  storyAwards:
+    - name: The Green Man’s Ire
+      description: >-
+        You disobeyed the Green Man and slew the linnorm of the Flooded Forest.
+        When the treant yelled, “You’ll have no friends of land, sea, or air
+        until you leave my wood”, you felt the tree’s anger.
+
+        You failed to accomplish the Green Man’s quest and have made enemies
+        out of the ancient treants of the Flooded Forest.
+
+        This story award could have an effect in a later adventure.
+  missing:
+    - credits
+
+
+- code: CCC-THENT01-01
+  name: Beneath the Surface
+  description: >-
+    Steam has been rising from ruins east of the city of Thentia for almost two
+    tendays. Scouts and adventurers have gone to investigate, but have not
+    returned. What might be lurking in the depths of those dark places, and will
+    it remain there? Part One of *Squamous Writhings*.
+  released: '2017-10-10'
+  url: 'https://www.dmsguild.com/product/223663/CCCTHENT0101-Beneath-the-Surface'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Pearl of Power
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+  missing:
+    - credits
+
+
+- code: CCC-THENT01-02
+  name: Those That Dwell Beneath
+  description: >-
+    In ruins near the city of Thentia, grungs have been trying to build a portal
+    where they could move slaves in secret from the city of Melvaunt. But
+    something sinister took hold of them, trapping them in the darkness. A map
+    of the ancient city, which once stood on the surface of the land, leads the
+    adventurers deeper into the catacombs. But will they find glory and riches?
+    Or horror and death? Part Two of *Squamous Writhings*.
+  released: '2017-10-10'
+  url: 'https://www.dmsguild.com/product/223665/CCCTHENT0102-Those-That-Dwell-Beneath'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Periapt of Wound Closure
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 3
+  storyAwards:
+    - name: Friend of the Baucha Tribe
+      description: >-
+        You saved the darklings fleeing the monstrous cave fisher, and acted
+        with friendship after. Should your paths cross again, you are hailed as
+        an ally of the Baucha [BOU-ka] tribe of darklings, and have advantage on
+        non-Intimidation Charisma ability checks when interacting with them. If
+        you attempt to use Intimidation on a member of the Baucha tribe, this
+        story award is removed.
+    - name: You Made Matthew Cry!
+      description: >-
+        You revealed the horror of his undead life to Matthew, an innocent child
+        lost in the subterranean city of Yrisgow. His weeping haunts you, even
+        in your dreams. Each time you long rest, make a DC 12 Charisma saving
+        throw. On a failed save, your attacks, skill checks, and saving throws
+        suffer a -1 penalty until you take another long rest, and succeed on the
+        subsequent saving throw.
+
+        A *remove curse* spell will cause the weeping to fade in 1d4-1 days.
+        Further investigation into the ruins of the city may reveal another method
+        to make Matthew stop haunting you. (Play through **CCC-THENT01-03**,
+        *The Dreaming Relic*, for further details.)
+
+        Even when deafened, you can hear the sad wailing. You can gain no respite
+        from Matthew’s sorrow.
+  missing:
+    - credits
+
+
+- code: CCC-THENT01-03
+  name: The Dreaming Relic
+  description: >-
+    The call of fame and fortune has led the adventurers into the deep dark
+    beneath the ruins near the city of Thentia. Facing off against unknown
+    horrors, they have found both enemies and allies. Now, something from the
+    beginning of the world stirs in the black…and it hungers. Part Three of
+    *Squamous Writhings*.
+  released: '2017-10-10'
+  url: 'https://www.dmsguild.com/product/223667/CCCTHENT0103-The-Dreaming-Relic'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Instrument of the Bards (Mac-Fuirmidh Cittern)
+      rarity: uncommon
+    - name: Potion of Growth
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 4
+    - name: Spell Scroll of Comprehend Languages
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Gentle Repose
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Tenser’s Floating Disk
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Knowledge of the Vault
+      description: >-
+        You returned information of surviving scrolls within the Vault to Vayu
+        Ashvin, silver mage of Thentia. Overcome with appreciation, Vayu offers
+        you room and board at his tower any time you are in Thentia. In
+        addition, this information may prove useful during a future adventure.
+  missing:
+    - credits
+
+
+- code: CCC-TTS-01
+  name: Three Moles for Father Octavius
+  description: >-
+    An ancient kindness repaid, a disaster waiting to happen. Can a timely
+    intervention save a befuddled old man and the forgotten cove he loves so
+    dearly.
+  released: '2019-12-30'
+  url: 'https://www.dmsguild.com/product/299061/CCCTTS1-Three-Moles-for-Father-Octavius'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Lead Mining Goggles (Goggles of the Night)
+      rarity: uncommon
+  storyAwards:
+    - name: The Freedom of Kennan’s Cove
+      description: >-
+        You are always welcome to stay in Kennan’s Cove and a bed will always be
+        found for you if you pass this way.
+  missing:
+    - credits
+
+
+- code: CCC-TTS-03
+  name: Heart of the Storm
+  description: >-
+    The city state of Thentia is plagued with relentless storms, with no
+    sunlight in sight. The local wizards believe that the weather may be linked
+    to a sunken ruin and the previous expedition has gone missing. Will the
+    party be able to rescue the adventurers and clear the skies once and for
+    all?
+  released: '2019-12-14'
+  url: 'https://www.dmsguild.com/product/297746/CCCTTS3-Heart-of-the-Storm'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Decanter of Endless Water
+      rarity: uncommon
+  storyAwards:
+    - name: Savior of the Golden Trout
+      description: >-
+        Having saved the local heroes, you have gained celebrity status.
+        Thentians are more than happy to provide you with free lodgings and
+        food. Additionally, thanks to your intervention, the Golden Trout
+        adventuring party is still in business—they will be more than happy to
+        assist you should you run into them again in future adventures.
+  missing:
+    - credits
+
+
+- code: CCC-UK-01
+  name: Call of the Elvenflow
+  description: >-
+    Folk tales warn of strange noises from the Cormanthor Forest when winter
+    fogs are thickest and the black of night has no shadows to cast. When such
+    noises are heard on a late summer’s afternoon, perhaps it’s time to turn
+    once again to the old stories?
+  released: '2018-10-01'
+  url: 'https://www.dmsguild.com/product/253816/CCCUK1-Call-of-the-Elvenflow'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Dust of Dryness
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Blessing of the Hexad
+      description: >-
+        Your kind and considerate treatment of those less fortunate than you
+        have earned you the blessing of the Hexad. You can draw a line through
+        this award when playing **CCC-UK-02**: *The Wayward Wives to gain
+        inspiration*.
+  missing:
+    - credits
+
+
+- code: CCC-UK-02
+  name: The Wayward Wives
+  description: >-
+    Ill winds blow over Wayward. The men drink apart from their wives, while a
+    mysterious traveler sows discontent between married couples. The Wayward
+    wives have had enough and are plotting revenge.
+  released: '2018-10-01'
+  url: 'https://www.dmsguild.com/product/253817/CCCUK2-The-Wayward-Wives'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Broom of Flying
+      rarity: uncommon
+  storyAwards:
+    - name: Witchfinder
+      description: >-
+        You rid the village of Wayward of a troublesome hag. If you report your
+        triumph to the local lord, Bourne of Candles, you may acquire a reward.
+  missing:
+    - credits
+
+
+- code: CCC-UK-03
+  name: The Tainted Grove
+  description: >-
+    Everyone in Moonfern Ford knows to avoid the Tainted Grove, a place of
+    darkness and evil amidst the sylvan beauty of Cormanthor. When a young
+    hunter goes missing in the forest, things in the village take a dark turn.
+  released: '2019-07-22'
+  url: 'https://www.dmsguild.com/product/283656/CCCUK3-The-Tainted-Grove'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Dust of Disappearance
+      rarity: uncommon
+  storyAwards:
+    - name: Local Hero
+      description: >-
+        You saved Mother Aedwen, priest of the Sacred Hexad in Moonfern Ford,
+        from the clutches of the unseelie fey. You must report this success to
+        the local lord of the Elvenflow Estuary, the reclusive Bourne of
+        Candles.
+  missing:
+    - credits
+
+
+- code: CCC-UK-04
+  name: Bourne of Candles
+  description: 'An ancient legend, a missing wife, and a broken heart that time won’t mend.'
+  released: '2019-07-22'
+  url: 'https://www.dmsguild.com/product/283657/CCCUK4-Bourne-of-Candles'
+  tier: 1
+  length: 
+  apl: 
+  items:
+    - name: Cloak of the Manta Ray
+      rarity: uncommon
+  storyAwards:
+    - name: Friend of the Bourne
+      description: >-
+        For returning Lady Lenedriel to Bourne Casrob, he forever treats you as
+        a trusted friend and ally. He always grants you an audience and listens
+        favorably to your requests.
+    - name: Knight of the Elvenflow Estuary
+      description: >-
+        For your services to the folk of the Elvenflow Estuary, the Bourne of
+        Candles has dubbed you as a knight of one of the following villages:
+        Buttergroves, Wayward, or Moonfern Ford. You are now treated as a hero
+        of the Evenflow Estuary. This award does not confer any mechanical
+        benefits or retainers, though it may impact further storylines set in
+        this area.
+  missing:
+    - credits
+
+
+- code: CCC-VOTE-01-01
+  name: A Small Trifle
+  description: >-
+    Jeny Greenteeth again needs the help of adventurers, and this time, she is
+    willing to pay a large price for their help—restoring the pact between Phlan
+    and the fey of the Quivering Forest. All she needs is a coin from a dragon
+    hoard. Easy enough, right? You may change your mind when you hear the name
+    of the dragon…
+  released: '2020-05-08'
+  url: 'https://www.dmsguild.com/product/312580/CCCVOTE0101-A-Small-Trifle'
+  tier: 2
+  length: 
+  apl: 
+  items:
+    - name: Emerald Eye (Ersatz Eye)
+      rarity: common
+    - name: Jeny’s Hairpin (Javelin of Warning)
+      rarity: uncommon
+    - name: Potion of Diminution
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Mage’s Spellbook
+      spells:
+        - name: fire bolt
+          level: 0
+        - name: light
+          level: 0
+        - name: mage hand
+          level: 0
+        - name: prestidigitation
+          level: 0
+        - name: detect magic
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: shield
+          level: 1
+        - name: misty step
+          level: 2
+        - name: suggestion
+          level: 2
+        - name: counterspell
+          level: 3
+        - name: fireball
+          level: 3
+        - name: fly
+          level: 3
+        - name: greater invisibility
+          level: 4
+        - name: ice storm
+          level: 4
+        - name: cone of cold
+          level: 5
+  storyAwards:
+    - name: 'Banned: Stygia'
+      description: >-
+        The frozen, inhospitable wilderness of Stygia is home to many vile
+        creatures as well as an uncountable number from the Material Plane.
+        Desperate criminals and those condemned to death may pray to Levistus,
+        the ruler of Stygia, for freedom; should he answer, they are transported
+        here. For reasons known only to you and him, you are forever banned from
+        setting foot within Stygia. Perhaps you redeemed too many souls, or
+        maybe you were discovered to be in league with Geryon, the former ruler
+        of this realm; regardless, Levistus has closed this later of the Nine
+        Hells to you. You can’t participate in further adventures in this place.
+
+        A character with this story award may visit other areas of the Nine Hells
+        but has been banned from Stygia.
+  missing:
+    - credits
+

@@ -1,0 +1,193 @@
+- code: CCC-ROZK-01-01
+  name: Binder’s Torment
+  description: >-
+    While attending the first annual Reclamation Day Festival in Phlan, a
+    mysterious book is given to the adventurers, leading them to what appears to
+    be an abandoned print shop west of the city. There they meet a would-be
+    benefactor, who seeks their help in ridding the southern ruins of Zhentil
+    Keep of a growing threat, the Ebon Tide, a group of mercenaries and bandits
+    that are quickly becoming the scourge of the Moonsea.
+  released: '2017-09-18'
+  url: 'https://www.dmsguild.com/product/221932/CCCROZK0101-Binders-Torment'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Wand of the War Mage, +2
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 2
+    - name: Potion of Speed
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Banishment
+      rarity: rare
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Black Leather Spellbook
+      spells:
+        - name: detect magic
+          level: 1
+        - name: feather fall
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: detect thoughts
+          level: 2
+        - name: locate object
+          level: 2
+        - name: scorching ray
+          level: 2
+        - name: clairvoyance
+          level: 3
+        - name: fly
+          level: 3
+        - name: fireball
+          level: 3
+        - name: arcane eye
+          level: 4
+        - name: ice storm
+          level: 4
+        - name: stoneskin
+          level: 4
+        - name: Rary’s telepathic bond
+          level: 5
+        - name: scrying
+          level: 5
+        - name: mass suggestion
+          level: 6
+        - name: true seeing
+          level: 6
+        - name: delayed blast fireball
+          level: 7
+        - name: teleport
+          level: 7
+        - name: maze
+          level: 8
+  storyAwards:
+    - name: An Ally In the Ebon Tide
+      description: >-
+        You convinced the Blackwind, Ezechiel Irnestul, to sign on with either
+        the Zhentarim or the Lords’ Alliance. He survives, and his Ebon Tide may
+        prove useful someday soon.
+    - name: Heroes of Reclamation Day
+      description: >-
+        You ran toward danger and saved innocent lives. The people of Phlan will
+        tell tales of your bravery, and business owners wish to show you the
+        city’s gratitude. You receive a 10% discount on goods sold within the
+        city.
+    - name: Yellow-Bellied Cowards!
+      description: >-
+        You stood by and watched as innocent lives were lost. Word of your
+        cowardice spreads like wildfire through the city of Phlan. While in the
+        city, you roll with disadvantage on any Charisma-based checks with the
+        citizens of Phlan, and business owners charge you 10% more on goods sold
+        within the city.
+  missing:
+    - credits
+
+
+- code: CCC-ROZK-01-02
+  name: Zhentarim’s Lament
+  description: >-
+    A dark force is rising from the ruins of Zhentil Keep. The Zhentarim
+    themselves are on the move to stop it from spreading, and you have been
+    pulled into the struggle. Will you find the objects of power that your
+    adversary searches for before it is too late?
+  released: '2017-09-18'
+  url: 'https://www.dmsguild.com/product/221933/CCCROZK0102-Zhentarims-Lament'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Tome of Leadership and Influence
+      rarity: veryRare
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 3
+    - name: Spell Scroll of Enhance Ability
+      rarity: uncommon
+      consumable: true
+      count: 3
+    - name: Spell Scroll of Forcecage
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Programmed Illusion
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Simulacrum
+      rarity: veryRare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Nature of the Weave
+      description: >-
+        You have uncovered a series of tomes written by the archmage, Manshoon.
+        By spending 50 downtime days, you gain proficiency in the Arcana skill.
+        If you are already proficient in Arcana, you double your proficiency
+        when making checks with the skill.
+  missing:
+    - credits
+
+
+- code: CCC-ROZK-01-03
+  name: Necromancer’s Ascent
+  description: >-
+    The necromancer has been revealed, and his tower of black rock now dominates
+    the ruins of Zhentil Keep. You must race against his machinations, or a
+    cloud of undeath will overwhelm the Moonsea and beyond.
+  released: '2017-09-18'
+  url: 'https://www.dmsguild.com/product/221934/CCCROZK0103-Necromancers-Ascent'
+  tier: 3
+  length: 4
+  apl: 14
+  items:
+    - name: Spellguard Shield
+      rarity: veryRare
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 3
+    - name: Potion of Vitality
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Circle of Death
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Contingency
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Mislead
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: You’ve Got a Friend In Me
+      description: |-
+        You have proven yourself an ally to not only your own faction, but to
+        those who banded together to fight the necromancer, Marzellus Marshward.
+        You are always welcome at the Waypoint Bindery, on the northwestern
+        shore of the Moonsea. In addition, you can use the Waypoint to pass word
+        on to your faction, even if your faction representative it not present
+        at the time, and messages will be passed to you should they arrive but
+        your faction contact is not currently at the bindery.
+
+        Finally, Krenez, the founder of the Waypoint, will always have a bed and
+        a meal for you should you need it, free of charge.
+  missing:
+    - credits
+

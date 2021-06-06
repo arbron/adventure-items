@@ -1,0 +1,24 @@
+- code: CCC-RPR-01
+  name: Eyes of Blood
+  description: >-
+    Recent goblin attacks near the outskirts of Hulburg prompted Lord Eorl
+    Hulmaster to send a band of mercenaries into the foothills of the Galena
+    Mountains to thin out their numbers. It was supposed to be an easy task, but
+    it ended in disaster. The band’s leader remains trapped in goblin territory
+    with their chieftan as his prisoner. Lord Hulmaster now needs skilled
+    adventurers to retrieve the mercenary and his captive before it’s too late.
+  released: '2018-04-23'
+  url: 'https://www.dmsguild.com/product/240487/CCCRPR01-Eyes-of-Blood'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Rebel’s Yell (Battleaxe, +1)
+      rarity: uncommon
+    - name: Potion of Resistance (Fire)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+

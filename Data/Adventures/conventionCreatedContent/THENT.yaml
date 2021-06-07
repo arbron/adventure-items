@@ -1,0 +1,118 @@
+- code: CCC-THENT-01-01
+  name: Beneath the Surface
+  description: >-
+    Steam has been rising from ruins east of the city of Thentia for almost two
+    tendays. Scouts and adventurers have gone to investigate, but have not
+    returned. What might be lurking in the depths of those dark places, and will
+    it remain there?
+  released: '2017-10-10'
+  url: 'https://www.dmsguild.com/product/223663/CCCTHENT0101-Beneath-the-Surface'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Pearl of Power
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+  missing:
+    - credits
+
+
+- code: CCC-THENT-01-02
+  name: Those That Dwell Beneath
+  description: >-
+    In ruins near the city of Thentia, grungs have been trying to build a portal
+    where they could move slaves in secret from the city of Melvaunt. But
+    something sinister took hold of them, trapping them in the darkness. A map
+    of the ancient city, which once stood on the surface of the land, leads the
+    adventurers deeper into the catacombs. But will they find glory and riches?
+    Or horror and death?
+  released: '2017-10-10'
+  url: 'https://www.dmsguild.com/product/223665/CCCTHENT0102-Those-That-Dwell-Beneath'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Periapt of Wound Closure
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 3
+  storyAwards:
+    - name: Friend of the Baucha Tribe
+      description: >-
+        You saved the darklings fleeing the monstrous cave fisher, and acted
+        with friendship after. Should your paths cross again, you are hailed as
+        an ally of the Baucha [BOU-ka] tribe of darklings, and have advantage on
+        non-Intimidation Charisma ability checks when interacting with them. If
+        you attempt to use Intimidation on a member of the Baucha tribe, this
+        story award is removed.
+    - name: You Made Matthew Cry!
+      description: |-
+        You revealed the horror of his undead life to Matthew, an innocent child
+        lost in the subterranean city of Yrisgow. His weeping haunts you, even
+        in your dreams. Each time you long rest, make a DC 12 Charisma saving
+        throw. On a failed save, your attacks, skill checks, and saving throws
+        suffer a -1 penalty until you take another long rest, and succeed on the
+        subsequent saving throw.
+
+        A *remove curse* spell will cause the weeping to fade in 1d4-1 days.
+        Further investigation into the ruins of the city may reveal another method
+        to make Matthew stop haunting you. (Play through **CCC-THENT01-03**,
+        *The Dreaming Relic*, for further details.)
+
+        Even when deafened, you can hear the sad wailing. You can gain no respite
+        from Matthew’s sorrow.
+  missing:
+    - credits
+
+
+- code: CCC-THENT-01-03
+  name: The Dreaming Relic
+  description: >-
+    The call of fame and fortune has led the adventurers into the deep dark
+    beneath the ruins near the city of Thentia. Facing off against unknown
+    horrors, they have found both enemies and allies. Now, something from the
+    beginning of the world stirs in the black…and it hungers.
+  released: '2017-10-10'
+  url: 'https://www.dmsguild.com/product/223667/CCCTHENT0103-The-Dreaming-Relic'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Instrument of the Bards (Mac-Fuirmidh Cittern)
+      rarity: uncommon
+    - name: Potion of Growth
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 4
+    - name: Spell Scroll of Comprehend Languages
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Gentle Repose
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Tenser’s Floating Disk
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Knowledge of the Vault
+      description: >-
+        You returned information of surviving scrolls within the Vault to Vayu
+        Ashvin, silver mage of Thentia. Overcome with appreciation, Vayu offers
+        you room and board at his tower any time you are in Thentia. In
+        addition, this information may prove useful during a future adventure.
+  missing:
+    - credits
+

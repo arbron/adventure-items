@@ -1,0 +1,64 @@
+- code: CCC-STORM-01
+  name: The Barrows of Solina
+  description: >-
+    Zhentarim traders. Shadowy figures roaming the fields near Hillsfar. How do
+    these all relate? Everything traces back to the recently unearthed
+    grave-barrows. Rescuing a caravan from undead attackers, the adventurers
+    learn of an ancient danger.
+  released: '2018-05-01'
+  url: 'https://www.dmsguild.com/product/241068/CCCSTORM01-The-Barrows-of-Solina'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Dawnfire (Sun Blade)
+      rarity: rare
+    - name: Holy water (flask)
+      rarity: common
+      consumable: true
+      count: 6
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Daylight
+      rarity: uncommon
+      consumable: true
+      count: 2
+  storyAwards:
+    - name: Solina’s Blessing
+      description: >-
+        In the event that you come across Vornjolnir’s machinations or the
+        Harrowed King’s relics, know that Solina’s blessing is upon you.
+  missing:
+    - credits
+
+
+- code: CCC-STORM-02
+  name: 'Swamp of Sorrow: Bloodpurge Village'
+  description: >-
+    Bloodpurge, a bayou village in the Flooded Forest, has come under siege by
+    malevolent powers. Many hunters in this shanty-town have gone missing.
+    Desperate folk murmur rumors of evil lurking in the willow groves.
+  released: '2019-04-04'
+  url: 'https://www.dmsguild.com/product/271604/CCCSTORM02-Swamp-of-Sorrow-Bloodpurge-Village'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Bag of Tricks (Tan)
+      rarity: uncommon
+  storyAwards:
+    - name: The Green Man’s Ire
+      description: |-
+        You disobeyed the Green Man and slew the linnorm of the Flooded Forest.
+        When the treant yelled, “You’ll have no friends of land, sea, or air
+        until you leave my wood”, you felt the tree’s anger.
+
+        You failed to accomplish the Green Man’s quest and have made enemies
+        out of the ancient treants of the Flooded Forest.
+
+        This story award could have an effect in a later adventure.
+  missing:
+    - credits
+

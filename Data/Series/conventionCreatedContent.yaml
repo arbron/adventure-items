@@ -251,6 +251,20 @@
     - code: CCC-MMT-02-01
 
 
+- slug: elvenflow-saga
+  name: Elvenflow
+  type: saga
+  adventures:
+    - code: CCC-UK-01
+      position: 1
+    - code: CCC-UK-02
+      position: 2
+    - code: CCC-UK-03
+      position: 3
+    - code: CCC-UK-04
+      position: 4
+
+
 - slug: fairheight
   name: Fairheight
   type: trilogy
@@ -541,7 +555,10 @@
 - slug: red-war
   name: Red War
   adventures:
+    - code: CCC-COTN-01-01
     - code: CCC-GAD-01-02
+    - code: CCC-JGD-01
+    - code: CCC-MMT-01-03
     - code: CCC-OCC-01
     - code: CCC-QUAKE-01
     - code: CCC-REAP-01
@@ -728,6 +745,17 @@
       position: 6
     - code: CCC-UNITE-GD-01
       position: 7
+
+
+- slug: squamous-writhings
+  name: Squamous Writhings
+  adventures:
+    - code: CCC-THENT-01-01
+      position: 1
+    - code: CCC-THENT-01-02
+      position: 2
+    - code: CCC-THENT-01-03
+      position: 3
 
 
 - slug: storm-herald-trilogy

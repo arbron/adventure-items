@@ -1,0 +1,50 @@
+- code: CCC-TTS-01
+  name: Three Moles for Father Octavius
+  description: >-
+    An ancient kindness repaid, a disaster waiting to happen. Can a timely
+    intervention save a befuddled old man and the forgotten cove he loves so
+    dearly.
+  released: '2019-12-30'
+  url: 'https://www.dmsguild.com/product/299061/CCCTTS1-Three-Moles-for-Father-Octavius'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Lead Mining Goggles (Goggles of the Night)
+      rarity: uncommon
+  storyAwards:
+    - name: The Freedom of Kennan’s Cove
+      description: >-
+        You are always welcome to stay in Kennan’s Cove and a bed will always be
+        found for you if you pass this way.
+  missing:
+    - credits
+
+
+- code: CCC-TTS-03
+  name: Heart of the Storm
+  description: >-
+    The city state of Thentia is plagued with relentless storms, with no
+    sunlight in sight. The local wizards believe that the weather may be linked
+    to a sunken ruin and the previous expedition has gone missing. Will the
+    party be able to rescue the adventurers and clear the skies once and for
+    all?
+  released: '2019-12-14'
+  url: 'https://www.dmsguild.com/product/297746/CCCTTS3-Heart-of-the-Storm'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Decanter of Endless Water
+      rarity: uncommon
+  storyAwards:
+    - name: Savior of the Golden Trout
+      description: >-
+        Having saved the local heroes, you have gained celebrity status.
+        Thentians are more than happy to provide you with free lodgings and
+        food. Additionally, thanks to your intervention, the Golden Trout
+        adventuring party is still in business—they will be more than happy to
+        assist you should you run into them again in future adventures.
+  missing:
+    - credits
+

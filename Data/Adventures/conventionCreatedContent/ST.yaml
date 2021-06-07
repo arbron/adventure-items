@@ -1,0 +1,129 @@
+- code: CCC-ST-02-01
+  name: Embassy of Evil
+  description: |-
+    That which must remain lost has been discovered.
+
+    As magic rains down upon Mulmaster and the city falls to ruin, deep
+    within the inner sanctum of the Thayvian Embassy, Szass Tam’s agents
+    work tirelessly to decipher the Lost Journal of Karsus. Can the heroes
+    stop Szass Tam before he learns the secrets of history’s most notorious
+    Wizard?
+  released: '2018-09-12'
+  url: 'https://www.dmsguild.com/product/252239/CCCST21-Red-War-Embassy-of-Evil'
+  tier: 2
+  length: 4
+  apl: 10
+  items:
+    - name: Thayvian Mantle of Spell Resistance
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Animate Dead
+      rarity: uncommon
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: MuLen’s Travelling Spellbook
+      spells:
+        - name: burning hands
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: scorching ray
+          level: 2
+        - name: mirror image
+          level: 2
+        - name: shatter
+          level: 2
+        - name: counterspell
+          level: 3
+        - name: fireball
+          level: 3
+        - name: lightning bolt
+          level: 3
+        - name: greater invisibility
+          level: 4
+        - name: ice storm
+          level: 4
+        - name: Bigby’s hand
+          level: 5
+        - name: enervation
+          level: 5
+        - name: chain lightning
+          level: 6
+        - name: globe of invulnerability
+          level: 6
+    - name: Spellbook of Thessyl’k
+      spells:
+        - name: cause fear
+          level: 1
+        - name: charm person
+          level: 1
+        - name: detect magic
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: hold person
+          level: 2
+        - name: misty step
+          level: 2
+        - name: suggestion
+          level: 2
+        - name: counterspell
+          level: 3
+        - name: dispel magic
+          level: 3
+        - name: fireball
+          level: 3
+        - name: greater invisibility
+          level: 4
+        - name: sickening radiance
+          level: 4
+        - name: stoneskin
+          level: 4
+        - name: cone of cold
+          level: 5
+        - name: dominate person
+          level: 5
+        - name: wall of force
+          level: 5
+        - name: true seeing
+          level: 6
+        - name: finger of death
+          level: 7
+        - name: illusory dragon
+          level: 8
+        - name: foresight
+          level: 9
+  storyAwards:
+    - name: Favor of the Harpers
+      description: >-
+        You have earned the personal debt of a High Harper. The next time you
+        visit Phlan, Malkyn invites you to a banquet in your honor at his
+        estate.
+
+        In addition, Malkyn gifts you with a letter of introduction, marking
+        you as an honored ally of the Harpers, which may aid you in future
+        interactions with the Harper Faction.
+    - name: Prisoner of Thay
+      description: |-
+        Captured by the enemy, you were subjected to horrific magical
+        experiments that left you branded with arcane runes, and small throbbing
+        shards of crystal embedded in your flesh.
+
+        If you are hiding, these crystals alert NPC Red Wizards within 10 feet
+        of your location to detect you automatically (as if they had succeeded
+        on their Perception checks).
+
+        You can spend 10 downtime days to have the pulsating crystal shards
+        removed. Removing the crystals in this way removes the ability for Red
+        Wizards to detect your presence, but leaves you with small superficial
+        scars that cannot be healed, or disguised even by *disguise self* or
+        similar spells.
+  missing:
+    - credits
+

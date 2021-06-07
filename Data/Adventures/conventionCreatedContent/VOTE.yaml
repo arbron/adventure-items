@@ -1,0 +1,79 @@
+- code: CCC-VOTE-01-01
+  name: A Small Trifle
+  description: >-
+    Jeny Greenteeth again needs the help of adventurers, and this time, she is
+    willing to pay a large price for their help—restoring the pact between Phlan
+    and the fey of the Quivering Forest. All she needs is a coin from a dragon
+    hoard. Easy enough, right? You may change your mind when you hear the name
+    of the dragon…
+  released: '2020-05-08'
+  url: 'https://www.dmsguild.com/product/312580/CCCVOTE0101-A-Small-Trifle'
+  tier: 2
+  length: 4-6
+  apl: 8
+  items:
+    - name: Emerald Eye (Ersatz Eye)
+      rarity: common
+    - name: Jeny’s Hairpin (Javelin of Warning)
+      rarity: uncommon
+    - name: Potion of Diminution
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Mage’s Spellbook
+      spells:
+        - name: fire bolt
+          level: 0
+        - name: light
+          level: 0
+        - name: mage hand
+          level: 0
+        - name: prestidigitation
+          level: 0
+        - name: detect magic
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: shield
+          level: 1
+        - name: misty step
+          level: 2
+        - name: suggestion
+          level: 2
+        - name: counterspell
+          level: 3
+        - name: fireball
+          level: 3
+        - name: fly
+          level: 3
+        - name: greater invisibility
+          level: 4
+        - name: ice storm
+          level: 4
+        - name: cone of cold
+          level: 5
+  storyAwards:
+    - name: 'Banned: Stygia'
+      description: |-
+        The frozen, inhospitable wilderness of Stygia is home to many vile
+        creatures as well as an uncountable number from the Material Plane.
+        Desperate criminals and those condemned to death may pray to Levistus,
+        the ruler of Stygia, for freedom; should he answer, they are transported
+        here. For reasons known only to you and him, you are forever banned from
+        setting foot within Stygia. Perhaps you redeemed too many souls, or
+        maybe you were discovered to be in league with Geryon, the former ruler
+        of this realm; regardless, Levistus has closed this later of the Nine
+        Hells to you. You can’t participate in further adventures in this place.
+
+        A character with this story award may visit other areas of the Nine Hells
+        but has been banned from Stygia.
+  missing:
+    - credits
+

@@ -1,0 +1,109 @@
+- code: CCC-UK-01
+  name: Call of the Elvenflow
+  description: >-
+    Folk tales warn of strange noises from the Cormanthor Forest when winter
+    fogs are thickest and the black of night has no shadows to cast. When such
+    noises are heard on a late summer’s afternoon, perhaps it’s time to turn
+    once again to the old stories?
+  released: '2018-10-01'
+  url: 'https://www.dmsguild.com/product/253816/CCCUK1-Call-of-the-Elvenflow'
+  tier: 1
+  length: 4
+  apl: 1
+  items:
+    - name: Dust of Dryness
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Blessing of the Hexad
+      description: >-
+        Your kind and considerate treatment of those less fortunate than you
+        have earned you the blessing of the Hexad. You can draw a line through
+        this award when playing **CCC-UK-02**: *The Wayward Wives to gain
+        inspiration*.
+  missing:
+    - credits
+
+
+- code: CCC-UK-02
+  name: The Wayward Wives
+  description: >-
+    Ill winds blow over Wayward. The men drink apart from their wives, while a
+    mysterious traveler sows discontent between married couples. The Wayward
+    wives have had enough and are plotting revenge.
+  released: '2018-10-01'
+  url: 'https://www.dmsguild.com/product/253817/CCCUK2-The-Wayward-Wives'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Broom of Flying
+      rarity: uncommon
+  storyAwards:
+    - name: Witchfinder
+      description: >-
+        You rid the village of Wayward of a troublesome hag. If you report your
+        triumph to the local lord, Bourne of Candles, you may acquire a reward.
+  missing:
+    - credits
+
+
+- code: CCC-UK-03
+  name: The Tainted Grove
+  description: >-
+    Everyone in Moonfern Ford knows to avoid the Tainted Grove, a place of
+    darkness and evil amidst the sylvan beauty of Cormanthor. When a young
+    hunter goes missing in the forest, things in the village take a dark turn.
+  released: '2019-07-22'
+  url: 'https://www.dmsguild.com/product/283656/CCCUK3-The-Tainted-Grove'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Dust of Disappearance
+      rarity: uncommon
+  storyAwards:
+    - name: Local Hero
+      description: >-
+        You saved Mother Aedwen, priest of the Sacred Hexad in Moonfern Ford,
+        from the clutches of the unseelie fey. You must report this success to
+        the local lord of the Elvenflow Estuary, the reclusive Bourne of
+        Candles.
+  missing:
+    - credits
+
+
+- code: CCC-UK-04
+  name: Bourne of Candles
+  description: >-
+    An ancient legend, a missing wife, and a broken heart that time won’t mend.
+  released: '2019-07-22'
+  url: 'https://www.dmsguild.com/product/283657/CCCUK4-Bourne-of-Candles'
+  tier: 1
+  length: 4
+  apl: 4
+  items:
+    - name: Cloak of the Manta Ray
+      rarity: uncommon
+  storyAwards:
+    - name: Friend of the Bourne
+      description: >-
+        For returning Lady Lenedriel to Bourne Casrob, he forever treats you as
+        a trusted friend and ally. He always grants you an audience and listens
+        favorably to your requests.
+    - name: Knight of the Elvenflow Estuary
+      description: >-
+        For your services to the folk of the Elvenflow Estuary, the Bourne of
+        Candles has dubbed you as a knight of one of the following villages:
+        Buttergroves, Wayward, or Moonfern Ford. You are now treated as a hero
+        of the Evenflow Estuary. This award does not confer any mechanical
+        benefits or retainers, though it may impact further storylines set in
+        this area.
+  missing:
+    - credits
+

@@ -1,0 +1,495 @@
+- code: CCC-SFBAY-01-01
+  name: Plots in Motion
+  description: >-
+    In the midst of a ferocious storm, a band of mercenaries raids a lighthouse.
+    Is this just a plot against trade with Mulmaster, or something more
+    sinister? Journey down the River Lis and explore a forgotten keep in search
+    of answers.
+  released: '2017-03-02'
+  url: 'https://www.dmsguild.com/product/206459/CCCSFBAY0101-Plots-in-Motion'
+  tier: 2
+  length: 8
+  apl: 7
+  items:
+    - name: Smoke (Shortsword, +2)
+      rarity: rare
+    - name: Oil of Sharpness
+      rarity: veryRare
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Rider’s Spellbook
+      spells:
+        - name: disguise self
+          level: 1
+        - name: fog cloud
+          level: 1
+        - name: grease
+          level: 1
+        - name: identify
+          level: 1
+        - name: blindness/deafness
+          level: 2
+        - name: locate object
+          level: 2
+        - name: mirror image
+          level: 2
+        - name: nondetection
+          level: 3
+        - name: phantom steed
+          level: 3
+  storyAwards:
+    - name: Crown Jewels
+      description: |-
+        Talindra’s Brooch is an exquisite piece of artwork. A silver dragon
+        curls around a piece of amethyst. A fleck of ruby is set in the dragons
+        eye, a circle of gold enclosing the whole piece. It is a piece of
+        jewelry fit for Cormyrian royalty. They will be very glad to get it
+        back.
+
+        The jeweler to whom you sought to sell the piece to immediately closes
+        his shop and sends out his assistant while he appraises the piece. He
+        hems and haws over the value, checking ledgers and showing you drawings
+        of other pieces and what those pieces sold for in comparison. But he
+        does not have to stall long; the assistant returns with a full company
+        of the watch in short order. They even bring magical support.
+
+        You spend the next three days in jail, as you plead your innocence and
+        deny all knowledge that the brooch had been stolen from the Corymyrian
+        Royal Vaults. Apparently, it was quite the theft. The most powerful
+        divination magic of Cormyr’s famed wizard college failed to turn up any
+        clues. But eventually your story checks out. The staff at Hofstead’s
+        beacon confirm that a woman matching Talindra’s description was pulled
+        from the wreck and went with the other survivors to Mulmaster.
+
+        From Mulmaster the trail goes cold. No one there remembers seeing her,
+        even though you spend several days and no small amount of gold trying
+        to locate her. Even divination magic fails. She has slipped through
+        your grasp for now. But the Cormyrian authorities remain wary of you
+        and circulate your description.
+
+        *When you get this story award, immediately deduct five downtime days
+        and 25 gold pieces from your character. Until another story award
+        instructs otherwise, you have disadvantage on all Charisma checks with
+        Cormyrian officials.*
+
+        **This is a Cormyrian Heist story award.**
+    - name: Language Tutor Corbin Tusslefoot
+      description: |-
+        Corbin Tusslefoot, traveler and linguist owes you his life. In
+        gratitude, he will suspend his travels and waives his usual fees to help
+        you learn a new language. Corbin speaks and can tutor you in Dwarvish,
+        Elven, Giant, and Draconic.
+
+        Normally it costs 250 downtime days to learn a new language. With the
+        help of a language tutor you may learn a new language by spending only
+        200 downtime days. Alternatively, if you already have another means of
+        reducing the number of downtime days required to learn a language, such
+        as a faction benefit, you may reduce the cost by 25 days. You may use
+        multiple language tutors to reduce the cost of learning a language, but
+        each tutor may only help you learn a particular language once. If you
+        earn multiple copies of a particular language tutor award, that tutor
+        may help you learn one new language for each instance of the award you
+        have. Use of a language tutor story award may not reduce the cost to
+        learn a language to less than 100 downtime days.
+  missing:
+    - credits
+
+
+- code: CCC-SFBAY-02-01
+  name: Old Enemies Arise
+  description: >-
+    The alliance between Thay and Mulmaster is stronger than ever, and this does
+    not sit well with some of the neighboring countries; in fact, it appears
+    that one of them is attacking caravans leaving Mulmaster and heading towards
+    Thay. You have been asked by the Cloaks to investigate the attacks, discover
+    who is behind them, and stop them if you can.
+  released: '2017-12-29'
+  url: 'https://www.dmsguild.com/product/230005/CCCSFBay0201-Old-Enemies-Arise'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Cloak of Displacement
+      rarity: rare
+    - name: Potion of Animal Friendship
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Growth
+      rarity: uncommon
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Lasharra’s Traveling Spellbook
+      spells:
+        - name: absorb elements
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: Tenser’s floating disk
+          level: 1
+        - name: alarm
+          level: 1
+        - name: mirror image
+          level: 2
+        - name: misty step
+          level: 2
+        - name: shatter
+          level: 2
+        - name: counterspell
+          level: 3
+        - name: fireball
+          level: 3
+        - name: Leomund’s tiny hut
+          level: 3
+        - name: lightning bolt
+          level: 3
+        - name: water breathing
+          level: 3
+        - name: greater invisibility
+          level: 4
+        - name: ice storm
+          level: 4
+        - name: stoneskin
+          level: 4
+        - name: Bigby’s hand
+          level: 5
+        - name: cone of cold
+          level: 5
+        - name: Rary’s telepathic bond
+          level: 5
+        - name: chain lightning
+          level: 6
+        - name: guards and wards
+          level: 6
+  storyAwards:
+    - name: Ally of Thay
+      description: >-
+        You are known to be an ally of the Thayan Plateau, whether you want to
+        or not. You have advantage on Charisma-based checks with Red Wizards and
+        other non-slaves from Thay.
+    - name: Durthan’s Curse
+      description: >-
+        You have been marked by the evil Durthan. As long as either Lasharra,
+        Yuldra or Shevarra are alive, they will be able scry you and will do so
+        unless you take precautions to prevent it. If you are not able to
+        prevent the scrying, your party will have disadvantage on all initiative
+        checks in combats that involve any of the mentioned witches or any of
+        their minions. You are also at a disadvantage on stealth checks to
+        surprise the witches or their minions. This story award gets removed
+        when all three witches are dead.
+    - name: Enmity of the Wychlaran
+      description: >-
+        You have offended the secretive order of Rashemi witches by either
+        taking the Vremyonni back to Mulmaster or keeping the wychlaran mask or
+        both. You have disadvantage on all social checks with the people of
+        Rashemen if they know your name and what you did. If discovered within
+        the lands of Rashemen, you will be captured and put to death.
+    - name: Friend of Rashemen
+      description: >-
+        You have earned the respect and regard of the Rashemi people by rescuing
+        the Vremyonni and retuning the wychlaran mask. You have advantage on all
+        social checks with the people of Rashemen if they know your name and
+        what you did.
+  missing:
+    - credits
+
+
+- code: CCC-SFBAY-02-02
+  name: Rise of the Ogre King
+  description: >-
+    You have been hired by the Brotherhood of the Cloaks to journey into the
+    heart of desolate Thar. Once there you are to negotiate with the oni lord of
+    Fangjaws Hold for the rights to excavate an ancient minotaur lord’s tomb
+    within his territory.
+  released: '2018-08-21'
+  url: 'https://www.dmsguild.com/product/250384/CCCSFBay0202-Rise-of-the-Ogre-King'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Amulet of Health
+      rarity: rare
+  spellbooks:
+    - name: Traveling Spellbook
+      spells:
+        - name: absorb elements
+          level: 1
+        - name: charm person
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: shield
+          level: 1
+        - name: hold person
+          level: 2
+        - name: mind spike
+          level: 2
+        - name: shadow blade
+          level: 2
+        - name: suggestion
+          level: 2
+        - name: counterspell
+          level: 3
+        - name: fireball
+          level: 3
+        - name: haste
+          level: 3
+        - name: lightning bolt
+          level: 3
+        - name: greater invisibility
+          level: 4
+        - name: polymorph
+          level: 4
+        - name: hold monster
+          level: 5
+        - name: scrying
+          level: 5
+        - name: synaptic static
+          level: 5
+        - name: telekinesis
+          level: 5
+        - name: chain lightning
+          level: 6
+  storyAwards:
+    - name: Enemies of Justice
+      description: >-
+        You have offended the Talons of Justice and good dragons across the
+        lands. This may affect how good dragons treat you in the future.
+    - name: Fangjaws Citizen
+      description: |-
+        You have been branded a citizen of Fangjaws Hold. While you have no
+        featly to this monster town, you wear its brand; consequently, any enemy
+        of Fangjaws that sees the brand, such as the Burning Dagger orcs, will
+        start with a hostile attitude towards you.
+
+        On the good side, all orcs, goblinoids and ogres that are under
+        Fangjaw’s protection will give you and your traveling companions safe
+        passage.
+    - name: Knight of the Silver Dragon
+      description: |-
+        You have been anointed as a Knight of the Order of the Silver Dragon.
+        You have sworn to the following oath.
+
+        - To protect those that can’t protect themselves
+        - To oppose evil wherever you find it
+        - To seek a peaceful solution to all conflicts if possible.
+
+        Good dragons across the lands that see your emblem will look favorably
+        upon you.
+    - name: Pawn of Thay
+      description: >-
+        You have shown that you are willing to work for Thay and help them
+        achieve their goals. The people of the Thayan plateau may look upon you
+        as a resource.
+    - name: Rashemi Regard
+      description: >-
+        You have done a great server for the Rashemi people. The people of
+        Rashemen may look favorably upon you.
+  missing:
+    - credits
+
+
+- code: CCC-SFBAY-02-03
+  name: The Risen Minotaur Lord
+  description: >-
+    An excavation team was sent to unearth the tomb of an ancient minotaur lord
+    in Thar under the protection of the Tharkul of Fangjaws Hold. But something
+    went wrong, and an undead army poured out of the burial site and laid siege
+    to Fangjaws Hold. You have been hired by the Brotherhood of the Cloaks to
+    help deal with the undead threat.
+  released: '2018-08-21'
+  url: 'https://www.dmsguild.com/product/250386/CCCSFBay0203-The-Risen-Minotaur-Lord'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Belt of Hill Giant Strength
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Fangjaws Citizen
+      description: |-
+        You have been branded a citizen of Fangjaws Hold. While you have no
+        fealty to this monster town, you wear its brand, All orcs, goblinoids
+        and ogres that are under Fangjaw’s protection will give you and your
+        traveling companions safe passage.
+
+        Any enemy of Fangjaws that sees the brand, such as the Burning Dagger
+        orcs, may start with a hostile attitude towards you.
+    - name: Fangjaws Nobility
+      description: >-
+        Requires that you are already a **Fangjaws Citizen**. You have further
+        served Fangjaws Hold and have been rewarded with nobility. From this
+        point forward, you may purchase a house in the Little Moonsea district
+        for 2000 GP and 20 downtime days. This also increases your lifestyle
+        expenses by 1 GP. In addition, you may administer justice to the
+        citizens of Fangjaws Hold.
+    - name: Honorary Wychlaran
+      description: >-
+        Requires that you have been awarded **Rashemi Regard** or **Friend of
+        Rashemen** in each of two previous adventures. You have been accepted
+        into the ranks of secretive Rashemi Witches known as Hathrans. From this
+        point forward, you may enter the sacred Ashenwood, and other Rashemi
+        will look upon you with respect and look to you for leadership. You have
+        also been gifted with a spirit totem, and a mask of the wychlaran has
+        been made for you in the shape of that spirit.
+    - name: Rashemi Regard
+      description: |-
+        You have done a great service for the Rashemi people. The people of
+        Rashemen may look favorably upon you.
+
+        If you have the **Enmity of Rashemen** story award, both story awards
+        get removed from your log sheet. Your deeds have earned forgiveness,
+        but they did not earn both forgiveness and regard.
+  missing:
+    - credits
+
+
+- code: CCC-SFBAY-04-01
+  name: The Cornflower Hive
+  description: >-
+    What links an infamous Zhentarim mercenary with a brilliant but tormented
+    artificer? To find out, the adventurers must break the goblinoid siege of
+    the village of Westfir. After the bizarre goblins are defeated, the
+    Cornflower Hive must be destroyed. Ultimately, what secrets are held in the
+    grain mill by the Westfork river?
+  released: '2018-01-26'
+  url: 'https://www.dmsguild.com/product/232430/CCCSFBAY0401-The-Cornflower-Hive'
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Javelin of Lightning
+      rarity: uncommon
+    - name: Alchemist’s fire (flask)
+      rarity: common
+      consumable: true
+      count: 3
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 3
+    - name: Potion of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Bless
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Goblinslayer
+      description: >-
+        You rescued the people of Westfir and stopped the goblin menace. You may
+        stay in the village of Westfir for up to 10 days at a wealthy lifestyle
+        with no cost. You may also purchase non-magical adventuring gear
+        (excluding mounts, weapons or armor) for 25% off the listed retail price
+        in the PHB during one of those downtime days.
+  missing:
+    - credits
+
+
+- code: CCC-SFBAY-04-02
+  name: Under Earth & Stone
+  description: >-
+    A Mulmaster refugee named Ani Kuleimatt discovered references to a forgotten
+    mine near the Moonsea, a mine rumored to produce an unexpected export. The
+    adventurers are hired to locate the complex and secure its resources for the
+    Mulmaster Diaspora.
+  released: '2018-01-26'
+  url: 'https://www.dmsguild.com/product/232428/CCCSFBAY0402-Under-Earth--Stone'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Traveler’s Heart (Stone of Controlling Earth Elementals)
+      rarity: rare
+    - name: Crossbow Bolt, +1
+      rarity: uncommon
+      consumable: true
+      count: 10
+    - name: Spell Scroll of Speak with Animals
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Silk Trade
+      description: |-
+        For a cost of 5 downtime days and 25 gp, the adventurer may have either
+        fine silk clothing or a spider-silk rope made in Duindelve.
+
+        The silk clothing is dyed in bright colors and is the highest quality.
+
+        The non-magical spider-silk rope is 50 feet long, has the same tensile
+        strength as hemp rope, and weighs 2 pounds.
+      type: downtime
+  missing:
+    - credits
+
+
+- code: CCC-SFBAY-04-03
+  name: The Ashen Scar
+  description: >-
+    The fey hold sway over the forests of Cormanthor. Their presence has kept
+    the goblinoids disorganized and warring amongst themselves. Now, a deadly
+    enemy of the woods has laid claim to a Feywild glade. This foe is
+    slaughtering the forest defenders and rallying goblinoid tribes in the name
+    of vengeance. Can you stop them in time?
+  released: '2018-06-28'
+  url: 'https://www.dmsguild.com/product/245751/CCCSFBAY0403-The-Ashen-Scar'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Boots of Elvenkind
+      rarity: uncommon
+    - name: Arrow, +1
+      rarity: uncommon
+      consumable: true
+      count: 10
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Draught of the Feywild
+      description: >-
+        Dandelion the dryad gifted you with a sip from the magical spring within
+        her glade. This water increases your maximum expected lifespan by 20
+        years. This Story Award does not interfere with *potions of longevity*
+        or other effects that reduce your actual age.
+    - name: Mulmaster Cloaks
+      description: |-
+        *The Ashen Scar* is considered a Mulmaster adventure for purposes of
+        rank in the Cloaks.
+
+        Instead of worrying about the punishments for using magic, arcane casters
+        may choose to join the Brotherhood of the Cloaks. Characters that do so
+        must swear to defend the rule of the High Blade, protect Mulmaster from
+        the incursion of arcane magic and uphold the Edict of Arcane Banishment.
+        Being a Cloak costs the character 3 Downtime Days per Mulmaster adventure
+        played, and the character must maintain a wealthy lifestyle for that downtime.
+
+        Joining the Cloaks is not without its benefits. All Cloaks receive a
+        square medallion that denotes membership in the Brotherhood. This
+        medallion gives the character advantage on social skill checks made with
+        officials of Mulmaster (DM’s discretion). For each Mulmaster adventure
+        played, the character gains one rank in the Cloaks organization. For each
+        To Wear a Cloak favor the character has, he or she also gains an additional
+        rank.
+  missing:
+    - credits
+

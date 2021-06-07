@@ -1,0 +1,105 @@
+- code: CCC-SHINY-02
+  name: An Open Secret
+  description: >-
+    In a smoky tavern in the frontier town of Ylraphon, a drunken sailor cries
+    in her beer. Befriending a group of adventurers, she confesses that she saw
+    her spouse with someone else, and she worries what may come of it.
+    Beseeching the adventurers to help her, the sailor asks them to investigate
+    to find if her fears have come true, or if it is all a simple
+    misunderstanding.
+  released: '2018-08-13'
+  url: 'https://www.dmsguild.com/product/249748/CCCSHINY02-An-Open-Secret'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Eyes of the Eagle
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: CCC-SHINY-04
+  name: Elusion of Grand Yore
+  description: >-
+    A svirfneblin clan elder and arcanist of Lumindearth has gone missing.
+    Courageous adventurers have been called upon to bring him home, but they’ll
+    need their wits about them if they are to survive this rescue mission in the
+    enigmatic Underdark.
+  released: '2019-02-22'
+  url: 'https://www.dmsguild.com/product/267114/CCCSHINY04-Elusion-of-Grand-Yore'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Gem of Seeing
+      rarity: rare
+    - name: Pipe of Smoke Monsters
+      rarity: common
+    - name: Potion of Diminution
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Growth
+      rarity: uncommon
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Grimblr’s Spellbook
+      spells:
+        - name: color spray
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: silent image
+          level: 1
+        - name: shield
+          level: 1
+        - name: magic mouth
+          level: 2
+        - name: mirror image
+          level: 2
+        - name: phantasmal force
+          level: 2
+        - name: fear
+          level: 3
+        - name: dispel magic
+          level: 3
+        - name: major image
+          level: 3
+        - name: greater invisibility
+          level: 4
+        - name: hallucinatory terrain
+          level: 4
+        - name: phantasmal killer
+          level: 4
+        - name: mislead
+          level: 5
+        - name: wall of force
+          level: 5
+        - name: contingency
+          level: 6
+        - name: programmed illusion
+          level: 6
+        - name: mirage arcane
+          level: 7
+        - name: project image
+          level: 7
+        - name: illusory dragon
+          level: 8
+        - name: weird
+          level: 9
+  storyAwards:
+    - name: Delusional Misidentification
+      description: |-
+        As a result of being afflicted with *indefinite madness* during this
+        adventure, your character gains the following *flaw*:
+
+        *I am often suspicious that others are not who they say they are, and
+        I am not afraid to confront them about it.*
+
+        A *greater restoration* spell or more powerful magic is required to
+        rid a character of this *indefinite madness*.
+  missing:
+    - credits
+

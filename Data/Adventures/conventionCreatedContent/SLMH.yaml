@@ -1,0 +1,25 @@
+- code: CCC-SLMH-01-01
+  name: Codex Venator - The Last Hunter
+  description: >-
+    The last descendent of an ancient order would like to vanquish that evil
+    before it spreads, but, betrayed by his age, he’ll need the help of noble
+    adventurers to fulfill his ancient thirst for vengeance.
+  released: '2019-08-20'
+  url: 'https://www.dmsguild.com/product/286221/CCCSLMH0101-Codex-Venator--The-Last-Hunter'
+  tier: 2
+  length: 4
+  apl: 8
+  storyAwards:
+    - name: Newblood Hunters
+      description: |-
+        The characters have chosen to join the ancient **Order of the Noble
+        Hunters** signing a contract with their own blood.
+
+        They can now use the manor as a base of their operation and they will
+        certainly become entangled with other mysterious assignments from the
+        Order.
+
+        Naturally, this will draw the attention of old enemies of the order…
+  missing:
+    - credits
+

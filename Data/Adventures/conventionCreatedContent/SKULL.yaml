@@ -1,0 +1,89 @@
+- code: CCC-SKULL-01-01
+  name: A Murder Most Foul
+  description: >-
+    In the sewers beneath the ruined streets of Mulmaster, a murdered corpse has
+    been found: the nephew of a prominent noble. Once great houses are at each
+    other’s throats with accusations as the desperate family seeks out the
+    truth.
+  released: '2019-04-08'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/262840/CCCSKULL0101-A-Murder-Most-Foul'
+  tier: 2
+  length: 4
+  apl: 7
+  items:
+    - name: Heward’s Handy Haversack
+      rarity: rare
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Friend of the Fallen
+      description: >-
+        You have earned favor among the sewer refugees, which act as a loosely
+        knit communications network and potential information source in later
+        modules.
+  missing:
+    - credits
+
+
+- code: CCC-SKULL-01-02
+  name: Not All Who Are Lost Should Be Found
+  description: >-
+    An elusive Master Thief claims to have information regarding the murder of a
+    prominent noble’s nephew. However, the adventurers must first prove
+    themselves by finding something the Master Thief lost.
+  released: '2019-04-08'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/262841/CCCSKULL0102-Not-All-Who-Are-Lost-Should-Be-Found'
+  tier: 2
+  length: 4
+  apl: 7
+  items:
+    - name: Wand of Magic Missiles
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Dispel Magic
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Protection from Energy
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: CCC-SKULL-01-03
+  name: Who Pulls the Strings
+  description: >-
+    Pursuing the murderers of the nephew of a prominent noble house has revealed
+    more than a simple random crime. A new group or faction has risen from the
+    ashes and dust from destruction of Mulmaster, and its nature and intent
+    still unknown. The leader of the Silver Skulls is a mystery, and perhaps a
+    threat to what little stability Mulmaster has found since disaster struck.
+  released: '2019-04-08'
+  creator: Mount Ogden Gaming Company
+  url: 'https://www.dmsguild.com/product/262844/CCCSKULL0103-Who-Pulls-the-Strings'
+  tier: 2
+  length: 4
+  apl: 7
+  items:
+    - name: Dimensional Shackles
+      rarity: rare
+    - name: Spell Scroll of Fear
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Fly
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+

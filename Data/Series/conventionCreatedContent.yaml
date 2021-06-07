@@ -1,3 +1,14 @@
+- slug: agents-of-the-cloaks
+  name: Agents of the Cloaks
+  adventures:
+    - code: CCC-SFBAY-02-01
+      position: 1
+    - code: CCC-SFBAY-02-02
+      position: 2
+    - code: CCC-SFBAY-02-03
+      position: 3
+
+
 - slug: albatross-trilogy
   name: Albatross
   type: trilogy
@@ -192,6 +203,19 @@
       position: 4
 
 
+- slug: devil-in-hillsfar
+  name: Devil in Hillsfar
+  adventures:
+    # Prequel
+    - code: CCC-SQC-01
+    - code: CCC-SQC-02-01
+      position: 1
+    - code: CCC-SQC-02-02
+      position: 2
+    - code: 
+      position: 3
+
+
 - slug: the-dreamers
   name: The Dreamers
   includesArticle: true
@@ -327,6 +351,17 @@
       position: 5
     - code: CCC-ALMOG-24 DAGON02-02
       position: 6
+
+
+- slug: kossuths-kiss
+  name: Kossuth’s Kiss
+  adventures:
+    - code: CCC-SCAR-01-01
+      position: 1
+    - code: CCC-SCAR-01-02
+      position: 2
+    - code: CCC-SCAR-02-01
+      position: 3
 
 
 - slug: misaligned
@@ -580,6 +615,17 @@
     - code: CCC-TRI-27 ROSE1-2
       position: 2
     - code: CCC-TRI-28 ROSE1-3
+      position: 3
+
+
+- slug: silver-skulls-legacy
+  name: Silver Skulls Legacy
+  adventures:
+    - code: CCC-SKULL-01-01
+      position: 1
+    - code: CCC-SKULL-01-02
+      position: 2
+    - code: CCC-SKULL-01-03
       position: 3
 
 

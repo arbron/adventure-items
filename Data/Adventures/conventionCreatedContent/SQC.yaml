@@ -1,0 +1,237 @@
+- code: CCC-SQC-01
+  name: The Woodland Sage
+  description: >-
+    A popular noble just outside the city of Hillsfar is in trouble. He has been
+    poisoned and his niece has been kidnapped by a group of outlaw druids who
+    call themselves, the Blackleaf Clan. Adventurers are sought to go on a quest
+    to find a mysterious woodland sage through a hidden cavern that hides a
+    temple that has been concealed for countless years. Only this sage holds the
+    key to saving the nobleman’s life and helping the adventurers find the lair
+    of the Blackleaf Clan so they can save the well-loved nobleman and rescue
+    his niece.
+  released: '2018-09-29'
+  url: 'https://www.dmsguild.com/product/253547/CCCSQC001-The-Woodland-Sage'
+  tier: 2
+  length: 4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-SQC-02-01
+  name: None the Wiser
+  description: >-
+    A lot has changed in Hillsfar since the assault of the Dark Feys from the
+    Cormanthor Forest. Due to limited options, First Lord Vuhm Yestral accepted
+    an offer for aid from the Red Wizards of Thay, who now work to rebuild the
+    city. A Senate has been elected to ensure fair rule in Hillsfar, and a new
+    Guard Captain has also been selected to replace the traitor, Jandra
+    Gragdowel. Adventurers receive a job offer from the new Guard Captain. What
+    could he need?
+  released: '2018-09-29'
+  url: 'https://www.dmsguild.com/product/253561/CCC--SQC--02--01-None-the-Wiser'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Bracers of Defense
+      rarity: rare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Crazy Squirrel
+      description: |-
+        Clad in shinny plate armor, this adorable squirrel is often seen holding
+        what appears to be an acorn. However, upon closer inspection, one will
+        notice it is holding a 20-sided-die.
+
+        If killed or reduced to 0 hit points, The Crazy Squirrel can be recalled
+        via *find familiar*, and uses the statistics of a **cat** from the
+        *Monster Manual*. It has proficiency in all gaming sets. The shinny plate
+        armor has no effect on the Squirrel’s AC.
+      type: familiar
+    - name: Fallen for or Thwarted the Devil’s Plot
+      description: >-
+        This story award is used to record the outcome of this adventure.
+        “Fallen for” is recorded if the group accuses the wrong person and
+        allows the Red Wizard Norre to shame them in front of the Senate for
+        their mistake. “Thwarted” is recorded if the group accuses Norre. This
+        story award denotes the outcome of the module and affects certain
+        encounters in **CCC–SQC–02-02**: *Last Gasp*.
+    - name: Murderers
+      description: >-
+        This story award is earned if the group murders the innocent humans
+        outside Hillsfar. News of their deed spreads throughout Hillsfar. There
+        will be consequences for their actions in the future.
+  missing:
+    - credits
+
+
+- code: CCC-SQC-02-02
+  name: Last Gasp
+  description: >-
+    Thay is turning over a new leaf! Their new ambassador to Hillsfar is a
+    specialist in good magic, so the PCs are recruited to assist her in
+    acquiring good sources of power for her spells. What could go wrong?
+  released: '2018-10-01'
+  url: 'https://www.dmsguild.com/product/253726/CCC--SQC--02--02-Last-Gasp'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Elven Chain
+      rarity: rare
+    - name: Potion of Giant Strength (Fire)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Passwall
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Persona Non Grata (Thay)
+      description: >-
+        You have been caught committing a crime in Thay while under diplomatic
+        credentials. You have been expelled from Thay and declared a criminal if
+        you ever return.
+    - name: Meteor Wrangler
+      description: >-
+        You helped stop a meteor from hitting Hillsfar. The archlich Alanax
+        Bellicent has crafted a penannular cloak pin for you depicting your
+        actions during the meteor fight.
+  missing:
+    - credits
+
+
+- code: CCC-SQC-03-01
+  name: Consumption
+  description: >-
+    After the death of a local historian, adventurers discover that no one is
+    safe within the walls of Hillsfar. Will you they able to stop the culprits
+    before the city is consumed from within?
+  released: '2019-12-13'
+  url: 'https://www.dmsguild.com/product/295761/CCCSQC00301-Consumption'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Pipe of Smoke Monsters
+      rarity: common
+    - name: Wand of Secrets
+      rarity: uncommon
+  storyAwards:
+    - name: Celia the Squirrel
+      description: >-
+        This squirrel is native to the Feywild, evidenced by its bright blue fur
+        and penchant for wild magical effects. This loyal pet may accompany you
+        on adventures, but cannot participate in combat or provide any
+        mechanical benefit.
+      type: pet
+    - name: The Pursuit of Knowledge
+      description: >-
+        You chose to absorb knowledge rather than losing it to the Oozes. As a
+        result, you infrequently have the feeling of something slithering
+        underneath your skin and your blood appears midnight black.
+  missing:
+    - credits
+
+
+- code: CCC-SQC-03-02
+  name: Shiitake
+  description: >-
+    As news of gruesome murders begin to die down within the walls of Hillsfar,
+    reports of deaths in the farmland reach the Senate. Coincidences or is there
+    a bigger evil behind all this?
+  released: '2019-12-13'
+  url: 'https://www.dmsguild.com/product/295790/CCC--SQC--0302-Shiitake'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Heward’s Handy Spice Pouch
+      rarity: common
+    - name: Winged Boots
+      rarity: uncommon
+    - name: Potion of Climbing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Aid
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Crazy Squirrel (Paladin)
+      description: |-
+        Clad in shinny plate armor, this adorable squirrel also wields a sword
+        and a shadow shield with a red symbol of the Raven Queen glowing. If
+        *Speak with Animal* is used to communicate with it, it says it is a
+        Paladin of the Raven Queen and is here to smite undeads!
+
+        This Crazy Squirrel functions as a pet, does not contribute to combat,
+        or provide any benefit beyond its adorableness!
+      type: pet
+    - name: Time is of Your Essence
+      description: >-
+        You have assisted the Thoon Mind Flayers to acquire a strange substance
+        they call quintessence. Aiding the mysterious creatures may yield
+        dividend in the future. You would hope…
+  missing:
+    - credits
+
+
+- code: CCC-SQC-03-03
+  name: Toxicity
+  description: >-
+    Humans and nonhumans are dying of poison across Hillsfar. As old tensions
+    flare up in the Senate, can you bring the mysterious mastermind to justice
+    before civil war erupts in the streets?
+  released: '2019-12-13'
+  url: 'https://www.dmsguild.com/product/295878/CCCSQC-0303-Toxicity'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Bag of Tricks (Rust)
+      rarity: uncommon
+    - name: Horn of Silent Alarm
+      rarity: common
+    - name: Potion of Resistance (Acid)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Eldritch Squirrel
+      description: |-
+        You found an adorable squirrel playing in a vat of harmless ooze in
+        Gourmand’s lair. This squirrel likes to play pranks and stare in to
+        space, acting like it is seeing through your eyes. It uses the
+        statistics of a **cat** from the *Monster Manual*.
+
+        The character who earns the squirrel can name it, and becomes
+        convinced the squirrel can telepathically communicate its feelings
+        and desires.
+      type: pet
+    - name: My Dreams Taste Like Raspberries
+      description: >-
+        You bonded with Kenna one way or another, and now she always seems to
+        know when you are in town. Any time you rest in Hillsfar, you have
+        surreal dreams of tracking pie demons that always end in a scrumptious
+        dessert. Kenna also pledges more tangible aid, should you need it in a
+        future adventure.
+  missing:
+    - credits
+

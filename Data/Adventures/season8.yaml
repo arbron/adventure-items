@@ -1,0 +1,600 @@
+- code: DDAL08-00
+  name: Once in Waterdeep
+  description: >-
+    Who knows why adventurers are drawn together? The lust for gold, a common
+    foe, or the whimsy of fate? Pull up a stool, stoke the hearth, and let YOUR
+    story begin!.
+  released: '2018-09-04'
+  url: 'https://www.dmsguild.com/product/250993/DDAL0800-Once-in-Waterdeep'
+  tier: 1
+  length: 4
+  apl: 1
+  storyAwards:
+    - name: Faction Favor
+      description: |-
+        You have won the favor of two of the great factions: The Emerald
+        Enclave, the Lords’ Alliance, the Zhentarim, the Order of the Gauntlet,
+        the Harpers, or Force Grey (circle which factions apply when you receive
+        this award). As the bearer of this award, you may at any time replace
+        your own background feature with the **Safe Haven** background feature
+        (*Sword Coast Adventurer’s Guide*).
+
+        In addition, you may call upon these factions to cast raise dead on your
+        character if your remains are taken to Waterdeep. Doing so removes this
+        story award from your record. You can use this favor even if you don’t
+        have the Faction Agent background.
+    - name: Marmaduke the Tomcat
+      description: |-
+        This old ginger tomcat has a heart of gold and likes nothing better than
+        to snooze on your lap. He wears a name tag on his collar that identifies
+        him as “Marmaduke”, but the tag has chipped off just underneath “This
+        Cat Belongs To…”. If you can find Marmaduke’s owner, you’re sure to get
+        a reward!
+
+        Unfortunately, Marmaduke is extremely cowardly. During combat, he leaps
+        onto you and digs his claws in, never letting go and scrambling all over
+        your body. Treat this as a flaw—if you use it to your disadvantage, your
+        DM can grant inspiration at their discretion.
+      type: pet
+  missing:
+    - credits
+
+
+- code: DDAL08-01
+  name: The Map with No Names
+  description: >-
+    Rumors abound of a map that leads to a treasure of unimaginable value. When
+    chance drops the map into your hands, you have the chance to become wealthy
+    beyond your wildest dreams. But you’re not the only ones with that dream.
+    The chase is on.
+  released: '2018-10-02'
+  url: 'https://www.dmsguild.com/product/250987/DDAL0801-The-Map-with-No-Names'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Wand of Secrets
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+  spellbooks:
+    - name: Blegor’s Spellbook
+      spells:
+        - name: identify
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: snare
+          level: 1
+        - name: invisibility
+          level: 2
+        - name: locate object
+          level: 2
+        - name: rope trick
+          level: 2
+        - name: glyph of warding
+          level: 3
+  missing:
+    - credits
+
+
+- code: DDAL08-02
+  name: Beneath the City of the Dead
+  description: >-
+    The treasure hunt has led to the City of the Dead. Beneath that
+    well-manicured park is an ancient crypt where the treasure awaits you!
+  released: '2018-10-02'
+  url: 'https://www.dmsguild.com/product/250990/DDAL0802-Beneath-the-City-of-the-Dead'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Goggles of Night
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: DDAL08-03
+  name: Dock Ward Double-Cross
+  description: >-
+    You’ve been set up. However, the man you were set against is more than
+    willing to forgive and forget, if you are willing join forces to seek a
+    terrible vengeance.
+  released: '2018-10-02'
+  url: 'https://www.dmsguild.com/product/250991/DDAL0803-Dock-Ward-Double-Cross'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Hat of Disguise
+      rarity: uncommon
+    - name: Bullets, +1
+      rarity: uncommon
+      consumable: true
+      count: 3
+  missing:
+    - credits
+
+
+- code: DDAL08-04
+  name: A Wrinkle in the Weave
+  description: >-
+    The Blackstaff has discovered an oddity in the Weave that surrounds
+    Waterdeep. The enigma may have been there all along or it might be new and
+    the Blackstaff intends to figure it out using an ancient artifact from the
+    reign of Emperor Shoon III.
+  released: '2018-11-06'
+  url: 'https://www.dmsguild.com/product/253881/DDAL0804-A-Wrinkle-in-the-Weave'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Ring of Mind Shielding
+      rarity: uncommon
+    - name: Potion of Poison
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Arcane Lock
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: DDAL08-05
+  name: The Hero of the Troll Wars
+  description: >-
+    Hurtling through time, you find yourself embroiled in a struggle to keep the
+    fledgling town of Waterdeep from succumbing to a vicious Troll invasion. But
+    sometimes the true threat lies within the city walls…
+  released: '2018-11-06'
+  url: 'https://www.dmsguild.com/product/253883/DDAL0805-Hero-of-the-Troll-Wars'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Javelin of Lightning
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: DDAL08-06
+  name: Purging the Blood
+  description: >-
+    Still falling through time, Waterdeep has grown into a small city with a
+    problem, a vampire problem, but an old friend offers a solution.
+  released: '2018-11-06'
+  url: 'https://www.dmsguild.com/product/253884/DDAL0806-Purging-the-Blood'
+  tier: 1
+  length: 2-4
+  apl: 3
+  items:
+    - name: Cloak of Protection
+      rarity: uncommon
+  missing:
+    - credits
+
+
+- code: DDAL08-07
+  name: Into the Dark
+  description: >-
+    When one of the Lords of Waterdeep asks you to root out a threat to the
+    city, you respond to the call. Prepare for a foray into Undermountain.
+  released: '2018-12-04'
+  url: 'https://www.dmsguild.com/product/257779/DDAL0807-Into-the-Dark'
+  tier: 2
+  length: 2-4
+  apl: 5
+  items:
+    - name: Mace of Smiting
+      rarity: rare
+  storyAwards:
+    - name: Endless Bluetooth Ale
+      description: |-
+        If a way was discovered to set up a supply of the blue lichen to the
+        Yawning Portal, Durnan provides all the Bluetooth Ale the characters can
+        drink whenever they visit. Brewed from the blue lichen grown on the
+        skeletons of dwarves left for dead in the Stonebone Mines, bluetooth ale
+        is a truly unique beverage.
+
+        The strong dwarven-style ale is a rich sapphire color and has a faint
+        earthy taste. While the ale lacks most of the special properties of the
+        blue lichen, it still can turn the imbibers teeth (and bones) temporarily
+        blue.
+
+        The ale functions as an ingested poison. The drinker must succeed on a DC
+        12 Constitution saving throw, or their skeleton turns a dark shade of blue
+        for 24 hours.
+  missing:
+    - credits
+
+
+- code: DDAL08-08
+  name: Crypt of the Dark Kiss
+  description: >-
+    Are there actually vampires in Undermountain? The Baron of Blood demands
+    that you find out!
+  released: '2018-12-04'
+  url: 'https://www.dmsguild.com/product/257780/DDAL0808-Crypt-of-the-Dark-Kiss'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Ring of Fire Resistance
+      rarity: rare
+  missing:
+    - credits
+
+
+- code: DDAL08-09
+  name: Fangs and Frogs
+  description: >-
+    Your chase to wipe out the vampires of Undermountain leads to the
+    Slitherswamp. The master vampire is close at hand!
+  released: '2018-12-04'
+  url: 'https://www.dmsguild.com/product/257781/DDAL0809-Fangs-and-Frogs'
+  tier: 2
+  length: 2-4
+  apl: 10
+  items:
+    - name: Wand of Lightning Bolts
+      rarity: rare
+    - name: Spell Scroll of Dispel Magic
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Suggestion
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Monstrous Merger
+      description: >-
+        You decided to take a chance and touch or drink the multicolored water
+        that spilled from a broken fountain in Arcturia’s abandoned laboratory.
+        Doing so has changed you forever. Arcturia was a master of transmutation
+        and she must have used this water to assist her in her unholy
+        experiments. While you no longer carry the negative effects associated
+        with this, it seems the physical trait you manifested still lingers.
+        This story award can only be removed by a *remove curse*.
+  missing:
+    - credits
+
+
+- code: DDAL08-10
+  name: The Skull Square Murders
+  description: >-
+    When Volothamp Geddarm hires you to recover a missing key, you find yourself
+    wrapped up in a series of murders in Lower Skullport. Can you find the
+    killer before they find you?
+  released: '2019-02-05'
+  url: 'https://www.dmsguild.com/product/263383/DDAL0810-The-Skull-Square-Murders'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Amulet of Health
+      rarity: rare
+    - name: Potion of Giant Strength (Fire)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: DDAL08-11
+  name: Poisoned Words
+  description: >-
+    Your search for Volo’s key in Skullport has you playing a dangerous game
+    between The Xanathar Guild, Bregan D’aerthe, and the Zhentarim. In the Port
+    of Shadow, how do you know who you can trust when lives are on the line?
+  released: '2019-02-05'
+  url: 'https://www.dmsguild.com/product/263387/DDAL0811-Poisoned-Words'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Glamoured Studded Leather
+      rarity: rare
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Speed
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Vitality
+      rarity: veryRare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Roughed Up by the Xanathar’s Guild
+      description: >-
+        For bungling their escape, the characters have been rescued by The
+        Zhentarim and Bregan D’aerthe. They’re given little time to recover at
+        The Tawdry Nymph and begin their next adventure with a level of
+        exhaustion and half their hit dice (rounded down).
+  missing:
+    - credits
+
+
+- code: DDAL08-12
+  name: Xanathar’s Wrath
+  description: >-
+    This couldn’t get worse. The key you are searching for has fallen into the
+    hands of the eye tyrant of Skullport himself. Now you just need to rob
+    Xanathar without getting disintegrated.
+  released: '2019-02-05'
+  url: 'https://www.dmsguild.com/product/263388/DDAL0812-Xanathars-Wrath'
+  tier: 2
+  length: 2-4
+  apl: 8
+  items:
+    - name: Gem of Seeing
+      rarity: rare
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Invisibility
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: DDAL08-13
+  name: The Vampire of Skullport
+  description: >-
+    Something is wrong in the endless gloom of Skullport, and the Baron of Blood
+    has tasked you with setting things right.
+  released: '2019-03-05'
+  url: 'https://www.dmsguild.com/product/264612/DDAL0813-The-Vampire-of-Skullport'
+  tier: 3
+  length: 4-6
+  apl: 13
+  items:
+    - name: Oil of Slipperiness
+      rarity: uncommon
+    - name: Staff of Withering
+      rarity: rare
+    - name: Potion of Gaseous Form
+      rarity: rare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: DDAL08-14
+  name: Rescue from Vanrakdoom
+  description: >-
+    Vampires in service to Shar, the Mistress of Night, are somewhere in
+    Vanrakdoom. You must locate them without drawing the attention of the other
+    residents of this dangerous place.
+  released: '2019-03-05'
+  url: 'https://www.dmsguild.com/product/265274/DDAL0814-Rescue-from-Vanrakdoom'
+  tier: 3
+  length: 4-6
+  apl: 13
+  items:
+    - name: Desolation (Greatsword of Sharpness)
+      rarity: veryRare
+  missing:
+    - credits
+
+
+- code: DDAL08-15
+  name: Forge of Fangs
+  description: >-
+    The Forge of Fangs has been located in Vanrakdoom. While many innocents have
+    been saved from an undying fate, the forge remains. Artor Morlin would like
+    to see it torn to the ground and the threat ended forever.
+  released: '2019-03-05'
+  url: 'https://www.dmsguild.com/product/265534/DDAL0815-Forge-of-Fangs'
+  tier: 3
+  length: 4-6
+  apl: 13
+  items:
+    - name: Ring of Shooting Stars
+      rarity: veryRare
+  storyAwards:
+    - name: Marked by Shar
+      description: Followers of Shar are always initially hostile to the characters.
+    - name: Scholar of Vanrakdoom
+      description: >-
+        This adventure has awakened in an interest in Vanrakdoom and Vanrak
+        Moonstar. Characters can spend their time studying the histories of
+        Vanrak and his cult of Shar.
+  missing:
+    - credits
+
+
+- code: DDAL08-16
+  name: Change of Address
+  description: >-
+    The hand behind the Baron of Blood’s troubles is revealed, and he vows to
+    make himself the worst kind of neighbor.
+  released: '2019-04-23'
+  url: 'https://www.dmsguild.com/product/268517/DDAL0816-A-Change-of-Address'
+  tier: 4
+  length: 4-6
+  apl: 18
+  items:
+    - name: Plate Armor of Etherealness
+      rarity: legendary
+    - name: Potion of Giant Strength (Fire)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Lesser Restoration
+      rarity: uncommon
+      consumable: true
+      count: 3
+  missing:
+    - credits
+
+
+- code: DDAL08-17
+  name: The Tower of Ahghairon
+  description: >-
+    The Tower of Ahghairon has been sealed for years, but when the door opens at
+    last, it’s an invitation to even more mystery within.
+  released: '2019-04-23'
+  url: 'https://www.dmsguild.com/product/268519/DDAL0817-The-Tower-of-Ahghairon'
+  tier: 4
+  length: 4-6
+  apl: 18
+  items:
+    - name: Cubic Gate
+      rarity: legendary
+    - name: Water from the Fountain (Potion of Healing)
+      rarity: common
+      consumable: true
+      count: 2
+  spellbooks:
+    - name: Planer Spellbook
+      spells:
+        - name: contact other planes
+          level: 5
+        - name: demiplane
+          level: 8
+  missing:
+    - credits
+
+
+- code: DDAL08-18
+  name: Moving Day
+  description: >-
+    You must transport the Baron of Blood (sealed within his coffin) to his new
+    home. Unfortunately, his new neighbors are not happy to see him move in, and
+    the Mad Mage himself wants to throw him a housewarming party.
+  released: '2019-04-23'
+  url: 'https://www.dmsguild.com/product/268520/DDAL0818-Moving-Day'
+  tier: 4
+  length: 4-6
+  apl: 18
+  items:
+    - name: Rod of Resurrection
+      rarity: legendary
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: DDEP08-01
+  name: Chaos in the City of Splendors
+  description: >-
+    The hunt for the cache of dragons has attracted ne’er-do-wells and fortune
+    seekers to Waterdeep from far and wide, and the local gangs are not about to
+    let such a bounty of talent go to waste. Chaos and shenanigans await the
+    brave and the bold in the City of Splendors!
+  released: '2015-11-09'
+  tier: 1
+  length: 3
+  apl: 3
+  items:
+    - name: Bag of Tricks (Rust)
+      rarity: uncommon
+    - name: Folding Boat
+      rarity: rare
+  missing:
+    - credits
+
+
+- code: DDEP08-02
+  name: Stardock Under Siege
+  description: >-
+    An illithid invasion threatens Stardock, and only you and your allies can
+    stop it!
+  released: '2019-02-08'
+  tier: [1, 2, 3]
+  length: 4
+  apl: [3, 8, 13]
+  items:
+    - name: Chime of Opening
+      rarity: rare
+    - name: Mantle of Spell Resistance
+      rarity: rare
+    - name: Periapt of Wound Closure
+      rarity: uncommon
+    - name: Ring of Water Walking
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Resistance (Acid)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: DDEP08-03
+  name: Last Orders at the Yawning Portal
+  description: >-
+    Durnan has closed the Yawning Portal and mysteriously disappeared back down
+    the well into Undermountain. His old adventuring companion Mirt has hung up
+    his tankard and set off to find him, but he can’t do it alone. Champions
+    gather from afar to answer his call and rescue one of the city’s most iconic
+    heroes. Will YOU join them?
+  released: '2019-03-08'
+  tier: [1, 2, 3, 4]
+  length: 3
+  apl: [3, 8, 13, 18]
+  items:
+    - name: Animated Shield
+      rarity: veryRare
+    - name: Ring of Invisibility
+      rarity: legendary
+    - name: Rope of Climbing
+      rarity: uncommon
+    - name: Winged Boots
+      rarity: uncommon
+  storyAwards:
+    - name: Deep Delver
+      description: >-
+        Your successes in the dungeons of Undermountain have brought you glory
+        in the city above. You earn any additional point of renown. Whenever you
+        return to Waterdeep following a successful expedition into the dungeons
+        of Undermountain, you gain a free healing potion.
+    - name: Tavern Hero
+      description: >-
+        Your actions were noteworthy in rescuing Durnan the Innkeeper from the
+        dungeons of Undermountain. The proprietor of the Yawning Portal has
+        granted you free accommodation and drinks in his inn for the rest of
+        your life and commissioned a portrait of your group to hang in the
+        taproom until the end of time.
+    - name: Sold Soul
+      description: >-
+        Your soul has been promised to Breccia of the Growling Groghouse. If you
+        later die, she claims your soul and uses it for own mysterious purposes.
+        The only way you can be restored to life is via a *true resurrection*
+        spell, after which this award is removed.
+  missing:
+    - credits
+

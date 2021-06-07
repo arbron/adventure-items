@@ -1,0 +1,909 @@
+- code: DDAL07-01
+  name: A City on the Edge
+  description: >-
+    Often called the “Gateway to Chult”, the exotic city of Port Nyanzaru is
+    built upon a landscape both mystifying and marvelous. However, the city’s
+    vibrant beauty is overshadowed by a mysterious scourge that plagues all
+    within the land. Can the divergent forces within the city discover the truth
+    before all are overcome by this growing threat?
+  released: '2017-09-05'
+  url: 'https://www.dmsguild.com/product/214058/DDAL0701-A-City-on-the-Edge-5e'
+  tier: 1
+  length: 5x1
+  apl: 1
+  items:
+    - name: Alchemist’s fire (flask)
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Potion of Animal Friendship
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 3
+    - name: Potion of Poison
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Resistance (Poison)
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Healing Word
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Protection from Evil and Good
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Cute and Scaly
+      description: |-
+        You found a velociraptor egg. With proper care, it hatches within the
+        next week, but since it is away from its natural habitat, its growth is
+        stunted.
+
+        It may not be attack, defend, or provide aid in combat, being no deadlier
+        than a domesticated dog or cat. However, through patience and practice,
+        it can be taught simple tricks and name recognition if trained and fed
+        for a minimum of 20 downtime days.
+      type: pet
+    - name: Snakes on a Brain
+      description: >-
+        After being charmed by the grung’s gift, you experience recurring
+        nightmares over the next few weeks. Most of them involve vicious
+        serpents and a soft voice whispering to join them in the arms of
+        oblivion.
+    - name: The Thrill of Victory
+      description: >-
+        By claiming victory in both the dinosaur race and the gladiator’s arena,
+        you gain a bit of fame from the citizens within the walls of Port
+        Nyanzaru. Once per day, you may gain advantage on a single Charisma
+        (Persuasion) check when dealing with any residents within the Market,
+        Merchant’s, or Harbor Wards.
+    - name: The Trusting Triceratops
+      description: >-
+        Through your actions, you’ve garnered the respect of the Ytepka Society.
+        Though their numbers are few, you are now aware of how their members
+        secretly identify themselves to each other. During any of the rare
+        social interactions you may have a member of the Ytepka, their starting
+        attitude will automatically be friendly.
+  missing:
+    - credits
+
+
+- code: DDAL07-02
+  name: Over the Edge
+  description: >-
+    In response to a new but as-of-yet-unnamed threat, the factions have called
+    upon adventurers to venture into the jungle in search of a location for a
+    new base of operations. As such, you have been charged with scouting several
+    locations to assess their viability. Surely something so trivial as a
+    scouting mission couldn’t go wrong?
+  released: '2017-10-03'
+  url: 'https://www.dmsguild.com/product/215579/DDAL0702-Over-the-Edge-5e'
+  tier: 2
+  length: 5x1
+  apl: 5
+  items:
+    - name: Potion of Animal Friendship
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 4
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Poison
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Resistance (Psychic)
+      rarity: uncommon
+      consumable: true
+      count: 3
+    - name: Potion of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 4
+    - name: Scroll of Protection (Aberrations)
+      rarity: rare
+      consumable: false
+      count: 1
+    - name: Spell Scroll of Remove Curse
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Tongues
+      rarity: uncommon
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Naga’s Spellbook
+      spells:
+        - name: control water
+          level: 4
+        - name: fire shield
+          level: 4
+        - name: ice storm
+          level: 4
+  storyAwards:
+    - name: Honorary Clan Member
+      description: >-
+        For your assistance in saving the lives of the peaceful yuan-ti clan
+        known as the Misty Cliff clan, they have made you an honorary member of
+        their clan. If you are in need and a member of the clan is nearby, they
+        provide whatever help they can. The same is expected of you if the clan
+        requires assistance.
+  missing:
+    - credits
+
+
+- code: DDAL07-03
+  name: A Day at the Races
+  description: >-
+    The Merchant Princes have a treat in store for everyone! A new team-based
+    event has been added to the roster and the factions are throwing their hats
+    into the ring. Climb aboard and saddle up!
+  released: '2017-11-07'
+  url: 'https://www.dmsguild.com/product/222716/DDAL0703-A-Day-at-the-Races-5e'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Quarterstaff, +1
+      rarity: uncommon
+    - name: Spell Scroll of Ice Knife
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: First to Race
+      description: >-
+        For the next year, you can find lodging for free in one of the Tiryki
+        Anchorage’s fine, flea-bitten establishments—maintaining a Poor
+        lifestyle for up to 30 days.
+    - name: Winner, Winner, Raptor Dinner
+      description: |-
+        There can be no dispute, even with your attention divided, you were able
+        to lead your team to undisputed victory.
+
+        Such a fine victory means only one thing; to be treated to the finest
+        modest accommodations to be found in the city for free—maintaining a
+        Modest lifestyle for up to 30 days!
+  missing:
+    - credits
+
+
+- code: DDAL07-04
+  name: A Walk in the Park
+  description: >-
+    A mysterious satchel linking the yuan-ti to a poisoning in Port Nyanzaru
+    leads you outside the safety of city walls and into the jungle beyond.
+    Venture into the jungle and seek out the wisdom of the grung to shed some
+    light on the situation.
+  released: '2017-11-07'
+  url: 'https://www.dmsguild.com/product/222717/DDAL0704-A-Walk-in-the-Park-5e'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Goggles of Night
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: DDAL07-05
+  name: Whispers in the Dark
+  description: >-
+    The temple lies just ahead, and within the answers to a great many questions
+    about the recent goings-on in Port Nyanzaru. The journey here has been long
+    and arduous and hopefully soon at an end. Leave your trepidations at the
+    door; there’s exploring to be done!
+  released: '2017-11-07'
+  url: 'https://www.dmsguild.com/product/222718/DDAL0705-Whispers-in-the-Dark-5e'
+  tier: 1
+  length: 2
+  apl: 3
+  items:
+    - name: Pearl of Power
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 3
+    - name: Spell Scroll of Warding Bond
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Night Serpent Comes
+      description: >-
+        You have experienced a nightmare so raw and pure that it haunts your
+        waking mind. You gain the flaw *“I’ve seen into the future. A future
+        where the Night Serpent has come and devoured us all. Nothing matters
+        anymore.”*
+  missing:
+    - credits
+
+
+- code: DDAL07-06
+  name: Fester and Burn
+  description: >-
+    The denizens of the Old City have made some unusual sightings in the
+    festering refuse pits on the outskirts of the city, and while such reports
+    are seldom taken terribly seriously, the mysterious disappearance of a
+    beloved figure in the poor part of Port Nyanzaru has folks on edge. Can you
+    get to the bottom of this?
+  released: '2017-11-07'
+  url: 'https://www.dmsguild.com/product/224832/DDAL0706-Fester-and-Burn-5e'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Mace of Smiting
+      rarity: rare
+    - name: Potion of Poison
+      rarity: uncommon
+      consumable: true
+      count: 2
+  storyAwards:
+    - name: Necromance-me
+      description: >-
+        Characters who chose to take the brunt of the bone sphere’s damage or
+        drink Crackle’s potion of black ichor in Part 3 become more resistant to
+        the effects of the Cyst thanks to their exposure to its necrotic ichor.
+  missing:
+    - credits
+
+
+- code: DDAL07-07
+  name: Rotting Roots
+  description: >-
+    The sudden appearance of the undead within Port Nyanzaru doesn’t appear to
+    be the only thing on the horizon. A vast horde of skeletons and zombies is
+    moving towards the city and while those of means are safe within the city’s
+    walls, those in the Old City and Malar’s Throat are forced to contend with
+    the problem. Where did they come from? More importantly, what are you going
+    to do to find out?
+  released: '2017-12-05'
+  url: 'https://www.dmsguild.com/product/224833/DDAL0707-Rotting-Roots-5e'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Rope of Entanglement
+      rarity: rare
+  missing:
+    - credits
+
+
+- code: DDAL07-08
+  name: Putting the Dead to Rest
+  description: >-
+    The jungle has opened up and revealed her secrets—now is the time to act
+    upon them. All signs point to a long-abandoned city as the source of the
+    undead contagion, and so you have been called upon to venture within and put
+    an end to it once and for all. Are you up to the task?
+  released: '2017-12-05'
+  url: 'https://www.dmsguild.com/product/224834/DDAL0708-Putting-the-Dead-to-Rest-5e'
+  tier: 2
+  length: 2
+  apl: 8
+  items:
+    - name: Staff of the Woodlands
+      rarity: rare
+    - name: Holy water (flask)
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Resistance (Necrotic)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: DDAL07-09
+  name: Unusual Opposition
+  description: >-
+    The trail leading from the Fane of the Whispered Fang has grown cold, but
+    you can still taste the machinations of the yuan-ti in Chult’s humid,
+    stagnant air. Because of this, you must venture deeper still into the jungle
+    and petition the aid of an unlikely ally—the fabled Ramshackle King. His
+    assistance is crucial to the effort to save Chult!
+  released: '2018-02-06'
+  url: 'https://www.dmsguild.com/product/230789/DDAL0709-Unusual-Opposition-5e'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Bitter Wrath (Frost Brand Rapier)
+      rarity: veryRare
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 2
+    - name: Potion of Speed
+      rarity: veryRare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Blackwater Twist
+      description: >-
+        You bartered away your own beauty to the Blackwater Three in exchange
+        for secret knowledge. Something about you, be it physical or spiritual,
+        becomes twisted and hideous.
+  missing:
+    - credits
+
+
+- code: DDAL07-10
+  name: Fire, Ash, and Ruin
+  description: >-
+    Within the jungles of Chult is a vast expanse of ash. While a red dragon is
+    known to reside deep within the Land of Ash and Smoke, it is far from the
+    deadliest of its denizens. Deeper still is a pit filled to the brim with
+    pure evil. None who have sought out its secrets have survived to tell its
+    tale. Will you be more successful than they?
+  released: '2018-02-06'
+  url: 'https://www.dmsguild.com/product/230794/DDAL0710-Fire-Ash-and-Ruin-5e'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Krahharuan Fork (Pike, +3)
+      rarity: veryRare
+    - name: Potion of Resistance (Fire)
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Hallow
+      rarity: rare
+      consumable: true
+      count: 1
+  missing:
+    - credits
+
+
+- code: DDAL07-11
+  name: A Lesson in Love
+  description: >-
+    An old elf has wandered into the city from the jungle—prattling on about his
+    long-lost daughter to anyone whose ear he can bend. Though most in Port
+    Nyanzaru dismiss him as mad, he speaks the truth. Can you find and save his
+    daughter?
+  released: '2018-03-06'
+  url: 'https://www.dmsguild.com/product/232624/DDAL0711-A-Lesson-in-Love-5e'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Love’s Bite (Nine Lives Stealer)
+      rarity: veryRare
+    - name: Potion of Giant Strength (Fire)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Speed
+      rarity: veryRare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Ire of the Merchant Princes
+      description: >-
+        Aremag provided a degree of protection to the city of Port Nyanzaru that
+        can never be replaced, and the merchant princes will never forget this.
+        You may no longer use the **Buying from the Princes** downtime activity.
+        In addition, lifestyle costs and the gp costs of any spellcasting
+        services received from the temples within the city are doubled while
+        adventuring within Chult.
+  missing:
+    - credits
+
+
+- code: DDAL07-12
+  name: In Search of Secrets
+  description: >-
+    The yuan-ti have a long, storied past in the history of Chult. So, if they
+    are to be defeated, we must look back into history. Within the jungles, a
+    number of cities fell into ruin during the Year of Blue Fire. Both the
+    merchant princes and factions believe that if discovered, they likely
+    contain knowledge that’ll prove invaluable in the battles to come. Get
+    looking!
+  released: '2018-03-06'
+  url: 'https://www.dmsguild.com/product/232625/DDAL0712-In-Search-of-Secrets-5e'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Staff of Striking
+      rarity: veryRare
+  storyAwards:
+    - name: Nightmare Warrior
+      description: >-
+        Characters who go through the void and deal with facing their fears
+        become more resistant to attacks against their dreams and fears in the
+        future.
+  missing:
+    - credits
+
+
+- code: DDAL07-13
+  name: Old Bones and Older Tomes
+  description: >-
+    The sages of Candlekeep have come calling. They’ve come to Port Nyanzaru on
+    the trail of a colleague. He came to the jungle to pursue his studies in
+    solitude some twenty years ago, but within the last year, his regular
+    communications have fallen silent. They are in search of brave (and
+    discrete) adventurers to escort them around the peninsula for a health and
+    welfare check. Are you brave and discrete enough for the job?
+  released: '2018-04-03'
+  url: 'https://www.dmsguild.com/product/235128/DDAL0713-Old-Bones-and-Older-Tomes'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: Wand of Polymorph
+      rarity: veryRare
+    - name: Potion of Flying
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Death Ward
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Verse vs. Verses
+      description: |-
+        Anyone participating in the Conversation with Crannaston in the upper
+        chamber is haunted for days by the following two lines of prose:
+
+        *Past the dark depths of the forest*  
+        *You find the lock and hold the key*
+
+        The character knows that it is the second verse to a poem but cannot
+        make it out in their head. However, they are sure to recognize it
+        immediately if heard or read. This verse haunts you until you know
+        it completely.
+  missing:
+    - credits
+
+
+- code: DDAL07-14
+  name: Fathomless Pits of Ill Intent
+  description: >-
+    The time is now! The yuan-ti lay on the cusp of freeing an ancient being of
+    insurmountable evil from its imprisonment. Should this happen, Faerûn may
+    very well be plunged into an age of darkness. You have traveled the width
+    and breadth of the peninsula and learned what you could about your foe. Now
+    it’s time to put that knowledge to use. Steel yourself, adventurer, there
+    are important deeds to be done!
+  released: '2018-04-03'
+  url: 'https://www.dmsguild.com/product/235134/DDAL0714-Fathomless-Pits-of-Ill-Intent'
+  tier: 3
+  length: 4
+  apl: 13
+  items:
+    - name: The Mask of Wompona Yarp (Helm of Brilliance)
+      rarity: veryRare
+    - name: Spell Scroll of Comprehend Languages
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Greater Restoration
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Dead Men Tell Tales
+      description: >-
+        You have found a never-before-published chapter of *Of the Fall of
+        Netheril*, penned by the lich Rhaugilath the Ageless. The chapter
+        addresses the architectural design of the Netherese enclave of Orbedal,
+        which was ruled by Rhaugilath. This book would be of great interest to a
+        sage of ancient history and could be used to gain access to the great
+        library at Candlekeep.
+  missing:
+    - credits
+
+
+- code: DDAL07-15
+  name: Streams of Crimson
+  description: >-
+    The Soulmonger is shattered and its pieces scattered across the peninsula of
+    Chult. Dire forces seek those shards for their own nefarious purposes, and
+    the Red Wizards are rumored to have found a number of them already. Can you
+    wrest those necromantic artifacts from the hands of the dread mages?
+  released: '2018-05-01'
+  url: 'https://www.dmsguild.com/product/238650/DDAL0715-Streams-of-Crimson'
+  tier: 4
+  length: 4
+  apl: 18
+  items:
+    - name: Efreeti Chain
+      rarity: legendary
+    - name: Potion of Flying
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Regenerate
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Resurrection
+      rarity: veryRare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: In the Hands of the Enemy
+      description: >-
+        You failed to recover the opal pendant from the Thayan zulkirs and lost
+        the Soulmonger fragment. At some point in the future, you and your
+        allies will need to deal with the *Soulmonger* permanently. Since you
+        don’t possess the opal pendant, you’ll face a greater struggle.
+    - name: The Opal Pendant
+      description: >-
+        You captured part of the *Soulmonger’s* energy within a magic opal
+        pendant taken from a Thayan zulkir. At some point in the future, you and
+        your allies will need to deal with this nefarious device permanently.
+  missing:
+    - credits
+
+
+- code: DDAL07-16
+  name: Pools of Cerulean
+  description: >-
+    The Land of Ash and Smoke. Once a hellish landscape of volcanic activity,
+    now a nightmare region that hosts one of the scattered Soulmonger fragments.
+    The fragment’s burgeoning power attracted the attention of the Red Wizards
+    of Thay and, thankfully, adventurers who are willing to risk life and limb
+    to keep the fragment from these vile arcanists. Can you reach the fragment
+    before the Red Wizards make off with it? The hunt is on.
+  released: '2018-05-01'
+  url: 'https://www.dmsguild.com/product/238651/DDAL0716-Pools-of-Cerulean'
+  tier: 4
+  length: 4
+  apl: 18
+  items:
+    - name: Vorpal Sword (Scimitar)
+      rarity: legendary
+    - name: Potion of Speed
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Dominate Monster
+      rarity: veryRare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Opal Pendant
+      description: >-
+        You captured part of the *Soulmonger’s* energy within a magic opal
+        pendant taken from a Thayan zulkir. At some point in the future, you and
+        your allies will need to deal with this nefarious device permanently.
+  missing:
+    - credits
+
+
+- code: DDAL07-17
+  name: Cauldron of Sapphire
+  description: >-
+    Just off the northern coast of Chult churns the waters of the Cauldron, a
+    single volcano with a terrible history. Legends from the jungle lands say
+    that it vomits forth lava, stone, and monsters if the peninsula is
+    threatened—and yet the recent events did not set if off. So why is it
+    threatening to explode now?
+  released: '2018-06-05'
+  url: 'https://www.dmsguild.com/product/241653/DDAL0717-Cauldrons-of-Sapphire'
+  tier: 4
+  length: 4
+  apl: 18
+  items:
+    - name: Staff of the Magi
+      rarity: legendary
+    - name: Arrows, +2
+      rarity: rare
+      consumable: true
+      count: 12
+    - name: Spell Scroll of Greater Restoration
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Atropal in a Cage
+      description: You have a portion of an atropal safely stored in a opal amulet.
+  missing:
+    - credits
+
+
+- code: DDAL07-18
+  name: Turn Back the Endless Night
+  description: >-
+    Your foe seeks to unlock the Iron Door beneath the Peaks of Flame and open
+    the way for the Eater of the World. You must find your way through the maze
+    of tunnels and stop them, or it will be the end of all things.
+  released: '2018-06-05'
+  url: 'https://www.dmsguild.com/product/241654/DDAL0718-Turn-Back-the-Endless-Night'
+  tier: 4
+  length: 4
+  apl: 18
+  items:
+    - name: Scarab of Protection
+      rarity: legendary
+    - name: Potion of Flying
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Supreme Healing
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Mass Heal
+      rarity: legendary
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Teleport
+      rarity: veryRare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Friend of the Ageless
+      description: >-
+        Through your efforts to thwart Dendar the Night Serpent, you
+        inadvertently freed the lich Rhaugilath from his bondage to the archlich
+        Larloch. While you have made one friend, another no doubt calls you an
+        enemy.
+    - name: Your Tale is Over
+      description: >-
+        In your last moments, you witnessed Dendar the Night Serpent consume the
+        sun and crush the world in her coils. Even if there was some way to come
+        back from that horrific death, there is no world to come back to. Your
+        character is permanently retired.
+  missing:
+    - credits
+
+
+- code: DDEP07-01
+  name: Peril at the Port
+  description: >-
+    Pirates! Dastardly ne’er‐do‐wells have been spotted just outside of the
+    harbor! Not content with scratching a living off of the rich port city’s
+    scraps, pirates are making for the city by land and sea. But Port Nyanzaru
+    is far from defenseless; pick up a yklwah, climb aboard a dinosaur, or man
+    the wall; but whatever you do, don’t let those rapscallions into the city!
+  released: '2017-09-01'
+  tier: [1, 2]
+  length: 3
+  apl: [3, 8]
+  items:
+    - name: Cloak of the Bat
+      rarity: rare
+    - name: Eversmoking Bottle
+      rarity: uncommon
+    - name: Leather Armor, +1
+      rarity: rare
+    - name: Shortsword, +1
+      rarity: uncommon
+    - name: Staff of the Woodlands
+      rarity: rare
+    - name: Trident, +1
+      rarity: uncommon
+    - name: Alchemist’s fire (flask)
+      rarity: common
+      consumable: true
+      count: 10
+    - name: Antitoxin (vial)
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Healer’s kit
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Clairvoyance
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 4
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 4
+  storyAwards:
+    - name: Alliance Black Operative
+      description: |-
+        You’ve proven to your superiors in the Lords’ Alliance that you can get
+        things done: even if it means breaking the law. Now the nobility turn to
+        you under cover of night with dark deeds in mind.
+
+        Between adventures, you can spend ten downtime days to carry out a covert
+        Lords’ Alliance contract and gain one renown with your faction. You may
+        only perform this activity once between each adventure you play.
+    - name: Barnacles the Parrot
+      description: |-
+        You own a trained **parrot** called “Barnacles”. Barnacles knows many
+        saucy nautical phrases and has the uncanny ability to detect lies.
+
+        You can use Barnacles’ Wisdom (Insight) modifier of +4 in addition to
+        your own when attempting to detect lies. If Barnacles smells a rat, he’ll
+        squawk one of the following phrases: “Thar she blows!”, “Hang ‘em from
+        the yardarm!”, or “Blow the man down!”.
+      type: pet
+    - name: Eye-Patch
+      description: |-
+        You lost an eye while trying to steal from Port Nyanzaru’s merchants,
+        and now wear a leather patch over your gaping eye socket. If you lift
+        the patch, you can double your proficiency modifier in the Intimidation
+        skill.
+
+        You have disadvantage on Wisdom (Perception) checks that rely on sight
+        and on ranged attack rolls. Magic such as the *regenerate* spell can
+        restore the lost eye and remove this story award.
+    - name: Flying Snake
+      description: |-
+        You’ve unmasked the merchant prince Ifan Talro’a as a criminal. For now,
+        the Emerald Enclave is sitting on the information, choosing to monitor
+        the prince rather than show their hand. As reward, they’ve given you a
+        trained **flying snake** to serve as your messenger.
+
+        Once per adventure, you can attach a message to the flying snake and send
+        it to one of your allies. This functions as an *animal messenger* spell,
+        but the message can only be sent to people you know.
+      type: pet
+    - name: Hero of Port Nyanzaru
+      description: |-
+        You helped the merchant princes of Port Nyanzaru defeat Captain Smoke’s
+        pirate armada, and you’re now known as a hero throughout the city.
+
+        You gain advantage on Charisma checks when dealing with the merchant
+        princes. If you start a session within Port Nyanzaru, you gain advantage
+        on the first attack roll or saving throw that you make.
+    - name: Hook for a Hand
+      description: |-
+        A pirate chopped off your hand, and you replaced it with a rusty hook.
+        Your unarmed attacks now deal 1d6 piercing damage.
+
+        While you wear the hook, you can hold only a single object at a time.
+        You have disadvantage on attacks made with weapons that use two hands.
+        Magic such as the *regenerate* spell can restore the lost appendage
+        and remove this story award.
+    - name: Map of the Jungle
+      description: |-
+        You rescued Gordo the Just from the clutches of Captain Walharrow. In
+        return, he gifted you a fragment of a rare map of the jungle.
+
+        The *Tomb of Annihilation* hardcover adventure provides an unfinished
+        map of Chult. At any time, you can strike through this story award to
+        reveal map details in a 2‐hex diameter from any point on the map you
+        choose. Alternatively, you can strike through this story award to
+        succeed on any check made to navigate through jungle terrain.
+    - name: Peg Leg
+      description: |-
+        You lost your foot in a tomb beneath Port Nyanzaru, and wear a wooden
+        peg leg in its place. Your peg leg has a hidden compartment that’s ideal
+        for concealing a coin purse or a set of thieves’ tools.
+
+        While you wear the peg leg, your speed on foot is halved and you have
+        disadvantage on Dexterity checks made to balance. Magic such as the
+        *regenerate* spell can restore the lost appendage and remove this
+        story award.
+    - name: Pirate’s Curse
+      description: |-
+        You failed to protect Port Nyanzaru from Captain Smoke’s pirate armada.
+        As a parting shot, the pirates cursed you from beyond the grave.
+
+        You gain disadvantage on the first attack roll or saving throw you make
+        during a session. Only a *remove curse* spell or similar magic can dispel
+        the curse and remove this story award.
+    - name: Uku the Spider Boy
+      description: |-
+        A naughty **flying monkey** called “Uku the Spider Boy” has latched onto
+        you. Uku (“OO‐koo”) wears a crimson waistcoat adorned with tiny mirrors
+        and sports a silk skullcap. He has a naturally mischievous nature.
+
+        Uku can smell gold from 30 feet away, even if it’s kept inside a purse
+        or container. As an action, you can command Uku to steal or retrieve up
+        to 100gp using his Sleight of Hand skill bonus of +4. Uku keeps 10% of
+        the takings, which he spends on boiled sweets next time you’re in town.
+      type: pet
+  missing:
+    - credits
+
+
+- code: DDEP07-02
+  name: Drums of the Dead
+  description: >-
+    A ritual to destroy Chult’s undead has backfired and unleashed an undead
+    plague! The components needed to concoct an antidote have been identified,
+    but need to be scavenged from the jungle. Meanwhile, Valindra Shadowmantle
+    and Szass Tam are rallying the infected to conduct a massive assault on Port
+    Nyanzaru. If they succeed, the results will be catastrophic.
+  released: '2018-02-07'
+  tier: [1, 2, 3, 4]
+  length: 3
+  apl: [3, 8, 13, 18]
+  items:
+    - name: Half Plate, +2
+      rarity: veryRare
+    - name: Headband of Intellect
+      rarity: uncommon
+    - name: Mantle of Spell Resistance
+      rarity: rare
+    - name: Ring of Evasion
+      rarity: rare
+    - name: Ring of Jumping
+      rarity: uncommon
+    - name: Spellguard Shield
+      rarity: veryRare
+    - name: Tome of Clear Thought
+      rarity: veryRare
+    - name: Tome of Leadership and Influence
+      rarity: veryRare
+    - name: Wand of Lightning Bolts
+      rarity: rare
+    - name: Wand of Polymorph
+      rarity: veryRare
+    - name: Wand of the War Mage, +3
+      rarity: veryRare
+  storyAwards:
+    - name: Blessed of Ubtao
+      description: >-
+        Your understanding of the maze of life has pleased the great god Ubtao.
+        To save his people, the god has granted you the ability to foresee your
+        own failures and react accordingly. **Once before the end of this
+        event**, you can undo any action you take after it has been resolved.
+        This could be an action taken during combat, or a character action you
+        describe to the DM outside of combat. Time literally resets to the
+        moment before the action was taken, yet you remain cognizant of its
+        outcome.
+    - name: Dark Promise
+      description: >-
+        You promised the soul of a loved one to the dark champion Dagkamir, and
+        he disappeared mysteriously to claim his due. You’ll never know when
+        he’ll strike, or if you can ever undo your promise. It will haunt you
+        forever. Whenever you use inspiration, you must use any “1” you roll on
+        the dice as your result. If you’re a halfling, you can’t reroll these
+        results using halfling luck.
+    - name: Lich Slayer
+      description: >-
+        You helped an alliance of heroes stop Szass Tam and Valindra
+        Shadowmantle from destroying Port Nyanzaru and conquering Chult. Your
+        names spread throughout the necromantic orders, where they are feared
+        forevermore. You have advantage on saving throws made to resist spells
+        cast by necromancers and other undead creatures.
+    - name: Plague Buster
+      description: >-
+        You helped an alliance of heroes concoct an antidote for the zombie
+        plague ravaging Chult. Your exposure to the antidote has hardened your
+        immune system against disease. You have advantage on saving throws made
+        to resist disease.
+  missing:
+    - credits
+

@@ -1,15 +1,117 @@
-# Season 9
-- slug: behind-infernal-lines
-  name: Behind Infernal Lines
+# Season 7
+- slug: the-jungle-has-fangs
+  name: The Jungle Has Fangs
+  includesArticle: true
+  type: trilogy
   adventures:
-    - code: DDAL09-05
+    - code: DDAL07-03
       position: 1
-    - code: DDAL09-06
+    - code: DDAL07-04
       position: 2
-    - code: DDAL09-07
+    - code: DDAL07-05
       position: 3
 
 
+- slug: the-rot-from-within
+  name: The Rot from Within
+  includesArticle: true
+  type: trilogy
+  adventures:
+    - code: DDAL07-06
+      position: 1
+    - code: DDAL07-07
+      position: 2
+    - code: DDAL07-08
+      position: 3
+
+
+- slug: broken-chains
+  name: Broken Chains
+  adventures:
+    - code: DDAL07-15
+      position: 1
+    - code: DDAL07-16
+      position: 2
+    - code: DDAL07-17
+      position: 3
+    - code: DDAL07-18
+      position: 4
+
+
+# Season 8
+- slug: umbral-aristocracy
+  name: Umbral Aristocracy
+  type: trilogy
+  adventures:
+    - code: DDAL08-01
+      position: 1
+    - code: DDAL08-02
+      position: 2
+    - code: DDAL08-03
+      position: 3
+
+
+- slug: folded-time
+  name: Folded Time
+  type: trilogy
+  adventures:
+    - code: DDAL08-04
+      position: 1
+    - code: DDAL08-05
+      position: 2
+    - code: DDAL08-06
+      position: 3
+
+
+- slug: vampire-hunt
+  name: Vampire Hunt
+  type: trilogy
+  adventures:
+    - code: DDAL08-07
+      position: 1
+    - code: DDAL08-08
+      position: 2
+    - code: DDAL08-09
+      position: 3
+
+
+- slug: skullport-shakedown
+  name: Skullport Shakedown
+  type: trilogy
+  adventures:
+    - code: DDAL08-10
+      position: 1
+    - code: DDAL08-11
+      position: 2
+    - code: DDAL08-12
+      position: 3
+
+
+- slug: undying-threat
+  name: Undying Threat
+  type: trilogy
+  adventures:
+    - code: DDAL08-13
+      position: 1
+    - code: DDAL08-14
+      position: 2
+    - code: DDAL08-15
+      position: 3
+
+
+- slug: home-sweet-home
+  name: Home Sweet Home
+  type: trilogy
+  adventures:
+    - code: DDAL08-16
+      position: 1
+    - code: DDAL08-17
+      position: 2
+    - code: DDAL08-18
+      position: 3
+
+
+# Season 9
 - slug: betrayal-is-in-the-blood
   name: Betrayal is in the Blood
   adventures:
@@ -18,6 +120,17 @@
     - code: DDAL09-03
       position: 2
     - code: DDAL09-04
+      position: 3
+
+
+- slug: behind-infernal-lines
+  name: Behind Infernal Lines
+  adventures:
+    - code: DDAL09-05
+      position: 1
+    - code: DDAL09-06
+      position: 2
+    - code: DDAL09-07
       position: 3
 
 

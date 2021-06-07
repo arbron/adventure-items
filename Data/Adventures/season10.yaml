@@ -1,0 +1,544 @@
+- code: DDAL10-00
+  name: Ice Road Trackers
+  description: >-
+    A trek toward Icewind Dale turns deadly when an avalanche blocks the heroes’
+    passage through the Spine of the World. Rescued by a menagerie of  strange
+    creatures, the heroes are asked to return the favor in exchange for answers
+    about what’s happening in the cold and frozen North.
+  released: '2020-09-15'
+  url: 'https://www.dmsguild.com/product/328476/DDAL1000-Ice-Road-Trackers'
+  tier: 1
+  length: 4x1
+  apl: 1
+  credits:
+    - name: Shawn Merwin
+      role: Designer
+      key: true
+    - name: Chris Lindsay
+      role: Development
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Jedd Chevrier
+      role: Interior Art
+    - name: Robson Michel
+      role: Interior Art
+    - name: Robin Olausson
+      role: Interior Art
+    - name: Livia Prima
+      role: Interior Art
+    - name: Craig J. Spearing
+      role: Interior Art
+  items:
+    - name: Boots of False Tracks
+      rarity: common
+    - name: Ersatz Eye
+      rarity: common
+    - name: Smoldering Armor, Studded Leather
+      rarity: common
+    - name: Unbreakable Arrow
+      rarity: common
+    - name: Alchemist’s fire (flask)
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Oil of Slipperiness
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Resistance (Poison)
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Cure Wounds
+      rarity: common
+      consumable: true
+      count: 2
+
+
+- code: DDAL10-01
+  name: The Frozen North
+  description: >-
+    An avalanche has stranded you and your allies in the treacherous Spine of
+    the World, and a relentless blizzard is quickly blowing away all hope of
+    survival. Gather the surviving members of your caravan and strike out for
+    shelter. Strike out for life!
+  released: '2020-10-17'
+  url: 'https://www.dmsguild.com/product/332516/DDAL1001-The-Frozen-North'
+  tier: 1
+  length: 4
+  apl: 1
+  credits:
+    - name: Travis Woodall
+      role: Lead Designer
+    - name: Paige Leitman
+      role: Designer
+      key: true
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Mark Behm
+      role: Interior Art
+    - name: Jedd Chevrier
+      role: Interior Art
+    - name: David René Christensen
+      role: Interior Art
+    - name: Axel Defois
+      role: Interior Art
+    - name: Olly Lawson
+      role: Interior Art
+    - name: Robson Michel
+      role: Interior Art
+    - name: Irina Nordsol
+      role: Interior Art
+    - name: Robin Olausson
+      role: Interior Art
+    - name: April Prime
+      role: Interior Art
+    - name: Travis Woodall
+      role: Cartography
+    - name: Mike Schley
+      role: Cartography
+  items:
+    - name: Goggles of Night
+      rarity: uncommon
+    - name: Illuminator’s Tattoo
+      rarity: common
+    - name: Potion of Comprehend Languages
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Growth
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Frostbitten
+      description: |-
+        You’ve gained levels of exhaustion. This story award is removed at the
+        end of the adventure.
+
+        - Exhaustion Levels: ❏❏❏❏
+    - name: The Rescuers
+      description: |-
+        You rescued (and lost) the following sidekicks:
+
+        - The Expert
+        - The Spellcaster
+        - The Warrior
+    - name: The Special Delivery
+      description: >-
+        A parcel containing a delivery of homemade goods to persons unknown. The
+        crate and its contents count as a single trinket—one person among the
+        group can keep them. While the individual items aren’t really useful, if
+        the characters can figure out who they were intended for, the recipient
+        may be incredibly happy to have them.
+
+
+- code: DDAL10-02
+  name: Gnashing Teeth
+  description: >-
+    The goliaths of Wyrmdoom Crag are a proud, but thankfully, generous people.
+    Having provided you with shelter from the deadly wilds of Icewind Dale,
+    they’ve asked you to look into the strange things that have been happening
+    in and around their home.
+  released: '2020-11-15'
+  url: 'https://www.dmsguild.com/product/343148/DDAL1002-Gnashing-Teeth'
+  tier: 1
+  length: 4
+  apl: 3
+  credits:
+    - name: Travis Woodall
+      role: Lead Designer
+    - name: Laura Thompson
+      role: Designer
+      key: true
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Mark Behm
+      role: Interior Art
+    - name: Jedd Chevrier
+      role: Interior Art
+    - name: David René Christensen
+      role: Interior Art
+    - name: Robson Michel
+      role: Interior Art
+    - name: Brian Valeza
+      role: Interior Art
+    - name: Matthew Roderick
+      role: Dragonmaw Spring Art
+  items:
+    - name: Sending Stones
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: On Thin Ice
+      description: You’ve damaged your relationship with someone in the Thuunlakalaga clan.
+    - name: One Man’s Junk
+      description: You’ve caught the attention of a geedy mud mephit.
+
+
+- code: DDAL10-03
+  name: Divining Evil
+  description: >-
+    A gruesome discovery sets you off into the frozen wastes in search of
+    answers. Will you find the answers you seek, or will your journey leave you
+    with only more questions?
+  released: '2020-11-15'
+  url: 'https://www.dmsguild.com/product/343150/DDAL1003-Divining-Evil'
+  tier: 1
+  length: 4
+  apl: 3
+  credits:
+    - name: Travis Woodall
+      role: Lead Designer
+    - name: The GM Tim
+      role: Designer
+      key: true
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Chad Wild
+      role: Interior Art
+    - name: Paul Scott Canavan
+      role: Interior Art
+    - name: Sam Keiser
+      role: Interior Art
+    - name: Livia Prima
+      role: Interior Art
+    - name: April Prime
+      role: Interior Art
+  items:
+    - name: Boots of Striding and Springing
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Lesser Restoration
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Chardalyn Arrowhead
+      description: >-
+        The chardalyn arrowhead is corrupted, and a character possessing it is
+        likely to act more rashly and becomes more irritable—a trait the
+        character should add to their flaws.
+
+
+- code: DDAL10-04
+  name: Cold Benevolence
+  description: >-
+    Feral-Tongue must be stopped! But without aid, it’s likely that your efforts
+    will be in vain. Among rising tensions, Old Goat suggests an unlikely ally:
+    Chwingas! Her plan, however, isn’t popular among other members of the clan.
+    Can you sway their opinion? Better still, can you find the elusive elemental
+    spirits?
+  released: '2021-01-26'
+  url: 'https://www.dmsguild.com/product/344672/DDAL1004-Cold-Benevolence'
+  tier: 1
+  length: 4
+  apl: 3
+  credits:
+    - name: Travis Woodall
+      role: Lead Designer
+    - name: Justice Arman
+      role: Designer
+      key: true
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Jedd Chevrier
+      role: Interior Art
+    - name: Marcela Madeiros
+      role: Interior Art
+    - name: Irina Nordsol
+      role: Interior Art
+    - name: April Prime
+      role: Interior Art
+    - name: Travis Woodall
+      role: Cartography
+  items:
+    - name: Robe of Useful Items
+      rarity: uncommon
+    - name: Potion of Resistance (Cold)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Charm of Lor the Timid
+      description: >-
+        The characters earn this story award if they successfully persuade Lor
+        the Timid to aid them.
+    - name: Charm of Sappa Everwatching
+      description: >-
+        The characters earn this story award if they successfully persuade Sappa
+        Ever-Watching to aid them.
+    - name: Charm of Singing Gir
+      description: >-
+        The characters earn this story award if they successfully persuade
+        Singing Gir to aid them.
+
+
+- code: DDAL10-05
+  name: A Blight in the Darkness
+  description: >-
+    The wicked owlbear Frostclaw was nearly defeated. Now it’s time to finish
+    the deed and destroy her and her master once and for all. But first, you
+    must find them. Track them down and save Ten-Towns!
+  released: '2021-03-03'
+  url: 'https://www.dmsguild.com/product/348960/DDAL1005-A-Blight-in-the-Darkness'
+  tier: 2
+  length: 4
+  apl: 6
+  credits:
+    - name: Travis Woodall
+      role: Lead Designer
+    - name: Patricia Barnabie
+      role: Designer
+      key: true
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Jedd Chevrier
+      role: Interior Art
+    - name: Olly Lawson
+      role: Interior Art
+    - name: Lee Moyer
+      role: Interior Art
+    - name: April Prime
+      role: Interior Art
+    - name: Svetlin Velinov
+      role: Interior Art
+    - name: Travis Woodall
+      role: Cartography
+    - name: Samantha Santiago
+      role: Puzzle Illustration
+  items:
+    - name: Chardalyn Breastplate (Armor of Necrotic Resistance)
+      rarity: rare
+    - name: Wand of Pyrotechnics
+      rarity: common
+    - name: Potion of Resistance (Acid)
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Spider Climb
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Corrupted Chardalyn Infusion
+      description: >-
+        Characters who fail their saving throw against the exploding chardalyn
+        staff earn this story award.
+    - name: Sing a Song of Vengeance
+      description: >-
+        The characters earn this story award if they bring Feral-Tongue and
+        Kaskur back to Wyrmdoom Crag alive.
+    - name: The Song Falls Silent
+      description: >-
+        The characters earn this story award if Kaskur dies during the adventure
+        and isn’t returned to life.
+
+
+- code: DDAL10-06
+  name: The Fallen Star
+  description: >-
+    As the last vestiges of Feral-Tongue’s legacy echo across Icewind Dale, an
+    ominous sign makes itself known. A falling star far to the west heralds a
+    new unknown. A goliath hunting party returns to Wyrmdoom Crag, speaking of a
+    strange creature. Perhaps it may be the key to discovering the source of the
+    mysterious light.
+  released: '2021-02-12'
+  url: 'https://www.dmsguild.com/product/351522/DDAL1006-The-Fallen-Star'
+  tier: 2
+  length: 4
+  apl: 7
+  credits:
+    - name: Travis Woodall
+      role: Lead Designer
+    - name: Paul Gabat
+      role: Designer
+      key: true
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Jedd Chevrier
+      role: Interior Art
+    - name: Scott Murphy
+      role: Interior Art
+    - name: Livia Prima
+      role: Interior Art
+    - name: April Prime
+      role: Interior Art
+    - name: David Sladek
+      role: Interior Art
+    - name: Craig J. Spearing
+      role: Interior Art
+    - name: Svetlin Velinov
+      role: Interior Art
+    - name: Travis Woodall
+      role: Cartography
+  items:
+    - name: Chime of Opening
+      rarity: rare
+    - name: Prosthetic Limb
+      rarity: common
+    - name: Charm of the Ice Troll
+      rarity: unique
+      consumable: true
+      count: 1
+    - name: Potion of Climbing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Captured Goliaths
+      description: >-
+        Nararhak Tree-Eye and some of the goliath hunters you encountered were
+        captured by spiderlike creatures Lieutenant Prook calls “neogi.”
+
+
+- code: DDAL10-07
+  name: Into Darkness
+  description: >-
+    Times have been especially hard on the goliaths of Wyrmdoom Crag, and losing
+    the few hunters they have left to neogi slavers will certainly spell their
+    doom. You must delve into the ruins of an ancient city buried beneath the
+    Spine of the World. What secrets lay in the deep dark? Do they promise
+    salvation or doom?
+  released: '2021-03-12'
+  url: 'https://www.dmsguild.com/product/353209/DDAL1007-Into-Darkness'
+  tier: 2
+  length: 4
+  apl: 8
+  items:
+    - name: Dark Shard Amulet
+      rarity: common
+    - name: Mace of Smiting
+      rarity: rare
+  missing:
+    - credits
+    - pdf
+
+
+- code: DDAL10-08
+  name: Volatile Thoughts
+  description: >-
+    Just when you thought Realmspace-faring slavers were the worst thing that
+    could cross your path, it quickly became apparent you were wrong—terrible
+    things lurk in the depths of the longdead Abeiran city of Xorvintroth. And
+    when faced with countless, unfathomable horrors infesting an ancient city of
+    a long-dead civilization from another world there’s only one
+    solution…explosives.
+  released: '2021-04-16'
+  url: 'https://www.dmsguild.com/product/358263/DDAL1008-Volatile-Thoughts'
+  tier: 2
+  length: 4
+  apl: 9
+  items:
+    - name: Boots of Levitation
+      rarity: rare
+  missing:
+    - credits
+    - pdf
+
+
+- code: DDEP10-00
+  name: Great Knucklehead Rally
+  description: >-
+    To fight the despair brought on by the Everlasting Rime, an eccentric dwarf
+    sponsors a fishing tournament she calls the “Great Knucklehead Rally.” The
+    event draws the curious, the hopeful, and the cynical alike. And it also
+    draws unexpected guests that test the mettle of the attendees.
+  released: '2020-09-19'
+  url: 'https://www.dmsguild.com/product/340333/DDEP1000-The-Great-Knucklehead-Rally'
+  tier: 1
+  length: 3
+  apl: 2
+  credits:
+    - name: Celeste Conowitch
+      role: Designer
+      key: true
+    - name: Shawn Merwin
+      role: Designer
+      key: true
+    - name: Chris Lindsay
+      role: Development
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  items:
+    - name: Figurine of Wonderous Power (Snowy Owl aka Silver Raven)
+      rarity: uncommon
+    - name: Horn of Silent Alarm
+      rarity: common
+    - name: Mariner’s Armor
+      rarity: uncommon
+    - name: Rope of Climbing
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+
+
+- code: DDEP10-01
+  name: Terror in Ten-Towns
+  description: >-
+    As a beastly army approaches Ten-Towns from the south, heroes take the lead
+    in fortifications and defense. But can the heroes’ optimistic hard work
+    overcome the worst enemy—the towns’ distrust of one another?
+  released: '2021-03-05'
+  url: 'https://www.dmsguild.com/product/349163/DDEP1001-Terror-in-the-Ten-Towns'
+  tier: 1
+  items:
+    - name: Bracers of Archery
+      rarity: uncommon
+    - name: Chardalyn Earring (Headband of Intellect)
+      rarity: uncommon
+    - name: Charlatan’s Die
+      rarity: common
+    - name: Pole of Angling
+      rarity: common
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Defender of Easthaven
+      description: >-
+        Alongside other skilled warriors, you successfully defended Easthaven,
+        along with one of the other towns in the adventure.
+  missing:
+    - credits
+    - pdf
+

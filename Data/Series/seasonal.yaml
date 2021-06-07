@@ -1,3 +1,58 @@
+# Season 9
+- slug: behind-infernal-lines
+  name: Behind Infernal Lines
+  adventures:
+    - code: DDAL09-05
+      position: 1
+    - code: DDAL09-06
+      position: 2
+    - code: DDAL09-07
+      position: 3
+
+
+- slug: betrayal-is-in-the-blood
+  name: Betrayal is in the Blood
+  adventures:
+    - code: DDAL09-02
+      position: 1
+    - code: DDAL09-03
+      position: 2
+    - code: DDAL09-04
+      position: 3
+
+
+- slug: call-for-aid
+  name: Call for Aid
+  adventures:
+    - code: DDAL09-12
+      position: 1
+    - code: DDAL09-13
+      position: 2
+    - code: DDAL09-14
+      position: 3
+
+
+- slug: doors-and-corners
+  name: Doors and Corners
+  adventures:
+    - code: DDAL09-15
+      position: 1
+    - code: DDAL09-16
+      position: 2
+    - code: DDAL09-17
+      position: 3
+
+
+- slug: red-hunt
+  name: Red Hunt
+  adventures:
+    - code: DDAL09-19
+      position: 1
+    - code: DDAL09-20
+      position: 2
+
+
+# Season 10
 - slug: plague-of-ancients
   name: Plague of Ancients
   usesArticle: true

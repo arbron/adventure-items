@@ -1,0 +1,53 @@
+- code: CCC-UBCON-01-01
+  name: Back Home Again
+  description: >-
+    There is continued unrest in Hulburg and around the Moonsea. The Red Wizards
+    are rumored to be kidnapping visitors—but why?
+  released: '2020-06-05'
+  url: 'https://www.dmsguild.com/product/315765/CCCUBCON0101-Back-Home-Again'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-UBCON-01-03
+  name: Grime and Gears
+  description: >-
+    On the road between Melvaunt and Thentia, your party are dared to investigate
+    the strange sounds and lights deeper in the forest, the cause of which isn't
+    something you bargained for!
+  released: '2020-06-05'
+  url: 'https://www.dmsguild.com/product/315768/CCCUBCON0103-Grime-and-Gears'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-UBCON-02
+  name: Realm of the Brand
+  description: >-
+    The adventurers are rescued from a sinking ship by a group of Moonsea Region
+    town guards who need heroes. Their villages are cursed by a plague. Luckily,
+    they know of a fabled island, the Realm of the Brand, where ancient healers
+    can concoct healing potions for diseases just by descriptions. Unfortunately
+    there's supposed to be danger and cannibalism on the island. Will the heroes
+    survive the dangers of the Realm of the Brand to heal the people of the
+    Moonsea Region?
+  released: '2020-06-02'
+  url: 'https://www.dmsguild.com/product/315872/CCCUBCON202002Realm-of-the-Brand'
+  tier: 1
+  length: 2
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+

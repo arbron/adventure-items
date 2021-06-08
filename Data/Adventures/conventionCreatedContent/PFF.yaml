@@ -1,0 +1,37 @@
+- code: CCC-PFF-02-01
+  name: Mystery of the White Worm
+  description: >-
+    This adventure takes the party on an expedition to the Glacier of the White Worm
+    to investigate reports of increased activity around the supposed location of the
+    fabled Barroch's Hold near the center of the frozen ice.
+  released: '2020-11-02'
+  url: 'https://www.dmsguild.com/product/334409/CCCPFF0201-Mystery-of-the-White-Worm'
+  tier: 2
+  length: 4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-PFF-03-01
+  name: 'Hints at Imbalanace: Rumore of Moloch'
+  description: |-
+    Not to be outdone by Zariel and Avernus, the scheming cultists of Moloch have
+    worked to summon him to the Prime Material and help his schemes to ascend to
+    power once in again in the Nine Hells.
+
+    This adventure takes the adventurers into a forgotten crypt to investigate the
+    rumors of a fiendish cult seeking the souls of unknown passersby to sell their
+    souls for their lives.
+  released: '2020-11-02'
+  url: 'https://www.dmsguild.com/product/334208/CCCPFF0301-Hints-at-Imbalance-Rumors-of-Moloch'
+  tier: 3
+  length: 4-6
+  apl: 13
+  missing:
+    - credits
+    - items
+    - pdf
+

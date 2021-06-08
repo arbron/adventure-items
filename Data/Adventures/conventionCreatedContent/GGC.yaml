@@ -1,0 +1,17 @@
+- code: CCC-GGC-02-01
+  name: Emtombed
+  description: >-
+    Cold, bleak, and unforgiving the river Styx winds through sheets of ice that
+    comprise the layer of Stygia. An iceberg, drifting through the floe, bears
+    signs of a sahuagin massacre. Sent to find a neutral third party, a clever
+    devil asks the characters to investigate.
+  released: '2020-11-02'
+  url: 'https://www.dmsguild.com/product/334410/CCCGGC0201-Emtombed'
+  tier: 2
+  length: 4
+  apl: 8
+  missing:
+    - credits
+    - items
+    - pdf
+

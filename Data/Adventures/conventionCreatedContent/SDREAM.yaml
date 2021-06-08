@@ -1,0 +1,32 @@
+- code: CCC-SDREAM-01-01
+  name: From Every Winter, Spring
+  description: >-
+    An elderly gentleman asks a group of green adventurers to escort him to a fountain
+    of youth. What they discover will leave them rethinking their own lives.
+  released: '2020-07-20'
+  url: 'https://www.dmsguild.com/product/316535/CCCSDREAM0101-From-Every-Winter-Spring'
+  tier: 1
+  length: 2-4
+  apl: 3
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-SDREAM-01-03
+  name: The Best Laid Plans of Gnomes
+  description: >-
+    Gnomes are famous for their magic, and their tinkering, and their magical
+    tinkering! But sometimes they don't know when to stop. Rolisa Silverspring
+    has requested immediate assistance when something in her factory has gone awry.
+  released: '2020-07-20'
+  url: 'https://www.dmsguild.com/product/313845/CCCSDREAM0103-The-Best-Laid-Plans-of-Gnomes'
+  tier: 3
+  length: 4
+  apl: 13
+  missing:
+    - credits
+    - items
+    - pdf
+

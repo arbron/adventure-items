@@ -116,6 +116,18 @@
       position: 3
 
 
+- slug: daerns-blade-trilogy
+  name: Daenr’s Blade
+  type: trilogy
+  adventures:
+    - code: CCC-ANIME-01-01
+      position: 1
+    - code: CCC-ANIME-01-02
+      position: 2
+    - code: CCC-ANIME-01-03
+      position: 3
+
+
 - slug: daggers-of-lathander
   name: Daggers of Lathander
   adventures:
@@ -601,6 +613,19 @@
     - code: CCC-CIC-02
       position: 2
     - code: CCC-CIC-03
+      position: 3
+
+
+- slug: the-saga-of-the-worm
+  name: The Saga of the Worm
+  includesArticle: true
+  type: none
+  adventures:
+    - code: DDAL00-01
+      position: 1
+    - code: DDAL00-03
+      position: 2
+    - code: DDAL00-10
       position: 3
 
 

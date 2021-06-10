@@ -18,7 +18,7 @@ extension Theme where Site == AdventureItemsSite {
     }
 }
 
-private struct LeagueHTMLFactory: HTMLFactory {
+struct LeagueHTMLFactory: HTMLFactory {
     typealias Site = AdventureItemsSite
 
     func makeIndexHTML(for index: Index,
@@ -70,21 +70,6 @@ private struct LeagueHTMLFactory: HTMLFactory {
         return dictionary
     }
 
-    func makeSectionHTML(for section: Section<Site>, context: PublishingContext<Site>) throws -> HTML {
-        HTML(
-            .lang(context.site.language),
-            .head(for: section, on: context.site),
-            .body(
-                PageHeader(for: context, section: section.id).convertToNode(),
-                .wrapper(
-                    .h1(.text(section.title)),
-                    .adventureList(for: section.items)
-                ),
-                PageFooter().convertToNode()
-            )
-        )
-    }
-
     func makeItemHTML(for item: Publish.Item<Site>, context: PublishingContext<Site>) throws -> HTML {
         HTML(
             .lang(context.site.language),
@@ -107,18 +92,6 @@ private struct LeagueHTMLFactory: HTMLFactory {
         )
     }
 
-    func makePageHTML(for page: Page, context: PublishingContext<Site>) throws -> HTML {
-        HTML(
-            .lang(context.site.language),
-            .head(for: page, on: context.site),
-            .body(
-                PageHeader(for: context).convertToNode(),
-                .wrapper(.contentBody(page.body)),
-                PageFooter().convertToNode()
-            )
-        )
-    }
-
     func makeTagListHTML(for page: TagListPage, context: PublishingContext<Site>) throws -> HTML? {
         HTML(
             .lang(context.site.language),
@@ -132,30 +105,38 @@ private struct LeagueHTMLFactory: HTMLFactory {
             )
         )
     }
+}
 
-    func makeTagDetailsHTML(for page: TagDetailsPage, context: PublishingContext<Site>) throws -> HTML? {
-        HTML(
-            .lang(context.site.language),
-            .head(for: page, on: context.site),
-            .body(
-                PageHeader(for: context).convertToNode(),
-                .wrapper(
-                    .h1(
-                        "Tagged with ",
-                        .span(.class("tag"), .text(page.tag.string))
-                    ),
-                    .a(
-                        .class("browse-all"),
-                        .text("Browse all tags"),
-                        .href(context.site.tagListPath)
-                    ),
-                    .adventureList(
-                        for: context.items(taggedWith: page.tag, sortedBy: \.title, order: .ascending)
-                    )
-                ),
-                PageFooter().convertToNode()
-            )
-        )
+
+struct AdventureList<S: Website>: Component {
+    var items: [Publish.Item<S>]
+
+    var body: Component {
+        List(items, content: listEntry).class("item-list")
+    }
+
+    @ComponentBuilder
+    func listEntry(_ item: Publish.Item<S>) -> Component {
+        Article {
+            if let adventureItem = item as? Publish.Item<AdventureItemsSite>,
+               let adventure = adventureItem.metadata.adventure {
+                H1 {
+                    Link(adventure.name, url: item.path.absoluteString)
+                    Text(adventure.code).italic().class("adventure-code")
+                }
+            } else if let adventureItem = item as? Publish.Item<AdventureItemsSite>,
+                      let series = adventureItem.metadata.series {
+                H1 {
+                    Link(series.name, url: item.path.absoluteString)
+                    Text("Series").italic().class("adventure-code") // TODO: Localize based on series type
+                }
+            } else {
+                H1 {
+                    Link(item.title, url: item.path.absoluteString)
+                }
+            }
+            Markdown(item.description)
+        }
     }
 }
 
@@ -167,11 +148,33 @@ struct Wrapper: Component {
         self.node = contents().convertToNode()
     }
 
+    init(_ contents: Component) {
+        self.node = contents.convertToNode()
+    }
+
     var body: Component {
         Node<HTML.BodyContext>.div(
             .class("wrapper"),
             node
         )
+    }
+}
+
+
+struct WrappedPage<S: Website>: Component {
+    var context: PublishingContext<S>
+    var contents: Component
+
+    init(for context: PublishingContext<S>, @ComponentBuilder _ contents: () -> Component) {
+        self.context = context
+        self.contents = contents()
+    }
+
+    @ComponentBuilder
+    var body: Component {
+        PageHeader(for: context)
+        Wrapper(contents)
+        PageFooter()
     }
 }
 

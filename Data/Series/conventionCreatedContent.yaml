@@ -33,6 +33,23 @@
       position: 3
 
 
+- slug: at-jenys-request
+  name: At Jeny’s Request
+  adventures:
+    - code: CCC-DES-01-01
+      position: 1
+    - code: CCC-DES-01-02
+      position: 2
+    - code: CCC-DES-01-03
+      position: 3
+    - code: CCC-DES-01-04
+      position: 4
+    - code: CCC-DES-01-05
+      position: 5
+    - code: CCC-DES-01-06
+      position: 6
+
+
 - slug: avatar-of-shar
   name: Avatar of Shar
   adventures:
@@ -90,6 +107,18 @@
     - code: CCC-BMG-02 CORE1-2
       position: 2
     - code: CCC-BMG-03 CORE1-3
+      position: 3
+
+
+- slug: children-of-sin
+  name: Children of Sin
+  type: trilogy
+  adventures:
+    - code: CCC-DES-02-01
+      position: 1
+    - code: CCC-DES-02-02
+      position: 2
+    - code: CCC-DES-02-03
       position: 3
 
 
@@ -308,6 +337,14 @@
       position: 3
 
 
+- slug: hammer-of-the-gods
+  name: Hammer of the Gods
+  type: sequence
+  adventures:
+    - code: CCC-COS-02-01
+      position: 1
+
+
 - slug: the-heir-of-orcus
   name: The Heir of Orcus
   includesArticle: true
@@ -359,6 +396,17 @@
   adventures:
     - code: CCC-GSP04-01
       position: 1
+
+
+- slug: immortals
+  name: Immortals
+  adventures:
+    - code: CCC-GARY-15
+      position: 1
+    - code: CCC-GARY-16
+      position: 2
+    - code: CCC-GARY-17
+      position: 3
 
 
 - slug: the-jade-curse
@@ -444,6 +492,18 @@
       position: 3
 
 
+- slug: neverdusk
+  name: Neverdusk
+  type: trilogy
+  adventures:
+    - code: CCC-RPSG-01
+      position: 1
+    - code: CCC-RPSG-02
+      position: 2
+    - code: CCC-RPSG-03
+      position: 3
+
+
 - slug: nightmare
   name: Nightmare
   adventures:
@@ -460,6 +520,9 @@
 - slug: oars-rest
   name: Oar’s Rest
   adventures:
+    - code: CCC-ARCON01-01
+    - code: CCC-ARCON01-02
+    - code: CCC-ARCON01-03
     - code: CCC-CONMAR01-01
     - code: CCC-CONMAR01-02
     - code: DC-PoA-CONMAR-01
@@ -584,6 +647,17 @@
       position: 1
 
 
+- slug: rise-of-the-raven-lord
+  name: Rise of the Raven Lord
+  adventures:
+    - code: CCC-SVH-01-01
+      position: 1
+    - code: CCC-SVH-01-02
+      position: 2
+    - code: CCC-SVH-01-03
+      position: 3
+
+
 - slug: rising-shadows
   name: Rising Shadows
   type: trilogy
@@ -641,6 +715,18 @@
       position: 3
 
 
+- slug: shadows-on-the-border
+  name: Shadows on the Border
+  type: trilogy
+  adventures:
+    - code: CCC-GHC-BK1-02
+      position: 1
+    - code: CCC-GHC-BK1-03
+      position: 2
+    - code: CCC-GHC-BK1-04
+      position: 3
+
+
 - slug: the-shattered-planes
   name: The Shattered Planes
   includesArticle: true
@@ -674,6 +760,7 @@
 - slug: sisterhood-of-the-blade
   name: Sisterhood of the Blade
   adventures:
+    - code: CCC-SVH-03-01
     - code: CCC-UNITE-AN-04
 
 
@@ -795,6 +882,23 @@
       position: 3
 
 
+- slug: storm-kings-descent
+  name: Storm King’s Descent
+  adventures:
+    - code: DDAL-DRW-04
+      position: 1
+    - code: DDAL-DRW-05
+      position: 2
+    - code: DDAL-DRW-06
+      position: 3
+    - code: DDAL-DRW-07
+      position: 4
+    - code: DDAL-DRWEP-02
+      position: 5
+    - code: DDAL-DRW-08
+      position: 6
+
+
 - slug: swords-below-the-moonsea
   name: Swords Below the Moonsea
   type: saga
@@ -804,6 +908,15 @@
     - code: CCC-HAL-02 ZETH-02
       position: 2
     - code: CCC-HAL-03 ZETH-03
+      position: 3
+
+
+- slug: tales-of-estirwald
+  name: Tales of Estirwald
+  adventures:
+    - code: CCC-FC3-01-02
+      position: 2
+    - code: CCC-FC3-03
       position: 3
 
 
@@ -921,6 +1034,17 @@
   adventures:
     - code: CCC-TCW-WSF-01
       position: 1
+
+
+- slug: whispers-over-ylraphon
+  name: Whispers Over Ylraphon
+  adventures:
+    - code: CCC-YLRA-01-01
+      position: 1
+    - code: CCC-YLRA-01-02
+      position: 2
+    - code: CCC-YLRA-01-03
+      position: 3
 
 
 - slug: ylracon-trilogy

@@ -1,0 +1,12 @@
+- slug: unnamed-greg-marks
+  name: Unnamed Greg Marks
+  adventures:
+    - code: DDAO-10
+      position: 1
+    - code: DDAO-20
+      position: 2
+    - code: DDAO-30
+      position: 3
+    - code: DDAO-40
+      position: 4
+

@@ -563,7 +563,7 @@
     {
         "code": "DDEX03-12",
         "name": "Hillsfar Reclaimed",
-        "description": "The time has come to fight back against Hillsfar. Elanil Elassidil tasks you with uncovering valuable information to be used in a strike against the leader of Hillsfar, First Lord Torin Nomerthal himself. The only problem is that what you need is protected within the walls of the city. Part One of *Six Knives for Torin Nomerthal*.",
+        "description": "The time has come to fight back against Hillsfar. Elanil Elassidil tasks you with uncovering valuable information to be used in a strike against the leader of Hillsfar, First Lord Torin Nomerthal himself. The only problem is that what you need is protected within the walls of the city.",
         "released": "2016-02-01",
         "tier": 1,
         "items": [
@@ -612,7 +612,7 @@
     {
         "code": "DDEX03-14",
         "name": "Death on the Wall",
-        "description": "First Lord Torin Nomerthal and several his advisors will be leaving Hillsfar to inspect the Wall with only a small contingent of Red Plumes. The chance to strike is now! Part Two of *Six Knives for Torin Nomerthal*.",
+        "description": "First Lord Torin Nomerthal and several his advisors will be leaving Hillsfar to inspect the Wall with only a small contingent of Red Plumes. The chance to strike is now!",
         "released": "2016-03-01",
         "tier": 1,
         "items": [

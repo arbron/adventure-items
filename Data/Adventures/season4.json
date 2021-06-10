@@ -2,7 +2,7 @@
     {
         "code": "DDAL04-01",
         "name": "Suits of the Mist",
-        "description": "Strange things are afoot in the Moonsea. The factions have called all those willing and able to investigate strange occurrences in the region surrounding Phlan. Dark whispers and unseen terrors lurk in the misty shadows between this world and someplace much more sinister. Unveil the horrors before it is too late! Part one of *Misty Fortunes and Absent Hearts*.",
+        "description": "Strange things are afoot in the Moonsea. The factions have called all those willing and able to investigate strange occurrences in the region surrounding Phlan. Dark whispers and unseen terrors lurk in the misty shadows between this world and someplace much more sinister. Unveil the horrors before it is too late!",
         "released": "2016-03-15",
         "tier": 1,
         "items": [
@@ -44,7 +44,7 @@
     {
         "code": "DDAL04-02",
         "name": "The Beast",
-        "description": "Something strange is afoot within the Quivering Forest. So much so that even the elves of Greenhall have left their homes to seek out help from their newfound neighbors. But, their tales of a strange beast are not earning them any favors; especially among the Vistani, whom the elves suspect are to blame for their ills. Return once more to the Quivering Forest and learn the terrifying truth! Part Two of *Misty Fortunes and Absent Hearts*.",
+        "description": "Something strange is afoot within the Quivering Forest. So much so that even the elves of Greenhall have left their homes to seek out help from their newfound neighbors. But, their tales of a strange beast are not earning them any favors; especially among the Vistani, whom the elves suspect are to blame for their ills. Return once more to the Quivering Forest and learn the terrifying truth!",
         "released": "2016-04-05",
         "tier": 1,
         "items": [
@@ -69,7 +69,7 @@
     {
         "code": "DDAL04-03",
         "name": "The Executioner",
-        "description": "The locals are spreading rumors of the emergence of an age-old relic in a remote farming village. Surely you won’t be the only one to seek it, but can you afford to not be successful in this mission? And why haven’t they claimed it for themselves? Part Three of *Misty Fortunes and Absent Hearts*.",
+        "description": "The locals are spreading rumors of the emergence of an age-old relic in a remote farming village. Surely you won’t be the only one to seek it, but can you afford to not be successful in this mission? And why haven’t they claimed it for themselves?",
         "released": "2016-04-05",
         "tier": 1,
         "items": [
@@ -94,7 +94,7 @@
     {
         "code": "DDAL04-04",
         "name": "The Marionette",
-        "description": "A Vistani fortuneteller has called you out by name during the Burgomaster’s private reading. She raved of an army of the dead, a delicate powderbox, and a beautiful yet dangerous woman. Now the Burgomaster wants to know why you’re more important than he is… Part Four of *Misty Fortunes and Absent Hearts*.",
+        "description": "A Vistani fortuneteller has called you out by name during the Burgomaster’s private reading. She raved of an army of the dead, a delicate powderbox, and a beautiful yet dangerous woman. Now the Burgomaster wants to know why you’re more important than he is…",
         "released": "2016-04-05",
         "tier": 1,
         "items": [
@@ -155,7 +155,7 @@
     {
         "code": "DDAL04-05",
         "name": "The Seer",
-        "description": "The time has come to venture beyond the village of Orașnou and explore the realm of Barovia. However, in your travels, you happen across an unusual tribe of people--distrusted denizens of the Demiplane of Dread. Do the Vistani truly possess the ability to see the future, or is it simple parlor tricks and deceit? Part Five of *Misty Fortunes and Absent Hearts*.",
+        "description": "The time has come to venture beyond the village of Orașnou and explore the realm of Barovia. However, in your travels, you happen across an unusual tribe of people--distrusted denizens of the Demiplane of Dread. Do the Vistani truly possess the ability to see the future, or is it simple parlor tricks and deceit?",
         "released": "2016-04-05",
         "tier": 1,
         "items": [
@@ -184,7 +184,7 @@
     {
         "code": "DDAL04-06",
         "name": "The Ghost",
-        "description": "Old hatreds die hard, but sometimes it is necessary to set aside petty, personal disagreements for the greater good. The hag, Jeny Greenteeth, is wise and may prove instrumental in the troubles that lay ahead. Your task will not be easy, however; the dark forces of Barovia have agents everywhere, and eyes from beyond the grave no doubt watch your every move. Part Six of *Misty Fortunes and Absent Hearts*.",
+        "description": "Old hatreds die hard, but sometimes it is necessary to set aside petty, personal disagreements for the greater good. The hag, Jeny Greenteeth, is wise and may prove instrumental in the troubles that lay ahead. Your task will not be easy, however; the dark forces of Barovia have agents everywhere, and eyes from beyond the grave no doubt watch your every move.",
         "released": "2016-05-03",
         "tier": 1,
         "items": [
@@ -241,7 +241,7 @@
     {
         "code": "DDAL04-07",
         "name": "The Innocent",
-        "description": "The mists have led you deep into Glumpen Swamp to a den of great evil. Within, the unliving son of an unliving god awaits the peace of death that eternally eludes him. Will you grant him his rest, or realize the part he is to play in things to come? Part Seven of *Misty Fortunes and Absent Hearts*.",
+        "description": "The mists have led you deep into Glumpen Swamp to a den of great evil. Within, the unliving son of an unliving god awaits the peace of death that eternally eludes him. Will you grant him his rest, or realize the part he is to play in things to come?",
         "released": "2016-05-03",
         "tier": 2,
         "items": [
@@ -291,7 +291,7 @@
     {
         "code": "DDAL04-08",
         "name": "The Broken One",
-        "description": "The village of Orașnou is buried in winter’s snows and facing starvation. An unseen beast has ravaged the livestock culled to pay Lord Strahd’s tax and the village is thrown into panic and chaos. Can you find the monster and save the village from starvation, or worse? Part eight of *Misty Fortunes and Absent Hearts*.",
+        "description": "The village of Orașnou is buried in winter’s snows and facing starvation. An unseen beast has ravaged the livestock culled to pay Lord Strahd’s tax and the village is thrown into panic and chaos. Can you find the monster and save the village from starvation, or worse?",
         "released": "2016-05-03",
         "tier": 2,
         "items": [
@@ -314,7 +314,7 @@
     {
         "code": "DDAL04-09",
         "name": "The Tempter",
-        "description": "The people of Orașnou are desperate. The village is on the brink of starvation and has little chance of surviving the harsh winter. Even if they had enough food and supplies, Lord Strahd’s taxes are due, and the ruler of Barovia does not accept excuses as payment. The Burgomaster and others in the village have recently learned of a wealthy estate that might have enough resources to solve both of Orașnou’s problems. It is a temptation he cannot afford to resist or can he? Part Nine of *Misty Fortunes and Absent Hearts*.",
+        "description": "The people of Orașnou are desperate. The village is on the brink of starvation and has little chance of surviving the harsh winter. Even if they had enough food and supplies, Lord Strahd’s taxes are due, and the ruler of Barovia does not accept excuses as payment. The Burgomaster and others in the village have recently learned of a wealthy estate that might have enough resources to solve both of Orașnou’s problems. It is a temptation he cannot afford to resist or can he?",
         "released": "2016-06-07",
         "tier": 2,
         "items": [
@@ -343,7 +343,7 @@
     {
         "code": "DDAL04-10",
         "name": "The Artifact",
-        "description": "An expedition to the Amber Temple reveals another major minion of the enemy and uncovers a secret weapon that may help defeat them. Part Ten of *Misty Fortunes and Absent Hearts*.",
+        "description": "An expedition to the Amber Temple reveals another major minion of the enemy and uncovers a secret weapon that may help defeat them.",
         "released": "2016-06-07",
         "tier": 2,
         "items": [
@@ -389,7 +389,7 @@
     {
         "code": "DDAL04-11",
         "name": "The Donjon",
-        "description": "The village of Orașnou is panicked when a group of Bloodhand orcs appear at the edge of the woods. They bring news and an unusual request that reveals a new foe. Part Eleven of *Misty Fortunes and Absent Hearts*.",
+        "description": "The village of Orașnou is panicked when a group of Bloodhand orcs appear at the edge of the woods. They bring news and an unusual request that reveals a new foe.",
         "released": "2016-06-07",
         "tier": 2,
         "items": [
@@ -424,7 +424,7 @@
     {
         "code": "DDAL04-12",
         "name": "The Raven",
-        "description": "The Bloodhand orcs have a prisoner that may hold the answers to the strange goings on and the key to stopping the enemy. What can you do to convince them to hand the prisoner over? Part Twelve of *Misty Fortunes and Absent Hearts*.",
+        "description": "The Bloodhand orcs have a prisoner that may hold the answers to the strange goings on and the key to stopping the enemy. What can you do to convince them to hand the prisoner over?",
         "released": "2016-07-05",
         "tier": 2,
         "items": [
@@ -465,7 +465,7 @@
     {
         "code": "DDAL04-13",
         "name": "The Horseman",
-        "description": "An unknown force is inciting the people and creatures of the idyllic Greenhall to commit horrific acts of murder and carnage. Can the adventurers quell the towering rage of the rampaging Horseman? Part Thirteen of *Misty Fortunes and Empty Hearts*.",
+        "description": "An unknown force is inciting the people and creatures of the idyllic Greenhall to commit horrific acts of murder and carnage. Can the adventurers quell the towering rage of the rampaging Horseman?",
         "released": "2016-07-05",
         "tier": 2,
         "items": [
@@ -510,7 +510,7 @@
     {
         "code": "DDAL04-14",
         "name": "The Dark Lord",
-        "description": "The enemy is revealed, but time short and if you are not successful in your mission to Mount Baratok, love will never die. Part fourteen and the finale of *Misty Fortunes and Absent Hearts*.",
+        "description": "The enemy is revealed, but time short and if you are not successful in your mission to Mount Baratok, love will never die.",
         "released": "2016-07-05",
         "tier": 2,
         "items": [

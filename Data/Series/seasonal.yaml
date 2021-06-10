@@ -1,3 +1,57 @@
+# Season 1
+- slug: under-emerald-claws
+  name: Under Emerald Claws
+  adventures:
+    - code: DDEX01-10
+      position: 1
+    - code: DDEX01-13
+      position: 2
+
+
+# Season 3
+- slug: six-knives-for-torin-nomerthal
+  name: Six Knives for Torin Nomerthal
+  adventures:
+    - code: DDEX03-12
+      position: 1
+    - code: DDEX03-14
+      position: 2
+
+
+# Season 4
+- slug: misty-fortunes-and-absent-hearts
+  name: Misty Fortunes and Absent Hearts
+  adventures:
+    - code: DDAL04-01
+      position: 1
+    - code: DDAL04-02
+      position: 2
+    - code: DDAL04-03
+      position: 3
+    - code: DDAL04-04
+      position: 4
+    - code: DDAL04-05
+      position: 5
+    - code: DDAL04-06
+      position: 6
+    - code: DDAL04-07
+      position: 7
+    - code: DDAL04-08
+      position: 8
+    - code: DDAL04-09
+      position: 9
+    - code: DDAL04-10
+      position: 10
+    - code: DDAL04-11
+      position: 11
+    - code: DDAL04-12
+      position: 12
+    - code: DDAL04-13
+      position: 13
+    - code: DDAL04-14
+      position: 14
+
+
 # Season 7
 - slug: the-jungle-has-fangs
   name: The Jungle Has Fangs

@@ -21,55 +21,6 @@ extension Theme where Site == AdventureItemsSite {
 struct LeagueHTMLFactory: HTMLFactory {
     typealias Site = AdventureItemsSite
 
-    func makeIndexHTML(for index: Index,
-                       context: PublishingContext<Site>) throws -> HTML {
-        let splitItems = splitItemsIntoSections(context.sections.flatMap { $0.items })
-
-        return HTML(
-            .lang(context.site.language),
-            .head(for: index, on: context.site),
-            .body(
-                PageHeader(for: context).convertToNode(),
-                .wrapper(
-                    .h1(.text(index.title)),
-                    .p(
-                        .class("description"),
-                        .text(context.site.description)
-                    ),
-                    .forEach(Adventure.Source.allCases, { category in
-                        .unwrap(splitItems[category]) { items in
-                            .group(
-                                .h2(.text(category.localizedStringValue)),
-                                .adventureList(for: items)
-                            )
-                        }
-                    })
-                ),
-                PageFooter().convertToNode()
-            )
-        )
-    }
-
-    private func splitItemsIntoSections(_ items: [Publish.Item<Site>]) -> [Adventure.Source: [Publish.Item<Site>]] {
-        var dictionary: [Adventure.Source: [Publish.Item<Site>]] = [:]
-
-        for item in items {
-            guard let adventure = item.metadata.adventure else { continue }
-            switch adventure.source {
-            case .conventionCreatedContent:
-                var array = dictionary[.conventionCreatedContent] ?? []
-                array.append(item)
-                dictionary[.conventionCreatedContent] = array
-            default:
-                var array = dictionary[adventure.source] ?? []
-                array.append(item)
-                dictionary[adventure.source] = array
-            }
-        }
-
-        return dictionary
-    }
-
     func makeItemHTML(for item: Publish.Item<Site>, context: PublishingContext<Site>) throws -> HTML {
         HTML(
             .lang(context.site.language),

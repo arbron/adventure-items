@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  LeagueTheme.swift
 //  
 //
 //  Created by Jeff Hitchcock on 2020-09-07.
@@ -29,7 +29,7 @@ private struct LeagueHTMLFactory: HTMLFactory {
             .lang(context.site.language),
             .head(for: index, on: context.site),
             .body(
-                .header(for: context, selectedSection: nil),
+                PageHeader(for: context).convertToNode(),
                 .wrapper(
                     .h1(.text(index.title)),
                     .p(
@@ -45,7 +45,7 @@ private struct LeagueHTMLFactory: HTMLFactory {
                         }
                     })
                 ),
-                .footer(for: context.site)
+                PageFooter().convertToNode()
             )
         )
     }
@@ -75,12 +75,12 @@ private struct LeagueHTMLFactory: HTMLFactory {
             .lang(context.site.language),
             .head(for: section, on: context.site),
             .body(
-                .header(for: context, selectedSection: section.id),
+                PageHeader(for: context, section: section.id).convertToNode(),
                 .wrapper(
                     .h1(.text(section.title)),
                     .adventureList(for: section.items)
                 ),
-                .footer(for: context.site)
+                PageFooter().convertToNode()
             )
         )
     }
@@ -91,7 +91,7 @@ private struct LeagueHTMLFactory: HTMLFactory {
             .head(for: item, on: context.site),
             .body(
                 .class("item-page"),
-                .header(for: context, selectedSection: item.sectionID),
+                PageHeader(for: context, section: item.sectionID).convertToNode(),
                 .wrapper(
                     .article(
                         .div(
@@ -102,7 +102,7 @@ private struct LeagueHTMLFactory: HTMLFactory {
                         .tagList(for: item, on: context.site)
                     )
                 ),
-                .footer(for: context.site)
+                PageFooter().convertToNode()
             )
         )
     }
@@ -112,9 +112,9 @@ private struct LeagueHTMLFactory: HTMLFactory {
             .lang(context.site.language),
             .head(for: page, on: context.site),
             .body(
-                .header(for: context, selectedSection: nil),
+                PageHeader(for: context).convertToNode(),
                 .wrapper(.contentBody(page.body)),
-                .footer(for: context.site)
+                PageFooter().convertToNode()
             )
         )
     }
@@ -124,11 +124,11 @@ private struct LeagueHTMLFactory: HTMLFactory {
             .lang(context.site.language),
             .head(for: page, on: context.site),
             .body(
-                .header(for: context, selectedSection: nil),
+                PageHeader(for: context).convertToNode(),
                 .wrapper(
                     .groupedTagsList(for: page.tags.sorted(), on: context.site)
                 ),
-                .footer(for: context.site)
+                PageFooter().convertToNode()
             )
         )
     }
@@ -138,7 +138,7 @@ private struct LeagueHTMLFactory: HTMLFactory {
             .lang(context.site.language),
             .head(for: page, on: context.site),
             .body(
-                .header(for: context, selectedSection: nil),
+                PageHeader(for: context).convertToNode(),
                 .wrapper(
                     .h1(
                         "Tagged with ",
@@ -153,38 +153,34 @@ private struct LeagueHTMLFactory: HTMLFactory {
                         for: context.items(taggedWith: page.tag, sortedBy: \.title, order: .ascending)
                     )
                 ),
-                .footer(for: context.site)
+                PageFooter().convertToNode()
             )
         )
     }
 }
+
+
+struct Wrapper: Component {
+    private var node: Node<HTML.BodyContext>
+
+    init(@ComponentBuilder contents: () -> Component) {
+        self.node = contents().convertToNode()
+    }
+
+    var body: Component {
+        Node<HTML.BodyContext>.div(
+            .class("wrapper"),
+            node
+        )
+    }
+}
+
 
 private extension Node where Context == HTML.BodyContext {
     static var parser = MarkdownParser()
 
     static func wrapper(_ nodes: Node...) -> Node {
         .div(.class("wrapper"), .group(nodes))
-    }
-
-    static func header<T: Website>(for context: PublishingContext<T>, selectedSection: T.SectionID?) -> Node {
-        let sectionIDs = T.SectionID.allCases
-
-        return .header(
-            .wrapper(
-                .a(.class("site-name"), .href("/"), .text(context.site.name)),
-                .if(sectionIDs.count > 1,
-                    .nav(
-                        .ul(.forEach(sectionIDs) { section in
-                            .li(.a(
-                                .class(section == selectedSection ? "selected" : ""),
-                                .href(context.sections[section].path),
-                                .text(context.sections[section].title)
-                            ))
-                        })
-                    )
-                )
-            )
-        )
     }
 
     static func adventureList(for items: [Publish.Item<AdventureItemsSite>]) -> Node {
@@ -260,25 +256,66 @@ private extension Node where Context == HTML.BodyContext {
             tagSection(name: "Creators", tags: creatorTags)
         )
     }
+}
 
-    static func footer<T: Website>(for site: T) -> Node {
-        .footer(
-            .p(
-                .text("Created by Jeff Hitchcock"),
-                .text(" | "),
-                .a(.href("https://twitter.com/arbron"), .text("Twitter")),
-                .text(" | "),
-                .a(.href("https://arbron.space"), .text("Tumblr")),
-                .text(" | "),
-                .a(.href("https://moviemaps.org"), .text("MovieMaps"))
-            ),
-            .p(
-                .text("Generated using "),
-                .a(.href("https://github.com/johnsundell/publish"), .text("Publish")),
-                .text(". Site source available on "),
-                .a(.href("https://github.com/arbron/adventure-items/"), .text("GitHub")),
-                .text(".")
-            )
-        )
+
+struct PageHeader<S: Website>: Component {
+    let context: PublishingContext<S>
+    let selectedSection: S.SectionID?
+
+    init(for context: PublishingContext<S>, section: S.SectionID? = nil) {
+        self.context = context
+        self.selectedSection = section
+    }
+
+    var body: Component {
+        Header {
+            Wrapper {
+                Link(context.site.name, url: "/")
+                    .class("site-name")
+                // TODO: Add section links
+//                if (S.SectionID.allCases.count > 1) {
+//                    Navigation {
+//                        List(S.SectionID.allCases, content: { section
+//                            Link(context.sections[section].title, url: context.sections[section].path)
+//                                .class(section == selectedSection ? "selected" : "")
+//                        })
+//                    }
+//                }
+//                .if(sectionIDs.count > 1,
+//                    .nav(
+//                        .ul(.forEach(sectionIDs) { section in
+//                            .li(.a(
+//                                .class(section == selectedSection ? "selected" : ""),
+//                                .href(context.sections[section].path),
+//                                .text(context.sections[section].title)
+//                            ))
+//                        })
+//                    )
+//                )
+            }
+        }
     }
 }
+
+
+struct PageFooter: Component {
+    var body: Component {
+        Footer {
+            Paragraph {
+                Text("footer.createdBy".localized())
+                Text(" | ")
+                Link("Twitter", url: "https://twitter.com/arbron")
+                Text(" | ")
+                Link("Tumblr", url: "https://arbron.space")
+                Text(" | ")
+                Link("MovieMaps", url: "https://moviemaps.org")
+            }
+            Markdown(
+                "footer.generatedUsing".localizedAndFormatted("[Publish](https://github.com/johnsundell/publish)") + " " +
+                "footer.siteSource".localizedAndFormatted("[GitHub](https://github.com/arbron/adventure-items/)")
+            )
+        }
+    }
+}
+

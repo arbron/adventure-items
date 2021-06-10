@@ -1,3 +1,4 @@
+import AdventureUtils
 import Foundation
 import Files
 import Publish
@@ -7,9 +8,8 @@ import Yams
 // This type acts as the configuration for your website.
 struct AdventureItemsSite: Website {
     enum SectionID: String, WebsiteSectionID {
-        // Add the sections that you want your website to contain here:
         case adventures
-//        case series
+        case series
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
@@ -19,8 +19,8 @@ struct AdventureItemsSite: Website {
 
     // Update these properties to configure your website:
     var url = URL(string: "https://arbron.github.io/adventure-items/")!
-    var name = NSLocalizedString("title", bundle: Bundle.module, comment: "")
-    var description = NSLocalizedString("site-description", bundle: Bundle.module, comment: "")
+    var name = "site.title".localized()
+    var description = "site.description".localized()
     var language: Language { .english }
     var imagePath: Path? { nil }
 
@@ -39,7 +39,7 @@ try AdventureItemsSite().publish(using: [
     .addMarkdownFiles(),
     .copyResources(),
     .addAdventures(adventures),
-//    .addSeries(series),
+    .addSeries(series),
     .addSpreadsheet(adventures),
     .generateHTML(withTheme: .league, indentation: AdventureItemsSite.indentationMode),
     .generateRSSFeed(including: [.adventures]),

@@ -25,7 +25,7 @@ struct AdventurePage: Component {
 
         if let seed = adventure.adventureSeed {
             Paragraph {
-                Text("Adventure Seed: ").italic()
+                Text("Adventure Seed: ").italic() // TODO: Localize adventure seed prefix
                 Text(seed)
             }
         }
@@ -67,33 +67,12 @@ struct AdventurePage: Component {
             key += " <Type>"
             args.append((!adventure.isEpic ? "Adventure" : "Epic").localized())
         }
-        if let tiers = tiersString {
+        if let tiers = adventure.tier?.localizedString() {
             key += " for <Tier>"
             args.append(tiers)
         }
 
         return key.localizedAndFormatted(args)
-    }
-
-    var tiersString: String? {
-        guard let tiers = adventure.tier else { return nil }
-
-        if tiers.count == 4 {
-            return "All Tiers".localized()
-        }
-
-        let numberFormatter = NumberFormatter()
-        numberFormatter.formattingContext = .listItem
-        numberFormatter.numberStyle = .none // TODO: Maybe switch to ordinal format?
-        let listFormatter = ListFormatter()
-        listFormatter.itemFormatter = numberFormatter
-
-        if let formattedTiers = listFormatter.string(from: tiers.map(\.rawValue)) {
-            let key = "\(tiers.count == 1 ? "Tier" : "Tiers") <Tier List>" // TODO: Figure out how to do this localization properly
-            return key.localizedAndFormatted(formattedTiers)
-        }
-
-        return nil
     }
 
     var releaseString: String? {
@@ -126,8 +105,7 @@ struct AdventurePage: Component {
             key = "adventurePage.unorderedSeriesMember"
         }
         if !series.includesArticle { key = "\(key)WithArticle" }
-        args.append("*\(series.name)*")
-//        args.append("*[\(series.name)](\(series.path))*")
+        args.append("*[\(series.name)](\(series.path))*")
 
         return key.localizedAndFormatted(args)
     }

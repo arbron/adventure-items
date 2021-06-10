@@ -26,7 +26,13 @@ struct Series: Codable, Hashable {
 
         // MARK: Not Included in Data Files
         @DecodableDefault.EmptyString var name: String
+        @DecodableDefault.EmptyString var description: String
+        @DecodableDefault.EmptyString var path: String
+        @DecodableDefault.EmptyList var tiers: [Adventure.Tier]
     }
+
+    // MARK: Not Included in Data Files
+    var tiers: Set<Adventure.Tier>?
 
     var path: String {
         "/series/\(slug)/"

@@ -1,9 +1,15 @@
-"title" = "Adventure Items";
-"welcome-header" = "Welcome to Adventure Items!";
-"site-description" = "Find a D&D adventure to give your character the perfect piece of swag.";
+"site.title" = "Adventure Items";
+"site.description" = "Find a D&D adventure to give your character the perfect piece of swag.";
+
+"index.welcomeHeader" = "Welcome to Adventure Items!";
+
+"footer.createdBy" = "Created by Jeff Hitchcock";
+"footer.generatedUsing" = "Generated using %@.";
+"footer.siteSource" = "Site source available on %@.";
 
 "Adventure" = "Adventure";
 "Epic" = "Epic";
+"Series" = "Series";
 
 "<Source>" = "%@";
 "<Source> <Type>" = "%@ %@";
@@ -29,6 +35,9 @@
 "adventurePage.legacy-eventHeader" = "Legacy Events";
 
 "item.notAlLegal" = "Not AL Legal";
+
+
+"tags.adventureTier" = "adventure: tier %u";
 
 
 /* Adventure Sources */

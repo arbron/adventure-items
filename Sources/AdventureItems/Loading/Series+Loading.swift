@@ -49,6 +49,9 @@ extension Series {
 
                 adventure.series = initialSeries
                 adventureEntry.name = adventure.name
+                adventureEntry.description = adventure.description
+                adventureEntry.path = adventure.path
+                adventureEntry.tiers = adventure.tier ?? []
 
                 adventureMap[adventureEntry.code] = adventure
                 return adventureEntry

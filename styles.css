@@ -98,6 +98,16 @@ td, th {
     margin-bottom: 40px;
 }
 
+.credits {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.credits > li {
+    margin-right: 1em;
+}
+
 .item-list > li {
     display: block;
     padding: 20px;

@@ -1,0 +1,11 @@
+- name: Potion of Healing
+  formattedName: Potion of %@ Healing
+  subtypes:
+    - name: Greater
+      rarity: uncommon
+    - name: Superior
+      rarity: rare
+    - name: Supreme
+      rarity: veryRare
+  consumable: true
+

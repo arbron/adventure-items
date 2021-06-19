@@ -29,18 +29,16 @@ struct AdventureItemsSite: Website {
 
 
 // Load data
-var adventures = try Adventure.load()
-var series = try Series.load()
-Series.collate(&series, with: &adventures)
+let database = try Database()
 
 
 // This will generate your website using the built-in Foundation theme:
 try AdventureItemsSite().publish(using: [
     .addMarkdownFiles(),
     .copyResources(),
-    .addAdventures(adventures),
-    .addSeries(series),
-    .addSpreadsheet(adventures),
+    .addAdventures(database.adventures),
+    .addSeries(database.series),
+    .addSpreadsheet(database.adventures),
     .generateHTML(withTheme: .league, indentation: AdventureItemsSite.indentationMode),
     .generateRSSFeed(including: [.adventures]),
     .generateSiteMap()

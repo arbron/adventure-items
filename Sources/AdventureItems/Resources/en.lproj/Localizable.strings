@@ -8,8 +8,14 @@
 "footer.siteSource" = "Site source available on %@.";
 
 "Adventure" = "Adventure";
+"AdventurePlural" = "Adventures";
 "Epic" = "Epic";
+"EpicPlural" = "Epics";
 "Series" = "Series";
+
+"<Length Single>" = "A %@ Hour %@";
+"<Length Range>" = "A %@–%@ Hour %@";
+"<Length Multi>" = "%@ %@ Hour %@";
 
 "<Source>" = "%@";
 "<Source> <Type>" = "%@ %@";
@@ -29,6 +35,7 @@
 "adventurePage.unorderedSeriesMember" = "A part of %@ series.";
 "adventurePage.unorderedSeriesMemberWithArticle" = "A part of the %@ series.";
 
+"adventurePage.creditHeader" = "Credits";
 "adventurePage.itemHeader" = "Items";
 "adventurePage.spellbookHeader" = "Spellbooks";
 "adventurePage.story-awardHeader" = "Story Awards";

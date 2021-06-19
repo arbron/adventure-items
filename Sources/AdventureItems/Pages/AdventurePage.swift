@@ -35,7 +35,13 @@ struct AdventurePage: Component {
         if let series = seriesString {
             Markdowned(series)
         }
+        if let url = adventure.url {
+            Markdown("Available on [Dungeon Masters Guild](\(url)).")
+        }
 
+        if !adventure.credits.isEmpty {
+            CreditsSection(adventure.credits)
+        }
         if !adventure.items.isEmpty {
             ItemsSection(adventure.items)
         }
@@ -65,14 +71,29 @@ struct AdventurePage: Component {
 
         if adventure.source != .conventionCreatedContent {
             key += " <Type>"
-            args.append((!adventure.isEpic ? "Adventure" : "Epic").localized())
+            switch adventure.length {
+            case .multi:
+                args.append((!adventure.isEpic ? "AdventurePlural" : "EpicPlural").localized())
+            default:
+                args.append((!adventure.isEpic ? "Adventure" : "Epic").localized())
+            }
         }
         if let tiers = adventure.tier?.localizedString() {
             key += " for <Tier>"
             args.append(tiers)
         }
 
-        return key.localizedAndFormatted(args)
+        let formatted = key.localizedAndFormatted(args)
+        switch adventure.length {
+        case .flat(let length):
+            return "<Length Single>".localizedAndFormatted("\(length)", formatted)
+        case .range(let min, let max):
+            return "<Length Range>".localizedAndFormatted("\(min)", "\(max)", formatted)
+        case .multi(let count, let length):
+            return "<Length Multi>".localizedAndFormatted(Self.countFormatter.string(from: NSNumber(integerLiteral: count))!, "\(length)", formatted)
+        default:
+            return formatted
+        }
     }
 
     var releaseString: String? {
@@ -123,6 +144,33 @@ struct AdventurePage: Component {
         f.numberStyle = .spellOut
         f.formattingContext = .standalone
         return f
+    }
+
+    static var countFormatter: NumberFormatter {
+        let f = NumberFormatter()
+        f.numberStyle = .spellOut
+        f.formattingContext = .beginningOfSentence
+        return f
+    }
+}
+
+
+struct CreditsSection: Component {
+    let credits: [Credit]
+
+    init(_ credits: [Credit]) {
+        self.credits = credits
+    }
+
+    @ComponentBuilder
+    var body: Component {
+        H2("adventurePage.creditHeader".localized())
+        List(credits) { credit in
+            ListItem {
+                Text(credit.name)
+                Text(credit.role).italic().bold()
+            }
+        }.class("credits")
     }
 }
 

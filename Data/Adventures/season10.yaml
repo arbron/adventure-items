@@ -471,6 +471,41 @@
     - pdf
 
 
+- code: DDAL10-09
+  name: Recipe for Retribution
+  description: >-
+    The plan is in motion, and you must scour the width and breadth of Icewind
+    Dale for the components to create explosive devices that an extra-planar
+    stranger wants to use to bury the ancient, Abeiran city of Xorvintroth and
+    seal away the horrors that reside within. You up to it?
+  released: '2021-06-09'
+  tier: 2
+  length: 4
+  items:
+    - name: Portable Hole
+      rarity: rare
+    - name: Ruby of the War Mage
+      rarity: common
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      quantity: 1
+    - name: Potion of Hill Giant Strength
+      rarity: uncommon
+      consumable: true
+      quantity: 1
+  storyAwards:
+    - name: Chardalyn Poisoning
+      description: >-
+        Characters who keep any of the chardalyn find the substance’s affinity
+        for magic affecting them in inopportune ways. So long as the character
+        retains the chardalyn (no matter the amount), they have disadvantage on
+        saving throws against spells, and spell attacks against them have advantage.
+  missing:
+    - credits
+    - pdf
+
+
 - code: DDEP10-00
   name: Great Knucklehead Rally
   description: >-

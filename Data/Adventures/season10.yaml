@@ -481,6 +481,7 @@
   released: '2021-06-09'
   tier: 2
   length: 4
+  apl: 9
   items:
     - name: Portable Hole
       rarity: rare
@@ -501,6 +502,36 @@
         for magic affecting them in inopportune ways. So long as the character
         retains the chardalyn (no matter the amount), they have disadvantage on
         saving throws against spells, and spell attacks against them have advantage.
+  missing:
+    - credits
+    - pdf
+
+
+- code: DDAL10-10
+  name: Burying the Past
+  description: >-
+    The bombs are constructed, the plans laid. The only thing remaining is the easy
+    part; stealing into an ancient, alien city full of nightmarish creatures from
+    beyond the limits of sanity, setting the bombs, and escaping the city without
+    getting caught before they detonate. Simple!
+  released: '2021-08-13'
+  tier: [2, 3]
+  length: 4
+  items:
+    - name: Clockwork Amulet
+      rarity: common
+    - name: Staff of Defense
+      rarity: rare
+    - name: Staff of Striking
+      rarity: veryRare
+    - name: Spell Scroll of Contact Other Planes
+      rarity: rare
+      consumable: true
+      quantity: 1
+    - name: Spell Scroll of Legend Lore
+      rarity: rare
+      consumable: true
+      quantity: 1
   missing:
     - credits
     - pdf
@@ -573,6 +604,42 @@
       description: >-
         Alongside other skilled warriors, you successfully defended Easthaven,
         along with one of the other towns in the adventure.
+  missing:
+    - credits
+    - pdf
+
+
+- code: DDEP10-02
+  name: A Song of Spears
+  description: >-
+    Kaskur and those loyal to him, in an attempt to show Old Goat what actual leadership
+    looks like, entered Xorvintroth to rescue the missing clan members and bit off more
+    than they could chew. However, they found something other than their kin in the ruins
+    of the ancient Abeiran city—and unwittingly brought it back with them. Will their
+    foolish endeavors spell the end of the Thuunlakalaga clan?
+  released: '2021-08-13'
+  tier: [2, 3]
+  items:
+    - name: Spint Mail, +1
+      rarity: rare
+    - name: Spint Mail, +2
+      rarity: veryRare
+    - name: Wand of the War Mage, +2
+      rarity: rare
+    - name: Wand of the War Mage, +3
+      rarity: veryRare
+    - name: Oil of Etherealness
+      rarity: rare
+      consumable: true
+      quantity: 1
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      quantity: 1
+    - name: Potion of Speed
+      rarity: veryRare
+      consumable: true
+      quantity: 1
   missing:
     - credits
     - pdf

@@ -29,8 +29,17 @@
   tier: 1
   length: 2
   apl: 3
+  items:
+    - name: Lantern of Revealing
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      quantity: 1
+    - name: Spell Scroll of Web
+      rarity: uncommon
+      consumable: true
+      quantity: 1
   missing:
     - credits
-    - items
     - pdf
-

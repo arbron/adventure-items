@@ -40,14 +40,14 @@ struct Adventure: Codable, Hashable {
 
 extension Adventure {
     var source: Source { Source(code) }
-    var isEpic: Bool { code.hasPrefix("DDEP") || code.hasPrefix("DDAL-EBEP") || code.hasPrefix("DDAL-DRWEP") }
+    var isEpic: Bool { code.hasPrefix("DDEP") || code.hasPrefix("DDAL-EBEP") || code.hasPrefix("DDAL-DRWEP") || code.hasPrefix("RMH-EP") }
     var storyAwardName: String {
         let string = NSLocalizedString(storyAwardType.rawValue, bundle: Bundle.module, comment: "")
         return String.localizedStringWithFormat(string, 1)
     }
     var storyAwardType: StoryAwardType {
         switch source {
-        case .dreamsOfRedWizards, .oracleOfWar:
+        case .dreamsOfRedWizards, .oracleOfWar, .ravenloftMistHunters:
             if code != "DDAL-DRW-01" && code != "DDAL-DRW-02" && code != "DDAL-DRW-03" {
                 return .legacyEvent
             }
@@ -89,9 +89,13 @@ extension Adventure {
         case authorOnly
         case introAdventure
 
+        // Masters
         case dreamsOfRedWizards
+
+        // Alternative
         case embersOfTheLastWar
         case oracleOfWar
+        case ravenloftMistHunters
 
         case conventionCreatedContent
         case dungeonCraft
@@ -107,6 +111,8 @@ extension Adventure {
                 self = .embersOfTheLastWar
             } else if code.hasPrefix("DDAL-EB") {
                 self = .oracleOfWar
+            } else if code.hasPrefix("RMH") {
+                self = .ravenloftMistHunters
             } else if code.hasPrefixes("DDAL-CGB", "DDAL-OPEN", "DDALCA") {
                 self = .season(0)
             } else if let remainder = code.removePrefixes("DDAL", "DDEX", "DDEP") {
@@ -136,6 +142,7 @@ extension Adventure {
                 .dreamsOfRedWizards,
                 .embersOfTheLastWar,
                 .oracleOfWar,
+                .ravenloftMistHunters,
                 .conventionCreatedContent,
                 .dungeonCraft
             ])

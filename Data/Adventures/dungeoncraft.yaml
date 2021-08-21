@@ -605,6 +605,26 @@
     - pdf
 
 
+- code: DC-PoA-DOBU-01-01
+  name: Beneath the Stoney Stump
+  adventureSeed: I’d Like to Make a Return, Please
+  tier: 1
+  length: 4
+  apl: 3
+  items:
+    - name: Grey Bag of Tricks
+      rarity: uncommon
+    - name: Masquerade Tattoo
+      rarity: common
+    - name: Walloping Ammunition (Arrow)
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - credits
+    - pdf
+
+
 - code: DC-PoA-DR-01
   name: The Great Chwinga Roundup
   description: >-
@@ -2059,6 +2079,40 @@
       count: 1
   missing:
     - credits
+    - pdf
+
+
+- code: DC-PoA-SSM-01
+  name: Among the Conifers
+  description: >-
+    A fledgling adventuring company returns bloody and beaten to Lonelywood and
+    their implacable foe follows, bringing impending doom upon the town.
+  adventureSeed: Out of the Woods
+  released: '2021-07-17'
+  url: 'https://www.dmsguild.com/product/364494/DCPoASSM01-Among-the-Conifers'
+  tier: 2
+  length: 2-4
+  apl: 8
+  credits:
+    - name: Scott Moore
+      role: Lead Designer
+      key: true
+    - name: Cindy Moore
+      role: Editing
+    - name: Mike Schley
+      role: Cartography
+    - name: Scott Moore
+      role: Cartography
+  items:
+    - name: Efficient Quiver
+      rarity: uncommon
+    - name: Orb of Time
+      rarity: common
+    - name: Spell Scroll of Pass Without a Trace
+      rarity: uncommon
+      consumable: true
+      count: 1
+  missing:
     - pdf
 
 

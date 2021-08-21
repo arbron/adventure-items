@@ -1,0 +1,232 @@
+- code: RMH-01
+  name: The Final Curtain
+  description: >-
+    Over dinner, a friendly face asks you to venture to Emherst, a quirky village
+    in Kartakass, in search of a missing person. No sooner do you arrive, than
+    villagers start winding up dead.  Who is behind the murders?
+  released: '2021-08-10'
+  url: 'https://www.dmsguild.com/product/367198/RMH01-The-Final-Curtain'
+  tier: 1
+  length: 4
+  apl: 3
+  credits:
+    - name: Greg Marks
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: RMH-02
+  name: Back to the Front
+  description: >-
+    Your quarry has been located, meaning that returning them to Alanik Ray is
+    just a matter of getting to them. Unfortunately, a never-ending horde of
+    zombies stands between them and you—can you complete your mission? 
+  released: '2021-09-14'
+  tier: 1
+  length: 4
+  apl: 3
+  credits:
+    - name: Travis Woodall
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: RMH-03
+  name: TBA
+  released: '2021-10-12'
+  tier: 1
+  apl: 4
+  credits:
+    - name: Claire Hoffman
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: RMH-04
+  name: TBA
+  released: '2021-11-09'
+  tier: 1
+  apl: 4
+  credits:
+    - name: Alan Patrick
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: RMH-05
+  name: TBA
+  released: '2021-12-14'
+  tier: 2
+  apl: 5
+  credits:
+    - name: Casper Kirketerp-Helenius
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: RMH-06
+  name: TBA
+  released: '2022-01-11'
+  tier: 2
+  apl: 5
+  credits:
+    - name: Ayanna Jones
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: RMH-07
+  name: TBA
+  released: '2022-02-08'
+  tier: 2
+  apl: 6
+  credits:
+    - name: Jay Africa
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: RMH-08
+  name: TBA
+  released: '2022-03-08'
+  tier: 2
+  apl: 6
+  credits:
+    - name: Kat Kruger
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: RMH-09
+  name: TBA
+  released: '2022-04-12'
+  tier: 2
+  apl: 6
+  credits:
+    - name: The GM Tim
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: RMH-10
+  name: TBA
+  released: '2022-05-10'
+  tier: 2
+  apl: 7
+  credits:
+    - name: Marcello De Valezquez
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: RMH-11
+  name: TBA
+  released: '2022-06-14'
+  tier: 2
+  apl: 7
+  credits:
+    - name: Gabrielle Harbowy
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: RMH-12
+  name: TBA
+  released: '2022-07-12'
+  tier: 2
+  apl: 7
+  credits:
+    - name: Steffie de Vaan
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: RMH-EP-01
+  name: The Grand Masquerade
+  description: >-
+    You are approached by Alanik Ray, a master investigator working on behalf of
+    a secret society. Seeking agents to aid in the search for a missing scholar,
+    he asks that you attend the Grand Masquerade—a great ball in the city of
+    Port-à-Lucine. Hope you brought your dancing shoes!
+  released: '2021-08-10'
+  url: 'https://www.dmsguild.com/product/367294/RMHEP01-The-Grand-Masquerade'
+  tier: 1
+  length: 4
+  apl: 1
+  credits:
+    - name: Amy Lynn Dzura
+      role: Designer
+      key: true
+    - name: Ma’at Crook
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: RMH-EP-02
+  name: TBA
+  released: '2022-08-09'
+  tier: 2
+  apl: 8
+  credits:
+    - name: Jeremy Forbing
+      role: Designer
+      key: true
+    - name: Ginny Loveday
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf

@@ -3567,3 +3567,62 @@
   missing:
     - items
     - pdf
+
+
+- code: CCC-BMG MOON13-1
+  name: Lure of the Reefs
+  description: >-
+    Ships have disappeared amongst the Norheim Islands, almost all of them carrying
+    refugees from Norland. An expedition, sent to find the cause, has similarly
+    vanished without a trace. Most blame lack of experience with the treacherous
+    local waters, but a few whisper of a more sinister cause, something that lures
+    the desperate to their doom. Initiates of the Flame are looking for powerful
+    adventurers to help since the authorities have more pressing trouble.
+  released: '2021-08-19'
+  creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/368068/CCCBMGMOON131-Lure-of-the-Reefs'
+  tier: 3
+  length: 4
+  apl: 13
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-BMG MOON13-2
+  name: Monsters of the Deep
+  description: >-
+    Ships have been raided, their much-needed goods gone missing. Witnesses talk
+    about a green dragon and its scaled servants, but there are hardly any trees
+    on windswept Norheim, let alone a true forest. Regardless, the goods need to
+    be recovered, the monsters dealt with. Are you up to the task?
+  released: '2021-08-18'
+  creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/368070/CCCBMGMOON132-Monsters-of-the-Deep'
+  tier: 3
+  length: 4
+  apl: 13
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: CCC-BMG MOON13-3
+  name: Wolves of the Sea
+  description: >-
+    An expedition has gone missing. Rumors surface that reavers based in the pirate
+    city of Westhaven are selling slaves to unscrupulous merchants. Is the
+    expedition still alive? Can you uncover the slavers and rescue the expedition
+    before it’s too late?
+  released: '2021-08-18'
+  creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/368071/CCCBMGMOON133-Wolves-of-the-Sea'
+  tier: 3
+  length: 4
+  apl: 13
+  missing:
+    - credits
+    - items
+    - pdf

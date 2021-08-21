@@ -1,0 +1,69 @@
+# Embers of War
+
+# Oracle of War
+- slug: spoils-of-war
+  name: Spoils of War
+  adventures:
+    - code: DDAL-EB-01
+      position: 1
+    - code: DDAL-EB-02
+      position: 2
+    - code: DDAL-EB-03
+      position: 3
+    - code: DDAL-EB-04
+      position: 4
+
+
+- slug: fortunes-of-war
+  name: Fortunes of War
+  adventures:
+    - code: DDAL-EB-05
+      position: 1
+    - code: DDAL-EB-06
+      position: 2
+    - code: DDAL-EB-07
+      position: 3
+
+
+- slug: dogs-of-war
+  name: Dogs of War
+  adventures:
+    - code: DDAL-EB-08
+      position: 1
+    - code: DDAL-EB-09
+      position: 2
+    - code: DDAL-EB-10
+      position: 3
+
+
+- slug: drums-of-war
+  name: Drums of War
+  adventures:
+    - code: DDAL-EB-11
+      position: 1
+    - code: DDAL-EB-12
+      position: 2
+    - code: DDAL-EB-13
+      position: 3
+
+
+- slug: engines-of-war
+  name: Engines of War
+  adventures:
+    - code: DDAL-EB-14
+      position: 1
+    - code: DDAL-EB-15
+      position: 2
+    - code: DDAL-EB-16
+      position: 3
+
+
+- slug: flames-of-war
+  name: Flames of War
+  adventures:
+    - code: DDAL-EB-17
+      position: 1
+    - code: DDAL-EB-18
+      position: 2
+    - code: DDAL-EB-19
+      position: 3

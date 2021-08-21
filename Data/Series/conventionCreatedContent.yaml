@@ -391,6 +391,18 @@
       position: 2
 
 
+- slug: hunters-of-the-sea
+  name: Hunters of the Sea
+  type: trilogy
+  adventures:
+    - code: CCC-BMG MOON13-1
+      position: 1
+    - code: CCC-BMG MOON13-2
+      position: 2
+    - code: CCC-BMG MOON13-3
+      position: 3
+
+
 - slug: student-in-the-nine-hells
   name: I Got Accepted as a Student in the Nine Hells and Now I’m at the Top of the Class
   adventures:

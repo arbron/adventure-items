@@ -1299,13 +1299,124 @@
     to rebuild anew, but who’ll be his highest bidder?
   released: '2021-07-06'
   url: 'https://www.dmsguild.com/product/363337/EB17-The-Final-Tribute'
-  tier: 3
+  tier: 4
   length: 4
   apl: 17
-  missing:
-    - credits
-    - items
-    - pdf
+  credits:
+    - name: Richard Green
+      role: Designer
+      key: true
+    - name: Will Doyle
+      role: Campaign Story and Development
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Stacey Allan
+      role: Art Direction and Layout
+    - name: Zoltan Boros
+      role: Artist
+    - name: Paul Scott Canavan
+      role: Artist
+    - name: Olga Drebas
+      role: Artist
+    - name: Jaime Jones
+      role: Artist
+    - name: Lee Moyer
+      role: Artist
+    - name: Vance Kelly
+      role: Cover Illustrator
+    - name: Jaime Jones
+      role: Cover Illustrator
+  items:
+    - name: Bracers of Defense
+      rarity: rare
+    - name: Crystal Ball of Telepathy
+      rarity: legendary
+    - name: Greatsword, +2
+      rarity: rare
+    - name: Pipes of the Sewers
+      rarity: uncommon
+    - name: Ring of Mind Shielding
+      rarity: uncommon
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Green in Tooth and Claw
+      description: >-
+        The green draong Vyndescille escaped! Surely it won’t be long before he
+        returns to enact his terrible revenge?
+    - name: Prince’s Favor
+      description: >-
+        You exposed Vyndescille’s corruption and earned the gratitude of Prince
+        Oargev. The prince sends New Cyre’s soldiers to join the attack on the
+        Lord of Blades.
+
+
+- code: DDAL-EB-18
+  name: Scales of War
+  description: >-
+    The united forces of the Five Nations march into the Mournland to wage war
+    on the Lord of Blades. West of the Glass Plateau, they're met by an army the
+    likes of which hasn't been seen since the heights of the Last War. Let battle
+    commence!
+  released: '2021-08-24'
+  url: 'https://www.dmsguild.com/product/368629/EB18-Scales-of-War'
+  tier: 4
+  length: 4
+  apl: 18
+  credits:
+    - name: Alan Patrick
+      role: Designer
+      key: true
+    - name: Will Doyle
+      role: Campaign Story and Development
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Stacey Allan
+      role: Art Direction and Layout
+    - name: Mark Behm
+      role: Artist
+    - name: Olga Drebas
+      role: Artist
+    - name: Ralph Horsley
+      role: Artist
+    - name: Lee Moyer
+      role: Artist
+    - name: Wayne Reynolds
+      role: Artist
+    - name: Vance Kelly
+      role: Cover Illustrator
+    - name: Wyne Reynolds
+      role: Cover Illustrator
+  items:
+    - name: Nolzur’s Marvelous Pigments
+      rarity: veryRare
+    - name: Weapon, +3
+      rarity: veryRare
+    - name: Potion of Cloud Giant Strength
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Draconic Leverage
+      description: >-
+        You captured the gold dragon Goryphael. She has been bound in chains and
+        is guarded by alliance soldiers.
+    - name: Heroic Victory
+      description: >-
+        The Battle of Broken Tower showed the true might of the Five Nationas. The
+        Lord of Blades’ armies were driven back. Morale is high and supplies are
+        plentiful across the Field of Ruins.
+    - name: Pyrrhic Victory
+      description: >-
+        The Lord of Blades’ warforged armies claimed more victories than the Five
+        Nations did during the Battle of Broken Tower. The alliance won, but the
+        costs were steep, and morale and supplies are strained.
 
 
 - code: DDAL-EBEP-01

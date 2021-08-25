@@ -354,6 +354,11 @@ extension Publish.Item where Site == AdventureItemsSite {
 
         let description = adventure.incomplete ? "*(incomplete)*" : ListFormatter().string(from: magicItemNames) ?? ""
 
+        var releaseDate = adventure.released ?? Date.distantPast
+        if releaseDate > Date() {
+            releaseDate = Date.distantPast
+        }
+
         return Self(
             path: Path(adventure.slug),
             sectionID: ASite.SectionID.adventures,
@@ -367,7 +372,7 @@ extension Publish.Item where Site == AdventureItemsSite {
                 body: .init(indentation: AdventureItemsSite.indentationMode) {
                     AdventurePage(adventure: adventure)
                 },
-                date: adventure.released ?? Date.distantPast
+                date: releaseDate
             )
         )
     }

@@ -13,6 +13,7 @@ struct Adventure: Codable, Hashable {
     var code: String
     var name: String
     @DecodableDefault.EmptyString var description: String
+    @DecodableDefault.EmptyString var contentWarning: String
 
     var adventureSeed: String?
 

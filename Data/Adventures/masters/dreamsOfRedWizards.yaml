@@ -378,6 +378,146 @@
         all other oaths.
 
 
+- code: DDAL-DRW-09
+  name: Vile Bounty
+  description: >-
+    Ships have gone missing in the Sea of Swords and Queen Serissa wants to know why.
+  contentWarning: >-
+    Abduction, enslavement (forced labor, combat), imprisonment, natural disasters
+    (earthquake, eruption), violence (physical, spiritual), drowning (mention)
+  released: '2021-08-24'
+  url: 'https://www.dmsguild.com/product/368695/DDALDRW09-Vile-Bounty'
+  tier: 2
+  length: 4
+  apl: 8
+  credits:
+    - name: Greg Marks
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: DDAL-DRW-10
+  name: Unsafe Harborage
+  description: >-
+    Thayan agents plague Waterdeep’s Dock Ward and you’re tasked with discovering
+    who’s pulling their strings, but you aren’t the only ones interested in the Red
+    Wizards.
+  contentWarning: >-
+    Human trafficking, slavery, physical illness, cannibalism (mention), unjust
+    laws, imprisonment, violence (flogging, execution), abduction, suicide
+  released: '2021-08-24'
+  url: 'https://www.dmsguild.com/product/368698/DDALDRW10-Unsafe-Harborage'
+  tier: 2
+  length: 4
+  apl: 8
+  credits:
+    - name: Martine Lassen
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: DDAL-DRW-11
+  name: Shadows in the Stacks
+  description: >-
+    Hoping to put names to the location descriptions you uncovered in Waterdeep,
+    you head to Candlekeep. You are not alone. Some want what you have, others don’t
+    want you to discover any more.
+  contentWarning: >-
+    Illness (fictional, contagious, quarantine), madness, suicide (mention of thoughts)
+  released: '2021-09-14'
+  tier: 2
+  length: 4
+  credits:
+    - name: Oliver Darkshire
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: DDAL-DRW-12
+  name: To Walk the Cold Dark
+  description: >-
+    In search of the lair of the Tenebrous Creed, you search for the prison of an
+    ancient evil imprisoned in the Thunderpeaks.
+  contentWarning: >-
+    Death (murder by consuming flesh), “madness,” abduction, imprisonment, illness,
+    loss of self
+  released: '2021-09-14'
+  tier: 2
+  length: 4
+  credits:
+    - name: Jeremy Vosberg
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: DDAL-DRW-13
+  name: Night Thieves
+  tier: 2
+  credits:
+    - name: Laura Thompson
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: DDAL-DRW-14
+  name: The City That Should Not Be
+  tier: 3
+  credits:
+    - name: Jay Anderson
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: DDAL-DRW-15
+  name: Frozen Whispers
+  tier: 3
+  credits:
+    - name: Shawn Banerjee
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: DDAL-DRW-16
+  name: Uprising
+  tier: 3
+  credits:
+    - name: Jon Connor Self
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
 - code: DDAL-DRWEP-01
   name: Assault on Myth Nantar
   description: >-
@@ -437,5 +577,21 @@
     - name: Rich Lescouflair
       role: Art Director & Graphic Designer
   missing:
+    - items
+    - pdf
+
+
+- code: DDAL-DRWEP-03
+  name: When the Lights Went Out in Candlekeep
+  tier: [2, 3]
+  credits:
+    - name: Anthony Joyce
+      role: Designer
+      key: true
+    - name: Carl Sibley
+      role: Designer
+      key: true
+  missing:
+    - credits
     - items
     - pdf

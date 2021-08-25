@@ -1,0 +1,8 @@
+# Dreams of Red Wizards
+- slug: shadow-games
+  name: Shadow Games
+  adventures:
+    - code: DDAL-DRW-09
+      position: 1
+    - code: DDAL-DRW-10
+      position: 2

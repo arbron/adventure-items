@@ -94,8 +94,27 @@ td, th {
     padding: 0.1em 0.25em;
 }
 
+details {
+    margin-left: -1em;
+}
+details p:first-of-type {
+    border-top: 1px solid gray;
+    padding-top: 0.2em;
+}
+details p {
+    padding-left: 1em;
+}
+
 .description {
     margin-bottom: 40px;
+}
+
+.content-warning {
+    padding-bottom: 0.66em;
+    font-style: italic;
+}
+.content-warning summary {
+    font-weight: bold;
 }
 
 .credits {
@@ -154,16 +173,9 @@ td, th {
 .story-award summary {
     font-size: 1.1em;
 }
-.story-award p {
-    padding-left: 1em;
-}
 .story-award ul {
     padding-left: 2em;
     padding-bottom: 0.5em;
-}
-.story-award p:first-of-type {
-    border-top: 1px solid gray;
-    padding-top: 0.2em;
 }
 .story-award table {
     padding-left: 0.75em;

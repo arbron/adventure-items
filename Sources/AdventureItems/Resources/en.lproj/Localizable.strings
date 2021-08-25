@@ -35,6 +35,7 @@
 "adventurePage.unorderedSeriesMember" = "A part of %@ series.";
 "adventurePage.unorderedSeriesMemberWithArticle" = "A part of the %@ series.";
 
+"adventurePage.contentWarnings" = "Content Warning";
 "adventurePage.creditHeader" = "Credits";
 "adventurePage.itemHeader" = "Items";
 "adventurePage.spellbookHeader" = "Spellbooks";

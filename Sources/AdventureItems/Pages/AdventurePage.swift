@@ -32,6 +32,10 @@ struct AdventurePage: Component {
         if !adventure.description.isEmpty {
             Markdowned(adventure.description)
         }
+        if !adventure.contentWarning.isEmpty {
+            Disclosure(summary: Text("adventurePage.contentWarnings".localized()), details: Markdowned(adventure.contentWarning))
+                .class("content-warning")
+        }
         if let series = seriesString {
             Markdowned(series)
         }

@@ -3352,6 +3352,8 @@
     have asked you to infiltrate the enemy’s stronghold and learn all you can.
     Will you dare the shadowed streets of the capital of the Moonshaes to gain
     entry to the Court of the Slain?
+  contentWarning: >-
+    Abuse, grief, mental illness, and mind control
   released: '2021-05-13'
   creator: Baldman Games
   url: 'https://www.dmsguild.com/product/357635/CCCBMG-MOON-111-A-Darkened-City'
@@ -3392,6 +3394,8 @@
     danger. Yet you must walk these darkened halls and speak in whispers to
     uncover the malevolent plots of the Slain. Careful, now. One wrong step or a
     misplaced word could mean exposure and oblivion.
+  contentWarning: >-
+    Classism, graphic violence, grief, mental illness, and mind control
   released: '2021-05-13'
   creator: Baldman Games
   url: 'https://www.dmsguild.com/product/357636/CCCBMG-MOON-112-A-Darkened-Court'
@@ -3434,6 +3438,8 @@
     Callidyrr. There, you have a chance to pierce the shadows and secrets that
     surround and protect the Slain. Can you reveal the mystery of the greatest
     threat to the Moonshaes and will you survive to tell anyone else?
+  contentWarning: >-
+    Abandonment, abuse, grief, mental illness, and mind control
   released: '2021-05-13'
   creator: Baldman Games
   url: 'https://www.dmsguild.com/product/357637/CCCBMG-MOON-113-A-Darkened-Heart'
@@ -3494,10 +3500,11 @@
     With the fate of the Moonshaes held in the balance, the adventurer’s path
     lies  in the lost tomb of an ancient Queen. What answers could she possibly
     offer to loosen the Slain’s deadly hold on this world.
+  contentWarning: >-
+    Body horror
   released: '2021-05-20'
   creator: Baldman Games
-  url: >-
-    https://www.dmsguild.com/product/358290/CCCBMG-MOON-122-A-Gift-from-the-Queen
+  url: 'https://www.dmsguild.com/product/358290/CCCBMG-MOON-122-A-Gift-from-the-Queen'
   tier: 3
   length: 2-4
   apl: 13
@@ -3578,6 +3585,8 @@
     local waters, but a few whisper of a more sinister cause, something that lures
     the desperate to their doom. Initiates of the Flame are looking for powerful
     adventurers to help since the authorities have more pressing trouble.
+  contentWarning: >-
+    Grief and mind control
   released: '2021-08-19'
   creator: Baldman Games
   url: 'https://www.dmsguild.com/product/368068/CCCBMGMOON131-Lure-of-the-Reefs'
@@ -3597,6 +3606,8 @@
     about a green dragon and its scaled servants, but there are hardly any trees
     on windswept Norheim, let alone a true forest. Regardless, the goods need to
     be recovered, the monsters dealt with. Are you up to the task?
+  contentWarning: >-
+    Grief and mind control
   released: '2021-08-18'
   creator: Baldman Games
   url: 'https://www.dmsguild.com/product/368070/CCCBMGMOON132-Monsters-of-the-Deep'
@@ -3616,6 +3627,8 @@
     city of Westhaven are selling slaves to unscrupulous merchants. Is the
     expedition still alive? Can you uncover the slavers and rescue the expedition
     before it’s too late?
+  contentWarning: >-
+    Sacrifice and slavery
   released: '2021-08-18'
   creator: Baldman Games
   url: 'https://www.dmsguild.com/product/368071/CCCBMGMOON133-Wolves-of-the-Sea'

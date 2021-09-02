@@ -121,9 +121,15 @@
   tier: 2
   length: 2-4
   apl: 8
+  items:
+    - name: Staff of Healing
+      rarity: rare
+    - name: Spell Scroll of Dimension Door
+      rarity: uncommon
+      consumable: true
+      count: 1
   missing:
     - credits
-    - items
     - pdf
 
 
@@ -138,9 +144,11 @@
   tier: 2
   length: 2-4
   apl: 8
+  items:
+    - name: Sun Blade
+      rarity: rare
   missing:
     - credits
-    - items
     - pdf
 
 

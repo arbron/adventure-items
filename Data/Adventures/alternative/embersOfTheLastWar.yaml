@@ -1,0 +1,640 @@
+- code: DDAL-ELW00
+  name: What’s Past is Prologue
+  description: >-
+    Sharn, City of Towers. They reach into the sky like the stone fingers of
+    civilization that they are. They hold secrets and promises, and break the
+    same just as quickly as they make new ones. You’ve got an opportunity to
+    make a little coin by assisting with an expedition for Morgrave University;
+    this should be easy money and not a lot of trouble…right?
+  released: '2018-09-21'
+  url: 'https://www.dmsguild.com/product/248589/DDALELW00-Whats-Past-is-Prologue'
+  tier: 1
+  length: 2-4
+  credits:
+    - name: Alan Patrick
+      role: Designer
+      key: true
+    - name: James Introcaso
+      role: Editing
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+  items:
+    - name: Spellshard
+      rarity: common
+
+
+- code: DDAL-ELW01
+  name: Murder in Skyway
+  description: >-
+    On a dark and stormy night, the characters discover a dead body in Sharn’s
+    wealthiest district…just as the Sharn Watch arrives! To clear their names,
+    the characters must hunt the real killer through the mean streets of the
+    City of Towers.
+  released: '2018-09-21'
+  url: 'https://www.dmsguild.com/product/252925/DDALELW01-Murder-in-Skyway'
+  tier: 1
+  length: 2-4
+  apl: 1
+  credits:
+    - name: Greg Marks
+      role: Designer
+      key: true
+    - name: James Introcaso
+      role: Editing
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+    - name: Dyson Logos
+      role: Cartography
+  items:
+    - name: Insignia of Claws
+      rarity: uncommon
+  storyAwards:
+    - name: Enmity of the Callestan Boromar
+      description: >-
+        You are known as an enemy to the members of Clan Boromar in the Callestan
+        District.
+
+
+- code: DDAL-ELW02
+  name: Boromar Ball
+  description: >-
+    The trail of a stolen letter leads the characters to an extravagant party
+    thrown by Sharn’s most powerful criminal family. At this ball, the wrong
+    dance step means death!
+  released: '2018-10-01'
+  url: 'https://www.dmsguild.com/product/253783/DDALELW02-Boromar-Ball'
+  tier: 1
+  length: 2-4
+  apl: 2
+  credits:
+    - name: Bill Benham
+      role: Designer
+      key: true
+    - name: James Introcaso
+      role: Editing
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+    - name: Dyson Logos
+      role: Cartography
+  items:
+    - name: Circlet of Blasting
+      rarity: uncommon
+  storyAwards:
+    - name: Anger of the Boromar Clan
+      description: >-
+        The Boromar Clan knows you stole something very valuable of theirs and
+        they are not pleased. This may have an impact on future adventures.
+
+
+- code: DDAL-ELW03
+  name: The Cannith Code
+  description: >-
+    Conspiracy never sleeps in the City of Towers. You’ve come into possession of
+    an encrypted letter that could bring down one of the most powerful crime
+    families in Sharn…and lucky for you, a gnome spy has offered to decode it, if
+    you can smuggle her out of her undercover assignment.
+  released: '2018-10-12'
+  url: 'https://www.dmsguild.com/product/254691/DDALELW03-The-Cannith-Code'
+  tier: 1
+  length: 2-4
+  apl: 3
+  credits:
+    - name: James J. Haeck
+      role: Designer
+      key: true
+    - name: James Introcaso
+      role: Editing
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+    - name: Dyson Logos
+      role: Cartography
+  items:
+    - name: Instrument of the Bards (Mac-Fuirmidh Cittern)
+      rarity: uncommon
+  storyAwards:
+    - name: Phony Chief Artificer
+      description: |-
+        You now possess the personal records of an artificer employed by House
+        Cannith. You can use the personal information you acquired in the Cannith
+        Compound’s library to pretend to be human artificer, Garavantus d’Cannith.
+        This includes pre-signed stationary, sealing wax, and a sealing stamp. You
+        also possess an identification card, but unless you can make yourself look
+        like a middle-aged male human, it won’t get you very far.
+
+        This false identity gets you access to House Cannith South social events
+        and low-ranking research labs, but there are caveats. Garavantus didn’t have
+        clearance to access any top-secret Cannith South research projects. Also,
+        Garavantus was allied with Cannith South, not Cannith East or West, and is
+        only permitted into Cannith South events or locations.
+
+
+- code: DDAL-ELW04
+  name: Jack of Daggers
+  description: >-
+    Caught between House Phiarlan and a criminal syndicate, the characters delve
+    into the city’s underworld to discover who’s hiring killers for their dirty
+    work. Things get out of control fast–and what could be faster than a
+    high-speed lightning rail?
+  released: '2018-10-18'
+  url: 'https://www.dmsguild.com/product/256437/DDALELW04-Jack-of-Daggers'
+  tier: 1
+  length: 2-4
+  apl: 4
+  credits:
+    - name: Ginny Loveday
+      role: Designer
+      key: true
+    - name: James Introcaso
+      role: Editing
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+    - name: Ginny Loveday
+      role: Cartography
+    - name: Travis Woodall
+      role: Cartography
+  items:
+    - name: Wand of Magic Detection
+      rarity: uncommon
+
+
+- code: DDAL-ELW05
+  name: Against the Lightning
+  description: >-
+    An assassin’s trail lures the characters into a lethal deathtrap. But who
+    wants them dead…and why? In the City of Towers, the person holding all the
+    answers is usually the one holding the dagger to your back.
+  released: '2018-10-26'
+  url: 'https://www.dmsguild.com/product/257230/DDALELW05-Against-the-Lightning'
+  tier: 2
+  length: 2-4
+  apl: 5
+  credits:
+    - name: Will Doyle
+      role: Designer
+      key: true
+    - name: James Introcaso
+      role: Editing
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+    - name: Will Doyle
+      role: Cartography
+  items:
+    - name: Gem of Seeing
+      rarity: rare
+  storyAward:
+    - name: Parenthood
+      description: >-
+        You saved a baby from mortal peril on the Menthis Steps but were unable
+        to identify their parents. For the short term, you’ve chosen to take the
+        child into your care. Give the child a name and tell your DM where the
+        child resides. This award may become important in later adventures!
+
+
+- code: DDAL-ELW06
+  name: A Holy Visit
+  description: >-
+    When the Church of the Silver Flame visits Sharn’s finest inn, it’s a chance
+    for the characters to infiltrate and ask hard questions. But they’re not the
+    only ones looking for answers.
+  released: '2018-11-02'
+  url: 'https://www.dmsguild.com/product/257741/DDALELW06-A-Holy-Visit'
+  tier: 2
+  length: 3-4
+  apl: 6
+  credits:
+    - name: Ashley Warren
+      role: Designer
+      key: true
+    - name: James Introcaso
+      role: Editing
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+  items:
+    - name: Cleansing Stone
+      rarity: common
+  storyAward:
+    - name: Respect and Protection from House Medani
+      description: >-
+        If you relay the information you’ve discovered to Antonia d’Medani, you
+        earn the respect and protection of House Medani, which may come into play
+        later in the *Embers of the Last War* storyline.
+    - name: Respect and Protection from House Ghallanda
+      description: >-
+        If the characters helped Eranna d’Ghallanda improve the Anvil, they earn
+        the help of House Ghallanda. They are offered a 50 percent discount on rooms
+        and a safe place to hide, should they ever need it.
+
+
+- code: DDAL-ELW07
+  name: Blades of Terror
+  description: >-
+    What secret cargo is House Cannith hiding in an airship bound for Wroat? A
+    simple heist at 30,000 feet turns deadly when a new threat rises out of the
+    Mournland!
+  released: '2018-11-16'
+  url: 'https://www.dmsguild.com/product/258975/DDALELW07-Blades-of-Terror'
+  tier: 2
+  length: 3-4
+  apl: 7
+  credits:
+    - name: Lysa Chen
+      role: Designer
+      key: true
+    - name: James Introcaso
+      role: Editing
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+    - name: Kayla Cline
+      role: Cartography
+  items:
+    - name: Ring of X-ray Vision
+      rarity: rare
+
+
+- code: DDAL-ELW08
+  name: The Kundarak Job
+  description: >-
+    One of Sharn’s most influential figures is hiding something… inside a House
+    Kundarak vault. To acquire the answers they need, the characters must break
+    into one of Sharn’s most secure locations AND get out alive.
+  released: '2018-11-16'
+  url: 'https://www.dmsguild.com/product/258976/DDALELW08-The-Kundarak-Job'
+  tier: 2
+  length: 3-4
+  apl: 8
+  credits:
+    - name: Shawn Merwin
+      role: Designer
+      key: true
+    - name: James Introcaso
+      role: Editing
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+    - name: Travis Woodall
+      role: Cartography
+  items:
+    - name: Shortsword of Vengeance
+      rarity: uncommon
+  storyAward:
+    - name: Burnt Documents
+      description: >-
+        Although the plans were burnt by a trap, you were able to recover
+        scraps of notes talking about a potential building site beneath Sharn.
+    - name: Workshop Blueprints
+      description: >-
+        You found the blueprints for a laboratory. These blueprints might help
+        you discern what Merrix d’Cannith is plotting, and where he plans to
+        build this workshop.
+
+
+- code: DDAL-ELW09
+  name: Searching for Secrets
+  description: >-
+    Sharn’s undercity, the Cogs, hides a devastating secret that could reignite
+    the Last War. As agents of the Lord of Blades tighten the noose around the
+    characters’ necks, the characters search for the entrance to a hidden forge.
+  released: '2018-11-30'
+  url: 'https://www.dmsguild.com/product/260064/DDALELW09-Searching-for-Secrets'
+  tier: 2
+  length: 3-4
+  apl: 9
+  credits:
+    - name: Travis Woodall
+      role: Designer
+      key: true
+    - name: James Introcaso
+      role: Editing
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+    - name: Travis Woodall
+      role: Cartography
+  items:
+    - name: Cloak of the Bat
+      rarity: rare
+
+
+- code: DDAL-ELW10
+  name: The Killing Blade
+  description: >-
+    As the embers of the Last War ignite across the City of Towers, House
+    Deneith enlists the characters to uncover a terrorist base of operations and
+    storm the compound before it’s too late.
+  released: '2018-12-07'
+  url: 'https://www.dmsguild.com/product/260858/DDALELW10-The-Killing-Blade'
+  tier: 2
+  length: 3-4
+  apl: 10
+  credits:
+    - name: Robert Adducci
+      role: Designer
+      key: true
+    - name: James Introcaso
+      role: Editing
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+    - name: Travis Woodall
+      role: Cartography
+  items:
+    - name: Sword of Wounding
+      rarity: rare
+  storyAward:
+    - name: A Councilor’s Anger
+      description: >-
+        You’ve shown yourself to have differing views from Sharn Councilor Nolan
+        Toranak of the Cogs. In future he’ll make your dealings with the council
+        as unpleasant as he can. This award grants disadvantage when dealing with
+        the Sharn Council.
+    - name: House Deneith Letter of Commendation
+      description: >-
+        By aiding the Sentinel Marshals you’ve proven your mettle and been awarded
+        a signed letter of commendation by House Deneith. This letter grants you
+        advantage when dealing with House Deneith.
+    - name: Warforged Friends in the Cogs
+      description: >-
+        By helping the warforged in the Cogs you’ve proven yourself friends to them
+        and your story will spread. You’ll be seen favorable not only by warforged,
+        but by most inhabitants of the Cogs. When dealing with folks from the Cogs
+        (except those who hate warforged), you’ll have advantage on social checks.
+
+
+- code: DDAL-ELW11
+  name: Secrets Below
+  description: >-
+    In a secret lab beneath the city, the characters face mechanical horrors and
+    an even more dangerous truth. To survive, they must make a choice that
+    impacts all of Khorvaire!
+  released: '2018-12-14'
+  url: 'https://www.dmsguild.com/product/261301/DDALELW11-Secrets-Below'
+  tier: 2
+  length: 3-4
+  apl: 10
+  credits:
+    - name: M.T. Black
+      role: Designer
+      key: true
+    - name: James Introcaso
+      role: Editing
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Layout and Graphic Design
+    - name: Dyson Logos
+      role: Cartography
+  items:
+    - name: Wand of Fireballs
+      rarity: rare
+
+
+- code: DDAL-WGE-01a
+  name: The Callestan Clash
+  description: >-
+    Life in Callestan is not all fun and games—except for those who make their
+    own fun with their own games. Mischievous, hardy street dwellers known as
+    the Callestan Clash live and lurk in the shadows of the district’s looming
+    towers, reaching their fingers into the satchels of unsuspecting tourists or
+    balling them into fists, readying a swing. While members of the Clash are
+    scrappy and abrasive, they enjoy opportunities to compete against
+    strangers—and earn some much-needed coin in the process.
+  released: '2018-07-23'
+  url: 'https://www.dmsguild.com/product/247986/Encounters-in-Sharn'
+  tier: 1
+  apl: 4
+  credits:
+    - name: Ashley Warren
+      role: Designer
+      key: true
+
+
+- code: DDAL-WGE-01b
+  name: 'Congratulations, You’re a Winner!'
+  description: >-
+    One of the characters wins a skycoach, but before they can take possession,
+    it is stolen leading to a high-speed chase through the skies of Sharn!
+  released: '2018-07-23'
+  url: 'https://www.dmsguild.com/product/247986/Encounters-in-Sharn'
+  tier: 2
+  apl: 8
+  credits:
+    - name: Greg Marks
+      role: Designer
+      key: true
+
+
+- code: DDAL-WGE-01c
+  name: The Double-Cross
+  description: >-
+    Having just robbed a Boromar Clan gambling den, Balloch is a changeling on
+    the run. Now they need the right suckers to protect them.
+  released: '2018-07-23'
+  url: 'https://www.dmsguild.com/product/247986/Encounters-in-Sharn'
+  tier: 1
+  apl: 3
+  credits:
+    - name: Greg Marks
+      role: Designer
+      key: true
+  items:
+    - name: Gem of Seeing
+      rarity: rare
+
+
+- code: DDAL-WGE-01d
+  name: Double Immiscibility
+  description: >-
+    Councilor Potellas has arranged for her cheating husband to have an
+    “accident” while touring a potion laboratory in the city’s depths. When her
+    plans fall into the group’s hands, it’s down to the characters to make a
+    rescue.
+  released: '2018-07-23'
+  url: 'https://www.dmsguild.com/product/247986/Encounters-in-Sharn'
+  tier: 1
+  apl: 3
+  credits:
+    - name: Will Doyle
+      role: Designer
+      key: true
+
+
+- code: DDAL-WGE-01e
+  name: 'The Fallen Mad: Excursion'
+  description: >-
+    The characters travel to the area of Sharn known as Fallen to recover the
+    body of Faela of the Silver Flame, a priestess who served the needy of that
+    area selflessly for years.
+  released: '2018-07-23'
+  url: 'https://www.dmsguild.com/product/247986/Encounters-in-Sharn'
+  tier: 2
+  apl: 5
+  credits:
+    - name: Shawn Merwin
+      role: Designer
+      key: true
+
+
+- code: DDAL-WGE-01f
+  name: 'The Fallen Mad: Excavation'
+  description: >-
+    The characters travel through a trapped and haunted passageway leading to
+    Faela’s resting place.
+  released: '2018-07-23'
+  url: 'https://www.dmsguild.com/product/247986/Encounters-in-Sharn'
+  tier: 2
+  apl: 5
+  credits:
+    - name: Shawn Merwin
+      role: Designer
+      key: true
+
+
+- code: DDAL-WGE-01g
+  name: 'The Fallen Mad: Excommunication'
+  description: >-
+    The characters travel to the area of Sharn known as Fallen to recover the
+    body of Faela of the Silver Flame, a priestess who served the needy of that
+    area selflessly for years.
+  released: '2018-07-23'
+  url: 'https://www.dmsguild.com/product/247986/Encounters-in-Sharn'
+  tier: 2
+  apl: 5
+  credits:
+    - name: Shawn Merwin
+      role: Designer
+      key: true
+  items:
+    - name: Boots of Striding and Springing
+      rarity: uncommon
+    - name: Mace of Disruption
+      rarity: rare
+    - name: Elixir of Health
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+
+
+- code: DDAL-WGE-01h
+  name: Get the Message
+  description: >-
+    The characters stumble into a raid of a House Sivis message station
+    committed by agents of the Lord of Blades that leads to an assassination
+    attempt on a lightning rail.
+  released: '2018-07-23'
+  url: 'https://www.dmsguild.com/product/247986/Encounters-in-Sharn'
+  tier: 1
+  apl: 3
+  credits:
+    - name: James Introcaso
+      role: Designer
+      key: true
+
+
+- code: DDAL-WGE-01i
+  name: Possession is Nine-Tenths
+  description: >-
+    Goblins are found across Eberron, and while many are relegated to
+    lower-class residences and employment, a few may find the strength (or
+    allies) to ascend to a higher calling. In this series of encounters, the
+    characters meet Stab, a resourceful goblin, and his faithful mount Rations.
+    They may earn his loyalty and assist him on his “missions”, but
+    unfortunately, Stab’s resourcefulness comes at a price.
+  released: '2018-07-23'
+  url: 'https://www.dmsguild.com/product/247986/Encounters-in-Sharn'
+  tier: [1, 2]
+  apl: [3, 5, 9]
+  credits:
+    - name: Alan Patrick
+      role: Designer
+      key: true
+  items:
+    - name: Periapt of Proof against Poison
+      rarity: rare
+    - name: Ring of Evasion
+      rarity: rare
+    - name: Ring of Free Action
+      rarity: rare
+
+
+- code: DDAL-WGE-01j
+  name: King of the Heap
+  description: >-
+    In a junkyard in the bowels of the city, a broken war machine exploits an
+    orphan gang to gather the components it needs to rebuild itself. If it
+    succeeds, nobody in the city is safe.
+  released: '2018-07-23'
+  url: 'https://www.dmsguild.com/product/247986/Encounters-in-Sharn'
+  tier: 1
+  apl: 3
+  credits:
+    - name: Will Doyle
+      role: Designer
+      key: true
+
+
+- code: DDAL-WGE-01k
+  name: Reflections of the Delirium Stone
+  description: |-
+    During the War of the Mark, an aberrant lord known as the Dreambreaker
+    created a powerful dragonshard focus known as the *Delirium Stone* designed
+    to channel his powers over others’ minds. Two years ago, his ancestor Achion
+    Hayttear charged The Diggers’ Union to recover it, which they did. Before
+    handing over the stone, the union discovered and thwarted Achion’s plot to
+    use his aberrant mark and the *Delirium Stone* to take control of the Sharn
+    Sixty. At the direction of Morgrave University, the Diggers shattered the
+    focus and sealed the fragments away in a vault in Wroat.
+
+    Since then Achion’s nephew Tragrim has schemed for a way reclaim his birthright
+    and his chance has come. Morgrave University recalled the fragments for study
+    and the pieces are back on the University grounds in Sharn.
+  released: '2018-07-23'
+  url: 'https://www.dmsguild.com/product/247986/Encounters-in-Sharn'
+  tier: 2
+  apl: 8
+  credits:
+    - name: Greg Marks
+      role: Designer
+      key: true
+  items:
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+
+
+- code: DDAL-WGE-01l
+  name: Special Delivery
+  description: >-
+    The characters stumble into a murder scene and get caught up in pursuing a
+    mysterious package.
+  released: '2018-07-23'
+  url: 'https://www.dmsguild.com/product/247986/Encounters-in-Sharn'
+  tier: 1
+  apl: 
+  credits:
+    - name: Travis Woodall
+      role: Designer
+      key: true
+  items:
+    - name: Cloak of Protection
+      rarity: uncommon
+

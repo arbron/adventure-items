@@ -14,11 +14,34 @@
   length: 4
   apl: 3
   credits:
+    - name: Travis Woodall
+      role: Lead Designer
     - name: Greg Marks
       role: Designer
       key: true
+    - name: Ma’at Crook
+      role: Sensitivity Lead
+    - name: Scott Fitzgerald Gray
+      role: Editing
+    - name: Stacey Allan
+      role: Art Direction and Graphic Design
+    - name: Mark Behm
+      role: Artist
+    - name: Eric Belisle
+      role: Artist
+    - name: CoupleOfKooks
+      role: Artist
+    - name: Olga Drebas
+      role: Artist
+    - name: Ned Rogers
+      role: Artist
+    - name: CoupleOfKooks
+      role: Cover Illustrator
+    - name: Scott M. Fischer
+      role: Cover Illustrator
+    - name: Mark Behm
+      role: Cover Illustrator
   missing:
-    - credits
     - items
     - pdf
 

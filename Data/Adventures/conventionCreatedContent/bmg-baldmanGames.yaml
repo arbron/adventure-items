@@ -3639,3 +3639,118 @@
     - credits
     - items
     - pdf
+
+
+- code: CCC-BMG MOON14-1
+  name: Hearts Amiss
+  description: >-
+    The city of Karador is the crowning jewel of Sarifal, but Lady Siofra worries that
+    it has been trapped in its cycle of winter for too long. She seeks those not of
+    the court to investigate the fey city and find out what is keeping it from blooming
+    into spring.
+  contentWarning: >-
+    Grief and mind control
+  released: '2021-09-03'
+  creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/369762/CCCBMGMOON141-Hearts-Amiss'
+  tier: 2
+  length: 4
+  apl: 8
+  credits:
+    - name: Ayanna Jones-Lightsy
+      role: Lead Designer
+      key: true
+    - name: Toni Winslow-Brill
+      role: Lead Editor
+    - name: Andrew Hewitt
+      role: Editor
+    - name: Eric Menge
+      role: Moonshae Story Architect
+    - name: Sydney Cook
+      role: Cartography
+    - name: Mike Schley
+      role: Cartography
+    - name: Veronica Federova
+      role: Illustration
+    - name: Aviv Or
+      role: Illustration
+    - name: John Wigger
+      role: Illustration
+  missing:
+    - items
+    - pdf
+
+
+- code: CCC-BMG MOON14-2
+  name: The Lost Seasons
+  description: >-
+    Karador, the capital of the eladrin realm of Sarifal, remains trapped in winter.
+    Whispers abound that Lady Ordalf is the cause, though no one knows why. Tarilyn
+    Kendrick searches for answers as well as those brave enough to find them.
+  contentWarning: >-
+    Grief, mind control, and torture
+  released: '2021-09-03'
+  creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/369765/CCCBMGMOON142-The-Lost-Seasons'
+  tier: 2
+  length: 4
+  apl: 8
+  credits:
+    - name: Zac Goins
+      role: Lead Designer
+      key: true
+    - name: Toni Winslow-Brill
+      role: Lead Editor
+    - name: Andrew Hewitt
+      role: Editor
+    - name: Eric Menge
+      role: Moonshae Story Architect
+    - name: Sydney Cook
+      role: Cartography
+    - name: Mike Schley
+      role: Cartography
+    - name: Veronica Federova
+      role: Illustration
+    - name: Aviv Or
+      role: Illustration
+  missing:
+    - items
+    - pdf
+
+
+- code: CCC-BMG MOON14-3
+  name: The Ghosts of Grief
+  description: >-
+    The court of High Lady Ordalf remains mired in Winter. Snow falls as heavily as
+    her people's hearts and they have begun to forget the joys of the other seasons.
+    Is the cold fate of the fey court sealed?
+  contentWarning: >-
+    Grief and mind control
+  released: '2021-09-03'
+  creator: Baldman Games
+  url: 'https://www.dmsguild.com/product/369766/CCCBMGMOON143-The-Ghosts-of-Grief'
+  tier: 2
+  length: 4
+  apl: 8
+  credits:
+    - name: Joe Cirillo
+      role: Lead Designer
+      key: true
+    - name: Toni Winslow-Brill
+      role: Lead Editor
+    - name: Andrew Hewitt
+      role: Editor
+    - name: Eric Menge
+      role: Moonshae Story Architect
+    - name: Mike Schley
+      role: Cartography
+    - name: Dyson Logos
+      role: Cartography
+    - name: Veronica Federova
+      role: Illustration
+    - name: Aviv Or
+      role: Illustration
+  missing:
+    - items
+    - pdf
+

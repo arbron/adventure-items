@@ -439,13 +439,32 @@
   tier: 2
   length: 4
   apl: 8
+  credits:
+    - name: Travis Woodall
+      role: Lead Designer
+    - name: Oliver Darkshire
+      role: Designer
+      key: true
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Jedd Chevrier
+      role: Interior Art
+    - name: David René Christensen
+      role: Interior Art
+    - name: Jason A. Engle
+      role: Interior Art
+    - name: Scott Murphy
+      role: Interior Art
+    - name: Craig J. Spearing
+      role: Interior Art
   items:
     - name: Dark Shard Amulet
       rarity: common
     - name: Mace of Smiting
       rarity: rare
   missing:
-    - credits
     - pdf
 
 
@@ -463,11 +482,30 @@
   tier: 2
   length: 4
   apl: 9
+  credits:
+    - name: Travis Woodall
+      role: Lead Designer
+    - name: Stacey Allan
+      role: Designer
+      key: true
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Jedd Chevrier
+      role: Interior Art
+    - name: David René Christensen
+      role: Interior Art
+    - name: Titus Lunter
+      role: Interior Art
+    - name: Brian Valeza
+      role: Interior Art
+    - name: Shawn Wood
+      role: Interior Art
   items:
     - name: Boots of Levitation
       rarity: rare
   missing:
-    - credits
     - pdf
 
 
@@ -479,9 +517,34 @@
     stranger wants to use to bury the ancient, Abeiran city of Xorvintroth and
     seal away the horrors that reside within. You up to it?
   released: '2021-06-09'
+  url: 'https://www.dmsguild.com/product/367185/DDAL1009-Recipe-for-Retribution'
   tier: 2
   length: 4
   apl: 9
+  credits:
+    - name: Travis Woodall
+      role: Lead Designer
+    - name: Sonja Dunbar
+      role: Designer
+      key: true
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Jedd Chevrier
+      role: Interior Art
+    - name: Mark Behm
+      role: Interior Art
+    - name: Titus Lunter
+      role: Interior Art
+    - name: Craig J. Spearing
+      role: Interior Art
+    - name: Brian Valeza
+      role: Interior Art
+    - name: Stacey Allen
+      role: Cartography
+    - name: Will Doyle
+      role: Cartography
   items:
     - name: Portable Hole
       rarity: rare
@@ -503,7 +566,6 @@
         retains the chardalyn (no matter the amount), they have disadvantage on
         saving throws against spells, and spell attacks against them have advantage.
   missing:
-    - credits
     - pdf
 
 
@@ -515,8 +577,29 @@
     beyond the limits of sanity, setting the bombs, and escaping the city without
     getting caught before they detonate. Simple!
   released: '2021-08-13'
+  url: 'https://www.dmsguild.com/product/370743/DDAL1010-Burying-the-Past'
   tier: [2, 3]
   length: 4
+  credits:
+    - name: Travis Woodall
+      role: Lead Designer
+    - name: Scott Thompson
+      role: Designer
+      key: true
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Jedd Chevrier
+      role: Interior Art
+    - name: Titus Lunter
+      role: Interior Art
+    - name: Craig J. Spearing
+      role: Interior Art
+    - name: Brian Valeza
+      role: Interior Art
+    - name: Dyson Logos
+      role: Cartography
   items:
     - name: Clockwork Amulet
       rarity: common
@@ -533,7 +616,6 @@
       consumable: true
       quantity: 1
   missing:
-    - credits
     - pdf
 
 
@@ -586,6 +668,33 @@
   released: '2021-03-05'
   url: 'https://www.dmsguild.com/product/349163/DDEP1001-Terror-in-the-Ten-Towns'
   tier: 1
+  length: 4
+  apl: 3
+  credits:
+    - name: Travis Woodall
+      role: Lead Designer
+    - name: Ginny Loveday
+      role: Designer
+      key: true
+    - name: Jonathan Connor Self
+      role: Designer
+      key: true
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Mark Behm
+      role: Interior Art
+    - name: Axel Defois
+      role: Interior Art
+    - name: Titus Lunter
+      role: Interior Art
+    - name: Robson Michel
+      role: Interior Art
+    - name: Claudio Pozas
+      role: Interior Art
+    - name: Travis Woodall
+      role: Cartography
   items:
     - name: Bracers of Archery
       rarity: uncommon
@@ -605,7 +714,6 @@
         Alongside other skilled warriors, you successfully defended Easthaven,
         along with one of the other towns in the adventure.
   missing:
-    - credits
     - pdf
 
 
@@ -618,7 +726,35 @@
     of the ancient Abeiran city—and unwittingly brought it back with them. Will their
     foolish endeavors spell the end of the Thuunlakalaga clan?
   released: '2021-08-13'
+  url: 'https://www.dmsguild.com/product/370744/DDEP1002-Song-of-Spears'
   tier: [2, 3]
+  length: 3
+  apl: [8, 11]
+  credits:
+    - name: Travis Woodall
+      role: Lead Designer
+    - name: Rich Lescouflair
+      role: Designer
+      key: true
+    - name: Jeff C. Stevens
+      role: Designer
+      key: true
+    - name: Ashley Michaela “Navigator” Lawson
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Jedd Chevrier
+      role: Interior Art
+    - name: Titus Lunter
+      role: Interior Art
+    - name: Craig J. Spearing
+      role: Interior Art
+    - name: Brian Valeza
+      role: Interior Art
+    - name: Stacey Allen
+      role: Cartography
+    - name: Will Doyle
+      role: Cartography
   items:
     - name: Spint Mail, +1
       rarity: rare
@@ -641,6 +777,5 @@
       consumable: true
       quantity: 1
   missing:
-    - credits
     - pdf
 

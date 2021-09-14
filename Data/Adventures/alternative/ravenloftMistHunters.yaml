@@ -41,6 +41,12 @@
       role: Cover Illustrator
     - name: Mark Behm
       role: Cover Illustrator
+    - name: Chris Lindsay
+      role: Campaign Narrative Design
+    - name: Wes Schneider
+      role: Campaign Narrative Design
+    - name: Christ Tulach
+      role: Campaign Narrative Design
   missing:
     - items
     - pdf
@@ -57,13 +63,44 @@
     servitude, child soldiers, children in peril, grotesque body modification,
     gore, violence
   released: '2021-09-14'
+  url: 'https://www.dmsguild.com/product/370754/RMH02-Back-to-the-Front'
   tier: 1
   length: 4
   apl: 3
   credits:
     - name: Travis Woodall
-      role: Designer
+      role: Lead Designer
       key: true
+    - name: Ma’at Crook
+      role: Sensitivity Lead
+    - name: Scott Fitzgerald Gray
+      role: Editing
+    - name: Stacey Allan
+      role: Art Direction and Graphic Design
+    - name: Mark Behm
+      role: Artist
+    - name: Olga Drebas
+      role: Artist
+    - name: Max Dunbar
+      role: Artist
+    - name: Titus Lunter
+      role: Artist
+    - name: Aaron Miller
+      role: Artist
+    - name: Scott Murphy
+      role: Artist
+    - name: CoupleOfKooks
+      role: Cover Illustrator
+    - name: Scott M. Fischer
+      role: Cover Illustrator
+    - name: Mark Behm
+      role: Cover Illustrator
+    - name: Chris Lindsay
+      role: Campaign Narrative Design
+    - name: Wes Schneider
+      role: Campaign Narrative Design
+    - name: Christ Tulach
+      role: Campaign Narrative Design
   missing:
     - credits
     - items

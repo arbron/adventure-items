@@ -325,6 +325,18 @@
       position: 1
 
 
+- slug: fractured-winter
+  name: Fractured Winter
+  type: trilogy
+  adventures:
+    - code: CCC-BMG MOON14-1
+      position: 1
+    - code: CCC-BMG MOON14-2
+      position: 2
+    - code: CCC-BMG MOON14-3
+      position: 3
+
+
 - slug: the-gifts-of-corruption
   name: The Gifts of Corruption
   includesArticle: true

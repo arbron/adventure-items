@@ -164,9 +164,25 @@
   tier: 2
   length: 2-4
   apl: 8
+  items:
+    - name: Ring of Spell Storing
+      rarity: rare
+      flavor: >-
+        This ring has the personal sigil of the ancient ruler of Thultanthar, Lord
+        Shadow engraved on the center black opal. The band is pure shadow when worn
+        and leaves the wearer feeling distinctly cold. It has 13 diamonds surrounding
+        a large black opal. The ring currently has the spells *arcane lock* and
+        *tongues* in it.
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Greater Invisibility
+      rarity: rare
+      consumable: true
+      count: 1
   missing:
     - credits
-    - items
     - pdf
 
 

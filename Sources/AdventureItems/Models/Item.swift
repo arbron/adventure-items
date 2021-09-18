@@ -15,6 +15,8 @@ struct Item: Codable, Hashable {
     @DecodableDefault.False var consumable: Bool
     var count: Int?
 
+    @DecodableDefault.EmptyString var flavor: String
+
     @DecodableDefault.False var illegal: Bool
     @DecodableDefault.False var storyItem: Bool
     var guidance: String?

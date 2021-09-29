@@ -1,0 +1,85 @@
+- code: WBW-PR
+  name: Lost Things
+  description: >-
+    Like a half-forgotten dream, the Witchlight Carnival drifts into our world
+    once every eight years, drawing folk of all ages to delight in its fey
+    wonders. Entry without a ticket is strictly forbidden, and the consequences
+    for trespass echo through time.
+  contentWarning: >-
+    Fairytale abduction, magical charm
+  released: '2021-09-23'
+  tier: 1
+  length: 2
+  items:
+    - name: Book of Memory
+      rarity: common
+    - name: Fold-Up Friend
+      rarity: common
+      flavor: >-
+        While this cut-out parchment character is within 5 feet of you, you can command
+        it to walk, play, dance, or follow you. The fold-up friend cannot take actions
+        and cannot manipulate objects. It has AC 12 and 1 hit point.
+    - name: Giant Gloves
+      rarity: common
+      flavor: >-
+        While wearing these oversized gloves, your hands magically expand to fill their
+        volume. You gain no benefit from this.
+    - name: Pocket Watch
+      rarity: common
+      flavor: >-
+        This lidded brass container holds a tiny sand timer suspended behind glass. No
+        matter how the container is orientated, the sand always falls from one side of
+        the timer to the other, taking exactly 24 hours to deplete. Once depleted, the
+        sand timer spins around to reset itself.
+    - name: Wand of Whimsy
+      rarity: common
+      flavor: |-
+        This wand has 8 charges. While holding it, you can use an action to expend 1 of
+        its charges and create one of the following effects:
+
+        - Change the hair color or hair style of a creature you can see within 50 feet
+        - Cause a small cloud of butterflies to flutter from the tip of the wand
+        - Conjure a brief, tinkling melody from the wand
+
+        The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s
+        last charge, roll a d20. On a 1, the wand transforms into a cloud of butterflies,
+        which flutter away.
+    - name: Whoopee Cushion
+      rarity: common
+      flavor: >-
+        When sat upon, this rubber pillow emits a funny noise. Any creature within 30
+        feet must make a DC 11 Wisdom saving throw or break out into fits of laughter.
+  storyAwards:
+    - name: With a Hoot and a Growl
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: WBW-EP
+  name: The Witchlight Carnival
+  description: >-
+    Your journey for the safe return of a treasured possession has led you back
+    to the Witchlight Carnival: a spectacular event of games, music, food, and
+    friendship. However, strange things are afoot, and it's up to you to find out
+    what they are and who is behind them.
+  contentWarning: >-
+    Fairytale abduction, magical charm
+  released: '2021-09-23'
+  tier: 1
+  length: 4
+  apl: 1
+  items:
+    - name: Cupcake of Invisibility (Potion of Invisibility)
+      rarity: veryRare
+      consumable: true
+    - name: Potion of Advantage
+      rarity: uncommon
+      consumable: true
+  storyAwards:
+    - name: Witchlight Monarch
+  missing:
+    - credits
+    - items
+    - pdf

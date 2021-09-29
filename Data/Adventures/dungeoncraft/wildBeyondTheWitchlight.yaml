@@ -1,0 +1,231 @@
+- code: WBW-DC-FDC-01
+  name: The Ember King
+  description: >-
+    The Tavern of the Ember King appears during the Feast of the Moon in an
+    alleyway in Waterdeep. The tavern is the hospitable domain of the pixies
+    who spark embers in campfires. New adventurers can go here to begin
+    their journey in the Feywild, and veteran adventurers meet inside for
+    drinks and stories. Coin isn’t needed here – food and drink can be
+    purchased for a tale. For new Feywild explorers, the benevolent Ember
+    King offers advice and their first adventure in exchange for the tale of
+    their exploits. Once agreed, the now pixie-sized party finds themselves
+    at the top of the tavern and have one hour to find their way to the bottom. 
+  released: '2021-09-21'
+  url: 'https://www.dmsguild.com/product/371459/The-Ember-King-WBWDCFDC01'
+  tier: 1
+  length: 2
+  apl: 1
+  credits:
+    - name: Bianca Bickford
+      role: Designer
+      key: true
+    - name: Kelly Knox
+      role: Editing
+    - name: Del Teigeler
+      role: Tavern Illustration
+    - name: Marissa Louise
+      role: Tavern Colorist
+    - name: MC-Illustrations
+      role: Character Illustration
+    - name: Dean Spencer
+      role: Additional Illustrations
+  missing:
+    - items
+    - pdf
+
+
+- code: WBW-DC-FDC-02
+  name: Rest at Last
+  tier: 1
+  credits:
+    - name: Orla ní Dhúill
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: WBW-DC-FDC-03
+  name: I Find That Familiar
+  tier: 1
+  credits:
+    - name: Paul Gabat
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: WBW-DC-FDC-04
+  name: The Monster of Wonderia
+  description: |-
+    The adventure takes place in the new Feywild Domain of Delight, Wonderia,
+    a magical land where childlike fey creatures called wonderfey live. In this
+    adventure, the characters are summoned to Wonderia by wonderfey. The
+    wonderfey ask the characters to serve as their guardians during their
+    journey to the Forbidden Mountain where it is rumored the Monster of
+    Wonderia lives.
+
+    Unbeknownst to the characters and the wonderfey, the Archfey of Wonderia,
+    Abuelita Yvelise, resides there. Abuelita Yvelise is a sweet kindly storm
+    giant who reveals the true nature of the wonderfey to the characters. The
+    characters join the wonderfey in a ritual that takes place in the Archfey’s
+    bag of holding where they must defeat vile fey creatures seeking to scare off
+    the wonderfey from entering a portal that sends them to merge with each
+    character’s soul at birth (time has no bounds in Wonderia!). The adventure
+    concludes with the characters making choices that can completely reshape their
+    own lives, including changing their race, class, gender, and other aspects of
+    their character.
+  released: '2021-09-21'
+  url: 'https://www.dmsguild.com/product/371476/The-Monster-of-Wonderia-WBWDCFDC04'
+  tier: 1
+  length: 2
+  apl: 3
+  credits:
+    - name: Anthony Joyce
+      role: Lead Designer
+      key: true
+    - name: Gordon McAlpin
+      role: Graphic Design, Editing, and Layout
+    - name: Cze and Peku
+      role: Cartography
+    - name: Allison
+      role: Illustrations
+    - name: Little World Art
+      role: Illustrations
+  items:
+    - name: Bag of Holding
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: common
+      consumable: true
+      count: 1
+  missing:
+    - items
+    - pdf
+
+
+- code: WBW-DC-FDC-05
+  name: Crumbling Castles & Candy Clouds
+  description: >-
+    The legendary city of Castamella, held aloft by cotton candy clouds, has
+    meandered peacefully across the skies of the Feywild for time immemorial.
+    But when its spires suddenly begin to crumble and crash through the sky
+    below, only the adventurers stand between this idyllic haven and certain
+    destruction. As factions coalesce in a battle that reaches beyond the
+    borders of the sky, you must delve into the saccharine underbelly of this
+    Seelie society to discover the culprits and stop their deliciously evil plans.
+  contentWarning: >-
+    Earthquakes, falling, food
+  released: '2021-09-21'
+  url: 'https://www.dmsguild.com/product/371098/WBWDCFDC05-Crumbling-Castles--Candy-Clouds'
+  tier: 1
+  length: 4
+  apl: 3
+  credits:
+    - name: Emily Harmon
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: WBW-DC-FDC-06
+  name: The Landscape of Estorian LeFae
+  description: >-
+    Canvas is a self-contained domain inside of a painting, protected by magic and
+    housing secrets to be hidden in plain sight although in a place of art and
+    creation, anything can become reality, and that in itself is dangerous as
+    the ruler is a bit eclectic. This Domain of Pigment is located inside of a
+    painting drawn of a large tree covered in moss, raised on the ground, and with
+    water flowing out of the base forming a small waterfall. It is labeled "Season's
+    Fleetings" by Estorian LeFae.
+
+    The painting changes to reflect different seasons from an outside perspective
+    as the domain ruler's position changes. Inside of the painting is a collection
+    of stories and artwork unique to the fey. This domain is a self-contained
+    archive although the archive may have been less preserved and more acquired in
+    selfish desire.
+  released: '2021-09-21'
+  url: 'https://www.dmsguild.com/product/371445/The-Landscape-of-Estorian-LeFae-WBWDCFDC06'
+  tier: 1
+  length: 2
+  apl: 3
+  credits:
+    - name: Gabe Hicks
+      role: Lead Designer
+      key: true
+    - name: Elise Rezendes
+      role: Editing
+    - name: Graphic Design
+      role: Gordon McAlpin
+    - name: Nim
+      role: Illustrations
+  missing:
+    - items
+    - pdf
+
+
+- code: WBW-DC-FDC-07
+  name: A Meal to Remember
+  description: >-
+    Dwindle is a domain of loss and loneliness: a vast desert realm where memory
+    and mirage are one and the same. Born out of the desperate wish of a grieving
+    djinni-king, the magic sands of Dwindle give life to the memories of those we
+    have lost. Eidolons of long-dead companions roam the dunes as sandy apparitions, 
+    soughing with the wind that slowly erodes them. They are called the Departed.
+
+    Forough Khanom (foe-ROOGH KHAH-noom), an elderly resident of Dwindle, is
+    preparing an elaborate feast for a much anticipated visitor—the memory of her
+    beloved late husband, who visits her once each year around the time of their 
+    anniversary. However, she awoke this morning to find her vegetable garden
+    mysteriously trampled! Forough asks the characters to brave the dunes in
+    search of ingredients from an oasis known as the Sabzi Knoll. She fears that
+    if she offers her visitor a meager spread, he may never show.
+  contentWarning: >-
+    Grief, memory loss
+  released: '2021-09-21'
+  url: 'https://www.dmsguild.com/product/371499/A-Meal-to-Remember-WBWDCFDC07'
+  tier: 1
+  length: 2
+  apl: 3
+  credits:
+    - name: Justice Arman
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: WBW-DC-FDC-08
+  name: The Great Toy Escape
+  tier: 1
+  credits:
+    - name: Jacky Leung
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
+- code: WBW-DC-FDC-09
+  name: A Stitch in Time
+  tier: 1
+  credits:
+    - name: Kat Kruger
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf

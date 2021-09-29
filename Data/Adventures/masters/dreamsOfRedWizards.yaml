@@ -394,9 +394,43 @@
     - name: Greg Marks
       role: Designer
       key: true
+  items:
+    - name: Amulet of Health
+      rarity: rare
+      flavor: >-
+        Portico’s amulet contains a magical compass, you can use it as an action to
+        determine which way is north.
+    - name: Mariner’s Studded Leather
+      rarity: uncommon
+    - name: Crossbow Bolt, +1
+      rarity: uncommon
+      consumable: true
+      count: 4
+    - name: Elixir of Health
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Mind Control (Beast)
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAward:
+    - name: Bonds of Fellowship
+      description: >-
+        You encountered these Harper agents during your time in Waterdeep:
+         - Amri Thistlebrick
+         - Salros Eventide
+         - Tua
+    - name: Redspear's Ring
+      description: >-
+        The Northlander captain Carys Redspear has given you one of her arm rings,
+        which her crew will recognize should you ever cross paths.
   missing:
     - credits
-    - items
     - pdf
 
 
@@ -438,11 +472,18 @@
   length: 4
   apl: 8
   credits:
+    - name: Greg Marks
+      role: Lead Designer
     - name: Oliver Darkshire
       role: Designer
       key: true
+    - name: Ma’at Crook
+      role: Sensitivity Lead
+    - name: Ashley “Navigator” Lawson
+      role: Editor
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
   missing:
-    - credits
     - items
     - pdf
 

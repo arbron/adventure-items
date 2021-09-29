@@ -53,7 +53,9 @@
 "source-authorOnly" = "Author Only";
 "source-conventionCreatedContent" = "Convention Created Content";
 "source-dreamsOfRedWizards" = "Dreams of Red Wizards";
-"source-dungeonCraft" = "Dungeoncraft";
+"source-dungeoncraft" = "Dungeoncraft";
+"source-dungeoncraft(PoA)" = "Dungeoncraft: Plague of Ancients";
+"source-dungeoncraft(WBW)" = "Dungeoncraft: Wild Beyond the Witchlight";
 "source-embersOfTheLastWar" = "Embers of the Last War";
 "source-hardcover" = "Hardcover";
 "source-introAdventure" = "Intro Adventure";
@@ -61,6 +63,8 @@
 "source-ravenloftMistHunters" = "Ravenloft: Mist Hunters";
 "source-season(0)" = "Season Agnostic";
 "source-season(#)" = "Season %d";
+
+/* Dungeoncraft Seasonss */
 
 /* Item Rarities */
 "rarity.common" = "Common";

@@ -71,7 +71,7 @@ struct AdventurePage: Component {
 
     var subheadingDescription: String {
         var key = "<Source>"
-        var args: [CVarArg] = [adventure.source.localizedStringValue]
+        var args: [CVarArg] = [adventure.source.shortLocalizedStringValue]
 
         if adventure.source != .conventionCreatedContent {
             key += " <Type>"
@@ -255,8 +255,13 @@ struct StoryAwardsSection: Component {
     var body: Component {
         H2("adventurePage.\(type.rawValue)Header".localized())
         for award in storyAwards {
-            Disclosure(summary: awardName(award), details: Markdowned(award.description))
-                .class("story-award")
+            if award.description != "" {
+                Disclosure(summary: awardName(award), details: Markdowned(award.description))
+                    .class("story-award")
+            } else {
+                Paragraph(awardName(award))
+                    .class("story-award")
+            }
         }
     }
 

@@ -99,19 +99,23 @@ extension Adventure {
         case ravenloftMistHunters
 
         case conventionCreatedContent
-        case dungeonCraft
+        case dungeonCraft(String)
 
         init(_ code: String) {
             if code.hasPrefix("CCC-") {
                 self = .conventionCreatedContent
-            } else if code.hasPrefix("DC-") {
-                self = .dungeonCraft
+            } else if code.hasPrefix("DC-PoA") {
+                self = .dungeonCraft("PoA")
             } else if code.hasPrefixes("DDAL-DRW", "DDEP-DRW") {
                 self = .dreamsOfRedWizards
             } else if code.hasPrefixes("DDAL-ELW", "DDAL-WGE") {
                 self = .embersOfTheLastWar
             } else if code.hasPrefix("DDAL-EB") {
                 self = .oracleOfWar
+            } else if code.hasPrefix("WBW-DC") {
+                self = .dungeonCraft("WBW")
+            } else if code.hasPrefix("WBW") {
+                self = .season(11)
             } else if code.hasPrefix("RMH") {
                 self = .ravenloftMistHunters
             } else if code.hasPrefixes("DDAL-CGB", "DDAL-OPEN", "DDALCA") {
@@ -132,7 +136,7 @@ extension Adventure {
 
         static var allCases: [Source] {
             var cases: [Source] = []
-            for seasonNum in 1...10 {
+            for seasonNum in 1...11 {
                 cases.append(.season(seasonNum))
             }
             cases.append(.season(0))
@@ -145,7 +149,8 @@ extension Adventure {
                 .oracleOfWar,
                 .ravenloftMistHunters,
                 .conventionCreatedContent,
-                .dungeonCraft
+                .dungeonCraft("PoA"),
+                .dungeonCraft("WBW"),
             ])
             return cases
         }
@@ -155,8 +160,20 @@ extension Adventure {
                 let string = NSLocalizedString("source-season(#)", bundle: Bundle.module, comment: "Adventure source name for \(self)")
                 return String.localizedStringWithFormat(string, number)
             }
+            if case let Source.dungeonCraft(name) = self {
+                return "source-dungeoncraft(\(name))".localized(comment: "Adventure source name for \(self)")
+            }
             let key = "source-\(self)"
             return NSLocalizedString(key, bundle: Bundle.module, comment: "Adventure source name for \(self)")
+        }
+
+        var shortLocalizedStringValue: String {
+            switch self {
+            case .dungeonCraft(_):
+                return "source-dungeoncraft".localized(comment: "Short adventure source name for \(self)")
+            default:
+                return self.localizedStringValue
+            }
         }
     }
 }

@@ -5,11 +5,12 @@
 //  Created by Jeff Hitchcock on 2020-09-04.
 //
 
+import AdventureUtils
 import Foundation
 
 struct StoryAward: Codable, Hashable {
     var name: String
-    var description: String
+    @DecodableDefault.EmptyString var description: String
     var type: AwardType?
 
     enum AwardType: String, Codable, Hashable {

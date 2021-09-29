@@ -170,7 +170,7 @@ details p {
 .story-award {
     padding-bottom: 0.5em;
 }
-.story-award summary {
+.story-award summary, p.story-award {
     font-size: 1.1em;
 }
 .story-award ul {

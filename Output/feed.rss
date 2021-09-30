@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Wed, 29 Sep 2021 14:41:29 -0700</lastBuildDate><pubDate>Wed, 29 Sep 2021 14:41:29 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/wbw-ep</guid><title>WBW-EP - The Witchlight Carnival</title><description>a potion, a story award, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/wbw-ep</link><pubDate>Wed, 22 Sep 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>The Witchlight Carnival</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Wed, 29 Sep 2021 22:23:36 -0700</lastBuildDate><pubDate>Wed, 29 Sep 2021 22:23:36 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/wbw-ep</guid><title>WBW-EP - The Witchlight Carnival</title><description>a potion, a story award, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/wbw-ep</link><pubDate>Wed, 22 Sep 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>The Witchlight Carnival</h1>
 <h3>
 A 4 Hour Season 11 Adventure for Tier 1
   <em class="release">Released on September 22, 2021</em></h3>
@@ -3967,10 +3967,15 @@ William O'Connor
  
     <em class="entry-label">Rare</em></li></ul>
 <h2>Spellbooks</h2>
-<ul>
-  <li>    <b>Gisaul’s Spellbook: </b>
-mage armor, ray of sickness, blindness/deafness, ray of enfeeblement, web, bestow curse, vampiric touch, blight, dimension door, stoneskin, Bigby’s hand, and cloudkill
-</li></ul>
+<section class="spellbook">  <h4>Gisaul’s Spellbook</h4>
+
+  <ol>
+    <li value="1"><p>1st level: <em>mage armor</em>, <em>ray of sickness</em></p></li>
+    <li value="2"><p>2nd level: <em>blindness/deafness</em>, <em>ray of enfeeblement</em>, <em>web</em></p></li>
+    <li value="3"><p>3rd level: <em>bestow curse</em>, <em>vampiric touch</em></p></li>
+    <li value="4"><p>4th level: <em>blight</em>, <em>dimension door</em>, <em>stoneskin</em></p></li>
+    <li value="5"><p>5th level: <em>Bigby’s hand</em>, <em>cloudkill</em></p></li></ol>
+</section>
 <h2>Legacy Events</h2>
 <details class="story-award">
   <summary>Desperate Measures

@@ -167,6 +167,21 @@ details p {
     text-decoration: line-through;
 }
 
+.spellbook {
+    margin-bottom: 10px;
+}
+.spellbook ol {
+    padding-left: 1em;
+    font-size: 0.9em;
+    list-style-type: none;
+}
+.spellbook ol p {
+    margin-bottom: 3px;
+}
+.spellbook p + ol {
+    margin-top: -8px;
+}
+
 .story-award {
     padding-bottom: 0.5em;
 }

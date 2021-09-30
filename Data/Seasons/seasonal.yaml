@@ -1,0 +1,12 @@
+- name: Tyranny of Dragons
+  type: seasonal
+  season: 1
+  
+
+- name: Plague of Ancients
+  type: seasonal
+  season: 10
+
+- name: Wild Beyond the Witchlight
+  type: seasonal
+  season: 11

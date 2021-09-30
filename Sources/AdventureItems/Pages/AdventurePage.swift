@@ -6,6 +6,7 @@
 //
 
 import AdventureUtils
+import Algorithms
 import Foundation
 import Plot
 import Publish
@@ -209,6 +210,11 @@ struct ItemsSection: Component {
 
 struct SpellbooksSection: Component {
     static let formatter = ListFormatter()
+    static let ordinalFormatter: NumberFormatter = {
+        var formatter = NumberFormatter()
+        formatter.numberStyle = .ordinal
+        return formatter
+    }()
 
     let spellbooks: [Spellbook]
     
@@ -219,25 +225,38 @@ struct SpellbooksSection: Component {
     @ComponentBuilder
     var body: Component {
         H2("adventurePage.spellbookHeader".localized())
-        List(spellbooks) { spellbook in
-            ListItem {
-                if let spells = formattedSpells(spellbook) {
-                    Text("\(spellbook.name): ").bold()
-                    Text(spells) // TODO: Display spells better
-                    if spellbook.note != "" {
-                        Markdowned(spellbook.note)
-                            .italic()
-                            .class("entry-label")
-                    }
-                } else {
-                    Text(spellbook.name).bold()
+        for spellbook in spellbooks {
+            ASection {
+                H4(spellbook.name)
+                if spellbook.flavor != "" {
+                    Markdowned(spellbook.flavor)
                 }
-            }
+
+                List(spellbook.spells.chunked(on: \.level)) { (level, spells) in
+                    ListItem {
+                        Markdowned("\(formattedLevel(level)): \(formattedSpells(spells))")
+                    }.number(level)
+                }
+                    .listStyle(.ordered)
+
+                if spellbook.note != "" {
+                    Markdowned(spellbook.note)
+                        .italic()
+                }
+            }.class("spellbook")
         }
     }
 
-    func formattedSpells(_ spellbook: Spellbook) -> String? {
-        SpellbooksSection.formatter.string(from: spellbook.spells.map { $0.name })
+    func formattedLevel(_ level: Int) -> String {
+        guard level != 0 else { return "spell-cantrip".localized() }
+        return "spell-leveled".localizedAndFormatted(
+            SpellbooksSection.ordinalFormatter.string(from: NSNumber(integerLiteral: level)) ?? "?"
+        )
+    }
+
+    func formattedSpells(_ spells: ArraySlice<Spell>) -> String {
+        spells.map { "*\($0.name)*" }.joined(separator: ", ")
+//        SpellbooksSection.formatter.string(from: spells.map { "*\($0.name)*" }) ?? ""
     }
 }
 

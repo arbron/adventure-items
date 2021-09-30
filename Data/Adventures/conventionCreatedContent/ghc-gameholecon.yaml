@@ -1098,6 +1098,12 @@
       count: 1
   spellbooks:
     - name: Fyndulaas’s Spellbook
+      flavor: >-
+        Written in the very back of the book are scribed the true names of three
+        demons that Fyndulaas would oft times summon to do his bidding:
+        Gaggazoth, the Cleaver of the Horned King (a **tanarukk**); Valgurrek
+        the Gluttonous (a **barlgura**); Thurzroggad, Scythe of the Six Fingered
+        Lord (a **babau**).
       spells:
         - name: detect magic
           level: 1
@@ -1145,12 +1151,6 @@
           level: 8
         - name: power word kill
           level: 9
-      note: >-
-        Written in the very back of the book are scribed the true names of three
-        demons that Fyndulaas would oft times summon to do his bidding:
-        Gaggazoth, the Cleaver of the Horned King (a **tanarukk**); Valgurrek
-        the Gluttonous (a **barlgura**); Thurzroggad, Scythe of the Six Fingered
-        Lord (a **babau**).
 
 
 - code: CCC-GHC-BK2-09

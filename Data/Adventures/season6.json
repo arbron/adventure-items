@@ -58,17 +58,17 @@
             {
             "name": "Shadow Tome",
             "spells": [
-                { "name": "bestow curse", "level": 3 },
-                { "name": "blight", "level": 4 },
-                { "name": "blindness/deafness", "level": 2 },
                 { "name": "comprehend languages", "level": 1 },
+                { "name": "find familiar", "level": 1 },
+                { "name": "witch bolt", "level": 1 },
+                { "name": "blindness/deafness", "level": 2 },
                 { "name": "darkness", "level": 2 },
                 { "name": "darkvision", "level": 2 },
+                { "name": "bestow curse", "level": 3 },
                 { "name": "dispel magic", "level": 3 },
                 { "name": "fear", "level": 3 },
-                { "name": "Evard’s black tentacles", "level": 4 },
-                { "name": "find familiar", "level": 1 },
-                { "name": "witch bolt", "level": 1 }
+                { "name": "blight", "level": 4 },
+                { "name": "Evard’s black tentacles", "level": 4 }
             ]
             }
         ]

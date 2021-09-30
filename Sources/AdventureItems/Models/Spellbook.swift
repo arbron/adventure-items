@@ -10,6 +10,7 @@ import AdventureUtils
 
 struct Spellbook: Codable, Hashable {
     var name: String
+    @DecodableDefault.EmptyString var flavor: String
     var spells: [Spell]
     @DecodableDefault.EmptyString var note: String
 }

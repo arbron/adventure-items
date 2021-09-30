@@ -48,6 +48,9 @@
 
 "tags.adventureTier" = "adventure: tier %u";
 
+"spell-cantrip" = "Cantrips";
+"spell-leveled" = "%@ level";
+
 
 /* Adventure Sources */
 "source-authorOnly" = "Author Only";

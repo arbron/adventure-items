@@ -66,6 +66,7 @@ h1 {
 
 h2 {
     margin: 20px 0;
+    border-bottom: 3px solid #7d10bd;
 }
 
 h3 {
@@ -179,7 +180,7 @@ details p {
     margin-bottom: 3px;
 }
 .spellbook p + ol {
-    margin-top: -8px;
+    margin-top: -5px;
 }
 
 .story-award {

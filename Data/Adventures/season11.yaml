@@ -8,8 +8,13 @@
   contentWarning: >-
     Fairytale abduction, magical charm
   released: '2021-09-23'
+  url: 'https://www.dmsguild.com/product/372375/WBWPR-Lost-Things'
   tier: 1
   length: 2
+  credits:
+    - name: Travis Woodall
+      role: Designer
+      key: true
   items:
     - name: Book of Memory
       rarity: common

@@ -29,6 +29,14 @@
       role: Character Illustration
     - name: Dean Spencer
       role: Additional Illustrations
+  gold: 320-500
+  item:
+    - name: Cloak of Protection
+      rarity: uncommon
+    - name: Potion of Healing
+      rarity: common
+      consuamble: true
+      count: 1
   missing:
     - items
     - pdf
@@ -50,13 +58,43 @@
 - code: WBW-DC-FDC-03
   name: I Find That Familiar
   tier: 1
+  description: >-
+    This is a disaster! Spellcasters all over the realm cannot summon their fey
+    familiars. Something must’ve happened in Paliparan, the Domain of Delight
+    where a lot of fey creatures go before they get summoned using the find
+    familiar spell.
+  contentWarning: >-
+    Gambling, animal harm, fey curses, child imprisonment, illness, loss of a friend
+  released: '2021-09-22'
+  url: 'https://www.dmsguild.com/product/371500/I-Find-That-Familiar-WBWDCFDC03'
+  tier: 1
+  length: 4
+  apl: 2
   credits:
     - name: Paul Gabat
       role: Designer
       key: true
+    - name: Erik Smith
+      role: Editor
+    - name: Gordon McAlpin
+      role: Cover Layout
+    - name: Dean Spencer
+      role: Interior Art
+    - name: Bradley O’Hanrahan
+      role: Interior Art
+    - name: Paul Gabat
+      role: Maps
+    - name: Marionne Gabat
+      role: Special Thanks
+  gold: 300
+  items:
+    - name: Figurine of Wondrous Power (Silver Raven)
+      rarity: uncommon
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
   missing:
-    - credits
-    - items
     - pdf
 
 
@@ -97,6 +135,7 @@
       role: Illustrations
     - name: Little World Art
       role: Illustrations
+  gold: 320-500
   items:
     - name: Bag of Holding
       rarity: uncommon
@@ -105,7 +144,6 @@
       consumable: true
       count: 1
   missing:
-    - items
     - pdf
 
 
@@ -130,8 +168,22 @@
     - name: Emily Harmon
       role: Designer
       key: true
+    - name: Emily Harmon
+      role: Editing
+    - name: Gordon McAlpin
+      role: Border Artist
+    - name: David Harmon
+      role: Cartography Artist
+    - name: Xyra Brittney
+      role: Cover Artist
+    - name: Emily Harmon
+      role: Handout Artist
+  items:
+    - name: Matcha Tea (Spell Scroll of Spider Climb)
+      rarity: uncommon
+      consumable: true
+      count: 1
   missing:
-    - credits
     - items
     - pdf
 
@@ -176,18 +228,10 @@
   name: A Meal to Remember
   description: >-
     Dwindle is a domain of loss and loneliness: a vast desert realm where memory
-    and mirage are one and the same. Born out of the desperate wish of a grieving
-    djinni-king, the magic sands of Dwindle give life to the memories of those we
-    have lost. Eidolons of long-dead companions roam the dunes as sandy apparitions, 
-    soughing with the wind that slowly erodes them. They are called the Departed.
-
-    Forough Khanom (foe-ROOGH KHAH-noom), an elderly resident of Dwindle, is
-    preparing an elaborate feast for a much anticipated visitor—the memory of her
-    beloved late husband, who visits her once each year around the time of their 
-    anniversary. However, she awoke this morning to find her vegetable garden
-    mysteriously trampled! Forough asks the characters to brave the dunes in
-    search of ingredients from an oasis known as the Sabzi Knoll. She fears that
-    if she offers her visitor a meager spread, he may never show.
+    and mirage are one and the same. On the eve of a much-anticipated dinner, an
+    elderly resident of Dwindle, Forough Khanom, awakes to find her vegetable
+    garden trampled. To save her dinner, the characters must brave the dunes of
+    the departed in search of ingredients from the Sabzi Knoll.
   contentWarning: >-
     Grief, memory loss
   released: '2021-09-21'
@@ -197,34 +241,110 @@
   apl: 3
   credits:
     - name: Justice Arman
-      role: Designer
+      role: Lead Designer
       key: true
+    - name: Gordon McAlpin
+      role: Graphic Design and Layout
+    - name: Cze and Peku
+      role: Cartography
+    - name: Tithi Luadthong
+      role: Cover and Interior Illustration
+    - name: Hassan Arman
+      role: Special Thanks
+    - name: Samantha Cubbage
+      role: Special Thanks
+    - name: Anthony Joyce
+      role: Special Thanks
+    - name: Lysa Penrose
+      role: Special Thanks
+    - name: Forough Arman
+      role: Special Thanks
+  gold: 320-500
+  items:
+    - name: Feywild Shard
+      rarity: uncommon
+    - name: Potion of Resistance (Fire)
+      rarity: uncommon
+      flavor: >-
+        A warm, ruby syrup steams within this glass jar.
+      consumable: true
+      count: 1
   missing:
-    - credits
-    - items
     - pdf
 
 
 - code: WBW-DC-FDC-08
   name: The Great Toy Escape
+  description: >-
+    Enter the Joysmith’s workshop at your peril. Help free a trapped toy before an
+    ominous archfey client picks them up. Do it quick before becoming another resident
+    within the Joy Shop.
+  contentWarning: >-
+    Animated toys and dolls, body horror, butterfies, imprisonment, spiders
+  released: '2021-09-20'
+  url: 'https://www.dmsguild.com/product/371457/WBWDCFDC08-The-Great-Toy-Escape'
   tier: 1
+  length: 4
+  apl: 4
   credits:
     - name: Jacky Leung
-      role: Designer
+      role: Lead Designer
       key: true
+    - name: Jacky Leung
+      role: Editing
+    - name: Gordon McAlpin
+      role: Cover Layout
+    - name: Auri Cavendish
+      role: Cover Artist
+    - name: Auri Cavendish
+      role: Illustration
+    - name: Auri Cavendish
+      role: Catography
+  gold: 320-500
+  items:
+    - name: Pole of Collapsing
+      rarity: common
+    - name: Grassy Liquor (Potion of Healing)
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Oil of Slipperiness
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Growth
+      rarity: uncommon
+      consumable: true
+      count: 1
   missing:
-    - credits
-    - items
     - pdf
 
 
 - code: WBW-DC-FDC-09
   name: A Stitch in Time
+  description: >-
+    A clockwork Wonderland is running out of time as the gears that keep the domain
+    ticking are in need of repair. The royal artificer, Hairspring, requests
+    assistance on his first day on the job. As the adventuring party ventures into
+    the Feywild, they meet some peculiar creatures with problems of their own—ones
+    that can be solved through wordplay, riddles, and logic. The domain of
+    Belleturnum awaits…don’t be late!
+  released: '2021-09-20'
+  url: 'https://www.dmsguild.com/product/371466/A-Stitch-in-Time-WBWDCFDC09'
   tier: 1
+  length: 4
+  apl: 4
   credits:
     - name: Kat Kruger
       role: Designer
       key: true
+  items:
+    - name: Pipe of Smoke Monsters
+      rarity: common
+    - name: Mooncake (Potion of Healing)
+      rarity: common
+      consumable: true
+      count: 2
   missing:
     - credits
     - items

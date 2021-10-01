@@ -1419,6 +1419,28 @@
         costs were steep, and morale and supplies are strained.
 
 
+- code: DDAL-EB-19
+  name: Back to the Mud
+  description: >-
+    In the ruins of Making, the Lord of Blades hammers out an army of steel to
+    conquer the Five Nations of Khorvaire. With the *Oracle of Bones* at his side,
+    he knows all plots against him before they can be enacted. He cannot be
+    defeated—unless, of course, his enemies have their own *Oracle*.
+  released: '2021-09-30'
+  url: 'https://www.dmsguild.com/product/372377/EB19-Back-to-the-Mud'
+  tier: 4
+  length: 4
+  apl: 19
+  credits:
+    - name: Andy Dempz
+      role: Designer
+      key: true
+  missing:
+    - credits
+    - items
+    - pdf
+
+
 - code: DDAL-EBEP-01
   name: The Iron Giant
   description: >-

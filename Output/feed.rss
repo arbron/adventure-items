@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Thu, 30 Sep 2021 19:45:16 -0700</lastBuildDate><pubDate>Thu, 30 Sep 2021 19:45:16 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-eb-19</guid><title>DDAL-EB-19 - Back to the Mud</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ddal-eb-19</link><pubDate>Wed, 29 Sep 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>Back to the Mud</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Sat, 2 Oct 2021 00:16:37 -0700</lastBuildDate><pubDate>Sat, 2 Oct 2021 00:16:37 -0700</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-eb-19</guid><title>DDAL-EB-19 - Back to the Mud</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ddal-eb-19</link><pubDate>Wed, 29 Sep 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>Back to the Mud</h1>
 <h3>
 A 4 Hour Oracle of War Adventure for Tier 4
   <em class="release">Released on September 29, 2021</em></h3>
@@ -41,7 +41,7 @@ A 4 Hour Season 11 Adventure for Tier 1
 
 <h2>Story Awards</h2>
 <p class="story-award">Witchlight Monarch
-</p>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/wbw-pr</guid><title>WBW-PR - Lost Things</title><description>Book of Memory, Fold-Up Friend, Giant Gloves, Pocket Watch, Wand of Whimsy, Whoopee Cushion, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/wbw-pr</link><pubDate>Wed, 22 Sep 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>Lost Things</h1>
+</p>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/wbw-pr</guid><title>WBW-PR - Lost Things</title><description>Bookmark of Memory, Fold-Up Friend, Giant’s Gloves, Pearl of Elocution, Potion of Bubble Breath, Pocket Watch, Wand of Whimsy, Whoopee Cushion, and a story award</description><link>https://arbron.github.io/adventure-items/adventures/wbw-pr</link><pubDate>Wed, 22 Sep 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>Lost Things</h1>
 <h3>
 A 2 Hour Season 11 Adventure for Tier 1
   <em class="release">Released on September 22, 2021</em></h3>
@@ -58,11 +58,111 @@ A 2 Hour Season 11 Adventure for Tier 1
 Travis Woodall
     <b>
       <em>Designer</em>
+    </b></li>
+  <li>
+Stacey Allan
+    <b>
+      <em>Designer</em>
+    </b></li>
+  <li>
+Will Doyle
+    <b>
+      <em>Designer</em>
+    </b></li>
+  <li>
+Ma’at Crook
+    <b>
+      <em>Sensitivity Lead</em>
+    </b></li>
+  <li>
+Jessica Paitt
+    <b>
+      <em>Adaptation Editing</em>
+    </b></li>
+  <li>
+Meagan Kenreck
+    <b>
+      <em>Adaptation Art Director and Graphic Designer</em>
+    </b></li>
+  <li>
+Stacey Allan
+    <b>
+      <em>Cartographer</em>
+    </b></li>
+  <li>
+Will Doyle
+    <b>
+      <em>Cartographer</em>
+    </b></li>
+  <li>
+Stacey Allan
+    <b>
+      <em>Interior Art</em>
+    </b></li>
+  <li>
+Will Doyle
+    <b>
+      <em>Interior Art</em>
+    </b></li>
+  <li>
+Meagan Kenreck
+    <b>
+      <em>Interior Art</em>
+    </b></li>
+  <li>
+Claudio Pozas
+    <b>
+      <em>Interior Art</em>
+    </b></li>
+  <li>
+Andrew Mar
+    <b>
+      <em>Interior Art</em>
+    </b></li>
+  <li>
+Trish Yochum
+    <b>
+      <em>Interior Art</em>
+    </b></li>
+  <li>
+Katerina Ladon
+    <b>
+      <em>Interior Art</em>
+    </b></li>
+  <li>
+Nikki Dawes
+    <b>
+      <em>Interior Art</em>
+    </b></li>
+  <li>
+Dawn Carlos
+    <b>
+      <em>Interior Art</em>
+    </b></li>
+  <li>
+April Prime
+    <b>
+      <em>Interior Art</em>
+    </b></li>
+  <li>
+Helder Almeida
+    <b>
+      <em>Interior Art</em>
+    </b></li>
+  <li>
+Sidharth Chaturvedi
+    <b>
+      <em>Interior Art</em>
+    </b></li>
+  <li>
+Andrew Mar
+    <b>
+      <em>Interior Art</em>
     </b></li></ul>
 <h2>Items</h2>
 <ul>
   <li>
-    <span>Book of Memory</span>
+    <span>Bookmark of Memory</span>
  
     <em class="entry-label">Common</em></li>
   <li>
@@ -70,7 +170,15 @@ Travis Woodall
  
     <em class="entry-label">Common</em></li>
   <li>
-    <span>Giant Gloves</span>
+    <span>Giant’s Gloves</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+    <span>Pearl of Elocution</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+    <span>Potion of Bubble Breath</span>
  
     <em class="entry-label">Common</em></li>
   <li>
@@ -87,8 +195,10 @@ Travis Woodall
     <em class="entry-label">Common</em></li></ul>
 
 <h2>Story Awards</h2>
-<p class="story-award">With a Hoot and a Growl
-</p>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/wbw-dc-fdc-03</guid><title>WBW-DC-FDC-03 - I Find That Familiar</title><description>Figurine of Wondrous Power (Silver Raven) and a potion</description><link>https://arbron.github.io/adventure-items/adventures/wbw-dc-fdc-03</link><pubDate>Tue, 21 Sep 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>I Find That Familiar</h1>
+<details class="story-award">
+  <summary>With a Hoot and a Growl
+</summary><p>If the characters meet Juniper in chapter 3 of <em>The Wild Beyond the Witchlight</em> adventure, she remembers them on sight and immediately bonds with them. Juniper won’t eat characters with this award, no matter how hungry she might be.</p>
+</details>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/wbw-dc-fdc-03</guid><title>WBW-DC-FDC-03 - I Find That Familiar</title><description>Figurine of Wondrous Power (Silver Raven) and a potion</description><link>https://arbron.github.io/adventure-items/adventures/wbw-dc-fdc-03</link><pubDate>Tue, 21 Sep 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>I Find That Familiar</h1>
 <h3>
 A 4 Hour Dungeoncraft Adventure for Tier 1
   <em class="release">Released on September 21, 2021</em></h3>
@@ -810,6 +920,39 @@ Aviv Or
       <em>Illustration</em>
     </b></li></ul>
 
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/dc-poa-dobu-01-01</guid><title>DC-PoA-DOBU-01-01 - Beneath the Stony Stump</title><description>Grey Bag of Tricks, Masquerade Tattoo, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/dc-poa-dobu-01-01</link><pubDate>Mon, 30 Aug 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>Beneath the Stony Stump</h1>
+<h3>
+A 4 Hour Dungeoncraft Adventure for Tier 1
+  <em class="release">Released on August 30, 2021</em></h3>
+<p>  <em>Adventure Seed: </em>
+I’d Like to Make a Return, Please</p>
+<p>Within the Spine of the World is a flat-topped mountain: the Stony Stump. The fortress within is a den of traps and treasure, curses and creatures, puzzles and perils. Many enter to steal its treasures; some return to put them back.</p>
+
+
+<p>Available on <a href="https://www.dmsguild.com/product/369379/DCPOADOBU0101-Beneath-a-Stony-Stump">Dungeon Masters Guild</a>.</p>
+<h2>Credits</h2>
+<ul class="credits">
+  <li>
+Douglas Bushong
+    <b>
+      <em>Designer</em>
+    </b></li></ul>
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Grey Bag of Tricks</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Masquerade Tattoo</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Walloping Ammunition (Arrow)</span>
+ 
+    <em class="entry-label">Common</em></li></ul>
 
 ]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-drw-09</guid><title>DDAL-DRW-09 - Vile Bounty</title><description>Amulet of Health, Mariner’s Studded Leather, 2 potions, and 5 other items</description><link>https://arbron.github.io/adventure-items/adventures/ddal-drw-09</link><pubDate>Mon, 23 Aug 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>Vile Bounty</h1>
 <h3>
@@ -3978,82 +4121,4 @@ The Muttering Gnome</p>
  
     <em class="entry-label">Common</em></li></ul>
 
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-drw-08</guid><title>DDAL-DRW-08 - The Harrowing of Hell</title><description>Chime of Opening, Oathbow, Scarab of Protection, 4 potions, and 3 legacy events</description><link>https://arbron.github.io/adventure-items/adventures/ddal-drw-08</link><pubDate>Wed, 10 Mar 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>The Harrowing of Hell</h1>
-<h3>
-A 8 Hour Dreams of Red Wizards Adventure for Tier 4
-  <em class="release">Released on March 10, 2021</em></h3>
-
-<p>King Hekaton’s soul is trapped in the Nine Hells—and the characters must brave trials on Avernus, Acheron, and in the mind of the storm giant king to win it back from the Lord of Lies.</p>
-
-<p>Part Six of the <em><a href="https://arbron.github.io/adventure-items//series/storm-kings-descent/">Storm King’s Descent</a></em> series.</p>
-<p>Available on <a href="https://www.dmsguild.com/product/349905/DDALDRW08-The-Harrowing-of-Hell">Dungeon Masters Guild</a>.</p>
-<h2>Credits</h2>
-<ul class="credits">
-  <li>
-Greg Marks
-    <b>
-      <em>Lead Designer</em>
-    </b></li>
-  <li>
-Carl Sibley
-    <b>
-      <em>Designer</em>
-    </b></li>
-  <li>
-Scott Fitzgerald Gray
-    <b>
-      <em>Editing</em>
-    </b></li>
-  <li>
-Rich Lescouflair
-    <b>
-      <em>Art Director &amp; Graphic Designer</em>
-    </b></li>
-  <li>
-Dyson Logos
-    <b>
-      <em>Cartography</em>
-    </b></li>
-  <li>
-Carl Sibley
-    <b>
-      <em>Cartography</em>
-    </b></li></ul>
-<h2>Items</h2>
-<ul>
-  <li>
-    <span>Chime of Opening</span>
- 
-    <em class="entry-label">Rare</em></li>
-  <li>
-    <span>Oathbow</span>
- 
-    <em class="entry-label">Very Rare</em></li>
-  <li>
-    <span>Scarab of Protection</span>
- 
-    <em class="entry-label">Legendary</em></li>
-  <li>
-1 x 
-    <span>Potion of Storm Giant Strength</span>
- 
-    <em class="entry-label">Legendary</em></li>
-  <li>
-3 x 
-    <span>Potion of Vitality</span>
- 
-    <em class="entry-label">Very Rare</em></li></ul>
-
-<h2>Legacy Events</h2>
-<details class="story-award">
-  <summary>Burn, Baby, Burn
-</summary><p>Asmodeus has imprisoned your soul within a <em>soul coin</em> and fed it to an infernal war machine’s engine, destroying your soul instantly. Not even divine intervention can resurrect you now. Your character is permanently retired.</p>
-</details>
-<details class="story-award">
-  <summary>No Exceptions!
-</summary><p>You’ve broken one of Mahadi’s rules for the Wandering Emporium: “No fighting! No spellcasting! No exceptions!” You’ve been kicked out of the emporium, and are banned from ever entering it again.</p>
-</details>
-<details class="story-award">
-  <summary>Knight of the Giant Queen
-</summary><p>You have sworn allegiance to Serissa, the storm giant queen, and have joined her court at Maelstrom. The vow you have sworn to her supersedes all other oaths.</p>
-</details>]]></content:encoded></item></channel></rss>
+]]></content:encoded></item></channel></rss>

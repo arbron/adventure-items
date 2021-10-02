@@ -15,20 +15,72 @@
     - name: Travis Woodall
       role: Designer
       key: true
+    - name: Stacey Allan
+      role: Designer
+    - name: Will Doyle
+      role: Designer
+    - name: Ma’at Crook
+      role: Sensitivity Lead
+    - name: Jessica Paitt
+      role: Adaptation Editing
+    - name: Meagan Kenreck
+      role: Adaptation Art Director and Graphic Designer
+    - name: Stacey Allan
+      role: Cartographer
+    - name: Will Doyle
+      role: Cartographer
+    - name: Stacey Allan
+      role: Interior Art
+    - name: Will Doyle
+      role: Interior Art
+    - name: Meagan Kenreck
+      role: Interior Art
+    - name: Claudio Pozas
+      role: Interior Art
+    - name: Andrew Mar
+      role: Interior Art
+    - name: Trish Yochum
+      role: Interior Art
+    - name: Katerina Ladon
+      role: Interior Art
+    - name: Nikki Dawes
+      role: Interior Art
+    - name: Dawn Carlos
+      role: Interior Art
+    - name: April Prime
+      role: Interior Art
+    - name: Helder Almeida
+      role: Interior Art
+    - name: Sidharth Chaturvedi
+      role: Interior Art
+    - name: Andrew Mar
+      role: Interior Art
   items:
-    - name: Book of Memory
+    - name: Bookmark of Memory
       rarity: common
+      flavor: >-
+        When you open a book bearing this bookmark, you immediately recall every word
+        you’ve previously read from it, with perfect clarity.
     - name: Fold-Up Friend
       rarity: common
       flavor: >-
         While this cut-out parchment character is within 5 feet of you, you can command
-        it to walk, play, dance, or follow you. The fold-up friend cannot take actions
+        it to walk, play, dance, or follow you. The *fold-up friend* cannot take actions
         and cannot manipulate objects. It has AC 12 and 1 hit point.
-    - name: Giant Gloves
+    - name: Giant’s Gloves
       rarity: common
       flavor: >-
         While wearing these oversized gloves, your hands magically expand to fill their
         volume. You gain no benefit from this.
+    - name: Pearl of Elocution
+      rarity: common
+      flavor: >-
+        When you place this pearl underneath your tongue, you perfectly pronounce the
+        words of any language that you can speak.
+    - name: Potion of Bubble Breath
+      rarity: common
+      flavor: >-
+        When drank, the user can exhale colorful bubbles for the next hour.
     - name: Pocket Watch
       rarity: common
       flavor: >-
@@ -56,10 +108,10 @@
         feet must make a DC 11 Wisdom saving throw or break out into fits of laughter.
   storyAwards:
     - name: With a Hoot and a Growl
-  missing:
-    - credits
-    - items
-    - pdf
+      description: >-
+        If the characters meet Juniper in chapter 3 of *The Wild Beyond the Witchlight* 
+        adventure, she remembers them on sight and immediately bonds with them. Juniper
+        won’t eat characters with this award, no matter how hungry she might be.
 
 
 - code: WBW-EP

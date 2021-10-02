@@ -606,11 +606,22 @@
 
 
 - code: DC-PoA-DOBU-01-01
-  name: Beneath the Stoney Stump
+  name: Beneath the Stony Stump
+  description: >-
+    Within the Spine of the World is a flat-topped mountain: the Stony Stump.
+    The fortress within is a den of traps and treasure, curses and creatures,
+    puzzles and perils. Many enter to steal its treasures; some return to put
+    them back.
   adventureSeed: I’d Like to Make a Return, Please
+  released: '2021-08-31'
+  url: 'https://www.dmsguild.com/product/369379/DCPOADOBU0101-Beneath-a-Stony-Stump'
   tier: 1
   length: 4
   apl: 3
+  credits:
+    - name: Douglas Bushong
+      role: Designer
+      key: true
   items:
     - name: Grey Bag of Tricks
       rarity: uncommon

@@ -11,6 +11,15 @@
   tier: 1
   length: 5x1
   apl: 1
+  credits:
+    - name: Rich Lescouflair
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 100-550
   items:
     - name: Alchemist’s fire (flask)
       rarity: common
@@ -72,8 +81,6 @@
         secretly identify themselves to each other. During any of the rare
         social interactions you may have a member of the Ytepka, their starting
         attitude will automatically be friendly.
-  missing:
-    - credits
 
 
 - code: DDAL07-02
@@ -89,6 +96,18 @@
   tier: 2
   length: 5x1
   apl: 5
+  credits:
+    - name: Monica Valentinelli
+      role: Author
+      key: true
+    - name: Shawn Merwin
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 1700-12500
   items:
     - name: Potion of Animal Friendship
       rarity: uncommon
@@ -143,8 +162,6 @@
         their clan. If you are in need and a member of the clan is nearby, they
         provide whatever help they can. The same is expected of you if the clan
         requires assistance.
-  missing:
-    - credits
 
 
 - code: DDAL07-03
@@ -158,9 +175,23 @@
   tier: 1
   length: 2
   apl: 3
+  credits:
+    - name: Ruty Rutenberg
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 1035-1535
   items:
     - name: Quarterstaff, +1
       rarity: uncommon
+      flavor: >-
+        This quarterstaff features a blunted iron hook on one end and is used by
+        dinosaur wranglers to goad ornery beasts in their charge into doing what
+        they’re supposed to. The staff is carved from dark, smooth wood and decorated
+        with feathers.
     - name: Spell Scroll of Ice Knife
       rarity: uncommon
       consumable: true
@@ -179,8 +210,6 @@
         Such a fine victory means only one thing; to be treated to the finest
         modest accommodations to be found in the city for free—maintaining a
         Modest lifestyle for up to 30 days!
-  missing:
-    - credits
 
 
 - code: DDAL07-04
@@ -195,15 +224,28 @@
   tier: 1
   length: 2
   apl: 3
+  credits:
+    - name: Satine Phoenix
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 100-200
   items:
     - name: Goggles of Night
       rarity: uncommon
+      flavor: >-
+        The green-tinted lenses of these goggles are set in frames of platinum and
+        jade and held in place with a broad strap of matte-black leather. When worn,
+        the wearer finds their sense of smell unusually strong, and living creatures
+        they can see are visualized in varying shades of blues, reds, and yellows
+        that correspond to their body’s natural heat.
     - name: Potion of Healing
       rarity: common
       consumable: true
       count: 1
-  missing:
-    - credits
 
 
 - code: DDAL07-05
@@ -218,9 +260,24 @@
   tier: 1
   length: 2
   apl: 3
+  credits:
+    - name: Travis Woodall
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 525
   items:
     - name: Pearl of Power
       rarity: uncommon
+      flavor: >-
+        This bright yellow pearl is set in a ring of black iron and glows with a
+        warm, yellow light. The ring has been fashioned into the shape of a serpent
+        that twists around its wearer’s finger with the pearl clutched in its mouth.
+        While attuned to the pearl, the wearer’s dreams are consumed by darkness with
+        a pair of yellow, serpentine eyes staring at them.
     - name: Potion of Healing
       rarity: common
       consumable: true
@@ -236,8 +293,6 @@
         waking mind. You gain the flaw *“I’ve seen into the future. A future
         where the Night Serpent has come and devoured us all. Nothing matters
         anymore.”*
-  missing:
-    - credits
 
 
 - code: DDAL07-06
@@ -253,9 +308,24 @@
   tier: 2
   length: 2
   apl: 8
+  credits:
+    - name: James Introcaso
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 1450-1750
   items:
     - name: Mace of Smiting
       rarity: rare
+      flavor: >-
+        The once-fine haft of this club has long-since gone to soggy rot; even the
+        leather wrapping its pommel isn’t enough to stop it from soaking through the
+        wearer’s gloves. The adamantine head of the mace is carved to resemble the
+        giant rune *Rün* (ruin). Upon striking a construct with the mace, it unleashes
+        a shower of gold sparks.
     - name: Potion of Poison
       rarity: uncommon
       consumable: true
@@ -266,8 +336,6 @@
         Characters who chose to take the brunt of the bone sphere’s damage or
         drink Crackle’s potion of black ichor in Part 3 become more resistant to
         the effects of the Cyst thanks to their exposure to its necrotic ichor.
-  missing:
-    - credits
 
 
 - code: DDAL07-07
@@ -284,11 +352,24 @@
   tier: 2
   length: 2
   apl: 8
+  credits:
+    - name: Lysa Chen
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 1850
   items:
     - name: Rope of Entanglement
       rarity: rare
-  missing:
-    - credits
+      flavor: >-
+        This rope is fashioned from a 30-foot length of wilted, thorny vine. Upon
+        entangling a creature that isn’t undead or a construct, the thorns dig into
+        its target’s flesh and appear to feed—the vine grows green, its leaves
+        become full and vibrant, and colorful, aromatic flowers blossom along
+        its length.
 
 
 - code: DDAL07-08
@@ -303,9 +384,24 @@
   tier: 2
   length: 2
   apl: 8
+  credits:
+    - name: Cindy Moore
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 1600
   items:
     - name: Staff of the Woodlands
       rarity: rare
+      flavor: >-
+        This item has been meticulously trimmed and tended to in such a way that it
+        appears to be a smaller version of one of the immense jungle trees in Chult.
+        The staff’s creator even went so far as to create a small diorama of what
+        looks like a tiny village in the upper reaches of the staff’s branches—complete
+        with tiny, string bridges connecting tiny, straw houses.
     - name: Holy water (flask)
       rarity: common
       consumable: true
@@ -318,8 +414,6 @@
       rarity: uncommon
       consumable: true
       count: 1
-  missing:
-    - credits
 
 
 - code: DDAL07-09
@@ -335,15 +429,31 @@
   tier: 3
   length: 4
   apl: 13
+  credits:
+    - name: Dan Dillon
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 5712-6200
   items:
     - name: Bitter Wrath (Frost Brand Rapier)
       rarity: veryRare
+      flavor: >-
+        This extraordinary weapon is crafted from a single piece of ice with a
+        pommel wrapped in braided leaves. If wielded in temperatures in excess
+        of 90 degrees, rivulets of water run down its blade—soaking the hand
+        holding it. Despite this, it never melts away.
     - name: Potion of Greater Healing
       rarity: uncommon
       consumable: true
       count: 2
     - name: Potion of Speed
       rarity: veryRare
+      flavor: >-
+        This potion is contained in a wax-sealed stone vial carved with snake motifs.
       consumable: true
       count: 1
   storyAwards:
@@ -352,8 +462,6 @@
         You bartered away your own beauty to the Blackwater Three in exchange
         for secret knowledge. Something about you, be it physical or spiritual,
         becomes twisted and hideous.
-  missing:
-    - credits
 
 
 - code: DDAL07-10
@@ -369,9 +477,23 @@
   tier: 3
   length: 4
   apl: 13
+  credits:
+    - name: James J. Haeck
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 12220
   items:
     - name: Krahharuan Fork (Pike, +3)
       rarity: veryRare
+      flavor: >-
+        Forged of black, pitted iron, the haft of this double-tined pike is wrapped
+        in the supple hide of a young red dragon. Wisps of black smoke stream from
+        a glowing red stone at the butt of the weapon only to drift away on an
+        unseen breeze.
     - name: Potion of Resistance (Fire)
       rarity: uncommon
       consumable: true
@@ -380,8 +502,6 @@
       rarity: rare
       consumable: true
       count: 1
-  missing:
-    - credits
 
 
 - code: DDAL07-11
@@ -396,9 +516,24 @@
   tier: 3
   length: 4
   apl: 13
+  credits:
+    - name: Benoit de Bernardy
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 27800
   items:
     - name: Love’s Bite (Nine Lives Stealer)
       rarity: veryRare
+      flavor: >-
+        The blade of this elegantly-curved longsword is fashioned of silvery-blue
+        steel gilt in gold. A strip of delicate paper hangs from the pommel, upon
+        which is inscribed a breathtakingly beautiful poem. When the wielder scores
+        a critical hit with the weapon, its heart is filled with the agonizing ache
+        of spurned love.
     - name: Potion of Giant Strength (Fire)
       rarity: rare
       consumable: true
@@ -416,8 +551,6 @@
         In addition, lifestyle costs and the gp costs of any spellcasting
         services received from the temples within the city are doubled while
         adventuring within Chult.
-  missing:
-    - credits
 
 
 - code: DDAL07-12
@@ -434,17 +567,31 @@
   tier: 3
   length: 4
   apl: 13
+  credits:
+    - name: Christopher M. Sniezak
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 5800
   items:
     - name: Staff of Striking
       rarity: veryRare
+      flavor: >-
+        This staff appears wholly unexceptional. The wood haft is gnarled and
+        irregular, and the thin strip of leather wrapped around its midpoint is
+        frayed and cracked. When rapidly spun in the hands of a skilled user,
+        the staff creates a buzzing drone audible to all within 100 feet. If
+        spun for more than a few moments, the drone turns into a sonorous,
+        chanted prayer to Ubtao.
   storyAwards:
     - name: Nightmare Warrior
       description: >-
         Characters who go through the void and deal with facing their fears
         become more resistant to attacks against their dreams and fears in the
         future.
-  missing:
-    - credits
 
 
 - code: DDAL07-13
@@ -461,9 +608,25 @@
   tier: 3
   length: 4
   apl: 13
+  credits:
+    - name: Robert Alaniz
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 9500
   items:
     - name: Wand of Polymorph
       rarity: veryRare
+      flavor: >-
+        Having this wand on one’s person causes fits of restless sleep—where the
+        owner’s nights are filled with wonderful dreams of soaring above the
+        canopy on wide, feathered wings; burrowing among the roots of immense
+        trees with wide, thick claws; and the other goings on that jungle
+        critters seem to enjoy so much. Aside from this, the slender, foot-long
+        length of grey stone is otherwise unexceptional.
     - name: Potion of Flying
       rarity: veryRare
       consumable: true
@@ -489,8 +652,6 @@
         make it out in their head. However, they are sure to recognize it
         immediately if heard or read. This verse haunts you until you know
         it completely.
-  missing:
-    - credits
 
 
 - code: DDAL07-14
@@ -507,9 +668,23 @@
   tier: 3
   length: 4
   apl: 13
+  credits:
+    - name: Eric Menge
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 5800
   items:
     - name: The Mask of Wompona Yarp (Helm of Brilliance)
       rarity: veryRare
+      flavor: >-
+        This monstrous batiri goblin mask is made of lacquered wood and its gems
+        carved to resemble numerous unblinking eyes. When a gem is used, the
+        surrounding wood closes around it like an eyelid. When found, the helm
+        has 6 diamonds, 5 rubies, 17 fire opals, and 34 opals.
     - name: Spell Scroll of Comprehend Languages
       rarity: common
       consumable: true
@@ -527,8 +702,6 @@
         which was ruled by Rhaugilath. This book would be of great interest to a
         sage of ancient history and could be used to gain access to the great
         library at Candlekeep.
-  missing:
-    - credits
 
 
 - code: DDAL07-15
@@ -543,9 +716,26 @@
   tier: 4
   length: 4
   apl: 18
+  credits:
+    - name: Iam Pace
+      role: Author
+      key: true
+    - name: William Murakami-Brundage
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 137000
   items:
     - name: Efreeti Chain
       rarity: legendary
+      flavor: >-
+        The efreeti Prince Rashidi al-Zahar ibn Rath transmogrified an efreeti
+        sultana into this delicate suit of crimson chain mail. The wearer of this
+        armor always feels a slight draft, and sometimes finds it hard to stay
+        focused on a task.
     - name: Potion of Flying
       rarity: veryRare
       consumable: true
@@ -570,8 +760,6 @@
         You captured part of the *Soulmonger’s* energy within a magic opal
         pendant taken from a Thayan zulkir. At some point in the future, you and
         your allies will need to deal with this nefarious device permanently.
-  missing:
-    - credits
 
 
 - code: DDAL07-16
@@ -588,9 +776,23 @@
   tier: 4
   length: 4
   apl: 18
+  credits:
+    - name: Alexander Lindsay
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 30000
   items:
     - name: Vorpal Sword (Scimitar)
       rarity: legendary
+      flavor: >-
+        This blade now hums and vibrates with great energy, and slices through
+        obstacles with the greatest of ease. If the sword does not claim the life
+        of a sentient creature each day, you find that are easily angered and
+        become frustrated by even the smallest obstacles.
     - name: Potion of Speed
       rarity: veryRare
       consumable: true
@@ -605,8 +807,6 @@
         You captured part of the *Soulmonger’s* energy within a magic opal
         pendant taken from a Thayan zulkir. At some point in the future, you and
         your allies will need to deal with this nefarious device permanently.
-  missing:
-    - credits
 
 
 - code: DDAL07-17
@@ -622,9 +822,23 @@
   tier: 4
   length: 4
   apl: 18
+  credits:
+    - name: Robert Adducci
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 48000
   items:
     - name: Staff of the Magi
       rarity: legendary
+      flavor: >-
+        Hewn from the bedrock of Chult itself, this mighty stone staff offers
+        tremendous magical power—and all it asks is that you honor Ubtao in the
+        process. Though it is crafted of stone, the staff is surprisingly light
+        and easy to use.
     - name: Arrows, +2
       rarity: rare
       consumable: true
@@ -636,8 +850,6 @@
   storyAwards:
     - name: Atropal in a Cage
       description: You have a portion of an atropal safely stored in a opal amulet.
-  missing:
-    - credits
 
 
 - code: DDAL07-18
@@ -651,9 +863,22 @@
   tier: 4
   length: 4
   apl: 18
+  credits:
+    - name: Greg Marks
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 48000
   items:
     - name: Scarab of Protection
       rarity: legendary
+      flavor: >-
+        This pin is carved in the likeness of Moa the Jaculi, trickster god of Omu.
+        While you wear this scarab, you are hidden from scrying while you sleep but
+        if you ever tell a lie the scarab becomes unattuned.
     - name: Potion of Flying
       rarity: veryRare
       consumable: true
@@ -683,8 +908,6 @@
         sun and crush the world in her coils. Even if there was some way to come
         back from that horrific death, there is no world to come back to. Your
         character is permanently retired.
-  missing:
-    - credits
 
 
 - code: DDEP07-01
@@ -699,19 +922,56 @@
   tier: [1, 2]
   length: 3
   apl: [3, 8]
+  credits:
+    - name: Will Doyle
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+    - name: Ariel Thomas
+      role: Special Thanks
+  gold: 3580-12430
   items:
     - name: Cloak of the Bat
       rarity: rare
+      flavor: >-
+        This leathery cloak is made of the small, green scales of a pteranodon.
+        When attuned to, the wearer gains a powerful appetite for fish.
     - name: Eversmoking Bottle
       rarity: uncommon
+      flavor: >-
+        This bottle of spun glass is decorated with images of battling dragons
+        and giants—trampling the homes and lives of small folk underfoot. When
+        the stopper is removed, the smoke smells of burning wood and flesh and
+        is accompanied by the sound of weeping.
     - name: Leather Armor, +1
       rarity: rare
+      flavor: >-
+        This sealskin suit is embroidered with octopuses that squirm magically
+        when exposed to the air. If worn underwater, the wearer gains advantage
+        on checks made to escape grappling.
     - name: Shortsword, +1
       rarity: uncommon
+      flavor: >-
+        This weapon has a basket hilt is forged to resemble a woman draped in
+        kelp and nets—similar in appearance to that of a ship’s figurehead. When
+        used in battle, the woman sings a rather obscene sea shanty audible to
+        anyone within 30 feet.
     - name: Staff of the Woodlands
       rarity: rare
+      flavor: >-
+        This item has been meticulously trimmed and tended to in such a way that
+        it appears to be a smaller version of one of the immense jungle trees in
+        Chult. The staff’s creator even went so far as to create a small diorama
+        of what looks like a tiny village in the upper reaches of the staff’s
+        branches—complete with tiny, string bridges connecting tiny, straw houses.
     - name: Trident, +1
       rarity: uncommon
+      flavor: >-
+        This rusted weapon is crusted over in barnacles and draped in wet seaweed.
+        Its wielder can hold their breath underwater for twice the normal duration.
     - name: Alchemist’s fire (flask)
       rarity: common
       consumable: true
@@ -833,8 +1093,6 @@
         to 100gp using his Sleight of Hand skill bonus of +4. Uku keeps 10% of
         the takings, which he spends on boiled sweets next time you’re in town.
       type: pet
-  missing:
-    - credits
 
 
 - code: DDEP07-02
@@ -849,29 +1107,68 @@
   tier: [1, 2, 3, 4]
   length: 3
   apl: [3, 8, 13, 18]
+  credits:
+    - name: Will Doyle
+      role: Author
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 375-19500
   items:
     - name: Half Plate, +2
       rarity: veryRare
+      flavor: >-
+        This armor is made of thin plates of rune- engraved stone. While worn,
+        the wearer becomes proficient in the Dwarven language.
     - name: Headband of Intellect
       rarity: uncommon
+      flavor: >-
+        This broad circlet is set with a single, lusterless grey stone—into which
+        has been engraved a sigil of unknown meaning. When worn, you gain the flaw
+        *“I know everything, and nothing makes me happier than letting people know.”*
     - name: Mantle of Spell Resistance
       rarity: rare
+      flavor: >-
+        Small, palm-sized mirrors have been sewn into the outside of this heavy
+        woolen cloak. Occasionally, the mirrors reflect the image of a strange,
+        bedraggled man in a black cloak looking back at those who view it.
     - name: Ring of Evasion
       rarity: rare
+      flavor: >-
+        This ring of dark wood drips thick, viscous oil that soaks through even
+        the thickest gloves.
     - name: Ring of Jumping
       rarity: uncommon
+      flavor: >-
+        This ring is fashioned of a dozen grasshopper wings meticulously stitched
+        together with fine, silver wire. When used, the wearer emits a chirping
+        noise that is audible within 30 feet.
     - name: Spellguard Shield
       rarity: veryRare
+      flavor: >-
+        This shield is fashioned from a single piece of flawless crystal with
+        straps of supple leather.
     - name: Tome of Clear Thought
       rarity: veryRare
     - name: Tome of Leadership and Influence
       rarity: veryRare
     - name: Wand of Lightning Bolts
       rarity: rare
+      flavor: >-
+        This slender glass wand is wrapped in a tight coil of thin copper wire.
+        When used, the wielder’s hair stands up on end.
     - name: Wand of Polymorph
       rarity: veryRare
+      flavor: >-
+        This wand is made of what appears to be the skeletal finger of some
+        unusually-large humanoid. When wielded, it occasionally flexes and twitches.
     - name: Wand of the War Mage, +3
       rarity: veryRare
+      flavor: >-
+        This thick wand is made of polished steel with a weapon-like pommel,
+        and can be wielded in combat like a mace.
   storyAwards:
     - name: Blessed of Ubtao
       description: >-
@@ -904,6 +1201,3 @@
         plague ravaging Chult. Your exposure to the antidote has hardened your
         immune system against disease. You have advantage on saving throws made
         to resist disease.
-  missing:
-    - credits
-

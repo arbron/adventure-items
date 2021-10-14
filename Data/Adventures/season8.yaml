@@ -158,6 +158,8 @@
   items:
     - name: Hat of Disguise
       rarity: uncommon
+      properties:
+        - Language
       flavor: >-
         The entire length of this broad, red-silk ribbon is embroidered in gold
         thread. While wearing it, the wearer can read and understand, but not
@@ -190,7 +192,7 @@
       role: Development and Editing
     - name: Rich Lescouflair
       role: Art Director and Graphic Designer
-  gold: 
+  gold: 0
   items:
     - name: Ring of Mind Shielding
       rarity: uncommon
@@ -232,6 +234,8 @@
   items:
     - name: Javelin of Lightning
       rarity: uncommon
+      properties:
+        - Sentinel
       flavor: >-
         This javelin glows an angry red when within 120 feet of a troll.
 
@@ -470,6 +474,8 @@
   items:
     - name: Glamoured Studded Leather
       rarity: rare
+      properties:
+        - Strange Material
       flavor: >-
         This armor is made of salmon leather that has been dyed midnight black. While
         wearing this armor, you cannot become wet unless fully immersed in a liquid.
@@ -561,6 +567,8 @@
   items:
     - name: Staff of Withering
       rarity: rare
+      properties:
+        - Strange Material
       flavor: >-
         This staff is made of human bones wrapped in mithral wire. Whenever a charge
         is expended your eye alight with cosmetic black flames for a round.
@@ -635,7 +643,8 @@
         feel only rage.
   storyAwards:
     - name: Marked by Shar
-      description: Followers of Shar are always initially hostile to the characters.
+      description: >-
+        Followers of Shar are always initially hostile to the characters.
     - name: Scholar of Vanrakdoom
       description: >-
         This adventure has awakened in an interest in Vanrakdoom and Vanrak
@@ -667,6 +676,8 @@
   items:
     - name: Plate Armor of Etherealness
       rarity: legendary
+      properties:
+        - Language
       flavor: >-
         This armor has a holy symbol of Shar forged into the breastplate. It also
         looks dim and reflects light poorly. While you wear it, you can speak and
@@ -751,6 +762,8 @@
   items:
     - name: Rod of Resurrection
       rarity: legendary
+      properties:
+        - Sentinel
       flavor: >-
         This rod is engraved with sun symbols and bejeweled with faceted citrines.
         It glows equal to a torch when within 100 ft. of undead.
@@ -810,7 +823,7 @@
       flavor: >-
         This non-descript, rust-colored bag is covered with patches, each sewn on
         by a different hand. When the bag is opened, a small puff of dust and a
-        pair of moths fly out
+        pair of moths fly out.
     - name: Folding Boat
       rarity: rare
       flavor: >-

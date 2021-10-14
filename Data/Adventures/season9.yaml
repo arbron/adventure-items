@@ -12,6 +12,21 @@
   tier: 1
   length: 4x1
   apl: 1
+  credits:
+    - name: Rich Lescouflair
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Mike Schley
+      role: Cartography
+    - name: Rich Lescouflair
+      role: Cartography
+  gold: 0
   items:
     - name: Amulet of Proof Against Detection and Location
       rarity: uncommon
@@ -20,8 +35,6 @@
       description: >-
         You have spared the murderer, Vollis, in the hopes that she will be
         brought to justice upon arriving in Baldur’s Gate.
-  missing:
-    - credits
 
 
 - code: DDAL09-02
@@ -38,9 +51,28 @@
   tier: 1
   length: 2-4
   apl: 3
+  credits:
+    - name: Andrew Bishkinskyi
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Eyes of the Eagle
       rarity: uncommon
+      flavor: >-
+        These goggles are made of leather and have lenses of dark red crystal.
+        Their frame is emblazoned with the emblem of the Hellriders: a horse’s
+        head superimposed upon a sunburst. Additionally, when looking through
+        these goggles, tiny illusory flames can be seen dancing around the edges
+        of the lenses when within 120 feet of a demon.
     - name: Potion of Healing
       rarity: common
       consumable: true
@@ -49,8 +81,6 @@
       rarity: uncommon
       consumable: true
       count: 1
-  missing:
-    - credits
 
 
 - code: DDAL09-03
@@ -66,15 +96,32 @@
   tier: 1
   length: 2-4
   apl: 3
+  credits:
+    - name: Justin Donie
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Travis Woodall
+      role: Cartography
+  gold: 0
   items:
     - name: Gloves of Thievery
       rarity: uncommon
+      flavor: >-
+        These gloves are made of exquisite red silk with gold and silver embroidery
+        along the fingers. The fabric at the fingertips is very thin, granting the
+        wearer more sensitivity for more delicate work.
     - name: Scroll of Protection (Fiends)
       rarity: rare
       consumable: true
       count: 1
-  missing:
-    - credits
 
 
 - code: DDAL09-04
@@ -88,9 +135,27 @@
   tier: 1
   length: 2-4
   apl: 3
+  credits:
+    - name: M.T. Black
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Travis Woodall
+      role: Cartography
+  gold: 0
   items:
     - name: Periapt of Health
       rarity: uncommon
+      flavor: >-
+        This charm consists of an irregularly shaped emerald hanging from a thick
+        silver chain.
     - name: Potion of Healing
       rarity: common
       consumable: true
@@ -103,8 +168,6 @@
       rarity: uncommon
       consumable: true
       count: 1
-  missing:
-    - credits
 
 
 - code: DDAL09-05
@@ -121,9 +184,26 @@
   tier: 2
   length: 4-6
   apl: 8
+  credits:
+    - name: Ted Atkinson
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Gem of Seeing
       rarity: rare
+      flavor: >-
+        While looking through this unusual cut-gemstone monocle, the wearer can
+        perceive the relative value of an item to its owner (monetary, sentimental,
+        or otherwise).
     - name: Potion of Invulnerability
       rarity: rare
       consumable: true
@@ -140,8 +220,6 @@
         Mahadi’s emporium. Now you must survive in the wastes without its safe
         shelter. You start any tier 2 Avernus Rising adventure at half hit
         points and with a level of exhaustion that can’t be removed.
-  missing:
-    - credits
 
 
 - code: DDAL09-06
@@ -158,11 +236,31 @@
   tier: 2
   length: 4-6
   apl: 8
+  credits:
+    - name: The GM Tim
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Chad Wild
+      role: Art and Cartography
+  gold: 0
   items:
-    - name: Arrow of Slaying (Tiefling)
+    - name: Bullet of Slaying (Tiefling)
       rarity: veryRare
     - name: Glamoured Studded Leather
       rarity: rare
+      properties:
+        - Strange Material
+      flavor: >-
+        Made from tough yet flexible giant abyssal crocodile hide leather, studded
+        with what look to be teeth to make it studded leather.
     - name: Potion of Giant Strength (Fire)
       rarity: rare
       consumable: true
@@ -185,8 +283,6 @@
         mere mortals could strike a blow at the fiendish forces has struck
         concern, fear, and spite into the minds of the fiends in the area. Your
         rumors precede you…are they true?
-  missing:
-    - credits
 
 
 - code: DDAL09-07
@@ -201,9 +297,26 @@
   tier: 2
   length: 4-6
   apl: 8
+  credits:
+    - name: James J. Haeck
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Bowl of Commanding Water Elementals
       rarity: rare
+      flavor: >-
+        It is ringed with Infernal script and inlaid with rubies. When filled with
+        water from the River Styx, it can conjure a water elemental that can carry
+        other creatures safely through the waters of the Styx.
     - name: Potion of Invisibility
       rarity: rare
       consumable: true
@@ -224,8 +337,6 @@
         aren’t good people themselves, you know how the saying goes: the enemy
         of my enemy is my friend. This Story Award will affect the later Tier 4
         adventures.
-  missing:
-    - credits
 
 
 - code: DDAL09-08
@@ -243,9 +354,27 @@
   tier: 2
   length: 4-6
   apl: 8
+  credits:
+    - name: Cameron Blair
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Arrow-Catching Shield
       rarity: rare
+      flavor: >-
+        This round, metal shield is decorated with braids of hair from the unicorn
+        Zhalruban and emblazoned with the insignia of the Hellriders on the boss
+        of the shield. The boss itself pulses with magic when the shield attracts
+        ranged attacks.
     - name: Golden Fruit (Potion of Healing)
       rarity: common
       consumable: true
@@ -278,8 +407,6 @@
         As you travel through the depths and dangers of Avernus you will
         always find a haven from devils and other adversaries amongst the
         trees of Bloodroot Grove.
-  missing:
-    - credits
 
 
 - code: DDAL09-09
@@ -294,9 +421,25 @@
   tier: 2
   length: 4-6
   apl: 8
+  credits:
+    - name: Cat Evans
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Heward’s Handy Haversack
       rarity: rare
+      flavor: >-
+        This specific haversack is made of white leather, and a label on the
+        inside reads “Kelda Ironbelly” in dwarvish script.
     - name: Bolts, +2
       rarity: rare
       consumable: true
@@ -309,8 +452,6 @@
       rarity: uncommon
       consumable: true
       count: 1
-  missing:
-    - credits
 
 
 - code: DDAL09-10
@@ -326,9 +467,26 @@
   tier: 2
   length: 4-6
   apl: 8
+  credits:
+    - name: Mellanie Black
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Ring of Free Action
       rarity: rare
+      flavor: >-
+        This ring is fashioned from a single piece of bone-white chalk. While
+        worn, the wearer feels fleeting pangs of nausea when around food or
+        other situations where strong odors are present.
     - name: Potion of Heroism
       rarity: rare
       consumable: true
@@ -345,8 +503,6 @@
       rarity: uncommon
       consumable: true
       count: 1
-  missing:
-    - credits
 
 
 - code: DDAL09-11
@@ -361,6 +517,19 @@
   tier: 2
   length: 4-6
   apl: 8
+  credits:
+    - name: James Introcaso
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Staff of Charming
       rarity: rare
@@ -402,8 +571,6 @@
         Mahadi’s emporium. Now you must survive in the wastes without its safe
         shelter. You start any tier 2 Avernus Rising adventure at half hit
         points and with a level of exhaustion that can’t be removed.
-  missing:
-    - credits
 
 
 - code: DDAL09-12
@@ -419,9 +586,29 @@
   tier: 3
   length: 4-6
   apl: 13
+  credits:
+    - name: Jared Fegan
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Cloak of Arachnida
       rarity: veryRare
+      properties:
+        - Guardian
+      flavor: >-
+        This cloak has been in Avernus for ages and been worn in constant conflict.
+        While actively using any properties of the item, the bearer experiences a
+        harmless flash of pain. In addition, the cloak whispers warnings to its
+        bearer, granting a +2 bonus to initiative if the bearer isn’t incapacitated.
     - name: Potion of Giant Strength (Fire)
       rarity: rare
       consumable: true
@@ -459,8 +646,6 @@
         *simulacrum* in any way earn this story award. If the characters provide
         Galabraga a new *simulacrum* and 5 *soul coins* for their insolence as
         well as her pain and suffering, may remove the story award.
-  missing:
-    - credits
 
 
 - code: DDAL09-13
@@ -476,6 +661,19 @@
   tier: 3
   length: 4-6
   apl: 13
+  credits:
+    - name: Bianca Bickford
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Broom of Flying
       rarity: uncommon
@@ -509,8 +707,6 @@
         rest in the Wandering Emporium. Griditch is willing to run errands for
         the characters by purchasing items at cost in the Material Plane and
         returning with them within a few hours if they provide the coin.
-  missing:
-    - credits
 
 
 - code: DDAL09-14
@@ -526,11 +722,39 @@
   tier: 3
   length: 4-6
   apl: 13
+  credits:
+    - name: Travis Woodall
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Travis Woodall
+      role: Cartography
+    - name: Jon Christian
+      role: Interior Art
+  gold: 0
   items:
     - name: Belt of Stone Giant Strength
       rarity: veryRare
+      properties:
+        - War Leader
+      flavor: >-
+        This belt is made of iron plates riveted to a wide belt of burnished leather,
+        and buckled with a series of straps gilt in polished steel. While worn, you
+        can use an action to cause your voice to carry clearly for up to 300 feet
+        until the end of your next turn.
     - name: Wand of Secrets
       rarity: uncommon
+      flavor: >-
+        This slender wand appears to have been fashioned from a human fibula. One
+        end of the wand is wrapped in blood- soaked cord which stains the hands of
+        those who hold it.
     - name: Potion of Superior Healing
       rarity: rare
       consumable: true
@@ -581,8 +805,6 @@
         a long-lost temple to Ilmater. With the protection they afford, Dara
         stands a much better chance of surviving her ordeal in the Canyon of
         Screams.
-  missing:
-    - credits
 
 
 - code: DDAL09-15
@@ -598,18 +820,35 @@
   tier: 3
   length: 4-6
   apl: 13
+  credits:
+    - name: Jessica Ross
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Helm of Telepathy
       rarity: uncommon
+      flavor: >-
+        This helm once belonged to Nyave, Sir Gidor’s closest and most trusted friend.
     - name: Red Dragon Scale Male
       rarity: veryRare
+      flavor: >-
+        This was once the armor of Carmine, an orc paladin of the Bloody Hooves. She
+        didn’t survive into the final set of caverns to have her soul entombed to
+        wait for Zariel’s return.
   storyAwards:
     - name: Faith and Trust
       description: >-
         You’ve successfully retrieved the wards of faithfulness from the resting
         place of the Bloody Hooves.
-  missing:
-    - credits
 
 
 - code: DDAL09-16
@@ -623,6 +862,19 @@
   tier: 3
   length: 4-6
   apl: 13
+  credits:
+    - name: Deirdre Donlon
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Fochlucan Bandore (Instrument of the Bards)
       rarity: uncommon
@@ -648,8 +900,6 @@
         In future adventures that she’s featured in, your group uses the average
         number of deaths among the characters for determining how many abilities
         she has lost.
-  missing:
-    - credits
 
 
 - code: DDAL09-17
@@ -663,6 +913,22 @@
   tier: 3
   length: 4-6
   apl: 13
+  credits:
+    - name: Ben Heisler
+      role: Designer
+      key: true
+    - name: Paige Leitman
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Bag of Holding
       rarity: uncommon
@@ -696,8 +962,6 @@
         died and are reborn in any location of your choice in Faerûn that has a
         temple to Torm, and the next time you die, you gain this benefit as well
         (as if a greater resurrection).
-  missing:
-    - credits
 
 
 - code: DDAL09-18
@@ -714,6 +978,19 @@
   tier: 3
   length: 4-6
   apl: 13
+  credits:
+    - name: Claire Hoffman
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Oathbow
       rarity: veryRare
@@ -755,8 +1032,6 @@
       description: >-
         You failed to keep Dara alive during this adventure. This impacts her
         abilities when next you meet! How many times did she die? \_\_\_\_\_\_\_
-  missing:
-    - credits
 
 
 - code: DDAL09-19
@@ -771,6 +1046,19 @@
   tier: 4
   length: 4-6
   apl: 18
+  credits:
+    - name: Will Doyle
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Will Doyle
+      role: Cartography
+  gold: 0
   items:
     - name: Scarab of Protection
       rarity: legendary
@@ -817,8 +1105,6 @@
       description: >-
         You failed to keep Dara alive during this adventure. This impacts her
         abilities when next you meet! How many times did she die? \_\_\_\_\_\_\_
-  missing:
-    - credits
 
 
 - code: DDAL09-20
@@ -832,11 +1118,32 @@
   tier: 4
   length: 4-6
   apl: 18
+  credits:
+    - name: Greg Marks
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Hannah Rose
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Toni Winslow-Brill
+      role: Special Thanks
+  gold: 0
   items:
     - name: Deathshield (Defender, Greatsword)
       rarity: legendary
+      flavor: >-
+        This defender is a greatsword and is made out of crude black iron. Inscribed
+        upon the blade in Abyssal is the name *Deathshield*.
     - name: Rod of the Pact Keeper, +2
       rarity: rare
+      flavor: >-
+        This rod has an opal carved like a clawed fist clutching a skull at its tip.
+        The haft is covered in the names of angels, written backwards in Infernal.
     - name: Potion of Flying
       rarity: veryRare
       consumable: true
@@ -884,8 +1191,6 @@
         make all Charisma checks against fiends at disadvantage. In addition,
         they no longer answer your call. All spells or abilities that summon a
         devil automatically fail.
-  missing:
-    - credits
 
 
 - code: DDEP09-01
@@ -898,13 +1203,34 @@
   tier: [1, 2]
   length: 4
   apl: [3, 8]
+  credits:
+    - name: Will Doyle
+      role: Designer
+      key: true
+    - name: James Introcaso
+      role: Designer
+      key: true
+    - name: Shawn Merwin
+      role: Designer
+      key: true
+  gold: 0
   items:
     - name: Helm of Telepathy
       rarity: uncommon
+      flavor: >-
+        This cruel helm has been crafted to look like the screaming face of a devil.
+        It’s always warm to the touch, and when you wear it you hear devilish
+        whisperings that you can never quite discern.
     - name: Mantle of Spell Resistance
       rarity: rare
+      flavor: >-
+        This sleeveless shawl is made from the stitched skin of many demons and devils.
     - name: Necklace of Adaptation
       rarity: uncommon
+      flavor: >-
+        The pendant of this necklace is an ovoid puzzle box of jagged black metal
+        that screeches as it is operated. To activate the item, the puzzle box must
+        be manipulated into a new configuration.
     - name: Soul Coin
       rarity: uncommon
       consumable: true
@@ -930,8 +1256,6 @@
         claims your soul and subjects it to an eternity of torment. The only way
         you can be restored to life is via a wish or true resurrection spell,
         after which you can remove this award.
-  missing:
-    - credits
 
 
 - code: DDEP09-02
@@ -945,9 +1269,42 @@
   released: '2019-11-01'
   tier: [1, 2]
   length: 4
+  credits:
+    - name: Alan Patrick
+      role: Designer
+      key: true
+    - name: Rich Lescouflair
+      role: Designer
+      key: true
+    - name: Chris Lindsay
+      role: Editing
+  gold: 0
   items:
-    - name: Hellrider’s Badge
+    - name: Hellrider’s Badge - Klysandral’s Champion
       rarity: rare
+      flavor: |-
+        *Wondrous item, rare (requires attunement by someone designated by Duke
+        Ulder Ravengard)*
+
+        A Hellrider’s Badge is only usable by a member of the Hellriders, and thanks
+        to your efforts during Klysandral’s funeral and the subsequent escape from
+        Avernus you have been awarded honorary membership by Duke Ulder Ravengard
+        himself. This badge marks you as a lieutenant in the Hellriders.
+
+        While wearing the badge, you gain a +2 bonus to AC if you aren’t using a shield.
+        If the badge is more than 5 feet away from you for more than one minute, it
+        vanishes and harmlessly reappears on a surface within 5 feet of Duke Ravengard. 
+        While holding the badge, the Duke know your location, provided the two of you
+        are on the same plane of existence and your attunement to the badge hasn’t ended.
+
+        As an action, the Duke can touch the badge and end your attunement to it, as he
+        has been granted this power by Elturel despite not being a Hellrider himself.
+
+        **Special**
+
+        If you wish to take the Hellriders or Flaming Fist as your faction, you may do so. 
+        Additionally, this badge is made from the bones of Klysandral himself, counts as a
+        holy reliquary, and may be used as a holy symbol of Torm if needed.
     - name: Burnt Othur Fumes (Inhaled)
       rarity: common
       consumable: true
@@ -1014,8 +1371,6 @@
         | 3 Hit Dice | You may spend a bonus action to turn devils that are faithful to Zariel as if they were undead and you were using the Channel Divinity: Turn Undead cleric class feature. This has no effect on other creatures, or on devils that are devoted to an archdevil other than Zariel. You do not need to be a cleric to use this ability, nor do you need to wield a holy symbol—when you perform this profane rite, Bel’s sigil materializes above your head and glows with purple light. |
         | 5 Hit Dice | Bel delivers one common or uncommon permanent magic item to you. This item does not count against your magic item limit, and you may use this item for one hour at which time it crumbles to dust as it is reclaimed by the archdevil. |
         | 8 Hit Dice | Bel delivers one rare magic permanent magic item to you, or one uncommon consumable magic item. This item does not count against your magic item limit, and you may use this item for one hour at which time it crumbles to dust as it is reclaimed by the archdevil. |
-  missing:
-    - credits
 
 
 - code: DDEP09-03
@@ -1032,11 +1387,23 @@
   released: '2019-11-01'
   tier: [1, 2]
   length: 4
+  credits:
+    - name: Elisa Teague
+      role: Designer
+      key: true
+    - name: Chris Lindsay
+      role: Designer
+      key: true
+    - name: Chris Lindsay
+      role: Development/Editing
+    - name: Chris Lindsay
+      role: Cartography
+    - name: Travis Woodall
+      role: Cartography
+  gold: 0
   items:
     - name: Cloak of the Bat
       rarity: rare
     - name: Hat of Disguise
       rarity: uncommon
-  missing:
-    - credits
 

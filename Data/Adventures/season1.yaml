@@ -636,6 +636,8 @@
   items:
     - name: Splint Armor, +1
       rarity: rare
+      properties:
+        - Sentinel
       flavor: >-
         This fine suit of armor has dwarven runes etched upon it. The runes describe
         the glories of great battles in the North against orcs. The armor glows faintly

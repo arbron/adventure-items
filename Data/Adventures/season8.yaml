@@ -9,6 +9,17 @@
   tier: 1
   length: 4
   apl: 1
+  credits:
+    - name: Will Doyle
+      role: Lead Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   storyAwards:
     - name: Faction Favor
       description: |-
@@ -36,8 +47,6 @@
         your body. Treat this as a flaw—if you use it to your disadvantage, your
         DM can grant inspiration at their discretion.
       type: pet
-  missing:
-    - credits
 
 
 - code: DDAL08-01
@@ -52,9 +61,23 @@
   tier: 1
   length: 2-4
   apl: 3
+  credits:
+    - name: Jay H Anderson
+      role: Lead Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Wand of Secrets
       rarity: uncommon
+      flavor: >-
+        By whispering a secret to themselves that they have never told anyone, the
+        owner can cause the tip of this wand to glow with light equal to a candle.
     - name: Potion of Healing
       rarity: common
       consumable: true
@@ -78,8 +101,6 @@
           level: 2
         - name: glyph of warding
           level: 3
-  missing:
-    - credits
 
 
 - code: DDAL08-02
@@ -92,11 +113,26 @@
   tier: 1
   length: 2-4
   apl: 3
+  credits:
+    - name: Kat Kruger
+      role: Lead Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Jack Holliday
+      role: Interior Art
+  gold: 0
   items:
     - name: Goggles of Night
       rarity: uncommon
-  missing:
-    - credits
+      flavor: >-
+        These goggles are done in a bat motif and studded with teeth. The owner
+        frequently finds blood dripping from their scalp or face as if they have
+        been bitten by a small animal.
 
 
 - code: DDAL08-03
@@ -110,15 +146,26 @@
   tier: 1
   length: 2-4
   apl: 3
+  credits:
+    - name: Travis Woodall
+      role: Lead Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Hat of Disguise
       rarity: uncommon
+      flavor: >-
+        The entire length of this broad, red-silk ribbon is embroidered in gold
+        thread. While wearing it, the wearer can read and understand, but not
+        speak, Undercommon.
     - name: Bullets, +1
       rarity: uncommon
       consumable: true
       count: 3
-  missing:
-    - credits
 
 
 - code: DDAL08-04
@@ -133,9 +180,23 @@
   tier: 1
   length: 2-4
   apl: 3
+  credits:
+    - name: Ginny Loveday
+      role: Lead Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 
   items:
     - name: Ring of Mind Shielding
       rarity: uncommon
+      flavor: >-
+        This ornate silver ring is engraved with the words *“Be where they are not”*
+        in the Alzhedo language of southwestern Faerûn.
     - name: Potion of Poison
       rarity: uncommon
       consumable: true
@@ -144,8 +205,6 @@
       rarity: uncommon
       consumable: true
       count: 1
-  missing:
-    - credits
 
 
 - code: DDAL08-05
@@ -159,11 +218,22 @@
   tier: 1
   length: 2-4
   apl: 3
+  credits:
+    - name: Lo Pierce
+      role: Lead Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Javelin of Lightning
       rarity: uncommon
-  missing:
-    - credits
+      flavor: >-
+        This javelin glows an angry red when within 120 feet of a troll.
 
 
 - code: DDAL08-06
@@ -176,11 +246,24 @@
   tier: 1
   length: 2-4
   apl: 3
+  credits:
+    - name: Lysa Chen
+      role: Lead Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+    - name: Kayla Cline
+      role: Cartographer
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Cloak of Protection
       rarity: uncommon
-  missing:
-    - credits
+      flavor: >-
+        While wearing this dark red cape, your skin takes on a deathly pallor.
 
 
 - code: DDAL08-07
@@ -193,9 +276,32 @@
   tier: 2
   length: 2-4
   apl: 5
+  credits:
+    - name: BJ Hensley
+      role: Lead Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+    - name: Kayla Cline
+      role: Cartographer
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Bruno Balixa
+      role: Interior Art
+    - name: Joerg Michael Gehrke
+      role: Interior Art
+  gold: 0
   items:
     - name: Mace of Smiting
       rarity: rare
+      flavor: >-
+        This head of the *mace of smiting* features an angry dwarven face. The ghost
+        of Reizzlerum Caskview still maintains a connection to the weapon, causing
+        the owner to gain an unending thirst for good ale. As the owner becomes
+        intoxicated, the face on the mace shifts to appear more drunkenly joyful.
+        The longer the owner goes without a drink, the angrier the face appears.
   storyAwards:
     - name: Endless Bluetooth Ale
       description: |-
@@ -213,8 +319,6 @@
         The ale functions as an ingested poison. The drinker must succeed on a DC
         12 Constitution saving throw, or their skeleton turns a dark shade of blue
         for 24 hours.
-  missing:
-    - credits
 
 
 - code: DDAL08-08
@@ -227,11 +331,22 @@
   tier: 2
   length: 2-4
   apl: 8
+  credits:
+    - name: Ryan Wheaton
+      role: Lead Designer
+      key: true
+    - name: Claire Hoffman
+      role: Additional Design
+    - name: Travis Woodall
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Ring of Fire Resistance
       rarity: rare
-  missing:
-    - credits
+      flavor: >-
+        This simple ring of twisted brass wire is warm to the touch.
 
 
 - code: DDAL08-09
@@ -244,9 +359,25 @@
   tier: 2
   length: 2-4
   apl: 10
+  credits:
+    - name: Toni Winslow-Brill
+      role: Lead Designer
+      key: true
+    - name: Claire Hoffman
+      role: Editing
+    - name: Travis Woodall
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Joe Abboreno
+      role: Cartography
+  gold: 0
   items:
     - name: Wand of Lightning Bolts
       rarity: rare
+      flavor: >-
+        This black wand is decorated with symbol of the goddess Shar. The wielder
+        forgets their Bonds for 10 minutes each time the wand is used.
     - name: Spell Scroll of Dispel Magic
       rarity: uncommon
       consumable: true
@@ -265,8 +396,6 @@
         experiments. While you no longer carry the negative effects associated
         with this, it seems the physical trait you manifested still lingers.
         This story award can only be removed by a *remove curse*.
-  missing:
-    - credits
 
 
 - code: DDAL08-10
@@ -280,9 +409,24 @@
   tier: 2
   length: 2-4
   apl: 8
+  credits:
+    - name: Paige Leitman
+      role: Lead Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Ben Heisler
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Amulet of Health
       rarity: rare
+      flavor: >-
+        An electrum pendant in the shape of an eye surrounded by grasping tentacles
+        hangs from a mithril chain. You have the feeling you are being watched
+        whenever you were this amulet.
     - name: Potion of Giant Strength (Fire)
       rarity: rare
       consumable: true
@@ -291,8 +435,6 @@
       rarity: uncommon
       consumable: true
       count: 1
-  missing:
-    - credits
 
 
 - code: DDAL08-11
@@ -306,9 +448,31 @@
   tier: 2
   length: 2-4
   apl: 8
+  credits:
+    - name: Ben Heisler
+      role: Lead Designer
+      key: true
+    - name: Elizabeth Banerjee
+      role: Editing
+    - name: Shawn Banerjee
+      role: Editing
+    - name: Amy Lynn Dzura
+      role: Editing
+    - name: Claire Hoffman
+      role: Editing
+    - name: Paige Leitman
+      role: Editing
+    - name: Travis Woodall
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Glamoured Studded Leather
       rarity: rare
+      flavor: >-
+        This armor is made of salmon leather that has been dyed midnight black. While
+        wearing this armor, you cannot become wet unless fully immersed in a liquid.
     - name: Potion of Heroism
       rarity: rare
       consumable: true
@@ -328,8 +492,6 @@
         Zhentarim and Bregan D’aerthe. They’re given little time to recover at
         The Tawdry Nymph and begin their next adventure with a level of
         exhaustion and half their hit dice (rounded down).
-  missing:
-    - credits
 
 
 - code: DDAL08-12
@@ -343,9 +505,26 @@
   tier: 2
   length: 2-4
   apl: 8
+  credits:
+    - name: Kerry Jordan
+      role: Lead Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+    - name: Paige Leitman
+      role: Interior Art
+  gold: 0
   items:
     - name: Gem of Seeing
       rarity: rare
+      flavor: >-
+        This orange gem has been carved into the shape of a goldfish. The bottom is
+        inscribed with the name *Sylgar*. The Xanathar will not be happy that you
+        have this.
     - name: Potion of Invulnerability
       rarity: rare
       consumable: true
@@ -354,8 +533,6 @@
       rarity: uncommon
       consumable: true
       count: 1
-  missing:
-    - credits
 
 
 - code: DDAL08-13
@@ -368,17 +545,33 @@
   tier: 3
   length: 4-6
   apl: 13
+  credits:
+    - name: Cindy Moore
+      role: Lead Designer
+      key: true
+    - name: Alan Patrick
+      role: Additional Design
+    - name: Claire Hoffman
+      role: Editing
+    - name: Travis Woodall
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
-    - name: Oil of Slipperiness
-      rarity: uncommon
     - name: Staff of Withering
       rarity: rare
+      flavor: >-
+        This staff is made of human bones wrapped in mithral wire. Whenever a charge
+        is expended your eye alight with cosmetic black flames for a round.
+    - name: Oil of Slipperiness
+      rarity: uncommon
+      consumable: true
+      count: 1
     - name: Potion of Gaseous Form
       rarity: rare
       consumable: true
       count: 1
-  missing:
-    - credits
 
 
 - code: DDAL08-14
@@ -392,11 +585,23 @@
   tier: 3
   length: 4-6
   apl: 13
+  credits:
+    - name: Elisa Teague
+      role: Lead Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Desolation (Greatsword of Sharpness)
       rarity: veryRare
-  missing:
-    - credits
+      flavor: >-
+        This greatsword of sharpness is made from a strange black material that feels
+        like frigid steel. If commanded to shed light, only you can see the light.
 
 
 - code: DDAL08-15
@@ -410,9 +615,24 @@
   tier: 3
   length: 4-6
   apl: 13
+  credits:
+    - name: Gabrielle Harbowy
+      role: Lead Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Ring of Shooting Stars
       rarity: veryRare
+      flavor: >-
+        While wearing this ring, you are filled with feelings of safety and
+        contentment, unless you bear witness to the symbol of Shar. Then you
+        feel only rage.
   storyAwards:
     - name: Marked by Shar
       description: Followers of Shar are always initially hostile to the characters.
@@ -421,8 +641,6 @@
         This adventure has awakened in an interest in Vanrakdoom and Vanrak
         Moonstar. Characters can spend their time studying the histories of
         Vanrak and his cult of Shar.
-  missing:
-    - credits
 
 
 - code: DDAL08-16
@@ -435,9 +653,25 @@
   tier: 4
   length: 4-6
   apl: 18
+  credits:
+    - name: Rob Steiner
+      role: Lead Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Greg Marks
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Plate Armor of Etherealness
       rarity: legendary
+      flavor: >-
+        This armor has a holy symbol of Shar forged into the breastplate. It also
+        looks dim and reflects light poorly. While you wear it, you can speak and
+        understand Qualith without having to roll any checks or saves to avoid
+        short-term madness.
     - name: Potion of Giant Strength (Fire)
       rarity: rare
       consumable: true
@@ -450,8 +684,6 @@
       rarity: uncommon
       consumable: true
       count: 3
-  missing:
-    - credits
 
 
 - code: DDAL08-17
@@ -464,9 +696,23 @@
   tier: 4
   length: 4-6
   apl: 18
+  credits:
+    - name: Jocelyn Koehler
+      role: Lead Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Cubic Gate
       rarity: legendary
+      flavor: >-
+        Created by the wizard Hilather, the six sides of this cube are covered in
+        characters from the language of Alzhedo. The six sides are keyed to: the
+        Prime Material, the Elemental Plane of Fire, the Nine Hells, the Far Realm,
+        the Outlands, and Arborea.
     - name: Water from the Fountain (Potion of Healing)
       rarity: common
       consumable: true
@@ -478,8 +724,6 @@
           level: 5
         - name: demiplane
           level: 8
-  missing:
-    - credits
 
 
 - code: DDAL08-18
@@ -493,15 +737,27 @@
   tier: 4
   length: 4-6
   apl: 18
+  credits:
+    - name: Lysa Chen
+      role: Lead Designer
+      key: true
+    - name: Greg Marks
+      role: Editing
+    - name: Travis Woodall
+      role: Editing
+    - name: Rich Lescouflair
+      role: Art Director and Graphic Designer
+  gold: 0
   items:
     - name: Rod of Resurrection
       rarity: legendary
+      flavor: >-
+        This rod is engraved with sun symbols and bejeweled with faceted citrines.
+        It glows equal to a torch when within 100 ft. of undead.
     - name: Potion of Healing
       rarity: common
       consumable: true
       count: 1
-  missing:
-    - credits
 
 
 - code: DDEP08-01
@@ -515,13 +771,53 @@
   tier: 1
   length: 3
   apl: 3
+  credits:
+    - name: William Beers
+      role: Adventure Designer
+      key: true
+    - name: Iam Pace
+      role: Adventure Designer
+      key: true
+    - name: William Murakami-Brundage
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+    - name: John D. Batten
+      role: Art and Maps
+    - name: Carl Schmetzer
+      role: Art and Maps
+    - name: Pearson Scott Foresman
+      role: Art and Maps
+    - name: William Beers
+      role: Art and Maps
+    - name: W.M. Goodes
+      role: Art and Maps
+    - name: David Ring
+      role: Art and Maps
+    - name: Toth Cosmin
+      role: Art and Maps
+    - name: Will Doyle
+      role: Art and Maps
+    - name: Derek Silva
+      role: Art and Maps
+  gold: 0
   items:
     - name: Bag of Tricks (Rust)
       rarity: uncommon
+      flavor: >-
+        This non-descript, rust-colored bag is covered with patches, each sewn on
+        by a different hand. When the bag is opened, a small puff of dust and a
+        pair of moths fly out
     - name: Folding Boat
       rarity: rare
-  missing:
-    - credits
+      flavor: >-
+        When unfolded to the ship size, this boat has a small casino on deck. It
+        has a wet bar, four casino tables, and flies the flag of Waterdeep’s
+        current Open Lord, Laeral Silverhand (who probably neither knows nor approves
+        of this ruse).
 
 
 - code: DDEP08-02
@@ -533,6 +829,18 @@
   tier: [1, 2, 3]
   length: 4
   apl: [3, 8, 13]
+  credits:
+    - name: M.T. Black
+      role: Designer
+      key: true
+    - name: Shawn Merwin
+      role: Designer
+      key: true
+    - name: Travis Woodall
+      role: Editing
+    - name: Dyson Logos
+      role: Art & Maps
+  gold: 0
   items:
     - name: Chime of Opening
       rarity: rare
@@ -550,8 +858,6 @@
       rarity: uncommon
       consumable: true
       count: 1
-  missing:
-    - credits
 
 
 - code: DDEP08-03
@@ -566,15 +872,51 @@
   tier: [1, 2, 3, 4]
   length: 3
   apl: [3, 8, 13, 18]
+  credits:
+    - name: Will Doyle
+      role: Designer
+      key: true
+    - name: Ashley Warren
+      role: Designer
+      key: true
+    - name: Stacey Allan
+      role: Additional Design
+    - name: M.T. Black
+      role: Additional Design
+    - name: Chris Lindsay
+      role: Additional Design
+    - name: Greg Marks
+      role: Additional Design
+    - name: Travis Woodall
+      role: Additional Design
+    - name: James Haeck
+      role: Special Thanks
+    - name: Adam Lee
+      role: Special Thanks
+  gold: 0
   items:
     - name: Animated Shield
       rarity: veryRare
+      flavor: >-
+        This shield appears as the head of a large beer keg, ringed by a rusty iron
+        band. Whenever the shield is struck by a blow, a chorus of cheering dwarven
+        voices are heard.
     - name: Ring of Invisibility
       rarity: legendary
+      flavor: >-
+        This cold steel ring is invisible when unworn but becomes visible when slipped
+        onto the wearer’s finger.
     - name: Rope of Climbing
       rarity: uncommon
+      flavor: >-
+        This fleshy cord is the magically animated tentacle of a roper bound with
+        rings of silver. While you grasp hold of the rope, you can’t be forced to
+        let go of it against your will.
     - name: Winged Boots
       rarity: uncommon
+      flavor: >-
+        These leather boots are fitted with mechanical wings of gnomish manufacture
+        that clatter loudly when used.
   storyAwards:
     - name: Deep Delver
       description: >-
@@ -595,6 +937,4 @@
         later die, she claims your soul and uses it for own mysterious purposes.
         The only way you can be restored to life is via a *true resurrection*
         spell, after which this award is removed.
-  missing:
-    - credits
 

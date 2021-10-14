@@ -107,16 +107,56 @@
 
 
 - code: RMH-03
-  name: TBA
+  name: The Amber Dirge
+  description: >-
+    Your benefactor, Alanik Ray, has dispatched you to Har’Akir to investigate rumors
+    of the White Oasis. Residents of the nearby River’s Shelter are all dying and
+    seek to cleanse themselves in the oasis’s waters as hauntingly beautiful reed
+    pipe music accompanies their passing. Something isn’t quite right, however. Are
+    there more nefarious deeds afoot?
+  contentWarning: >-
+    Terminal illness, self-harm (suicide), grief, depression, abduction, murder,
+    thoughts of dying, denial of the peace of death
   released: '2021-10-12'
+  url: 'https://www.dmsguild.com/product/373816/RMH03-The-Amber-Dirge'
   tier: 1
+  length: 3
   apl: 4
   credits:
+    - name: Travis Woodall
+      role: Lead Designer
     - name: Claire Hoffman
       role: Designer
       key: true
+    - name: Ma’at Crook
+      role: Sensitivity Lead
+    - name: Jessica Ross
+      role: Editing
+    - name: Stacey Allan
+      role: Art Direction and Graphic Design
+    - name: Drew Baker
+      role: Artist
+    - name: Eric Belisle
+      role: Artist
+    - name: CoupleOfKooks
+      role: Artist
+    - name: Max Dunbar
+      role: Artist
+    - name: Jason A. Engle
+      role: Artist
+    - name: CoupleOfKooks
+      role: Cover Illustrator
+    - name: Scott M. Fischer
+      role: Cover Illustrator
+    - name: Jason A. Engle
+      role: Cover Illustrator
+    - name: Chris Lindsay
+      role: Campaign Narrative Design
+    - name: Wes Schneider
+      role: Campaign Narrative Design
+    - name: Chris Tulach
+      role: Campaign Narrative Design
   missing:
-    - credits
     - items
     - pdf
 

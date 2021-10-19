@@ -1,0 +1,1254 @@
+- code: DDAL05-01
+  name: Treasure of the Broken Hoard
+  description: >-
+    A famous relic hunter seeks adventurers to help her find caches of treasure
+    hidden by the now-defeated followers of the Cult of the Dragon. Her maps and
+    notes may lead the way to great wealth—or a terrible death. And do other
+    parties have designs on the treasure as well?
+  released: '2016-09-06'
+  url: 'https://www.dmsguild.com/product/189132/DDAL0501-Treasure-of-the-Broken-Hoard-5e'
+  tier: 1
+  length: 5x1
+  apl: 1
+  credits:
+    - name: Shawn Merwin
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 200-1000
+  items:
+    - name: Alchemist’s fire (flask)
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 3
+    - name: Spell Scroll of Comprehend Languages
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Disguise Self
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Blooddrinker the Bear
+      description: >-
+        Through care and patience, you now have a bear pet. She is, however, the
+        size of a small housecat. She cannot attack, defend, distract, aid, or
+        otherwise play any role in combat. She can be taught to do simple tricks
+        if treated well and if you spend 20 down time days training her.
+      type: pet
+    - name: Friend of Kraddokk
+      description: >-
+        You talked with the storm giant Kraddokk and did not desecrate the
+        shrine of Annam. He tells his friends about your interaction with him.
+        This friendship might bear fruit at a later date.
+    - name: Friend of Prrrt
+      description: >-
+        You helped alleviate the suffering of a galeb duhr named Prrrt. It tells
+        others of its kind of your kindness, garnering you a positive reputation
+        among elemental earth creatures. As an action, you can attempt a DC 10
+        Charisma (Persuasion) check to convince earth creatures of the elemental
+        type not to attack you. As long as you do not attack the creature or
+        other elemental earth creatures, it targets others. This, however, does
+        not protect your allies. You lose this story aware if you attack or
+        otherwise harm an elemental earth creature.
+    - name: Hated by Giants
+      description: >-
+        You unwisely removed one of the sacred plates of Annam from his shrine.
+        You are now cursed. Giants who see you know that you have offended the
+        greatest of their gods, and they target you before your allies in a
+        fight. They also have advantage on attacks against you. This can be
+        removed with a *remove curse*. You also have possession of one or more
+        plates, but no one seems to want to buy them from you.
+    - name: Victim of Greed
+      description: >-
+        You were stung by greed, and your soul has been infected by the deadly
+        sin. When you’re in the presence of great wealth (in the form of coins
+        or gems/jewelry worth over 1,000 gp), you are stunned until the end of
+        your first turn, as your mind reels at such great wealth. This can be
+        removed with a *remove curse*.
+
+
+- code: DDAL05-02
+  name: The Black Road
+  description: >-
+    Caravans are having a difficult time getting through to Parnast via the
+    Black Road. Organized attacks by orcs and other monstrous humanoids working
+    in concert with one another have folks baffled. Little do they know that an
+    unusually intelligent hill giant, going by the name of Bad Fruul is to
+    blame. SEER has sent her emissary Hsing, to task your group to accompany a
+    caravan with a very special cargo destined for the Shrine of Axes in
+    Parnast, and to figure out who is responsible.
+  released: '2016-10-04'
+  url: 'https://www.dmsguild.com/product/193201/DDAL0502-The-Black-Road-5e'
+  tier: 1
+  length: 2
+  apl: 3
+  credits:
+    - name: Paige Leitman
+      role: Adventure Designer
+      key: true
+    - name: Ben Heisler
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 305
+  items:
+    - name: Bracers of Archery
+      rarity: uncommon
+      properties:
+        - Temperate
+      flavor: |-
+        These bracers are bulky with hexagon designs along them that do not match
+        any common racial or family styling.
+
+        In addition, the hexagons turn blue in the cold or a warm orange in heat.
+        The bearer suffers no harm in temperatures as cold as -20 degrees Fahrenheit
+        or as warm as 120 degrees Fahrenheit.
+  storyAwards:
+    - name: Friend on the Black Road
+      description: >-
+        You aided the caravan master Azam on a perilous journey along the Black
+        Road. If you find yourself needing to travel the Black Road or transport
+        something discretely, Azam will provide it safely once for free.
+
+
+- code: DDAL05-03
+  name: Uninvited Guests
+  description: >-
+    The Shrine of the Axes has been restored and Raggnar Redtooth, who
+    previously conspired with dragon cultists, is trying to restore his
+    reputation in Parnast by sponsoring a feast. There is just one thing he
+    needs, meat for his feast. Game is supposed to be plentiful in the
+    Weathercote Wood, but the townsfolk are all busy with their own work, and
+    the minions of Bad Fruul are still out there causing trouble. What can go
+    wrong on a simple hunt?
+  released: '2016-10-04'
+  url: 'https://www.dmsguild.com/product/193202/DDAL0503-Uninvited-Guests-5e'
+  tier: 1
+  length: 2
+  apl: 3
+  credits:
+    - name: Robert Alaniz
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 500
+  items:
+    - name: Brooch of Shielding
+      rarity: uncommon
+      flavor: >-
+        This brooch is fashioned from a tiny leaf inlaid in gold and silver. While
+        the leaf is not alive, it changes color depending on the season as if it were.
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: A Giant Challenge
+      description: >-
+        You have earned the respect of Prince Thornacious. He challenges you to
+        befriend a giant, as he has done with you, (*Huge* sized humanoid),
+        without using charm effects. If you do, (DMs judgement), you may spend
+        five downtime days to return to Thornacious, who uses Heart Sight to
+        tell if you are true of heart. He bestows upon you the title: Adoness
+        (Peacekeeper). This title grants you advantage on Charisma ability
+        checks with good aligned fey.
+    - name: Defenders of Parnast
+      description: >-
+        You have repelled the enemies of Parnast and instilled confidence in the
+        people. You’ll never sleep in a barn again while in Parnast. Everyone
+        opens their doors to you.
+    - name: Glory Before Goodwill
+      description: >-
+        You chose to put personal glory above saving a villager of Parnast that
+        was in need. Until you spend 10 downtime days repairing your reputation
+        with the village, you have disadvantage on all Charisma ability checks
+        and are charged 50% higher rate for all goods and services, except at
+        the Golden Tankard, where Raggnar understands that tough decisions must
+        occasionally be made.
+
+
+- code: DDAL05-04
+  name: In Dire Need
+  description: >-
+    An expedition of dwarf warriors from Citadel Adbar finds itself isolated and
+    besieged by Ice Spire ogres and their allies. They require immediate relief
+    or they risk being destroyed to a dwarf. SEER has directed you to their
+    location in the hopes that you can rescue the dwarves and save their
+    precious cargo, a tablet bearing secrets of ancient rune magic.
+  released: '2016-11-01'
+  url: 'https://www.dmsguild.com/product/195810/DDAL0504-In-Dire-Need-5e'
+  tier: 2
+  length: 2
+  apl: 7
+  credits:
+    - name: Jay Africa
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 1600
+  items:
+    - name: Mithral Splint Armor, +1
+      rarity: rare
+      flavor: >-
+        A beautifully crafted suit of splintmail wrought in classical Adbarran design.
+        The armor is evocative of dwarven sensibilities, being simple if a bit angular.
+        The helm is crafted with curling ram’s horns and dwarven runes on the vambraces
+        pronouncing the wearer a friend and defender of Citadel Adbar.
+      guidance: >-
+        Players must choose between *Mithral Splint* or *Splint, +1*.
+    - name: Potion of Climbing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Heroes of Citadel Adbar
+      description: >-
+        Your brave rescue of the Frostbite Platoon has earned you fame and favor
+        within the dwarven citadel. While the citadel normally shuts out
+        visitors, you are granted access to the citadel’s upper reaches. You
+        gain advantage on ability checks that involve interacting with dwarves
+        from Citadel Adbar, regardless of where you travel.
+    - name: Ire of the Frost Giants
+      description: >-
+        You either inadvertently or purposefully destroyed a frost giant holy
+        site. Whether or not anyone witnessed the act, word of your
+        “accomplishment” still travels and reaches the frost giant communities
+        throughout the Realms. You gain disadvantage on ability checks that
+        involve interacting with frost giants. Additionally, you gain advantage
+        on ability checks that involve interacting with NPCs that specifically
+        oppose frost giants.
+    - name: SEER’s Delivery Service
+      description: >-
+        You successfully delivered the rune tablet into the hands of the Lord’s
+        Alliance for study, much to their gratitude. You gain advantage on
+        ability checks that involve interacting with NPC members of the Lord’s
+        Alliance. Additionally, you gain disadvantage on ability checks that
+        involve interacting with NPCs that specifically oppose the Lord’s
+        Alliance.
+
+
+- code: DDAL05-05
+  name: A Dish Best Served Cold
+  description: >-
+    Stagwick’s long-standing peace with giant-kind is threatened as a patrol of
+    Blood Riders spark a feud with a local tribe of giants. With word of strange
+    activity coming from the Ice Spires, Good King Hartwick can’t be too
+    careful. Can you quench the giants’ thirst for revenge?
+  released: '2016-11-01'
+  url: 'https://www.dmsguild.com/product/195811/DDAL0505-A-Dish-Best-Served-Cold-5e'
+  tier: 2
+  length: 2
+  apl: 8
+  credits:
+    - name: James Introcaso
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 1400
+  items:
+    - name: Cloak of Displacement
+      rarity: rare
+      flavor: >-
+        This cloak is made of the pelt of a smooth, black-furred creature. A bone
+        toggle fastens the cloak around its wearer’s neck. Close examination of the
+        gold-embroidered hem reveals a poem that reads (in Common): *“Six men in pain;
+        six men rent. Blood, it falls like rain; broken bodies bent. Six men plead; and
+        six men cry; Tearing arm and leg, six men die.”*
+    - name: Potion of Giant Strength (Frost)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Adventurer? More Like Bad-venturer!
+      description: >-
+        If Burleigh dies or is not freed within the time frame provided by
+        Scövja, word spreads that the same adventurers who were telling tales of
+        their heroic deeds at the Weary Giant Inn failed at some simple task and
+        have put the region in danger. As long as you possess this story award,
+        you have disadvantage on Charisma (Intimidation) and (Persuasion) checks
+        made to influence any citizen of Hartsvale.
+    - name: Frontier Friend
+      description: >-
+        If the characters free Burleigh by convincing Scarn Mikel to let him go
+        peacefully, the Blood Riders gain a new respect for the Frontier Scouts.
+        As a result, the riders stop bullying the scouts and they stay out of
+        one another’s way. As long as you possess this story award, you have
+        advantage on Charisma (Intimidation) and (Persuasion) checks made to
+        influence any member of the Frontier Scouts.
+    - name: Scarn Slayer
+      description: >-
+        Characters who kill Scarn Mikel have their names whispered on the lips
+        of every citizen in Hartsvale. As long as you possess this story award,
+        you have advantage on Charisma (Intimidation) checks made to influence
+        any citizen of Hartsvale, but any Blood Riders you come across
+        immediately treat you as hostile.
+
+
+- code: DDAL05-06
+  name: Beneath the Fetid Chelimber
+  description: >-
+    The ruined wizard tower in the Marsh of Chelimber may hold a clue to
+    defeating the superintelligent hill giant, Bad Fruul, and prevent him
+    troubling the town of Parnast. To find the tower, adventurers must overcome
+    the watery magic of the fetid marsh and discover or clear a route to the
+    ruins of a previously lost tower.
+  released: '2016-12-06'
+  url: 'https://www.dmsguild.com/product/197743/DDAL0506-Beneath-the-Fetid-Chelimber-5e'
+  tier: 1
+  length: 2
+  apl: 3
+  credits:
+    - name: Ron Lundeen
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 400
+  items:
+    - name: Ring of Swimming
+      rarity: uncommon
+      flavor: >-
+        This ring is made of a single piece of cartilage carved to look like the
+        open jaws of a shark closing around the wearer’s finger.
+
+
+- code: DDAL05-07
+  name: Chelimber’s Descent
+  description: >-
+    Deep in the Marsh of Chelimber lie the ruins of a great wizard’s tower. SEER
+    has received intelligence, which she imparts via her emissary Hsing, that
+    deep beneath the marsh in the remains of an old tower is knowledge of older
+    magics. This could be just what Parnast needs to resist the onslaught of Bad
+    Fruul and his armies!
+  released: '2016-12-06'
+  url: 'https://www.dmsguild.com/product/197746/DDAL0507-Chelimbers-Descent-5e'
+  tier: 1
+  length: 2
+  apl: 3
+  credits:
+    - name: Claire Hoffman
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 430
+  items:
+    - name: Wand of Webs
+      rarity: uncommon
+      flavor: >-
+        This short, squat wand is fashioned from single piece of white wood tipped
+        with a pair of black diamonds cut to resemble spinnerets.
+    - name: Spell Scroll of Lesser Restoration
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Tongues
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Faction Copyist
+      description: >-
+        Any character may spend ten downtime days assisting their faction by
+        copying the texts retrieved for SEER. Upon completing this downtime
+        activity, the character may copy one spell from the *Elemental Evil
+        Player’s Companion* of a level they can cast for their spellbook.
+      type: downtime
+
+
+- code: DDAL05-08
+  name: Durlag’s Tower
+  description: >-
+    East of Beregost, nestled in the outskirts of the Wood of Sharp Teeth,
+    Durlag’s Tower has intrigued and yet stymied adventurers for decades.
+    Stuffed full of mechanical traps and arcane wards, and rumored to be
+    inhabited by fiends, very few have managed to extract any REAL treasure from
+    the former home of Durlag Trollkiller. However, a powerful item in the
+    ancient fight against the giants is said to be housed there, and the cloud
+    giant Baron Rajiram has committed significant resources toward recovering
+    it. After a pleasant tea in her garden, SEER calls upon you to beat him
+    there and put a stop to his efforts!
+  released: '2017-01-03'
+  url: 'https://www.dmsguild.com/product/199490/DDAL0508-Durlags-Tower-5e'
+  tier: 3
+  length: 4
+  apl: 5
+  credits:
+    - name: Alan Patrick
+      role: Adventure Designer
+      key: true
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 6250
+  items:
+    - name: Staff of Thunder and Lightning
+      rarity: veryRare
+      flavor: >-
+        This aspen staff shines brightly in direct light, The staff is almost
+        perfectly smooth with a crown of silver lightning bolts atop it which
+        cradle gleaming sapphire.
+    - name: Quasit’s Essence
+      rarity: unique
+      flavor: |-
+        The quasit K’nap, long trapped in Durlag’s Tower with the obese and foul
+        nalfeshnee Schvalt, demonstrated a greater-than-average ability to perform
+        autonomous actions. You have retained a bit of his fleeting essence, and may
+        choose to bolster your own quasit familiar using a powerful ritual that
+        requires the destruction of a powerful magic item. If you perform this ritual
+        (see sidebar, below), your quasit familiar grants you access to the Variant:
+        Quasit Familiar rule from the *Monster Manual*.
+
+        #### Quasit Familiar Ritual
+        If you defeated K’nap, you gain access to a special ritual. By spending five
+        downtime days **destroying** the *staff of thunder and lightning* and mixing
+        its arcane components with the essence of the quasit, you gain access to the
+        Variant: Quasit Familiar rule as described on page 63 of the *Monster Manual*.
+        Gaining the benefit of this variant rule uses one of your attunement slots.
+        In addition, the destroyed staff permanently counts against the number of
+        permanent magic items you possess, and can’t be traded—even if you later
+        forfeit the benefit of this ritual. If you ever choose to “unattune” from the
+        benefit of this ritual, the attunement slot is once more available, but the
+        *staff of thunder and lightning* and the benefit of the ritual fueled by its
+        destruction are **forever lost**, never to be reclaimed.
+    - name: Potion of Giant Strength (Frost)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Speed
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Greater Invisibility
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Favor of SEER
+      description: >-
+        If the characters choose to not sell the jade dagger, they may instead
+        turn it over to SEER. If they do, they all earn her admiration, as this
+        very dagger was lost during an expedition that, in her words, “went
+        poorly”. The blade is a family heritage item and all that remains of her
+        long-lost uncle, whom she refuses to name directly. SEER is willing to
+        provide a character that has this story award with one spell scroll of
+        second level or lower. If the character is a member of the Lords’
+        Alliance, they can instead choose a spell scroll of up to third level.
+        If the character is a member of the Lords’ Alliance and is rank four or
+        higher, they may instead choose a spell scroll of level 3 or lower and
+        also receive a *potion of heroism*. Any spell chosen for this reward
+        must be on the wizard spell list and cannot be a ritual. Once a reward
+        is chosen, strike out this story award.
+    - name: Traitor to Your Faction
+      description: >-
+        Lords’ Alliance and Zhentarim faction members that falsified evidence of
+        their missions or failed their missions suffer a terrible blow to their
+        reputation. After this adventure, the character must forfeit the next
+        two renown points that they would gain; once this forfeiture is
+        complete, strike out this story award.
+    - name: Vergadain’s Firespirits
+      description: |-
+        Vergadain, a dwarven deity of wealth and trickery, was known for his
+        favored drink; as clear as water and smelled of honey and cane sugar,
+        but was in truth an incredibly potent liquor that put standard dwarven
+        spirits to shame. He would sometimes challenge unknowing humans and
+        elves to drinking contents, where he would slyly swap in sweetened water
+        while his opponent would down drink after drink of this highly-flammable
+        liquid. It rarely ended well for them. And now you have the recipe!
+
+        You may spend 60 downtime days to craft one barrel of firespirits. Each
+        batch requires special sweet herbs from Bitter-root’s copse near Durlag’s
+        Tower and 100 gp worth of other materials, including aged dwarven spirits
+        blessed by a dwarven priest. If you find yourself in possession of campaign
+        documentation that bestows ownership of a distillery, this time and gold
+        cost is reduced by half.
+
+        Each barrel contains approximately 30 gallons of firespirits, and can be
+        sold for 1,000 gp. Alternately, as this is a rare elixir; it may be worth
+        a significant amount to Fai Chen, certain high-ranking lords, or other
+        purveyors of such fineries. Additionally, if you give a nip of firespirits
+        (just a wee one) to a dwarf, all Charisma (Persuasion) checks made with them
+        are made with advantage for the next hour.
+
+
+- code: DDAL05-09
+  name: Durlag’s Tomb
+  description: >-
+    East of Beregost, nestled in the outskirts of the Wood of Sharp Teeth,
+    Durlag’s Tower has intrigued and yet stymied adventurers for decades.
+    Stuffed full of mechanical traps and arcane wards, and rumored to be
+    inhabited by fiends, very few have managed to extract any REAL treasure from
+    the former home of Durlag Trollkiller. However, a powerful item in the
+    ancient fight against the giants is said to be housed there, and the cloud
+    giant Baron Rajiram has committed significant resources toward recovering
+    it. After a pleasant tea in her garden, SEER calls upon you to beat him
+    there and put a stop to his efforts!
+  released: '2017-01-03'
+  url: 'https://www.dmsguild.com/product/199491/DDAL0509-Durlags-Tomb-5e'
+  tier: 3
+  length: 4
+  apl: 13
+  credits:
+    - name: Alan Patrick
+      role: Adventure Designer
+      key: true
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 1750-5250
+  items:
+    - name: Skeggöx (Battleaxe, +3)
+      rarity: veryRare
+      consumable: false
+      flavor: >-
+        This impressive battleaxe possesses a massive haft with a huge gear turning
+        gently atop it. Connected to the gear are a series of gnashing blades that
+        extend when the weapon is wielded against giants. As a bonus action, a dwarf
+        or a character that worships a dwarven deity may brandish this weapon and
+        gain advantage on one Charisma (Intimidation) check. Once this property has
+        been used, it can’t be used again until the following dawn.
+    - name: Potion of Invulnerability
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Favor of Candlekeep
+      description: >-
+        You surrender of the copper tablet to the acolytes of Oghma at
+        Candlekeep has them overjoyed. The Great Readers spend many weeks poring
+        over the ancient artifact’s hidden meanings and may one day puzzle out
+        where the missing section is located.
+
+        The next time you visit Candlekeep or interact with the faithful of Oghma,
+        any Charisma ability checks you make are made with advantage.
+
+
+- code: DDAL05-10
+  name: Giant Diplomacy
+  description: >-
+    SEER has learned of an attempt to intimidate Gralm, an ettin, and his
+    followers into joining Bad Fruul’s army. HSING comes forth to communicate
+    that she wants you to see if you can find some way to either insure Gralm
+    remains neutral, or to encourage the creature to challenge Bad Fruul to
+    single combat in the hopes that he might wrest control of the hill giant’s
+    forces and turn them back from Parnast.
+  released: '2017-01-03'
+  url: 'https://www.dmsguild.com/product/199492/DDAL0510-Giant-Diplomacy-5e'
+  tier: 1
+  length: 2
+  apl: 4
+  credits:
+    - name: Rydia Q. Vielehr
+      role: Adventure Designer
+      key: true
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 270
+  items:
+    - name: Ring of Jumping
+      rarity: uncommon
+      flavor: >-
+        This ring is made of interlocking pieces of animal chitin. When activated,
+        it creates a loud, chirping sound; similar to that of a cricket that can be
+        heard 100 feet away.
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Defenders of Parnast
+      description: >-
+        You have helped forge a treaty between the city of Parnast and the Ettin
+        Gralm. Citizens will buy you a drink or meal and many toast to your
+        name.
+    - name: Greater Defenders of Parnast
+      description: >-
+        You have shown your selflessness time and again to the citizens of
+        Parnast. While in Parnast, everyone opens their doors and pantries to
+        you offering a 10% discount on goods and healing services.
+    - name: Satyr Training
+      description: >-
+        Prince Thornacious has heard more of your great deeds through his
+        servant Blassios. The latter invites you to come on a “vision quest”
+        with him in the Forgotten Forest. If you do, you may spend 5 downtimes
+        days to engage in revelry and seeking out your inner self. Once, if you
+        fail a saving throw against poison, you may call upon your fey teachings
+        to succeed on the saving throw, instead.
+      type: downtime
+
+
+- code: DDAL05-11
+  name: Forgotten Traditions
+  description: >-
+    The origin of runes has long been lost to the majority of sages and wizards,
+    save those with giant blood. However, with the shattering of the Ordning,
+    the magic of runes has once again emerged into the Realms. Adventurers must
+    delve into a ruined complex beneath the Spine of the World, suspected by
+    SEER to be the birthplace of that arcane tradition.
+  released: '2017-01-03'
+  url: 'https://www.dmsguild.com/product/199495/DDAL0511-Forgotten-Traditions-5e'
+  tier: 2
+  length: 4
+  apl: 7
+  credits:
+    - name: Travis Woodall
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 3200
+  items:
+    - name: Opal of the Ild Rune
+      rarity: rare
+    - name: Red Crystal (Potion of Giant Strength (Fire))
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Blue Crystal (Potion of Superior Healing)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Black Crystal (Spell Scroll of Antilife Spell)
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Dreamwalker
+      description: >-
+        Kryshilir has taught you to look beyond the veil of the world and
+        navigate your dreams. By spending 25 downtime days, you travel to the
+        Seven Stones and meditate under Kryshilir’s whispered guidance. Upon
+        completing this downtime activity, you gain the **Dreamwalker** story
+        award (below).
+      type: downtime
+    - name: Dreamwalker
+      description: >-
+        Your meditations have granted you the gift of foresight. Upon receiving
+        this story award, roll a d20 and record the number rolled. Once, you can
+        replace any attack roll, saving throw, or ability check made by you or a
+        creature that you can see with the number you rolled. You must choose to
+        do so before the roll. Once you have used this story award in this
+        fashion, remove it. This story award may be earned again as often as you
+        like, but you must complete the **Dreamwalker** downtime activity
+        (above) each time and may not do so again until you no longer possess
+        this story award.
+    - name: Student of Stone
+      description: >-
+        Illsenstaad has chosen you and you alone to complete his life’s work and
+        put his soul to rest. By spending a total of 365 downtime days (these need
+        not be spent all at once) possessed by Illsenstaad, allowing him to tell
+        his stories and carve them into the living rock of Hotun-Shûl, you gain
+        the **Student of Stone** story award (below). If you are a dwarf, possess
+        the Guild Artisan (mason or stonecutter) background, or are otherwise
+        proficient in mason’s tools; you complete this in half the normal time.
+      type: downtime
+    - name: Student of Stone
+      description: >-
+        You have studied under the tutelage of Illsenstaad, a legendary stone
+        giant loremaster and stone carver. You gain the benefit of the dwarven
+        Stonecunning trait. If you already possess the Stonecunning trait, you
+        triple your proficiency bonus instead of doubling it. In addition, you
+        also gain proficiency in mason’s tools and the Giant language if you are
+        not already proficient.
+
+
+- code: DDAL05-12
+  name: Bad Business in Parnast
+  description: >-
+    Bad Fruul and his minions have been threatening to overtake the town of
+    Parnast for some time, and intelligence provided by SEER (via HSING)
+    confirms that an attack is imminent. Despite this, the town is at risk from
+    within as internal politics threaten to tear it apart. It is up to
+    adventurers to resolve the infighting in Parnast and prepare the town for
+    the hill giant’s onslaught.
+  released: '2017-02-07'
+  url: 'https://www.dmsguild.com/product/202446/DDAL0512-Bad-Business-in-Parnast-5e'
+  tier: 1
+  length: 2
+  apl: 4
+  credits:
+    - name: Joe Marflak
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 
+  items:
+    - name: Gauntlets of Ogre Power
+      rarity: uncommon
+      properties:
+        - Gleaming
+      flavor: >-
+        These sturdy leather gauntlets appear to be in pristine condition. Indeed,
+        any nicks of tears in the material mends itself within twenty-four hours.
+        Additionally, any blood, mud or other grime that soils the gloves quickly
+        dries begins falling away in fine flakes until the surface is again clean.
+    - name: Oil of Slipperiness
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+
+
+- code: DDAL05-13
+  name: Jarl Rising
+  description: >-
+    The frost giants of the Ice Mountains have long held to the belief that a
+    great Jarl will one day step forward to unite the families as Konung (king).
+    With the Ordning shattered, Jarl Ryndölg believes that if he can locate
+    Hartkiller’s Horn, a legendary artifact among giant-kind, he could be the
+    one. He may very well have found what he is looking for. A great clarion
+    call has echoed across the Hartsvale for two days, and the giants are all
+    marching north, has Ryndölg done just that?
+  released: '2017-02-07'
+  url: 'https://www.dmsguild.com/product/202448/DDAL0513-Jarl-Rising-5e'
+  tier: 2
+  length: 4
+  apl: 10
+  credits:
+    - name: Wm Straley
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 3500
+  items:
+    - name: The Shroud of the Mourning Warrior (Scale Mail, +1)
+      rarity: rare
+      flavor: >-
+        This suite of scale mail armor is fashioned out of slivers of wood—each
+        engraved with Giant runes of death and lament, and sewn onto a backing of
+        black leather. The armor resizes to fit its wearer.
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 3
+
+
+- code: DDAL05-14
+  name: Reeducation
+  description: >-
+    HSING bears foul news: SEER has been captured. While exploring the ruins of
+    Ulcaster in search of knowledge pertaining to runes (or perhaps even how to
+    create them), they were separated and now the pseudodragon fears the worst.
+    Without SEER’s guidance, the efforts of the assembled factions in these
+    recent events may all be for naught!
+  released: '2017-03-07'
+  url: 'https://www.dmsguild.com/product/202449/DDAL0514-Reeducation-5e'
+  tier: 3
+  length: 4
+  apl: 14
+  credits:
+    - name: Cindy Moore
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 8300
+  items:
+    - name: Opal of the Ild Rune
+      rarity: rare
+      consumable: false
+    - name: Orb of the Stein Rune
+      rarity: rare
+      consumable: false
+    - name: Potion of Giant Strength (Cloud)
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+
+
+- code: DDAL05-15
+  name: Reclamation
+  description: >-
+    SEER has been rescued along with Ulcaster, the infamous Archmage that
+    founded a wizard’s school that is now in ruins in the foot hills of The
+    Cloud Peaks. However, while leaving to get the two to safety a cloud ship
+    arrived, unloading a shipload of pirates on the ruins. SEER knows what they
+    are after and needs the heroes to stop them and their leader.
+  released: '2017-03-07'
+  url: 'https://www.dmsguild.com/product/202450/DDAL0515-Reclamation-5e'
+  tier: 3
+  length: 4
+  apl: 14
+  credits:
+    - name: Cindy Moore
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 5000
+  items:
+    - name: Pennant of the Vind Rune
+      rarity: veryRare
+      consumable: false
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Stoneskin
+      rarity: rare
+      consumable: true
+      count: 1
+
+
+- code: DDAL05-16
+  name: Parnast Under Siege
+  description: >-
+    Despite the adventurers’ best efforts, more creatures joined under Bad
+    Fruul’s banner. No longer content to simply attack caravans or isolated
+    homesteads, the hill giant warlord descends upon Parnast at the head of a
+    great force of humanoids. SEER warns the adventurers (directly now) in time
+    to rally the town and prepare defenses, but a heroic effort is required to
+    break the siege.
+  released: '2017-03-07'
+  url: 'https://www.dmsguild.com/product/204801/DDAL0516-Parnast-Under-Siege-5e'
+  tier: 1
+  length: 4
+  apl: 4
+  credits:
+    - name: Robert Adducci
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 1450
+  items:
+    - name: Headband of Intellect
+      rarity: uncommon
+      flavor: >-
+        Shining with a polished brilliance this golden headband never dulls. The
+        sound of heavenly chimes can be heard when the wearer has a new idea.
+    - name: Potion of Giant Strength (Hill)
+      rarity: uncommon
+      consumable: true
+      count: 2
+  storyAwards:
+    - name: Giant Horde Breaker!
+      description: >-
+        The tale of your defense of Parnast has spread far and wide. Charisma
+        checks made when dealing with goodly folk who have had trouble with
+        giants in the past are made with advantage. Similarly, any Charisma
+        (Deception, Intimidation, or Persuasion) check you make against a
+        non-good-aligned giant is made with disadvantage.
+    - name: Giant Toenails
+      description: >-
+        If the characters scavenged toe nails from Bad Fruul, SEER brews a
+        *potion of hill giant strength*. A few ingredients are needed and
+        require the adventures to spend 10 downtime days (and associated living
+        expense costs).
+    - name: Rue’s Harvest
+      description: |-
+        If characters interacted with Sylas during the adventure he offers them
+        the opportunity to purchase the last harvest of herb garden.
+
+        Each character can gain supplies to create a maximum of five of any of the
+        following items listed below in any combination—even if they don’t have
+        the necessary tools and proficiencies. The crafting rules found in the
+        Player’s Handbook (downtime and lifestyle cost still apply).
+
+        - Antitoxin
+        - Perfume
+        - Alchemist’s fire
+        - Potion of healing
+        - Ink
+        - Poison (basic)
+        - Dye (lavender)
+        - Bath oil
+    - name: Savior of Parnast
+      description: >-
+        You are always welcome in Parnast, while in town you will not spend any
+        gold on food or lodging (lifestyle must still be paid for any downtime
+        days spent).
+
+
+- code: DDAL05-17
+  name: Hartkiller’s Horn
+  description: >-
+    Claiming to possess Hartkiller’s Horn, Ryndölg makes his move to take
+    control of the Hartsvale. The non-giant residents have been pressed to
+    declare their allegiance or be destroyed. Do they swear fealty to Jarl
+    Ryndölg, or is there another option? Is there another contender to the
+    throne? Sometimes the best choices can be the most dangerous.
+  released: '2017-04-04'
+  url: 'https://www.dmsguild.com/product/206285/DDAL0517-Hartkillers-Horn-5e'
+  tier: 2
+  length: 4
+  apl: 8
+  credits:
+    - name: Greg Marks
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 1200
+  items:
+    - name: Dagger of Venom
+      rarity: rare
+      flavor: >-
+        The pommel of this wicked looking dagger looks like a black viper with a
+        forked blade worked to resemble the tongue.
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Resistance (Cold)
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Gratitude of Hartkiller
+      description: >-
+        You have claimed the divine spark of the Beast of Talos for Hartkiller
+        and outfitted him for his battle with Jarl Ryndölg. In doing so you have
+        writ your name into his legend. You may choose to spend 50 downtime days
+        spreading word of your and Hartkiller’s inspired deeds in Hartsvale.
+        Upon doing so, you gain the benefit of the **Gratitude of Hartkiller**
+        story award. This downtime activity may only be performed once.
+      type: downtime
+    - name: Gratitude of Hartkiller
+      description: >-
+        In spreading the truth about the events that unfolded in Hartsvale, you
+        find yourself blessed by the All-Father and gain temporary use of the
+        Lucky feat, except that any expended luck points don’t return. Once all
+        three points have been spent, remove this story award.
+
+
+- code: DDAL05-18
+  name: The Mysterious Isle
+  description: |-
+    Baron Rajiram’s forces have secured the Nelanther Isles and have scoured the
+    Sword Coast for treasures. Now they have begun to explore a mysterious
+    island that recently just popped into existence nearby. SEER seems to
+    believe that an aboleth artifact is their goal. It is up to the adventurers,
+    in competition with the baron, as well as aboleths, the Kraken Society, and
+    the mysterious caretaker of the island, to locate the *Eye of Xxiphu* and
+    avert catastrophic disaster.
+
+    ***Players get their choice of one of the following magic items to keep.***
+  released: '2017-04-04'
+  url: 'https://www.dmsguild.com/product/204803/DDAL0518-The-Mysterious-Isle-5e'
+  tier: 4
+  length: 4
+  apl: 17
+  credits:
+    - name: Merric Blackman
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 87500
+  items:
+    - name: Anstruth Harp
+      rarity: veryRare
+    - name: Armor, +2
+      rarity: veryRare
+    - name: Horn of Valhalla (Bronze)
+      rarity: veryRare
+    - name: Ring of Shooting Stars
+      rarity: veryRare
+    - name: Robe of Scintillating Colors
+      rarity: veryRare
+    - name: Robe of Stars
+      rarity: veryRare
+    - name: Rod of the Pact Keeper, +3
+      rarity: veryRare
+    - name: Shield, +3
+      rarity: veryRare
+    - name: Wand of the War Mage, +3
+      rarity: veryRare
+    - name: Weapon, +3
+      rarity: veryRare
+
+
+- code: DDAL05-19
+  name: Eye of Xxiphu
+  description: >-
+    Baron Rajiram’s forces have secured the Nelanther Isles and have scoured the
+    Sword Coast for treasures. Now they have begun to explore a mysterious
+    island that recently just popped into existence nearby. SEER seems to
+    believe that an aboleth artifact is their goal. It is up to the adventurers,
+    in competition with the baron, as well as aboleths, the Kraken Society, and
+    the mysterious caretaker of the island, to locate the *Eye of Xxiphu* and
+    avert catastrophic disaster.
+  released: '2017-04-04'
+  url: 'https://www.dmsguild.com/product/204805/DDAL0519-Eye-of-Xxiphu-5e'
+  tier: 4
+  length: 4
+  apl: 17
+  credits:
+    - name: Merric Blackman
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 200000
+  items:
+    - name: The Eye of Xxiphu
+      rarity: legendary
+      flavor: >-
+        While not a truly intelligent item, the Eye of Xxiphu bestows terrifying insight
+        into the true nature of the nightmarish aboleths. The attuned possessor of the
+        Eye gains telepathy out to a range of 120 feet, and may cover themselves in coat
+        of mucous that allows them to breathe underwater as well as on land. The
+        petrified orb is large and heavy, but does not need to be held in order to use
+        its powers. Additionally, aboleths have disadvantage when attacking the owner of
+        the Eye, and the owner has advantage on ability checks in regards to
+        knowledge-based ability checks about aboleths and the Far Realm when they are not
+        in combat.
+    - name: Staff of Power
+      rarity: veryRare
+      flavor: >-
+        This great ashen staff is etched with many designs of swirling air and clouds.
+        The staff magically resizes to fit the hand of any who carry it.
+    - name: Tome of Understanding
+      rarity: veryRare
+      flavor: >-
+        The cover of this iron-bound book is scribed with many swirling tentacles.
+        A character carrying the book is always aware of eyes from a distant realm
+        following them.
+    - name: Cordial of Water Breathing (Potion of Water Breathing w/ 24 duration)
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Supreme Healing
+      rarity: veryRare
+      consumable: true
+      count: 1
+
+
+- code: DDEP05-01
+  name: The Iron Baron
+  description: >-
+    Deep in the Greypeak Mountains the fire giant warlord Baron Ugarak has
+    enslaved hundreds of small folk to toil in his iron mines furiously
+    extracting elementally infused ore for an as yet unknown purpose. Surrounded
+    by a monstrous army and decidedly shady allies, the Baron poses a dire
+    threat to the goodly folk of the north.
+  released: '2016-11-05'
+  tier: [1, 2]
+  length: 4
+  apl: [3, 7]
+  credits:
+    - name: Bill Benham
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 500-1600
+  items:
+    - name: Red Dragon Scale Mail
+      rarity: veryRare
+      flavor: >-
+        This beautiful suit of scale mail is crafted from red dragon hide. Exquisite
+        gold embossing covers the pauldrons and greaves, while the helm is crafted
+        in the likeness of a snarling dragon complete with horns.
+    - name: Wyrmripper (Dragon Slayer Greatsword)
+      rarity: rare
+      flavor: >-
+        Made of what appears to be roughly crafted pig iron with a crude leather haft,
+        this enormous greatsword possesses a bold Davek rune at the base of both sides
+        of the blade which reads *“Wyrmripper”*.
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 3
+    - name: Potion of Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Bless
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Mass Cure Wounds
+      rarity: rare
+      consumable: true
+      count: 2
+  storyAwards:
+    - name: Flameborne Armor
+      description: |-
+        The Factions now have access to a store of ore that has been sustain
+        prolonged exposure to unusual elemental energies. If you are Rank 2 or
+        higher with a faction, you may spend **60 downtime days** to assist your
+        faction with the crafting and fitting of a suit of nonmagical metal
+        armor. You must pay the full price of the armor, however, when complete,
+        it bestows resistance to fire damage when worn.
+
+        As a nonmagical suit of armor, this item is non-tradable.
+      type: downtime
+    - name: Hated of Surtur
+      description: >-
+        For thwarting Baron Ugarak’s plans in the Molten Vault, you have earned
+        the ire of Surtur, god of the Fire Giants. Fire Giants who see you sense
+        a deep and abiding hatred which can be quelled only through your painful
+        death. You have disadvantage on any social checks with fire giants and
+        they attempt to kill you as quickly as possible in combat, even at the
+        expense of other foes.
+
+
+- code: DDEP05-02
+  name: The Ark of the Mountains
+  description: >-
+    The flying galleon *Thunderbound* descends on Beregost, unleashing the wrath
+    of the cloud giants! To save the town from annihilation, heroes from far and
+    wide must awaken the lost machine entombed under Durlag’s Tower. Dare you
+    board the *Ark of the Mountains* and do battle in the burning skies?
+  released: '2017-02-04'
+  tier: [1, 2, 3]
+  length: 4
+  apl: [3, 8, 12]
+  credits:
+    - name: Will Doyle
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 50-800
+  items:
+    - name: Adamantine Chain Shirt
+      rarity: uncommon
+      flavor: >-
+        This glittering chain shirt is composed of interlocking adamantine rings. When
+        the wearer moves, the shirt emits the faint sound of waves lapping at the shore.
+    - name: Animated Shield
+      rarity: veryRare
+      flavor: >-
+        The enormous shield is etched with images of Annam the All-Father holding court
+        over the gods of the “lesser races”. While you’re attuned to the shield, you
+        cannot tell lies.
+    - name: Frost Brand Scimitar
+      rarity: veryRare
+      flavor: >-
+        The Red Baron of Nelanther awarded these rime-coated scimitars to his most
+        favored pirates.
+    - name: Giant Slayer Greatsword
+      rarity: rare
+      flavor: >-
+        This immense weapon is fashioned from crudely-forged black iron with an
+        unfinished, translucent white stone set in the pommel—engraved with the rune
+        *Dod* (death).
+    - name: Halberd, +1
+      rarity: uncommon
+      properties:
+        - Gleaming
+      flavor: >-
+        This slender piece of white wood is polished to a high shine and tipped with
+        a silver-and-gold filigree blade. This item never gets dirty.
+    - name: Longbow, +2
+      rarity: rare
+      flavor: >-
+        The shaft of this exquisite longbow is patterned with maps of famous rivers
+        that pass through the Moonshae Isles. If the names of one of these rivers are
+        said aloud, the bow issues forth the sound of rushing water when an arrow is loosed.
+    - name: Periapt of Wound Closure
+      rarity: uncommon
+      flavor: >-
+        This wide, leather choker is set with a blood-red stone the size of a man’s
+        fist. The stone glows with a faint red light that pulses in time with the
+        wearer’s heartbeat.
+    - name: Ring of Shooting Stars
+      rarity: veryRare
+      flavor: >-
+        This ring appears to be made of pure light with motes of twinkling radiance
+        dancing around within. When used, rainbow-colored sparks dance around the
+        wearer’s hand.
+    - name: Ring of Spell Storing
+      rarity: rare
+      flavor: >-
+        The head of this ring is fashioned like a lidded dwarven tankard. The wearer
+        can use their thumb to lift the tankard’s hinged lid, unleashing the magic
+        bound within.
+    - name: Staff of Thunder and Lightning
+      rarity: veryRare
+      flavor: >-
+        This giant-sized quarterstaff is shaped like a bolt of lightning, and
+        automatically resizes to fit the hands of its wielder.
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Supreme Healing
+      rarity: rare
+      consumable: true
+      count: 1

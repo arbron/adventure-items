@@ -1,0 +1,1046 @@
+- code: DDAL04-01
+  name: Suits of the Mist
+  description: >-
+    Strange things are afoot in the Moonsea. The factions have called all those
+    willing and able to investigate strange occurrences in the region
+    surrounding Phlan. Dark whispers and unseen terrors lurk in the misty
+    shadows between this world and someplace much more sinister. Unveil the
+    horrors before it is too late!
+  released: '2016-03-15'
+  url: 'https://www.dmsguild.com/product/177576/DDAL401-Suits-of-the-Mists-5e'
+  tier: 1
+  length: 5x1
+  apl: 1
+  credits:
+    - name: Shawn Merwin
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 250-1250
+  items:
+    - name: Holy water (flask)
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 3
+    - name: Spell Scroll of Protection from Evil and Good
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Aya Knows What You Did
+      description: >-
+        At some point during the adventure, you kept something valuable that
+        didn’t belong to you, and a rather powerful mage found out. Returning
+        the gems (or their equivalent value) removes this story award. This may
+        have implications in future adventures.
+    - name: The Demiplane of Dread
+      description: >-
+        You have traversed the mists and now find yourself in the Demiplane of
+        Dread and, until this story award is removed, you are unable to leave.
+        So long as you are trapped, you cannot participate in any adventure or
+        event that takes place outside of Barovia. Tread carefully during your
+        time here, the Dark Powers are watching.
+    - name: A Fine, Feathered Friend
+      description: |-
+        Having befriended the strange raven Esselios, if you are capable of
+        casting *find familiar* you may take the talkative raven in that role.
+        In addition to the other benefits of having a familiar, Esselios offers
+        the following:
+
+        - His Intelligence is 4 (‐3) and he can speak Orc and Elvish in addition
+        to Common.
+        - He grants advantage on checks regarding Orc history, religion, and
+        culture.
+        - He sometimes gets moody and petulant, muttering to himself in a
+        language no one understands—even through the use of *comprehend
+        languages*.
+      type: familiar
+
+
+- code: DDAL04-02
+  name: The Beast
+  description: >-
+    Something strange is afoot within the Quivering Forest. So much so that even
+    the elves of Greenhall have left their homes to seek out help from their
+    newfound neighbors. But, their tales of a strange beast are not earning them
+    any favors; especially among the Vistani, whom the elves suspect are to
+    blame for their ills. Return once more to the Quivering Forest and learn the
+    terrifying truth!
+  released: '2016-04-05'
+  url: 'https://www.dmsguild.com/product/178793/DDAL0402-The-Beast-5e'
+  tier: 1
+  length: 2
+  apl: 2
+  credits:
+    - name: Alan Patrick
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 672
+  items:
+    - name: Whip of Warning
+      rarity: uncommon
+      flavor: >-
+        This whip is fashioned from a length of rotting, thorn-covered vine set
+        into a handle made of an unusual purple wood. The pommel is a large chunk
+        of unpolished amber with a moving eyeball trapped within.
+    - name: Spell Scroll of Create Bonfire
+      rarity: common
+      consumable: true
+      count: 3
+  storyAwards:
+    - name: The Demiplane of Dread
+      description: >-
+        You have traversed the mists and now find yourself in the Demiplane of
+        Dread and, until this story award is removed, you are unable to leave.
+        So long as you are trapped, you cannot participate in any adventure or
+        event that takes place outside of Barovia. Tread carefully during your
+        time here, the Dark Powers are watching.
+
+
+- code: DDAL04-03
+  name: The Executioner
+  description: >-
+    The locals are spreading rumors of the emergence of an age-old relic in a
+    remote farming village. Surely you won’t be the only one to seek it, but can
+    you afford to not be successful in this mission? And why haven’t they
+    claimed it for themselves?
+  released: '2016-04-05'
+  url: 'https://www.dmsguild.com/product/178794/DDAL0403-The-Executioner-5e'
+  tier: 1
+  length: 2
+  apl: 3
+  credits:
+    - name: Jerry LeNeave
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 300
+  items:
+    - name: Wolfskin Cap (Hat of Disguise)
+      rarity: uncommon
+      flavor: >-
+        This thick and fuzzy hat is actually a *hat of disguise*, and looks
+        incredibly comfortable. While it allows the wearer to cast *disguise self*
+        at-will, the power is limited in that it only disguises the wearer as a
+        plain-looking brown-haired human male in his late twenties. However, while
+        so disguised, the wearer is hidden from spells abilities that would detect
+        its true nature (such as *divine sense*).
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 3
+  storyAwards:
+    - name: The Demiplane of Dread
+      description: >-
+        You have traversed the mists and now find yourself in the Demiplane of
+        Dread and, until this story award is removed, you are unable to leave.
+        So long as you are trapped, you cannot participate in any adventure or
+        event that takes place outside of Barovia. Tread carefully during your
+        time here, the Dark Powers are watching.
+
+
+- code: DDAL04-04
+  name: The Marionette
+  description: >-
+    A Vistani fortuneteller has called you out by name during the Burgomaster’s
+    private reading. She raved of an army of the dead, a delicate powderbox, and
+    a beautiful yet dangerous woman. Now the Burgomaster wants to know why
+    you’re more important than he is…
+  released: '2016-04-05'
+  url: 'https://www.dmsguild.com/product/178795/DDAL0404-The-Marionette-5e'
+  tier: 1
+  length: 4
+  apl: 3
+  credits:
+    - name: Robert Alaniz
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 1070
+  items:
+    - name: Eyes of Charming
+      rarity: uncommon
+      flavor: >-
+        These glasses sport lenses of brilliant amber with slender slivers of
+        green glass resembling the vertical pupils of a serpent’s eyes. If the
+        wearer is evil, they may choose to impose disadvantage on the effect’s
+        saving throw. Once this feature of the glasses has been used, it can’t
+        be used again until the following dawn.
+    - name: Acid (vial)
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Alchemist’s fire (flask)
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Potion of Climbing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 5
+    - name: Spell Scroll of Animate Dead
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Demiplane of Dread
+      description: >-
+        You have traversed the mists and now find yourself in the Demiplane of
+        Dread and, until this story award is removed, you are unable to leave.
+        So long as you are trapped, you cannot participate in any adventure or
+        event that takes place outside of Barovia. Tread carefully during your
+        time here, the Dark Powers are watching.
+    - name: Eye of the Raven
+      description: >-
+        You have aided a member of the mysterious and elusive Order of the
+        Feather. Somewhere, a bird is thinking fondly of you.
+    - name: Trust of the Burgomaster
+      description: >-
+        You have aided the Burgomaster of Orașnou. News travels fast. You gain
+        advantage on ability checks that involve negotiations with any
+        Burgomaster in Barovia.
+    - name: Ire of the Burgomaster
+      description: >-
+        You have slighted the Burgomaster of Orașnou. News travels fast. You
+        gain disadvantage on ability checks that involve negotiations with any
+        Burgomaster in Barovia.
+
+
+- code: DDAL04-05
+  name: The Seer
+  description: >-
+    The time has come to venture beyond the village of Orașnou and explore the
+    realm of Barovia. However, in your travels, you happen across an unusual
+    tribe of people—distrusted denizens of the Demiplane of Dread. Do the
+    Vistani truly possess the ability to see the future, or is it simple parlor
+    tricks and deceit?
+  released: '2016-04-05'
+  url: 'https://www.dmsguild.com/product/178796/DDAL0405-The-Seer-5e'
+  tier: 1
+  length: 2
+  apl: 4
+  credits:
+    - name: Ron Lundeen
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 400
+  items:
+    - name: Wind Fan
+      rarity: uncommon
+      flavor: >-
+        This fan is made of thin, brittle parchment glued over sharpened iron tines.
+        When used, the wind issuing from this fan is bone-chillingly cold and carries
+        the sickly-sweet stench of rotting flesh. The fan can be used as a weapon; it
+        is treated as a non- magical short sword (dealing slashing damage) when it is
+        open, or as a non-magical club when it is closed. 
+  storyAwards:
+    - name: Cunning Insight
+      description: >-
+        The Vistani are quite good at reading people. If you spend 10 downtime
+        days learning from the Vistani, you may invoke it at any point in the
+        future, granting advantage to all attack rolls made during your turn.
+        Remove this story award from your logsheet once it’s been used.
+      type: downtime
+    - name: The Demiplane of Dread
+      description: >-
+        You have traversed the mists and now find yourself in the Demiplane of
+        Dread and, until this story award is removed, you are unable to leave.
+        So long as you are trapped, you cannot participate in any adventure or
+        event that takes place outside of Barovia. Tread carefully during your
+        time here, the Dark Powers are watching.
+    - name: Trackless Travel
+      description: >-
+        Some Vistani know secrets to conceal their passage through the
+        wilderness. If you spend 10 downtime days learning these secrets, you
+        can apply them during future travel. For one day you choose in the
+        future, each creature you choose within 30 feet of you (including you)
+        can’t be tracked except by magical means and leaves behind no tracks nor
+        other traces of its passage. Remove this story award from your logsheet
+        once it’s been used.
+      type: downtime
+
+
+- code: DDAL04-06
+  name: The Ghost
+  description: >-
+    Old hatreds die hard, but sometimes it is necessary to set aside petty,
+    personal disagreements for the greater good. The hag, Jeny Greenteeth, is
+    wise and may prove instrumental in the troubles that lay ahead. Your task
+    will not be easy, however; the dark forces of Barovia have agents
+    everywhere, and eyes from beyond the grave no doubt watch your every move.
+  released: '2016-05-03'
+  url: 'https://www.dmsguild.com/product/182769/DDAL0406-The-Ghost-5e'
+  tier: 1
+  length: 4
+  apl: 4
+  credits:
+    - name: Ken Hart
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 310
+  items:
+    - name: Boots of Elvenkind
+      rarity: uncommon
+      flavor: >-
+        These light boots are made of supple, green leather and accented with dead
+        leaves. They are constantly covered in muck as if the wearer had been walking
+        through ankle‐deep, bloody gore. No amount of cleaning (magical or otherwise)
+        removes the filth.
+    - name: Antitoxin (vial)
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Resistance (Cold)
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Detect Thoughts
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Demiplane of Dread
+      description: >-
+        You have traversed the mists and now find yourself in the Demiplane of
+        Dread and, until this story award is removed, you are unable to leave.
+        So long as you are trapped, you cannot participate in any adventure or
+        event that takes place outside of Barovia. Tread carefully during your
+        time here, the Dark Powers are watching.
+    - name: Enmity of Jeny Greenteeth
+      description: >-
+        You don’t cross a hag like Jeny and get away without paying the price.
+        For so long as you possess this story award, Jeny charges you 50% more
+        for any spellcasting services that she provides. In addition, you may
+        not use the alternate methods of payment detailed in the *Adventurers
+        League Dungeon Master’s Guide*.
+    - name: Escape from the Demiplane of Dread
+      description: >-
+        You have been escorted out of Barovia by a family of Vistani. The trip
+        is long and arduous, however. Once free, however, you must spend **80
+        downtime days** traversing the width and breadth of Faerûn in search of
+        the mysterious mists if you wish to return to Barovia. Once you have
+        returned, you once more regain **The Demiplane of Dread** story award
+        and must find a new way out of Barovia.
+
+
+- code: DDAL04-07
+  name: The Innocent
+  description: >-
+    The mists have led you deep into Glumpen Swamp to a den of great evil.
+    Within, the unliving son of an unliving god awaits the peace of death that
+    eternally eludes him. Will you grant him his rest, or realize the part he is
+    to play in things to come?
+  released: '2016-05-03'
+  url: 'https://www.dmsguild.com/product/182770/DDAL0407-The-Innocent-5e'
+  tier: 2
+  length: 4
+  apl: 5
+  credits:
+    - name: Michael E. Shea
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 2000
+  items:
+    - name: Cape of the Mountebank
+      rarity: rare
+      flavor: >-
+        This long cape is made of light-grey silk trimmed in coarse, black fur.
+        Although it is obviously of high quality, it appears tattered and worn.
+        Instead of smoke, a cloud of stale dust is left behind when the wearer
+        disappears.
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Flame Strike
+      rarity: rare
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Brass-Ring Spellbook
+      flavor: >-
+        The spellbook consists of a thick brass ring holding a number of brass plates.
+      spells:
+        - name: fog cloud
+          level: 1
+        - name: mage armor
+          level: 1
+        - name: shield
+          level: 1
+        - name: blindness/deafness
+          level: 2
+        - name: crown of madness
+          level: 2
+        - name: hold person
+          level: 2
+        - name: suggestion
+          level: 2
+        - name: fear
+          level: 3
+        - name: hypnotic pattern
+          level: 3
+        - name: greater invisibility
+          level: 4
+        - name: Bigby’s hand
+          level: 5
+        - name: mislead
+          level: 5
+  storyAwards:
+    - name: The Demiplane of Dread
+      description: >-
+        You have traversed the mists and now find yourself in the Demiplane of
+        Dread and, until this story award is removed, you are unable to leave.
+        So long as you are trapped, you cannot participate in any adventure or
+        event that takes place outside of Barovia. Tread carefully during your
+        time here, the Dark Powers are watching.
+
+
+- code: DDAL04-08
+  name: The Broken One
+  description: >-
+    The village of Orașnou is buried in winter’s snows and facing starvation. An
+    unseen beast has ravaged the livestock culled to pay Lord Strahd’s tax and
+    the village is thrown into panic and chaos. Can you find the monster and
+    save the village from starvation, or worse?
+  released: '2016-05-03'
+  url: 'https://www.dmsguild.com/product/182771/DDAL0408-The-Broken-One-5e'
+  tier: 2
+  length: 2
+  apl: 5
+  credits:
+    - name: Joshua Kelly
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 355
+  items:
+    - name: Ring of Spell Storing
+      rarity: rare
+      properties:
+        - Harmonious
+      flavor: >-
+        The ring it appears to be a plain gold band, though tarnished and chipped.
+        When the wearer casts an arcane spell they feel cold and faint of breath
+        (an unsettling experience that causes no damage or condition change).
+        A character may attune to this item in 1 minute.
+  storyAwards:
+    - name: The Demiplane of Dread
+      description: >-
+        You have traversed the mists and now find yourself in the Demiplane of
+        Dread and, until this story award is removed, you are unable to leave.
+        So long as you are trapped, you cannot participate in any adventure or
+        event that takes place outside of Barovia. Tread carefully during your
+        time here, the Dark Powers are watching.
+    - name: You Murderer!
+      description: >-
+        You have killed a local villager. As a result, you are distrusted (and
+        likely even hated) by the survivors of Eugen’s attacks. For so long as
+        you possess this story award, all of your Charisma (Deception or
+        Perception) checks against a local of Orașnou are made with
+        disadvantage. Additionally, all prices for any purchases or services in
+        the village are doubled.
+
+
+- code: DDAL04-09
+  name: The Tempter
+  description: >-
+    The people of Orașnou are desperate. The village is on the brink of
+    starvation and has little chance of surviving the harsh winter. Even if they
+    had enough food and supplies, Lord Strahd’s taxes are due, and the ruler of
+    Barovia does not accept excuses as payment. The Burgomaster and others in
+    the village have recently learned of a wealthy estate that might have enough
+    resources to solve both of Orașnou’s problems. It is a temptation he cannot
+    afford to resist or can he?
+  released: '2016-06-07'
+  url: 'https://www.dmsguild.com/product/184342/DDAL0409-The-Tempter-5e'
+  tier: 2
+  length: 2
+  apl: 5
+  credits:
+    - name: M. Sean Molley
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 6060
+  items:
+    - name: Glamoured Studded Leather
+      rarity: rare
+      flavor: >-
+        Any illusion of normal clothing and other types of armor created by this item
+        can appear only to be of the finest quality. No matter what form it takes,
+        when you wear this item, your appearance draws the eye of those around you.
+        In its natural state, this armor is tight and immodestly cut.
+    - name: Spell Scroll of Mass Cure Wounds
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Cursed by Greed
+      description: >-
+        Blinded by greed, you have been cursed by an ancient family. Because of
+        this, you are affected by a permanent *bestow curse*. While so cursed,
+        you have disadvantage on ability checks and saving throws made with an
+        ability score determined randomly by the Dungeon Master. This curse can
+        only be removed by spending 10 downtime days returning the Fidatov
+        family treasure to the crypt or by leaving the Demiplane of Dread.
+    - name: The Demiplane of Dread
+      description: >-
+        You have traversed the mists and now find yourself in the Demiplane of
+        Dread and, until this story award is removed, you are unable to leave.
+        So long as you are trapped, you cannot participate in any adventure or
+        event that takes place outside of Barovia. Tread carefully during your
+        time here, the Dark Powers are watching.
+
+
+- code: DDAL04-10
+  name: The Artifact
+  description: >-
+    An expedition to the Amber Temple reveals another major minion of the enemy
+    and uncovers a secret weapon that may help defeat them.
+  released: '2016-06-07'
+  url: 'https://www.dmsguild.com/product/184341/DDAL0410-The-Artifact-5e'
+  tier: 2
+  length: 4
+  apl: 6
+  credits:
+    - name: Teos Abadia
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 2390
+  items:
+    - name: Driftglobe
+      rarity: uncommon
+    - name: Wand of Binding
+      rarity: rare
+      flavor: >-
+        This wand it made of a piece of amber carved to look like strands of rope
+        entwined around a skeletal hand with the index finger outstretched. The
+        owner’s dreams are plagued by nightmares of being buried alive and leaving
+        important things left unfinished.
+    - name: Scroll of Protection (Plants)
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Scroll of Protection (Poison)
+      rarity: rare
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Handmade Spellbook
+      spells: []
+      note: >-
+        Spellbook will be constructed with up to ten spells from the same school
+        from the wizard’s spell list as requested by the player.
+  storyAwards:
+    - name: The Demiplane of Dread
+      description: >-
+        You have traversed the mists and now find yourself in the Demiplane of
+        Dread and, until this story award is removed, you are unable to leave.
+        So long as you are trapped, you cannot participate in any adventure or
+        event that takes place outside of Barovia. Tread carefully during your
+        time here, the Dark Powers are watching.
+    - name: Is That a Dead Wizard in Your Pocket?
+      description: >-
+        You are playing host to the spirit of a long dead—and rather
+        eccentric—ghost. While the ghost does not control you, you pick up some
+        of its characteristics. As long as you have this story award, you gain a
+        personality trait, ideal, bond, or flaw of your choice that reflects the
+        ghost’s subtle influence on your personality. You may remove this story
+        award at any time by informing the ghost that he or she is no longer
+        welcome (politely or otherwise).
+
+
+- code: DDAL04-11
+  name: The Donjon
+  description: >-
+    The village of Orașnou is panicked when a group of Bloodhand orcs appear at
+    the edge of the woods. They bring news and an unusual request that reveals a
+    new foe.
+  released: '2016-06-07'
+  url: 'https://www.dmsguild.com/product/184344/DDAL0411-The-Donjon-5e'
+  tier: 2
+  length: 4
+  apl: 6
+  credits:
+    - name: Ash Law
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 4203
+  items:
+    - name: Dagger of Venom
+      rarity: rare
+      properties:
+        - Sentinel
+      flavor: >-
+        This dagger is forged to appear as a knot of vipers, their tails becoming
+        the pointed blade and heads agape forming the hilt and guard. The wielder
+        hears the sound of hissing snakes when within 120 feet of poison or a
+        venomous creature.
+    - name: Gemstone Necklace
+      rarity: common
+      flavor: >-
+        This gemstone at the center of this rather homely necklace glows as a
+        *light* spell.
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Demiplane of Dread
+      description: >-
+        You have traversed the mists and now find yourself in the Demiplane of
+        Dread and, until this story award is removed, you are unable to leave.
+        So long as you are trapped, you cannot participate in any adventure or
+        event that takes place outside of Barovia. Tread carefully during your
+        time here, the Dark Powers are watching.
+
+
+- code: DDAL04-12
+  name: The Raven
+  description: >-
+    The Bloodhand orcs have a prisoner that may hold the answers to the strange
+    goings on and the key to stopping the enemy. What can you do to convince
+    them to hand the prisoner over?
+  released: '2016-07-05'
+  url: 'https://www.dmsguild.com/product/186783/DDAL0412-The-Raven-5e'
+  tier: 2
+  length: 2
+  apl: 7
+  credits:
+    - name: Matt Hudson
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 1456
+  items:
+    - name: Bonds of Fear (Dimensional Shackles)
+      rarity: rare
+      flavor: >-
+        These chains are etched with twisted screaming faces and clouds of fog.
+        When placed upon a victim, they are enveloped in mist an inch thick that
+        dampens hearing and vision passing through it. The victim is only
+        peripherally aware of the world around them and even their loudest screams
+        can be heard only as the softest of whispers. Occasionally shadowy forms
+        can be seen moving through the mist, as if the victim were not alone.
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Alarm
+      rarity: common
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Bird’s Eye View
+      description: >-
+        Time spent upon the heights of Rookscrag give you a new perspective on
+        the surrounding countryside. If you spend 10 downtime days meditating
+        upon the summit, you may later spend an action to gain the one-time
+        effects of a *commune with nature* spell. Remove this story award from
+        your logsheet once it’s been used.
+      type: downtime
+    - name: The Demiplane of Dread
+      description: >-
+        You have traversed the mists and now find yourself in the Demiplane of
+        Dread and, until this story award is removed, you are unable to leave.
+        So long as you are trapped, you cannot participate in any adventure or
+        event that takes place outside of Barovia. Tread carefully during your
+        time here, the Dark Powers are watching.
+    - name: Friends in High Places
+      description: >-
+        The ravens of Rookscrag share many secrets with those able to tease out
+        their meaning. If you spend 10 downtime days listening to the cackling
+        of ravens, you may later spend an action to gain the one-time effects of
+        a *legend lore* spell. Remove this story award from your logsheet once
+        it’s been used.
+      type: downtime
+
+
+- code: DDAL04-13
+  name: The Horseman
+  description: >-
+    An unknown force is inciting the people and creatures of the idyllic
+    Greenhall to commit horrific acts of murder and carnage. Can the adventurers
+    quell the towering rage of the rampaging Horseman?
+  released: '2016-07-05'
+  url: 'https://www.dmsguild.com/product/186786/DDAL0413-The-Horseman-5e'
+  tier: 2
+  length: 2
+  apl: 7
+  credits:
+    - name: Daniel Helmick
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 1350-5700
+  items:
+    - name: Ring of Animal Influence
+      rarity: rare
+      flavor: >-
+        This ring is decorated with canid and raptor symbols. The wearer feels
+        predatory urges and desires a diet of fresh meat.
+    - name: Potion of Flying
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Water Breathing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Water Walk
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: The Demiplane of Dread
+      description: >-
+        You have traversed the mists and now find yourself in the Demiplane of
+        Dread and, until this story award is removed, you are unable to leave.
+        So long as you are trapped, you cannot participate in any adventure or
+        event that takes place outside of Barovia. Tread carefully during your
+        time here, the Dark Powers are watching.
+    - name: Impression of Obsession
+      description: >-
+        You have been subjected to the spiritual impressions of a witch called
+        Esmae Amarantha. Though you aren’t sure how, you have been told that the
+        impressions will be enough for you to harness the power of an ancient
+        locket to somehow sap the witch of her power.
+    - name: Quivering with Anger
+      description: >-
+        You stood idle by while elves of the Quivering Forest were slaughtered
+        by animated plants. Because of this, those that survived have broken
+        their pact with the hag, Jeny Greenteeth. In her anger, she forevermore
+        refuses to provide you with any spellcasting services.
+
+
+- code: DDAL04-14
+  name: The Dark Lord
+  description: >-
+    The enemy is revealed, but time short and if you are not successful in your
+    mission to Mount Baratok, love will never die.
+  released: '2016-07-05'
+  url: 'https://www.dmsguild.com/product/186787/DDAL0414-The-Darklord-5e'
+  tier: 2
+  length: 4
+  apl: 8
+  credits:
+    - name: Greg Marks
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 2595
+  items:
+    - name: Bracers of Defense
+      rarity: rare
+      flavor: >-
+        These leather bracers are stitched with a symbol of an open hand, bloodlessly
+        pierced through the palm with a heart shaped hole. The bracers fill the
+        wearer with the belief that that is love eternal, regardless of creed,
+        nationality, or vital signs.
+    - name: Potion of Animal Friendship
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Healing
+      rarity: common
+      consumable: true
+      count: 2
+    - name: Spell Scroll of Lesser Restoration
+      rarity: uncommon
+      consumable: true
+      count: 1
+  spellbooks:
+    - name: Witch’s Spellbook
+      flavor: >-
+        This spellbook is covered in red leather and decorated with an impression of a
+        wolf's and a raven's head.
+      spells:
+        - name: ray of sickness
+          level: 1
+        - name: sleep
+          level: 1
+        - name: Tasha’s hideous laughter
+          level: 1
+        - name: alter self
+          level: 2
+        - name: invisibility
+          level: 2
+    - name: Esmae’s Spellbook
+      flavor: >-
+        This spellbook is covered in black velvet over metal plates. The writing inside
+        appears to be in blood.
+      spells:
+        - name: charm person
+          level: 1
+        - name: magic missile
+          level: 1
+        - name: shield
+          level: 1
+        - name: witch bolt
+          level: 1
+        - name: crown of madness
+          level: 2
+        - name: misty step
+          level: 2
+        - name: counterspell
+          level: 3
+        - name: dispel magic
+          level: 3
+        - name: fireball
+          level: 3
+        - name: hypnotic pattern
+          level: 3
+        - name: lightning bolt
+          level: 3
+        - name: blight
+          level: 4
+        - name: Evard’s black tentacles
+          level: 4
+        - name: polymorph
+          level: 4
+        - name: cloudkill
+          level: 5
+        - name: disintegrate
+          level: 6
+        - name: finger of death
+          level: 7
+  storyAwards:
+    - name: The Demiplane of Dread
+      description: >-
+        You have traversed the mists and now find yourself in the Demiplane of
+        Dread and, until this story award is removed, you are unable to leave.
+        So long as you are trapped, you cannot participate in any adventure or
+        event that takes place outside of Barovia. Tread carefully during your
+        time here, the Dark Powers are watching.
+    - name: Escape from the Demiplane of Dread
+      description: |-
+        You are free of the Demiplane of Dread and may remove the **The
+        Demiplane of Dread** story award. If you later return to Barovia, you
+        regain the story award again and must find a new way out.
+
+        If you have the **Touched by the Mists** story award, you fall into a
+        magical coma upon returning and lose 10 downtime days for each dark gift
+        you possess. You must pay life style for each of these days once you
+        awake to eat, repair gear, etc., from while you were out. Upon waking
+        (if you ever do…), you lose the **Touched by the Mists** story award.
+    - name: The True Meaning of Love
+      description: >-
+        You have defeated Esmae Amarantha and once again caged the Evening
+        Glory. You are true warrior of fate and love and are marked as such. You
+        gain advantage on Charisma checks made with followers of the goddess
+        Sûne. You may cross this favor out to succeed on a saving throw against
+        a charm effect that you have failed.
+
+
+- code: DDEP04
+  name: Reclamation of Phlan
+  description: >-
+    For too long, the Maimed Virulence has held Phlan in its grasp. The factions
+    have begun to muster and sounded the call to battle throughout the Moonsea.
+    Allies new and old will be called upon to aid in their attempts to reclaim
+    the ancient town. Are you one of the few bold enough to answer the call to
+    battle?
+  released: '2016-02-02'
+  tier: [1, 2, 3]
+  length: 4
+  apl: [3, 8, 12]
+  credits:
+    - name: Will Doyle
+      role: Adventure Designer
+      key: true
+    - name: Claire Hoffman
+      role: Development and Editing
+    - name: Greg Marks
+      role: Development and Editing
+    - name: Travis Woodall
+      role: Development and Editing
+  gold: 80-960
+  items:
+    - name: Half Plate Armor, +1
+      rarity: rare
+      flavor: >-
+        This black enameled armor has a splash of green paint across the breastplate.
+        No amount of cleaning will remove it; even magical attempts to remove the
+        black or green paint prove useless. Any creature familiar with the Tears of
+        Virulence are likely to treat the armor's wearer with suspicion.
+    - name: Nettle (Hand Crossbow, +2)
+      rarity: rare
+      properties:
+        - Guardian
+      flavor: |-
+        This hand crossbow looks to have seen better times. The wood is cracked and
+        splintered and the string is heavily-frayed. A large, blue feather hangs from
+        the handgrip alongside a couple green, glass baubles. The crossbow whispers
+        warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't 
+        incapacitated.
+
+        ***Sentience.*** Nettle is a sentient chaotic neutral weapon with an
+        Intelligence of 15, a Wisdom of 10, and a Charisma of 14. It has hearing and
+        darkvision out to a range of 120 feet. Nettle speaks Common and Halfling.
+
+        ***Personality.*** Nettle is greedy and impetuous, and prefers that its
+        wielder share these ideals. It demands to be better taken care of than its
+        previous owners did. If its bearer is lawfully-aligned, or if its bearer does
+        not spend at least an hour each day tending to it (polishing, applying resin
+        to the string, etc.), Nettle denies its bonuses to attack and damage rolls
+        and initiative checks. It also shouts out insults to those nearby, imposing
+        disadvantage on any Charisma (Deception or Persuasion) checks or Dexterity
+        (Stealth) check that its wielder makes to move silently.
+    - name: Skyfist (Dwarven Thrower)
+      rarity: veryRare
+      flavor: >-
+        The striking surface of this hammer has been forged into the shape of a
+        gauntleted fist. The haft is a rod of heavy, black adamantine and wrapped in
+        what appears to be spongy, green leather. Affixed to an iron ring on the pommel
+        is a strip of tattered (though indestructible) blood-stained parchment inscribed
+        with a dwarven battle canticle. When used in battle the hammer reads the canticle
+        aloud in a deep, resonating voice audible to anyone within 30 feet of the weapon.
+    - name: Staff of Healing
+      rarity: rare
+      flavor: >-
+        The smooth wood of this ordinary-looking staff is pale, and streaked with
+        multi-colored veins. The staff is capped with a hollow, glass sphere that
+        creates an illusory holy symbol of whichever deity the wielder worships.
+        Luminescent butterflies flit around the staff's cap and while in possession
+        of the staff, the wilder feels fortunate and optimistic about what the
+        future holds.
+    - name: Staff of Power
+      rarity: veryRare
+      properties:
+        - Language
+      flavor: >-
+        This staff is carved from a single piece of an unusual, purple wood and topped
+        with a clenched, mithral claw. The claw clutches a green dragon scale the size
+        of a small plate engraved with the elven word for *“Oblivion”*. The rune glows
+        with a pale, green light and emits wisps of choking, caustic mist. Whoever is
+        attuned the staff is able to speak, read, and write Draconic.
+    - name: Stone of Good Luck (Luckstone)
+      rarity: uncommon
+      flavor: >-
+        The center of this fist-sized emerald appears to be hollow and filled with a
+        viscous, green liquid. When agitated, the gem becomes warm.
+    - name: Holy water (flask)
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Potion of Animal Friendship
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Greater Healing
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Potion of Heroism
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Invisibility
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Potion of Supreme Healing
+      rarity: veryRare
+      consumable: true
+      count: 1
+    - name: Scroll of Protection (Undead)
+      rarity: rare
+      consumable: true
+      count: 1
+  storyAwards:
+    - name: Friend of the Griffons
+      description: |-
+        You’ve earned the respect of a griffon of the Earthspur Mountains. These
+        proud beasts nest high in the crags, tended by Emerald Enclave rangers.
+        Your griffon mount travels with you as a trusted friend and ally.
+
+        The griffon answers to any name you choose. To keep it fed, you must provide
+        it with living horseflesh. Increase your lifestyle expenses by 5gp per downtime
+        day. This covers the expense of buying a draft horse every tenday to feed to
+        your griffon. If you can’t afford to feed the griffon, it returns to the
+        Eathspur Mountains and never returns.
+      type: pet
+    - name: Hero of the Welcomers
+      description: >-
+        Working alongside the Welcomers—Phlan’s thieves-turned-freedom
+        fighters—you rid the town of its evil dragon overlord. The Welcomers are
+        forever in your debt. Inside Phlan, you enjoy a Comfortable lifestyle
+        without any expense.
+    - name: Touched by the Mists
+      description: >-
+        The Dark Powers of Ravenloft raised you from the dead for purposes
+        unknown. The experience has placed a heavy burden on your soul, leaving
+        you tainted by evil. Now cats hiss as you approach, and milk sours in
+        your wake.

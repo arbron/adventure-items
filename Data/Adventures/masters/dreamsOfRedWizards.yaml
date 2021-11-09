@@ -513,7 +513,18 @@
 
 - code: DDAL-DRW-13
   name: Night Thieves
+  description: >-
+    Intelligence en route to a secret Thayan base is passing through the embassy in
+    Mulmaster. You have just two days to plan and execute a heist or lose your shot
+    at the information forever.
+  contentWarning: >-
+    oppressive government, grave desecration (mention), mass murder, corporal
+    punishment (amputation), execution (hang, quarter, burn), gore
+  released: '2021-11-09'
+  url: 'https://www.dmsguild.com/product/376808/DDALDRW13-Night-Thieves'
   tier: 2
+  length: 4
+  apl: 8
   credits:
     - name: Laura Thompson
       role: Designer
@@ -526,7 +537,17 @@
 
 - code: DDAL-DRW-14
   name: The City That Should Not Be
+  description: >-
+    Agents of the Red Wizards have come north in force and are excavating the buried
+    city of Xorvintroth. You’re tasked with getting inside the city and finding a safe
+    place from which the Harpers and their allies can spy on the Thayan operations.
+  contentWarning: >-
+    slavery, abduction (mention)
+  released: '2021-11-09'
+  url: 'https://www.dmsguild.com/product/376810/DDALDRW14-The-City-That-Should-Not-Be'
   tier: 3
+  length: 4
+  apl: 13
   credits:
     - name: Jay Anderson
       role: Designer

@@ -1,4 +1,32 @@
 # Dreams of Red Wizards
+- slug: sea-of-fallen-stars
+  name: Sea of Fallen Stars
+  adventures:
+    - code: DDAL-DRW-01
+      position: 1
+    - code: DDAL-DRW-02
+      position: 2
+    - code: DDAL-DRWEP-01
+    - code: DDAL-DRW-03
+      position: 3
+
+
+- slug: storm-kings-descent
+  name: Storm King’s Descent
+  adventures:
+    - code: DDAL-DRW-04
+      position: 1
+    - code: DDAL-DRW-05
+      position: 2
+    - code: DDAL-DRW-06
+      position: 3
+    - code: DDAL-DRW-07
+      position: 4
+    - code: DDAL-DRWEP-02
+    - code: DDAL-DRW-08
+      position: 5
+
+
 - slug: shadow-games
   name: Shadow Games
   adventures:
@@ -6,3 +34,20 @@
       position: 1
     - code: DDAL-DRW-10
       position: 2
+    - code: DDAL-DRW-11
+      position: 3
+    - code: DDAL-DRW-12
+      position: 4
+    - code: DDAL-DRW-13
+      position: 5
+
+
+- slug: the-cold-dark
+  name: The Cold Dark
+  adventures:
+    - code: DDAL-DRW-14
+      position: 1
+    - code: DDAL-DRW-15
+      position: 2
+    - code: DDAL-DRW-16
+      position: 3

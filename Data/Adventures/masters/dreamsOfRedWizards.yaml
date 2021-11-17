@@ -560,7 +560,18 @@
 
 - code: DDAL-DRW-15
   name: Frozen Whispers
+  description: >-
+    Something in Xorvintroth is harming your allies at the Harper safe house. If you
+    can’t find and stop it, your mission will be over before you ever take the fight
+    to the Red Wizards.
+  contentWarning: >-
+    substance (alcohol, mention), abuse (mind control, manipulation, forced self-harm),
+    mental health (Far Realm effects), possible phobia trigger (confined spaces, suffocation).
+  released: '2021-11-16'
+  url: 'https://www.dmsguild.com/product/377557/DDALDRW15-Frozen-Whispers'
   tier: 3
+  length: 4
+  apl: 13
   credits:
     - name: Shawn Banerjee
       role: Designer

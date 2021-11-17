@@ -162,8 +162,16 @@
 
 
 - code: RMH-04
-  name: TBA
-  released: '2021-11-09'
+  name: The Amber Secret
+  released: '2021-11-10'
+  url: 'https://www.dmsguild.com/product/377048/RMH04-The-Amber-Secret'
+  description: |-
+    You’ve revealed the mastermind behind the disappearances in River’s Shelter, and confrontation
+    is imminent! But is the puppet master merely a puppet himself?
+
+    If so, who is pulling the strings and to what end?
+  contentWarning: >-
+    Swarms of insects, claustrophobic suffocation, gaslighting
   tier: 1
   apl: 4
   credits:

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Tue, 16 Nov 2021 19:34:22 -0800</lastBuildDate><pubDate>Tue, 16 Nov 2021 19:34:22 -0800</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-drw-15</guid><title>DDAL-DRW-15 - Frozen Whispers</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ddal-drw-15</link><pubDate>Mon, 15 Nov 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Frozen Whispers</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Adventure Items</title><description>Find a D&amp;D adventure to give your character the perfect piece of swag.</description><link>https://arbron.github.io/adventure-items/</link><language>en</language><lastBuildDate>Sat, 20 Nov 2021 14:21:16 -0800</lastBuildDate><pubDate>Sat, 20 Nov 2021 14:21:16 -0800</pubDate><ttl>250</ttl><atom:link href="https://arbron.github.io/adventure-items/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-drw-15</guid><title>DDAL-DRW-15 - Frozen Whispers</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ddal-drw-15</link><pubDate>Mon, 15 Nov 2021 16:00:00 -0800</pubDate><content:encoded><![CDATA[<h1>Frozen Whispers</h1>
 <h3>
 A 4 Hour Dreams of Red Wizards Adventure for Tier 3
   <em class="release">Released on November 15, 2021</em></h3>
@@ -771,7 +771,7 @@ Kat Kruger
  
     <em class="entry-label">Common</em></li></ul>
 
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-drw-11</guid><title>DDAL-DRW-11 - Shadows in the Stacks</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ddal-drw-11</link><pubDate>Mon, 13 Sep 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>Shadows in the Stacks</h1>
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-drw-11</guid><title>DDAL-DRW-11 - Shadows in the Stacks</title><description>Amulet of the Devout, +2, Mantle of Spell Resistance, Mantle of Spell Resistance, Spell Scroll of Move Earth, 2 scrolls, and a legacy event</description><link>https://arbron.github.io/adventure-items/adventures/ddal-drw-11</link><pubDate>Mon, 13 Sep 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>Shadows in the Stacks</h1>
 <h3>
 A 4 Hour Dreams of Red Wizards Adventure for Tier 2
   <em class="release">Released on September 13, 2021</em></h3>
@@ -809,9 +809,41 @@ Rich Lescouflair
     <b>
       <em>Art Director and Graphic Designer</em>
     </b></li></ul>
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Amulet of the Devout, +2</span>
+ 
+    <em class="entry-label">Rare</em></li>
+  <li>
+    <span>Mantle of Spell Resistance</span>
+ 
+    <em class="entry-label">Rare</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Locate Object</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Mantle of Spell Resistance</span>
+ 
+    <em class="entry-label">Rare</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Mending</span>
+ 
+    <em class="entry-label">Common</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Move Earth</span>
+ 
+    <em class="entry-label">Rare</em></li></ul>
 
-
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-drw-12</guid><title>DDAL-DRW-12 - To Walk the Cold Dark</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ddal-drw-12</link><pubDate>Mon, 13 Sep 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>To Walk the Cold Dark</h1>
+<h2>Legacy Events</h2>
+<details class="story-award">
+  <summary>Bonds of Fellowship
+</summary><p>You encountered these Harper agents during your time in Waterdeep: - Amri Thistlebrick - Salros Eventide - Tua</p>
+</details>]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-drw-12</guid><title>DDAL-DRW-12 - To Walk the Cold Dark</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ddal-drw-12</link><pubDate>Mon, 13 Sep 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>To Walk the Cold Dark</h1>
 <h3>
 A 4 Hour Dreams of Red Wizards Adventure for Tier 2
   <em class="release">Released on September 13, 2021</em></h3>
@@ -1178,7 +1210,7 @@ Greg Marks
  
     <em class="entry-label">Rare</em></li></ul>
 
-]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-drw-10</guid><title>DDAL-DRW-10 - Unsafe Harborage</title><description></description><link>https://arbron.github.io/adventure-items/adventures/ddal-drw-10</link><pubDate>Mon, 23 Aug 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>Unsafe Harborage</h1>
+]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-drw-10</guid><title>DDAL-DRW-10 - Unsafe Harborage</title><description>Moon Sickle, +1, Ring of X-ray Vision, a potion, a scroll, and one other item</description><link>https://arbron.github.io/adventure-items/adventures/ddal-drw-10</link><pubDate>Mon, 23 Aug 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>Unsafe Harborage</h1>
 <h3>
 A 4 Hour Dreams of Red Wizards Adventure for Tier 2
   <em class="release">Released on August 23, 2021</em></h3>
@@ -1196,7 +1228,31 @@ Martine Lassen
     <b>
       <em>Designer</em>
     </b></li></ul>
-
+<h2>Items</h2>
+<ul>
+  <li>
+    <span>Moon Sickle, +1</span>
+ 
+    <em class="entry-label">Uncommon</em></li>
+  <li>
+    <span>Ring of X-ray Vision</span>
+ 
+    <em class="entry-label">Rare</em></li>
+  <li>
+1 x 
+    <span>Elixir of Health</span>
+ 
+    <em class="entry-label">Rare</em></li>
+  <li>
+1 x 
+    <span>Potion of Superior Healing</span>
+ 
+    <em class="entry-label">Rare</em></li>
+  <li>
+1 x 
+    <span>Spell Scroll of Intellect Fortress</span>
+ 
+    <em class="entry-label">Uncommon</em></li></ul>
 
 ]]></content:encoded></item><item><guid isPermaLink="true">https://arbron.github.io/adventure-items/adventures/ddal-eb-18</guid><title>DDAL-EB-18 - Scales of War</title><description>Nolzur’s Marvelous Pigments, Weapon, +3, 2 potions, and 3 legacy events</description><link>https://arbron.github.io/adventure-items/adventures/ddal-eb-18</link><pubDate>Mon, 23 Aug 2021 17:00:00 -0700</pubDate><content:encoded><![CDATA[<h1>Scales of War</h1>
 <h3>

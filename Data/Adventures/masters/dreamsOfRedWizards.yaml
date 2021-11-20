@@ -452,9 +452,38 @@
     - name: Martine Lassen
       role: Designer
       key: true
+  items:
+    - name: Moon Sickle, +1
+      rarity: uncommon
+      flavor: >-
+        When you cast a spell that restores hit points while holding this sickle, a number of ivy leaves
+        equal to the hit points restored sprout from the haft and fall away.
+    - name: Ring of X-ray Vision
+      rarity: rare
+      flavor: >-
+        This ring bears a topaz in the shape of a jack-o’-lantern. Its command word is “pumpkin.”
+    - name: Elixir of Health
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Potion of Superior Healing
+      rarity: rare
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Intellect Fortress
+      rarity: uncommon
+      consumable: true
+      count: 1
+  storyAward:
+    - name: Bonds of Fellowship
+      description: >-
+        You encountered these Harper agents during your time in Waterdeep:
+         - Amri Thistlebrick
+         - Salros Eventide
+         - Tua
+    - name: Wanted by the Waterdeep Watch
   missing:
     - credits
-    - items
     - pdf
 
 
@@ -483,8 +512,35 @@
       role: Editor
     - name: Rich Lescouflair
       role: Art Director and Graphic Designer
+  items:
+    - name: Amulet of the Devout, +2
+      rarity: rare
+    - name: Mantle of Spell Resistance
+      rarity: rare
+      flavor: >-
+        This cloak is wrought from cloth as dark as a starless night sky.
+    - name: Spell Scroll of Locate Object
+      rarity: uncommon
+      consumable: true
+      count: 1
+    - name: Mantle of Spell Resistance
+      rarity: rare
+    - name: Spell Scroll of Mending
+      rarity: common
+      consumable: true
+      count: 1
+    - name: Spell Scroll of Move Earth
+      rarity: rare
+      conusmable: true
+      count: 1
+  storyAwards:
+    - name: Bonds of Fellowship
+      description: >-
+        You encountered these Harper agents during your time in Waterdeep:
+         - Amri Thistlebrick
+         - Salros Eventide
+         - Tua
   missing:
-    - items
     - pdf
 
 
